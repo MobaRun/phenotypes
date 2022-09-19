@@ -23,10 +23,26 @@ msis_folder = "/mnt/archive/phenotype/msis"
 sysvak_folder = "/mnt/archive/phenotype/sysvak"
 ques_folder = "/mnt/archive/phenotype/moba_covid_ques"
 
-# Output
+# Docs folders
 docs_folder = f"docs/{suffix}"
 raw_docs_folder = f"{docs_folder}/raw"
+covid_docs_folder = f"{docs_folder}/covid"
+
+# Tables folders
 tables_folder = f"/mnt/work/marc/pheno_{suffix}"
+raw_tables_folder = f"/mnt/work/marc/pheno_{suffix}/raw"
+covid_tables_folder = f"/mnt/work/marc/pheno_{suffix}/covid"
+
+# Raw tables
+mfr_raw_table = os.path.join(raw_tables_folder, 'PDB2824_MFR_541_v12.gz')
+msis_raw_table = os.path.join(raw_tables_folder, f'PDB{moba_project_number}_MSIS-data_MoBa.gz')
+child_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Barn_ID_{moba_project_number}_2021_11_17sav.gz')
+mother_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Mor_ID_{moba_project_number}_2021_11_17sav.gz')
+father_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Far_ID_{moba_project_number}_2021_11_17sav.gz')
+
+
+# Covid table
+covid_table = os.path.join(covid_tables_folder, "moba_covid_phenotypes.gz")
 
 
 ####################### Housekeeping #########################################
@@ -37,8 +53,17 @@ if not os.path.isdir(docs_folder):
 if not os.path.isdir(raw_docs_folder):
     os.mkdir(raw_docs_folder)
 
+if not os.path.isdir(covid_docs_folder):
+    os.mkdir(covid_docs_folder)
+
 if not os.path.isdir(tables_folder):
     os.mkdir(tables_folder)
+
+if not os.path.isdir(raw_tables_folder):
+    os.mkdir(raw_tables_folder)
+
+if not os.path.isdir(covid_tables_folder):
+    os.mkdir(covid_tables_folder)
 
 
 ####################### Functions ############################################
@@ -51,7 +76,8 @@ if not os.path.isdir(tables_folder):
 rule all:
     'The output of the pipeline'
     input:
-        os.path.join(raw_docs_folder,'data.md') # The raw data processing
+        os.path.join(raw_docs_folder,'data.md'), # The raw data processing
+        covid_table, # The covid table
 
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
@@ -63,10 +89,15 @@ rule raw_pheno:
         ques_folder = ques_folder
     params:
         moba_project_number = moba_project_number,
-        tables_folder = tables_folder,
+        raw_tables_folder = raw_tables_folder,
         raw_docs_folder = raw_docs_folder
     output:
-        docs_file = os.path.join(raw_docs_folder,'data.md')
+        docs_file = os.path.join(raw_docs_folder, 'data.md'),
+        mfr_raw_table = mfr_raw_table,
+        msis_raw_table = msis_raw_table,
+        child_id_mapping_raw_table = child_id_mapping_raw_table,
+        mother_id_mapping_raw_table = mother_id_mapping_raw_table,
+        father_id_mapping_raw_table = father_id_mapping_raw_table
     conda:
         "envs/r_4.1.yaml"
     threads: 1
@@ -80,7 +111,37 @@ rule raw_pheno:
             {input.ques_folder} \
             {params.tables_folder} \
             {params.raw_docs_folder} \
-            {params.moba_project_number} \
+            {params.moba_project_number}
+        """
+
+rule consolidate_covid_pheno:
+    'Consolidates the covid questionnaires into a single table'
+    input:
+        mfr_raw_table = mfr_raw_table,
+        msis_raw_table = msis_raw_table,
+        child_id_mapping_raw_table = child_id_mapping_raw_table,
+        mother_id_mapping_raw_table = mother_id_mapping_raw_table,
+        father_id_mapping_raw_table = father_id_mapping_raw_table
+    params:
+        linkage_folder = linkage_folder,
+        ques_folder = ques_folder,
+        tables_folder = tables_folder,
+        covid_docs_folder = moba_project_number,
+        raw_tables_folder = raw_tables_folder,
+        raw_docs_folder = raw_docs_folder
+    output:
+        covid_table = covid_table
+    conda:
+        "envs/r_4.1.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/scripts/consolidate_covid_phenotypes.R \
+            {params.linkage_folder} \
+            {params.ques_folder} \
+            {params.raw_tables_folder} \
+            {output.covid_table} \
+            {params.covid_docs_folder}
         """
 
 

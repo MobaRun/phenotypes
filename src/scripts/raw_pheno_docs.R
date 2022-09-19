@@ -42,15 +42,6 @@ tryCatch(
 # Paths from command line
 args <- commandArgs(TRUE)
 
-linkageFolder <- "~/archive/phenotype/mobagenetics_linkage"
-mobaQuesFolder <- "~/archive/phenotype/moba_ques"
-msisFolder <- "~/archive/phenotype/msis"
-sysvakFolder <- "~/archive/phenotype/sysvak"
-quesFolder <- "~/archive/phenotype/moba_covid_ques"
-tablesFolder <- "~/work/marc/pheno_09.02.22"
-docsFolder <- "docs/raw"
-projectNumber <- 2824
-
 linkageFolder <- args[1]
 mobaQuesFolder <- args[2]
 msisFolder <- args[3]
