@@ -17,7 +17,7 @@ suffix = '22-09-19'
 moba_project_number = 2824
 
 # Raw phenotype files
-linkage_folder = "/mnt/archive/phenotype/mobagenetics_linkage"
+linkage_folder = "/mnt/archive/linkage"
 moba_ques_folder = "/mnt/archive/phenotype/moba_ques"
 msis_folder = "/mnt/archive/phenotype/msis"
 sysvak_folder = "/mnt/archive/phenotype/sysvak"
@@ -39,6 +39,9 @@ msis_raw_table = os.path.join(raw_tables_folder, f'PDB{moba_project_number}_MSIS
 child_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Barn_ID_{moba_project_number}_2021_11_17sav.gz')
 mother_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Mor_ID_{moba_project_number}_2021_11_17sav.gz')
 father_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Far_ID_{moba_project_number}_2021_11_17sav.gz')
+child_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Child_PDB{moba_project_number}.sav.gz')
+mother_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Mother_PDB{moba_project_number}.sav.gz')
+father_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Father_PDB{moba_project_number}.sav.gz')
 
 
 # Covid table
@@ -97,7 +100,10 @@ rule raw_pheno:
         msis_raw_table = msis_raw_table,
         child_id_mapping_raw_table = child_id_mapping_raw_table,
         mother_id_mapping_raw_table = mother_id_mapping_raw_table,
-        father_id_mapping_raw_table = father_id_mapping_raw_table
+        father_id_mapping_raw_table = father_id_mapping_raw_table,
+        child_id_linkage_raw_table = child_id_linkage_raw_table,
+        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
+        father_id_linkage_raw_table = father_id_linkage_raw_table
     conda:
         "envs/r_4.1.yaml"
     threads: 1
@@ -121,7 +127,10 @@ rule consolidate_covid_pheno:
         msis_raw_table = msis_raw_table,
         child_id_mapping_raw_table = child_id_mapping_raw_table,
         mother_id_mapping_raw_table = mother_id_mapping_raw_table,
-        father_id_mapping_raw_table = father_id_mapping_raw_table
+        father_id_mapping_raw_table = father_id_mapping_raw_table,
+        child_id_linkage_raw_table = child_id_linkage_raw_table,
+        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
+        father_id_linkage_raw_table = father_id_linkage_raw_table
     params:
         linkage_folder = linkage_folder,
         ques_folder = ques_folder,

@@ -115,7 +115,7 @@ if (!dir.exists(longCovidDocsFolder)) {
 print(paste0(Sys.time(), "    Loading identifiers"))
 
 childIdDF <- read.table(
-  file = file.path(linkageFolder, "20220516_MoBaGeneticsTot_Child_PDB2824.sav.gz"),
+  file = file.path(tablesFolder, "20220516_MoBaGeneticsTot_Child_PDB2824.sav.gz"),
   sep = "\t",
   header = T,
   quote = "",
@@ -138,7 +138,7 @@ for (colname in c("sentrix_id", "role", "batch", "sampletype")) {
 }
 
 motherIdDF <- read.table(
-  file = file.path(linkageFolder, "20220516_MoBaGeneticsTot_Mother_PDB2824.sav.gz"),
+  file = file.path(tablesFolder, "20220516_MoBaGeneticsTot_Mother_PDB2824.sav.gz"),
   sep = "\t",
   header = T,
   quote = "",
@@ -160,7 +160,7 @@ for (colname in c("m_id_2824", "sentrix_id", "role", "batch", "sampletype")) {
 
 
 fatherIdDF <- read.table(
-  file = file.path(linkageFolder, "20220516_MoBaGeneticsTot_Father_PDB2824.sav.gz"),
+  file = file.path(tablesFolder, "20220516_MoBaGeneticsTot_Father_PDB2824.sav.gz"),
   sep = "\t",
   header = T,
   quote = "",
