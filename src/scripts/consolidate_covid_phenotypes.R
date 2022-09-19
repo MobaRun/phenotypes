@@ -115,7 +115,7 @@ if (!dir.exists(longCovidDocsFolder)) {
 print(paste0(Sys.time(), "    Loading identifiers"))
 
 childIdDF <- read.table(
-  file = file.path(tablesFolder, "20220516_MoBaGeneticsTot_Child_PDB2824.sav.gz"),
+  file = file.path(rawTablesFolder, "20220516_MoBaGeneticsTot_Child_PDB2824.sav.gz"),
   sep = "\t",
   header = T,
   quote = "",
@@ -138,7 +138,7 @@ for (colname in c("sentrix_id", "role", "batch", "sampletype")) {
 }
 
 motherIdDF <- read.table(
-  file = file.path(tablesFolder, "20220516_MoBaGeneticsTot_Mother_PDB2824.sav.gz"),
+  file = file.path(rawTablesFolder, "20220516_MoBaGeneticsTot_Mother_PDB2824.sav.gz"),
   sep = "\t",
   header = T,
   quote = "",
@@ -160,7 +160,7 @@ for (colname in c("m_id_2824", "sentrix_id", "role", "batch", "sampletype")) {
 
 
 fatherIdDF <- read.table(
-  file = file.path(tablesFolder, "20220516_MoBaGeneticsTot_Father_PDB2824.sav.gz"),
+  file = file.path(rawTablesFolder, "20220516_MoBaGeneticsTot_Father_PDB2824.sav.gz"),
   sep = "\t",
   header = T,
   quote = "",
@@ -1201,7 +1201,7 @@ if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
 print(glue("{Sys.time()} - Loading MBR data"))
 
 mbrDF <- read.table(
-    file = file.path(tablesFolder, "PDB2824_MFR_541_v12.gz"),
+    file = file.path(rawTablesFolder, "PDB2824_MFR_541_v12.gz"),
     sep = "\t",
     header = T,
     quote = "",
@@ -1305,7 +1305,7 @@ if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
 print(glue("{Sys.time()} - Merging with infection registry"))
 
 msisDF <- read.table(
-    file = file.path(tablesFolder, "PDB2824_MSIS-data_MoBa.gz"),
+    file = file.path(rawTablesFolder, "PDB2824_MSIS-data_MoBa.gz"),
     sep = "\t",
     header = T,
     quote = "",
@@ -1314,7 +1314,7 @@ msisDF <- read.table(
 ) %>% 
     clean_names()
 
-idMappingFile <- file.path(tablesFolder, glue("Mor_ID_2824_2021_11_17sav.gz"))
+idMappingFile <- file.path(rawTablesFolder, glue("Mor_ID_2824_2021_11_17sav.gz"))
 
 idMappingDF <- read.table(
     file = idMappingFile,
@@ -1333,7 +1333,7 @@ msisDF <- msisDF %>%
         by = "pid_k_2824"
     )
 
-idMappingFile <- file.path(tablesFolder, glue("Far_ID_2824_2021_11_17sav.gz"))
+idMappingFile <- file.path(rawTablesFolder, glue("Far_ID_2824_2021_11_17sav.gz"))
 
 idMappingDF <- read.table(
     file = idMappingFile,
@@ -1358,7 +1358,7 @@ msisDF <- msisDF %>%
         -temp_id
     )
 
-idMappingFile <- file.path(tablesFolder, glue("Barn_ID_2824_2021_11_17sav.gz"))
+idMappingFile <- file.path(rawTablesFolder, glue("Barn_ID_2824_2021_11_17sav.gz"))
 
 idMappingDF <- read.table(
     file = idMappingFile,
