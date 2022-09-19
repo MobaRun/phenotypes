@@ -109,7 +109,7 @@ rule raw_pheno:
             {input.msis_folder} \
             {input.sysvak_folder} \
             {input.ques_folder} \
-            {params.tables_folder} \
+            {params.raw_tables_folder} \
             {params.raw_docs_folder} \
             {params.moba_project_number}
         """
