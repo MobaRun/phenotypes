@@ -39,9 +39,9 @@ msis_raw_table = os.path.join(raw_tables_folder, f'PDB{moba_project_number}_MSIS
 child_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Barn_ID_{moba_project_number}_2021_11_17sav.gz')
 mother_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Mor_ID_{moba_project_number}_2021_11_17sav.gz')
 father_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Far_ID_{moba_project_number}_2021_11_17sav.gz')
-child_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Child_PDB{moba_project_number}.sav.gz')
-mother_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Mother_PDB{moba_project_number}.sav.gz')
-father_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Father_PDB{moba_project_number}.sav.gz')
+child_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Child_PDB{moba_project_number}.gz')
+mother_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Mother_PDB{moba_project_number}.gz')
+father_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Father_PDB{moba_project_number}.gz')
 
 
 # Covid table
