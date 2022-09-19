@@ -132,12 +132,8 @@ rule consolidate_covid_pheno:
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table
     params:
-        linkage_folder = linkage_folder,
-        ques_folder = ques_folder,
-        tables_folder = tables_folder,
         covid_docs_folder = moba_project_number,
-        raw_tables_folder = raw_tables_folder,
-        raw_docs_folder = raw_docs_folder
+        raw_tables_folder = raw_tables_folder
     output:
         covid_table = covid_table
     conda:
@@ -146,8 +142,6 @@ rule consolidate_covid_pheno:
     shell:
         """
         Rscript src/scripts/consolidate_covid_phenotypes.R \
-            {params.linkage_folder} \
-            {params.ques_folder} \
             {params.raw_tables_folder} \
             {output.covid_table} \
             {params.covid_docs_folder}

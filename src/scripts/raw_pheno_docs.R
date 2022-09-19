@@ -539,12 +539,24 @@ for (fileName in list.files(mobaQuesFolder)) {
         
         savDocsFile = file.path(mobaQuesDocsFolder, docsFileName)
         
+        tablesSubFolder <- file.path(tablesFolder, "moba_ques")
+        
+        if (!file.exists(tablesSubFolder)) {
+          
+          dir.create(
+            path = tablesSubFolder,
+            showWarnings = T,
+            recursive = T
+          )
+          
+        }
+        
         generateDocsSav(
             savFolder = mobaQuesFolder,
             savFileName = fileName,
             savDocsFileName = docsFileName,
             savDocsFile = savDocsFile,
-            exportFolder = tablesFolder
+            exportFolder = tablesSubFolder
         )
         
     }
@@ -588,12 +600,24 @@ for (fileName in list.files(msisFolder)) {
         
         savDocsFile = file.path(infectionRegistryDocsFolder, docsFileName)
         
+        tablesSubFolder <- file.path(tablesFolder, "msis")
+        
+        if (!file.exists(tablesSubFolder)) {
+          
+          dir.create(
+            path = tablesSubFolder,
+            showWarnings = T,
+            recursive = T
+          )
+          
+        }
+        
         generateDocsSav(
             savFolder = msisFolder,
             savFileName = fileName,
             savDocsFileName = docsFileName,
             savDocsFile = savDocsFile,
-            exportFolder = tablesFolder
+            exportFolder = tablesSubFolder
         )
         
     } else if (endsWith(fileName, ".csv")) {
@@ -611,12 +635,24 @@ for (fileName in list.files(msisFolder)) {
         
         csvDocsFile = file.path(infectionRegistryDocsFolder, docsFileName)
         
+        tablesSubFolder <- file.path(tablesFolder, "msis")
+        
+        if (!file.exists(tablesSubFolder)) {
+          
+          dir.create(
+            path = tablesSubFolder,
+            showWarnings = T,
+            recursive = T
+          )
+          
+        }
+        
         generateDocsCsv(
             csvFolder = msisFolder,
             csvFileName = fileName,
             csvDocsFileName = docsFileName,
             csvDocsFile = csvDocsFile,
-            exportFolder = tablesFolder,
+            exportFolder = tablesSubFolder,
             separator = ";"
         )
         
@@ -670,12 +706,24 @@ for (fileName in list.files(sysvakFolder)) {
             
             savDocsFile = file.path(vaccinationRegistryDocsFolder, docsFileName)
             
+            tablesSubFolder <- file.path(tablesFolder, "sysvac")
+            
+            if (!file.exists(tablesSubFolder)) {
+              
+              dir.create(
+                path = tablesSubFolder,
+                showWarnings = T,
+                recursive = T
+              )
+              
+            }
+            
             generateDocsSav(
                 savFolder = sysvakFolder,
                 savFileName = fileName,
                 savDocsFileName = docsFileName,
                 savDocsFile = savDocsFile,
-                exportFolder = tablesFolder
+                exportFolder = tablesSubFolder
             )
             
         } else {
@@ -703,9 +751,21 @@ for (fileName in list.files(sysvakFolder)) {
             
             newName <- substr(fileName, 1, nchar(fileName) - 4)
             
+            tablesSubFolder <- file.path(tablesFolder, "sysvac")
+            
+            if (!file.exists(tablesSubFolder)) {
+              
+              dir.create(
+                path = tablesSubFolder,
+                showWarnings = T,
+                recursive = T
+              )
+              
+            }
+            
             write.table(
                 x = savDF,
-                file = gzfile(file.path(tablesFolder, glue("{newName}.gz"))),
+                file = gzfile(file.path(tablesSubFolder, glue("{newName}.gz"))),
                 col.names = T,
                 row.names = F,
                 sep = "\t",
@@ -723,7 +783,7 @@ for (fileName in list.files(sysvakFolder)) {
             
             write.table(
                 x = labels,
-                file = gzfile(file.path(tablesFolder, glue("{newName}.labels.gz"))),
+                file = gzfile(file.path(tablesSubFolder, glue("{newName}.labels.gz"))),
                 col.names = T,
                 row.names = F,
                 sep = "\t",
@@ -746,12 +806,24 @@ for (fileName in list.files(sysvakFolder)) {
         
         csvDocsFile = file.path(vaccinationRegistryDocsFolder, docsFileName)
         
+        tablesSubFolder <- file.path(tablesFolder, "sysvac")
+        
+        if (!file.exists(tablesSubFolder)) {
+          
+          dir.create(
+            path = tablesSubFolder,
+            showWarnings = T,
+            recursive = T
+          )
+          
+        }
+        
         generateDocsCsv(
             csvFolder = sysvakFolder,
             csvFileName = fileName,
             csvDocsFileName = docsFileName,
             csvDocsFile = csvDocsFile,
-            exportFolder = tablesFolder,
+            exportFolder = tablesSubFolder,
             separator = ";"
         )
         
@@ -781,7 +853,7 @@ for (folderName in list.files(quesFolder)) {
             append = T
         )
         
-        folderDocsFolder <- file.path(docsFolder, "ques", folderName)
+        folderDocsFolder <- file.path(docsFolder, "covid_ques", folderName)
         
         if (!file.exists(folderDocsFolder)) {
             
@@ -793,7 +865,7 @@ for (folderName in list.files(quesFolder)) {
             
         }
         
-        tablesSubFolder <- file.path(tablesFolder, "ques", folderName)
+        tablesSubFolder <- file.path(tablesFolder, "covid_ques", folderName)
         
         if (!file.exists(tablesSubFolder)) {
             
@@ -827,12 +899,12 @@ for (folderName in list.files(quesFolder)) {
                 docsFileName <- paste0(shortName, ".md")
                 
                 write(
-                    x = glue("- [{fileName}](ques/{folderName}/{docsFileName})"), 
+                    x = glue("- [{fileName}](covid_ques/{folderName}/{docsFileName})"), 
                     file = docsFile, 
                     append = T
                 )
                 
-                savDocsFile = file.path(docsFolder, "ques", folderName, docsFileName)
+                savDocsFile = file.path(docsFolder, "covid_ques", folderName, docsFileName)
                 
                 labels <- generateDocsSav(
                     savFolder = savFilesFolder,
@@ -861,12 +933,12 @@ write(
 )
 
 write(
-    x = glue("- [Question to sav](ques/question_to_sav.md)"), 
+    x = glue("- [Question to sav](covid_ques/question_to_sav.md)"), 
     file = docsFile, 
     append = T
 )
 
-docsMapFile <- file.path(docsFolder, "ques", "question_to_sav.md")
+docsMapFile <- file.path(docsFolder, "covid_ques", "question_to_sav.md")
 
 write(
     x = glue("# Question to sav file"), 
@@ -959,9 +1031,21 @@ for (fileName in list.files(linkageFolder)) {
         
         newName <- substr(fileName, 1, nchar(fileName) - 4)
         
+        tablesSubFolder <- file.path(tablesFolder, "linkage")
+        
+        if (!file.exists(tablesSubFolder)) {
+          
+          dir.create(
+            path = tablesSubFolder,
+            showWarnings = T,
+            recursive = T
+          )
+          
+        }
+        
         write.table(
             x = savDF,
-            file = gzfile(file.path(tablesFolder, glue("{newName}.gz"))),
+            file = gzfile(file.path(tablesSubFolder, glue("{newName}.gz"))),
             col.names = T,
             row.names = F,
             sep = "\t",
@@ -980,7 +1064,7 @@ for (fileName in list.files(linkageFolder)) {
         
         write.table(
             x = labels,
-            file = gzfile(file.path(tablesFolder, glue("{newName}.labels.gz"))),
+            file = gzfile(file.path(tablesSubFolder, glue("{newName}.labels.gz"))),
             col.names = T,
             row.names = F,
             sep = "\t",

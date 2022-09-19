@@ -68,11 +68,9 @@ filter <- dplyr::filter
 # Paths from command line
 args <- commandArgs(TRUE)
 
-linkageFolder <- args[1]
-quesFolder <- args[2]
-rawTablesFolder <- args[3]
-covidTable <- args[4]
-docsFolder <- args[5]
+rawTablesFolder <- args[1]
+covidTable <- args[2]
+docsFolder <- args[3]
 
 
 # Functions
@@ -95,6 +93,8 @@ docsFile <- file.path(docsFolder, "phenos.md")
 
 longCovidDocsFolder <- file.path(docsFolder, "long_covid")
 longCovidDocsFile <- file.path(longCovidDocsFolder, "long_covid.md")
+
+quesFolder <- file.path(rawTablesFolder, "covid_ques")
 
 
 # Housekeeping
