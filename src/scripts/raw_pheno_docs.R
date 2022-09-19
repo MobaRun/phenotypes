@@ -320,7 +320,7 @@ generateDocsCsv <- function(
       
       if (is.character(savDF[[colName]])) {
         
-        savDF[[colName]] <- str_trim(savDF[[colName]])
+        savDF[[colName]] <- str_trim(csvDF[[colName]])
         
       }       
     }
