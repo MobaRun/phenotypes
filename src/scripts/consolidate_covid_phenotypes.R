@@ -436,6 +436,8 @@ for (folder in list.files(quesFolder)) {
                 
                 questionnaireFile <- file.path(quesFolder, folder, glue(quesName))
                 
+                print(paste0(questionnaireFile, " - Found: ", file.exists(questionnaireFile)))
+                
                 if (file.exists(questionnaireFile)) {
                     
                     print(glue("{Sys.time()} - Loading phenotypes from {questionnaireFile}"))
