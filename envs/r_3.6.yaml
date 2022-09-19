@@ -1,0 +1,5 @@
+name: r_3.6
+channels:
+ - r
+dependencies:
+ - r=3.6
