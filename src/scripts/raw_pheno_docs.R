@@ -92,9 +92,12 @@ generateDocsSav <- function(
     )
     
     for (colName in names(savDF)) {
-            
-            savDF[[colName]] <- str_trim(savDF[[colName]])
-            
+      
+      if (is.character(savDF[[colName]])) {
+        
+        savDF[[colName]] <- str_trim(savDF[[colName]])
+        
+      }
     }
     
     newName <- substr(savFileName, 1, nchar(savFileName) - 4)
@@ -314,9 +317,12 @@ generateDocsCsv <- function(
     )
     
     for (colName in names(csvDF)) {
-            
-      csvDF[[colName]] <- str_trim(csvDF[[colName]])
-            
+      
+      if (is.character(savDF[[colName]])) {
+        
+        savDF[[colName]] <- str_trim(savDF[[colName]])
+        
+      }       
     }
     
     newName <- substr(csvFileName, 1, nchar(csvFileName) - 4)
@@ -689,12 +695,8 @@ for (fileName in list.files(sysvakFolder)) {
             for (name in names(savDF)) {
                 
                 if (is.character(savDF[[name]])) {
-                    
-                    savDF[[name]] <- str_replace_all(
-                        string = savDF[[name]], 
-                        pattern = " ",
-                        repl = ""
-                    )
+                  
+                  savDF[[name]] <- str_trim(savDF[[name]])
                     
                 }
             }
@@ -949,12 +951,8 @@ for (fileName in list.files(linkageFolder)) {
         for (name in names(savDF)) {
             
             if (is.character(savDF[[name]])) {
-                
-                savDF[[name]] <- str_replace_all(
-                    string = savDF[[name]], 
-                    pattern = " ",
-                    repl = ""
-                )
+              
+              savDF[[name]] <- str_trim(savDF[[name]])
                 
             }
         }
