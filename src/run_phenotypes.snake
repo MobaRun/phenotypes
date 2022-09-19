@@ -24,11 +24,15 @@ sysvak_folder = "/mnt/archive/phenotype/sysvak"
 ques_folder = "/mnt/archive/phenotype/moba_covid_ques"
 
 # Output
-raw_docs_folder = f"docs/{suffix}/raw"
+docs_folder = f"docs/{suffix}"
+raw_docs_folder = f"{docs_folder}/raw"
 tables_folder = f"/mnt/work/marc/pheno_{suffix}"
 
 
 ####################### Housekeeping #########################################
+
+if not os.path.isdir(docs_folder):
+    os.mkdir(docs_folder)
 
 if not os.path.isdir(raw_docs_folder):
     os.mkdir(raw_docs_folder)
