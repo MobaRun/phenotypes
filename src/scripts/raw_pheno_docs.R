@@ -318,9 +318,9 @@ generateDocsCsv <- function(
     
     for (colName in names(csvDF)) {
       
-      if (is.character(savDF[[colName]])) {
+      if (is.character(csvDF[[colName]])) {
         
-        savDF[[colName]] <- str_trim(csvDF[[colName]])
+        csvDF[[colName]] <- str_trim(csvDF[[colName]])
         
       }       
     }
