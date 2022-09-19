@@ -77,7 +77,7 @@ docsFolder <- args[5]
 
 # Functions
 
-source("utils/covid/long_covid_docs.R")
+source("src/scripts/utils/covid/long_covid_docs.R")
 
 
 # Parameters
