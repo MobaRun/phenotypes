@@ -791,6 +791,10 @@ for (folder in list.files(quesFolder)) {
                         }
                     }
                     if ("kf120" %in% names(quesDF)) {
+                      
+                      print(summary(quesDF$kf120))
+                      
+                      stop("DEBUG")
                         
                         quesDF$kf120 <- as.numeric(factor(quesDF$kf120, levels = c("NEI", "JA"))) - 1
                         
