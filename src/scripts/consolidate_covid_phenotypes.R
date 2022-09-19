@@ -790,22 +790,6 @@ for (folder in list.files(quesFolder)) {
                             
                         }
                     }
-                    if ("kf120" %in% names(quesDF)) {
-                      
-                      print(summary(quesDF$kf120))
-                      
-                      stop("DEBUG")
-                        
-                        quesDF$kf120 <- as.numeric(factor(quesDF$kf120, levels = c("NEI", "JA"))) - 1
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf120",
-                            phenoName = "reduced_smell_taste",
-                            folder = folder
-                        )
-                    }
                     if ("kf480" %in% names(quesDF)) {
                         
                         phenoDF <- longCovidPhenoImport(
@@ -1455,7 +1439,6 @@ for (role in c("Child", "Mother", "Father")) {
 print(glue("{Sys.time()} - Computing long covid phenotypes"))
 
 longCovidPhenos <- list(
-    reduced_smell_taste = "Reduced smell taste (kf120)", 
     brain_fog = "Brain Fog (kf480)", 
     poor_memory = "Poor Memory (kf481)", 
     dizziness = "Dizziness (kf479)", 
