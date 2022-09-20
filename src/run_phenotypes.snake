@@ -36,7 +36,7 @@ covid_tables_folder = f"/mnt/work/marc/pheno_{suffix}/covid"
 # Raw tables
 mfr_raw_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_MFR_541_v12.gz')
 msis_raw_table = os.path.join(raw_tables_folder, 'msis', f'PDB{moba_project_number}_MSIS-data_MoBa.gz')
-child_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'moba_ques', f'Barn_ID_{moba_project_number}_2021_11_17sav.gz')
+child_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'msis', f'Barn_ID_{moba_project_number}_2021_11_17sav.gz')
 mother_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'msis', f'Mor_ID_{moba_project_number}_2021_11_17sav.gz')
 father_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'msis', f'Far_ID_{moba_project_number}_2021_11_17sav.gz')
 child_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Child_PDB{moba_project_number}.gz')
