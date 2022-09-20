@@ -1,0 +1,1220 @@
+# Ungdom_duplikater_Runde8.sav
+- [BARN_NR](Ungdom_duplikater_Runde8.md#BARN_NR): BirthOrder
+- [Fylkenummer](Ungdom_duplikater_Runde8.md#Fylkenummer): Fylkenummer
+- [Fylkenavn](Ungdom_duplikater_Runde8.md#Fylkenavn): Fylkenavn
+- [AgeGrp](Ungdom_duplikater_Runde8.md#AgeGrp): Alder ved først utsendelse av MoBaKorona skjema
+- [Role](Ungdom_duplikater_Runde8.md#Role)
+- [ChildGender](Ungdom_duplikater_Runde8.md#ChildGender)
+- [FillInDate](Ungdom_duplikater_Runde8.md#FillInDate)
+- [FillInTime](Ungdom_duplikater_Runde8.md#FillInTime)
+- [VERSJON_MOBAKORONAF_TBL1](Ungdom_duplikater_Runde8.md#VERSJON_MOBAKORONAF_TBL1)
+- [KF10](Ungdom_duplikater_Runde8.md#KF10): QMFBCOF_1:MC19F_G; (QMFBCOF_1:MC19F_F); (QMFBCOE_1:MC19F_E); (QMFBCOD_1:MC19F_D); (QMFBCOC_1:MC19F_C); (QMFBCOB_1:MC19F_B); (QMFBCO_1:MC19F_A); ; 1. ER DU BLITT SYK MED SYMPTOMER FRA LUFTVEIENE, SYKDOMSFØLELSE ELLER FEBER I LØPET AV DE SI.....
+- [KF11](Ungdom_duplikater_Runde8.md#KF11): QMFBCOF_1_1:MC19F_G; (QMFBCOF_1_1:MC19F_F); (QMFBCOE_1_1:MC19F_E); (QMFBCOD_1_1:MC19F_D); (QMFBCOC_1_1:MC19F_C); (QMFBCOB_1_1:MC19F_B); (QMFBCO_1_1:MC19F_A); HVOR MANGE DAGER ER DET SIDEN SYKDOMMEN/SYMPTOMENE BEGYNTE?; 1. ER DU BLITT SYK .....
+- [KF12](Ungdom_duplikater_Runde8.md#KF12): QMFBCOF_1_2:MC19F_G; (QMFBCOF_1_2:MC19F_F); (QMFBCOE_1_2:MC19F_E); (QMFBCOD_1_2:MC19F_D); (QMFBCOC_1_2:MC19F_C); (QMFBCOB_1_2:MC19F_B); (QMFBCO_1_2:MC19F_A); KRYSS AV FOR HVOR SYK DU FØLTE DEG:; 1. ER DU BLITT SYK MED SYMPTOMER FRA LUFTVE.....
+- [KF13](Ungdom_duplikater_Runde8.md#KF13): QMFBCOF_1_3:MC19F_G; (QMFBCOF_1_3:MC19F_F); (QMFBCOE_1_3:MC19F_E); (QMFBCOD_1_3:MC19F_D); (QMFBCOC_1_3:MC19F_C); (QMFBCOB_1_3:MC19F_B); (QMFBCO_1_3:MC19F_A); KRYSS AV FOR HVOR LENGE DU FØLTE DEG SYK:; 1. ER DU BLITT SYK MED SYMPTOMER FRA .....
+- [KF14](Ungdom_duplikater_Runde8.md#KF14): QMFBCOF_1_4:MC19F_G; (QMFBCOF_1_4:MC19F_F); (QMFBCOE_1_4:MC19F_E); (QMFBCOD_1_4:MC19F_D); (QMFBCOC_1_4:MC19F_C); (QMFBCOB_1_4:MC19F_B); (QMFBCO_1_4:MC19F_A); KRYSS AV FOR NÅR DU FØLTE DEG SYKEST:; 1. ER DU BLITT SYK MED SYMPTOMER FRA LUFT.....
+- [KF15](Ungdom_duplikater_Runde8.md#KF15): QMFBCOF_1_5_1:MC19F_G; (QMFBCOF_1_5_1:MC19F_F); (QMFBCOE_1_5_1:MC19F_E); (QMFBCOD_1_5_1:MC19F_D); (QMFBCOC_1_5_1:MC19F_C); (QMFBCOB_1_5_1:MC19F_B); (QMFBCO_1_5_1:MC19F_A); ER DU NÅ PLAGET AV HOSTE?; 1. ER DU BLITT SYK MED SYMPTOMER FRA LU.....
+- [KF16](Ungdom_duplikater_Runde8.md#KF16): QMFBCOF_1_5_2:MC19F_G; (QMFBCOF_1_5_2:MC19F_F); (QMFBCOE_1_5_2:MC19F_E); (QMFBCOD_1_5_2:MC19F_D); (QMFBCOC_1_5_2:MC19F_C); (QMFBCOB_1_5_2:MC19F_B); (QMFBCO_1_5_2:MC19F_A); (Hvis ja, Er du plaget av hoste) ER DET VESENTLIG TØRRHOSTE ELLER .....
+- [KF17](Ungdom_duplikater_Runde8.md#KF17): QMFBCOF_1_6:MC19F_G; (QMFBCOF_1_6:MC19F_F); (QMFBCOE_1_6:MC19F_E); (QMFBCOD_1_6:MC19F_D); (QMFBCOC_1_6:MC19F_C); (QMFBCOB_1_6:MC19F_B); (QMFBCO_1_6:MC19F_A); HAR DU NÅ RENNENDE NESE ELLER NYSER?; 1. ER DU BLITT SYK MED SYMPTOMER FRA LUFTV.....
+- [KF18](Ungdom_duplikater_Runde8.md#KF18): QMFBCOF_1_7:MC19F_G; (QMFBCOF_1_7:MC19F_F); (QMFBCOE_1_7:MC19F_E); (QMFBCOD_1_7:MC19F_D); (QMFBCOC_1_7:MC19F_C); (QMFBCOB_1_7:MC19F_B); (QMFBCO_1_7:MC19F_A); HAR DU NÅ TETT NESE?; 1. ER DU BLITT SYK MED SYMPTOMER FRA LUFTVEIENE, SYKDOMSFØ.....
+- [KF19](Ungdom_duplikater_Runde8.md#KF19): QMFBCOF_1_8_1:MC19F_G; (QMFBCOF_1_8_1:MC19F_F); (QMFBCOE_1_8_1:MC19F_E); (QMFBCOD_1_8_1:MC19F_D); (QMFBCOC_1_8_1:MC19F_C); (QMFBCOB_1_8_1:MC19F_B); (QMFBCO_1_8_1:MC19F_A); HAR DU NÅ SÅRHET I HALSEN?; 1. ER DU BLITT SYK MED SYMPTOMER FRA L.....
+- [KF20](Ungdom_duplikater_Runde8.md#KF20): QMFBCOF_1_8_2:MC19F_G; (QMFBCOF_1_8_2:MC19F_F); (QMFBCOE_1_8_2:MC19F_E); (QMFBCOD_1_8_2:MC19F_D); (QMFBCOC_1_8_2:MC19F_C); (QMFBCOB_1_8_2:MC19F_B); (QMFBCO_1_8_2:MC19F_A); (Hvis ja, Har du nå sårhet i halsen) ER DET SMERTEFULLT Å SVELGE?;.....
+- [KF21](Ungdom_duplikater_Runde8.md#KF21): QMFBCOF_1_9:MC19F_G; (QMFBCOF_1_9:MC19F_F); (QMFBCOE_1_9:MC19F_E); (QMFBCOD_1_9:MC19F_D); (QMFBCOC_1_9:MC19F_C); (QMFBCOB_1_9:MC19F_B); (QMFBCO_1_9:MC19F_A); ER DU NÅ TETT I BRYSTET (TUNGT Å PUSTE)?; 1. ER DU BLITT SYK MED SYMPTOMER FRA L.....
+- [KF22](Ungdom_duplikater_Runde8.md#KF22): QMFBCOF_110:MC19F_G; (QMFBCOF_110:MC19F_F); (QMFBCOE_110:MC19F_E); (QMFBCOD_110:MC19F_D); (QMFBCOC_110:MC19F_C); (QMFBCOB_110:MC19F_B); (QMFBCO_110:MC19F_A); HAR DU I DAG ELLER I LØPET AV DE SISTE 3 DAGENE HATT HODEPINE?; 1. ER DU BLITT S.....
+- [KF23](Ungdom_duplikater_Runde8.md#KF23): QMFBCOF_111_1:MC19F_G; (QMFBCOF_111_1:MC19F_F); (QMFBCOE_111_1:MC19F_E); (QMFBCOD_111_1:MC19F_D); (QMFBCOC_111_1:MC19F_C); (QMFBCOB_111_1:MC19F_B); (QMFBCO_111_1:MC19F_A); HAR DU I DAG ELLER I LØPET AV DE SISTE 3 DAGENE HATT FEBER?; 1. ER.....
+- [KF24](Ungdom_duplikater_Runde8.md#KF24): QMFBCOF_111_2:MC19F_G; (QMFBCOF_111_2:MC19F_F); (QMFBCOE_111_2:MC19F_E); (QMFBCOD_111_2:MC19F_D); (QMFBCOC_111_2:MC19F_C); (QMFBCOB_111_2:MC19F_B); (QMFBCO_111_2:MC19F_A); (Hvis ja, Har du hatt feber) HAR DU VÆRT VELDIG KALD (SKJELVING) E.....
+- [KF25](Ungdom_duplikater_Runde8.md#KF25): QMFBCOF_112:MC19F_G; (QMFBCOF_112:MC19F_F); (QMFBCOE_112:MC19F_E); (QMFBCOD_112:MC19F_D); (QMFBCOC_112:MC19F_C); (QMFBCOB_112:MC19F_B); (QMFBCO_112:MC19F_A); HAR DU I DAG ELLER I LØPET AV DE SISTE 3 DAGENE HATT MAGESMERTER/KVALME/DIARÉ?; .....
+- [KF27](Ungdom_duplikater_Runde8.md#KF27): QMFBCOF_113:MC19F_G; (QMFBCOF_113:MC19F_F); (QMFBCOE_113:MC19F_E); (QMFBCOD_113:MC19F_D); (QMFBCOC_113:MC19F_C); (QMFBCOB_114:MC19F_B); (QMFBCO_114:MC19F_A); HAR DU DE SISTE 3 DAGENE HATT MUSKELSMERTER?; 1. ER DU BLITT SYK MED SYMPTOMER F.....
+- [KF28](Ungdom_duplikater_Runde8.md#KF28): QMFBCOF_114:MC19F_G; (QMFBCOF_114:MC19F_F); (QMFBCOE_114:MC19F_E); (QMFBCOD_114:MC19F_D); (QMFBCOC_114:MC19F_C); (QMFBCOB_115:MC19F_B); (QMFBCO_115:MC19F_A); HAR DU DE SISTE 3 DAGENE OPPLEVD SVIMMELHET?; 1. ER DU BLITT SYK MED SYMPTOMER F.....
+- [KF29](Ungdom_duplikater_Runde8.md#KF29): QMFBCOF_2_1:MC19F_G; (QMFBCOF_2_1:MC19F_F); (QMFBCOE_2_1:MC19F_E); (QMFBCOD_2_1:MC19F_D); (QMFBCOC_2_1:MC19F_C); (QMFBCOB_2_1:MC19F_B); (QMFBCO_2_1:MC19F_A); ; 2. HAR DU VÆRT UNDERSØKT AV / HATT EN KONSULTASJON MED LEGE (F.EKS. TELEFON) I.....
+- [KF30](Ungdom_duplikater_Runde8.md#KF30): QMFBCOF_2_2_1:MC19F_G; (QMFBCOF_2_2_1:MC19F_F); (QMFBCOE_2_2_1:MC19F_E); (QMFBCOD_2_2_1:MC19F_D); (QMFBCOC_2_2_1:MC19F_C); (QMFBCOB_2_2_1:MC19F_B); (QMFBCO_2_2_1:MC19F_A); (Hvis ja, undersøkt av lege) MISTENKT ELLER SIKKER KORONAVIRUSSYKD.....
+- [KF31](Ungdom_duplikater_Runde8.md#KF31): QMFBCOF_2_2_2:MC19F_G; (QMFBCOF_2_2_2:MC19F_F); (QMFBCOE_2_2_2:MC19F_E); (QMFBCOD_2_2_2:MC19F_D); (QMFBCOC_2_2_2:MC19F_C); (QMFBCOB_2_2_2:MC19F_B); (QMFBCO_2_2_2:MC19F_A); (Hvis ja, undersøkt av lege) MISTENKT ELLER SIKKER INFLUENSA; 2. K.....
+- [KF32](Ungdom_duplikater_Runde8.md#KF32): QMFBCOF_2_2_3:MC19F_G; (QMFBCOF_2_2_3:MC19F_F); (QMFBCOE_2_2_3:MC19F_E); (QMFBCOD_2_2_3:MC19F_D); (QMFBCOC_2_2_3:MC19F_C); (QMFBCOB_2_2_3:MC19F_B); (QMFBCO_2_2_3:MC19F_A); (Hvis ja, undersøkt av lege) LUNGEBETENNELSE; 2. KRYSS AV FOR OM D.....
+- [KF33](Ungdom_duplikater_Runde8.md#KF33): QMFBCOF_2_2_4:MC19F_G; (QMFBCOF_2_2_4:MC19F_F); (QMFBCOE_2_2_4:MC19F_E); (QMFBCOD_2_2_4:MC19F_D); (QMFBCOC_2_2_4:MC19F_C); (QMFBCOB_2_2_4:MC19F_B); (QMFBCO_2_2_4:MC19F_A); (Hvis ja, undersøkt av lege) HALSBETENNELSE; 2. KRYSS AV FOR OM DU.....
+- [KF34](Ungdom_duplikater_Runde8.md#KF34): QMFBCOF_2_2_5:MC19F_G; (QMFBCOF_2_2_5:MC19F_F); (QMFBCOE_2_2_5:MC19F_E); (QMFBCOD_2_2_5:MC19F_D); (QMFBCOC_2_2_5:MC19F_C); (QMFBCOB_2_2_5:MC19F_B); (QMFBCO_2_2_5:MC19F_A); (Hvis ja, undersøkt av lege) FORKJØLELSE; 2. KRYSS AV FOR OM DU HA.....
+- [KF35](Ungdom_duplikater_Runde8.md#KF35): QMFBCOF_2_2_6:MC19F_G; (QMFBCOF_2_2_6:MC19F_F); (QMFBCOE_2_2_6:MC19F_E); (QMFBCOD_2_2_6:MC19F_D); (QMFBCOC_2_2_6:MC19F_C); (QMFBCOB_2_2_6:MC19F_B); (QMFBCO_2_2_6:MC19F_A); (Hvis ja, undersøkt av lege) ANNEN INFEKSJON; 2. KRYSS AV FOR OM D.....
+- [KF36](Ungdom_duplikater_Runde8.md#KF36): QMFBCOF_2_2_7:MC19F_G; (QMFBCOF_2_2_7:MC19F_F); (QMFBCOE_2_2_7:MC19F_E); (QMFBCOD_2_2_7:MC19F_D); (QMFBCOC_2_2_7:MC19F_C); (QMFBCOB_2_2_7:MC19F_B); (QMFBCO_2_2_7:MC19F_A); (Hvis ja, undersøkt av lege) SKADE; 2. KRYSS AV FOR OM DU HAR FÅTT.....
+- [KF37](Ungdom_duplikater_Runde8.md#KF37): QMFBCOF_2_2_8:MC19F_G; (QMFBCOF_2_2_8:MC19F_F); (QMFBCOE_2_2_8:MC19F_E); (QMFBCOD_2_2_8:MC19F_D); (QMFBCOC_2_2_8:MC19F_C); (QMFBCOB_2_2_8:MC19F_B); (QMFBCO_2_2_8:MC19F_A); (Hvis ja, undersøkt av lege) ANNEN SYKDOM; 2. KRYSS AV FOR OM DU H.....
+- [KF38](Ungdom_duplikater_Runde8.md#KF38): QMFBCOF_2_2_9:MC19F_G; (QMFBCOF_2_2_9:MC19F_F); (QMFBCOE_2_2_9:MC19F_E); (QMFBCOD_2_2_9:MC19F_D); (QMFBCOC_2_2_9:MC19F_C); (QMFBCOB_2_2_9:MC19F_B); (QMFBCO_2_2_9:MC19F_A); (Hvis ja, undersøkt av lege) )INGEN DIAGNOSE; 2. KRYSS AV FOR OM D.....
+- [KF39](Ungdom_duplikater_Runde8.md#KF39): QMFBCOF_4:MC19F_G; (QMFBCOF_4:MC19F_F); (QMFBCOE_4:MC19F_E); (QMFBCOD_4:MC19F_D); (QMFBCOC_4:MC19F_C); (QMFBCOB_4:MC19F_B); (QMFBCO_3:MC19F_A); ; 4. HAR DU VÆRT INNLAGT PÅ SYKEHUS I LØPET AV DE SISTE 14 DAGENE?
+- [KF41](Ungdom_duplikater_Runde8.md#KF41): QMFBCOF_6_3:MC19F_G; (QMFBCOF_6_3:MC19F_F); (QMFBCOE_6_3:MC19F_E); (QMFBCOD_6_3:MC19F_D); (QMFBCOC_6_3:MC19F_C); (QMFBCOB_5_2:MC19F_B); (QMFBCO_4_2:MC19F_A); VISTE TESTEN AT DU HADDE KORONAVIRUSINFEKSJON?; 6. 
+- [KF42](Ungdom_duplikater_Runde8.md#KF42): QMFBCOF_5_2:MC19F_G; (QMFBCOF_5_2:MC19F_F); (QMFBCOE_5_2:MC19F_E); (QMFBCOD_5_2:MC19F_D); (QMFBCOC_5_2:MC19F_C); (QMFBCOB_5_3:MC19F_B); (QMFBCO_4_3:MC19F_A); VISTE TESTEN AT DU HADDE INFLUENSAVIRUSINFEKSJON?; 5. 
+- [KF43](Ungdom_duplikater_Runde8.md#KF43): QMFBCOF_9_1:MC19F_G; (QMFBCOF_9_1:MC19F_F); (QMFBCOE_9_1:MC19F_E); (QMFBCOD_9_1:MC19F_D); (QMFBCOC_9_1:MC19F_C); (QMFBCOB_6_1:MC19F_B); (QMFBCO_5_1:MC19F_A); ; 9. HAR DU VÆRT I KARANTENE/ISOLAT I LØPET AV DE SISTE 14 DAGENE?
+- [KF44](Ungdom_duplikater_Runde8.md#KF44): QMFBCOF_9_2_1:MC19F_G; (QMFBCOF_9_2_1:MC19F_F); (QMFBCOE_9_2_1:MC19F_E); (QMFBCOD_9_2_1:MC19F_D); (QMFBCOC_9_2_1:MC19F_C); (QMFBCOB_6_2_1:MC19F_B); (QMFBCO_5_2_1:MC19F_A); (Kryss av for hvorfor du har vært i karantene/isolat) HAR VÆRT I U.....
+- [KF45](Ungdom_duplikater_Runde8.md#KF45): QMFBCOF_9_2_2:MC19F_G; (QMFBCOF_9_2_2:MC19F_F); (QMFBCOE_9_2_2:MC19F_E); (QMFBCOD_9_2_2:MC19F_D); (QMFBCOC_9_2_2:MC19F_C); (QMFBCOB_6_2_2:MC19F_B); (QMFBCO_5_2_2:MC19F_A); (Kryss av for hvorfor du har vært i karantene/isolat) HAR SYMPTOME.....
+- [KF46](Ungdom_duplikater_Runde8.md#KF46): QMFBCOF_9_2_3:MC19F_G; (QMFBCOF_9_2_3:MC19F_F); (QMFBCOE_9_2_3:MC19F_E); (QMFBCOD_9_2_3:MC19F_D); (QMFBCOC_9_2_3:MC19F_C); (QMFBCOB_6_2_3:MC19F_B); (QMFBCO_5_2_3:MC19F_A); (Kryss av for hvorfor du har vært i karantene/isolat) HAR PÅVIST K.....
+- [KF47](Ungdom_duplikater_Runde8.md#KF47): QMFBCOF_9_2_4:MC19F_G; (QMFBCOF_9_2_4:MC19F_F); (QMFBCOE_9_2_4:MC19F_E); (QMFBCOD_9_2_4:MC19F_D); (QMFBCOC_9_2_4:MC19F_C); (QMFBCOB_6_2_4:MC19F_B); (QMFBCO_5_2_4:MC19F_A); (Kryss av for hvorfor du har vært i karantene/isolat) HAR VÆRT I K.....
+- [KF48](Ungdom_duplikater_Runde8.md#KF48): QMFBCOF_9_2_5:MC19F_G; (QMFBCOF_9_2_5:MC19F_F); (QMFBCOE_9_2_5:MC19F_E); (QMFBCOD_9_2_5:MC19F_D); (QMFBCOC_9_2_5:MC19F_C); (QMFBCOB_6_2_5:MC19F_B); (QMFBCO_5_2_5:MC19F_A); (Kryss av for hvorfor du har vært i karantene/isolat) ANNEN GRUNN;.....
+- [KF58](Ungdom_duplikater_Runde8.md#KF58): QMFBCOF10_1:MC19F_G; (QMFBCOF10_1:MC19F_F); (QMFBCOE10_1:MC19F_E); (QMFBCOD10_1:MC19F_D); (QMFBCOC13_1:MC19F_C); (QMFBCOB10_1:MC19F_B); (QMFBCO_9_1:MC19F_A); ; 10. HVOR MANGE ANDRE BOR DU SAMMEN MED?
+- [KF59](Ungdom_duplikater_Runde8.md#KF59): QMFBCOF10_2_1:MC19F_G; (QMFBCOF10_2_1:MC19F_F); (QMFBCOE10_2_1:MC19F_E); (QMFBCOD10_2_1:MC19F_D); (QMFBCOC13_2_1:MC19F_C); (QMFBCOB10_2_1:MC19F_B); (QMFBCO_9_2_1:MC19F_A); HAR DEN ANDRE VÆRT SYK MED LUFTVEISPLAGER DE SISTE 14 DAGENE?; 10......
+- [KF60](Ungdom_duplikater_Runde8.md#KF60): QMFBCOF10_2_2:MC19F_G; (QMFBCOF10_2_2:MC19F_F); (QMFBCOE10_2_2:MC19F_E); (QMFBCOD10_2_2:MC19F_D); (QMFBCOC13_2_2:MC19F_C); (QMFBCOB10_2_2:MC19F_B); (QMFBCO_9_2_2:MC19F_A); HAR DEN ANDRE FÅTT PÅVIST SMITTE MED KORONAVIRUS?; 10. (HVIS 1 ANN.....
+- [KF61](Ungdom_duplikater_Runde8.md#KF61): QMFBCOF10_3_1:MC19F_G; (QMFBCOF10_3_1:MC19F_F); (QMFBCOE10_3_1:MC19F_E); (QMFBCOD10_3_1:MC19F_D); (QMFBCOC13_3_1:MC19F_C); (QMFBCOB10_3_1:MC19F_B); (QMFBCO_9_3_1:MC19F_A); HVOR MANGE AV DE ANDRE HAR VÆRT SYKE MED LUFTVEISPLAGER DE SISTE 1.....
+- [KF62](Ungdom_duplikater_Runde8.md#KF62): QMFBCOF10_3_2:MC19F_G; (QMFBCOF10_3_2:MC19F_F); (QMFBCOE10_3_2:MC19F_E); (QMFBCOD10_3_2:MC19F_D); (QMFBCOC13_3_2:MC19F_C); (QMFBCOB10_3_2:MC19F_B); (QMFBCO_9_3_2:MC19F_A); HVOR MANGE AV DE ANDRE HAR FÅTT PÅVIST SMITTE MED KORONAVIRUS?; 10.....
+- [KF63](Ungdom_duplikater_Runde8.md#KF63): QMFBCOF10_4_1:MC19F_G; (QMFBCOF10_4_1:MC19F_F); (QMFBCOE10_4_1:MC19F_E); (QMFBCOD10_4_1:MC19F_D); (QMFBCOC13_4_1:MC19F_C); (QMFBCOB10_4_1:MC19F_B); (QMFBCO_9_4_1:MC19F_A); HVOR MANGE AV DE ANDRE HAR VÆRT SYKE MED LUFTVEISPLAGER DE SISTE 1.....
+- [KF64](Ungdom_duplikater_Runde8.md#KF64): QMFBCOF10_4_2:MC19F_G; (QMFBCOF10_4_2:MC19F_F); (QMFBCOE10_4_2:MC19F_E); (QMFBCOD10_4_2:MC19F_D); (QMFBCOC13_4_2:MC19F_C); (QMFBCOB10_4_2:MC19F_B); (QMFBCO_9_4_2:MC19F_A); HVOR MANGE AV DE ANDRE HAR FÅTT PÅVIST SMITTE MED KORONAVIRUS?; 10.....
+- [KF65](Ungdom_duplikater_Runde8.md#KF65): QMFBCOF10_5_1:MC19F_G; (QMFBCOF10_5_1:MC19F_F); (QMFBCOE10_5_1:MC19F_E); (QMFBCOD10_5_1:MC19F_D); (QMFBCOC13_5_1:MC19F_C); (QMFBCOB10_5_1:MC19F_B); (QMFBCO_9_5_1:MC19F_A); HVOR MANGE AV DE ANDRE HAR VÆRT SYKE MED LUFTVEISPLAGER DE SISTE 1.....
+- [KF66](Ungdom_duplikater_Runde8.md#KF66): QMFBCOF10_5_2:MC19F_G; (QMFBCOF10_5_2:MC19F_F); (QMFBCOE10_5_2:MC19F_E); (QMFBCOD10_5_2:MC19F_D); (QMFBCOC13_5_2:MC19F_C); (QMFBCOB10_5_2:MC19F_B); (QMFBCO_9_5_2:MC19F_A); HVOR MANGE AV DE ANDRE HAR FÅTT PÅVIST SMITTE MED KORONAVIRUS?; 10.....
+- [KF67](Ungdom_duplikater_Runde8.md#KF67): QMFBCOF10_6_1:MC19F_G; (QMFBCOF10_6_1:MC19F_F); (QMFBCOE10_6_1:MC19F_E); (QMFBCOD10_6_1:MC19F_D); (QMFBCOC13_6_1:MC19F_C); (QMFBCOB10_6_1:MC19F_B); (QMFBCO_9_6_1:MC19F_A); HVOR MANGE AV DE ANDRE HAR VÆRT SYKE MED LUFTVEISPLAGER DE SISTE 1.....
+- [KF68](Ungdom_duplikater_Runde8.md#KF68): QMFBCOF10_6_2:MC19F_G; (QMFBCOF10_6_2:MC19F_F); (QMFBCOE10_6_2:MC19F_E); (QMFBCOD10_6_2:MC19F_D); (QMFBCOC13_6_2:MC19F_C); (QMFBCOB10_6_2:MC19F_B); (QMFBCO_9_6_2:MC19F_A); HVOR MANGE AV DE ANDRE HAR FÅTT PÅVIST SMITTE MED KORONAVIRUS?; 10.....
+- [KF95](Ungdom_duplikater_Runde8.md#KF95): SVARTID:MC19F_G; (SVARTID:MC19F_F); (SVARTID:MC19F_E); (SVARTID:MC19F_D); (SVARTID:MC19F_C); (SVARTID:MC19F_B); (SVARTID:MC19F_A); ; . 
+- [KF96](Ungdom_duplikater_Runde8.md#KF96)
+- [KF97](Ungdom_duplikater_Runde8.md#KF97): QMFBCOF_3_1:MC19F_G; (QMFBCOF_3_1:MC19F_F); (QMFBCOE_3_1:MC19F_E); (QMFBCOD_3_1:MC19F_D); (QMFBCOC_3_1:MC19F_C); (QMFBCOB_3_1:MC19F_B); ; 3. HAR DU POLLENALLERGI?
+- [KF98](Ungdom_duplikater_Runde8.md#KF98): QMFBCOF_3_2:MC19F_G; (QMFBCOF_3_2:MC19F_F); (QMFBCOE_3_2:MC19F_E); (QMFBCOD_3_2:MC19F_D); (QMFBCOC_3_2:MC19F_C); (QMFBCOB_3_2:MC19F_B); Hvis ja: Plages du av pollenallergi nå?; 3. HAR DU POLLENALLERGI?
+- [KF110](Ungdom_duplikater_Runde8.md#KF110): QMFBCOF_5_1:MC19F_G; (QMFBCOF_5_1:MC19F_F); (QMFBCOE_5_1:MC19F_E); (QMFBCOD_5_1:MC19F_D); (QMFBCOC_5_1:MC19F_C); (Delt fra versjon C); 5. ER DU BLITT TESTET FOR INFLUENSAVIRUSINFEKSJON I LØPET AV DE SISTE 14 DAGENE?
+- [KF111](Ungdom_duplikater_Runde8.md#KF111): QMFBCOF_6_1:MC19F_G; (QMFBCOF_6_1:MC19F_F); (QMFBCOE_6_1:MC19F_E); (QMFBCOD_6_1:MC19F_D); (QMFBCOC_6_1:MC19F_C); (Delt fra versjon C); 6. ER DU BLITT TESTET FOR KORONAVIRUSINFEKSJON I LØPET AV DE SISTE 14 DAGENE?
+- [KF112](Ungdom_duplikater_Runde8.md#KF112): QMFBCOF_6_2_1:MC19F_G; (QMFBCOF_6_2_1:MC19F_F); (QMFBCOE_6_2_1:MC19F_E); (QMFBCOD_6_2_1:MC19F_D); (QMFBCOC_6_2_1:MC19F_C); Har vært i utlandet (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. ER DU BLITT TESTET FOR K.....
+- [KF113](Ungdom_duplikater_Runde8.md#KF113): QMFBCOF_6_2_2:MC19F_G; (QMFBCOF_6_2_2:MC19F_F); (QMFBCOE_6_2_2:MC19F_E); (QMFBCOD_6_2_2:MC19F_D); (QMFBCOC_6_2_2:MC19F_C); Har/hadde symptomer på sykdom  (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. ER DU BLITT T.....
+- [KF114](Ungdom_duplikater_Runde8.md#KF114): QMFBCOF_6_2_3:MC19F_G; (QMFBCOF_6_2_3:MC19F_F); (QMFBCOE_6_2_3:MC19F_E); (QMFBCOD_6_2_3:MC19F_D); (QMFBCOC_6_2_3:MC19F_C); Har vært i kontakt med personer som er smittet med koronavirus (Hvis ja:Kryss av hvorfor du ble testet for koronav.....
+- [KF115](Ungdom_duplikater_Runde8.md#KF115): QMFBCOF_6_2_4:MC19F_G; (QMFBCOF_6_2_4:MC19F_F); (QMFBCOE_6_2_4:MC19F_E); (QMFBCOD_6_2_4:MC19F_D); (QMFBCOC_6_2_4:MC19F_C); På grunn av arbeidssitasjonen min (for eksempel helsepersonell, ansatt i barnehage, skole, etc.)  (Hvis ja:Kryss a.....
+- [KF116](Ungdom_duplikater_Runde8.md#KF116): QMFBCOF_6_2_5:MC19F_G; (QMFBCOF_6_2_5:MC19F_F); (QMFBCOE_6_2_5:MC19F_E); (QMFBCOD_6_2_5:MC19F_D); (QMFBCOC_6_2_5:MC19F_C); Fordi jeg har andre helseplager/sykdommer  (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. E.....
+- [KF117](Ungdom_duplikater_Runde8.md#KF117): QMFBCOF_6_2_6:MC19F_G; (QMFBCOF_6_2_6:MC19F_F); (QMFBCOE_6_2_6:MC19F_E); (QMFBCOD_6_2_6:MC19F_D); (QMFBCOC_6_2_6:MC19F_C); Eget ønske om testing  (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. ER DU BLITT TESTET FO.....
+- [KF118](Ungdom_duplikater_Runde8.md#KF118): QMFBCOF_6_2_7:MC19F_G; (QMFBCOF_6_2_7:MC19F_F); (QMFBCOE_6_2_7:MC19F_E); (QMFBCOD_6_2_7:MC19F_D); (QMFBCOC_6_2_7:MC19F_C); Leg/helsepersonell anbefalte testing (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. ER DU B.....
+- [KF119](Ungdom_duplikater_Runde8.md#KF119): QMFBCOF_6_2_8:MC19F_G; (QMFBCOF_6_2_8:MC19F_F); (QMFBCOE_6_2_8:MC19F_E); (QMFBCOD_6_2_8:MC19F_D); (QMFBCOC_6_2_8:MC19F_C); Annen grunn (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. ER DU BLITT TESTET FOR KORONAVIR.....
+- [KF120](Ungdom_duplikater_Runde8.md#KF120): QMFBCOF_7:MC19F_G; (QMFBCOF_7:MC19F_F); (QMFBCOE_7:MC19F_E); (QMFBCOD_7:MC19F_D); (QMFBCOC_7:MC19F_C); ; 7. HAR DU HATT NEDSATT LUKTESANS ELLER SMAKSANS I LØPET AV DE SISTE 14 DAGENE? (Fra C flyttet ut fra spm 1, se 1.13 for A og B)
+- [KF121](Ungdom_duplikater_Runde8.md#KF121): QMFBCOF_8_1:MC19F_G; (QMFBCOF_8_1:MC19F_F); (QMFBCOE_8_1:MC19F_E); (QMFBCOD_8_1:MC19F_D); (QMFBCOC_8_1:MC19F_C); ; 8. HAR DU OPPLEVD NYOPPSTÅTT HUDUTSLETT I LØPET AV DE SISTE 14 DAGENE?
+- [KF122](Ungdom_duplikater_Runde8.md#KF122): QMFBCOF_8_2_1:MC19F_G; (QMFBCOF_8_2_1:MC19F_F); (QMFBCOE_8_2_1:MC19F_E); (QMFBCOD_8_2_1:MC19F_D); (QMFBCOC_8_2_1:MC19F_C); Hode/hals (Hvis ja: Kryss av for hvor du fikk utslett); 8. HAR DU OPPLEVD NYOPPSTÅTT HUDUTSLETT I LØPET AV DE SIST.....
+- [KF123](Ungdom_duplikater_Runde8.md#KF123): QMFBCOF_8_2_2:MC19F_G; (QMFBCOF_8_2_2:MC19F_F); (QMFBCOE_8_2_2:MC19F_E); (QMFBCOD_8_2_2:MC19F_D); (QMFBCOC_8_2_2:MC19F_C); Bryst/mage/rygg (Hvis ja: Kryss av for hvor du fikk utslett); 8. HAR DU OPPLEVD NYOPPSTÅTT HUDUTSLETT I LØPET AV D.....
+- [KF124](Ungdom_duplikater_Runde8.md#KF124): QMFBCOF_8_2_3:MC19F_G; (QMFBCOF_8_2_3:MC19F_F); (QMFBCOE_8_2_3:MC19F_E); (QMFBCOD_8_2_3:MC19F_D); (QMFBCOC_8_2_3:MC19F_C); Armer (Hvis ja: Kryss av for hvor du fikk utslett); 8. HAR DU OPPLEVD NYOPPSTÅTT HUDUTSLETT I LØPET AV DE SISTE 14.....
+- [KF125](Ungdom_duplikater_Runde8.md#KF125): QMFBCOF_8_2_4:MC19F_G; (QMFBCOF_8_2_4:MC19F_F); (QMFBCOE_8_2_4:MC19F_E); (QMFBCOD_8_2_4:MC19F_D); (QMFBCOC_8_2_4:MC19F_C); Ben (Hvis ja: Kryss av for hvor du fikk utslett); 8. HAR DU OPPLEVD NYOPPSTÅTT HUDUTSLETT I LØPET AV DE SISTE 14 D.....
+- [KF165](Ungdom_duplikater_Runde8.md#KF165): QMFBCOF13:MC19F_G; (QMFBCOF14:MC19F_F); ; 13. Har du noen gang fått påvist smitte med koronavirus (SARS-CoV-2) i nese-/halsprøve eller spyttprøve?
+- [KF166](Ungdom_duplikater_Runde8.md#KF166): QMFBCOF14:MC19F_G; (QMFBCOF15:MC19F_F); ; 14. Har du noen gang testet positivt for antistoffer mot koronavirus (SARS-CoV-2) i blodprøve?
+- [KF182](Ungdom_duplikater_Runde8.md#KF182): QMFBCOF_9_3:MC19F_G; Hvis ja, kryss av for hvorfor du har vært i karantene/isolat: Annen grunn, beskriv (tekst); 9. HAR DU VÆRT I KARANTENE/ISOLAT I LØPET AV DE SISTE 14 DAGENE?
+- [KF1820](Ungdom_duplikater_Runde8.md#KF1820): QMFBCOF_9_3:MC19F_G; Hvis ja, kryss av for hvorfor du har vært i karantene/isolat: Annen grunn, beskriv (tekst); 9. HAR DU VÆRT I KARANTENE/ISOLAT I LØPET AV DE SISTE 14 DAGENE?
+- [KF183](Ungdom_duplikater_Runde8.md#KF183): QMFBCOF11_1:MC19F_G; ; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF184](Ungdom_duplikater_Runde8.md#KF184): QMFBCOF11_2_1:MC19F_G; Hvis ja, kryss av for hvor du har reist: Har reist i Norge; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF185](Ungdom_duplikater_Runde8.md#KF185): QMFBCOF11_2_2:MC19F_G; Hvis ja, kryss av for hvor du har reist: Har reist i utlandet; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF186](Ungdom_duplikater_Runde8.md#KF186): QMFBCOF11_3_1:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Agder; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF187](Ungdom_duplikater_Runde8.md#KF187): QMFBCOF11_3_2:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Innlandet; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF188](Ungdom_duplikater_Runde8.md#KF188): QMFBCOF11_3_3:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Møre og Romsdal; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF189](Ungdom_duplikater_Runde8.md#KF189): QMFBCOF11_3_4:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Nordland; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF190](Ungdom_duplikater_Runde8.md#KF190): QMFBCOF11_3_5:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i:Oslo; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF191](Ungdom_duplikater_Runde8.md#KF191): QMFBCOF11_3_6:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Rogaland; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF192](Ungdom_duplikater_Runde8.md#KF192): QMFBCOF11_3_7:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Vestfold og Telemark; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF193](Ungdom_duplikater_Runde8.md#KF193): QMFBCOF11_3_8:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Troms og Finnmark; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF194](Ungdom_duplikater_Runde8.md#KF194): QMFBCOF11_3_9:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Trøndelag; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF195](Ungdom_duplikater_Runde8.md#KF195): QMFBCOF11_3_10:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Vestland; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF196](Ungdom_duplikater_Runde8.md#KF196): QMFBCOF11_3_11:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Viken; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF197](Ungdom_duplikater_Runde8.md#KF197): QMFBCOF11_4_1:MC19F_G; Hvis reist i utlandet. Kryss av for hvor i utlandet du har reist: Norden (Sverige, Danmark, Island, Finland); 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF198](Ungdom_duplikater_Runde8.md#KF198): QMFBCOF11_4_2:MC19F_G; Hvis reist i utlandet. Kryss av for hvor i utlandet du har reist: Utenfor Norden; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+- [KF199](Ungdom_duplikater_Runde8.md#KF199): QMFBCOF12_1:MC19F_G; ; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF200](Ungdom_duplikater_Runde8.md#KF200): QMFBCOF12_2_1:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Offentlig transport (buss, trikk, T-bane, tog); 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV.....
+- [KF201](Ungdom_duplikater_Runde8.md#KF201): QMFBCOF12_2_2:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Fly; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF202](Ungdom_duplikater_Runde8.md#KF202): QMFBCOF12_2_3:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Ferge/båt; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF203](Ungdom_duplikater_Runde8.md#KF203): QMFBCOF12_2_4:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Arbeidssituasjon; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF204](Ungdom_duplikater_Runde8.md#KF204): QMFBCOF12_2_5:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Idrettsarrangement; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF205](Ungdom_duplikater_Runde8.md#KF205): QMFBCOF12_2_6:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Festival; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF206](Ungdom_duplikater_Runde8.md#KF206): QMFBCOF12_2_7:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Konsert; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF207](Ungdom_duplikater_Runde8.md#KF207): QMFBCOF12_2_8:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Kino, teater, etc; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF208](Ungdom_duplikater_Runde8.md#KF208): QMFBCOF12_2_9:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Butikk/kjøpesenter; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF209](Ungdom_duplikater_Runde8.md#KF209): QMFBCOF12_2_10:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Restaurant; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF210](Ungdom_duplikater_Runde8.md#KF210): QMFBCOF12_2_11:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Uteliv (bar, café, etc); 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF211](Ungdom_duplikater_Runde8.md#KF211): QMFBCOF12_2_12:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Annen sosial sammenkomst (avslutninger, selskap, etc); 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I .....
+- [KF212](Ungdom_duplikater_Runde8.md#KF212): QMFBCOF12_2_13:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Treningssenter; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF213](Ungdom_duplikater_Runde8.md#KF213): QMFBCOF12_2_14:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Fornøyelsespark/badeland/svømmebasseng; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SIS.....
+- [KF214](Ungdom_duplikater_Runde8.md#KF214): QMFBCOF12_2_15:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Stranden/badeplass; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+- [KF215](Ungdom_duplikater_Runde8.md#KF215): QMFBCOF12_2_16:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Andre situasjoner; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+### BARN_NR
+BirthOrder
+
+
+| Category | n |
+| -------- | - |
+| 1 | 11 |
+| NA | 0 |
+
+
+### Fylkenummer
+Fylkenummer
+
+
+| Category | n |
+| -------- | - |
+| 50 | 1 |
+| 15 | 2 |
+| 34 | 2 |
+| 30 | 4 |
+| 46 | 1 |
+| 18 | 1 |
+| NA | 0 |
+
+
+### Fylkenavn
+Fylkenavn
+
+
+| Category | n |
+| -------- | - |
+| Trøndelag | 1 |
+| Møre og Romsdal | 2 |
+| Innlandet | 2 |
+| Viken | 4 |
+| Vestland | 1 |
+| Nordland | 1 |
+| NA | 0 |
+
+
+### AgeGrp
+Alder ved først utsendelse av MoBaKorona skjema
+
+
+| Category | n |
+| -------- | - |
+| 17 | 5 |
+| 16 | 6 |
+| NA | 0 |
+
+
+### Role
+
+
+| Category | n |
+| -------- | - |
+| Child | 11 |
+| NA | 0 |
+
+
+### ChildGender
+
+
+| Category | n |
+| -------- | - |
+| FEMALE | 7 |
+| MALE | 4 |
+| NA | 0 |
+
+
+### FillInDate
+
+
+| Category | n |
+| -------- | - |
+| 13813459200 | 11 |
+| NA | 0 |
+
+
+### FillInTime
+
+
+| Category | n |
+| -------- | - |
+| 21:00 | 1 |
+| 20:45 | 1 |
+| 22:30 | 1 |
+| 23:45 | 1 |
+| 18:45 | 2 |
+| 21:15 | 1 |
+| 19:15 | 2 |
+| 21:30 | 1 |
+| 22:45 | 1 |
+| NA | 0 |
+
+
+### VERSJON_MOBAKORONAF_TBL1
+
+
+| Category | n |
+| -------- | - |
+| MC19U_H | 11 |
+| NA | 0 |
+
+
+### KF10
+QMFBCOF_1:MC19F_G; (QMFBCOF_1:MC19F_F); (QMFBCOE_1:MC19F_E); (QMFBCOD_1:MC19F_D); (QMFBCOC_1:MC19F_C); (QMFBCOB_1:MC19F_B); (QMFBCO_1:MC19F_A); ; 1. ER DU BLITT SYK MED SYMPTOMER FRA LUFTVEIENE, SYKDOMSFØLELSE ELLER FEBER I LØPET AV DE SI.....
+
+
+| Category | n |
+| -------- | - |
+| NEI | 11 |
+| NA | 0 |
+
+
+### KF11
+QMFBCOF_1_1:MC19F_G; (QMFBCOF_1_1:MC19F_F); (QMFBCOE_1_1:MC19F_E); (QMFBCOD_1_1:MC19F_D); (QMFBCOC_1_1:MC19F_C); (QMFBCOB_1_1:MC19F_B); (QMFBCO_1_1:MC19F_A); HVOR MANGE DAGER ER DET SIDEN SYKDOMMEN/SYMPTOMENE BEGYNTE?; 1. ER DU BLITT SYK .....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF12
+QMFBCOF_1_2:MC19F_G; (QMFBCOF_1_2:MC19F_F); (QMFBCOE_1_2:MC19F_E); (QMFBCOD_1_2:MC19F_D); (QMFBCOC_1_2:MC19F_C); (QMFBCOB_1_2:MC19F_B); (QMFBCO_1_2:MC19F_A); KRYSS AV FOR HVOR SYK DU FØLTE DEG:; 1. ER DU BLITT SYK MED SYMPTOMER FRA LUFTVE.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF13
+QMFBCOF_1_3:MC19F_G; (QMFBCOF_1_3:MC19F_F); (QMFBCOE_1_3:MC19F_E); (QMFBCOD_1_3:MC19F_D); (QMFBCOC_1_3:MC19F_C); (QMFBCOB_1_3:MC19F_B); (QMFBCO_1_3:MC19F_A); KRYSS AV FOR HVOR LENGE DU FØLTE DEG SYK:; 1. ER DU BLITT SYK MED SYMPTOMER FRA .....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF14
+QMFBCOF_1_4:MC19F_G; (QMFBCOF_1_4:MC19F_F); (QMFBCOE_1_4:MC19F_E); (QMFBCOD_1_4:MC19F_D); (QMFBCOC_1_4:MC19F_C); (QMFBCOB_1_4:MC19F_B); (QMFBCO_1_4:MC19F_A); KRYSS AV FOR NÅR DU FØLTE DEG SYKEST:; 1. ER DU BLITT SYK MED SYMPTOMER FRA LUFT.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF15
+QMFBCOF_1_5_1:MC19F_G; (QMFBCOF_1_5_1:MC19F_F); (QMFBCOE_1_5_1:MC19F_E); (QMFBCOD_1_5_1:MC19F_D); (QMFBCOC_1_5_1:MC19F_C); (QMFBCOB_1_5_1:MC19F_B); (QMFBCO_1_5_1:MC19F_A); ER DU NÅ PLAGET AV HOSTE?; 1. ER DU BLITT SYK MED SYMPTOMER FRA LU.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF16
+QMFBCOF_1_5_2:MC19F_G; (QMFBCOF_1_5_2:MC19F_F); (QMFBCOE_1_5_2:MC19F_E); (QMFBCOD_1_5_2:MC19F_D); (QMFBCOC_1_5_2:MC19F_C); (QMFBCOB_1_5_2:MC19F_B); (QMFBCO_1_5_2:MC19F_A); (Hvis ja, Er du plaget av hoste) ER DET VESENTLIG TØRRHOSTE ELLER .....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF17
+QMFBCOF_1_6:MC19F_G; (QMFBCOF_1_6:MC19F_F); (QMFBCOE_1_6:MC19F_E); (QMFBCOD_1_6:MC19F_D); (QMFBCOC_1_6:MC19F_C); (QMFBCOB_1_6:MC19F_B); (QMFBCO_1_6:MC19F_A); HAR DU NÅ RENNENDE NESE ELLER NYSER?; 1. ER DU BLITT SYK MED SYMPTOMER FRA LUFTV.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF18
+QMFBCOF_1_7:MC19F_G; (QMFBCOF_1_7:MC19F_F); (QMFBCOE_1_7:MC19F_E); (QMFBCOD_1_7:MC19F_D); (QMFBCOC_1_7:MC19F_C); (QMFBCOB_1_7:MC19F_B); (QMFBCO_1_7:MC19F_A); HAR DU NÅ TETT NESE?; 1. ER DU BLITT SYK MED SYMPTOMER FRA LUFTVEIENE, SYKDOMSFØ.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF19
+QMFBCOF_1_8_1:MC19F_G; (QMFBCOF_1_8_1:MC19F_F); (QMFBCOE_1_8_1:MC19F_E); (QMFBCOD_1_8_1:MC19F_D); (QMFBCOC_1_8_1:MC19F_C); (QMFBCOB_1_8_1:MC19F_B); (QMFBCO_1_8_1:MC19F_A); HAR DU NÅ SÅRHET I HALSEN?; 1. ER DU BLITT SYK MED SYMPTOMER FRA L.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF20
+QMFBCOF_1_8_2:MC19F_G; (QMFBCOF_1_8_2:MC19F_F); (QMFBCOE_1_8_2:MC19F_E); (QMFBCOD_1_8_2:MC19F_D); (QMFBCOC_1_8_2:MC19F_C); (QMFBCOB_1_8_2:MC19F_B); (QMFBCO_1_8_2:MC19F_A); (Hvis ja, Har du nå sårhet i halsen) ER DET SMERTEFULLT Å SVELGE?;.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF21
+QMFBCOF_1_9:MC19F_G; (QMFBCOF_1_9:MC19F_F); (QMFBCOE_1_9:MC19F_E); (QMFBCOD_1_9:MC19F_D); (QMFBCOC_1_9:MC19F_C); (QMFBCOB_1_9:MC19F_B); (QMFBCO_1_9:MC19F_A); ER DU NÅ TETT I BRYSTET (TUNGT Å PUSTE)?; 1. ER DU BLITT SYK MED SYMPTOMER FRA L.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF22
+QMFBCOF_110:MC19F_G; (QMFBCOF_110:MC19F_F); (QMFBCOE_110:MC19F_E); (QMFBCOD_110:MC19F_D); (QMFBCOC_110:MC19F_C); (QMFBCOB_110:MC19F_B); (QMFBCO_110:MC19F_A); HAR DU I DAG ELLER I LØPET AV DE SISTE 3 DAGENE HATT HODEPINE?; 1. ER DU BLITT S.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF23
+QMFBCOF_111_1:MC19F_G; (QMFBCOF_111_1:MC19F_F); (QMFBCOE_111_1:MC19F_E); (QMFBCOD_111_1:MC19F_D); (QMFBCOC_111_1:MC19F_C); (QMFBCOB_111_1:MC19F_B); (QMFBCO_111_1:MC19F_A); HAR DU I DAG ELLER I LØPET AV DE SISTE 3 DAGENE HATT FEBER?; 1. ER.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF24
+QMFBCOF_111_2:MC19F_G; (QMFBCOF_111_2:MC19F_F); (QMFBCOE_111_2:MC19F_E); (QMFBCOD_111_2:MC19F_D); (QMFBCOC_111_2:MC19F_C); (QMFBCOB_111_2:MC19F_B); (QMFBCO_111_2:MC19F_A); (Hvis ja, Har du hatt feber) HAR DU VÆRT VELDIG KALD (SKJELVING) E.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF25
+QMFBCOF_112:MC19F_G; (QMFBCOF_112:MC19F_F); (QMFBCOE_112:MC19F_E); (QMFBCOD_112:MC19F_D); (QMFBCOC_112:MC19F_C); (QMFBCOB_112:MC19F_B); (QMFBCO_112:MC19F_A); HAR DU I DAG ELLER I LØPET AV DE SISTE 3 DAGENE HATT MAGESMERTER/KVALME/DIARÉ?; .....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF27
+QMFBCOF_113:MC19F_G; (QMFBCOF_113:MC19F_F); (QMFBCOE_113:MC19F_E); (QMFBCOD_113:MC19F_D); (QMFBCOC_113:MC19F_C); (QMFBCOB_114:MC19F_B); (QMFBCO_114:MC19F_A); HAR DU DE SISTE 3 DAGENE HATT MUSKELSMERTER?; 1. ER DU BLITT SYK MED SYMPTOMER F.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF28
+QMFBCOF_114:MC19F_G; (QMFBCOF_114:MC19F_F); (QMFBCOE_114:MC19F_E); (QMFBCOD_114:MC19F_D); (QMFBCOC_114:MC19F_C); (QMFBCOB_115:MC19F_B); (QMFBCO_115:MC19F_A); HAR DU DE SISTE 3 DAGENE OPPLEVD SVIMMELHET?; 1. ER DU BLITT SYK MED SYMPTOMER F.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF29
+QMFBCOF_2_1:MC19F_G; (QMFBCOF_2_1:MC19F_F); (QMFBCOE_2_1:MC19F_E); (QMFBCOD_2_1:MC19F_D); (QMFBCOC_2_1:MC19F_C); (QMFBCOB_2_1:MC19F_B); (QMFBCO_2_1:MC19F_A); ; 2. HAR DU VÆRT UNDERSØKT AV / HATT EN KONSULTASJON MED LEGE (F.EKS. TELEFON) I.....
+
+
+| Category | n |
+| -------- | - |
+| NEI | 11 |
+| NA | 0 |
+
+
+### KF30
+QMFBCOF_2_2_1:MC19F_G; (QMFBCOF_2_2_1:MC19F_F); (QMFBCOE_2_2_1:MC19F_E); (QMFBCOD_2_2_1:MC19F_D); (QMFBCOC_2_2_1:MC19F_C); (QMFBCOB_2_2_1:MC19F_B); (QMFBCO_2_2_1:MC19F_A); (Hvis ja, undersøkt av lege) MISTENKT ELLER SIKKER KORONAVIRUSSYKD.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF31
+QMFBCOF_2_2_2:MC19F_G; (QMFBCOF_2_2_2:MC19F_F); (QMFBCOE_2_2_2:MC19F_E); (QMFBCOD_2_2_2:MC19F_D); (QMFBCOC_2_2_2:MC19F_C); (QMFBCOB_2_2_2:MC19F_B); (QMFBCO_2_2_2:MC19F_A); (Hvis ja, undersøkt av lege) MISTENKT ELLER SIKKER INFLUENSA; 2. K.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF32
+QMFBCOF_2_2_3:MC19F_G; (QMFBCOF_2_2_3:MC19F_F); (QMFBCOE_2_2_3:MC19F_E); (QMFBCOD_2_2_3:MC19F_D); (QMFBCOC_2_2_3:MC19F_C); (QMFBCOB_2_2_3:MC19F_B); (QMFBCO_2_2_3:MC19F_A); (Hvis ja, undersøkt av lege) LUNGEBETENNELSE; 2. KRYSS AV FOR OM D.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF33
+QMFBCOF_2_2_4:MC19F_G; (QMFBCOF_2_2_4:MC19F_F); (QMFBCOE_2_2_4:MC19F_E); (QMFBCOD_2_2_4:MC19F_D); (QMFBCOC_2_2_4:MC19F_C); (QMFBCOB_2_2_4:MC19F_B); (QMFBCO_2_2_4:MC19F_A); (Hvis ja, undersøkt av lege) HALSBETENNELSE; 2. KRYSS AV FOR OM DU.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF34
+QMFBCOF_2_2_5:MC19F_G; (QMFBCOF_2_2_5:MC19F_F); (QMFBCOE_2_2_5:MC19F_E); (QMFBCOD_2_2_5:MC19F_D); (QMFBCOC_2_2_5:MC19F_C); (QMFBCOB_2_2_5:MC19F_B); (QMFBCO_2_2_5:MC19F_A); (Hvis ja, undersøkt av lege) FORKJØLELSE; 2. KRYSS AV FOR OM DU HA.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF35
+QMFBCOF_2_2_6:MC19F_G; (QMFBCOF_2_2_6:MC19F_F); (QMFBCOE_2_2_6:MC19F_E); (QMFBCOD_2_2_6:MC19F_D); (QMFBCOC_2_2_6:MC19F_C); (QMFBCOB_2_2_6:MC19F_B); (QMFBCO_2_2_6:MC19F_A); (Hvis ja, undersøkt av lege) ANNEN INFEKSJON; 2. KRYSS AV FOR OM D.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF36
+QMFBCOF_2_2_7:MC19F_G; (QMFBCOF_2_2_7:MC19F_F); (QMFBCOE_2_2_7:MC19F_E); (QMFBCOD_2_2_7:MC19F_D); (QMFBCOC_2_2_7:MC19F_C); (QMFBCOB_2_2_7:MC19F_B); (QMFBCO_2_2_7:MC19F_A); (Hvis ja, undersøkt av lege) SKADE; 2. KRYSS AV FOR OM DU HAR FÅTT.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF37
+QMFBCOF_2_2_8:MC19F_G; (QMFBCOF_2_2_8:MC19F_F); (QMFBCOE_2_2_8:MC19F_E); (QMFBCOD_2_2_8:MC19F_D); (QMFBCOC_2_2_8:MC19F_C); (QMFBCOB_2_2_8:MC19F_B); (QMFBCO_2_2_8:MC19F_A); (Hvis ja, undersøkt av lege) ANNEN SYKDOM; 2. KRYSS AV FOR OM DU H.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF38
+QMFBCOF_2_2_9:MC19F_G; (QMFBCOF_2_2_9:MC19F_F); (QMFBCOE_2_2_9:MC19F_E); (QMFBCOD_2_2_9:MC19F_D); (QMFBCOC_2_2_9:MC19F_C); (QMFBCOB_2_2_9:MC19F_B); (QMFBCO_2_2_9:MC19F_A); (Hvis ja, undersøkt av lege) )INGEN DIAGNOSE; 2. KRYSS AV FOR OM D.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF39
+QMFBCOF_4:MC19F_G; (QMFBCOF_4:MC19F_F); (QMFBCOE_4:MC19F_E); (QMFBCOD_4:MC19F_D); (QMFBCOC_4:MC19F_C); (QMFBCOB_4:MC19F_B); (QMFBCO_3:MC19F_A); ; 4. HAR DU VÆRT INNLAGT PÅ SYKEHUS I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NEI | 11 |
+| NA | 0 |
+
+
+### KF41
+QMFBCOF_6_3:MC19F_G; (QMFBCOF_6_3:MC19F_F); (QMFBCOE_6_3:MC19F_E); (QMFBCOD_6_3:MC19F_D); (QMFBCOC_6_3:MC19F_C); (QMFBCOB_5_2:MC19F_B); (QMFBCO_4_2:MC19F_A); VISTE TESTEN AT DU HADDE KORONAVIRUSINFEKSJON?; 6. 
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF42
+QMFBCOF_5_2:MC19F_G; (QMFBCOF_5_2:MC19F_F); (QMFBCOE_5_2:MC19F_E); (QMFBCOD_5_2:MC19F_D); (QMFBCOC_5_2:MC19F_C); (QMFBCOB_5_3:MC19F_B); (QMFBCO_4_3:MC19F_A); VISTE TESTEN AT DU HADDE INFLUENSAVIRUSINFEKSJON?; 5. 
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF43
+QMFBCOF_9_1:MC19F_G; (QMFBCOF_9_1:MC19F_F); (QMFBCOE_9_1:MC19F_E); (QMFBCOD_9_1:MC19F_D); (QMFBCOC_9_1:MC19F_C); (QMFBCOB_6_1:MC19F_B); (QMFBCO_5_1:MC19F_A); ; 9. HAR DU VÆRT I KARANTENE/ISOLAT I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NEI | 11 |
+| NA | 0 |
+
+
+### KF44
+QMFBCOF_9_2_1:MC19F_G; (QMFBCOF_9_2_1:MC19F_F); (QMFBCOE_9_2_1:MC19F_E); (QMFBCOD_9_2_1:MC19F_D); (QMFBCOC_9_2_1:MC19F_C); (QMFBCOB_6_2_1:MC19F_B); (QMFBCO_5_2_1:MC19F_A); (Kryss av for hvorfor du har vært i karantene/isolat) HAR VÆRT I U.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF45
+QMFBCOF_9_2_2:MC19F_G; (QMFBCOF_9_2_2:MC19F_F); (QMFBCOE_9_2_2:MC19F_E); (QMFBCOD_9_2_2:MC19F_D); (QMFBCOC_9_2_2:MC19F_C); (QMFBCOB_6_2_2:MC19F_B); (QMFBCO_5_2_2:MC19F_A); (Kryss av for hvorfor du har vært i karantene/isolat) HAR SYMPTOME.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF46
+QMFBCOF_9_2_3:MC19F_G; (QMFBCOF_9_2_3:MC19F_F); (QMFBCOE_9_2_3:MC19F_E); (QMFBCOD_9_2_3:MC19F_D); (QMFBCOC_9_2_3:MC19F_C); (QMFBCOB_6_2_3:MC19F_B); (QMFBCO_5_2_3:MC19F_A); (Kryss av for hvorfor du har vært i karantene/isolat) HAR PÅVIST K.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF47
+QMFBCOF_9_2_4:MC19F_G; (QMFBCOF_9_2_4:MC19F_F); (QMFBCOE_9_2_4:MC19F_E); (QMFBCOD_9_2_4:MC19F_D); (QMFBCOC_9_2_4:MC19F_C); (QMFBCOB_6_2_4:MC19F_B); (QMFBCO_5_2_4:MC19F_A); (Kryss av for hvorfor du har vært i karantene/isolat) HAR VÆRT I K.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF48
+QMFBCOF_9_2_5:MC19F_G; (QMFBCOF_9_2_5:MC19F_F); (QMFBCOE_9_2_5:MC19F_E); (QMFBCOD_9_2_5:MC19F_D); (QMFBCOC_9_2_5:MC19F_C); (QMFBCOB_6_2_5:MC19F_B); (QMFBCO_5_2_5:MC19F_A); (Kryss av for hvorfor du har vært i karantene/isolat) ANNEN GRUNN;.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF58
+QMFBCOF10_1:MC19F_G; (QMFBCOF10_1:MC19F_F); (QMFBCOE10_1:MC19F_E); (QMFBCOD10_1:MC19F_D); (QMFBCOC13_1:MC19F_C); (QMFBCOB10_1:MC19F_B); (QMFBCO_9_1:MC19F_A); ; 10. HVOR MANGE ANDRE BOR DU SAMMEN MED?
+
+
+| Category | n |
+| -------- | - |
+| 4 | 4 |
+| 3 | 4 |
+| 5 ELLER FLERE | 1 |
+| 2 | 2 |
+| NA | 0 |
+
+
+### KF59
+QMFBCOF10_2_1:MC19F_G; (QMFBCOF10_2_1:MC19F_F); (QMFBCOE10_2_1:MC19F_E); (QMFBCOD10_2_1:MC19F_D); (QMFBCOC13_2_1:MC19F_C); (QMFBCOB10_2_1:MC19F_B); (QMFBCO_9_2_1:MC19F_A); HAR DEN ANDRE VÆRT SYK MED LUFTVEISPLAGER DE SISTE 14 DAGENE?; 10......
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF60
+QMFBCOF10_2_2:MC19F_G; (QMFBCOF10_2_2:MC19F_F); (QMFBCOE10_2_2:MC19F_E); (QMFBCOD10_2_2:MC19F_D); (QMFBCOC13_2_2:MC19F_C); (QMFBCOB10_2_2:MC19F_B); (QMFBCO_9_2_2:MC19F_A); HAR DEN ANDRE FÅTT PÅVIST SMITTE MED KORONAVIRUS?; 10. (HVIS 1 ANN.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF61
+QMFBCOF10_3_1:MC19F_G; (QMFBCOF10_3_1:MC19F_F); (QMFBCOE10_3_1:MC19F_E); (QMFBCOD10_3_1:MC19F_D); (QMFBCOC13_3_1:MC19F_C); (QMFBCOB10_3_1:MC19F_B); (QMFBCO_9_3_1:MC19F_A); HVOR MANGE AV DE ANDRE HAR VÆRT SYKE MED LUFTVEISPLAGER DE SISTE 1.....
+
+
+| Category | n |
+| -------- | - |
+| 0 | 2 |
+| NA | 9 |
+
+
+### KF62
+QMFBCOF10_3_2:MC19F_G; (QMFBCOF10_3_2:MC19F_F); (QMFBCOE10_3_2:MC19F_E); (QMFBCOD10_3_2:MC19F_D); (QMFBCOC13_3_2:MC19F_C); (QMFBCOB10_3_2:MC19F_B); (QMFBCO_9_3_2:MC19F_A); HVOR MANGE AV DE ANDRE HAR FÅTT PÅVIST SMITTE MED KORONAVIRUS?; 10.....
+
+
+| Category | n |
+| -------- | - |
+| 0 | 2 |
+| NA | 9 |
+
+
+### KF63
+QMFBCOF10_4_1:MC19F_G; (QMFBCOF10_4_1:MC19F_F); (QMFBCOE10_4_1:MC19F_E); (QMFBCOD10_4_1:MC19F_D); (QMFBCOC13_4_1:MC19F_C); (QMFBCOB10_4_1:MC19F_B); (QMFBCO_9_4_1:MC19F_A); HVOR MANGE AV DE ANDRE HAR VÆRT SYKE MED LUFTVEISPLAGER DE SISTE 1.....
+
+
+| Category | n |
+| -------- | - |
+| 0 | 3 |
+| 1 | 1 |
+| NA | 7 |
+
+
+### KF64
+QMFBCOF10_4_2:MC19F_G; (QMFBCOF10_4_2:MC19F_F); (QMFBCOE10_4_2:MC19F_E); (QMFBCOD10_4_2:MC19F_D); (QMFBCOC13_4_2:MC19F_C); (QMFBCOB10_4_2:MC19F_B); (QMFBCO_9_4_2:MC19F_A); HVOR MANGE AV DE ANDRE HAR FÅTT PÅVIST SMITTE MED KORONAVIRUS?; 10.....
+
+
+| Category | n |
+| -------- | - |
+| 0 | 4 |
+| NA | 7 |
+
+
+### KF65
+QMFBCOF10_5_1:MC19F_G; (QMFBCOF10_5_1:MC19F_F); (QMFBCOE10_5_1:MC19F_E); (QMFBCOD10_5_1:MC19F_D); (QMFBCOC13_5_1:MC19F_C); (QMFBCOB10_5_1:MC19F_B); (QMFBCO_9_5_1:MC19F_A); HVOR MANGE AV DE ANDRE HAR VÆRT SYKE MED LUFTVEISPLAGER DE SISTE 1.....
+
+
+| Category | n |
+| -------- | - |
+| 0 | 4 |
+| NA | 7 |
+
+
+### KF66
+QMFBCOF10_5_2:MC19F_G; (QMFBCOF10_5_2:MC19F_F); (QMFBCOE10_5_2:MC19F_E); (QMFBCOD10_5_2:MC19F_D); (QMFBCOC13_5_2:MC19F_C); (QMFBCOB10_5_2:MC19F_B); (QMFBCO_9_5_2:MC19F_A); HVOR MANGE AV DE ANDRE HAR FÅTT PÅVIST SMITTE MED KORONAVIRUS?; 10.....
+
+
+| Category | n |
+| -------- | - |
+| 0 | 4 |
+| NA | 7 |
+
+
+### KF67
+QMFBCOF10_6_1:MC19F_G; (QMFBCOF10_6_1:MC19F_F); (QMFBCOE10_6_1:MC19F_E); (QMFBCOD10_6_1:MC19F_D); (QMFBCOC13_6_1:MC19F_C); (QMFBCOB10_6_1:MC19F_B); (QMFBCO_9_6_1:MC19F_A); HVOR MANGE AV DE ANDRE HAR VÆRT SYKE MED LUFTVEISPLAGER DE SISTE 1.....
+
+
+| Category | n |
+| -------- | - |
+| 0 | 1 |
+| NA | 10 |
+
+
+### KF68
+QMFBCOF10_6_2:MC19F_G; (QMFBCOF10_6_2:MC19F_F); (QMFBCOE10_6_2:MC19F_E); (QMFBCOD10_6_2:MC19F_D); (QMFBCOC13_6_2:MC19F_C); (QMFBCOB10_6_2:MC19F_B); (QMFBCO_9_6_2:MC19F_A); HVOR MANGE AV DE ANDRE HAR FÅTT PÅVIST SMITTE MED KORONAVIRUS?; 10.....
+
+
+| Category | n |
+| -------- | - |
+| 0 | 1 |
+| NA | 10 |
+
+
+### KF95
+SVARTID:MC19F_G; (SVARTID:MC19F_F); (SVARTID:MC19F_E); (SVARTID:MC19F_D); (SVARTID:MC19F_C); (SVARTID:MC19F_B); (SVARTID:MC19F_A); ; . 
+
+
+| Category | n |
+| -------- | - |
+| 140 | 1 |
+| 116 | 1 |
+| 50 | 2 |
+| 59 | 1 |
+| 62 | 1 |
+| 89 | 1 |
+| 65 | 2 |
+| 53 | 1 |
+| 1089 | 1 |
+| NA | 0 |
+
+
+### KF96
+
+
+| Category | n |
+| -------- | - |
+| JA, JEG SAMTYKKER. | 11 |
+| NA | 0 |
+
+
+### KF97
+QMFBCOF_3_1:MC19F_G; (QMFBCOF_3_1:MC19F_F); (QMFBCOE_3_1:MC19F_E); (QMFBCOD_3_1:MC19F_D); (QMFBCOC_3_1:MC19F_C); (QMFBCOB_3_1:MC19F_B); ; 3. HAR DU POLLENALLERGI?
+
+
+| Category | n |
+| -------- | - |
+| JA | 2 |
+| NEI | 9 |
+| NA | 0 |
+
+
+### KF98
+QMFBCOF_3_2:MC19F_G; (QMFBCOF_3_2:MC19F_F); (QMFBCOE_3_2:MC19F_E); (QMFBCOD_3_2:MC19F_D); (QMFBCOC_3_2:MC19F_C); (QMFBCOB_3_2:MC19F_B); Hvis ja: Plages du av pollenallergi nå?; 3. HAR DU POLLENALLERGI?
+
+
+| Category | n |
+| -------- | - |
+| NEI | 1 |
+| JA | 1 |
+| NA | 9 |
+
+
+### KF110
+QMFBCOF_5_1:MC19F_G; (QMFBCOF_5_1:MC19F_F); (QMFBCOE_5_1:MC19F_E); (QMFBCOD_5_1:MC19F_D); (QMFBCOC_5_1:MC19F_C); (Delt fra versjon C); 5. ER DU BLITT TESTET FOR INFLUENSAVIRUSINFEKSJON I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NEI | 11 |
+| NA | 0 |
+
+
+### KF111
+QMFBCOF_6_1:MC19F_G; (QMFBCOF_6_1:MC19F_F); (QMFBCOE_6_1:MC19F_E); (QMFBCOD_6_1:MC19F_D); (QMFBCOC_6_1:MC19F_C); (Delt fra versjon C); 6. ER DU BLITT TESTET FOR KORONAVIRUSINFEKSJON I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NEI | 11 |
+| NA | 0 |
+
+
+### KF112
+QMFBCOF_6_2_1:MC19F_G; (QMFBCOF_6_2_1:MC19F_F); (QMFBCOE_6_2_1:MC19F_E); (QMFBCOD_6_2_1:MC19F_D); (QMFBCOC_6_2_1:MC19F_C); Har vært i utlandet (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. ER DU BLITT TESTET FOR K.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF113
+QMFBCOF_6_2_2:MC19F_G; (QMFBCOF_6_2_2:MC19F_F); (QMFBCOE_6_2_2:MC19F_E); (QMFBCOD_6_2_2:MC19F_D); (QMFBCOC_6_2_2:MC19F_C); Har/hadde symptomer på sykdom  (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. ER DU BLITT T.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF114
+QMFBCOF_6_2_3:MC19F_G; (QMFBCOF_6_2_3:MC19F_F); (QMFBCOE_6_2_3:MC19F_E); (QMFBCOD_6_2_3:MC19F_D); (QMFBCOC_6_2_3:MC19F_C); Har vært i kontakt med personer som er smittet med koronavirus (Hvis ja:Kryss av hvorfor du ble testet for koronav.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF115
+QMFBCOF_6_2_4:MC19F_G; (QMFBCOF_6_2_4:MC19F_F); (QMFBCOE_6_2_4:MC19F_E); (QMFBCOD_6_2_4:MC19F_D); (QMFBCOC_6_2_4:MC19F_C); På grunn av arbeidssitasjonen min (for eksempel helsepersonell, ansatt i barnehage, skole, etc.)  (Hvis ja:Kryss a.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF116
+QMFBCOF_6_2_5:MC19F_G; (QMFBCOF_6_2_5:MC19F_F); (QMFBCOE_6_2_5:MC19F_E); (QMFBCOD_6_2_5:MC19F_D); (QMFBCOC_6_2_5:MC19F_C); Fordi jeg har andre helseplager/sykdommer  (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. E.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF117
+QMFBCOF_6_2_6:MC19F_G; (QMFBCOF_6_2_6:MC19F_F); (QMFBCOE_6_2_6:MC19F_E); (QMFBCOD_6_2_6:MC19F_D); (QMFBCOC_6_2_6:MC19F_C); Eget ønske om testing  (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. ER DU BLITT TESTET FO.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF118
+QMFBCOF_6_2_7:MC19F_G; (QMFBCOF_6_2_7:MC19F_F); (QMFBCOE_6_2_7:MC19F_E); (QMFBCOD_6_2_7:MC19F_D); (QMFBCOC_6_2_7:MC19F_C); Leg/helsepersonell anbefalte testing (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. ER DU B.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF119
+QMFBCOF_6_2_8:MC19F_G; (QMFBCOF_6_2_8:MC19F_F); (QMFBCOE_6_2_8:MC19F_E); (QMFBCOD_6_2_8:MC19F_D); (QMFBCOC_6_2_8:MC19F_C); Annen grunn (Hvis ja:Kryss av hvorfor du ble testet for koronavirusinfeksjon); 6. ER DU BLITT TESTET FOR KORONAVIR.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF120
+QMFBCOF_7:MC19F_G; (QMFBCOF_7:MC19F_F); (QMFBCOE_7:MC19F_E); (QMFBCOD_7:MC19F_D); (QMFBCOC_7:MC19F_C); ; 7. HAR DU HATT NEDSATT LUKTESANS ELLER SMAKSANS I LØPET AV DE SISTE 14 DAGENE? (Fra C flyttet ut fra spm 1, se 1.13 for A og B)
+
+
+| Category | n |
+| -------- | - |
+| NEI | 11 |
+| NA | 0 |
+
+
+### KF121
+QMFBCOF_8_1:MC19F_G; (QMFBCOF_8_1:MC19F_F); (QMFBCOE_8_1:MC19F_E); (QMFBCOD_8_1:MC19F_D); (QMFBCOC_8_1:MC19F_C); ; 8. HAR DU OPPLEVD NYOPPSTÅTT HUDUTSLETT I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NEI | 11 |
+| NA | 0 |
+
+
+### KF122
+QMFBCOF_8_2_1:MC19F_G; (QMFBCOF_8_2_1:MC19F_F); (QMFBCOE_8_2_1:MC19F_E); (QMFBCOD_8_2_1:MC19F_D); (QMFBCOC_8_2_1:MC19F_C); Hode/hals (Hvis ja: Kryss av for hvor du fikk utslett); 8. HAR DU OPPLEVD NYOPPSTÅTT HUDUTSLETT I LØPET AV DE SIST.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF123
+QMFBCOF_8_2_2:MC19F_G; (QMFBCOF_8_2_2:MC19F_F); (QMFBCOE_8_2_2:MC19F_E); (QMFBCOD_8_2_2:MC19F_D); (QMFBCOC_8_2_2:MC19F_C); Bryst/mage/rygg (Hvis ja: Kryss av for hvor du fikk utslett); 8. HAR DU OPPLEVD NYOPPSTÅTT HUDUTSLETT I LØPET AV D.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF124
+QMFBCOF_8_2_3:MC19F_G; (QMFBCOF_8_2_3:MC19F_F); (QMFBCOE_8_2_3:MC19F_E); (QMFBCOD_8_2_3:MC19F_D); (QMFBCOC_8_2_3:MC19F_C); Armer (Hvis ja: Kryss av for hvor du fikk utslett); 8. HAR DU OPPLEVD NYOPPSTÅTT HUDUTSLETT I LØPET AV DE SISTE 14.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF125
+QMFBCOF_8_2_4:MC19F_G; (QMFBCOF_8_2_4:MC19F_F); (QMFBCOE_8_2_4:MC19F_E); (QMFBCOD_8_2_4:MC19F_D); (QMFBCOC_8_2_4:MC19F_C); Ben (Hvis ja: Kryss av for hvor du fikk utslett); 8. HAR DU OPPLEVD NYOPPSTÅTT HUDUTSLETT I LØPET AV DE SISTE 14 D.....
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF165
+QMFBCOF13:MC19F_G; (QMFBCOF14:MC19F_F); ; 13. Har du noen gang fått påvist smitte med koronavirus (SARS-CoV-2) i nese-/halsprøve eller spyttprøve?
+
+
+| Category | n |
+| -------- | - |
+| NEI | 11 |
+| NA | 0 |
+
+
+### KF166
+QMFBCOF14:MC19F_G; (QMFBCOF15:MC19F_F); ; 14. Har du noen gang testet positivt for antistoffer mot koronavirus (SARS-CoV-2) i blodprøve?
+
+
+| Category | n |
+| -------- | - |
+| NEI | 11 |
+| NA | 0 |
+
+
+### KF182
+QMFBCOF_9_3:MC19F_G; Hvis ja, kryss av for hvorfor du har vært i karantene/isolat: Annen grunn, beskriv (tekst); 9. HAR DU VÆRT I KARANTENE/ISOLAT I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+|  | 11 |
+| NA | 0 |
+
+
+### KF1820
+QMFBCOF_9_3:MC19F_G; Hvis ja, kryss av for hvorfor du har vært i karantene/isolat: Annen grunn, beskriv (tekst); 9. HAR DU VÆRT I KARANTENE/ISOLAT I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+|  | 11 |
+| NA | 0 |
+
+
+### KF183
+QMFBCOF11_1:MC19F_G; ; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| JA | 3 |
+| NEI | 8 |
+| NA | 0 |
+
+
+### KF184
+QMFBCOF11_2_1:MC19F_G; Hvis ja, kryss av for hvor du har reist: Har reist i Norge; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 3 |
+| NA | 8 |
+
+
+### KF185
+QMFBCOF11_2_2:MC19F_G; Hvis ja, kryss av for hvor du har reist: Har reist i utlandet; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF186
+QMFBCOF11_3_1:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Agder; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF187
+QMFBCOF11_3_2:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Innlandet; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF188
+QMFBCOF11_3_3:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Møre og Romsdal; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF189
+QMFBCOF11_3_4:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Nordland; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 1 |
+| NA | 10 |
+
+
+### KF190
+QMFBCOF11_3_5:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i:Oslo; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF191
+QMFBCOF11_3_6:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Rogaland; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF192
+QMFBCOF11_3_7:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Vestfold og Telemark; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 1 |
+| NA | 10 |
+
+
+### KF193
+QMFBCOF11_3_8:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Troms og Finnmark; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF194
+QMFBCOF11_3_9:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Trøndelag; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 1 |
+| NA | 10 |
+
+
+### KF195
+QMFBCOF11_3_10:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Vestland; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF196
+QMFBCOF11_3_11:MC19F_G; Hvis reist i Norge. Kryss av for fylke(r) du har reist i: Viken; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 2 |
+| NA | 9 |
+
+
+### KF197
+QMFBCOF11_4_1:MC19F_G; Hvis reist i utlandet. Kryss av for hvor i utlandet du har reist: Norden (Sverige, Danmark, Island, Finland); 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF198
+QMFBCOF11_4_2:MC19F_G; Hvis reist i utlandet. Kryss av for hvor i utlandet du har reist: Utenfor Norden; 11. HAR DU VÆRT PÅ REISE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF199
+QMFBCOF12_1:MC19F_G; ; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| JA | 3 |
+| NEI | 8 |
+| NA | 0 |
+
+
+### KF200
+QMFBCOF12_2_1:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Offentlig transport (buss, trikk, T-bane, tog); 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV.....
+
+
+| Category | n |
+| -------- | - |
+| 1 | 2 |
+| NA | 9 |
+
+
+### KF201
+QMFBCOF12_2_2:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Fly; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF202
+QMFBCOF12_2_3:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Ferge/båt; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF203
+QMFBCOF12_2_4:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Arbeidssituasjon; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 1 |
+| NA | 10 |
+
+
+### KF204
+QMFBCOF12_2_5:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Idrettsarrangement; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF205
+QMFBCOF12_2_6:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Festival; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF206
+QMFBCOF12_2_7:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Konsert; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF207
+QMFBCOF12_2_8:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Kino, teater, etc; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF208
+QMFBCOF12_2_9:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Butikk/kjøpesenter; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 1 |
+| NA | 10 |
+
+
+### KF209
+QMFBCOF12_2_10:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Restaurant; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 1 |
+| NA | 10 |
+
+
+### KF210
+QMFBCOF12_2_11:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Uteliv (bar, café, etc); 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF211
+QMFBCOF12_2_12:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Annen sosial sammenkomst (avslutninger, selskap, etc); 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I .....
+
+
+| Category | n |
+| -------- | - |
+| 1 | 1 |
+| NA | 10 |
+
+
+### KF212
+QMFBCOF12_2_13:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Treningssenter; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF213
+QMFBCOF12_2_14:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Fornøyelsespark/badeland/svømmebasseng; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SIS.....
+
+
+| Category | n |
+| -------- | - |
+| 1 | 1 |
+| NA | 10 |
+
+
+### KF214
+QMFBCOF12_2_15:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Stranden/badeplass; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
+### KF215
+QMFBCOF12_2_16:MC19F_G; Hvis ja, kryss av for hvor du har opplevd dette: Andre situasjoner; 12. HAR DU VÆRT I EN SITUASJON HVOR DU HAR OPPLEVD AT DET HAR VÆRT VANSKELIG Å OVERHOLDE SMITTEVERNREGLENE I LØPET AV DE SISTE 14 DAGENE?
+
+
+| Category | n |
+| -------- | - |
+| NA | 11 |
+
+
