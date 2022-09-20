@@ -34,14 +34,14 @@ raw_tables_folder = f"/mnt/work/marc/pheno_{suffix}/raw"
 covid_tables_folder = f"/mnt/work/marc/pheno_{suffix}/covid"
 
 # Raw tables
-mfr_raw_table = os.path.join(raw_tables_folder, 'PDB2824_MFR_541_v12.gz')
-msis_raw_table = os.path.join(raw_tables_folder, f'PDB{moba_project_number}_MSIS-data_MoBa.gz')
-child_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Barn_ID_{moba_project_number}_2021_11_17sav.gz')
-mother_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Mor_ID_{moba_project_number}_2021_11_17sav.gz')
-father_id_mapping_raw_table = os.path.join(raw_tables_folder, f'Far_ID_{moba_project_number}_2021_11_17sav.gz')
-child_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Child_PDB{moba_project_number}.gz')
-mother_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Mother_PDB{moba_project_number}.gz')
-father_id_linkage_raw_table = os.path.join(raw_tables_folder, f'20220516_MoBaGeneticsTot_Father_PDB{moba_project_number}.gz')
+mfr_raw_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_MFR_541_v12.gz')
+msis_raw_table = os.path.join(raw_tables_folder, 'msis', f'PDB{moba_project_number}_MSIS-data_MoBa.gz')
+child_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'moba_ques', f'Barn_ID_{moba_project_number}_2021_11_17sav.gz')
+mother_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'msis', f'Mor_ID_{moba_project_number}_2021_11_17sav.gz')
+father_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'msis', f'Far_ID_{moba_project_number}_2021_11_17sav.gz')
+child_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Child_PDB{moba_project_number}.gz')
+mother_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Mother_PDB{moba_project_number}.gz')
+father_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Father_PDB{moba_project_number}.gz')
 
 
 # Covid table
@@ -98,9 +98,9 @@ rule raw_pheno:
         docs_file = os.path.join(raw_docs_folder, 'data.md'),
         mfr_raw_table = mfr_raw_table,
         msis_raw_table = msis_raw_table,
-        child_id_mapping_raw_table = child_id_mapping_raw_table,
-        mother_id_mapping_raw_table = mother_id_mapping_raw_table,
-        father_id_mapping_raw_table = father_id_mapping_raw_table,
+        child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
+        mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
+        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table,
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table
@@ -123,17 +123,16 @@ rule raw_pheno:
 rule consolidate_covid_pheno:
     'Consolidates the covid questionnaires into a single table'
     input:
-        mfr_raw_table = mfr_raw_table,
-        msis_raw_table = msis_raw_table,
-        child_id_mapping_raw_table = child_id_mapping_raw_table,
-        mother_id_mapping_raw_table = mother_id_mapping_raw_table,
-        father_id_mapping_raw_table = father_id_mapping_raw_table,
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
-        father_id_linkage_raw_table = father_id_linkage_raw_table
+        father_id_linkage_raw_table = father_id_linkage_raw_table,
+        mfr_raw_table = mfr_raw_table,
+        msis_raw_table = msis_raw_table,
+        child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
+        mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
+        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table,
     params:
-        covid_docs_folder = moba_project_number,
-        raw_tables_folder = raw_tables_folder
+        covid_docs_folder = moba_project_number
     output:
         covid_table = covid_table
     conda:
@@ -143,6 +142,14 @@ rule consolidate_covid_pheno:
         """
         Rscript src/scripts/consolidate_covid_phenotypes.R \
             {params.raw_tables_folder} \
+            {input.child_id_linkage_raw_table} \
+            {input.mother_id_linkage_raw_table} \
+            {input.father_id_linkage_raw_table} \
+            {input.mfr_raw_table} \
+            {input.msis_raw_table} \
+            {input.child_msis_id_mapping_raw_table} \
+            {input.mother_msis_id_mapping_raw_table} \
+            {input.father_msis_id_mapping_raw_table} \
             {output.covid_table} \
             {params.covid_docs_folder}
         """
