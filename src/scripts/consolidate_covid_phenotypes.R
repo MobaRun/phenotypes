@@ -69,8 +69,16 @@ filter <- dplyr::filter
 args <- commandArgs(TRUE)
 
 rawTablesFolder <- args[1]
-covidTable <- args[2]
-docsFolder <- args[3]
+child_id_linkage_raw_table_path <- args[2]
+mother_id_linkage_raw_table_path <- args[3]
+father_id_linkage_raw_table_path <- args[4]
+mfr_raw_table <- args[5]
+msis_raw_table_path <- args[6]
+child_msis_id_mapping_raw_table_path <- args[7]
+mother_msis_id_mapping_raw_table_path <- args[8]
+father_msis_id_mapping_raw_table_path <- args[9]
+covidTable <- args[10]
+docsFolder <- args[11]
 
 
 # Functions
@@ -115,7 +123,7 @@ if (!dir.exists(longCovidDocsFolder)) {
 print(paste0(Sys.time(), "    Loading identifiers"))
 
 childIdDF <- read.table(
-  file = file.path(rawTablesFolder, "20220516_MoBaGeneticsTot_Child_PDB2824.gz"),
+  file = child_id_linkage_raw_table_path,
   sep = "\t",
   header = T,
   quote = "",
@@ -127,18 +135,8 @@ childIdDF <- read.table(
     child_id = paste0(preg_id_2824, "_", barn_nr)
   )
 
-for (colname in c("sentrix_id", "role", "batch", "sampletype")) {
-  
-  childIdDF[[colname]] <- str_replace_all(
-    string = childIdDF[[colname]], 
-    pattern = " ",
-    repl = ""
-  )
-  
-}
-
 motherIdDF <- read.table(
-  file = file.path(rawTablesFolder, "20220516_MoBaGeneticsTot_Mother_PDB2824.gz"),
+  file = mother_id_linkage_raw_table_path,
   sep = "\t",
   header = T,
   quote = "",
@@ -146,21 +144,10 @@ motherIdDF <- read.table(
   comment.char = ""
 ) %>% 
   clean_names()
-
-
-for (colname in c("m_id_2824", "sentrix_id", "role", "batch", "sampletype")) {
-  
-  motherIdDF[[colname]] <- str_replace_all(
-    string = motherIdDF[[colname]], 
-    pattern = " ",
-    repl = ""
-  )
-  
-}
 
 
 fatherIdDF <- read.table(
-  file = file.path(rawTablesFolder, "20220516_MoBaGeneticsTot_Father_PDB2824.gz"),
+  file = father_id_linkage_raw_table_path,
   sep = "\t",
   header = T,
   quote = "",
@@ -168,17 +155,6 @@ fatherIdDF <- read.table(
   comment.char = ""
 ) %>% 
   clean_names()
-
-
-for (colname in c("f_id_2824", "sentrix_id", "role", "batch", "sampletype")) {
-  
-  fatherIdDF[[colname]] <- str_replace_all(
-    string = fatherIdDF[[colname]], 
-    pattern = " ",
-    repl = ""
-  )
-  
-}
 
 idDF <- rbind(
   childIdDF %>% 
@@ -1207,7 +1183,7 @@ if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
 print(glue("{Sys.time()} - Loading MBR data"))
 
 mbrDF <- read.table(
-    file = file.path(rawTablesFolder, "PDB2824_MFR_541_v12.gz"),
+    file = mfr_raw_table,
     sep = "\t",
     header = T,
     quote = "",
@@ -1311,7 +1287,7 @@ if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
 print(glue("{Sys.time()} - Merging with infection registry"))
 
 msisDF <- read.table(
-    file = file.path(rawTablesFolder, "PDB2824_MSIS-data_MoBa.gz"),
+    file = msis_raw_table_path,
     sep = "\t",
     header = T,
     quote = "",
@@ -1320,10 +1296,8 @@ msisDF <- read.table(
 ) %>% 
     clean_names()
 
-idMappingFile <- file.path(rawTablesFolder, glue("Mor_ID_2824_2021_11_17sav.gz"))
-
 idMappingDF <- read.table(
-    file = idMappingFile,
+    file = mother_msis_id_mapping_raw_table_path,
     sep = "\t",
     header = T,
     quote = "",
@@ -1339,10 +1313,8 @@ msisDF <- msisDF %>%
         by = "pid_k_2824"
     )
 
-idMappingFile <- file.path(rawTablesFolder, glue("Far_ID_2824_2021_11_17sav.gz"))
-
 idMappingDF <- read.table(
-    file = idMappingFile,
+    file = father_msis_id_mapping_raw_table_path,
     sep = "\t",
     header = T,
     quote = "",
@@ -1364,10 +1336,8 @@ msisDF <- msisDF %>%
         -temp_id
     )
 
-idMappingFile <- file.path(rawTablesFolder, glue("Barn_ID_2824_2021_11_17sav.gz"))
-
 idMappingDF <- read.table(
-    file = idMappingFile,
+    file = child_msis_id_mapping_raw_table_path,
     sep = "\t",
     header = T,
     quote = "",
