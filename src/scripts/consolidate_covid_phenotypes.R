@@ -79,6 +79,7 @@ mother_msis_id_mapping_raw_table_path <- args[8]
 father_msis_id_mapping_raw_table_path <- args[9]
 covidTable <- args[10]
 docsFolder <- args[11]
+mobaProjectNumber <- args[12]
 
 
 # Functions
@@ -117,6 +118,15 @@ if (!dir.exists(longCovidDocsFolder)) {
   
 }
 
+# Project specific variables
+
+preg_id_column <- paste0("preg_id_", mobaProjectNumber)
+mother_id_column <- paste0("m_id_", mobaProjectNumber)
+father_id_column <- paste0("f_id_", mobaProjectNumber)
+parent_id_column <- paste0("p_id_", mobaProjectNumber)
+kIdColumn <- paste0("pid_k_", mobaProjectNumber)
+msisIdColumn <- paste0("pid_msis_", mobaProjectNumber)
+
 
 # Load identifiers
 
@@ -132,7 +142,7 @@ childIdDF <- read.table(
 ) %>% 
   clean_names() %>% 
   mutate(
-    child_id = paste0(preg_id_2824, "_", barn_nr)
+    child_id = paste0(!!sym(preg_id_column), "_", barn_nr)
   )
 
 motherIdDF <- read.table(
@@ -163,11 +173,11 @@ idDF <- rbind(
     ),
   motherIdDF %>% 
     select(
-      id = m_id_2824, sentrix_id, role, batch
+      id = !!sym(mother_id_column), sentrix_id, role, batch
     ),
   fatherIdDF %>% 
     select(
-      id = f_id_2824, sentrix_id, role, batch
+      id = !!sym(father_id_column), sentrix_id, role, batch
     )
 )
 
@@ -435,14 +445,10 @@ for (folder in list.files(quesFolder)) {
                             ),
                             id = ifelse(
                                 test = role == "Child",
-                                yes = paste0(preg_id_2824, "_", barn_nr),
-                                no = p_id_2824
+                                yes = paste0(!!sym(preg_id_column), "_", barn_nr),
+                                no = !!sym(parent_id_column)
                             )
                         )
-                    
-                    print(names(quesDF))
-                    
-                    stop("DEBUG")
                     
                     if (!"fill_in_date" %in% names(quesDF)) {
                         
@@ -1192,7 +1198,7 @@ mbrDF <- read.table(
 ) %>% 
     clean_names() %>% 
     mutate(
-        child_id = paste0(preg_id_2824, "_", barn_nr)
+        child_id = paste0(!!sym(preg_id_column), "_", barn_nr)
     )
 
 child_faarDF <- mbrDF %>% 
@@ -1202,7 +1208,7 @@ child_faarDF <- mbrDF %>%
 
 mother_faarDF <- mbrDF %>% 
     select(
-        id = m_id_2824, birth_year = mor_faar
+        id = !!sym(mother_id_column), birth_year = mor_faar
     ) %>% 
     mutate(
         birth_year = ifelse(birth_year == "<=1958", 1958, birth_year),
@@ -1211,7 +1217,7 @@ mother_faarDF <- mbrDF %>%
 
 father_faarDF <- mbrDF %>% 
     select(
-        id = f_id_2824, birth_year = far_faar
+        id = !!sym(father_id_column), birth_year = far_faar
     ) %>% 
     mutate(
         birth_year = ifelse(birth_year == "<=1944", 1944, birth_year),
@@ -1305,12 +1311,12 @@ idMappingDF <- read.table(
     comment.char = ""
 )
 
-names(idMappingDF) <- c("id", "pid_k_2824")
+names(idMappingDF) <- c("id", kIdColumn)
 
 msisDF <- msisDF %>% 
     left_join(
         idMappingDF,
-        by = "pid_k_2824"
+        by = kIdColumn
     )
 
 idMappingDF <- read.table(
@@ -1322,12 +1328,12 @@ idMappingDF <- read.table(
     comment.char = ""
 )
 
-names(idMappingDF) <- c("temp_id", "pid_k_2824")
+names(idMappingDF) <- c("temp_id", kIdColumn)
 
 msisDF <- msisDF %>% 
     left_join(
         idMappingDF,
-        by = "pid_k_2824"
+        by = kIdColumn
     ) %>% 
     mutate(
         id = ifelse(!is.na(temp_id), temp_id, id)
@@ -1346,17 +1352,17 @@ idMappingDF <- read.table(
 ) %>% 
     clean_names() %>%
     mutate(
-        temp_id = paste0(preg_id_2824, "_", barn_nr)
+        temp_id = paste0(!!sym(preg_id_column), "_", barn_nr)
     ) %>% 
     select(
         temp_id,
-        pid_k_2824 = pid_msis_2824
+        !!kIdColumn := msisIdColumn
     )
 
 msisDF <- msisDF %>% 
     left_join(
         idMappingDF,
-        by = "pid_k_2824"
+        by = kIdColumn
     ) %>% 
     mutate(
         id = ifelse(!is.na(temp_id), temp_id, id)
