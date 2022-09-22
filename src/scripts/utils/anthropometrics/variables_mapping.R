@@ -301,6 +301,10 @@ q1fVariablesMapping <- c(
   father_eating_disorders = "FF389"
 )
 
+q3VariablesMapping <- c(
+  
+)
+
 q2VariablesMapping <- c(
   k_cal = "KCAL", 
   tot_prot = "TOT_PROT", 
@@ -715,6 +719,14 @@ q9VariablesMapping <- c(
   emotional_difficulties_sad_or_anxious_currently_8y = "NN61", 
   emotional_difficulties_sad_or_anxious_past_8y = "NN62", 
   emotional_difficulties_sad_or_anxious_specialist_8y = "NN63"
+)
+
+skjemaKostUngdomVariablesMapping <- c(
+  rank_siblings = "BARN_NR",
+  age_kost = "AGE_MTHS_KOST", 
+  weight_kost = "QDY_214", 
+  length_kost = "QDY_213", 
+  
 )
 
 
