@@ -725,8 +725,7 @@ skjemaKostUngdomVariablesMapping <- c(
   rank_siblings = "BARN_NR",
   age_kost = "AGE_MTHS_KOST", 
   weight_kost = "QDY_214", 
-  length_kost = "QDY_213", 
-  
+  length_kost = "QDY_213"
 )
 
 
