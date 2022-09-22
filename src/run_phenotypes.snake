@@ -74,13 +74,16 @@ if not os.path.isdir(covid_tables_folder):
 
 
 
-############################## RULES #########################################
+####################### General rule #########################################
 
 rule all:
     'The output of the pipeline'
     input:
         os.path.join(raw_docs_folder,'data.md'), # The raw data processing
         covid_table, # The covid table
+
+
+####################### Conversion of raw files ##############################
 
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
@@ -120,6 +123,9 @@ rule raw_pheno:
             {params.moba_project_number}
         """
 
+
+####################### Covid phenotypes #####################################
+
 rule consolidate_covid_pheno:
     'Consolidates the covid questionnaires into a single table'
     input:
@@ -143,6 +149,46 @@ rule consolidate_covid_pheno:
     shell:
         """
         Rscript src/scripts/consolidate_covid_phenotypes.R \
+            {params.raw_tables_folder} \
+            {input.child_id_linkage_raw_table} \
+            {input.mother_id_linkage_raw_table} \
+            {input.father_id_linkage_raw_table} \
+            {input.mfr_raw_table} \
+            {input.msis_raw_table} \
+            {input.child_msis_id_mapping_raw_table} \
+            {input.mother_msis_id_mapping_raw_table} \
+            {input.father_msis_id_mapping_raw_table} \
+            {output.covid_table} \
+            {params.covid_docs_folder} \
+            {params.moba_project_number}
+        """
+
+
+####################### Anthropometric traits ####################################
+
+rule anthropometrics_raw_cleaning:
+    'Organizes the anthropometric traits and related in separate tables and runs initial cleaning'
+    input:
+        child_id_linkage_raw_table = child_id_linkage_raw_table,
+        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
+        father_id_linkage_raw_table = father_id_linkage_raw_table,
+        mfr_raw_table = mfr_raw_table,
+        msis_raw_table = msis_raw_table,
+        child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
+        mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
+        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table,
+    params:
+        moba_project_number = moba_project_number,
+        covid_docs_folder = covid_docs_folder,
+        raw_tables_folder = raw_tables_folder
+    output:
+        covid_table = covid_table
+    conda:
+        "envs/r_4.1.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/scripts/utils/anthropometrics/raw-cleaning.R \
             {params.raw_tables_folder} \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
