@@ -16,6 +16,9 @@ import json
 suffix = '22-09-19'
 moba_project_number = 2824
 
+# Genotypes files
+fam_file = "/mnt/archive/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
+
 # Raw phenotype files
 linkage_folder = "/mnt/archive/linkage"
 moba_ques_folder = "/mnt/archive/phenotype/moba_ques"
@@ -35,6 +38,17 @@ covid_tables_folder = f"/mnt/work/marc/pheno_{suffix}/covid"
 
 # Raw tables
 mfr_raw_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_MFR_541_v12.gz')
+q1m_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_Skjema1_v12.gz')
+q1f_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_SkjemaFar_v12.gz')
+q2_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_Skjema2_v12.gz')
+q3_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_Skjema3_v12.gz')
+q4_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_Skjema4_6mnd_v12.gz')
+q5_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_Skjema5_18mnd_v12.gz')
+q6_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_Skjema6_3aar_v12.gz')
+q7_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_Skjema5aar_v12.gz')
+q8_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_Skjema7aar_v12.gz')
+q9_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_Skjema8aar_v12.gz')
+skjemaKostUngdom_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_SkjemaKostUngdom_v12.gz')
 msis_raw_table = os.path.join(raw_tables_folder, 'msis', f'PDB{moba_project_number}_MSIS-data_MoBa.gz')
 child_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'msis', f'Barn_ID_{moba_project_number}_2021_11_17sav.gz')
 mother_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'msis', f'Mor_ID_{moba_project_number}_2021_11_17sav.gz')
@@ -43,6 +57,8 @@ child_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'202205
 mother_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Mother_PDB{moba_project_number}.gz')
 father_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Father_PDB{moba_project_number}.gz')
 
+# Anthropometrics QC files
+qc_folder = f"/mnt/work/marc/pheno_{suffix}/anthropometrics_qc"
 
 # Covid table
 covid_table = os.path.join(covid_tables_folder, "moba_covid_phenotypes.gz")
@@ -100,6 +116,17 @@ rule raw_pheno:
     output:
         docs_file = os.path.join(raw_docs_folder, 'data.md'),
         mfr_raw_table = mfr_raw_table,
+        q1m_table = q1m_table,
+        q1f_table = q1f_table,
+        q2_table = q2_table,
+        q3_table = q3_table,
+        q4_table = q4_table,
+        q5_table = q5_table,
+        q6_table = q6_table,
+        q7_table = q7_table,
+        q8_table = q8_table,
+        q9_table = q9_table,
+        skjemaKostUngdom_table = skjemaKostUngdom_table,
         msis_raw_table = msis_raw_table,
         child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
         mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
@@ -172,27 +199,45 @@ rule anthropometrics_raw_cleaning:
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
+        fam_file = fam_file,
         mfr_raw_table = mfr_raw_table,
-        msis_raw_table = msis_raw_table,
-        child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
-        mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
-        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table,
+        q1m_table = q1m_table,
+        q1f_table = q1f_table,
+        q2_table = q2_table,
+        q3_table = q3_table,
+        q4_table = q4_table,
+        q5_table = q5_table,
+        q6_table = q6_table,
+        q7_table = q7_table,
+        q8_table = q8_table,
+        q9_table = q9_table,
+        skjemaKostUngdom_table = skjemaKostUngdom_table
     params:
-        moba_project_number = moba_project_number,
-        covid_docs_folder = covid_docs_folder,
-        raw_tables_folder = raw_tables_folder
+        qc_folder = qc_folder,
+        moba_project_number = moba_project_number
     output:
-        covid_table = covid_table
+         ids_table = os.file.path(qc_folder, "ids.gz"),
+         pregnancy_table = os.file.path(qc_folder, "pregnancy.gz"),
+         delivery_table = os.file.path(qc_folder, "delivery.gz"),
+         pregnancy_nutrition_table = os.file.path(qc_folder, "pregnancy_nutrition.gz"),
+         mother_nutrition_table = os.file.path(qc_folder, "mother_nutrition.gz"),
+         child_nutrition_table = os.file.path(qc_folder, "child_nutrition.gz"),
+         child_table = os.file.path(qc_folder, "child.gz"),
+         child_health_table = os.file.path(qc_folder, "child_health.gz"),
+         parents_table = os.file.path(qc_folder, "parents.gz"),
+         mother_health_table = os.file.path(qc_folder, "mother_health.gz"),
+         father_health_table = os.file.path(qc_folder, "father_health.gz"),
+         child_anthropometrics_table = os.file.path(qc_folder, "child_anthropometrics.gz")
     conda:
         "envs/r_4.1.yaml"
     threads: 1
     shell:
         """
         Rscript src/scripts/utils/anthropometrics/raw-cleaning.R \
-            {params.raw_tables_folder} \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
             {input.father_id_linkage_raw_table} \
+            {input.fam_file} \
             {input.mfr_raw_table} \
             {input.msis_raw_table} \
             {input.child_msis_id_mapping_raw_table} \

@@ -14,24 +14,24 @@ print(paste0(Sys.time(), " - Load and clean raw QC values"))
 # Command line arguments
 args <- commandArgs(TRUE)
 
-child_id_linkage_raw_table_path <- args[2]
-mother_id_linkage_raw_table_path <- args[3]
-father_id_linkage_raw_table_path <- args[4]
-genomics_fam_file_path <- args[5]
-mfr_raw_table_path <- args[1]
-q1m_raw_table_path <- args[1]
-q1f_raw_table_path <- args[1]
-q2_raw_table_path <- args[1]
-q3_raw_table_path <- args[1]
-q4_raw_table_path <- args[1]
-q5_raw_table_path <- args[1]
-q6_raw_table_path <- args[1]
-q7_raw_table_path <- args[1]
-q8_raw_table_path <- args[1]
-q9_raw_table_path <- args[1]
-skjemaKostUngdom_raw_table_path <- args[1]
-qcFolder <- args[5]
-project_number <- args[6] 
+child_id_linkage_raw_table_path <- args[1]
+mother_id_linkage_raw_table_path <- args[2]
+father_id_linkage_raw_table_path <- args[3]
+genomics_fam_file_path <- args[4]
+mfr_raw_table_path <- args[5]
+q1m_raw_table_path <- args[6]
+q1f_raw_table_path <- args[7]
+q2_raw_table_path <- args[8]
+q3_raw_table_path <- args[9]
+q4_raw_table_path <- args[10]
+q5_raw_table_path <- args[11]
+q6_raw_table_path <- args[12]
+q7_raw_table_path <- args[13]
+q8_raw_table_path <- args[14]
+q9_raw_table_path <- args[15]
+skjemaKostUngdom_raw_table_path <- args[16]
+qcFolder <- args[17]
+project_number <- args[18] 
 
 
 ##
@@ -39,25 +39,25 @@ project_number <- args[6]
 # Debug Marc - do not uncomment
 # args to run standalone
 # 
-child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
-mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
-father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
-genomics_fam_file_path <- "/mnt/archive/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
-unrelated_children_id_path <- "/mnt/work/marc/unrelated_samples/children_id_unrelated"
-mfr_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_MFR_541_v12.gz"
-q1m_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema1_v12.gz"
-q1f_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_SkjemaFar_v12.gz"
-q2_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema2_v12.gz"
-q3_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema3_v12.gz"
-q4_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema4_6mnd_v12.gz"
-q5_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema5_18mnd_v12.gz"
-q6_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema6_3aar_v12.gz"
-q7_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema5aar_v12.gz"
-q8_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema7aar_v12.gz"
-q9_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema8aar_v12.gz"
-kostUngdom_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_SkjemaKostUngdom_v12.gz"
-qcFolder <- "/mnt/work/marc/pheno_22-09-19/qc_tmp"
-project_number <- 2824
+# child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
+# mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
+# father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
+# genomics_fam_file_path <- "/mnt/archive/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
+# unrelated_children_id_path <- "/mnt/work/marc/unrelated_samples/children_id_unrelated"
+# mfr_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_MFR_541_v12.gz"
+# q1m_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema1_v12.gz"
+# q1f_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_SkjemaFar_v12.gz"
+# q2_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema2_v12.gz"
+# q3_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema3_v12.gz"
+# q4_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema4_6mnd_v12.gz"
+# q5_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema5_18mnd_v12.gz"
+# q6_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema6_3aar_v12.gz"
+# q7_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema5aar_v12.gz"
+# q8_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema7aar_v12.gz"
+# q9_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema8aar_v12.gz"
+# kostUngdom_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_SkjemaKostUngdom_v12.gz"
+# qcFolder <- "/mnt/work/marc/pheno_22-09-19/qc_tmp"
+# project_number <- 2824
 #
 ##
 
