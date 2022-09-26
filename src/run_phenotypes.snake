@@ -95,8 +95,20 @@ if not os.path.isdir(covid_tables_folder):
 rule all:
     'The output of the pipeline'
     input:
-        os.path.join(raw_docs_folder,'data.md'), # The raw data processing
-        covid_table, # The covid table
+        raw_data_docs = os.path.join(raw_docs_folder,'data.md'),
+        covid_table = covid_table,
+        ids_table = os.path.join(qc_folder, "ids.gz"),
+        pregnancy_table = os.path.join(qc_folder, "pregnancy.gz"),
+        delivery_table = os.path.join(qc_folder, "delivery.gz"),
+        pregnancy_nutrition_table = os.path.join(qc_folder, "pregnancy_nutrition.gz"),
+        mother_nutrition_table = os.path.join(qc_folder, "mother_nutrition.gz"),
+        child_nutrition_table = os.path.join(qc_folder, "child_nutrition.gz"),
+        child_table = os.path.join(qc_folder, "child.gz"),
+        child_health_table = os.path.join(qc_folder, "child_health.gz"),
+        parents_table = os.path.join(qc_folder, "parents.gz"),
+        mother_health_table = os.path.join(qc_folder, "mother_health.gz"),
+        father_health_table = os.path.join(qc_folder, "father_health.gz"),
+        child_anthropometrics_table = os.path.join(qc_folder, "child_anthropometrics.gz")
 
 
 ####################### Conversion of raw files ##############################
