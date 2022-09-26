@@ -227,7 +227,7 @@ rule anthropometrics_raw_cleaning:
          parents_table = os.file.path(qc_folder, "parents.gz"),
          mother_health_table = os.file.path(qc_folder, "mother_health.gz"),
          father_health_table = os.file.path(qc_folder, "father_health.gz"),
-         child_anthropometrics_table = os.file.path(qc_folder, "child_anthropometrics.gz")
+         child_anthropometrics_raw_table = os.file.path(qc_folder, "child_anthropometrics_raw.gz")
     conda:
         "envs/r_4.1.yaml"
     threads: 1
@@ -243,9 +243,26 @@ rule anthropometrics_raw_cleaning:
             {input.child_msis_id_mapping_raw_table} \
             {input.mother_msis_id_mapping_raw_table} \
             {input.father_msis_id_mapping_raw_table} \
-            {output.covid_table} \
+            {params.qc_folder} \
             {params.covid_docs_folder} \
             {params.moba_project_number}
+        """
+
+rule growth_cleaning:
+    'Removes outliers and imputes missing values'
+    input:
+         child_anthropometrics_raw_table = os.file.path(qc_folder, "child_anthropometrics_raw.gz")
+    params:
+        qc_folder = qc_folder
+    output:
+         child_anthropometrics_table = os.file.path(qc_folder, "child_anthropometrics.gz")
+    conda:
+        "envs/r_4.1.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/scripts/utils/anthropometrics/lw-cleaning.R \
+            {params.qc_folder}
         """
 
 

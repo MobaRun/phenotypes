@@ -1297,7 +1297,7 @@ childAnthropometricValues <- values %>%
 
 write.table(
   x = childAnthropometricValues,
-  file = gzfile(file.path(qcFolder, "child_anthropometrics.gz")),
+  file = gzfile(file.path(qcFolder, "child_anthropometrics_raw.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
