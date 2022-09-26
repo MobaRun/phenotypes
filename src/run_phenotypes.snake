@@ -216,18 +216,18 @@ rule anthropometrics_raw_cleaning:
         qc_folder = qc_folder,
         moba_project_number = moba_project_number
     output:
-         ids_table = os.file.path(qc_folder, "ids.gz"),
-         pregnancy_table = os.file.path(qc_folder, "pregnancy.gz"),
-         delivery_table = os.file.path(qc_folder, "delivery.gz"),
-         pregnancy_nutrition_table = os.file.path(qc_folder, "pregnancy_nutrition.gz"),
-         mother_nutrition_table = os.file.path(qc_folder, "mother_nutrition.gz"),
-         child_nutrition_table = os.file.path(qc_folder, "child_nutrition.gz"),
-         child_table = os.file.path(qc_folder, "child.gz"),
-         child_health_table = os.file.path(qc_folder, "child_health.gz"),
-         parents_table = os.file.path(qc_folder, "parents.gz"),
-         mother_health_table = os.file.path(qc_folder, "mother_health.gz"),
-         father_health_table = os.file.path(qc_folder, "father_health.gz"),
-         child_anthropometrics_raw_table = os.file.path(qc_folder, "child_anthropometrics_raw.gz")
+         ids_table = os.path.join(qc_folder, "ids.gz"),
+         pregnancy_table = os.path.join(qc_folder, "pregnancy.gz"),
+         delivery_table = os.path.join(qc_folder, "delivery.gz"),
+         pregnancy_nutrition_table = os.path.join(qc_folder, "pregnancy_nutrition.gz"),
+         mother_nutrition_table = os.path.join(qc_folder, "mother_nutrition.gz"),
+         child_nutrition_table = os.path.join(qc_folder, "child_nutrition.gz"),
+         child_table = os.path.join(qc_folder, "child.gz"),
+         child_health_table = os.path.join(qc_folder, "child_health.gz"),
+         parents_table = os.path.join(qc_folder, "parents.gz"),
+         mother_health_table = os.path.join(qc_folder, "mother_health.gz"),
+         father_health_table = os.path.join(qc_folder, "father_health.gz"),
+         child_anthropometrics_raw_table = os.path.join(qc_folder, "child_anthropometrics_raw.gz")
     conda:
         "envs/r_4.1.yaml"
     threads: 1
@@ -251,11 +251,11 @@ rule anthropometrics_raw_cleaning:
 rule growth_cleaning:
     'Removes outliers and imputes missing values'
     input:
-         child_anthropometrics_raw_table = os.file.path(qc_folder, "child_anthropometrics_raw.gz")
+        child_anthropometrics_raw_table = os.path.join(qc_folder, "child_anthropometrics_raw.gz")
     params:
         qc_folder = qc_folder
     output:
-         child_anthropometrics_table = os.file.path(qc_folder, "child_anthropometrics.gz")
+        child_anthropometrics_table = os.path.join(qc_folder, "child_anthropometrics.gz")
     conda:
         "envs/r_4.1.yaml"
     threads: 1
