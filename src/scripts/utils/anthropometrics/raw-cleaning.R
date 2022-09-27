@@ -29,7 +29,7 @@ q6_raw_table_path <- args[12]
 q7_raw_table_path <- args[13]
 q8_raw_table_path <- args[14]
 q9_raw_table_path <- args[15]
-skjemaKostUngdom_raw_table_path <- args[16]
+kostUngdom_raw_table_path <- args[16]
 qcFolder <- args[17]
 project_number <- args[18] 
 
