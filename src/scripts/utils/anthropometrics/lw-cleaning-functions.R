@@ -777,7 +777,7 @@ getPopulationQuantiles <- function(
 ) {
   
   k <- 1
-  n <- 3 * 3 * length(phenos) * length(ages)
+  n <- 3 * 3 * length(phenoColumns) * length(ages)
   
   quantilesDF <- data.frame(
     quantile = numeric(n),
