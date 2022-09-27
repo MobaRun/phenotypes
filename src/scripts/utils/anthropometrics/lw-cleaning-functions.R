@@ -790,6 +790,7 @@ getPopulationQuantiles <- function(
   
   for (phenoI in 1:length(phenoColumns)) {
     
+    pheno <- names(phenoColumns)[phenoI]
     phenotypes <- phenoColumns[[phenoI]]
     categoryColumn <- categoryColumns[phenoI]
     
