@@ -13,6 +13,7 @@
 args <- commandArgs(TRUE)
 
 qcFolder <- args[1]
+project_number <- args[2] 
 
 
 ##

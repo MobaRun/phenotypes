@@ -274,7 +274,8 @@ rule growth_cleaning:
     input:
         child_anthropometrics_raw_table = os.path.join(qc_folder, "child_anthropometrics_raw.gz")
     params:
-        qc_folder = qc_folder
+        qc_folder = qc_folder,
+        moba_project_number = moba_project_number
     output:
         child_anthropometrics_table = os.path.join(qc_folder, "child_anthropometrics.gz")
     conda:
@@ -283,7 +284,8 @@ rule growth_cleaning:
     shell:
         """
         Rscript src/scripts/utils/anthropometrics/lw-cleaning.R \
-            {params.qc_folder}
+            {params.qc_folder} \
+            {params.moba_project_number}
         """
 
 
