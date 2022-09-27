@@ -1303,6 +1303,8 @@ imputeLengthMissingValues <- function(
     
     oldValues <- methodValues[[colName]]
     
+    centered_normalized_growth_columns <- paste0(growth_columns, "_normalized_centered")
+    
     outliers = apply(
       X = methodValues[, centered_normalized_growth_columns], 
       MARGIN = 1,
