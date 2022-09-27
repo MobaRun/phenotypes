@@ -1406,7 +1406,7 @@ imputeWeightMissingValues <- function(
                 weight_3y,
                 weight_5y,
                 weight_7y,
-                weight_8y
+                weight_8y,
                 weightLongitudinalCategory
               ),
               ~getImputationFromCurveBySex(
