@@ -712,7 +712,7 @@ correctWeightIncreaseCurve <- function(
     quantileType = "median", 
     ageIs = 1:11, 
     sex = sex, 
-    pheno = "weightIncrease"
+    pheno = "weight_gain"
   )
   
   newWeightValues <- weightValues
@@ -1043,7 +1043,7 @@ getNormalizedGrowth <- function(
   
   phenotypes <- list(
     growth = growth_columns,
-    weightIncrease = weight_gain_columns
+    weight_gain = weight_gain_columns
   )
   
   for (phenoI in 1:length(phenotypes)) {
@@ -1400,7 +1400,7 @@ imputeWeightMissingValues <- function(
                 measuredValues = c(..2, ..3, ..4, ..5, ..6, ..7, ..8, ..9, ..10, ..11, ..12, ..13), 
                 populationGrowth = growthCurves,
                 sex = ..1,
-                pheno = "weightIncrease",
+                pheno = "weight_gain",
                 longitudinalCategory = ..14,
                 nNeighbors = 3
               )
