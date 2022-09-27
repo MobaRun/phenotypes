@@ -1105,7 +1105,7 @@ getNormalizedGrowth <- function(
   
   for (ageI in 1:length(normalized_growth_columns)) {
     
-    methodValues[[centered_normalized_growth_columns[ageI]]] <- methodValues[[normalizedGrowth]] - methodValues$normalized_growth_median
+    methodValues[[centered_normalized_growth_columns[ageI]]] <- methodValues[[normalized_growth_columns[ageI]]] - methodValues$normalized_growth_median
     
   }
   
@@ -1121,7 +1121,7 @@ getNormalizedGrowth <- function(
   
   for (ageI in 1:length(normalized_weight_gain_columns)) {
     
-    methodValues[[centered_normalized_weight_gain_columns[ageI]]] <- methodValues[[normalized_weight_gain_columns]] - methodValues$normalized_weight_gain_median
+    methodValues[[centered_normalized_weight_gain_columns[ageI]]] <- methodValues[[normalized_weight_gain_columns[ageI]]] - methodValues$normalized_weight_gain_median
     
   }
   
