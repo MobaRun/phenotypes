@@ -795,16 +795,20 @@ getPopulationQuantiles <- function(
     categoryColumn <- categoryColumns[phenoI]
     
     for (ageI in ages) {
-      
+
       phenoName <- phenotypes[ageI]
-      
+
       for (sex in c("Girl", "Boy", "All")) {
         
         is <- methodValues$child_core == 1 & methodValues$pregnancy_duration_37w == 1 & methodValues[[categoryColumn]] == "longitudinal"
         
-        if (sex != "All") {
+        if (sex == "Girl") {
           
-          is <- is & methodValues$sex == sex
+          is <- is & methodValues$sex == 2
+          
+        } else if (sex == "Boy") {
+          
+          is <- is & methodValues$sex == 1
           
         }
         
@@ -1517,7 +1521,6 @@ iterativeCleaning <- function(values) {
   while (diff) {
     
     previousValues <- values
-    
     
     # Make categories based on the number of missing values
     
