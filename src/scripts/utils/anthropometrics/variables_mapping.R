@@ -860,8 +860,7 @@ growth_columns <- c(
   "growth_2y_3y",
   "growth_3y_5y",
   "growth_5y_7y",
-  "growth_7y_8y",
-  "growth_8y_14y"
+  "growth_7y_8y"
 )
 
 weight_gain_columns <- c(
@@ -875,8 +874,7 @@ weight_gain_columns <- c(
   "weight_gain_2y_3y",
   "weight_gain_3y_5y",
   "weight_gain_5y_7y",
-  "weight_gain_7y_8y",
-  "weight_gain_8y_14y"
+  "weight_gain_7y_8y"
 )
 
 head_circumference_columns <- c(

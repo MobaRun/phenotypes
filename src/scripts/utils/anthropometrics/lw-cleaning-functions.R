@@ -55,8 +55,8 @@ getNegativeGrowthIndexes <- function(lengthValues) {
 #' 
 #' @return a boolean indicating whether the given index is outlying the growth curve
 isOutlierGrowth <- function(
-  growthValues, 
-  index
+    growthValues, 
+    index
 ) {
   
   if (index == length(growthValues) + 1) {
@@ -94,10 +94,10 @@ isOutlierGrowth <- function(
 #' 
 #' @return returns the interpolated value
 getInterpolationFromCurve <- function(
-  originalIndex, 
-  destinationIndex, 
-  measuredValues, 
-  referenceGrowthCurve
+    originalIndex, 
+    destinationIndex, 
+    measuredValues, 
+    referenceGrowthCurve
 ) {
   
   interpolatedValue <- measuredValues[originalIndex]
@@ -132,10 +132,10 @@ getInterpolationFromCurve <- function(
 #' 
 #' @return the imputed value
 getImputationFromCurve <- function(
-  index, 
-  measuredValues, 
-  referenceGrowthCurve, 
-  nNeighbors
+    index, 
+    measuredValues, 
+    referenceGrowthCurve, 
+    nNeighbors
 ) {
   
   interpolatedValues <- c()
@@ -242,13 +242,13 @@ getImputationFromCurve <- function(
 #' 
 #' @return the imputed value
 getImputationFromCurveBySex <- function(
-  index, 
-  measuredValues, 
-  populationGrowth,
-  sex,
-  pheno,
-  longitudinalCategory,
-  nNeighbors
+    index, 
+    measuredValues, 
+    populationGrowth,
+    sex,
+    pheno,
+    longitudinalCategory,
+    nNeighbors
 ) {
   
   if (
@@ -299,7 +299,7 @@ getImputationFromCurveBySex <- function(
   referenceGrowthCurve <- getPopulationCurve(
     populationDF = populationGrowth, 
     quantileType = "median", 
-    ageIs = 0:10, 
+    ageIs = 1:11, 
     sex = sex, 
     pheno = pheno
   )
@@ -322,8 +322,8 @@ getImputationFromCurveBySex <- function(
 #' 
 #' @return the imputed curve
 getImputedCurve <- function(
-  measuredValues, 
-  referenceGrowthCurve
+    measuredValues, 
+    referenceGrowthCurve
 ) {
   
   imputedCurve <- measuredValues
@@ -357,9 +357,9 @@ getImputedCurve <- function(
 #' 
 #' @return returns the smoothed curve
 getSmoothedCurve <- function(
-  measuredValues, 
-  referenceGrowthCurve, 
-  nNeighbors
+    measuredValues, 
+    referenceGrowthCurve, 
+    nNeighbors
 ) {
   
   smoothedCurve <- numeric(length(measuredValues))
@@ -391,11 +391,11 @@ getSmoothedCurve <- function(
 #' 
 #' @return the corrected growth curve
 correctGrowthCurve <- function(
-  child_id, 
-  lengthValues, 
-  sex, 
-  growthCurves, 
-  populationAnchors
+    child_id, 
+    lengthValues, 
+    sex, 
+    growthCurves, 
+    populationAnchors
 ) {
   
   if (sum(!is.na(lengthValues)) <= 1) {
@@ -419,28 +419,28 @@ correctGrowthCurve <- function(
   referenceGrowthCurve <- getPopulationCurve(
     populationDF = growthCurves, 
     quantileType = "median", 
-    ageIs = 0:10, 
+    ageIs = 1:11, 
     sex = sex, 
     pheno = "growth"
   )
   lows <- getPopulationCurve(
     populationDF = populationAnchors, 
     quantileType = "low", 
-    ageIs = 0:11, 
+    ageIs = 1:12, 
     sex = sex, 
     pheno = "length"
   )
   medians <- getPopulationCurve(
     populationDF = populationAnchors, 
     quantileType = "median", 
-    ageIs = 0:11, 
+    ageIs = 1:12, 
     sex = sex, 
     pheno = "length"
   )
   highs <- getPopulationCurve(
     populationDF = populationAnchors, 
     quantileType = "high", 
-    ageIs = 0:11, 
+    ageIs = 1:12, 
     sex = sex, 
     pheno = "length"
   )
@@ -693,24 +693,24 @@ correctGrowthCurve <- function(
 #' 
 #' @return the corrected weight curve
 correctWeightIncreaseCurve <- function(
-  oldLengthValues, 
-  newLengthValues,
-  weightValues,
-  sex, 
-  growthCurves
+    oldLengthValues, 
+    newLengthValues,
+    weightValues,
+    sex, 
+    growthCurves
 ) {
   
   referenceGrowthCurve <- getPopulationCurve(
     populationDF = growthCurves, 
     quantileType = "median", 
-    ageIs = 0:10, 
+    ageIs = 1:11, 
     sex = sex, 
     pheno = "growth"
   )
   referenceWeightIncreaseCurve <- getPopulationCurve(
     populationDF = growthCurves, 
     quantileType = "median", 
-    ageIs = 0:10, 
+    ageIs = 1:11, 
     sex = sex, 
     pheno = "weightIncrease"
   )
@@ -770,10 +770,10 @@ correctWeightIncreaseCurve <- function(
 #' 
 #' @return returns the population quantiles
 getPopulationQuantiles <- function(
-  methodValues, 
-  phenoColumns, 
-  categoryColumns,
-  ages
+    methodValues, 
+    phenoColumns, 
+    categoryColumns,
+    ages
 ) {
   
   k <- 1
@@ -795,20 +795,20 @@ getPopulationQuantiles <- function(
     categoryColumn <- categoryColumns[phenoI]
     
     for (ageI in ages) {
-
+      
       phenoName <- phenotypes[ageI]
-
-      for (sex in c("Girl", "Boy", "All")) {
+      
+      for (sex in c(0, 1, 2)) {
         
-        is <- methodValues$child_core == 1 & methodValues$pregnancy_duration_37w == 1 & methodValues[[categoryColumn]] == "longitudinal"
+        is <- methodValues$unrelated_children == 1 & methodValues$pregnancy_duration_over_37w == 1 & methodValues[[categoryColumn]] == "longitudinal"
         
-        if (sex == "Girl") {
+        if (sex == 0) {
           
-          is <- is & methodValues$sex == 2
+          is <- is & methodValues$sex != sex
           
-        } else if (sex == "Boy") {
+        } else {
           
-          is <- is & methodValues$sex == 1
+          is <- is & methodValues$sex == sex
           
         }
         
@@ -862,7 +862,7 @@ getPopulationLengthWeight <- function(methodValues) {
       weight = weight_columns
     ),
     categoryColumns = c("lengthLongitudinalCategory", "weightLongitudinalCategory"),
-    ages = c(0:11)
+    ages = c(1:12)
   )
   
   return(populationLengthWeight)
@@ -882,9 +882,9 @@ getPopulationGrowth <- function(methodValues) {
     phenoColumns = list(
       growth = growth_columns, 
       weight_gain = weight_gain_columns
-        ),
+    ),
     categoryColumns = c("lengthLongitudinalCategory", "weightLongitudinalCategory"),
-    ages = c(0:10)
+    ages = c(1:11)
   )
   
   return(populationGrowth)
@@ -902,23 +902,19 @@ getPopulationGrowth <- function(methodValues) {
 #' 
 #' @return returns the population value
 getPopulationValue <- function(
-  populationDF, 
-  quantileType, 
-  ageI, 
-  sex, 
-  pheno
+    populationDF, 
+    quantileType, 
+    ageI, 
+    sex, 
+    pheno
 ) {
-  
-  if (sex != "Girl" && sex != "Boy") {
-    sex <- "All"
-  }
   
   result <- populationDF$quantile[
     populationDF$quantileType == quantileType &
       populationDF$age == ageI &
-      populationDF$sex == sex &
-      populationDF$pheno == pheno
-    ]
+      populationDF$pheno == pheno & 
+      populationDF$sex == sex
+  ]
   
   if (length(result) != 1) {
     stop(paste0("No or multiple population value found.\nageI: ", ageI, "\nsex: ", sex, "\npheno: ", pheno, "\nquantileType: ", quantileType))
@@ -939,11 +935,11 @@ getPopulationValue <- function(
 #' 
 #' @return returns the population curve
 getPopulationCurve <- function(
-  populationDF, 
-  quantileType, 
-  ageIs, 
-  sex, 
-  pheno
+    populationDF, 
+    quantileType, 
+    ageIs, 
+    sex, 
+    pheno
 ) {
   
   result <- numeric(length(ageIs))
@@ -974,7 +970,7 @@ getPopulationCurve <- function(
 getGrowth <- function(methodValues) {
   
   # Get growth
-  for (ageI in 1:(length(length_columns) - 1)) {
+  for (ageI in 1:(length(length_columns) - 2)) {
     
     # Length
     
@@ -1041,21 +1037,21 @@ getGrowth <- function(methodValues) {
 #' 
 #' @return returns the updated values
 getNormalizedGrowth <- function(
-  methodValues, 
-  populationGrowth
+    methodValues, 
+    populationGrowth
 ) {
   
   phenotypes <- list(
     growth = growth_columns,
     weightIncrease = weight_gain_columns
   )
-    
-    for (phenoI in 1:length(phenotypes)) {
-      
-      pheno = names(phenotypes)[phenoI]
-      phenoNames <- phenotypes[[phenoI]]
   
-  for (ageI in 1:length(phenoNames)) {
+  for (phenoI in 1:length(phenotypes)) {
+    
+    pheno = names(phenotypes)[phenoI]
+    phenoNames <- phenotypes[[phenoI]]
+    
+    for (ageI in 1:length(phenoNames)) {
       
       phenoName <- phenoNames[ageI]
       normalizedPhenoName <- paste0(phenoName, "_normalized")
@@ -1066,7 +1062,7 @@ getNormalizedGrowth <- function(
         
         lowValue <- getPopulationValue(
           populationDF = populationGrowth, 
-          quantileType = "low", 
+          quantileType = "low",
           ageI = ageI, 
           sex = sex, 
           pheno = pheno
@@ -1094,22 +1090,7 @@ getNormalizedGrowth <- function(
         
       }
     }
-    }
-  
-  test <- data.frame(
-    a = c(1, 2, 3),
-    b = c(2, NA, 4),
-    c = c(3, 4, 5),
-    d = c("a", "b", "c"),
-    stringsAsFactors = F
-  )
-  
-  test$median <- apply(
-    X = test[, c("a", "b", "c")], 
-    MARGIN = 1,
-    FUN = median,
-    na.rm = T
-    )
+  }
   
   # Normalize each growth curve
   normalized_growth_columns <- paste0(growth_columns, "_normalized")
@@ -1155,7 +1136,7 @@ getNormalizedGrowth <- function(
 #' 
 #' @return the updated data frame
 cleanGrowthOutliers <- function(
-  methodValues
+    methodValues
 ) {
   
   for (index in 1:length(length_columns)) {
@@ -1199,7 +1180,7 @@ cleanGrowthOutliers <- function(
 #' 
 #' @return the updated data frame
 cleanWeightIncreaseOutliers <- function(
-  methodValues
+    methodValues
 ) {
   
   for (index in 1:length(length_columns)) {
@@ -1245,9 +1226,9 @@ cleanWeightIncreaseOutliers <- function(
 #' 
 #' @return the corrected data frame
 correctNegativeGrowth <- function(
-  methodValues, 
-  growthCurves, 
-  populationAnchors
+    methodValues, 
+    growthCurves, 
+    populationAnchors
 ) {
   
   for (i in 1:nrow(methodValues)) {
@@ -1312,8 +1293,8 @@ correctNegativeGrowth <- function(
 #' 
 #' @return returns the updated values
 imputeLengthMissingValues <- function(
-  methodValues, 
-  growthCurves
+    methodValues, 
+    growthCurves
 ) {
   
   for (ageI in minValidValuesBeforeFirstImputed:(11-minValidValuesAfterLastImputed)) {
@@ -1383,8 +1364,8 @@ imputeLengthMissingValues <- function(
 #' 
 #' @return returns the updated values
 imputeWeightMissingValues <- function(
-  methodValues, 
-  growthCurves
+    methodValues, 
+    growthCurves
 ) {
   
   for (ageI in minValidValuesBeforeFirstImputed:(11-minValidValuesAfterLastImputed)) {
@@ -1461,8 +1442,7 @@ setLongitudinalCategories <- function(methodValues) {
     "length_3y",
     "length_5y",
     "length_7y",
-    "length_8y",
-    "length_14y"
+    "length_8y"
   )
   methodValues$lengthLongitudinalCategory <- "sparse"
   is <- rowSums(!is.na(methodValues[, columnsBefore2])) >= minValidValuesBefore2
@@ -1485,8 +1465,7 @@ setLongitudinalCategories <- function(methodValues) {
     "weight_3y",
     "weight_5y",
     "weight_7y",
-    "weight_8y",
-    "weight_14y"
+    "weight_8y"
   )
   methodValues$weightLongitudinalCategory <- "sparse"
   methodValues$weightLongitudinalCategory <- "sparse"
@@ -1544,8 +1523,7 @@ iterativeCleaning <- function(values) {
     print(paste(Sys.time(), iterationIndex, " Getting growth curves"))
     
     values <- getGrowth(values)
-    refValues <- values[values$unrelated == 1 & values$pregnancy_duration_over_37w == 1, ]
-    populationGrowth <- getPopulationGrowth(refValues)
+    populationGrowth <- getPopulationGrowth(values)
     values <- getNormalizedGrowth(values, populationGrowth)
     
     
@@ -1579,10 +1557,7 @@ iterativeCleaning <- function(values) {
     print(paste(Sys.time(), iterationIndex, " Updating growth curves"))
     
     values <- getGrowth(values)
-    
-    refValues <- values[values$unrelated == 1 & values$pregnancy_duration_over_37w == 1, ]
-    populationGrowth <- getPopulationGrowth(refValues)
-    
+    populationGrowth <- getPopulationGrowth(values)
     values <- getNormalizedGrowth(values, populationGrowth)
     
     
@@ -1605,11 +1580,7 @@ iterativeCleaning <- function(values) {
       
       diff <- F
       
-      for (ageI in 0:11) {
-        
-        for (pheno in c("length", "weight")) {
-          
-          colName <- paste0(pheno, ageI)
+      for (colName in c(length_columns, weight_columns)) {
           
           if (sum(
             is.na(previousValues[[colName]]) & !is.na(values[[colName]]) |
@@ -1621,10 +1592,6 @@ iterativeCleaning <- function(values) {
             break
             
           }
-        }
-        if (diff) {
-          break
-        }
       }
       
       if (!diff) {
@@ -1649,10 +1616,7 @@ iterativeCleaning <- function(values) {
       print(paste(Sys.time(), iterationIndex, " Updating growth curves"))
       
       values <- getGrowth(values)
-      
-      refValues <- values[values$unrelated == 1 & values$pregnancy_duration_over_37w == 1, ]
-      populationGrowth <- getPopulationGrowth(refValues)
-      
+      populationGrowth <- getPopulationGrowth(values)
       values <- getNormalizedGrowth(values, populationGrowth)
       
       
@@ -1660,8 +1624,7 @@ iterativeCleaning <- function(values) {
       
       print(paste(Sys.time(), iterationIndex, " Getting population summary statistics"))
       
-      refValues <- values[values$unrelated == 1 & values$pregnancy_duration_over_37w == 1, ]
-      populationLengthWeight <- getPopulationLengthWeight(refValues)
+      populationLengthWeight <- getPopulationLengthWeight(values)
       
       
       # Correct for negative growth
@@ -1690,20 +1653,20 @@ iterativeCleaning <- function(values) {
     diff <- F
     
     for (colName in c(weight_columns, length_columns)) {
+      
+      colName <- paste0(pheno, ageI)
+      
+      if (sum(
+        is.na(previousValues[[colName]]) & !is.na(values[[colName]]) |
+        !is.na(previousValues[[colName]]) & is.na(values[[colName]]) |
+        !is.na(previousValues[[colName]]) & !is.na(values[[colName]]) &
+        previousValues[[colName]] != values[[colName]]) > 0) {
         
-        colName <- paste0(pheno, ageI)
+        diff <- T
+        break
         
-        if (sum(
-          is.na(previousValues[[colName]]) & !is.na(values[[colName]]) |
-          !is.na(previousValues[[colName]]) & is.na(values[[colName]]) |
-          !is.na(previousValues[[colName]]) & !is.na(values[[colName]]) &
-          previousValues[[colName]] != values[[colName]]) > 0) {
-          
-          diff <- T
-          break
-          
-        }
       }
+    }
   }
   
   return(values)
@@ -1720,10 +1683,10 @@ iterativeCleaning <- function(values) {
 #' 
 #' @return returns the updated values
 exportCurves <- function(
-  originalValues,
-  values,
-  bridgeDF,
-  qcFolderLocal
+    originalValues,
+    values,
+    bridgeDF,
+    qcFolderLocal
 ) {
   
   for (i in 1:nrow(values)) {
@@ -1750,11 +1713,11 @@ exportCurves <- function(
 #' 
 #' @return returns the updated values
 exportCurvesForKid <- function(
-  originalValues,
-  i,
-  values,
-  bridgeDF,
-  qcFolderLocal
+    originalValues,
+    i,
+    values,
+    bridgeDF,
+    qcFolderLocal
 ) {
   
   timePoints <- c("Birth", "6 w", "3 m", "6 m", "8 m", "1 y", "1.5 y", "2 y", "3 y", "5 y", "7 y", "8 y", "14 y")
