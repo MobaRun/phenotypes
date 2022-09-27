@@ -251,12 +251,18 @@ rule anthropometrics_raw_cleaning:
             {input.father_id_linkage_raw_table} \
             {input.fam_file} \
             {input.mfr_raw_table} \
-            {input.msis_raw_table} \
-            {input.child_msis_id_mapping_raw_table} \
-            {input.mother_msis_id_mapping_raw_table} \
-            {input.father_msis_id_mapping_raw_table} \
+            {input.q1m_table} \
+            {input.q1f_table} \
+            "" \
+            {input.q3_table} \
+            {input.q4_table} \
+            {input.q5_table} \
+            {input.q6_table} \
+            {input.q7_table} \
+            {input.q8_table} \
+            {input.q9_table} \
+            {input.skjemaKostUngdom_table} \
             {params.qc_folder} \
-            {params.covid_docs_folder} \
             {params.moba_project_number}
         """
 
