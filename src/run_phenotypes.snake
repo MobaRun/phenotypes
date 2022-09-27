@@ -18,6 +18,7 @@ moba_project_number = 2824
 
 # Genotypes files
 fam_file = "/mnt/archive/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
+unrelated_children_ids_file = "/mnt/work/marc/unrelated_samples/children_id_unrelated"
 
 # Raw phenotype files
 linkage_folder = "/mnt/archive/linkage"
@@ -211,7 +212,6 @@ rule anthropometrics_raw_cleaning:
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
-        fam_file = fam_file,
         mfr_raw_table = mfr_raw_table,
         q1m_table = q1m_table,
         q1f_table = q1f_table,
@@ -225,6 +225,8 @@ rule anthropometrics_raw_cleaning:
         q9_table = q9_table,
         skjemaKostUngdom_table = skjemaKostUngdom_table
     params:
+        fam_file = fam_file,
+        unrelated_children_ids_file = unrelated_children_ids_file,
         qc_folder = qc_folder,
         moba_project_number = moba_project_number
     output:
@@ -249,7 +251,8 @@ rule anthropometrics_raw_cleaning:
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
             {input.father_id_linkage_raw_table} \
-            {input.fam_file} \
+            {params.fam_file} \
+            {params.unrelated_children_ids_file} \
             {input.mfr_raw_table} \
             {input.q1m_table} \
             {input.q1f_table} \
