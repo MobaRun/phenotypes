@@ -1656,8 +1656,6 @@ iterativeCleaning <- function(values) {
     
     for (colName in c(weight_columns, length_columns)) {
       
-      colName <- paste0(pheno, ageI)
-      
       if (sum(
         is.na(previousValues[[colName]]) & !is.na(values[[colName]]) |
         !is.na(previousValues[[colName]]) & is.na(values[[colName]]) |
