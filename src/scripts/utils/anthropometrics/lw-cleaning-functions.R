@@ -1297,9 +1297,9 @@ imputeLengthMissingValues <- function(
     growthCurves
 ) {
   
-  for (ageI in minValidValuesBeforeFirstImputed:(11-minValidValuesAfterLastImputed)) {
+  for (index in minValidValuesBeforeFirstImputed:(11-minValidValuesAfterLastImputed)) {
     
-    colName <- length_columns[ageI]
+    colName <- length_columns[index]
     
     oldValues <- methodValues[[colName]]
     
@@ -1334,7 +1334,7 @@ imputeLengthMissingValues <- function(
                 lengthLongitudinalCategory
               ),
               ~getImputationFromCurveBySex(
-                index = ageI + 1, 
+                index = index, 
                 measuredValues = c(..2, ..3, ..4, ..5, ..6, ..7, ..8, ..9, ..10, ..11, ..12, ..13), 
                 populationGrowth = growthCurves,
                 sex = ..1,
@@ -1370,9 +1370,9 @@ imputeWeightMissingValues <- function(
     growthCurves
 ) {
   
-  for (ageI in minValidValuesBeforeFirstImputed:(11-minValidValuesAfterLastImputed)) {
+  for (index in minValidValuesBeforeFirstImputed:(11-minValidValuesAfterLastImputed)) {
     
-    colName <- weight_columns[ageI]
+    colName <- weight_columns[index]
     
     oldValues <- methodValues[[colName]]
     
@@ -1398,7 +1398,7 @@ imputeWeightMissingValues <- function(
                 weightLongitudinalCategory
               ),
               ~getImputationFromCurveBySex(
-                index = ageI + 1, 
+                index = index, 
                 measuredValues = c(..2, ..3, ..4, ..5, ..6, ..7, ..8, ..9, ..10, ..11, ..12, ..13), 
                 populationGrowth = growthCurves,
                 sex = ..1,
