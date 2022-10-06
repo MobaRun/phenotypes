@@ -817,22 +817,6 @@ age_columns <- c(
   "age_14y"
 )
 
-weight_columns <- c(
-  "weight_birth",
-  "weight_6w",
-  "weight_3m",
-  "weight_6m",
-  "weight_8m",
-  "weight_1y",
-  "weight_16m",
-  "weight_2y",
-  "weight_3y",
-  "weight_5y",
-  "weight_7y",
-  "weight_8y",
-  "weight_14y"
-)
-
 length_columns <- c(
   "length_birth",
   "length_6w",
@@ -847,6 +831,22 @@ length_columns <- c(
   "length_7y",
   "length_8y",
   "length_14y"
+)
+
+weight_columns <- c(
+  "weight_birth",
+  "weight_6w",
+  "weight_3m",
+  "weight_6m",
+  "weight_8m",
+  "weight_1y",
+  "weight_16m",
+  "weight_2y",
+  "weight_3y",
+  "weight_5y",
+  "weight_7y",
+  "weight_8y",
+  "weight_14y"
 )
 
 growth_columns <- c(
