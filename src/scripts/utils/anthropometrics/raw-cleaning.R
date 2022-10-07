@@ -853,8 +853,8 @@ print(paste(Sys.time(), " Pregnancy duration"))
 
 rawPheno <- rawPheno %>% 
   mutate(
-    pregnancy_duration_ultrasound = ifelse(!is.na(pregnancy_duration_ultrasound) & pregnancy_duration_ultrasound < 43 * 7 & pregnancy_duration_ultrasound > 15 * 7, pregnancy_duration_ultrasound, NA),
-    pregnancy_duration_mens = ifelse(!is.na(pregnancy_duration_mens) & pregnancy_duration_mens < 43 * 7 & pregnancy_duration_mens > 15 * 7, pregnancy_duration_mens, NA),
+    pregnancy_duration_ultrasound = ifelse(!is.na(pregnancy_duration_ultrasound) & pregnancy_duration_ultrasound < 44 * 7 & pregnancy_duration_ultrasound > 20 * 7, pregnancy_duration_ultrasound, NA),
+    pregnancy_duration_mens = ifelse(!is.na(pregnancy_duration_mens) & pregnancy_duration_mens < 44 * 7 & pregnancy_duration_mens > 20 * 7, pregnancy_duration_mens, NA),
     pregnancy_duration = ifelse(!is.na(pregnancy_duration_ultrasound), pregnancy_duration_ultrasound, pregnancy_duration_mens),
     pregnancy_duration_over_37w = ifelse(!is.na(pregnancy_duration) & pregnancy_duration >= 37 * 7, 1, 0)
   )
