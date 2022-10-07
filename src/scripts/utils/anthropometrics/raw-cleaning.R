@@ -99,6 +99,12 @@ anchorCenter <- pnorm(0)
 anchorDown <- pnorm(-1)
 margin99 <- qnorm(0.99)
 
+# Pregnancy duration cut-offs (inclusive)
+pregnancy_duration_min <- 154
+pregnancy_duration_max <- 308
+pregnancy_term_min <- 259
+pregnancy_term_max <- 294
+
 #Batch order to prioritize genotypes when samples have been measured in duplicates across batches
 batchOrder <- c("NORMENT_JAN21", "NORMENT_MAI21", "NORMENT_SEP20_R996R1029", "NORMENT-JAN20", "NORMENT-FEB18", "NORMENT-JUN15", "NORMENT-MAY16", "NORMENT-JAN15", "ROTTERDAM1", "ROTTERDAM2", "HARVEST", "TED", "PDB1382_R875_R876")
 
@@ -853,16 +859,17 @@ print(paste(Sys.time(), " Pregnancy duration"))
 
 rawPheno <- rawPheno %>% 
   mutate(
-    pregnancy_duration_ultrasound = ifelse(!is.na(pregnancy_duration_ultrasound) & pregnancy_duration_ultrasound < 44 * 7 & pregnancy_duration_ultrasound > 20 * 7, pregnancy_duration_ultrasound, NA),
-    pregnancy_duration_mens = ifelse(!is.na(pregnancy_duration_mens) & pregnancy_duration_mens < 44 * 7 & pregnancy_duration_mens > 20 * 7, pregnancy_duration_mens, NA),
+    pregnancy_duration_ultrasound = ifelse(!is.na(pregnancy_duration_ultrasound) & pregnancy_duration_ultrasound <= pregnancy_duration_max & pregnancy_duration_ultrasound >= pregnancy_duration_min, pregnancy_duration_ultrasound, NA),
+    pregnancy_duration_mens = ifelse(!is.na(pregnancy_duration_mens) & pregnancy_duration_mens <= pregnancy_duration_max & pregnancy_duration_mens >= pregnancy_duration_min, pregnancy_duration_mens, NA),
     pregnancy_duration = ifelse(!is.na(pregnancy_duration_ultrasound), pregnancy_duration_ultrasound, pregnancy_duration_mens),
-    pregnancy_duration_over_37w = ifelse(!is.na(pregnancy_duration) & pregnancy_duration >= 37 * 7, 1, 0)
+    pregnancy_duration_term = ifelse(!is.na(pregnancy_duration) & pregnancy_duration >= pregnancy_term_min & pregnancy_duration <= pregnancy_term_max, 1, 0),
+    pregnancy_duration_preterm = ifelse(!is.na(pregnancy_duration) & pregnancy_duration < pregnancy_term_min, 1, 0)
   )
 
-short_pregnancies <- sum(!is.na(rawPheno$sentrix_id) & !rawPheno$pregnancy_duration_over_37w)
+term_pregnancies <- sum(!is.na(rawPheno$sentrix_id) & rawPheno$pregnancy_duration_term == 1)
 n_genotyped <- sum(!is.na(rawPheno$sentrix_id))
 
-print(glue("{short_pregnancies} genotyped children with pregnancy duration < 37w ({round(short_pregnancies / n_genotyped * 100)} %)"))
+print(glue("{term_pregnancies} genotyped children with delivery at term ({round(term_pregnancies / n_genotyped * 100)} %)"))
 
 
 # Set zeros to NA for longitudinal values

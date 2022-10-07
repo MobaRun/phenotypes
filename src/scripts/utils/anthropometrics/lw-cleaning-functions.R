@@ -800,7 +800,7 @@ getPopulationQuantiles <- function(
       
       for (sex in c(0, 1, 2)) {
         
-        is <- methodValues$unrelated_children == 1 & methodValues$pregnancy_duration_over_37w == 1 & methodValues[[categoryColumn]] == "longitudinal"
+        is <- methodValues$unrelated_children == 1 & methodValues$pregnancy_duration_term == 1 & methodValues[[categoryColumn]] == "longitudinal"
         
         if (sex == 0) {
           
@@ -1513,11 +1513,11 @@ iterativeCleaning <- function(values) {
     print("Length")
     print(table(values$lengthLongitudinalCategory))
     print("Length Term Unrelated")
-    print(table(values$lengthLongitudinalCategory[values$unrelated == 1 & values$pregnancy_duration_over_37w == 1]))
+    print(table(values$lengthLongitudinalCategory[values$unrelated == 1 & values$pregnancy_duration_term == 1]))
     print("Weight")
     print(table(values$weightLongitudinalCategory))
     print("Weight Term Unrelated")
-    print(table(values$weightLongitudinalCategory[values$unrelated == 1 & values$pregnancy_duration_over_37w == 1]))
+    print(table(values$weightLongitudinalCategory[values$unrelated == 1 & values$pregnancy_duration_term == 1]))
     
     
     # get growth curves
