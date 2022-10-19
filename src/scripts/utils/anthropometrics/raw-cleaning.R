@@ -165,6 +165,9 @@ childIdDF <- read.table(
     sentrix_id,
     batch,
     sampletype
+  ) %>% 
+  mutate(
+    child_id = paste0(preg_id, "_", rank_siblings)
   )
 
 if (sum(is.na(childIdDF$sentrix_id)) > 0) {
@@ -605,7 +608,7 @@ rawPheno <- rawPheno %>%
     by = "sentrix_id"
   ) %>% 
   mutate(
-    child_id = paste0(preg_id, "_", rank_siblings)
+    child_id = ifelse(is.na(child_id), paste0(preg_id, "_", rank_siblings), child_id)
   )
 
 nrow_pheno <- nrow(rawPheno)
