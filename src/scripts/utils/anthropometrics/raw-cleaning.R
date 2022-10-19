@@ -165,9 +165,6 @@ childIdDF <- read.table(
     sentrix_id,
     batch,
     sampletype
-  ) %>% 
-  mutate(
-    child_id = paste0(preg_id, "_", rank_siblings)
   )
 
 if (sum(is.na(childIdDF$sentrix_id)) > 0) {
@@ -451,7 +448,7 @@ q1m_table <- q1m_raw_table %>%
   )
 
 q1fVariablesMapping <- q1fVariablesMapping[q1fVariablesMapping %in% names(q1f_raw_table)]
-    
+
 q1f_table <- q1f_raw_table %>%
   select(
     all_of(
@@ -606,6 +603,9 @@ rawPheno <- rawPheno %>%
   left_join(
     famDF,
     by = "sentrix_id"
+  ) %>% 
+  mutate(
+    child_id = paste0(preg_id, "_", rank_siblings)
   )
 
 nrow_pheno <- nrow(rawPheno)
@@ -928,6 +928,7 @@ for (column in c(weight_columns, length_columns, head_circumference_columns)) {
 
 number_values_tables$number_values <- do.call("rbind", n_list)
 
+
 # Exclusion of outliers using five SD
 
 print(paste(Sys.time(), " Exclusion of extreme outliers"))
@@ -969,14 +970,14 @@ n_list <- list()
 for (column in breastFeedingColumns) {
   
   if (column %in% names(values)) {
-  
-  n_df <- data.frame(
-    phenotype = column,
-    n_breast_feeding = sum(!is.na(values[[column]])),
-    n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id)),
-    n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id) & values$unrelated == 1),
-    stringsAsFactors = F
-  )
+    
+    n_df <- data.frame(
+      phenotype = column,
+      n_breast_feeding = sum(!is.na(values[[column]])),
+      n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id)),
+      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id) & values$unrelated == 1),
+      stringsAsFactors = F
+    )
   }
 }
 
@@ -1135,7 +1136,7 @@ id_columns <- id_columns[id_columns %in% names(values)]
 idValues <- values %>% 
   select(
     all_of(id_columns)
-)
+  )
 
 write.table(
   x = idValues,
@@ -1150,7 +1151,7 @@ pregnancy_columns <- pregnancy_columns[pregnancy_columns %in% names(values)]
 pregnancyValues <- values %>% 
   select(
     all_of(c(default_columns, pregnancy_columns))
-)
+  )
 
 write.table(
   x = pregnancyValues,
@@ -1165,7 +1166,7 @@ delivery_columns <- delivery_columns[delivery_columns %in% names(values)]
 deliveryValues <- values %>% 
   select(
     all_of(c(default_columns, delivery_columns))
-)
+  )
 
 write.table(
   x = deliveryValues,
@@ -1180,7 +1181,7 @@ pregnancy_nutrition_columns <- pregnancy_nutrition_columns[pregnancy_nutrition_c
 pregnancyNutritionValues <- values %>% 
   select(
     all_of(c(default_columns, pregnancy_nutrition_columns))
-)
+  )
 
 write.table(
   x = pregnancyNutritionValues,
@@ -1195,7 +1196,7 @@ mother_nutrition_columns <- mother_nutrition_columns[mother_nutrition_columns %i
 motherNutritionValues <- values %>% 
   select(
     all_of(c(default_columns, mother_nutrition_columns))
-)
+  )
 
 write.table(
   x = motherNutritionValues,
@@ -1210,7 +1211,7 @@ child_nutrition_columns <- child_nutrition_columns[child_nutrition_columns %in% 
 childNutritionValues <- values %>% 
   select(
     all_of(c(default_columns, child_nutrition_columns))
-)
+  )
 
 write.table(
   x = childNutritionValues,
@@ -1224,8 +1225,8 @@ write.table(
 child_columns <- child_columns[child_columns %in% names(values)]
 childValues <- values %>% 
   select(
-  all_of(c(default_columns, child_columns))
-)
+    all_of(c(default_columns, child_columns))
+  )
 
 write.table(
   x = childValues,
@@ -1240,7 +1241,7 @@ child_health_columns <- child_health_columns[child_health_columns %in% names(val
 childHealth <- values %>% 
   select(
     all_of(c(default_columns, child_health_columns))
-)
+  )
 
 write.table(
   x = childHealth,
@@ -1255,7 +1256,7 @@ parent_values_columns <- parent_values_columns[parent_values_columns %in% names(
 parentValues <- values %>% 
   select(
     all_of(c(default_columns, parent_values_columns))
-)
+  )
 
 write.table(
   x = parentValues,
@@ -1270,7 +1271,7 @@ mother_health_columns <- mother_health_columns[mother_health_columns %in% names(
 motherHealthValues <- values %>% 
   select(
     all_of(c(default_columns, mother_health_columns))
-)
+  )
 
 write.table(
   x = motherHealthValues,
@@ -1285,7 +1286,7 @@ father_health_columns <- father_health_columns[father_health_columns %in% names(
 fatherHealthValues <- values %>% 
   select(
     all_of(c(default_columns, father_health_columns))
-)
+  )
 
 write.table(
   x = fatherHealthValues,
@@ -1302,8 +1303,8 @@ length_columns <- length_columns[length_columns %in% names(values)]
 head_circumference_columns <- head_circumference_columns[head_circumference_columns %in% names(values)]
 childAnthropometricValues <- values %>% 
   select(
-  all_of(c(default_columns, age_columns, weight_columns, length_columns, head_circumference_columns))
-)
+    all_of(c(default_columns, age_columns, weight_columns, length_columns, head_circumference_columns))
+  )
 
 write.table(
   x = childAnthropometricValues,

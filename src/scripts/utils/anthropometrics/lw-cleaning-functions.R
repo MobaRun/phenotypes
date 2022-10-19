@@ -556,7 +556,7 @@ correctGrowthCurve <- function(
         tempLengthValues[i] <- median(refValuesAtI)
         outlierFound <- TRUE
         
-      } 
+      }
       
       minAtJ <- min(refValuesAtJ)
       
