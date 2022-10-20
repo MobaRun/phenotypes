@@ -71,6 +71,12 @@ source("src/scripts/utils/anthropometrics/lw-cleaning-functions.R")
 source("src/scripts/utils/anthropometrics/variables_mapping.R")
 
 
+# Currently exclude values after 8y
+
+length_columns <- length_columns[1:(length(length_columns) - 1)]
+weight_columns <- weight_columns[1:(length(weight_columns) - 1)]
+
+
 # Housekeeping
 
 lwQcLogFolder <- file.path(qcFolder, "lw_log")

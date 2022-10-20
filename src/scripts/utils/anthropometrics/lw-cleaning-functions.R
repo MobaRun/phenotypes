@@ -175,15 +175,15 @@ getImputationFromCurve <- function(
     for (i in (index + 1):length(measuredValues)) {
       
       if (!is.na(measuredValues[i])) {
-        interpolatedValue <-
-          getInterpolationFromCurve(
+        
+        interpolatedValue <- getInterpolationFromCurve(
             originalIndex = i, 
             destinationIndex = index, 
             measuredValues = measuredValues, 
-            referenceGrowthCurve = referenceGrowthCurve)
+            referenceGrowthCurve = referenceGrowthCurve
+        )
         
-        interpolatedValues <-
-          c(interpolatedValues, interpolatedValue)
+        interpolatedValues <- c(interpolatedValues, interpolatedValue)
         
         weight <- 1 / (i - index)
         weights <- c(weights, weight)
@@ -224,7 +224,11 @@ getImputationFromCurve <- function(
     }
   }
   
-  interpolatedValue <- weighted.mean(x = interpolatedValues, w = weights, na.rm = T)
+  interpolatedValue <- weighted.mean(
+    x = interpolatedValues, 
+    w = weights, 
+    na.rm = T
+  )
   
   return(interpolatedValue)
   
@@ -299,7 +303,7 @@ getImputationFromCurveBySex <- function(
   referenceGrowthCurve <- getPopulationCurve(
     populationDF = populationGrowth, 
     quantileType = "median", 
-    ageIs = 1:11, 
+    ageIs = 1:(length(length_columns) - 1), 
     sex = sex, 
     pheno = pheno
   )
@@ -419,28 +423,28 @@ correctGrowthCurve <- function(
   referenceGrowthCurve <- getPopulationCurve(
     populationDF = growthCurves, 
     quantileType = "median", 
-    ageIs = 1:11, 
+    ageIs = 1:(length(length_columns) - 1), 
     sex = sex, 
     pheno = "growth"
   )
   lows <- getPopulationCurve(
     populationDF = populationAnchors, 
     quantileType = "low", 
-    ageIs = 1:12, 
+    ageIs = 1:length(length_columns), 
     sex = sex, 
     pheno = "length"
   )
   medians <- getPopulationCurve(
     populationDF = populationAnchors, 
     quantileType = "median", 
-    ageIs = 1:12, 
+    ageIs = 1:length(length_columns), 
     sex = sex, 
     pheno = "length"
   )
   highs <- getPopulationCurve(
     populationDF = populationAnchors, 
     quantileType = "high", 
-    ageIs = 1:12, 
+    ageIs = 1:length(length_columns), 
     sex = sex, 
     pheno = "length"
   )
@@ -474,6 +478,12 @@ correctGrowthCurve <- function(
               referenceGrowthCurve = referenceGrowthCurve
             )
             
+            if (is.na(interpolatedValue)) {
+              
+              stop("Interpolated value is NA")
+              
+            }
+            
             refValuesAtI <- c(refValuesAtI, interpolatedValue)
             
           }
@@ -486,6 +496,12 @@ correctGrowthCurve <- function(
               measuredValues = newLengthValues, 
               referenceGrowthCurve = referenceGrowthCurve
             )
+            
+            if (is.na(interpolatedValue)) {
+              
+              stop("Interpolated value is NA")
+              
+            }
             
             refValuesAtJ <- c(refValuesAtJ, interpolatedValue)
             
@@ -703,14 +719,14 @@ correctWeightIncreaseCurve <- function(
   referenceGrowthCurve <- getPopulationCurve(
     populationDF = growthCurves, 
     quantileType = "median", 
-    ageIs = 1:11, 
+    ageIs = 1:(length(length_columns) - 1), 
     sex = sex, 
     pheno = "growth"
   )
   referenceWeightIncreaseCurve <- getPopulationCurve(
     populationDF = growthCurves, 
     quantileType = "median", 
-    ageIs = 1:11, 
+    ageIs = 1:(length(weigth_columns) - 1), 
     sex = sex, 
     pheno = "weight_gain"
   )
@@ -862,7 +878,7 @@ getPopulationLengthWeight <- function(methodValues) {
       weight = weight_columns
     ),
     categoryColumns = c("lengthLongitudinalCategory", "weightLongitudinalCategory"),
-    ages = c(1:12)
+    ages = c(1:length(length_columns))
   )
   
   return(populationLengthWeight)
@@ -884,7 +900,7 @@ getPopulationGrowth <- function(methodValues) {
       weight_gain = weight_gain_columns
     ),
     categoryColumns = c("lengthLongitudinalCategory", "weightLongitudinalCategory"),
-    ages = c(1:11)
+    ages = c(1:(length(length_columns) - 1))
   )
   
   return(populationGrowth)
@@ -970,7 +986,7 @@ getPopulationCurve <- function(
 getGrowth <- function(methodValues) {
   
   # Get growth
-  for (ageI in 1:(length(length_columns) - 2)) {
+  for (ageI in 1:(length(length_columns) - 1)) {
     
     # Length
     
@@ -1297,7 +1313,7 @@ imputeLengthMissingValues <- function(
     growthCurves
 ) {
   
-  for (index in minValidValuesBeforeFirstImputed:(11-minValidValuesAfterLastImputed)) {
+  for (index in minValidValuesBeforeFirstImputed:(length(length_columns)-minValidValuesAfterLastImputed)) {
     
     colName <- length_columns[index]
     
@@ -1370,7 +1386,7 @@ imputeWeightMissingValues <- function(
     growthCurves
 ) {
   
-  for (index in minValidValuesBeforeFirstImputed:(11-minValidValuesAfterLastImputed)) {
+  for (index in minValidValuesBeforeFirstImputed:(length(weight_columns)-minValidValuesAfterLastImputed)) {
     
     colName <- weight_columns[index]
     
@@ -1430,22 +1446,9 @@ imputeWeightMissingValues <- function(
 #' @return returns the updated values
 setLongitudinalCategories <- function(methodValues) {
   
-  columnsBefore2 <- c(
-    "length_birth",
-    "length_6w",
-    "length_3m",
-    "length_6m",
-    "length_8m",
-    "length_1y",
-    "length_16m"
-  )
-  columnsAfter2 <- c(
-    "length_2y",
-    "length_3y",
-    "length_5y",
-    "length_7y",
-    "length_8y"
-  )
+  columnsBefore2 <- length_columns[1:7]
+  columnsAfter2 <- length_columns[8:length(length_columns)]
+  
   methodValues$lengthLongitudinalCategory <- "sparse"
   is <- rowSums(!is.na(methodValues[, columnsBefore2])) >= minValidValuesBefore2
   methodValues$lengthLongitudinalCategory[is] <- "early"
@@ -1453,22 +1456,9 @@ setLongitudinalCategories <- function(methodValues) {
     rowSums(!is.na(methodValues[, columnsAfter2])) >= minValidValuesAfter2
   methodValues$lengthLongitudinalCategory[is] <- "longitudinal"
   
-  columnsBefore2 <- c(
-    "weight_birth",
-    "weight_6w",
-    "weight_3m",
-    "weight_6m",
-    "weight_8m",
-    "weight_1y",
-    "weight_16m"
-  )
-  columnsAfter2 <- c(
-    "weight_2y",
-    "weight_3y",
-    "weight_5y",
-    "weight_7y",
-    "weight_8y"
-  )
+  columnsBefore2 <- weight_columns[1:7]
+  columnsAfter2 <- weight_columns[8:length(weight_columns)]
+  
   methodValues$weightLongitudinalCategory <- "sparse"
   methodValues$weightLongitudinalCategory <- "sparse"
   is <- rowSums(!is.na(methodValues[, columnsBefore2])) >= minValidValuesBefore2
@@ -1575,6 +1565,7 @@ iterativeCleaning <- function(values) {
       methodValues = values, 
       growthCurves = populationGrowth
     )
+    
     values <- imputeWeightMissingValues(
       methodValues = values, 
       growthCurves = populationGrowth
