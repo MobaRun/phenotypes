@@ -1497,10 +1497,6 @@ iterativeCleaning <- function(values) {
     
     print(paste(Sys.time(), iterationIndex, " Inspecting number of missing values"))
     
-    if (iterationIndex == 9) {
-      return(values)
-    }
-    
     values <- setLongitudinalCategories(values)
     
     print(paste("Iteration ", iterationIndex))
