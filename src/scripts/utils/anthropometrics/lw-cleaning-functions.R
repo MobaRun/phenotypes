@@ -726,7 +726,7 @@ correctWeightIncreaseCurve <- function(
   referenceWeightIncreaseCurve <- getPopulationCurve(
     populationDF = growthCurves, 
     quantileType = "median", 
-    ageIs = 1:(length(weigth_columns) - 1), 
+    ageIs = 1:(length(weight_columns) - 1), 
     sex = sex, 
     pheno = "weight_gain"
   )
