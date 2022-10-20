@@ -21,7 +21,7 @@ project_number <- args[2]
 # Debug Marc - do not uncomment
 # args to run locally on Hunt 
 # 
-qcFolder <- "/mnt/work/marc/pheno_22-09-19/anthropometrics_qc"
+qcFolder <- "/mnt/work/marc/pheno_22-09-19/qc_tmp"
 project_number <- 2824
 #
 ##
