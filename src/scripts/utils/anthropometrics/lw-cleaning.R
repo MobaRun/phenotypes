@@ -104,6 +104,16 @@ if (!file.exists(lwQcPlotsFolder)) {
   
 }
 
+if (!dir.exists(qcFolder)) {
+  
+  dir.create(
+    path = qcFolder,
+    showWarnings = T,
+    recursive = T
+  )
+  
+}
+
 if (exportProfiles) {
   
   curvesFolder <- file.path(lwQcPlotsFolder, "curves")
@@ -253,8 +263,14 @@ imputativeQcDF <- data.frame(
 )
 
 qcFile <- file.path(qcFolder, "qcDF")
-qcDF <- read.table(qcFile, header = T, stringsAsFactors = F)
-qcDF <- rbind(qcDF, imputativeQcDF)
+
+if (file.exists(qcFile)) {
+  
+  qcDF <- read.table(qcFile, header = T, stringsAsFactors = F)
+  qcDF <- rbind(qcDF, imputativeQcDF)
+  
+}
+
 write.table(qcDF, file = qcFile, col.names = T, row.names = F, quote = F)
 
 
