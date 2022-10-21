@@ -269,6 +269,10 @@ if (file.exists(qcFile)) {
   qcDF <- read.table(qcFile, header = T, stringsAsFactors = F)
   qcDF <- rbind(qcDF, imputativeQcDF)
   
+} else {
+  
+  qcDF <- imputativeQcDF
+  
 }
 
 write.table(qcDF, file = qcFile, col.names = T, row.names = F, quote = F)
