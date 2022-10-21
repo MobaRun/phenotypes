@@ -67,6 +67,7 @@ exportProfiles <- F
 # External functions and variable mapping
 
 source("src/scripts/utils/anthropometrics/lw-cleaning-functions.R")
+source("src/scripts/utils/anthropometrics/lw-plotting-functions.R")
 
 source("src/scripts/utils/anthropometrics/variables_mapping.R")
 
