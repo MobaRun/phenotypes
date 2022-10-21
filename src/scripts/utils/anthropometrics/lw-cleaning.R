@@ -193,17 +193,6 @@ if (exportProfiles) {
 }
 
 
-# Plot length-weight
-
-print(paste(Sys.time(), " Plotting length-weight"))
-
-exportLenghtWeight(
-  originalValues = originalValues,
-  values = values,
-  qcFolderLocal = lwQcPlotsFolder
-)
-
-
 # Store the number of corrected values
 
 print(paste(Sys.time(), " Storing the number of modified values"))
