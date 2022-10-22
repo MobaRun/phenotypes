@@ -14,6 +14,7 @@ args <- commandArgs(TRUE)
 
 qcFolder <- args[1]
 project_number <- args[2] 
+release_name <- args[3] 
 
 
 ##
@@ -23,6 +24,7 @@ project_number <- args[2]
 # 
 # qcFolder <- "/mnt/work/marc/pheno_22-09-19/qc_tmp"
 # project_number <- 2824
+# release_name <- "22-09-19
 #
 ##
 
@@ -37,6 +39,11 @@ library(dplyr, lib = libFolder)
 library(janitor, lib = libFolder)
 library(purrr, lib = libFolder)
 library(glue, lib = libFolder)
+library(withr, lib = libFolder)
+library(labeling, lib = libFolder)
+library(digest, lib = libFolder)
+library(ggplot2, lib = libFolder)
+library(grid, lib = libFolder)
 
 
 
@@ -67,7 +74,7 @@ exportProfiles <- F
 # External functions and variable mapping
 
 source("src/scripts/utils/anthropometrics/lw-cleaning-functions.R")
-source("src/scripts/utils/anthropometrics/lw-plotting-functions.R")
+source("src/scripts/utils/anthropometrics/lw-docs-functions.R")
 
 source("src/scripts/utils/anthropometrics/variables_mapping.R")
 
@@ -146,6 +153,30 @@ values$log <- ""
 # Run cleaning
 
 values <- iterativeCleaning(values)
+
+
+# Save phenotypes to a new table
+
+print(paste(Sys.time(), "Saving the results."))
+
+age_columns <- age_columns[age_columns %in% names(values)]
+weight_columns <- weight_columns[weight_columns %in% names(values)]
+length_columns <- length_columns[length_columns %in% names(values)]
+head_circumference_columns <- head_circumference_columns[head_circumference_columns %in% names(values)]
+childAnthropometricValues <- values %>% 
+  select(
+    all_of(c(default_columns, age_columns, weight_columns, length_columns, head_circumference_columns))
+  )
+
+
+write.table(
+  x = childAnthropometricValues,
+  file = gzfile(file.path(qcFolder, "child_anthropometrics.gz")),
+  row.names = F,
+  col.names = T,
+  sep = "\t",
+  quote = F
+)
 
 
 # Store the log
@@ -278,25 +309,223 @@ if (file.exists(qcFile)) {
 write.table(qcDF, file = qcFile, col.names = T, row.names = F, quote = F)
 
 
-# Save phenotypes to a new table
+# Write documentation
 
-print(paste(Sys.time(), "Saving the results."))
+print(paste(Sys.time(), " Writing documentation"))
 
-age_columns <- age_columns[age_columns %in% names(values)]
-weight_columns <- weight_columns[weight_columns %in% names(values)]
-length_columns <- length_columns[length_columns %in% names(values)]
-head_circumference_columns <- head_circumference_columns[head_circumference_columns %in% names(values)]
-childAnthropometricValues <- values %>% 
-  select(
-    all_of(c(default_columns, age_columns, weight_columns, length_columns, head_circumference_columns))
+docs_folder <- glue("docs/{release_name}/anthropometrics")
+md_file <- file.path(docs_folder, "readme.md")
+docs_plots_folder <- file.path(docs_folder, "plots")
+
+if (!dir.exists(docs_plots_folder)) {
+  
+  dir.create(
+    path = docs_plots_folder,
+    showWarnings = T,
+    recursive = T
   )
+  
+}
 
+write(
+  x = "# Phenotypes", 
+  file = md_file, 
+  append = F
+)
+
+write(
+  x = "### Number of values", 
+  file = md_file, 
+  append = T
+)
+
+
+write(
+  x = "![](plots/n.pgn)", 
+  file = md_file, 
+  append = T
+)
+
+write(
+  x = "### Length vs weight", 
+  file = md_file, 
+  append = T
+)
+
+for (age_i in 1:length(length_columns)) {
+  
+  write(
+    x = glue("![](plots/length_weight_{age_i}.png)"), 
+    file = md_file, 
+    append = T
+  )
+  
+}
+
+n_values <- get_n_values(
+  originalValues = originalValues,
+  values = values
+)
 
 write.table(
-  x = childAnthropometricValues,
-  file = gzfile(file.path(qcFolder, "child_anthropometrics.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
+  x = n_values, 
+  file = file.path(docs_folder, "n_values"), 
+  col.names = T, 
+  row.names = F, 
+  quote = F, 
+  sep = "\t"
 )
+
+n_values <- n_values %>% 
+  mutate(
+    qc_factor = factor(qc_class, levels = c("Raw", "QC")),
+    phenotype_factor = factor(pheno, levels = c("Length", "Weight", "BMI")),
+    age_factor = factor(age_i, levels = 1:length(length_columns))
+  )
+
+levels(n_values$age_factor) <- c("Birth", "6 w", "3 m", "6 m", "8 m", "1 y", "1.5 y", "2 y", "3 y", "5 y", "7 y", "8 y", "14 y")
+
+n_plot <- ggplot() +
+  theme_bw(
+    base_size = 24
+  ) +
+  geom_col(
+    data = n_values,
+    mapping = aes(
+      x = age_factor,
+      y = n,
+      fill = qc_factor
+    ),
+    position = "dodge"
+  ) +
+  facet_grid(
+    phenotype_factor ~ .
+  ) +
+  scale_y_continuous(
+    name = "# values",
+    expand = expansion(
+      mult = c(0, 0.05)
+    )
+  ) +
+  scale_fill_manual(
+    values = c("darkblue", "darkgreen")
+  ) +
+  theme(
+    legend.position = "top",
+    legend.title = element_blank(),
+    axis.title.x = element_blank(),
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor.x = element_blank()
+  )
+
+png(
+  filename = file.path(docs_plots_folder, "n.png"),
+  height = 300 * 3,
+  width = 900
+)
+grid.draw(n_plot)
+dummy <- dev.off()
+
+
+exportLenghtWeight(
+    originalValues = originalValues,
+    values = values,
+    plot_folder = docs_plots_folder
+)
+
+write(
+  x = "### Imputation", 
+  file = md_file, 
+  append = T
+)
+
+write(
+  x = glue("- Children with no data point altered: {sum(values$log == '')}"), 
+  file = md_file, 
+  append = T
+)
+
+write(
+  x = glue("- Children with at least one data point altered: {sum(values$log != '')}"), 
+  file = md_file, 
+  append = T
+)
+
+log_df <- values %>% 
+  select(
+    child_id, log
+  ) %>% 
+  filter(
+    log != ""
+  ) %>% 
+  mutate(
+    log_length = nchar(log)
+  ) %>% 
+  arrange(
+    desc(log_length)
+  )
+
+sampled_rows <- which(values$child_id %in% sample(log_df$child_id, 20, replace = F))
+
+for (row in sampled_rows) {
+  
+  dummyIdI <- bridgeDF$dummyId[row]
+  
+  write(
+    x = glue("#### Random example: {dummyIdI}"), 
+    file = md_file, 
+    append = T
+  )
+  
+  plots <- get_annotated_curves(
+    originalValues = originalValues,
+    values = values,
+    i = row
+  )
+  
+  plotFile <- file.path(docs_plots_folder, paste0(dummyIdI, "_length.png"))
+  png(plotFile, width = 900, height = 600)
+  grid.draw(plots[[1]])
+  dummy <- dev.off()
+  
+  plotFile <- file.path(docs_plots_folder, paste0(dummyIdI, "_weight.png"))
+  png(plotFile, width = 900, height = 600)
+  grid.draw(plots[[2]])
+  dummy <- dev.off()
+  
+}
+
+
+for (i in 1:20) {
+  
+  child_id <- log_df$child_id[i]
+  
+  row <- which(values$child_id == child_id)
+  
+  dummyIdI <- bridgeDF$dummyId[row]
+  
+  write(
+    x = glue("#### Most extreme example ({i}): {dummyIdI}"), 
+    file = md_file, 
+    append = T
+  )
+  
+  plots <- get_annotated_curves(
+    originalValues = originalValues,
+    values = values,
+    i = row
+  )
+  
+  plotFile <- file.path(docs_plots_folder, paste0(dummyIdI, "_length.png"))
+  png(plotFile, width = 900, height = 600)
+  grid.draw(plots[[1]])
+  dummy <- dev.off()
+  
+  plotFile <- file.path(docs_plots_folder, paste0(dummyIdI, "_weight.png"))
+  png(plotFile, width = 900, height = 600)
+  grid.draw(plots[[2]])
+  dummy <- dev.off()
+  
+}
+
