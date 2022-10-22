@@ -94,7 +94,7 @@ get_n_values <- function(
     
     n <- 0
     
-    if (pheno_name %in% originalValues) {
+    if (pheno_name %in% names(originalValues)) {
       
       n <- sum(!is.na(originalValues[[pheno_name]]))
       
@@ -109,7 +109,7 @@ get_n_values <- function(
     
     n <- 0
     
-    if (pheno_name %in% values) {
+    if (pheno_name %in% names(values)) {
       
       n <- sum(!is.na(values[[pheno_name]]))
       
@@ -130,7 +130,7 @@ get_n_values <- function(
     
     n <- 0
     
-    if (pheno_name %in% originalValues) {
+    if (pheno_name %in% names(originalValues)) {
       
       n <- sum(!is.na(originalValues[[pheno_name]]))
       
@@ -145,7 +145,7 @@ get_n_values <- function(
     
     n <- 0
     
-    if (pheno_name %in% values) {
+    if (pheno_name %in% names(values)) {
       
       n <- sum(!is.na(values[[pheno_name]]))
       
@@ -167,7 +167,7 @@ get_n_values <- function(
     
     n <- 0
     
-    if (pheno_name_1 %in% originalValues & pheno_name_2 %in% originalValues) {
+    if (pheno_name_1 %in% names(originalValues) & pheno_name_2 %in% names(originalValues)) {
       
       n <- sum(!is.na(originalValues[[pheno_name_1]]) & !is.na(originalValues[[pheno_name_2]]))
       
@@ -182,7 +182,7 @@ get_n_values <- function(
     
     n <- 0
     
-    if (pheno_name_1 %in% values & pheno_name_2 %in% values) {
+    if (pheno_name_1 %in% names(values) & pheno_name_2 %in% names(values)) {
       
       n <- sum(!is.na(values[[pheno_name_1]]) & !is.na(values[[pheno_name_2]]))
       
@@ -219,50 +219,51 @@ exportCurves <- function(
   
   for (i in 1:nrow(values)) {
     
-    exportCurvesForKid(
+    print(paste0("Exporting growth curves of ", i, " in ", nrow(values)))
+    
+    plots <- get_annotated_curves(
       originalValues = originalValues,
       i = i,
       values = values,
-      bridgeDF = bridgeDF,
-      qcFolderLocal = qcFolderLocal
+      bridgeDF = bridgeDF
     )
+    
+    dummyIdI <- bridgeDF$dummyId[i]
+    
+    plotFile <- file.path(qcFolderLocal, paste0(dummyIdI, "_length.png"))
+    png(plotFile, width = 900, height = 600)
+    grid.draw(plots[[1]])
+    dummy <- dev.off()
+    
+    plotFile <- file.path(qcFolderLocal, paste0(dummyIdI, "_weight.png"))
+    png(plotFile, width = 900, height = 600)
+    grid.draw(plots[[2]])
+    dummy <- dev.off()
     
   }
 }
 
 
-#' Exports the groeth curve of a given kid.
+#' Exports the growth curve of a given kid.
 #' 
 #' @param originalValues the original values
-#' @param i the line where the kid is found
 #' @param values the processed values
-#' @param bridgeDF the data frame to bridge identifiers
-#' @param qcFolderLocal the folder where to save the results
+#' @param i the line where the kid is found
 #' 
 #' @return returns the updated values
-exportCurvesForKid <- function(
+get_annotated_curves <- function(
   originalValues,
-  i,
   values,
-  bridgeDF,
-  qcFolderLocal
+  i
 ) {
   
   timePoints <- c("Birth", "6 w", "3 m", "6 m", "8 m", "1 y", "1.5 y", "2 y", "3 y", "5 y", "7 y", "8 y", "14 y")
-  
-  print(paste0(i, " in ", nrow(values)))
   
   logI <- values$log[i]
   
   if (logI != "") {
     
     child_idI <- originalValues$child_id[i]
-    
-    if (child_idI != values$child_id[i] || child_idI != bridgeDF$child_id[i]) {
-      stop("id mismatch")
-    }
-    
-    dummyIdI <- bridgeDF$dummyId[i]
     
     originalLength <- as.numeric(originalValues[i, length_columns])
     
@@ -352,7 +353,7 @@ exportCurvesForKid <- function(
         "Length [cm]"
         ) +
       ggtitle(
-        paste0(dummyIdI, " Log:", logI)
+        paste0("Changes: ", logI)
         ) +
       theme(
         axis.title.x = element_blank()
@@ -404,7 +405,6 @@ exportCurvesForKid <- function(
       colors <- c(colors, "blue")
     }
     
-    
     weightPlot <- ggplot() + 
       theme_bw(
         base_size = 24
@@ -447,15 +447,7 @@ exportCurvesForKid <- function(
         axis.title.x = element_blank()
       )
     
-    plotFile <- file.path(qcFolderLocal, paste0(dummyIdI, "_length.png"))
-    png(plotFile, width = 900, height = 600)
-    grid.draw(lengthPlot)
-    dummy <- dev.off()
-    
-    plotFile <- file.path(qcFolderLocal, paste0(dummyIdI, "_weight.png"))
-    png(plotFile, width = 900, height = 600)
-    grid.draw(weightPlot)
-    dummy <- dev.off()
+    return(list(lengthPlot, weightPlot))
     
   }
 }
