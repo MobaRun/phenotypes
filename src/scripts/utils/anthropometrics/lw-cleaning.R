@@ -478,6 +478,12 @@ for (row in sampled_rows) {
     append = T
   )
   
+  write(
+    x = glue("> {values$log[i]}"), 
+    file = md_file, 
+    append = T
+  )
+  
   plots <- get_annotated_curves(
     originalValues = originalValues,
     values = values,
@@ -507,6 +513,12 @@ for (i in 1:20) {
   
   write(
     x = glue("#### Most extreme example ({i}): {dummyIdI}"), 
+    file = md_file, 
+    append = T
+  )
+  
+  write(
+    x = glue("> {values$log[i]}"), 
     file = md_file, 
     append = T
   )

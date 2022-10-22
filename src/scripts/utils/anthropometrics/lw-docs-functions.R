@@ -30,7 +30,7 @@ exportLenghtWeight <- function(
       length = c(originalValues[[lengthColumn]], values[[lengthColumn]]),
       weight = c(originalValues[[weightColumn]], values[[weightColumn]]),
       sex = c(originalValues$sex, values$sex),
-      unrelated = c(originalValues$unrelated, values$unrelated),
+      unrelated = c(originalValues$unrelated_children, values$unrelated_children),
       cleaningStep = c(rep("Before", nrow(originalValues)), rep("After", nrow(values))),
       stringsAsFactors = F
     ) %>% 
@@ -41,12 +41,14 @@ exportLenghtWeight <- function(
         length = ifelse(is.na(length), 0, length),
         weight = ifelse(is.na(weight), 0, weight),
         cleaningStep = factor(cleaningStep, levels = c("Before", "After")),
-        sex = factor(sex, levels = c("Girl", "Boy")),
+        sex = factor(sex, levels = c(0, 1, 2)),
         unrelated = factor(unrelated, levels = c(0, 1))
       ) %>%
       arrange(
         unrelated
       )
+    
+    levels(plotDF$sex) <- c("Undefined", "Boy", "Girl")
     
     lwPlot <- ggplot(
       data = plotDF
@@ -230,6 +232,12 @@ exportCurves <- function(
     
     dummyIdI <- bridgeDF$dummyId[i]
     
+    write(
+      x = values$log[i], 
+      file = file_path(qcFolderLocal, paste0("log_", i)), 
+      append = F
+    )
+    
     plotFile <- file.path(qcFolderLocal, paste0(dummyIdI, "_length.png"))
     png(plotFile, width = 900, height = 600)
     grid.draw(plots[[1]])
@@ -258,10 +266,6 @@ get_annotated_curves <- function(
 ) {
 
   timePoints <- c("Birth", "6 w", "3 m", "6 m", "8 m", "1 y", "1.5 y", "2 y", "3 y", "5 y", "7 y", "8 y")
-
-  logI <- values$log[i]
-
-  if (logI != "") {
     
     child_idI <- originalValues$child_id[i]
     
@@ -351,9 +355,6 @@ get_annotated_curves <- function(
         ) +
       ylab(
         "Length [cm]"
-        ) +
-      ggtitle(
-        paste0("Changes: ", logI)
         ) +
       theme(
         axis.title.x = element_blank()
@@ -449,6 +450,5 @@ get_annotated_curves <- function(
     
     return(list(lengthPlot, weightPlot))
     
-  }
 }
 
