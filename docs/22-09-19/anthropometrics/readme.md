@@ -1,6 +1,6 @@
 # Phenotypes
 ### Number of values
-![](plots/n.pgn)
+![](plots/n.png)
 ### Length vs weight
 ![](plots/length_weight_1.png)
 ![](plots/length_weight_2.png)
