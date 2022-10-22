@@ -90,7 +90,7 @@ get_n_values <- function(
   
   for (age_i in 1:n_timepoints) {
     
-    pheno_name <- length_column[age_i]
+    pheno_name <- length_columns[age_i]
     
     n <- 0
     
