@@ -256,11 +256,11 @@ get_annotated_curves <- function(
   values,
   i
 ) {
-  
-  timePoints <- c("Birth", "6 w", "3 m", "6 m", "8 m", "1 y", "1.5 y", "2 y", "3 y", "5 y", "7 y", "8 y", "14 y")
-  
+
+  timePoints <- c("Birth", "6 w", "3 m", "6 m", "8 m", "1 y", "1.5 y", "2 y", "3 y", "5 y", "7 y", "8 y")
+
   logI <- values$log[i]
-  
+
   if (logI != "") {
     
     child_idI <- originalValues$child_id[i]
