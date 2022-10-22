@@ -9,13 +9,13 @@
 #' 
 #' @param originalValues the original values
 #' @param values the processed values
-#' @param qcFolderLocal the folder where to save the results
+#' @param plot_folder the folder where to plot the results
 #' 
 #' @return returns the updated values
 exportLenghtWeight <- function(
   originalValues,
   values,
-  qcFolderLocal
+  plot_folder
 ) {
   
   timePoints <- c("Birth", "6 w", "3 m", "6 m", "8 m", "1 y", "1.5 y", "2 y", "3 y", "5 y", "7 y", "8 y", "14 y")
@@ -48,7 +48,12 @@ exportLenghtWeight <- function(
         unrelated
       )
     
-    lwPlot <- ggplot(data = plotDF) + theme_bw() +
+    lwPlot <- ggplot(
+      data = plotDF
+      ) + 
+      theme_bw(
+        base_size = 24
+      ) +
       geom_point(mapping = aes(x = length, y = weight, col = unrelated), alpha = 0.3) +
       facet_grid(sex ~ cleaningStep) +
       scale_color_manual(values = c("black", "blue3"), name = NULL, labels = c("Other", "Core")) +
@@ -58,12 +63,142 @@ exportLenghtWeight <- function(
         legend.position = "top"
       )
     
-    plotFile <- file.path(qcFolderLocal, paste0(ageI, ".png"))
-    png(plotFile, width = 1200, height = 1200)
+    plotFile <- file.path(plot_folder, paste0("length_weight_", ageI, ".png"))
+    png(plotFile, width = 900, height = 900)
     grid.draw(lwPlot)
     dummy <- dev.off()
     
   }
+}
+
+get_n_values <- function(
+    originalValues,
+    values
+) {
+  
+  n_timepoints <- length(length_columns)
+  
+  n_df <- data.frame(
+    pheno = character(6 * n_timepoints),
+    age_i = numeric(6 * n_timepoints),
+    n = numeric(6 * n_timepoints),
+    qc_class = character(6 * n_timepoints),
+    stringsAsFactors = F
+  )
+  
+  n_df_i <- 1
+  
+  for (age_i in 1:n_timepoints) {
+    
+    pheno_name <- length_column[age_i]
+    
+    n <- 0
+    
+    if (pheno_name %in% originalValues) {
+      
+      n <- sum(!is.na(originalValues[[pheno_name]]))
+      
+    }
+    
+    n_df$pheno[n_df_i] <- "Length"
+    n_df$age_i[n_df_i] <- age_i
+    n_df$n[n_df_i] <- n
+    n_df$qc_class[n_df_i] <- "Raw"
+    
+    n_df_i <- n_df_i + 1
+    
+    n <- 0
+    
+    if (pheno_name %in% values) {
+      
+      n <- sum(!is.na(values[[pheno_name]]))
+      
+    }
+    
+    n_df$pheno[n_df_i] <- "Length"
+    n_df$age_i[n_df_i] <- age_i
+    n_df$n[n_df_i] <- n
+    n_df$qc_class[n_df_i] <- "QC"
+    
+    n_df_i <- n_df_i + 1
+    
+  }
+  
+  for (age_i in 1:n_timepoints) {
+    
+    pheno_name <- weight_columns[age_i]
+    
+    n <- 0
+    
+    if (pheno_name %in% originalValues) {
+      
+      n <- sum(!is.na(originalValues[[pheno_name]]))
+      
+    }
+    
+    n_df$pheno[n_df_i] <- "Weight"
+    n_df$age_i[n_df_i] <- age_i
+    n_df$n[n_df_i] <- n
+    n_df$qc_class[n_df_i] <- "Raw"
+    
+    n_df_i <- n_df_i + 1
+    
+    n <- 0
+    
+    if (pheno_name %in% values) {
+      
+      n <- sum(!is.na(values[[pheno_name]]))
+      
+    }
+    
+    n_df$pheno[n_df_i] <- "Weight"
+    n_df$age_i[n_df_i] <- age_i
+    n_df$n[n_df_i] <- n
+    n_df$qc_class[n_df_i] <- "QC"
+    
+    n_df_i <- n_df_i + 1
+    
+  }
+  
+  for (age_i in 1:n_timepoints) {
+    
+    pheno_name_1 <- weight_columns[age_i]
+    pheno_name_2 <- length_columns[age_i]
+    
+    n <- 0
+    
+    if (pheno_name_1 %in% originalValues & pheno_name_2 %in% originalValues) {
+      
+      n <- sum(!is.na(originalValues[[pheno_name_1]]) & !is.na(originalValues[[pheno_name_2]]))
+      
+    }
+    
+    n_df$pheno[n_df_i] <- "BMI"
+    n_df$age_i[n_df_i] <- age_i
+    n_df$n[n_df_i] <- n
+    n_df$qc_class[n_df_i] <- "Raw"
+    
+    n_df_i <- n_df_i + 1
+    
+    n <- 0
+    
+    if (pheno_name_1 %in% values & pheno_name_2 %in% values) {
+      
+      n <- sum(!is.na(values[[pheno_name_1]]) & !is.na(values[[pheno_name_2]]))
+      
+    }
+    
+    n_df$pheno[n_df_i] <- "BMI"
+    n_df$age_i[n_df_i] <- age_i
+    n_df$n[n_df_i] <- n
+    n_df$qc_class[n_df_i] <- "QC"
+    
+    n_df_i <- n_df_i + 1
+    
+  }
+  
+  return(n_df)
+  
 }
 
 
@@ -176,13 +311,49 @@ exportCurvesForKid <- function(
       colors <- c(colors, "blue3")
     }
     
-    lengthPlot <- ggplot() + theme_bw() +
-      geom_line(data = lengthDF, mapping = aes(x = x, y = originalLength, group = 1), col = "grey40", linetype = "dotted") +
-      geom_line(data = lengthDF, mapping = aes(x = x, y = newLength, group = 1), col = "darkblue", linetype = "solid") +
-      geom_point(data = pointsDF, mapping = aes(x = x, y = length, col = col, group = col)) +
-      scale_color_manual(name = "Category", values = colors) +
-      ylab("Length [cm]") +
-      ggtitle(paste0(dummyIdI, " Log:", logI)) +
+    lengthPlot <- ggplot() + 
+      theme_bw(
+        base_size = 24
+        ) +
+      geom_line(
+        data = lengthDF, 
+        mapping = aes(
+          x = x, 
+          y = originalLength, 
+          group = 1
+          ), 
+        col = "grey40", 
+        linetype = "dotted"
+        ) +
+      geom_line(
+        data = lengthDF, 
+        mapping = aes(
+          x = x, 
+          y = newLength, 
+          group = 1
+          ), 
+        col = "darkblue", 
+        linetype = "solid"
+        ) +
+      geom_point(
+        data = pointsDF, 
+        mapping = aes(
+          x = x, 
+          y = length, 
+          col = col, 
+          group = col
+          )
+        ) +
+      scale_color_manual(
+        name = "Category", 
+        values = colors
+        ) +
+      ylab(
+        "Length [cm]"
+        ) +
+      ggtitle(
+        paste0(dummyIdI, " Log:", logI)
+        ) +
       theme(
         axis.title.x = element_blank()
       )
@@ -234,11 +405,43 @@ exportCurvesForKid <- function(
     }
     
     
-    weightPlot <- ggplot() + theme_bw() +
-      geom_line(data = weightDF, mapping = aes(x = x, y = originalWeight, group = 1), col = "grey40", linetype = "dotted") +
-      geom_line(data = weightDF, mapping = aes(x = x, y = newWeight, group = 1), col = "blue3", linetype = "solid") +
-      geom_point(data = pointsDF, mapping = aes(x = x, y = weight, col = col, group = col)) +
-      scale_color_manual(name = "Category", values = colors) +
+    weightPlot <- ggplot() + 
+      theme_bw(
+        base_size = 24
+      ) +
+      geom_line(
+        data = weightDF, 
+        mapping = aes(
+          x = x, 
+          y = originalWeight, 
+          group = 1
+          ), 
+        col = "grey40", 
+        linetype = "dotted"
+        ) +
+      geom_line(
+        data = weightDF, 
+        mapping = aes(
+          x = x, 
+          y = newWeight, 
+          group = 1
+          ), 
+        col = "blue3", 
+        linetype = "solid"
+        ) +
+      geom_point(
+        data = pointsDF, 
+        mapping = aes(
+          x = x, 
+          y = weight, 
+          col = col, 
+          group = col
+          )
+        ) +
+      scale_color_manual(
+        name = "Category", 
+        values = colors
+        ) +
       ylab("Weight [kg]") +
       theme(
         axis.title.x = element_blank()
