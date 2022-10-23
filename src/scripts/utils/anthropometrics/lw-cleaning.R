@@ -484,6 +484,18 @@ for (row in sampled_rows) {
     append = T
   )
   
+  write(
+    x = glue("![](plots/{dummyIdI}_length.png)"), 
+    file = md_file, 
+    append = T
+  )
+  
+  write(
+    x = glue("![](plots/{dummyIdI}_weight.png)"), 
+    file = md_file, 
+    append = T
+  )
+  
   plots <- get_annotated_curves(
     originalValues = originalValues,
     values = values,
@@ -524,13 +536,13 @@ for (i in 1:20) {
   )
   
   write(
-    x = glue("![](plots/{dummyIdI})_length.png"), 
+    x = glue("![](plots/{dummyIdI}_length.png)"), 
     file = md_file, 
     append = T
   )
   
   write(
-    x = glue("![](plots/{dummyIdI})_weight.png"), 
+    x = glue("![](plots/{dummyIdI}_weight.png)"), 
     file = md_file, 
     append = T
   )
