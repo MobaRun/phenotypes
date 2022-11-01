@@ -15,46 +15,46 @@ libFolder <- "~/R/R_4.1"
 # This randomly fails the first time but not the second, seems to be an error in the latest R versions
 
 loadLibraries <- function() {
-    
-    library(isoband, lib = libFolder)
-    library(farver, lib = libFolder)
-    library(ellipsis, lib = libFolder)
-    library(scales, lib = libFolder)
-    library(backports, lib = libFolder)
-    library(vctrs, lib = libFolder)
-    library(crayon, lib = libFolder)
-    library(tidyr, lib = libFolder)
-    library(dplyr, lib = libFolder)
-    library(MASS, lib = libFolder)
-    library(gamlss.data, lib = libFolder)
-    library(gamlss.dist, lib = libFolder)
-    library(nlme, lib = libFolder)
-    library(gamlss, lib = libFolder)
-    library(withr, lib = libFolder)
-    library(labeling, lib = libFolder)
-    library(digest, lib = libFolder)
-    library(reshape2, lib = libFolder)
-    library(ggplot2, lib = libFolder)
-    library(grid, lib = libFolder)
-    library(scico, lib = libFolder)
-    library(gtable, lib = libFolder)
-    #library(conflicted, lib = libFolder)
-    library(stringr, lib = libFolder)
-    library(jsonlite, lib = libFolder)
-    library(glue, lib = libFolder)
-    library(janitor, lib = libFolder)
-    
+  
+  library(isoband, lib = libFolder)
+  library(farver, lib = libFolder)
+  library(ellipsis, lib = libFolder)
+  library(scales, lib = libFolder)
+  library(backports, lib = libFolder)
+  library(vctrs, lib = libFolder)
+  library(crayon, lib = libFolder)
+  library(tidyr, lib = libFolder)
+  library(dplyr, lib = libFolder)
+  library(MASS, lib = libFolder)
+  library(gamlss.data, lib = libFolder)
+  library(gamlss.dist, lib = libFolder)
+  library(nlme, lib = libFolder)
+  library(gamlss, lib = libFolder)
+  library(withr, lib = libFolder)
+  library(labeling, lib = libFolder)
+  library(digest, lib = libFolder)
+  library(reshape2, lib = libFolder)
+  library(ggplot2, lib = libFolder)
+  library(grid, lib = libFolder)
+  library(scico, lib = libFolder)
+  library(gtable, lib = libFolder)
+  #library(conflicted, lib = libFolder)
+  library(stringr, lib = libFolder)
+  library(jsonlite, lib = libFolder)
+  library(glue, lib = libFolder)
+  library(janitor, lib = libFolder)
+  
 }
 
 tryCatch(
-    {
-        loadLibraries()
-        
-    }, error = function(error_condition) {
-        
-        loadLibraries()
-        
-    }
+  {
+    loadLibraries()
+    
+  }, error = function(error_condition) {
+    
+    loadLibraries()
+    
+  }
 )
 
 
@@ -183,20 +183,20 @@ idDF <- rbind(
 )
 
 if (sum(is.na(idDF$sentrix_id)) > 0) {
-    
-    stop("Missing sentrix id")
-    
+  
+  stop("Missing sentrix id")
+  
 }
 
 
 # Check that all batches are supported
 
 if (sum(!idDF$batch %in% batchOrder) > 0) {
-    
-    missingBatches <- unique(idDF$batch[!idDF$batch %in% batchOrder])
-    
-    stop(paste0("Batch not supported: ", paste(missingBatches, collapse = ", ")))
-    
+  
+  missingBatches <- unique(idDF$batch[!idDF$batch %in% batchOrder])
+  
+  stop(paste0("Batch not supported: ", paste(missingBatches, collapse = ", ")))
+  
 }
 
 
@@ -207,44 +207,44 @@ print(glue("{Sys.time()} - Removing duplicates"))
 nBefore <- nrow(idDF)
 
 sampleOccurrenceDF <- as.data.frame(
-    table(idDF$id),
-    stringsAsFactors = F
+  table(idDF$id),
+  stringsAsFactors = F
 ) %>% 
-    clean_names() %>% 
-    filter(
-        freq > 1
-    )
+  clean_names() %>% 
+  filter(
+    freq > 1
+  )
 
 for (duplicate in sampleOccurrenceDF$var1) {
-    
-    duplicateIds <- idDF %>% 
-        filter(
-            id == duplicate
-        ) %>% 
-        mutate(
-            batchFactor = factor(batch, levels = batchOrder)
-        ) %>% 
-        arrange(
-            batchFactor
-        )
-    
-    idDF <- idDF %>% 
-        filter(
-            id != duplicate | sentrix_id == duplicateIds$sentrix_id[1]
-        )
-    
+  
+  duplicateIds <- idDF %>% 
+    filter(
+      id == duplicate
+    ) %>% 
+    mutate(
+      batchFactor = factor(batch, levels = batchOrder)
+    ) %>% 
+    arrange(
+      batchFactor
+    )
+  
+  idDF <- idDF %>% 
+    filter(
+      id != duplicate | sentrix_id == duplicateIds$sentrix_id[1]
+    )
+  
 }
 
 if (length(unique(idDF$id)) != length(unique(idDF$sentrix_id))) {
-    
-    stop("Duplicate sentrix_ids found")
-    
+  
+  stop("Duplicate sentrix_ids found")
+  
 }
 
 if (nrow(idDF) != length(unique(idDF$id))) {
-    
-    stop("Duplicate ids found")
-    
+  
+  stop("Duplicate ids found")
+  
 }
 
 nAfter <- nrow(idDF)
@@ -257,38 +257,154 @@ print(paste0("Duplicates removed: ", nBefore - nAfter, " (", round(100 * (nBefor
 print(glue("{Sys.time()} - Setting up pheno table"))
 
 phenoDF <- idDF %>% 
-    mutate(
-        sick_past_14_days = NA,
-        suspected_or_confirmed_covid_doctor_past_14_days = 0,
-        suspected_or_confirmed_covid_doctor_past_14_days_last_reported = NA,
-        tested_positive = 0,
-        tested_positive_last_reported = NA,
-        tested_positive_pcr = NA,
-        tested_positive_pcr_last_reported = NA,
-        tested_positive_ab = NA,
-        tested_positive_ab_last_reported = NA,
-        vaccine_arm_pain = 0,
-        vaccine_feber = 0,
-        vaccine_freezing = 0,
-        vaccine_feeling_unwell = 0,
-        vaccine_bad_appetite = 0,
-        vaccine_headache = 0,
-        vaccine_pain_other_place_than_injection = 0,
-        vaccine_skin_bleeding_ecchymosis = 0,
-        vaccine_nose_bleeding = 0,
-        vaccine_gum_bleeding = 0,
-        vaccine_mouth_ulcer = 0,
-        vaccine_thrombus = 0,
-        vaccine_unusually_strong_menstruation = 0,
-        vaccine_nausea = 0,
-        vaccine_belly_pain = 0,
-        vaccine_diarrhea = 0,
-        vaccine_dizziness = 0,
-        vaccine_faintness = 0
-    )
+  mutate(
+    sick_past_14_days = NA,
+    suspected_or_confirmed_covid_doctor_past_14_days = 0,
+    suspected_or_confirmed_covid_doctor_past_14_days_last_reported = NA,
+    tested_positive = 0,
+    tested_positive_last_reported = NA,
+    tested_positive_pcr = NA,
+    tested_positive_pcr_last_reported = NA,
+    tested_positive_ab = NA,
+    tested_positive_ab_last_reported = NA,
+    menstruating = NA,
+    pill = NA,
+    finished_menstruating = NA
+  )
+
+
+# Influenza vaccination
+
+influenza_questions <- c(
+  "kf2053",
+  "kf2054",
+  "kf2055",
+  "kf2056",
+  "kf2057",
+  "kf2058",
+  "kf2059",
+  "kf2060",
+  "kf2061",
+  "kf2062",
+  "kf2063",
+  "kf2064",
+  "kf2067",
+  "kf2068",
+  "kf2069",
+  "kf2070",
+  "kf2071",
+  "kf2072",
+  "kf2073",
+  "kf2074",
+  "kf2075",
+  "kf2076",
+  "kf2077",
+  "kf2078",
+  "kf2079",
+  "kf2080",
+  "kf2081",
+  "kf2082",
+  "kf2083",
+  "kf2084",
+  "kf2085",
+  "kf2086",
+  "kf2087",
+  "kf2088",
+  "kf2089",
+  "kf2090",
+  "kf2091",
+  "kf2092",
+  "kf2093",
+  "kf2065",
+  "kf2066"
+)
+
+influenza_variables <- c(
+  "influenza_vaccine_arm_pain",
+  "influenza_vaccine_fever",
+  "influenza_vaccine_chills",
+  "influenza_vaccine_feeling_unwell",
+  "influenza_vaccine_bad_appetite",
+  "influenza_vaccine_headache",
+  "influenza_vaccine_pain_other_than_injection_site",
+  "influenza_vaccine_ecchymosis",
+  "influenza_vaccine_nose_bleeding",
+  "influenza_vaccine_gum_bleeding",
+  "influenza_vaccine_sore_in_mouth",
+  "influenza_vaccine_blood_clot",
+  "influenza_vaccine_nausea_vomit",
+  "influenza_vaccine_belly_pain",
+  "influenza_vaccine_diarrhea",
+  "influenza_vaccine_dizziness",
+  "influenza_vaccine_fainting",
+  "influenza_vaccine_flu_feeling",
+  "influenza_vaccine_muscle_joint_pain",
+  "influenza_vaccine_general_pain",
+  "influenza_vaccine_slapp",
+  "influenza_vaccine_swollen_lymph_glands",
+  "influenza_vaccine_allergic_reaction",
+  "influenza_vaccine_anaphylactic_reaction",
+  "influenza_vaccine_muscle_weakness",
+  "influenza_vaccine_fatigue_sleepiness",
+  "influenza_vaccine_insomnia",
+  "influenza_vaccine_tinnitus",
+  "influenza_vaccine_chest_pain",
+  "influenza_vaccine_difficulty_breathing",
+  "influenza_vaccine_rapid_heart_beat",
+  "influenza_vaccine_irregular_heart_beat",
+  "influenza_vaccine_high_blood_pressure",
+  "influenza_vaccine_low_blood_pressure",
+  "influenza_vaccine_perikardite",
+  "influenza_vaccine_myokardite",
+  "influenza_vaccine_shingles",
+  "influenza_vaccine_herpes_outbreak",
+  "influenza_vaccine_other",
+  "influenza_vaccine_unusually_strong_menstruation",
+  "influenza_vaccine_unexpected_abdominal_bleeding"
+)
+
+for (variable in influenza_variables) {
+  
+  phenoDF[[variable]] <- NA
+  
+}
 
 
 # long covid pheno
+
+long_covid_questions <- c(
+  "kf120",
+  "kf468",
+  "kf470",
+  "kf471",
+  "kf472",
+  "kf475",
+  "kf476",
+  "kf479",
+  "kf480",
+  "kf481",
+  "kf484",
+  "kf486",
+  "kf487",
+  "kf489"
+)
+
+long_covid_variables <- c(
+  "reduced_smell_taste",
+  "fatigue",
+  "shortness_breath",
+  "cough",
+  "lung_function_reduced",
+  "chest_pain",
+  "heart_palpitation",
+  "dizziness",
+  "brain_fog",
+  "poor_memory",
+  "headache",
+  "anxiety",
+  "skin_rash",
+  "altered_smell_taste"
+)
 
 print(glue("{Sys.time()} - Setting up long covid function"))
 
@@ -299,79 +415,79 @@ longCovidPhenoImport <- function(
     phenoName,
     folder
 ) {
+  
+  if (!phenoName %in% names(phenoDF)) {
     
-    if (!phenoName %in% names(phenoDF)) {
-        
-        phenoDF[[phenoName]] <- NA
-        
+    phenoDF[[phenoName]] <- NA
+    
+  }
+  
+  phenoLast <- paste0(phenoName, "_last_reported")
+  
+  if (!phenoLast %in% names(phenoDF)) {
+    
+    phenoDF[[phenoLast]] <- NA
+    
+  }
+  
+  tempDF <- quesDF %>% 
+    filter(
+      !is.na(!!sym(quesNumber)) & !!sym(quesNumber) == 1
+    )
+  
+  if (nrow(tempDF) > 0) {
+    
+    tempDF <- tempDF %>% 
+      select(
+        id, !!sym(quesNumber), fill_in_date
+      ) %>% 
+      group_by(
+        id
+      ) %>% 
+      arrange(
+        desc(!!sym(quesNumber))
+      ) %>% 
+      filter(
+        row_number() == 1
+      )
+    
+    if (nrow(tempDF) != length(unique(tempDF$id))) {
+      
+      stop(glue("Duplicate ids found in {folder}"))
+      
     }
     
-    phenoLast <- paste0(phenoName, "_last_reported")
-    
-    if (!phenoLast %in% names(phenoDF)) {
-        
-        phenoDF[[phenoLast]] <- NA
-        
-    }
-    
-    tempDF <- quesDF %>% 
-        filter(
-            !is.na(!!sym(quesNumber)) & !!sym(quesNumber) == 1
+    phenoDF <- phenoDF %>% 
+      left_join(
+        tempDF,
+        by = "id"
+      ) %>% 
+      mutate(
+        !!phenoName := ifelse(
+          is.na(!!sym(phenoName)) | !is.na(!!sym(phenoName)) & !is.na(!!sym(quesNumber)) & !!sym(phenoName) == 0, 
+          !!sym(quesNumber), 
+          !!sym(phenoName)
+        ),
+        !!phenoLast := ifelse(
+          !is.na(!!sym(phenoName)) & !!sym(phenoName) == 1 & is.na(!!sym(phenoLast)) | !is.na(!!sym(phenoLast)) & !is.na(!!sym(quesNumber)) & !!sym(quesNumber) == 1 & fill_in_date > !!sym(phenoLast), 
+          fill_in_date, 
+          !!sym(phenoLast)
         )
+      ) %>% 
+      select(
+        -!!sym(quesNumber), -fill_in_date
+      )
     
-    if (nrow(tempDF) > 0) {
-        
-        tempDF <- tempDF %>% 
-            select(
-                id, !!sym(quesNumber), fill_in_date
-            ) %>% 
-            group_by(
-                id
-            ) %>% 
-            arrange(
-                desc(!!sym(quesNumber))
-            ) %>% 
-            filter(
-                row_number() == 1
-            )
-        
-        if (nrow(tempDF) != length(unique(tempDF$id))) {
-            
-            stop(glue("Duplicate ids found in {folder}"))
-            
-        }
-        
-        phenoDF <- phenoDF %>% 
-            left_join(
-                tempDF,
-                by = "id"
-            ) %>% 
-            mutate(
-                !!phenoName := ifelse(
-                    is.na(!!sym(phenoName)) | !is.na(!!sym(phenoName)) & !is.na(!!sym(quesNumber)) & !!sym(phenoName) == 0, 
-                    !!sym(quesNumber), 
-                    !!sym(phenoName)
-                ),
-                !!phenoLast := ifelse(
-                    !is.na(!!sym(phenoName)) & !!sym(phenoName) == 1 & is.na(!!sym(phenoLast)) | !is.na(!!sym(phenoLast)) & !is.na(!!sym(quesNumber)) & !!sym(quesNumber) == 1 & fill_in_date > !!sym(phenoLast), 
-                    fill_in_date, 
-                    !!sym(phenoLast)
-                )
-            ) %>% 
-            select(
-                -!!sym(quesNumber), -fill_in_date
-            )
-        
-    }
+  }
+  
+  if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
     
-    if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
-        
-        stop(glue("Duplicate sentrix id introduced during processing of {phenoName}."))
-        
-    }
+    stop(glue("Duplicate sentrix id introduced during processing of {phenoName}."))
     
-    return(phenoDF)
-    
+  }
+  
+  return(phenoDF)
+  
 }
 
 
@@ -382,807 +498,723 @@ print(glue("{Sys.time()} - Loading long covid questionnaires"))
 quesNames <- c("Foreldre_duplikater_{suffix}.gz", "Foreldre_{suffix}.gz", "Ungdom_duplikater_{suffix}.gz", "Ungdom_{suffix}.gz")
 
 for (folder in list.files(quesFolder)) {
+  
+  if (folder != "Dokumentasjon") {
     
-    if (folder != "Dokumentasjon") {
-        
-        print(glue("{Sys.time()} - Loading phenotypes from {folder}"))
-        
-        if (folder == "2020_06_07_Runde_1_4_MedDup") {
-            
-            suffixes <- "runde1til4"
-            
-        } else if (folder == "Runde13") {
-            
-            suffixes <- paste0(folder, "_korrigert17032021")
-            
-        } else if (folder == "Runde14") {
-            
-            suffixes <- paste0(folder, "_korrigert17032021")
-            
-        } else if (folder == "Runde16") {
-            
-            suffixes <- c(paste0(folder, "_komplett"), paste0(folder, "_09112020"))
-            
-        } else if (folder == "Runde22") {
-            
-            suffixes <- paste0(folder, "_komplett_korrigert17032021")
-            
-        } else if (folder == "Runde17" || folder == "Runde18" || folder == "Runde19" || folder == "Runde20" || folder == "Runde21" || folder == "Runde23" || folder == "Runde24" || folder == "Runde25" || folder == "Runde26" || folder == "Runde27" || folder == "Runde28" || folder == "Runde29" || folder == "Runde30" || folder == "Runde31" || folder == "Runde32" || folder == "Runde33" || folder == "Runde34" || folder == "Runde35" || folder == "Runde36" || folder == "Runde37" || folder == "Runde38" || folder == "Runde39" || folder == "Runde40" || folder == "Runde41" || folder == "Runde42" || folder == "Runde43" || folder == "Runde44") {
-            
-            suffixes <- paste0(folder, "_komplett")
-            
-        } else {
-            
-            suffixes <- folder
-            
-        }
-        
-        for (quesName in quesNames) {
-            
-            for (suffix in suffixes) {
-                
-                questionnaireFile <- file.path(quesFolder, folder, glue(quesName))
-                
-                print(paste0(questionnaireFile, " - Found: ", file.exists(questionnaireFile)))
-                
-                if (file.exists(questionnaireFile)) {
-                    
-                    print(glue("{Sys.time()} - Loading phenotypes from {questionnaireFile}"))
-                    
-                    quesDF <- read.table(
-                        file = questionnaireFile,
-                        sep = "\t",
-                        header = T,
-                        quote = "",
-                        stringsAsFactors = F,
-                        comment.char = ""
-                    ) %>% 
-                        clean_names() %>% 
-                        mutate(
-                            role = str_replace_all(
-                                string = role, 
-                                pattern = " ",
-                                repl = ""
-                            ),
-                            id = ifelse(
-                                test = role == "Child",
-                                yes = paste0(!!sym(preg_id_column), "_", barn_nr),
-                                no = !!sym(parent_id_column)
-                            )
-                        )
-                    
-                    if (!"fill_in_date" %in% names(quesDF)) {
-                        
-                        stop("'fill_in_date' not found in '{questionnaireFile}': {names(quesDF)}")
-                        
-                    }
-                    
-                    if ("kf10" %in% names(quesDF)) {
-                        
-                        tempDF <- quesDF %>% 
-                            mutate(
-                                kf10 = as.numeric(factor(kf10, levels = c("NEI", "JA"))) - 1
-                            ) %>% 
-                            select(
-                                id, kf10
-                            ) %>% 
-                            group_by(
-                                id
-                            ) %>% 
-                            summarize(
-                                kf10 = max(kf10, na.rm = T), 
-                                .groups = 'drop'
-                            ) %>% 
-                            mutate(
-                                kf10 = ifelse(is.infinite(kf10), NA, kf10)
-                            )
-                        
-                        if (sum(!is.na(tempDF$kf10)) > 0) {
-                            
-                            if (nrow(tempDF) != length(unique(tempDF$id))) {
-                                
-                                stop(glue("Duplicate ids found in {folder}"))
-                                
-                            }
-                            
-                            phenoDF <- phenoDF %>% 
-                                left_join(
-                                    tempDF,
-                                    by = "id"
-                                ) %>% 
-                                mutate(
-                                    sick_past_14_days = case_when(
-                                        is.na(sick_past_14_days) ~ kf10,
-                                        !is.na(sick_past_14_days) & !is.na(kf10) & sick_past_14_days == 0 ~ kf10,
-                                        T ~ as.numeric(sick_past_14_days)
-                                    )
-                                ) %>% 
-                                select(
-                                    -kf10
-                                )
-                            
-                        }
-                        
-                        if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
-                            
-                            stop("Duplicate sentrix id introduced during processing of 'kf10'.")
-                            
-                        }
-                    }
-                    if ("kf30" %in% names(quesDF)) {
-                        
-                        caseDF <- quesDF %>% 
-                            filter(
-                                !is.na(kf30)
-                            ) %>% 
-                            select(
-                                id, kf30, fill_in_date
-                            ) %>% 
-                            group_by(
-                                id
-                            ) %>% 
-                            summarize(
-                                kf30 = max(kf30, na.rm = T), 
-                                fill_in_date = max(fill_in_date, na.rm = T), 
-                                .groups = 'drop'
-                            ) %>%
-                            filter(
-                                !is.na(kf30) & !is.infinite(kf30)
-                            ) %>% 
-                            select(
-                                id, fill_in_date
-                            )
-                        
-                        phenoDF <- phenoDF %>% 
-                            left_join(
-                                caseDF,
-                                by = "id"
-                            ) %>% 
-                            mutate(
-                                suspected_or_confirmed_covid_doctor_past_14_days = ifelse(id %in% caseDF$id, 1, suspected_or_confirmed_covid_doctor_past_14_days),
-                                suspected_or_confirmed_covid_doctor_past_14_days_last_reported = ifelse(is.na(suspected_or_confirmed_covid_doctor_past_14_days_last_reported) | !is.na(fill_in_date) & fill_in_date > suspected_or_confirmed_covid_doctor_past_14_days_last_reported, fill_in_date, suspected_or_confirmed_covid_doctor_past_14_days_last_reported),
-                            ) %>% 
-                            select(
-                                -fill_in_date
-                            )
-                        
-                        if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
-                            
-                            stop("Duplicate sentrix id introduced during processing of 'kf30'.")
-                            
-                        }
-                    }
-                    if ("kf41" %in% names(quesDF)) {
-                        
-                        caseDF <- quesDF %>% 
-                            filter(
-                                !is.na(kf41) & kf41 == "JA"
-                            ) %>% 
-                            select(
-                                id, fill_in_date
-                            ) %>% 
-                            group_by(
-                                id
-                            ) %>% 
-                            summarize(
-                                fill_in_date = max(fill_in_date, na.rm = T), 
-                                .groups = 'drop'
-                            )
-                        
-                        phenoDF <- phenoDF %>% 
-                            left_join(
-                                caseDF,
-                                by = "id"
-                            ) %>% 
-                            mutate(
-                                tested_positive = ifelse(id %in% quesDF$id[!is.na(quesDF$kf41) & quesDF$kf41 == "JA"], 1, tested_positive),
-                                tested_positive_last_reported = ifelse(is.na(tested_positive_last_reported) | !is.na(fill_in_date) & fill_in_date > tested_positive_last_reported, fill_in_date, tested_positive_last_reported),
-                            ) %>% 
-                            select(
-                                -fill_in_date
-                            )
-                        
-                        if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
-                            
-                            stop("Duplicate sentrix id introduced during processing of 'kf41'.")
-                            
-                        }
-                    }
-                    if ("kf165" %in% names(quesDF)) {
-                        
-                        tempDF <- quesDF %>% 
-                            mutate(
-                                kf165 = as.numeric(factor(kf165, levels = c("NEI", "JA"))) - 1
-                            ) %>% 
-                            mutate(
-                                kf165 = ifelse(is.infinite(kf165), NA, kf165)
-                            ) %>% 
-                            filter(
-                                !is.na(kf165)
-                            ) 
-                        
-                        if (nrow(tempDF) > 0) {
-                            
-                            tempDF <- tempDF %>% 
-                            select(
-                                id, kf165, fill_in_date
-                            ) %>% 
-                            group_by(
-                                id
-                            ) %>% 
-                            arrange(
-                                desc(kf165)
-                            ) %>% 
-                            filter(
-                                row_number() == 1
-                            )
-                        
-                        if (nrow(tempDF) != length(unique(tempDF$id))) {
-                            
-                            stop(glue("Duplicate ids found in {folder}"))
-                            
-                        }
-                        
-                        phenoDF <- phenoDF %>% 
-                            left_join(
-                                tempDF,
-                                by = "id"
-                            ) %>% 
-                            mutate(
-                                tested_positive_pcr = case_when(
-                                    is.na(tested_positive_pcr) ~ kf165,
-                                    !is.na(tested_positive_pcr) & !is.na(kf165) & tested_positive_pcr == 0 ~ kf165,
-                                    T ~ as.numeric(tested_positive_pcr)
-                                ),
-                                tested_positive_pcr_last_reported = ifelse(
-                                    !is.na(tested_positive_pcr) & tested_positive_pcr == 1 & is.na(tested_positive_pcr_last_reported) | !is.na(tested_positive_pcr_last_reported) & !is.na(kf165) & kf165 == 1 & fill_in_date > tested_positive_pcr_last_reported, 
-                                    fill_in_date, 
-                                    tested_positive_pcr_last_reported
-                                )
-                            ) %>% 
-                            select(
-                                -kf165, -fill_in_date
-                            )
-                        }
-                        
-                        if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
-                            
-                            stop("Duplicate sentrix id introduced during processing of 'kf165'.")
-                            
-                        }
-                    }
-                    if ("kf305" %in% names(quesDF)) {
-                        
-                        tempDF <- quesDF %>% 
-                            mutate(
-                                kf305 = as.numeric(factor(kf305, levels = c("NEI", "JA"))) - 1
-                            ) %>% 
-                            mutate(
-                                kf305 = ifelse(is.infinite(kf305), NA, kf305)
-                            ) %>% 
-                            filter(
-                                !is.na(kf305)
-                            )
-                        
-                        if (nrow(tempDF) > 0) {
-                        
-                        tempDF <- tempDF %>% 
-                            select(
-                                id, kf305, fill_in_date
-                            ) %>% 
-                            group_by(
-                                id
-                            ) %>% 
-                            arrange(
-                                desc(kf305)
-                            ) %>% 
-                            filter(
-                                row_number() == 1
-                            )
-                        
-                        if (nrow(tempDF) != length(unique(tempDF$id))) {
-                            
-                            stop(glue("Duplicate ids found in {folder}"))
-                            
-                        }
-                        
-                        phenoDF <- phenoDF %>% 
-                            left_join(
-                                tempDF,
-                                by = "id"
-                            ) %>% 
-                            mutate(
-                                tested_positive_pcr = case_when(
-                                    is.na(tested_positive_pcr) ~ kf305,
-                                    !is.na(tested_positive_pcr) & !is.na(kf305) & tested_positive_pcr == 0 ~ kf305,
-                                    T ~ as.numeric(tested_positive_pcr)
-                                ),
-                                tested_positive_pcr_last_reported = ifelse(
-                                    !is.na(tested_positive_pcr) & tested_positive_pcr == 1 & is.na(tested_positive_pcr_last_reported) | !is.na(tested_positive_pcr_last_reported) & !is.na(kf305) & kf305 == 1 & fill_in_date > tested_positive_pcr_last_reported, 
-                                    fill_in_date, 
-                                    tested_positive_pcr_last_reported
-                                )
-                            ) %>% 
-                            select(
-                                -kf305, -fill_in_date
-                            )
-                        
-                        }
-                        
-                        if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
-                            
-                            stop("Duplicate sentrix id introduced during processing of 'kf305'.")
-                            
-                        }
-                    }
-                    if ("kf166" %in% names(quesDF)) {
-                        
-                        tempDF <- quesDF %>% 
-                            mutate(
-                                kf166 = as.numeric(factor(kf166, levels = c("NEI", "JA"))) - 1
-                            ) %>% 
-                            mutate(
-                                kf166 = ifelse(is.infinite(kf166), NA, kf166)
-                            ) %>% 
-                            filter(
-                                !is.na(kf166)
-                            )
-                        
-                        if (nrow(tempDF) > 0) {
-                            
-                            tempDF <- tempDF %>% 
-                                select(
-                                    id, kf166, fill_in_date
-                                ) %>% 
-                                group_by(
-                                    id
-                                ) %>% 
-                                arrange(
-                                    desc(kf166)
-                                ) %>% 
-                                filter(
-                                    row_number() == 1
-                                )
-                            
-                            if (nrow(tempDF) != length(unique(tempDF$id))) {
-                                
-                                stop(glue("Duplicate ids found in {folder}"))
-                                
-                            }
-                            
-                            phenoDF <- phenoDF %>% 
-                                left_join(
-                                    tempDF,
-                                    by = "id"
-                                ) %>% 
-                                mutate(
-                                    tested_positive_ab = case_when(
-                                        is.na(tested_positive_ab) ~ kf166,
-                                        !is.na(tested_positive_ab) & !is.na(kf166) & tested_positive_ab == 0 ~ kf166,
-                                        T ~ as.numeric(tested_positive_ab)
-                                    ),
-                                    tested_positive_ab_last_reported = ifelse(
-                                        !is.na(tested_positive_ab) & tested_positive_ab == 1 & is.na(tested_positive_ab_last_reported) | !is.na(tested_positive_ab_last_reported) & !is.na(kf166) & kf166 == 1 & fill_in_date > tested_positive_ab_last_reported, 
-                                        fill_in_date, 
-                                        tested_positive_ab_last_reported
-                                    )
-                                ) %>% 
-                                select(
-                                    -kf166, -fill_in_date
-                                )
-                            
-                        }
-                        
-                        if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
-                            
-                            stop("Duplicate sentrix id introduced during processing of 'kf166'.")
-                            
-                        }
-                    }
-                    if ("kf120" %in% names(quesDF)) {
-                        
-                        quesDF$kf120 <- as.numeric(factor(quesDF$kf120, levels = c("NEI", "JA"))) - 1
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf120",
-                            phenoName = "reduced_smell_taste",
-                            folder = folder
-                        )
-                    }
-                    if ("kf480" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf480",
-                            phenoName = "brain_fog",
-                            folder = folder
-                        )
-                    }
-                    if ("kf481" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf481",
-                            phenoName = "poor_memory",
-                            folder = folder
-                        )
-                    }
-                    if ("kf479" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf479",
-                            phenoName = "dizziness",
-                            folder = folder
-                        )
-                    }
-                    if ("kf476" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf476",
-                            phenoName = "heart_palpitation",
-                            folder = folder
-                        )
-                    }
-                    if ("kf468" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf468",
-                            phenoName = "fatigue",
-                            folder = folder
-                        )
-                    }
-                    if ("kf484" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf484",
-                            phenoName = "headache",
-                            folder = folder
-                        )
-                    }
-                    if ("kf487" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf487",
-                            phenoName = "skin_rash",
-                            folder = folder
-                        )
-                    }
-                    if ("kf486" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf486",
-                            phenoName = "anxiety",
-                            folder = folder
-                        )
-                    }
-                    if ("kf489" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf489",
-                            phenoName = "altered_smell_taste",
-                            folder = folder
-                        )
-                    }
-                    if ("kf475" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf475",
-                            phenoName = "chest_pain",
-                            folder = folder
-                        )
-                    }
-                    if ("kf470" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf470",
-                            phenoName = "shortness_breath",
-                            folder = folder
-                        )
-                    }
-                    if ("kf472" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf472",
-                            phenoName = "lung_function_reduced",
-                            folder = folder
-                        )
-                    }
-                    if ("kf471" %in% names(quesDF)) {
-                        
-                        phenoDF <- longCovidPhenoImport(
-                            quesDF = quesDF,
-                            phenoDF = phenoDF,
-                            quesNumber = "kf471",
-                            phenoName = "cough",
-                            folder = folder
-                        )
-                    }
-                    if ("kf1081" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_arm_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1081) & quesDF$kf1081 == "JA"], 1, vaccine_arm_pain)
-                            )
-                    }
-                    if ("kf1126" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_arm_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1126) & quesDF$kf1126 == "JA"], 1, vaccine_arm_pain)
-                            )
-                    }
-                    if ("kf1082" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_feber = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1082) & quesDF$kf1082 == "JA"], 1, vaccine_feber)
-                            )
-                    }
-                    if ("kf1127" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_feber = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1127) & quesDF$kf1127 == "JA"], 1, vaccine_feber)
-                            )
-                    }
-                    if ("kf1083" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_freezing = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1083) & quesDF$kf1083 == "JA"], 1, vaccine_freezing)
-                            )
-                    }
-                    if ("kf1128" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_freezing = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1128) & quesDF$kf1128 == "JA"], 1, vaccine_freezing)
-                            )
-                    }
-                    if ("kf1084" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_feeling_unwell = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1084) & quesDF$kf1084 == "JA"], 1, vaccine_feeling_unwell)
-                            )
-                    }
-                    if ("kf1129" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_feeling_unwell = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1129) & quesDF$kf1129 == "JA"], 1, vaccine_feeling_unwell)
-                            )
-                    }
-                    if ("kf1085" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_bad_appetite = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1085) & quesDF$kf1085 == "JA"], 1, vaccine_bad_appetite)
-                            )
-                    }
-                    if ("kf1130" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_bad_appetite = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1130) & quesDF$kf1130 == "JA"], 1, vaccine_bad_appetite)
-                            )
-                    }
-                    if ("kf1086" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_headache = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1086) & quesDF$kf1086 == "JA"], 1, vaccine_headache)
-                            )
-                    }
-                    if ("kf1131" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_headache = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1131) & quesDF$kf1131 == "JA"], 1, vaccine_headache)
-                            )
-                    }
-                    if ("kf1087" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_pain_other_place_than_injection = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1087) & quesDF$kf1087 == "JA"], 1, vaccine_pain_other_place_than_injection)
-                            )
-                    }
-                    if ("kf1132" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_pain_other_place_than_injection = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1132) & quesDF$kf1132 == "JA"], 1, vaccine_pain_other_place_than_injection)
-                            )
-                    }
-                    if ("kf1088" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_skin_bleeding_ecchymosis = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1088) & quesDF$kf1088 == "JA"], 1, vaccine_skin_bleeding_ecchymosis)
-                            )
-                    }
-                    if ("kf1133" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_skin_bleeding_ecchymosis = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1133) & quesDF$kf1133 == "JA"], 1, vaccine_skin_bleeding_ecchymosis)
-                            )
-                    }
-                    if ("kf1089" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_nose_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1089) & quesDF$kf1089 == "JA"], 1, vaccine_nose_bleeding)
-                            )
-                    }
-                    if ("kf1134" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_nose_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1134) & quesDF$kf1134 == "JA"], 1, vaccine_nose_bleeding)
-                            )
-                    }
-                    if ("kf1090" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_gum_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1090) & quesDF$kf1090 == "JA"], 1, vaccine_nose_bleeding)
-                            )
-                    }
-                    if ("kf1135" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_gum_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1135) & quesDF$kf1135 == "JA"], 1, vaccine_nose_bleeding)
-                            )
-                    }
-                    if ("kf1091" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_mouth_ulcer = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1091) & quesDF$kf1091 == "JA"], 1, vaccine_mouth_ulcer)
-                            )
-                    }
-                    if ("kf1136" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_mouth_ulcer = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1136) & quesDF$kf1136 == "JA"], 1, vaccine_mouth_ulcer)
-                            )
-                    }
-                    if ("kf1092" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_thrombus = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1092) & quesDF$kf1092 == "JA"], 1, vaccine_thrombus)
-                            )
-                    }
-                    if ("kf1137" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_thrombus = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1137) & quesDF$kf1137 == "JA"], 1, vaccine_thrombus)
-                            )
-                    }
-                    if ("kf1093" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_unusually_strong_menstruation = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1093) & quesDF$kf1093 == "JA"], 1, vaccine_unusually_strong_menstruation)
-                            )
-                    }
-                    if ("kf1138" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_unusually_strong_menstruation = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1138) & quesDF$kf1138 == "JA"], 1, vaccine_unusually_strong_menstruation)
-                            )
-                    }
-                    if ("kf1095" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_nausea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1095) & quesDF$kf1095 == "JA"], 1, vaccine_nausea)
-                            )
-                    }
-                    if ("kf1140" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_nausea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1140) & quesDF$kf1140 == "JA"], 1, vaccine_nausea)
-                            )
-                    }
-                    if ("kf1096" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_belly_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1096) & quesDF$kf1096 == "JA"], 1, vaccine_belly_pain)
-                            )
-                    }
-                    if ("kf1141" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_belly_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1141) & quesDF$kf1141 == "JA"], 1, vaccine_belly_pain)
-                            )
-                    }
-                    if ("kf1097" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_diarrhea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1097) & quesDF$kf1097 == "JA"], 1, vaccine_diarrhea)
-                            )
-                    }
-                    if ("kf1142" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_diarrhea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1142) & quesDF$kf1142 == "JA"], 1, vaccine_diarrhea)
-                            )
-                    }
-                    if ("kf1098" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_dizziness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1098) & quesDF$kf1098 == "JA"], 1, vaccine_dizziness)
-                            )
-                    }
-                    if ("kf1143" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_dizziness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1143) & quesDF$kf1143 == "JA"], 1, vaccine_dizziness)
-                            )
-                    }
-                    if ("kf1099" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_faintness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1099) & quesDF$kf1099 == "JA"], 1, vaccine_faintness)
-                            )
-                    }
-                    if ("kf1144" %in% names(quesDF)) {
-                        
-                        phenoDF <- phenoDF %>% 
-                            mutate(
-                                vaccine_faintness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1144) & quesDF$kf1144 == "JA"], 1, vaccine_faintness)
-                            )
-                    }
-                }
-            }
-        }
+    print(glue("{Sys.time()} - Loading phenotypes from {folder}"))
+    
+    if (folder == "2020_06_07_Runde_1_4_MedDup") {
+      
+      suffixes <- "runde1til4"
+      
+    } else if (folder == "Runde13") {
+      
+      suffixes <- paste0(folder, "_korrigert17032021")
+      
+    } else if (folder == "Runde14") {
+      
+      suffixes <- paste0(folder, "_korrigert17032021")
+      
+    } else if (folder == "Runde16") {
+      
+      suffixes <- c(paste0(folder, "_komplett"), paste0(folder, "_09112020"))
+      
+    } else if (folder == "Runde22") {
+      
+      suffixes <- paste0(folder, "_komplett_korrigert17032021")
+      
+    } else if (folder == "Runde17" || folder == "Runde18" || folder == "Runde19" || folder == "Runde20" || folder == "Runde21" || folder == "Runde23" || folder == "Runde24" || folder == "Runde25" || folder == "Runde26" || folder == "Runde27" || folder == "Runde28" || folder == "Runde29" || folder == "Runde30" || folder == "Runde31" || folder == "Runde32" || folder == "Runde33" || folder == "Runde34" || folder == "Runde35" || folder == "Runde36" || folder == "Runde37" || folder == "Runde38" || folder == "Runde39" || folder == "Runde40" || folder == "Runde41" || folder == "Runde42" || folder == "Runde43" || folder == "Runde44") {
+      
+      suffixes <- paste0(folder, "_komplett")
+      
+    } else {
+      
+      suffixes <- folder
+      
     }
+    
+    for (quesName in quesNames) {
+      
+      for (suffix in suffixes) {
+        
+        questionnaireFile <- file.path(quesFolder, folder, glue(quesName))
+        
+        print(paste0(questionnaireFile, " - Found: ", file.exists(questionnaireFile)))
+        
+        if (file.exists(questionnaireFile)) {
+          
+          print(glue("{Sys.time()} - Loading phenotypes from {questionnaireFile}"))
+          
+          quesDF <- read.table(
+            file = questionnaireFile,
+            sep = "\t",
+            header = T,
+            quote = "",
+            stringsAsFactors = F,
+            comment.char = ""
+          ) %>% 
+            clean_names() %>% 
+            mutate(
+              role = str_replace_all(
+                string = role, 
+                pattern = " ",
+                repl = ""
+              ),
+              id = ifelse(
+                test = role == "Child",
+                yes = paste0(!!sym(preg_id_column), "_", barn_nr),
+                no = !!sym(parent_id_column)
+              )
+            )
+          
+          if (!"fill_in_date" %in% names(quesDF)) {
+            
+            stop("'fill_in_date' not found in '{questionnaireFile}': {names(quesDF)}")
+            
+          }
+          
+          if ("kf10" %in% names(quesDF)) {
+            
+            tempDF <- quesDF %>% 
+              mutate(
+                kf10 = as.numeric(factor(kf10, levels = c("NEI", "JA"))) - 1
+              ) %>% 
+              select(
+                id, kf10
+              ) %>% 
+              group_by(
+                id
+              ) %>% 
+              summarize(
+                kf10 = max(kf10, na.rm = T), 
+                .groups = 'drop'
+              ) %>% 
+              mutate(
+                kf10 = ifelse(is.infinite(kf10), NA, kf10)
+              )
+            
+            if (sum(!is.na(tempDF$kf10)) > 0) {
+              
+              if (nrow(tempDF) != length(unique(tempDF$id))) {
+                
+                stop(glue("Duplicate ids found in {folder}"))
+                
+              }
+              
+              phenoDF <- phenoDF %>% 
+                left_join(
+                  tempDF,
+                  by = "id"
+                ) %>% 
+                mutate(
+                  sick_past_14_days = case_when(
+                    is.na(sick_past_14_days) ~ kf10,
+                    !is.na(sick_past_14_days) & !is.na(kf10) & sick_past_14_days == 0 ~ kf10,
+                    T ~ as.numeric(sick_past_14_days)
+                  )
+                ) %>% 
+                select(
+                  -kf10
+                )
+              
+            }
+            
+            if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
+              
+              stop("Duplicate sentrix id introduced during processing of 'kf10'.")
+              
+            }
+          }
+          if ("kf30" %in% names(quesDF)) {
+            
+            caseDF <- quesDF %>% 
+              filter(
+                !is.na(kf30)
+              ) %>% 
+              select(
+                id, kf30, fill_in_date
+              ) %>% 
+              group_by(
+                id
+              ) %>% 
+              summarize(
+                kf30 = max(kf30, na.rm = T), 
+                fill_in_date = max(fill_in_date, na.rm = T), 
+                .groups = 'drop'
+              ) %>%
+              filter(
+                !is.na(kf30) & !is.infinite(kf30)
+              ) %>% 
+              select(
+                id, fill_in_date
+              )
+            
+            phenoDF <- phenoDF %>% 
+              left_join(
+                caseDF,
+                by = "id"
+              ) %>% 
+              mutate(
+                suspected_or_confirmed_covid_doctor_past_14_days = ifelse(id %in% caseDF$id, 1, suspected_or_confirmed_covid_doctor_past_14_days),
+                suspected_or_confirmed_covid_doctor_past_14_days_last_reported = ifelse(is.na(suspected_or_confirmed_covid_doctor_past_14_days_last_reported) | !is.na(fill_in_date) & fill_in_date > suspected_or_confirmed_covid_doctor_past_14_days_last_reported, fill_in_date, suspected_or_confirmed_covid_doctor_past_14_days_last_reported),
+              ) %>% 
+              select(
+                -fill_in_date
+              )
+            
+            if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
+              
+              stop("Duplicate sentrix id introduced during processing of 'kf30'.")
+              
+            }
+          }
+          if ("kf41" %in% names(quesDF)) {
+            
+            caseDF <- quesDF %>% 
+              filter(
+                !is.na(kf41) & kf41 == "JA"
+              ) %>% 
+              select(
+                id, fill_in_date
+              ) %>% 
+              group_by(
+                id
+              ) %>% 
+              summarize(
+                fill_in_date = max(fill_in_date, na.rm = T), 
+                .groups = 'drop'
+              )
+            
+            phenoDF <- phenoDF %>% 
+              left_join(
+                caseDF,
+                by = "id"
+              ) %>% 
+              mutate(
+                tested_positive = ifelse(id %in% quesDF$id[!is.na(quesDF$kf41) & quesDF$kf41 == "JA"], 1, tested_positive),
+                tested_positive_last_reported = ifelse(is.na(tested_positive_last_reported) | !is.na(fill_in_date) & fill_in_date > tested_positive_last_reported, fill_in_date, tested_positive_last_reported),
+              ) %>% 
+              select(
+                -fill_in_date
+              )
+            
+            if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
+              
+              stop("Duplicate sentrix id introduced during processing of 'kf41'.")
+              
+            }
+          }
+          if ("kf165" %in% names(quesDF)) {
+            
+            tempDF <- quesDF %>% 
+              mutate(
+                kf165 = as.numeric(factor(kf165, levels = c("NEI", "JA"))) - 1
+              ) %>% 
+              mutate(
+                kf165 = ifelse(is.infinite(kf165), NA, kf165)
+              ) %>% 
+              filter(
+                !is.na(kf165)
+              ) 
+            
+            if (nrow(tempDF) > 0) {
+              
+              tempDF <- tempDF %>% 
+                select(
+                  id, kf165, fill_in_date
+                ) %>% 
+                group_by(
+                  id
+                ) %>% 
+                arrange(
+                  desc(kf165)
+                ) %>% 
+                filter(
+                  row_number() == 1
+                )
+              
+              if (nrow(tempDF) != length(unique(tempDF$id))) {
+                
+                stop(glue("Duplicate ids found in {folder}"))
+                
+              }
+              
+              phenoDF <- phenoDF %>% 
+                left_join(
+                  tempDF,
+                  by = "id"
+                ) %>% 
+                mutate(
+                  tested_positive_pcr = case_when(
+                    is.na(tested_positive_pcr) ~ kf165,
+                    !is.na(tested_positive_pcr) & !is.na(kf165) & tested_positive_pcr == 0 ~ kf165,
+                    T ~ as.numeric(tested_positive_pcr)
+                  ),
+                  tested_positive_pcr_last_reported = ifelse(
+                    !is.na(tested_positive_pcr) & tested_positive_pcr == 1 & is.na(tested_positive_pcr_last_reported) | !is.na(tested_positive_pcr_last_reported) & !is.na(kf165) & kf165 == 1 & fill_in_date > tested_positive_pcr_last_reported, 
+                    fill_in_date, 
+                    tested_positive_pcr_last_reported
+                  )
+                ) %>% 
+                select(
+                  -kf165, -fill_in_date
+                )
+            }
+            
+            if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
+              
+              stop("Duplicate sentrix id introduced during processing of 'kf165'.")
+              
+            }
+          }
+          if ("kf305" %in% names(quesDF)) {
+            
+            tempDF <- quesDF %>% 
+              mutate(
+                kf305 = as.numeric(factor(kf305, levels = c("NEI", "JA"))) - 1
+              ) %>% 
+              mutate(
+                kf305 = ifelse(is.infinite(kf305), NA, kf305)
+              ) %>% 
+              filter(
+                !is.na(kf305)
+              )
+            
+            if (nrow(tempDF) > 0) {
+              
+              tempDF <- tempDF %>% 
+                select(
+                  id, kf305, fill_in_date
+                ) %>% 
+                group_by(
+                  id
+                ) %>% 
+                arrange(
+                  desc(kf305)
+                ) %>% 
+                filter(
+                  row_number() == 1
+                )
+              
+              if (nrow(tempDF) != length(unique(tempDF$id))) {
+                
+                stop(glue("Duplicate ids found in {folder}"))
+                
+              }
+              
+              phenoDF <- phenoDF %>% 
+                left_join(
+                  tempDF,
+                  by = "id"
+                ) %>% 
+                mutate(
+                  tested_positive_pcr = case_when(
+                    is.na(tested_positive_pcr) ~ kf305,
+                    !is.na(tested_positive_pcr) & !is.na(kf305) & tested_positive_pcr == 0 ~ kf305,
+                    T ~ as.numeric(tested_positive_pcr)
+                  ),
+                  tested_positive_pcr_last_reported = ifelse(
+                    !is.na(tested_positive_pcr) & tested_positive_pcr == 1 & is.na(tested_positive_pcr_last_reported) | !is.na(tested_positive_pcr_last_reported) & !is.na(kf305) & kf305 == 1 & fill_in_date > tested_positive_pcr_last_reported, 
+                    fill_in_date, 
+                    tested_positive_pcr_last_reported
+                  )
+                ) %>% 
+                select(
+                  -kf305, -fill_in_date
+                )
+              
+            }
+            
+            if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
+              
+              stop("Duplicate sentrix id introduced during processing of 'kf305'.")
+              
+            }
+          }
+          if ("kf166" %in% names(quesDF)) {
+            
+            tempDF <- quesDF %>% 
+              mutate(
+                kf166 = as.numeric(factor(kf166, levels = c("NEI", "JA"))) - 1
+              ) %>% 
+              mutate(
+                kf166 = ifelse(is.infinite(kf166), NA, kf166)
+              ) %>% 
+              filter(
+                !is.na(kf166)
+              )
+            
+            if (nrow(tempDF) > 0) {
+              
+              tempDF <- tempDF %>% 
+                select(
+                  id, kf166, fill_in_date
+                ) %>% 
+                group_by(
+                  id
+                ) %>% 
+                arrange(
+                  desc(kf166)
+                ) %>% 
+                filter(
+                  row_number() == 1
+                )
+              
+              if (nrow(tempDF) != length(unique(tempDF$id))) {
+                
+                stop(glue("Duplicate ids found in {folder}"))
+                
+              }
+              
+              phenoDF <- phenoDF %>% 
+                left_join(
+                  tempDF,
+                  by = "id"
+                ) %>% 
+                mutate(
+                  tested_positive_ab = case_when(
+                    is.na(tested_positive_ab) ~ kf166,
+                    !is.na(tested_positive_ab) & !is.na(kf166) & tested_positive_ab == 0 ~ kf166,
+                    T ~ as.numeric(tested_positive_ab)
+                  ),
+                  tested_positive_ab_last_reported = ifelse(
+                    !is.na(tested_positive_ab) & tested_positive_ab == 1 & is.na(tested_positive_ab_last_reported) | !is.na(tested_positive_ab_last_reported) & !is.na(kf166) & kf166 == 1 & fill_in_date > tested_positive_ab_last_reported, 
+                    fill_in_date, 
+                    tested_positive_ab_last_reported
+                  )
+                ) %>% 
+                select(
+                  -kf166, -fill_in_date
+                )
+              
+            }
+            
+            if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
+              
+              stop("Duplicate sentrix id introduced during processing of 'kf166'.")
+              
+            }
+          }
+          
+          for (question_i in 1:length(long_covid_questions)) {
+            
+            question <- long_covid_questions[question_i]
+            variable <- long_covid_variables[question_i]
+            
+            if (question %in% names(quesDF)) {
+              
+              if (question == "kf120") {
+                
+                quesDF$kf120 <- as.numeric(factor(quesDF$kf120, levels = c("NEI", "JA"))) - 1
+                
+              }
+              
+              phenoDF <- longCovidPhenoImport(
+                quesDF = quesDF,
+                phenoDF = phenoDF,
+                quesNumber = question,
+                phenoName = variable,
+                folder = folder
+              )
+              
+            }
+          }
+          
+          
+          # Influenza vaccination
+          
+          if ("kf2051" %in% names(quesDF)) {
+            
+            vaccinated <- quesDF$id[!is.na(quesDF$kf2051) & quesDF$kf2051 == "JA"]
+            
+            for (reaction in influenza_variables) {
+              
+              variable <- paste0("influenza_vaccine_", reaction)
+              
+              phenoDF[[variable]] <- ifele(is.na(phenoDF[[variable]]) & phenoDF$id %in% vaccinated, 0, phenoDF[[variable]])
+              
+            }
+          }
+          
+          for (question_i in 1:length(influenza_questions)) {
+            
+            question <- influenza_questions[question_i]
+            variable <- influenza_variables[question_i]
+            
+            if (question %in% names(quesDF)) {
+              
+              ids <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] != "NEI"]
+              
+              phenoDF[phenoDF$id %in% ids, variable] <- 1
+              
+            }
+          }
+          
+          
+          # Corona vaccination
+          
+          if ("kf1081" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_arm_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1081) & quesDF$kf1081 == "JA"], 1, vaccine_arm_pain)
+              )
+          }
+          if ("kf1126" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_arm_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1126) & quesDF$kf1126 == "JA"], 1, vaccine_arm_pain)
+              )
+          }
+          if ("kf1082" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_feber = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1082) & quesDF$kf1082 == "JA"], 1, vaccine_feber)
+              )
+          }
+          if ("kf1127" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_feber = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1127) & quesDF$kf1127 == "JA"], 1, vaccine_feber)
+              )
+          }
+          if ("kf1083" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_freezing = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1083) & quesDF$kf1083 == "JA"], 1, vaccine_freezing)
+              )
+          }
+          if ("kf1128" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_freezing = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1128) & quesDF$kf1128 == "JA"], 1, vaccine_freezing)
+              )
+          }
+          if ("kf1084" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_feeling_unwell = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1084) & quesDF$kf1084 == "JA"], 1, vaccine_feeling_unwell)
+              )
+          }
+          if ("kf1129" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_feeling_unwell = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1129) & quesDF$kf1129 == "JA"], 1, vaccine_feeling_unwell)
+              )
+          }
+          if ("kf1085" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_bad_appetite = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1085) & quesDF$kf1085 == "JA"], 1, vaccine_bad_appetite)
+              )
+          }
+          if ("kf1130" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_bad_appetite = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1130) & quesDF$kf1130 == "JA"], 1, vaccine_bad_appetite)
+              )
+          }
+          if ("kf1086" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_headache = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1086) & quesDF$kf1086 == "JA"], 1, vaccine_headache)
+              )
+          }
+          if ("kf1131" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_headache = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1131) & quesDF$kf1131 == "JA"], 1, vaccine_headache)
+              )
+          }
+          if ("kf1087" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_pain_other_place_than_injection = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1087) & quesDF$kf1087 == "JA"], 1, vaccine_pain_other_place_than_injection)
+              )
+          }
+          if ("kf1132" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_pain_other_place_than_injection = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1132) & quesDF$kf1132 == "JA"], 1, vaccine_pain_other_place_than_injection)
+              )
+          }
+          if ("kf1088" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_skin_bleeding_ecchymosis = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1088) & quesDF$kf1088 == "JA"], 1, vaccine_skin_bleeding_ecchymosis)
+              )
+          }
+          if ("kf1133" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_skin_bleeding_ecchymosis = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1133) & quesDF$kf1133 == "JA"], 1, vaccine_skin_bleeding_ecchymosis)
+              )
+          }
+          if ("kf1089" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_nose_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1089) & quesDF$kf1089 == "JA"], 1, vaccine_nose_bleeding)
+              )
+          }
+          if ("kf1134" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_nose_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1134) & quesDF$kf1134 == "JA"], 1, vaccine_nose_bleeding)
+              )
+          }
+          if ("kf1090" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_gum_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1090) & quesDF$kf1090 == "JA"], 1, vaccine_nose_bleeding)
+              )
+          }
+          if ("kf1135" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_gum_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1135) & quesDF$kf1135 == "JA"], 1, vaccine_nose_bleeding)
+              )
+          }
+          if ("kf1091" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_mouth_ulcer = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1091) & quesDF$kf1091 == "JA"], 1, vaccine_mouth_ulcer)
+              )
+          }
+          if ("kf1136" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_mouth_ulcer = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1136) & quesDF$kf1136 == "JA"], 1, vaccine_mouth_ulcer)
+              )
+          }
+          if ("kf1092" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_thrombus = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1092) & quesDF$kf1092 == "JA"], 1, vaccine_thrombus)
+              )
+          }
+          if ("kf1137" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_thrombus = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1137) & quesDF$kf1137 == "JA"], 1, vaccine_thrombus)
+              )
+          }
+          if ("kf1093" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_unusually_strong_menstruation = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1093) & quesDF$kf1093 == "JA"], 1, vaccine_unusually_strong_menstruation)
+              )
+          }
+          if ("kf1138" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_unusually_strong_menstruation = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1138) & quesDF$kf1138 == "JA"], 1, vaccine_unusually_strong_menstruation)
+              )
+          }
+          if ("kf1095" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_nausea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1095) & quesDF$kf1095 == "JA"], 1, vaccine_nausea)
+              )
+          }
+          if ("kf1140" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_nausea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1140) & quesDF$kf1140 == "JA"], 1, vaccine_nausea)
+              )
+          }
+          if ("kf1096" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_belly_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1096) & quesDF$kf1096 == "JA"], 1, vaccine_belly_pain)
+              )
+          }
+          if ("kf1141" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_belly_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1141) & quesDF$kf1141 == "JA"], 1, vaccine_belly_pain)
+              )
+          }
+          if ("kf1097" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_diarrhea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1097) & quesDF$kf1097 == "JA"], 1, vaccine_diarrhea)
+              )
+          }
+          if ("kf1142" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_diarrhea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1142) & quesDF$kf1142 == "JA"], 1, vaccine_diarrhea)
+              )
+          }
+          if ("kf1098" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_dizziness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1098) & quesDF$kf1098 == "JA"], 1, vaccine_dizziness)
+              )
+          }
+          if ("kf1143" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_dizziness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1143) & quesDF$kf1143 == "JA"], 1, vaccine_dizziness)
+              )
+          }
+          if ("kf1099" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_faintness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1099) & quesDF$kf1099 == "JA"], 1, vaccine_faintness)
+              )
+          }
+          if ("kf1144" %in% names(quesDF)) {
+            
+            phenoDF <- phenoDF %>% 
+              mutate(
+                vaccine_faintness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1144) & quesDF$kf1144 == "JA"], 1, vaccine_faintness)
+              )
+          }
+        }
+      }
+    }
+  }
 }
 
 if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
-    
-    stop("Duplicate sentrix id introduced during processing of covid questionnaires.")
-    
+  
+  stop("Duplicate sentrix id introduced during processing of covid questionnaires.")
+  
 }
 
 # Load medical birth registry
@@ -1190,78 +1222,78 @@ if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
 print(glue("{Sys.time()} - Loading MBR data"))
 
 mbrDF <- read.table(
-    file = mfr_raw_table,
-    sep = "\t",
-    header = T,
-    quote = "",
-    stringsAsFactors = F,
-    comment.char = ""
+  file = mfr_raw_table,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
 ) %>% 
-    clean_names() %>% 
-    mutate(
-        child_id = paste0(!!sym(preg_id_column), "_", barn_nr)
-    )
+  clean_names() %>% 
+  mutate(
+    child_id = paste0(!!sym(preg_id_column), "_", barn_nr)
+  )
 
 child_faarDF <- mbrDF %>% 
-    select(
-        id = child_id, birth_year = faar
-    )
+  select(
+    id = child_id, birth_year = faar
+  )
 
 mother_faarDF <- mbrDF %>% 
-    select(
-        id = !!sym(mother_id_column), birth_year = mor_faar
-    ) %>% 
-    mutate(
-        birth_year = ifelse(birth_year == "<=1958", 1958, birth_year),
-        birth_year = ifelse(birth_year == ">=1990", 1990, birth_year)
-    )
+  select(
+    id = !!sym(mother_id_column), birth_year = mor_faar
+  ) %>% 
+  mutate(
+    birth_year = ifelse(birth_year == "<=1958", 1958, birth_year),
+    birth_year = ifelse(birth_year == ">=1990", 1990, birth_year)
+  )
 
 father_faarDF <- mbrDF %>% 
-    select(
-        id = !!sym(father_id_column), birth_year = far_faar
-    ) %>% 
-    mutate(
-        birth_year = ifelse(birth_year == "<=1944", 1944, birth_year),
-        birth_year = ifelse(birth_year == "1945-1946", 1945.5, birth_year),
-        birth_year = ifelse(birth_year == ">=1990", 1990, birth_year)
-    )
+  select(
+    id = !!sym(father_id_column), birth_year = far_faar
+  ) %>% 
+  mutate(
+    birth_year = ifelse(birth_year == "<=1944", 1944, birth_year),
+    birth_year = ifelse(birth_year == "1945-1946", 1945.5, birth_year),
+    birth_year = ifelse(birth_year == ">=1990", 1990, birth_year)
+  )
 
 faarDF <- rbind(child_faarDF, mother_faarDF, father_faarDF) %>% 
-    filter(
-        !is.na(birth_year) | !is.numeric(birth_year)
-        ) %>% 
-    mutate(
-        birth_year = as.numeric(birth_year)
-    ) %>% 
-    group_by(
-        id
-    ) %>% 
-    summarize(
-        birth_year = mean(birth_year, na.rm = T),
-        .groups = 'drop'
-    )
+  filter(
+    !is.na(birth_year) | !is.numeric(birth_year)
+  ) %>% 
+  mutate(
+    birth_year = as.numeric(birth_year)
+  ) %>% 
+  group_by(
+    id
+  ) %>% 
+  summarize(
+    birth_year = mean(birth_year, na.rm = T),
+    .groups = 'drop'
+  )
 
 
 if (nrow(faarDF) != length(unique(faarDF$id))) {
-    
-    stop("Duplicate sentrix id introduced during merging with mbr.")
-    
+  
+  stop("Duplicate sentrix id introduced during merging with mbr.")
+  
 }
 
 phenoDF <- phenoDF %>% 
-    left_join(
-        faarDF,
-        by = "id"
-    )
+  left_join(
+    faarDF,
+    by = "id"
+  )
 
 # Sex sex using MBR
 
 print(glue("{Sys.time()} - Assigning sex"))
 
 sexDF <- mbrDF %>% 
-    select(
-        id = child_id, sex_mbr = kjonn
-    ) %>% 
+  select(
+    id = child_id, sex_mbr = kjonn
+  ) %>% 
   mutate(
     sex = case_when(
       sex_mbr == "Mann" ~ 1,
@@ -1283,9 +1315,9 @@ phenoDF$sex[phenoDF$role == "Father"] <- 1
 
 
 if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
-    
-    stop("Duplicate sentrix id introduced during merging with mbr.")
-    
+  
+  stop("Duplicate sentrix id introduced during merging with mbr.")
+  
 }
 
 
@@ -1294,121 +1326,121 @@ if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
 print(glue("{Sys.time()} - Merging with infection registry"))
 
 msisDF <- read.table(
-    file = msis_raw_table_path,
-    sep = "\t",
-    header = T,
-    quote = "",
-    stringsAsFactors = F,
-    comment.char = ""
+  file = msis_raw_table_path,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
 ) %>% 
-    clean_names()
+  clean_names()
 
 idMappingDF <- read.table(
-    file = mother_msis_id_mapping_raw_table_path,
-    sep = "\t",
-    header = T,
-    quote = "",
-    stringsAsFactors = F,
-    comment.char = ""
+  file = mother_msis_id_mapping_raw_table_path,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
 )
 
 names(idMappingDF) <- c("id", kIdColumn)
 
 msisDF <- msisDF %>% 
-    left_join(
-        idMappingDF,
-        by = kIdColumn
-    )
+  left_join(
+    idMappingDF,
+    by = kIdColumn
+  )
 
 idMappingDF <- read.table(
-    file = father_msis_id_mapping_raw_table_path,
-    sep = "\t",
-    header = T,
-    quote = "",
-    stringsAsFactors = F,
-    comment.char = ""
+  file = father_msis_id_mapping_raw_table_path,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
 )
 
 names(idMappingDF) <- c("temp_id", kIdColumn)
 
 msisDF <- msisDF %>% 
-    left_join(
-        idMappingDF,
-        by = kIdColumn
-    ) %>% 
-    mutate(
-        id = ifelse(!is.na(temp_id), temp_id, id)
-    ) %>% 
-    select(
-        -temp_id
-    )
+  left_join(
+    idMappingDF,
+    by = kIdColumn
+  ) %>% 
+  mutate(
+    id = ifelse(!is.na(temp_id), temp_id, id)
+  ) %>% 
+  select(
+    -temp_id
+  )
 
 idMappingDF <- read.table(
-    file = child_msis_id_mapping_raw_table_path,
-    sep = "\t",
-    header = T,
-    quote = "",
-    stringsAsFactors = F,
-    comment.char = ""
+  file = child_msis_id_mapping_raw_table_path,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
 ) %>% 
-    clean_names() %>%
-    mutate(
-        temp_id = paste0(!!sym(preg_id_column), "_", barn_nr)
-    ) %>% 
-    select(
-        temp_id,
-        !!kIdColumn := msisIdColumn
-    )
+  clean_names() %>%
+  mutate(
+    temp_id = paste0(!!sym(preg_id_column), "_", barn_nr)
+  ) %>% 
+  select(
+    temp_id,
+    !!kIdColumn := msisIdColumn
+  )
 
 msisDF <- msisDF %>% 
-    left_join(
-        idMappingDF,
-        by = kIdColumn
-    ) %>% 
-    mutate(
-        id = ifelse(!is.na(temp_id), temp_id, id)
-    ) %>% 
-    select(
-        -temp_id
-    )
+  left_join(
+    idMappingDF,
+    by = kIdColumn
+  ) %>% 
+  mutate(
+    id = ifelse(!is.na(temp_id), temp_id, id)
+  ) %>% 
+  select(
+    -temp_id
+  )
 
 msisDF <- msisDF %>% 
-    mutate(
-        registered_date = as.Date(registrert_dato, "%d.%m.%Y"),
-        hospitalized = as.numeric(factor(er_innlagt_sykehus, levels = c("Nei", "Ja"))) - 1
-    ) %>% 
-    select(
-        id, registered_date, hospitalized
-    ) %>% 
-    filter(
-        !is.na(id)
-    ) %>% 
-    group_by(
-        id
-    ) %>% 
-    summarize(
-        msis_first_registered = min(registered_date, na.rm = T), 
-        msis_last_registered = max(registered_date, na.rm = T), 
-        msis_hospitalized = max(hospitalized, na.rm = T), 
-        .groups = 'drop'
-    ) %>% 
-    mutate(
-        msis_hospitalized = ifelse(is.infinite(msis_hospitalized), NA, msis_hospitalized),
-        hospitalized = ifelse(!is.na(msis_hospitalized) & msis_hospitalized == 1, 1, 0),
-        infected = ifelse(!is.na(msis_first_registered), 1, 0)
-    )
+  mutate(
+    registered_date = as.Date(registrert_dato, "%d.%m.%Y"),
+    hospitalized = as.numeric(factor(er_innlagt_sykehus, levels = c("Nei", "Ja"))) - 1
+  ) %>% 
+  select(
+    id, registered_date, hospitalized
+  ) %>% 
+  filter(
+    !is.na(id)
+  ) %>% 
+  group_by(
+    id
+  ) %>% 
+  summarize(
+    msis_first_registered = min(registered_date, na.rm = T), 
+    msis_last_registered = max(registered_date, na.rm = T), 
+    msis_hospitalized = max(hospitalized, na.rm = T), 
+    .groups = 'drop'
+  ) %>% 
+  mutate(
+    msis_hospitalized = ifelse(is.infinite(msis_hospitalized), NA, msis_hospitalized),
+    hospitalized = ifelse(!is.na(msis_hospitalized) & msis_hospitalized == 1, 1, 0),
+    infected = ifelse(!is.na(msis_first_registered), 1, 0)
+  )
 
 phenoDF <- phenoDF %>% 
-    left_join(
-        msisDF,
-        by = "id"
-    )
+  left_join(
+    msisDF,
+    by = "id"
+  )
 
 
 if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
-    
-    stop("Duplicate sentrix id introduced during processing of infection registry.")
-    
+  
+  stop("Duplicate sentrix id introduced during processing of infection registry.")
+  
 }
 
 
@@ -1417,15 +1449,15 @@ if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
 print(glue("{Sys.time()} - Getting age at diagnosis"))
 
 phenoDF <- phenoDF %>% 
-    mutate(
-        age = 2021 - birth_year
-    )
+  mutate(
+    age = 2021 - birth_year
+  )
 
 for (role in c("Child", "Mother", "Father")) {
-    
-    meanAge <- mean(phenoDF$age[phenoDF$role == role], na.rm = T)
-    phenoDF$age[phenoDF$role == role & is.na(phenoDF$age)] <- meanAge
-        
+  
+  meanAge <- mean(phenoDF$age[phenoDF$role == role], na.rm = T)
+  phenoDF$age[phenoDF$role == role & is.na(phenoDF$age)] <- meanAge
+  
 }
 
 
@@ -1434,20 +1466,20 @@ for (role in c("Child", "Mother", "Father")) {
 print(glue("{Sys.time()} - Computing long covid phenotypes"))
 
 longCovidPhenos <- list(
-    reduced_smell_taste = "Reduced smell taste (kf120)", 
-    brain_fog = "Brain Fog (kf480)", 
-    poor_memory = "Poor Memory (kf481)", 
-    dizziness = "Dizziness (kf479)", 
-    heart_palpitation = "Heart Palpitation (kf476)", 
-    fatigue = "Fatigue (kf468)", 
-    headache = "Headache (kf484)", 
-    skin_rash = "Skin rash (kf487)", 
-    anxiety = "Anxiety (kf486)", 
-    altered_smell_taste = "Altered smell taste (kf489)", 
-    chest_pain = "Chest pain (kf475)", 
-    shortness_breath = "Shortness breath (kf470)", 
-    lung_function_reduced = "Lung function reduced (kf472)", 
-    cough = "Cough (kf471)"
+  reduced_smell_taste = "Reduced smell taste (kf120)", 
+  brain_fog = "Brain Fog (kf480)", 
+  poor_memory = "Poor Memory (kf481)", 
+  dizziness = "Dizziness (kf479)", 
+  heart_palpitation = "Heart Palpitation (kf476)", 
+  fatigue = "Fatigue (kf468)", 
+  headache = "Headache (kf484)", 
+  skin_rash = "Skin rash (kf487)", 
+  anxiety = "Anxiety (kf486)", 
+  altered_smell_taste = "Altered smell taste (kf489)", 
+  chest_pain = "Chest pain (kf475)", 
+  shortness_breath = "Shortness breath (kf470)", 
+  lung_function_reduced = "Lung function reduced (kf472)", 
+  cough = "Cough (kf471)"
 )
 
 longCovidFactorWeights <- data.frame(
@@ -1501,13 +1533,13 @@ for (longCovidPheno in names(longCovidPhenos)) {
 }
 
 phenoDF <- phenoDF %>% 
-    mutate(
-        long_covid_vs_recovered = ifelse(!is.na(msis_last_registered), 0, NA),
-        long_covid_vs_recovered = ifelse(anySymptomLong == 1, 1, long_covid_vs_recovered),
-        long_covid_vs_population = ifelse(anySymptomLong == 1, 1, 0),
-        long_covid_factor1_vs_recovered = ifelse(!is.na(long_covid_vs_recovered) & long_covid_vs_recovered == 1, long_covid_factor1, long_covid_vs_recovered),
-        long_covid_factor2_vs_recovered = ifelse(!is.na(long_covid_vs_recovered) & long_covid_vs_recovered == 1, long_covid_factor2, long_covid_vs_recovered)
-    )
+  mutate(
+    long_covid_vs_recovered = ifelse(!is.na(msis_last_registered), 0, NA),
+    long_covid_vs_recovered = ifelse(anySymptomLong == 1, 1, long_covid_vs_recovered),
+    long_covid_vs_population = ifelse(anySymptomLong == 1, 1, 0),
+    long_covid_factor1_vs_recovered = ifelse(!is.na(long_covid_vs_recovered) & long_covid_vs_recovered == 1, long_covid_factor1, long_covid_vs_recovered),
+    long_covid_factor2_vs_recovered = ifelse(!is.na(long_covid_vs_recovered) & long_covid_vs_recovered == 1, long_covid_factor2, long_covid_vs_recovered)
+  )
 
 
 # Write long covid docs
@@ -1515,9 +1547,9 @@ phenoDF <- phenoDF %>%
 print(glue("{Sys.time()} - Saving long covid docs"))
 
 writeLongCovidDocs(
-    longCovidDocsFolder = longCovidDocsFolder,
-    longCovidDocsFile = longCovidDocsFile,
-    phenoDF = phenoDF
+  longCovidDocsFolder = longCovidDocsFolder,
+  longCovidDocsFile = longCovidDocsFile,
+  phenoDF = phenoDF
 )
 
 
