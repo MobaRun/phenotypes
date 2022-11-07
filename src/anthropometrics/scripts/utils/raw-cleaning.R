@@ -91,7 +91,7 @@ if (!dir.exists(qcFolder)) {
 ## Parameters
 
 # The variable mapping
-source("src/scripts/utils/anthropometrics/variables_mapping.R")
+source("src/anthropometrics/scripts/utils/variables_mapping.R")
 
 # Cache for the standard values of the normal distribution
 anchorUp <- pnorm(1)
