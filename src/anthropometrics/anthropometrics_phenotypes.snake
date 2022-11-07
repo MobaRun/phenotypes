@@ -7,7 +7,7 @@ import json
 #
 # Commands to execute from the repository folder:
 # conda activate snakemake
-# snakemake --snakefile src/anthropometrics_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
+# snakemake --snakefile src/anthropometrics/anthropometrics_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
 ##
 
 ####################### Parameters ###########################################
@@ -127,7 +127,7 @@ rule raw_pheno:
     threads: 1
     shell:
         """
-        Rscript src/scripts/raw_pheno_docs.R \
+        Rscript src/anthropometrics/scripts/raw_pheno_docs.R \
             {input.moba_questionnaires_folder} \
             {params.raw_tables_folder} \
             {params.raw_docs_folder} \
@@ -176,7 +176,7 @@ rule anthropometrics_raw_cleaning:
     threads: 1
     shell:
         """
-        Rscript src/scripts/utils/anthropometrics/raw-cleaning.R \
+        Rscript src/anthropometrics/scripts/utils/anthropometrics/raw-cleaning.R \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
             {input.father_id_linkage_raw_table} \
@@ -213,7 +213,7 @@ rule growth_cleaning:
     threads: 1
     shell:
         """
-        Rscript src/scripts/utils/anthropometrics/lw-cleaning.R \
+        Rscript src/anthropometrics/scripts/utils/anthropometrics/lw-cleaning.R \
             {params.qc_folder} \
             {params.moba_project_number} \
             {params.release_name}
