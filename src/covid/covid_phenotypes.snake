@@ -7,7 +7,7 @@ import json
 #
 # Commands to execute from the repository folder:
 # conda activate snakemake
-# snakemake --snakefile src/run_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
+# snakemake --snakefile src/covid/run_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
 ##
 
 ####################### Parameters ###########################################
@@ -28,14 +28,14 @@ sysvak_folder = "/mnt/archive/phenotype/sysvak"
 ques_folder = "/mnt/archive/phenotype/moba_covid_ques"
 
 # Docs folders
-docs_folder = f"docs/{suffix}"
+docs_folder = f"docs/covid/{suffix}"
 raw_docs_folder = f"{docs_folder}/raw"
 covid_docs_folder = f"{docs_folder}/covid"
 
 # Tables folders
-tables_folder = f"/mnt/work/marc/pheno_{suffix}"
-raw_tables_folder = f"/mnt/work/marc/pheno_{suffix}/raw"
-covid_tables_folder = f"/mnt/work/marc/pheno_{suffix}/covid"
+tables_folder = f"/mnt/work/marc/pheno_covid_{suffix}"
+raw_tables_folder = f"{tables_folder}/raw"
+covid_tables_folder = f"{tables_folder}/covid"
 
 # Raw tables
 mfr_raw_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_MFR_541_v12.gz')
@@ -134,7 +134,7 @@ rule raw_pheno:
     threads: 1
     shell:
         """
-        Rscript src/scripts/raw_pheno_docs.R \
+        Rscript src/covid/scripts/raw_pheno_docs.R \
             {input.linkage_folder} \
             {input.moba_ques_folder} \
             {input.msis_folder} \
@@ -167,7 +167,7 @@ rule consolidate_covid_pheno:
     threads: 1
     shell:
         """
-        Rscript src/scripts/consolidate_covid_phenotypes.R \
+        Rscript src/covid/scripts/consolidate_covid_phenotypes.R \
             {params.raw_tables_folder} \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \

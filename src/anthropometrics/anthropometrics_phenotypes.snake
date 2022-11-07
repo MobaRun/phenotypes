@@ -25,7 +25,7 @@ linkage_folder = "/mnt/archive/linkage"
 moba_questionnaires_folder = "/mnt/archive/phenotype/moba_ques"
 
 # Docs folders
-docs_folder = f"docs/{suffix}"
+docs_folder = f"docs/anthropometrics/{suffix}"
 raw_docs_folder = f"{docs_folder}/raw"
 
 # Tables folders
