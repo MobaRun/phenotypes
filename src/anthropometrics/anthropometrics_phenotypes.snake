@@ -118,13 +118,17 @@ rule raw_pheno:
         q7_table = q7_table,
         q8_table = q8_table,
         q9_table = q9_table,
-        skjemaKostUngdom_table = skjemaKostUngdom_table
+        skjemaKostUngdom_table = skjemaKostUngdom_table,
+        child_id_linkage_raw_table = child_id_linkage_raw_table,
+        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
+        father_id_linkage_raw_table = father_id_linkage_raw_table
     conda:
         "envs/r_4.1.yaml"
     threads: 1
     shell:
         """
         Rscript src/anthropometrics/scripts/raw_pheno_docs.R \
+            {input.linkage_folder} \
             {input.moba_questionnaires_folder} \
             {params.raw_tables_folder} \
             {params.raw_docs_folder} \

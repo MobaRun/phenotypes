@@ -42,10 +42,11 @@ tryCatch(
 # Paths from command line
 args <- commandArgs(TRUE)
 
-mobaQuesFolder <- args[1]
-tablesFolder <- args[2]
-docsFolder <- args[3]
-projectNumber <- args[4]
+linkageFolder <- args[1]
+mobaQuesFolder <- args[2]
+tablesFolder <- args[3]
+docsFolder <- args[4]
+projectNumber <- args[5]
 
 # Docs
 docsFile <- file.path(docsFolder, "data.md")
@@ -559,3 +560,74 @@ for (fileName in list.files(mobaQuesFolder)) {
 }
 
 
+# Linkage folder
+
+for (fileName in list.files(linkageFolder)) {
+  
+  if (endsWith(fileName, "sav")) {
+    
+    savDF <- read.spss(
+      file = file.path(linkageFolder, fileName), 
+      use.value.labels = T, 
+      to.data.frame = T, 
+      stringsAsFactors = F
+    )
+    
+    labels <- as.data.frame(
+      x = attr(savDF, "variable.labels"), 
+      stringsAsFactors = F
+    )
+    
+    for (name in names(savDF)) {
+      
+      if (is.character(savDF[[name]])) {
+        
+        savDF[[name]] <- str_trim(savDF[[name]])
+        
+      }
+    }
+    
+    newName <- substr(fileName, 1, nchar(fileName) - 4)
+    
+    tablesSubFolder <- file.path(tablesFolder, "linkage")
+    
+    if (!file.exists(tablesSubFolder)) {
+      
+      dir.create(
+        path = tablesSubFolder,
+        showWarnings = T,
+        recursive = T
+      )
+      
+    }
+    
+    write.table(
+      x = savDF,
+      file = gzfile(file.path(tablesSubFolder, glue("{newName}.gz"))),
+      col.names = T,
+      row.names = F,
+      sep = "\t",
+      quote = F
+    )
+    
+    
+    if (length(names(labels)) > 0) {
+      
+      names(labels) <- "description"
+      
+    }
+    
+    labels$pheno <- row.names(labels)
+    row.names(labels) <- NULL
+    
+    write.table(
+      x = labels,
+      file = gzfile(file.path(tablesSubFolder, glue("{newName}.labels.gz"))),
+      col.names = T,
+      row.names = F,
+      sep = "\t",
+      quote = F
+    )
+    
+  }
+}
