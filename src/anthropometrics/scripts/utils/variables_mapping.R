@@ -1076,7 +1076,7 @@ delivery_columns <- c(
   "placenta_manual_extraction",
   "birth_defect",
   "art"
-  )
+)
 
 pregnancy_nutrition_columns <- c(
   "mother_folic_supplements_before_pregnancy",
@@ -1209,7 +1209,7 @@ child_nutrition_columns <- c(
   "did_your_child_ever_eat_what_most_people_would_consider_a_really_big_amout_of_food_5y",
   "did_you_ever_have_the_impression_that_your_child_could_not_control_stop_eating_5y",
   "how_often_has_your_child_eaten_large_amout_and_you_had_the_impression_they_did_not_have_control_5y"
-  )
+)
 
 child_columns <- c(
   "born",

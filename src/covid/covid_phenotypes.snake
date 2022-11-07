@@ -96,9 +96,6 @@ rule all:
         raw_data_docs = os.path.join(raw_docs_folder,'data.md'),
         covid_table = covid_table
 
-
-####################### Conversion of raw files ##############################
-
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
     input:

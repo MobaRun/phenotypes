@@ -273,138 +273,16 @@ phenoDF <- idDF %>%
   )
 
 
-# Influenza vaccination
+# Effect of vaccines
 
-influenza_questions <- c(
-  "kf2053",
-  "kf2054",
-  "kf2055",
-  "kf2056",
-  "kf2057",
-  "kf2058",
-  "kf2059",
-  "kf2060",
-  "kf2061",
-  "kf2062",
-  "kf2063",
-  "kf2064",
-  "kf2067",
-  "kf2068",
-  "kf2069",
-  "kf2070",
-  "kf2071",
-  "kf2072",
-  "kf2073",
-  "kf2074",
-  "kf2075",
-  "kf2076",
-  "kf2077",
-  "kf2078",
-  "kf2079",
-  "kf2080",
-  "kf2081",
-  "kf2082",
-  "kf2083",
-  "kf2084",
-  "kf2085",
-  "kf2086",
-  "kf2087",
-  "kf2088",
-  "kf2089",
-  "kf2090",
-  "kf2091",
-  "kf2092",
-  "kf2093",
-  "kf2065",
-  "kf2066"
-)
-
-influenza_variables <- c(
-  "influenza_vaccine_arm_pain",
-  "influenza_vaccine_fever",
-  "influenza_vaccine_chills",
-  "influenza_vaccine_feeling_unwell",
-  "influenza_vaccine_bad_appetite",
-  "influenza_vaccine_headache",
-  "influenza_vaccine_pain_other_than_injection_site",
-  "influenza_vaccine_ecchymosis",
-  "influenza_vaccine_nose_bleeding",
-  "influenza_vaccine_gum_bleeding",
-  "influenza_vaccine_sore_in_mouth",
-  "influenza_vaccine_blood_clot",
-  "influenza_vaccine_nausea_vomit",
-  "influenza_vaccine_belly_pain",
-  "influenza_vaccine_diarrhea",
-  "influenza_vaccine_dizziness",
-  "influenza_vaccine_fainting",
-  "influenza_vaccine_flu_feeling",
-  "influenza_vaccine_muscle_joint_pain",
-  "influenza_vaccine_general_pain",
-  "influenza_vaccine_slapp",
-  "influenza_vaccine_swollen_lymph_glands",
-  "influenza_vaccine_allergic_reaction",
-  "influenza_vaccine_anaphylactic_reaction",
-  "influenza_vaccine_muscle_weakness",
-  "influenza_vaccine_fatigue_sleepiness",
-  "influenza_vaccine_insomnia",
-  "influenza_vaccine_tinnitus",
-  "influenza_vaccine_chest_pain",
-  "influenza_vaccine_difficulty_breathing",
-  "influenza_vaccine_rapid_heart_beat",
-  "influenza_vaccine_irregular_heart_beat",
-  "influenza_vaccine_high_blood_pressure",
-  "influenza_vaccine_low_blood_pressure",
-  "influenza_vaccine_perikardite",
-  "influenza_vaccine_myokardite",
-  "influenza_vaccine_shingles",
-  "influenza_vaccine_herpes_outbreak",
-  "influenza_vaccine_other",
-  "influenza_vaccine_unusually_strong_menstruation",
-  "influenza_vaccine_unexpected_abdominal_bleeding"
-)
-
-for (variable in influenza_variables) {
+for (variable in c(influenza_variables, covid_variables, covid_vaccination_menstruation_variables)) {
   
   phenoDF[[variable]] <- NA
   
 }
 
 
-# long covid pheno
-
-long_covid_questions <- c(
-  "kf120",
-  "kf468",
-  "kf470",
-  "kf471",
-  "kf472",
-  "kf475",
-  "kf476",
-  "kf479",
-  "kf480",
-  "kf481",
-  "kf484",
-  "kf486",
-  "kf487",
-  "kf489"
-)
-
-long_covid_variables <- c(
-  "reduced_smell_taste",
-  "fatigue",
-  "shortness_breath",
-  "cough",
-  "lung_function_reduced",
-  "chest_pain",
-  "heart_palpitation",
-  "dizziness",
-  "brain_fog",
-  "poor_memory",
-  "headache",
-  "anxiety",
-  "skin_rash",
-  "altered_smell_taste"
-)
+# Long covid
 
 print(glue("{Sys.time()} - Setting up long covid function"))
 
@@ -953,257 +831,27 @@ for (folder in list.files(quesFolder)) {
           
           # Corona vaccination
           
-          if ("kf1081" %in% names(quesDF)) {
+          # @TODO link to SYSVAK
+          
+          
+          # Corona menstruation
+          
+          for (question_i in 1:length(covid_vaccination_menstruation_questions)) {
             
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_arm_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1081) & quesDF$kf1081 == "JA"], 1, vaccine_arm_pain)
-              )
-          }
-          if ("kf1126" %in% names(quesDF)) {
+            question <- covid_vaccination_menstruation_questions[question_i]
+            variable <- covid_vaccination_menstruation_variables[question_i]
             
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_arm_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1126) & quesDF$kf1126 == "JA"], 1, vaccine_arm_pain)
-              )
-          }
-          if ("kf1082" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_feber = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1082) & quesDF$kf1082 == "JA"], 1, vaccine_feber)
-              )
-          }
-          if ("kf1127" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_feber = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1127) & quesDF$kf1127 == "JA"], 1, vaccine_feber)
-              )
-          }
-          if ("kf1083" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_freezing = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1083) & quesDF$kf1083 == "JA"], 1, vaccine_freezing)
-              )
-          }
-          if ("kf1128" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_freezing = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1128) & quesDF$kf1128 == "JA"], 1, vaccine_freezing)
-              )
-          }
-          if ("kf1084" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_feeling_unwell = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1084) & quesDF$kf1084 == "JA"], 1, vaccine_feeling_unwell)
-              )
-          }
-          if ("kf1129" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_feeling_unwell = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1129) & quesDF$kf1129 == "JA"], 1, vaccine_feeling_unwell)
-              )
-          }
-          if ("kf1085" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_bad_appetite = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1085) & quesDF$kf1085 == "JA"], 1, vaccine_bad_appetite)
-              )
-          }
-          if ("kf1130" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_bad_appetite = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1130) & quesDF$kf1130 == "JA"], 1, vaccine_bad_appetite)
-              )
-          }
-          if ("kf1086" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_headache = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1086) & quesDF$kf1086 == "JA"], 1, vaccine_headache)
-              )
-          }
-          if ("kf1131" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_headache = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1131) & quesDF$kf1131 == "JA"], 1, vaccine_headache)
-              )
-          }
-          if ("kf1087" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_pain_other_place_than_injection = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1087) & quesDF$kf1087 == "JA"], 1, vaccine_pain_other_place_than_injection)
-              )
-          }
-          if ("kf1132" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_pain_other_place_than_injection = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1132) & quesDF$kf1132 == "JA"], 1, vaccine_pain_other_place_than_injection)
-              )
-          }
-          if ("kf1088" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_skin_bleeding_ecchymosis = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1088) & quesDF$kf1088 == "JA"], 1, vaccine_skin_bleeding_ecchymosis)
-              )
-          }
-          if ("kf1133" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_skin_bleeding_ecchymosis = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1133) & quesDF$kf1133 == "JA"], 1, vaccine_skin_bleeding_ecchymosis)
-              )
-          }
-          if ("kf1089" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_nose_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1089) & quesDF$kf1089 == "JA"], 1, vaccine_nose_bleeding)
-              )
-          }
-          if ("kf1134" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_nose_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1134) & quesDF$kf1134 == "JA"], 1, vaccine_nose_bleeding)
-              )
-          }
-          if ("kf1090" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_gum_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1090) & quesDF$kf1090 == "JA"], 1, vaccine_nose_bleeding)
-              )
-          }
-          if ("kf1135" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_gum_bleeding = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1135) & quesDF$kf1135 == "JA"], 1, vaccine_nose_bleeding)
-              )
-          }
-          if ("kf1091" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_mouth_ulcer = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1091) & quesDF$kf1091 == "JA"], 1, vaccine_mouth_ulcer)
-              )
-          }
-          if ("kf1136" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_mouth_ulcer = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1136) & quesDF$kf1136 == "JA"], 1, vaccine_mouth_ulcer)
-              )
-          }
-          if ("kf1092" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_thrombus = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1092) & quesDF$kf1092 == "JA"], 1, vaccine_thrombus)
-              )
-          }
-          if ("kf1137" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_thrombus = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1137) & quesDF$kf1137 == "JA"], 1, vaccine_thrombus)
-              )
-          }
-          if ("kf1093" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_unusually_strong_menstruation = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1093) & quesDF$kf1093 == "JA"], 1, vaccine_unusually_strong_menstruation)
-              )
-          }
-          if ("kf1138" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_unusually_strong_menstruation = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1138) & quesDF$kf1138 == "JA"], 1, vaccine_unusually_strong_menstruation)
-              )
-          }
-          if ("kf1095" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_nausea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1095) & quesDF$kf1095 == "JA"], 1, vaccine_nausea)
-              )
-          }
-          if ("kf1140" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_nausea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1140) & quesDF$kf1140 == "JA"], 1, vaccine_nausea)
-              )
-          }
-          if ("kf1096" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_belly_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1096) & quesDF$kf1096 == "JA"], 1, vaccine_belly_pain)
-              )
-          }
-          if ("kf1141" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_belly_pain = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1141) & quesDF$kf1141 == "JA"], 1, vaccine_belly_pain)
-              )
-          }
-          if ("kf1097" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_diarrhea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1097) & quesDF$kf1097 == "JA"], 1, vaccine_diarrhea)
-              )
-          }
-          if ("kf1142" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_diarrhea = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1142) & quesDF$kf1142 == "JA"], 1, vaccine_diarrhea)
-              )
-          }
-          if ("kf1098" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_dizziness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1098) & quesDF$kf1098 == "JA"], 1, vaccine_dizziness)
-              )
-          }
-          if ("kf1143" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_dizziness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1143) & quesDF$kf1143 == "JA"], 1, vaccine_dizziness)
-              )
-          }
-          if ("kf1099" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_faintness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1099) & quesDF$kf1099 == "JA"], 1, vaccine_faintness)
-              )
-          }
-          if ("kf1144" %in% names(quesDF)) {
-            
-            phenoDF <- phenoDF %>% 
-              mutate(
-                vaccine_faintness = ifelse(id %in% quesDF$id[!is.na(quesDF$kf1144) & quesDF$kf1144 == "JA"], 1, vaccine_faintness)
-              )
+            if (question %in% names(quesDF)) {
+              
+              ids <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] != "JA"]
+              
+              phenoDF[phenoDF$id %in% ids, variable] <- 1
+              
+              ids <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] != "NEI"]
+              
+              phenoDF[is.na(phenoDF[[variable]]) & phenoDF$id %in% ids, variable] <- 0
+              
+            }
           }
         }
       }
