@@ -65,22 +65,22 @@ covid_table = os.path.join(covid_tables_folder, "moba_covid_phenotypes.gz")
 ####################### Housekeeping #########################################
 
 if not os.path.isdir(docs_folder):
-    os.mkdir(docs_folder)
+    os.mkdirs(docs_folder)
 
 if not os.path.isdir(raw_docs_folder):
-    os.mkdir(raw_docs_folder)
+    os.mkdirs(raw_docs_folder)
 
 if not os.path.isdir(covid_docs_folder):
-    os.mkdir(covid_docs_folder)
+    os.mkdirs(covid_docs_folder)
 
 if not os.path.isdir(tables_folder):
-    os.mkdir(tables_folder)
+    os.mkdirs(tables_folder)
 
 if not os.path.isdir(raw_tables_folder):
-    os.mkdir(raw_tables_folder)
+    os.mkdirs(raw_tables_folder)
 
 if not os.path.isdir(covid_tables_folder):
-    os.mkdir(covid_tables_folder)
+    os.mkdirs(covid_tables_folder)
 
 
 ####################### Functions ############################################

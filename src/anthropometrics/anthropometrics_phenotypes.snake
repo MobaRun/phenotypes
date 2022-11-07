@@ -56,19 +56,19 @@ qc_folder = f"{tables_folder}/anthropometrics_qc"
 ####################### Housekeeping #########################################
 
 if not os.path.isdir(docs_folder):
-    os.mkdir(docs_folder)
+    os.mkdirs(docs_folder)
 
 if not os.path.isdir(raw_docs_folder):
-    os.mkdir(raw_docs_folder)
+    os.mkdirs(raw_docs_folder)
 
 if not os.path.isdir(tables_folder):
-    os.mkdir(tables_folder)
+    os.mkdirs(tables_folder)
 
 if not os.path.isdir(raw_tables_folder):
-    os.mkdir(raw_tables_folder)
+    os.mkdirs(raw_tables_folder)
 
 if not os.path.isdir(qc_folder):
-    os.mkdir(qc_folder)
+    os.mkdirs(qc_folder)
 
 
 ####################### Functions ############################################
