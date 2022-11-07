@@ -73,10 +73,10 @@ exportProfiles <- F
 
 # External functions and variable mapping
 
-source("src/scripts/utils/anthropometrics/lw-cleaning-functions.R")
-source("src/scripts/utils/anthropometrics/lw-docs-functions.R")
+source("src/anthropometrics/scripts/utils/lw-cleaning-functions.R")
+source("src/anthropometrics/scripts/utils/lw-docs-functions.R")
 
-source("src/scripts/utils/anthropometrics/variables_mapping.R")
+source("src/anthropometrics/scripts/utils/variables_mapping.R")
 
 
 # Currently exclude values after 8y

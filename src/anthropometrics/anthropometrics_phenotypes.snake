@@ -177,7 +177,7 @@ rule anthropometrics_raw_cleaning:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/utils/anthropometrics/raw-cleaning.R \
+        Rscript src/anthropometrics/scripts/utils/raw-cleaning.R \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
             {input.father_id_linkage_raw_table} \
@@ -214,7 +214,7 @@ rule growth_cleaning:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/utils/anthropometrics/lw-cleaning.R \
+        Rscript src/anthropometrics/scripts/utils/lw-cleaning.R \
             {params.qc_folder} \
             {params.moba_project_number} \
             {params.release_name}
