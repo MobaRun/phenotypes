@@ -17,12 +17,12 @@ repo <- "https://cran.uib.no/"
 
 packages <- c(
   "memoise", 
-  "conflicted", 
   "crayon", 
-  "janitor", 
-  "foreign", 
+  "conflicted", 
   "stringr", 
   "glue", 
+  "janitor", 
+  "foreign", 
   "tidyr", 
   "dplyr", 
   "purrr",
