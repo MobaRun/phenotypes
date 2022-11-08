@@ -16,6 +16,7 @@ repo <- "https://cran.uib.no/"
 # Install all packages required by the pipeline
 
 packages <- c(
+  "memoise", 
   "conflicted", 
   "crayon", 
   "janitor", 
