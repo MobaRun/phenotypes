@@ -13,6 +13,8 @@ import json
 
 ####################### Parameters ###########################################
 
+#TODO: Make a parameters file
+
 # Analysis
 suffix = '22-09-19'
 moba_project_number = 2824
@@ -99,7 +101,7 @@ rule all:
 
 
 rule install_packages:
-    'Install the packages needed to run the R scripts'
+    'Install the packages needed to run the R scripts' #TODO: move this to the conda env files
     input:
         install_log_file = install_log_file
     output:
@@ -118,7 +120,8 @@ rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
     input:
         linkage_folder = linkage_folder,
-        moba_questionnaires_folder = moba_questionnaires_folder
+        moba_questionnaires_folder = moba_questionnaires_folder,
+        install_log_file = install_log_file
     params:
         moba_project_number = moba_project_number,
         raw_tables_folder = raw_tables_folder,
