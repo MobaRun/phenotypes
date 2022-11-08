@@ -37,7 +37,7 @@ for (package in packages) {
   
   install.packages(package, lib = library, repos = repo)
   
-  library(package, lib.loc = library)
+  library(package, lib.loc = library, character.only = T)
   
 }
 
