@@ -32,8 +32,8 @@ q8_raw_table_path <- args[15]
 q9_raw_table_path <- args[16]
 kostUngdom_raw_table_path <- args[17]
 tablesFolder <- args[18]
-qcFolder <- args[18]
-project_number <- args[19] 
+qcFolder <- args[19]
+project_number <- args[20]
 
 
 ##
