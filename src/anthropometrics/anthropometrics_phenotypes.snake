@@ -8,6 +8,7 @@ import json
 # Commands to execute from the repository folder:
 # conda activate snakemake
 # snakemake --snakefile src/anthropometrics/anthropometrics_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
+#
 ##
 
 ####################### Parameters ###########################################
@@ -51,6 +52,7 @@ father_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220
 
 # Anthropometrics QC folder
 qc_folder = f"{tables_folder}/anthropometrics_qc"
+install_log_file = f"{qc_folder}/install.log"
 
 
 ####################### Housekeeping #########################################
@@ -94,6 +96,22 @@ rule all:
         mother_health_table = os.path.join(qc_folder, "mother_health.gz"),
         father_health_table = os.path.join(qc_folder, "father_health.gz"),
         child_anthropometrics_table = os.path.join(qc_folder, "child_anthropometrics.gz")
+
+
+rule install_packages:
+    'Install the packages needed to run the R scripts'
+    input:
+        install_log_file = install_log_file
+    output:
+        install_log_file = install_log_file
+    conda:
+        "envs/r_4.1.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/install_packages_R4.1.R \
+            {input.install_log_file}
+        """
 
 
 rule raw_pheno:

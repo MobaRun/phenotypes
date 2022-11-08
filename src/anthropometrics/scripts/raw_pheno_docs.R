@@ -1,7 +1,7 @@
 
 ##
 #
-# This script extracts text tables from spss files and writes basic documentation on the different variables available.
+# This script installs the p
 #
 # Requires R 4.x.x, run in conda R_4.1.
 # Execute from the root of the repo.
