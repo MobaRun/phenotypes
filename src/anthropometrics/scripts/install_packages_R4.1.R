@@ -8,9 +8,10 @@
 #
 ##
 
-# Libararies
+# Parameters
 
 library <- "~/R/R_4.1"
+repo <- "https://cran.uib.no/"
 
 # Install all packages required by the pipeline
 
@@ -34,7 +35,7 @@ packages <- c(
 
 for (package in packages) {
   
-  install.packages(package, lib = library)
+  install.packages(package, lib = library, repos = repo)
   
   library(package, lib.loc = library)
   
