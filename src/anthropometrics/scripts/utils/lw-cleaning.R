@@ -42,6 +42,7 @@ library(glue, lib = libFolder)
 library(withr, lib = libFolder)
 library(labeling, lib = libFolder)
 library(digest, lib = libFolder)
+library(farver, lib = libFolder)
 library(ggplot2, lib = libFolder)
 library(grid, lib = libFolder)
 
