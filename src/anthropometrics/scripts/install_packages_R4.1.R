@@ -13,6 +13,19 @@
 library <- "~/R/R_4.1"
 repo <- "https://cran.uib.no/"
 
+
+# Housekeeping
+
+if (!file.exists(library)) {
+  
+  dir.create(
+    path = library,
+    showWarnings = T,
+    recursive = T
+  )
+  
+}
+
 # Install all packages required by the pipeline
 
 packages <- c(
