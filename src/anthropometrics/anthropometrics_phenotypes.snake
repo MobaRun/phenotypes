@@ -102,8 +102,6 @@ rule all:
 
 rule install_packages:
     'Install the packages needed to run the R scripts' #TODO: move this to the conda env files
-    input:
-        install_log_file = install_log_file
     output:
         install_log_file = install_log_file
     conda:
@@ -112,7 +110,7 @@ rule install_packages:
     shell:
         """
         Rscript src/anthropometrics/scripts/install_packages_R4.1.R \
-            {input.install_log_file}
+            {output.install_log_file}
         """
 
 
