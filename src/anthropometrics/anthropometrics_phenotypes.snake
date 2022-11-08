@@ -53,7 +53,7 @@ mother_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220
 father_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Father_PDB{moba_project_number}.gz')
 
 # Anthropometrics QC folder
-qc_folder = f"{tables_folder}/anthropometrics_qc"
+qc_folder = f"{tables_folder}/qc"
 install_log_file = f"{qc_folder}/install.log"
 
 
@@ -86,18 +86,18 @@ rule all:
     'The output of the pipeline'
     input:
         raw_data_docs = os.path.join(raw_docs_folder,'data.md'),
-        ids_table = os.path.join(qc_folder, "ids.gz"),
-        pregnancy_table = os.path.join(qc_folder, "pregnancy.gz"),
-        delivery_table = os.path.join(qc_folder, "delivery.gz"),
-        pregnancy_nutrition_table = os.path.join(qc_folder, "pregnancy_nutrition.gz"),
-        mother_nutrition_table = os.path.join(qc_folder, "mother_nutrition.gz"),
-        child_nutrition_table = os.path.join(qc_folder, "child_nutrition.gz"),
-        child_table = os.path.join(qc_folder, "child.gz"),
-        child_health_table = os.path.join(qc_folder, "child_health.gz"),
-        parents_table = os.path.join(qc_folder, "parents.gz"),
-        mother_health_table = os.path.join(qc_folder, "mother_health.gz"),
-        father_health_table = os.path.join(qc_folder, "father_health.gz"),
-        child_anthropometrics_table = os.path.join(qc_folder, "child_anthropometrics.gz")
+        ids_table = os.path.join(tables_folder, "ids.gz"),
+        pregnancy_table = os.path.join(tables_folder, "pregnancy.gz"),
+        delivery_table = os.path.join(tables_folder, "delivery.gz"),
+        pregnancy_nutrition_table = os.path.join(tables_folder, "pregnancy_nutrition.gz"),
+        mother_nutrition_table = os.path.join(tables_folder, "mother_nutrition.gz"),
+        child_nutrition_table = os.path.join(tables_folder, "child_nutrition.gz"),
+        child_table = os.path.join(tables_folder, "child.gz"),
+        child_health_table = os.path.join(tables_folder, "child_health.gz"),
+        parents_table = os.path.join(tables_folder, "parents.gz"),
+        mother_health_table = os.path.join(tables_folder, "mother_health.gz"),
+        father_health_table = os.path.join(tables_folder, "father_health.gz"),
+        child_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics.gz")
 
 
 rule install_packages:
@@ -178,21 +178,22 @@ rule anthropometrics_raw_cleaning:
     params:
         fam_file = fam_file,
         unrelated_children_ids_file = unrelated_children_ids_file,
+        tables_folder = tables_folder,
         qc_folder = qc_folder,
         moba_project_number = moba_project_number
     output:
-         ids_table = os.path.join(qc_folder, "ids.gz"),
-         pregnancy_table = os.path.join(qc_folder, "pregnancy.gz"),
-         delivery_table = os.path.join(qc_folder, "delivery.gz"),
-         pregnancy_nutrition_table = os.path.join(qc_folder, "pregnancy_nutrition.gz"),
-         mother_nutrition_table = os.path.join(qc_folder, "mother_nutrition.gz"),
-         child_nutrition_table = os.path.join(qc_folder, "child_nutrition.gz"),
-         child_table = os.path.join(qc_folder, "child.gz"),
-         child_health_table = os.path.join(qc_folder, "child_health.gz"),
-         parents_table = os.path.join(qc_folder, "parents.gz"),
-         mother_health_table = os.path.join(qc_folder, "mother_health.gz"),
-         father_health_table = os.path.join(qc_folder, "father_health.gz"),
-         child_anthropometrics_raw_table = os.path.join(qc_folder, "child_anthropometrics_raw.gz")
+         ids_table = os.path.join(tables_folder, "ids.gz"),
+         pregnancy_table = os.path.join(tables_folder, "pregnancy.gz"),
+         delivery_table = os.path.join(tables_folder, "delivery.gz"),
+         pregnancy_nutrition_table = os.path.join(tables_folder, "pregnancy_nutrition.gz"),
+         mother_nutrition_table = os.path.join(tables_folder, "mother_nutrition.gz"),
+         child_nutrition_table = os.path.join(tables_folder, "child_nutrition.gz"),
+         child_table = os.path.join(tables_folder, "child.gz"),
+         child_health_table = os.path.join(tables_folder, "child_health.gz"),
+         parents_table = os.path.join(tables_folder, "parents.gz"),
+         mother_health_table = os.path.join(tables_folder, "mother_health.gz"),
+         father_health_table = os.path.join(tables_folder, "father_health.gz"),
+         child_anthropometrics_raw_table = os.path.join(tables_folder, "child_anthropometrics_raw.gz")
     conda:
         "envs/r_4.1.yaml"
     threads: 1
@@ -216,6 +217,7 @@ rule anthropometrics_raw_cleaning:
             {input.q8_table} \
             {input.q9_table} \
             {input.skjemaKostUngdom_table} \
+            {params.tables_folder} \
             {params.qc_folder} \
             {params.moba_project_number}
         """
@@ -225,6 +227,7 @@ rule growth_cleaning:
     input:
         child_anthropometrics_raw_table = os.path.join(qc_folder, "child_anthropometrics_raw.gz")
     params:
+        tables_folder = tables_folder,
         qc_folder = qc_folder,
         moba_project_number = moba_project_number,
         release_name = suffix
@@ -236,6 +239,7 @@ rule growth_cleaning:
     shell:
         """
         Rscript src/anthropometrics/scripts/utils/lw-cleaning.R \
+            {params.tables_folder} \
             {params.qc_folder} \
             {params.moba_project_number} \
             {params.release_name}

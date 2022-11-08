@@ -12,9 +12,10 @@
 # Command line arguments
 args <- commandArgs(TRUE)
 
-qcFolder <- args[1]
-project_number <- args[2] 
-release_name <- args[3] 
+tablesFolder <- args[1]
+qcFolder <- args[2]
+project_number <- args[3]
+release_name <- args[4]
 
 
 ##
@@ -112,14 +113,24 @@ if (!file.exists(lwQcPlotsFolder)) {
   
 }
 
-if (!dir.exists(qcFolder)) {
+if (!dir.exists(tablesFolder)) {
   
+  dir.create(
+    path = tablesFolder,
+    showWarnings = T,
+    recursive = T
+  )
+  
+}
+
+if (!dir.exists(qcFolder)) {
+
   dir.create(
     path = qcFolder,
     showWarnings = T,
     recursive = T
   )
-  
+
 }
 
 if (exportProfiles) {
@@ -142,7 +153,7 @@ if (exportProfiles) {
 print(paste(Sys.time(), " Loading length and weight values"))
 
 values <- read.table(
-  file = file.path(qcFolder, "child_anthropometrics_raw.gz"),
+  file = file.path(tablesFolder, "child_anthropometrics_raw.gz"),
   header = T,
   sep = "\t",
   stringsAsFactors = F
@@ -172,7 +183,7 @@ childAnthropometricValues <- values %>%
 
 write.table(
   x = childAnthropometricValues,
-  file = gzfile(file.path(qcFolder, "child_anthropometrics.gz")),
+  file = gzfile(file.path(tablesFolder, "child_anthropometrics.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",

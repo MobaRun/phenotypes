@@ -31,6 +31,7 @@ q7_raw_table_path <- args[14]
 q8_raw_table_path <- args[15]
 q9_raw_table_path <- args[16]
 kostUngdom_raw_table_path <- args[17]
+tablesFolder <- args[18]
 qcFolder <- args[18]
 project_number <- args[19] 
 
@@ -77,14 +78,24 @@ library(glue, lib = libFolder)
 
 # Housekeeping
 
-if (!dir.exists(qcFolder)) {
+if (!dir.exists(tablesFolder)) {
   
+  dir.create(
+    path = tablesFolder,
+    showWarnings = T,
+    recursive = T
+  )
+  
+}
+
+if (!dir.exists(qcFolder)) {
+
   dir.create(
     path = qcFolder,
     showWarnings = T,
     recursive = T
   )
-  
+
 }
 
 
@@ -1143,7 +1154,7 @@ idValues <- values %>%
 
 write.table(
   x = idValues,
-  file = gzfile(file.path(qcFolder, "ids.gz")),
+  file = gzfile(file.path(tablesFolder, "ids.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1158,7 +1169,7 @@ pregnancyValues <- values %>%
 
 write.table(
   x = pregnancyValues,
-  file = gzfile(file.path(qcFolder, "pregnancy.gz")),
+  file = gzfile(file.path(tablesFolder, "pregnancy.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1173,7 +1184,7 @@ deliveryValues <- values %>%
 
 write.table(
   x = deliveryValues,
-  file = gzfile(file.path(qcFolder, "delivery.gz")),
+  file = gzfile(file.path(tablesFolder, "delivery.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1188,7 +1199,7 @@ pregnancyNutritionValues <- values %>%
 
 write.table(
   x = pregnancyNutritionValues,
-  file = gzfile(file.path(qcFolder, "pregnancy_nutrition.gz")),
+  file = gzfile(file.path(tablesFolder, "pregnancy_nutrition.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1203,7 +1214,7 @@ motherNutritionValues <- values %>%
 
 write.table(
   x = motherNutritionValues,
-  file = gzfile(file.path(qcFolder, "mother_nutrition.gz")),
+  file = gzfile(file.path(tablesFolder, "mother_nutrition.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1218,7 +1229,7 @@ childNutritionValues <- values %>%
 
 write.table(
   x = childNutritionValues,
-  file = gzfile(file.path(qcFolder, "child_nutrition.gz")),
+  file = gzfile(file.path(tablesFolder, "child_nutrition.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1233,7 +1244,7 @@ childValues <- values %>%
 
 write.table(
   x = childValues,
-  file = gzfile(file.path(qcFolder, "child.gz")),
+  file = gzfile(file.path(tablesFolder, "child.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1248,7 +1259,7 @@ childHealth <- values %>%
 
 write.table(
   x = childHealth,
-  file = gzfile(file.path(qcFolder, "child_health.gz")),
+  file = gzfile(file.path(tablesFolder, "child_health.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1263,7 +1274,7 @@ parentValues <- values %>%
 
 write.table(
   x = parentValues,
-  file = gzfile(file.path(qcFolder, "parents.gz")),
+  file = gzfile(file.path(tablesFolder, "parents.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1278,7 +1289,7 @@ motherHealthValues <- values %>%
 
 write.table(
   x = motherHealthValues,
-  file = gzfile(file.path(qcFolder, "mother_health.gz")),
+  file = gzfile(file.path(tablesFolder, "mother_health.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1293,7 +1304,7 @@ fatherHealthValues <- values %>%
 
 write.table(
   x = fatherHealthValues,
-  file = gzfile(file.path(qcFolder, "father_health.gz")),
+  file = gzfile(file.path(tablesFolder, "father_health.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
@@ -1311,7 +1322,7 @@ childAnthropometricValues <- values %>%
 
 write.table(
   x = childAnthropometricValues,
-  file = gzfile(file.path(qcFolder, "child_anthropometrics_raw.gz")),
+  file = gzfile(file.path(tablesFolder, "child_anthropometrics_raw.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
