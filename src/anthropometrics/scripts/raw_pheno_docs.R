@@ -15,7 +15,8 @@ library <- "~/R/R_4.1"
 # This randomly fails the first time but not the second, seems to be an error in the latest R versions
 
 loadLibraries <- function() {
-    
+  
+    library(memoise, lib.loc = library)
     library(conflicted, lib.loc = library)
     library(foreign, lib.loc = library)
     library(stringr, lib.loc = library)

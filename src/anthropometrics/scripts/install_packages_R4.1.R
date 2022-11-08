@@ -43,8 +43,7 @@ packages <- c(
   "labeling",
   "digest",
   "farver",
-  "ggplot2",
-  "grid"
+  "ggplot2"
 )
 
 for (package in packages) {
