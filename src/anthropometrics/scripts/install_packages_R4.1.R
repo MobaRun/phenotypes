@@ -16,12 +16,12 @@ repo <- "https://cran.uib.no/"
 # Install all packages required by the pipeline
 
 packages <- c(
-  "janitor", 
   "conflicted", 
+  "crayon", 
+  "janitor", 
   "foreign", 
   "stringr", 
   "glue", 
-  "crayon", 
   "tidyr", 
   "dplyr", 
   "purrr",
