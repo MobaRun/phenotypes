@@ -102,6 +102,8 @@ rule all:
 
 rule install_packages:
     'Install the packages needed to run the R scripts' #TODO: move this to the conda env files
+    input:
+        qc_folder = qc_folder
     output:
         install_log_file = install_log_file
     conda:
