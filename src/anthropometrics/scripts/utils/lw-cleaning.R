@@ -45,6 +45,7 @@ library(labeling, lib = libFolder)
 library(digest, lib = libFolder)
 library(farver, lib = libFolder)
 library(ggplot2, lib = libFolder)
+library(cli, lib = libFolder)
 library(grid, lib = libFolder)
 
 
