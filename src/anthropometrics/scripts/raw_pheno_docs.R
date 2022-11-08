@@ -40,6 +40,9 @@ tryCatch(
     }
 )
 
+conflict_prefer("filter", "dplyr")
+
+
 # Paths from command line
 args <- commandArgs(TRUE)
 
