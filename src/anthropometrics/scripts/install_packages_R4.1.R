@@ -15,21 +15,21 @@ library <- "~/R/R_4.1"
 # Install all packages required by the pipeline
 
 packages <- c(
-  janitor, 
-  conflicted, 
-  foreign, 
-  stringr, 
-  glue, 
-  crayon, 
-  tidyr, 
-  dplyr, 
-  purrr,
-  withr,
-  labeling,
-  digest,
-  farver,
-  ggplot2,
-  grid
+  "janitor", 
+  "conflicted", 
+  "foreign", 
+  "stringr", 
+  "glue", 
+  "crayon", 
+  "tidyr", 
+  "dplyr", 
+  "purrr",
+  "withr",
+  "labeling",
+  "digest",
+  "farver",
+  "ggplot2",
+  "grid"
 )
 
 for (package in packages) {
