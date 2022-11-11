@@ -26,6 +26,8 @@ loadLibraries <- function() {
     library(dplyr, lib.loc = library)
     library(janitor, lib.loc = library)
     
+  conflict_prefer("filter", "dplyr")
+  
 }
 
 tryCatch(
