@@ -82,10 +82,26 @@ covidTable <- args[10]
 docsFolder <- args[11]
 mobaProjectNumber <- args[12]
 
+### DEBUG
+
+rawTablesFolder <- "/mnt/work/marc/pheno_covid_22-11-01/raw"
+child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
+mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
+father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
+mfr_raw_table <- "/mnt/work/marc/pheno_covid_22-11-01/raw/moba_ques/PDB2824_MFR_541_v12.gz"
+msis_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/PDB2824_MSIS-data_MoBa.gz"
+child_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Barn_ID_2824_2021_11_17sav.gz"
+mother_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Mor_ID_2824_2021_11_17sav.gz"
+father_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Far_ID_2824_2021_11_17sav.gz"
+covidTable <- "/mnt/work/marc/pheno_covid_22-11-01/covid"
+docsFolder <- "docs/covid/22-11-01/covid"
+mobaProjectNumber <- 2824
+
+###
 
 # Functions
 
-source("src/scripts/utils/covid/long_covid_docs.R")
+source("src/covid/scripts/utils/long_covid_docs.R")
 
 
 # Parameters

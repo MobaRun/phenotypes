@@ -93,8 +93,9 @@ if not os.path.isdir(covid_tables_folder):
 rule all:
     'The output of the pipeline'
     input:
-        raw_data_docs = os.path.join(raw_docs_folder,'data.md'),
-        covid_table = covid_table
+        child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
+        mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
+        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table
 
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
@@ -109,26 +110,14 @@ rule raw_pheno:
         raw_tables_folder = raw_tables_folder,
         raw_docs_folder = raw_docs_folder
     output:
-        docs_file = os.path.join(raw_docs_folder, 'data.md'),
+        child_id_linkage_raw_table = child_id_linkage_raw_table,
+        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
+        father_id_linkage_raw_table = father_id_linkage_raw_table,
         mfr_raw_table = mfr_raw_table,
-        q1m_table = q1m_table,
-        q1f_table = q1f_table,
-        #q2_table = q2_table,
-        q3_table = q3_table,
-        q4_table = q4_table,
-        q5_table = q5_table,
-        q6_table = q6_table,
-        q7_table = q7_table,
-        q8_table = q8_table,
-        q9_table = q9_table,
-        skjemaKostUngdom_table = skjemaKostUngdom_table,
         msis_raw_table = msis_raw_table,
         child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
         mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
-        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table,
-        child_id_linkage_raw_table = child_id_linkage_raw_table,
-        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
-        father_id_linkage_raw_table = father_id_linkage_raw_table
+        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table
     conda:
         "envs/r_4.1.yaml"
     threads: 1
