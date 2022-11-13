@@ -426,6 +426,17 @@ for (variable in c(influenza_variables, covid_vaccination_variables, covid_vacci
 
 for (variable in c(covid_vaccination_variables, covid_vaccination_menstruation_variables)) {
   
+  
+  if (endsWith(variable, "_first_dose")) {
+    
+    variable <- substr(variable, 1, nchar(variable) - nchar("_first_dose"))
+    
+  } else if (endsWith(variable, "_last_dose")) {
+    
+    variable <- substr(variable, 1, nchar(variable) - nchar("_last_dose"))
+    
+  }
+  
   new_variable <- paste0(variable, "_after_bnt")
   phenoDF[[new_variable]] <- NA
   
