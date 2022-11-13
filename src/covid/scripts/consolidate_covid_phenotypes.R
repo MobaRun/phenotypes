@@ -1023,22 +1023,22 @@ for (folder in list.files(quesFolder)) {
                 phenoDF[[new_variable]][is.na(phenoDF[[new_variable]]) & phenoDF$id %in% ids_nei & phenoDF$id %in% ids_vac] <- 0
                 phenoDF[[new_variable]][phenoDF$id %in% ids_ja & phenoDF$id %in% ids_vac] <- 1
                 
-                new_variable <- paste0(variable, "_after_mod")
+                new_variable <- paste0(variable_name, "_after_mod")
                 ids_vac <- vaccination_table$id[vaccination_table$vaccine_code == "MOD03" & vaccination_table$dose_number == 1]
                 phenoDF[[new_variable]][is.na(phenoDF[[new_variable]]) & phenoDF$id %in% ids_nei & phenoDF$id %in% ids_vac] <- 0
                 phenoDF[[new_variable]][phenoDF$id %in% ids_ja & phenoDF$id %in% ids_vac] <- 1
                 
-                new_variable <- paste0(variable, "_after_asz")
+                new_variable <- paste0(variable_name, "_after_asz")
                 ids_vac <- vaccination_table$id[vaccination_table$vaccine_code == "ASZ03" & vaccination_table$dose_number == 1]
                 phenoDF[[new_variable]][is.na(phenoDF[[new_variable]]) & phenoDF$id %in% ids_nei & phenoDF$id %in% ids_vac] <- 0
                 phenoDF[[new_variable]][phenoDF$id %in% ids_ja & phenoDF$id %in% ids_vac] <- 1
                 
-                new_variable <- paste0(variable, "_after_sin")
+                new_variable <- paste0(variable_name, "_after_sin")
                 ids_vac <- vaccination_table$id[vaccination_table$vaccine_code == "SIN03" & vaccination_table$dose_number == 1]
                 phenoDF[[new_variable]][is.na(phenoDF[[new_variable]]) & phenoDF$id %in% ids_nei & phenoDF$id %in% ids_vac] <- 0
                 phenoDF[[new_variable]][phenoDF$id %in% ids_ja & phenoDF$id %in% ids_vac] <- 1
                 
-                new_variable <- paste0(variable, "_after_jan")
+                new_variable <- paste0(variable_name, "_after_jan")
                 ids_vac <- vaccination_table$id[vaccination_table$vaccine_code == "JAN03" & vaccination_table$dose_number == 1]
                 phenoDF[[new_variable]][is.na(phenoDF[[new_variable]]) & phenoDF$id %in% ids_nei & phenoDF$id %in% ids_vac] <- 0
                 phenoDF[[new_variable]][phenoDF$id %in% ids_ja & phenoDF$id %in% ids_vac] <- 1
