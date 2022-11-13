@@ -7,7 +7,7 @@ import json
 #
 # Commands to execute from the repository folder:
 # conda activate snakemake
-# snakemake --snakefile src/covid/run_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
+# snakemake --snakefile src/covid/covid_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
 ##
 
 ####################### Parameters ###########################################

@@ -16,6 +16,8 @@ libFolder <- "~/R/R_4.1"
 
 loadLibraries <- function() {
   
+  library(cli, lib = libFolder)
+  library(memoise, lib = libFolder)
   library(isoband, lib = libFolder)
   library(farver, lib = libFolder)
   library(ellipsis, lib = libFolder)
@@ -38,11 +40,16 @@ loadLibraries <- function() {
   library(grid, lib = libFolder)
   library(scico, lib = libFolder)
   library(gtable, lib = libFolder)
-  #library(conflicted, lib = libFolder)
+  library(conflicted, lib = libFolder)
   library(stringr, lib = libFolder)
   library(jsonlite, lib = libFolder)
   library(glue, lib = libFolder)
   library(janitor, lib = libFolder)
+  
+  # Solve namespace conflicts
+  
+  conflict_prefer("select", "dplyr")
+  conflict_prefer("filter", "dplyr")
   
 }
 
@@ -58,13 +65,6 @@ tryCatch(
 )
 
 
-# Solve namespace conflicts
-
-# conflict_prefer("select", "dplyr")
-# conflict_prefer("filter", "dplyr")
-select <- dplyr::select
-filter <- dplyr::filter
-
 
 # Paths from command line
 args <- commandArgs(TRUE)
@@ -78,9 +78,10 @@ msis_raw_table_path <- args[6]
 child_msis_id_mapping_raw_table_path <- args[7]
 mother_msis_id_mapping_raw_table_path <- args[8]
 father_msis_id_mapping_raw_table_path <- args[9]
-covidTable <- args[10]
-docsFolder <- args[11]
-mobaProjectNumber <- args[12]
+sysvak_raw_table_path <- args[10]
+covidTable <- args[11]
+docsFolder <- args[12]
+mobaProjectNumber <- args[13]
 
 ### DEBUG
 
@@ -93,6 +94,10 @@ msis_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/PDB2824_MSI
 child_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Barn_ID_2824_2021_11_17sav.gz"
 mother_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Mor_ID_2824_2021_11_17sav.gz"
 father_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Far_ID_2824_2021_11_17sav.gz"
+sysvak_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/SYSVAK210043_KOBLET_MOBA_01022022.gz"
+child_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Barn_koblingsbro_2824.gz"
+mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Mor_koblingsbro_2824.gz"
+father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Far_koblingsbro_2824_.gz"
 covidTable <- "/mnt/work/marc/pheno_covid_22-11-01/covid"
 docsFolder <- "docs/covid/22-11-01/covid"
 mobaProjectNumber <- 2824
@@ -102,6 +107,7 @@ mobaProjectNumber <- 2824
 # Functions
 
 source("src/covid/scripts/utils/long_covid_docs.R")
+source("src/covid/scripts/utils/variables_mapping.R")
 
 
 # Parameters
@@ -268,11 +274,132 @@ nAfter <- nrow(idDF)
 print(paste0("Duplicates removed: ", nBefore - nAfter, " (", round(100 * (nBefore - nAfter)/nBefore, 1), "%)."))
 
 
+# Load vaccine information
+
+sysvak_table <- read.table(
+  file = sysvak_raw_table_path,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
+) %>% 
+  clean_names()
+
+child_sysvak_id_mapping <- read.table(
+  file = child_sysvak_id_mapping_raw_table_path,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
+) %>% 
+  clean_names()
+
+mother_sysvak_id_mapping <- read.table(
+  file = mother_sysvak_id_mapping_raw_table_path,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
+) %>% 
+  clean_names()
+
+father_sysvak_id_mapping <- read.table(
+  file = father_sysvak_id_mapping_raw_table_path,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
+) %>% 
+  clean_names()
+
+child_sysvak <- sysvak_table %>% 
+  left_join(
+    child_sysvak_id_mapping %>%
+      mutate(
+        id = paste0(!!sym(preg_id_column), "_", barn_nr)
+      ) %>% 
+      select(
+        id, !!sym(sysvak_id)
+      ),
+    by = sysvak_id
+  ) %>% 
+  filter(
+    !is.na(id)
+  ) %>% 
+  select(
+    id, 
+    vaccination_date = konsultasjonsdato, 
+    vaccine_code = vaksinekode_vasket
+  )
+
+mother_sysvak <- sysvak_table %>% 
+  left_join(
+    mother_sysvak_id_mapping %>%
+      select(
+        id = !!sym(mother_id_column), !!sym(sysvak_id)
+      ),
+    by = sysvak_id
+  ) %>% 
+  filter(
+    !is.na(id)
+  ) %>% 
+  select(
+    id, 
+    vaccination_date = konsultasjonsdato, 
+    vaccine_code = vaksinekode_vasket
+  )
+
+father_sysvak <- sysvak_table %>% 
+  left_join(
+    father_sysvak_id_mapping %>%
+      select(
+        id = !!sym(father_id_column), !!sym(sysvak_id)
+      ),
+    by = sysvak_id
+  ) %>% 
+  filter(
+    !is.na(id)
+  ) %>% 
+  select(
+    id, 
+    vaccination_date = konsultasjonsdato, 
+    vaccine_code = vaksinekode_vasket
+  )
+
+vaccination_table <- rbind(
+  child_sysvak, mother_sysvak, father_sysvak
+) %>% 
+  group_by(
+    id, vaccination_date
+  ) %>% 
+  summarize(
+    vaccine_code = paste(sort(vaccine_code), collapse = ","),
+    .groups = "drop"
+  ) %>% 
+  mutate(
+    vaccination_date = as.Date(vaccination_date, "%d.%m.%Y")
+  ) %>% 
+  arrange(
+    vaccination_date
+  ) %>% 
+  group_by(
+    id
+  ) %>% 
+  mutate(
+    dose_number = row_number()
+  ) %>% 
+  ungroup()
+
+
 # Set up a data frame for phenotypes
 
 print(glue("{Sys.time()} - Setting up pheno table"))
 
-phenoDF <- idDF %>% 
+phenoDF <- idDF %>%
   mutate(
     sick_past_14_days = NA,
     suspected_or_confirmed_covid_doctor_past_14_days = 0,
@@ -291,9 +418,28 @@ phenoDF <- idDF %>%
 
 # Effect of vaccines
 
-for (variable in c(influenza_variables, covid_variables, covid_vaccination_menstruation_variables)) {
+for (variable in c(influenza_variables, covid_vaccination_variables, covid_vaccination_menstruation_variables)) {
   
   phenoDF[[variable]] <- NA
+  
+}
+
+for (variable in c(covid_vaccination_variables, covid_vaccination_menstruation_variables)) {
+  
+  new_variable <- paste0(variable, "_after_bnt")
+  phenoDF[[new_variable]] <- NA
+  
+  new_variable <- paste0(variable, "_after_mod")
+  phenoDF[[new_variable]] <- NA
+  
+  new_variable <- paste0(variable, "_after_asz")
+  phenoDF[[new_variable]] <- NA
+  
+  new_variable <- paste0(variable, "_after_sin")
+  phenoDF[[new_variable]] <- NA
+  
+  new_variable <- paste0(variable, "_after_jan")
+  phenoDF[[new_variable]] <- NA
   
 }
 
@@ -433,7 +579,7 @@ for (folder in list.files(quesFolder)) {
         
         questionnaireFile <- file.path(quesFolder, folder, glue(quesName))
         
-        print(paste0(questionnaireFile, " - Found: ", file.exists(questionnaireFile)))
+        # print(paste0(questionnaireFile, " - Found: ", file.exists(questionnaireFile)))
         
         if (file.exists(questionnaireFile)) {
           
@@ -825,7 +971,7 @@ for (folder in list.files(quesFolder)) {
               
               variable <- paste0("influenza_vaccine_", reaction)
               
-              phenoDF[[variable]] <- ifele(is.na(phenoDF[[variable]]) & phenoDF$id %in% vaccinated, 0, phenoDF[[variable]])
+              phenoDF[[variable]] <- ifelse(is.na(phenoDF[[variable]]) & phenoDF$id %in% vaccinated, 0, phenoDF[[variable]])
               
             }
           }
@@ -839,7 +985,7 @@ for (folder in list.files(quesFolder)) {
               
               ids <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] != "NEI"]
               
-              phenoDF[phenoDF$id %in% ids, variable] <- 1
+              phenoDF[[variable]][phenoDF$id %in% ids] <- 1
               
             }
           }
@@ -847,7 +993,148 @@ for (folder in list.files(quesFolder)) {
           
           # Corona vaccination
           
-          # @TODO link to SYSVAK
+          for (question_i in 1:length(covid_vaccination_variables)) {
+            
+            question <- covid_vaccination_questions[question_i]
+            variable <- covid_vaccination_variables[question_i]
+            
+            if (question %in% names(quesDF)) {
+              
+              if (endsWith(variable, "_first_dose")) {
+                
+                ids_nei <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] == "NEI"]
+                ids_ja <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] == "JA"]
+                
+                variable_name <- substr(variable, 1, nchar(variable) - nchar("_first_dose"))
+                
+                new_variable <- paste0(variable_name, "_after_bnt")
+                ids_vac <- vaccination_table$id[vaccination_table$vaccine_code == "BNT03" & vaccination_table$dose_number == 1]
+                phenoDF[[new_variable]][is.na(phenoDF[[new_variable]]) & phenoDF$id %in% ids_nei & phenoDF$id %in% ids_vac] <- 0
+                phenoDF[[new_variable]][phenoDF$id %in% ids_ja & phenoDF$id %in% ids_vac] <- 1
+                
+                new_variable <- paste0(variable, "_after_mod")
+                ids_vac <- vaccination_table$id[vaccination_table$vaccine_code == "MOD03" & vaccination_table$dose_number == 1]
+                phenoDF[[new_variable]][is.na(phenoDF[[new_variable]]) & phenoDF$id %in% ids_nei & phenoDF$id %in% ids_vac] <- 0
+                phenoDF[[new_variable]][phenoDF$id %in% ids_ja & phenoDF$id %in% ids_vac] <- 1
+                
+                new_variable <- paste0(variable, "_after_asz")
+                ids_vac <- vaccination_table$id[vaccination_table$vaccine_code == "ASZ03" & vaccination_table$dose_number == 1]
+                phenoDF[[new_variable]][is.na(phenoDF[[new_variable]]) & phenoDF$id %in% ids_nei & phenoDF$id %in% ids_vac] <- 0
+                phenoDF[[new_variable]][phenoDF$id %in% ids_ja & phenoDF$id %in% ids_vac] <- 1
+                
+                new_variable <- paste0(variable, "_after_sin")
+                ids_vac <- vaccination_table$id[vaccination_table$vaccine_code == "SIN03" & vaccination_table$dose_number == 1]
+                phenoDF[[new_variable]][is.na(phenoDF[[new_variable]]) & phenoDF$id %in% ids_nei & phenoDF$id %in% ids_vac] <- 0
+                phenoDF[[new_variable]][phenoDF$id %in% ids_ja & phenoDF$id %in% ids_vac] <- 1
+                
+                new_variable <- paste0(variable, "_after_jan")
+                ids_vac <- vaccination_table$id[vaccination_table$vaccine_code == "JAN03" & vaccination_table$dose_number == 1]
+                phenoDF[[new_variable]][is.na(phenoDF[[new_variable]]) & phenoDF$id %in% ids_nei & phenoDF$id %in% ids_vac] <- 0
+                phenoDF[[new_variable]][phenoDF$id %in% ids_ja & phenoDF$id %in% ids_vac] <- 1
+                
+              } else if (endsWith(variable, "_last_dose")) {
+                
+                ids_nei <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] == "NEI" & quesDF$id %in% phenoDF$id]
+                ids_ja <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] == "JA" & quesDF$id %in% phenoDF$id]
+                
+                variable_name <- substr(variable, 1, nchar(variable) - nchar("_last_dose"))
+                
+                for (id_nei in ids_nei) {
+                  
+                  ques_i <- which(quesDF$id == id_nei)
+                  ref_date <- as.Date(quesDF$fill_in_date[ques_i]/86400, origin = "1582-10-14")
+                  
+                  id_vaccines <- vaccination_table %>% 
+                    filter(
+                      id == id_nei & vaccination_date <= ref_date
+                    ) %>% 
+                    arrange(
+                      vaccination_date
+                    )
+                  
+                  if (nrow(id_vaccines) > 0) {
+                    
+                    pheno_id_i <- which(phenoDF$id == id_nei)
+                    vaccine_code <- id_vaccines$vaccine_code[nrow(id_vaccines)]
+                    
+                    if (vaccine_code == "BNT03") {
+                      
+                      new_variable <- paste0(variable_name, "_after_bnt")
+                      phenoDF[[new_variable]][pheno_id_i] <- 0
+                      
+                    } else if (vaccine_code == "MOD03") {
+                      
+                      new_variable <- paste0(variable_name, "_after_mod")
+                      phenoDF[[new_variable]][pheno_id_i] <- 0
+                      
+                    } else if (vaccine_code == "ASZ03") {
+                      
+                      new_variable <- paste0(variable_name, "_after_asz")
+                      phenoDF[[new_variable]][pheno_id_i] <- 0
+                      
+                    } else if (vaccine_code == "SIN03") {
+                      
+                      new_variable <- paste0(variable_name, "_after_sin")
+                      phenoDF[[new_variable]][pheno_id_i] <- 0
+                      
+                    } else if (vaccine_code == "JAN03") {
+                      
+                      new_variable <- paste0(variable_name, "_after_jan")
+                      phenoDF[[new_variable]][pheno_id_i] <- 0
+                      
+                    }
+                  }
+                }
+                
+                for (id_ja in ids_js) {
+                  
+                  ques_i <- which(quesDF$id == id_ja)
+                  ref_date <- as.Date(quesDF$fill_in_date[ques_i]/86400, origin = "1582-10-14")
+                  
+                  id_vaccines <- vaccination_table %>% 
+                    filter(
+                      id == id_ja & vaccination_date <= ref_date
+                    ) %>% 
+                    arrange(
+                      vaccination_date
+                    )
+                  
+                  if (nrow(id_vaccines) > 0) {
+                    
+                    pheno_id_i <- which(phenoDF$id == id_ja)
+                    vaccine_code <- id_vaccines$vaccine_code[nrow(id_vaccines)]
+                    
+                    if (vaccine_code == "BNT03") {
+                      
+                      new_variable <- paste0(variable_name, "_after_bnt")
+                      phenoDF[[new_variable]][pheno_id_i] <- 1
+                      
+                    } else if (vaccine_code == "MOD03") {
+                      
+                      new_variable <- paste0(variable_name, "_after_mod")
+                      phenoDF[[new_variable]][pheno_id_i] <- 1
+                      
+                    } else if (vaccine_code == "ASZ03") {
+                      
+                      new_variable <- paste0(variable_name, "_after_asz")
+                      phenoDF[[new_variable]][pheno_id_i] <- 1
+                      
+                    } else if (vaccine_code == "SIN03") {
+                      
+                      new_variable <- paste0(variable_name, "_after_sin")
+                      phenoDF[[new_variable]][pheno_id_i] <- 1
+                      
+                    } else if (vaccine_code == "JAN03") {
+                      
+                      new_variable <- paste0(variable_name, "_after_jan")
+                      phenoDF[[new_variable]][pheno_id_i] <- 1
+                      
+                    }
+                  }
+                }
+              }
+            }
+          }
           
           
           # Corona menstruation
@@ -861,11 +1148,11 @@ for (folder in list.files(quesFolder)) {
               
               ids <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] != "JA"]
               
-              phenoDF[phenoDF$id %in% ids, variable] <- 1
+              phenoDF[[variable]][phenoDF$id %in% ids] <- 1
               
               ids <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] != "NEI"]
               
-              phenoDF[is.na(phenoDF[[variable]]) & phenoDF$id %in% ids, variable] <- 0
+              phenoDF[[variable]][is.na(phenoDF[[variable]]) & phenoDF$id %in% ids] <- 0
               
             }
           }
@@ -874,6 +1161,8 @@ for (folder in list.files(quesFolder)) {
     }
   }
 }
+
+stop("debug")
 
 if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
   

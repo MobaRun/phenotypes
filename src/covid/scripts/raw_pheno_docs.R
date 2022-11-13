@@ -709,7 +709,7 @@ for (fileName in list.files(sysvakFolder)) {
             
             savDocsFile = file.path(vaccinationRegistryDocsFolder, docsFileName)
             
-            tablesSubFolder <- file.path(tablesFolder, "sysvac")
+            tablesSubFolder <- file.path(tablesFolder, "sysvak")
             
             if (!file.exists(tablesSubFolder)) {
               
@@ -754,7 +754,7 @@ for (fileName in list.files(sysvakFolder)) {
             
             newName <- substr(fileName, 1, nchar(fileName) - 4)
             
-            tablesSubFolder <- file.path(tablesFolder, "sysvac")
+            tablesSubFolder <- file.path(tablesFolder, "sysvak")
             
             if (!file.exists(tablesSubFolder)) {
               
@@ -809,7 +809,7 @@ for (fileName in list.files(sysvakFolder)) {
         
         csvDocsFile = file.path(vaccinationRegistryDocsFolder, docsFileName)
         
-        tablesSubFolder <- file.path(tablesFolder, "sysvac")
+        tablesSubFolder <- file.path(tablesFolder, "sysvak")
         
         if (!file.exists(tablesSubFolder)) {
           
