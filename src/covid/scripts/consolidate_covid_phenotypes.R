@@ -1097,7 +1097,7 @@ for (folder in list.files(quesFolder)) {
                   }
                 }
                 
-                for (id_ja in ids_js) {
+                for (id_ja in ids_ja) {
                   
                   ques_i <- which(quesDF$id == id_ja)
                   ref_date <- as.Date(quesDF$fill_in_date[ques_i]/86400, origin = "1582-10-14")
