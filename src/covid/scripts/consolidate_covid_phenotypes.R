@@ -323,9 +323,9 @@ child_sysvak <- sysvak_table %>%
         id = paste0(!!sym(preg_id_column), "_", barn_nr)
       ) %>% 
       select(
-        id, !!sym(sysvak_id)
+        id, !!sym(kIdColumn)
       ),
-    by = sysvak_id
+    by = kIdColumn
   ) %>% 
   filter(
     !is.na(id)
@@ -340,9 +340,9 @@ mother_sysvak <- sysvak_table %>%
   left_join(
     mother_sysvak_id_mapping %>%
       select(
-        id = !!sym(mother_id_column), !!sym(sysvak_id)
+        id = !!sym(mother_id_column), !!sym(kIdColumn)
       ),
-    by = sysvak_id
+    by = kIdColumn
   ) %>% 
   filter(
     !is.na(id)
@@ -357,9 +357,9 @@ father_sysvak <- sysvak_table %>%
   left_join(
     father_sysvak_id_mapping %>%
       select(
-        id = !!sym(father_id_column), !!sym(sysvak_id)
+        id = !!sym(father_id_column), !!sym(kIdColumn)
       ),
-    by = sysvak_id
+    by = kIdColumn
   ) %>% 
   filter(
     !is.na(id)
