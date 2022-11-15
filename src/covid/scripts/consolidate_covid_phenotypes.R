@@ -980,8 +980,6 @@ for (folder in list.files(quesFolder)) {
             
             for (reaction in influenza_variables) {
               
-              variable <- paste0("influenza_vaccine_", reaction)
-              
               phenoDF[[variable]] <- ifelse(is.na(phenoDF[[variable]]) & phenoDF$id %in% vaccinated, 0, phenoDF[[variable]])
               
             }
