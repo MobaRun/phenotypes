@@ -424,7 +424,7 @@ for (variable in c(influenza_variables, covid_vaccination_variables, covid_vacci
   
 }
 
-for (variable in c(covid_vaccination_variables, covid_vaccination_menstruation_variables)) {
+for (variable in covid_vaccination_variables) {
   
   
   if (endsWith(variable, "_first_dose")) {
@@ -1009,10 +1009,13 @@ for (folder in list.files(quesFolder)) {
             
             if (question %in% names(quesDF)) {
               
+              ids_nei <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] == "NEI" & quesDF$id %in% phenoDF$id]
+              ids_ja <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] == "JA" & quesDF$id %in% phenoDF$id]
+              
+              phenoDF[[variable]][is.na(phenoDF[[variable]]) & phenoDF$id %in% ids_nei] <- 0
+              phenoDF[[variable]][phenoDF$id %in% ids_ja] <- 1
+              
               if (endsWith(variable, "_first_dose")) {
-                
-                ids_nei <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] == "NEI"]
-                ids_ja <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] == "JA"]
                 
                 variable_name <- substr(variable, 1, nchar(variable) - nchar("_first_dose"))
                 
@@ -1043,9 +1046,6 @@ for (folder in list.files(quesFolder)) {
                 
               } else if (endsWith(variable, "_last_dose")) {
                 
-                ids_nei <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] == "NEI" & quesDF$id %in% phenoDF$id]
-                ids_ja <- quesDF$id[!is.na(quesDF[[question]]) & quesDF[[question]] == "JA" & quesDF$id %in% phenoDF$id]
-                
                 variable_name <- substr(variable, 1, nchar(variable) - nchar("_last_dose"))
                 
                 for (id_nei in ids_nei) {
@@ -1069,28 +1069,52 @@ for (folder in list.files(quesFolder)) {
                     if (vaccine_code == "BNT03") {
                       
                       new_variable <- paste0(variable_name, "_after_bnt")
+                      
+                      if (is.na(phenoDF[[new_variable]][pheno_id_i])) {
+                      
                       phenoDF[[new_variable]][pheno_id_i] <- 0
+                      
+                      }
                       
                     } else if (vaccine_code == "MOD03") {
                       
                       new_variable <- paste0(variable_name, "_after_mod")
-                      phenoDF[[new_variable]][pheno_id_i] <- 0
+                      
+                      if (is.na(phenoDF[[new_variable]][pheno_id_i])) {
+                        
+                        phenoDF[[new_variable]][pheno_id_i] <- 0
+                        
+                      }
                       
                     } else if (vaccine_code == "ASZ03") {
                       
                       new_variable <- paste0(variable_name, "_after_asz")
-                      phenoDF[[new_variable]][pheno_id_i] <- 0
+                      
+                      if (is.na(phenoDF[[new_variable]][pheno_id_i])) {
+                        
+                        phenoDF[[new_variable]][pheno_id_i] <- 0
+                        
+                      }
                       
                     } else if (vaccine_code == "SIN03") {
                       
                       new_variable <- paste0(variable_name, "_after_sin")
-                      phenoDF[[new_variable]][pheno_id_i] <- 0
+                      
+                      if (is.na(phenoDF[[new_variable]][pheno_id_i])) {
+                        
+                        phenoDF[[new_variable]][pheno_id_i] <- 0
+                        
+                      }
                       
                     } else if (vaccine_code == "JAN03") {
                       
                       new_variable <- paste0(variable_name, "_after_jan")
-                      phenoDF[[new_variable]][pheno_id_i] <- 0
                       
+                      if (is.na(phenoDF[[new_variable]][pheno_id_i])) {
+                        
+                        phenoDF[[new_variable]][pheno_id_i] <- 0
+                        
+                      }
                     }
                   }
                 }
