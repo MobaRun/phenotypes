@@ -594,7 +594,7 @@ for (folder in list.files(quesFolder)) {
         
         if (file.exists(questionnaireFile)) {
           
-          print(glue("{Sys.time()} - Loading phenotypes from {questionnaireFile}"))
+          # print(glue("{Sys.time()} - Loading phenotypes from {questionnaireFile}"))
           
           quesDF <- read.table(
             file = questionnaireFile,
@@ -978,9 +978,9 @@ for (folder in list.files(quesFolder)) {
             
             vaccinated <- quesDF$id[!is.na(quesDF$kf2051) & quesDF$kf2051 == "JA"]
             
-            for (reaction in influenza_variables) {
+            for (variable in influenza_variables) {
               
-              phenoDF[[variable]] <- ifelse(is.na(phenoDF[[variable]]) & phenoDF$id %in% vaccinated, 0, phenoDF[[variable]])
+              phenoDF[[variable]][is.na(phenoDF[[variable]]) & phenoDF$id %in% vaccinated] <- 0
               
             }
           }
