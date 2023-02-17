@@ -98,7 +98,7 @@ sysvak_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/SYSVAK2
 child_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Barn_koblingsbro_2824.gz"
 mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Mor_koblingsbro_2824.gz"
 father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Far_koblingsbro_2824_.gz"
-covidTable <- "/mnt/work/marc/pheno_covid_22-11-01/covid"
+covidTable <- "/mnt/work/marc/pheno_covid_22-11-01/covid/moba_covid_phenotypes.gz"
 docsFolder <- "docs/covid/22-11-01/covid"
 mobaProjectNumber <- 2824
 
@@ -1195,8 +1195,6 @@ for (folder in list.files(quesFolder)) {
   }
 }
 
-stop("debug")
-
 if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
   
   stop("Duplicate sentrix id introduced during processing of covid questionnaires.")
@@ -1499,6 +1497,11 @@ for (longCovidPheno in names(longCovidPhenos)) {
       last_pheno_date = as.Date(!!sym(lastPheno)/86400, origin = "1582-10-14"),
       symptome_duration = as.numeric(last_pheno_date - msis_last_registered)
     )
+  
+  phenoShort <- paste0(longCovidPheno, "_short")
+  phenoLong <- paste0(longCovidPheno, "_long")
+  phenoDF[[phenoShort]] <- ifelse(phenoDF$symptome_duration < 90, 1, 0)
+  phenoDF[[phenoLong]] <- ifelse(phenoDF$symptome_duration >= 90, 1, 0)
   
   phenoDF$anySymptomShort[!is.na(phenoDF$msis_last_registered) & !is.na(phenoDF[[longCovidPheno]]) & phenoDF[[longCovidPheno]] == 1 & phenoDF$symptome_duration < 90] <- 1
   
