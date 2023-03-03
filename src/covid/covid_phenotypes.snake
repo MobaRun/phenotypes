@@ -13,7 +13,7 @@ import json
 ####################### Parameters ###########################################
 
 # Analysis
-suffix = '23-01-20'
+suffix = '23-03-03'
 moba_project_number = 2824
 
 # Genotypes files
