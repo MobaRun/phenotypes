@@ -79,28 +79,31 @@ child_msis_id_mapping_raw_table_path <- args[7]
 mother_msis_id_mapping_raw_table_path <- args[8]
 father_msis_id_mapping_raw_table_path <- args[9]
 sysvak_raw_table_path <- args[10]
-covidTable <- args[11]
-docsFolder <- args[12]
-mobaProjectNumber <- args[13]
+child_sysvak_id_mapping_raw_table_path <- args[11]
+mother_sysvak_id_mapping_raw_table_path <- args[12]
+father_sysvak_id_mapping_raw_table_path <- args[13]
+covidTable <- args[14]
+docsFolder <- args[15]
+mobaProjectNumber <- args[16]
 
 ### DEBUG
 
-rawTablesFolder <- "/mnt/work/marc/pheno_covid_22-11-01/raw"
-child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
-mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
-father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
-mfr_raw_table <- "/mnt/work/marc/pheno_covid_22-11-01/raw/moba_ques/PDB2824_MFR_541_v12.gz"
-msis_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/PDB2824_MSIS-data_MoBa.gz"
-child_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Barn_ID_2824_2021_11_17sav.gz"
-mother_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Mor_ID_2824_2021_11_17sav.gz"
-father_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Far_ID_2824_2021_11_17sav.gz"
-sysvak_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/SYSVAK210043_KOBLET_MOBA_01022022.gz"
-child_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Barn_koblingsbro_2824.gz"
-mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Mor_koblingsbro_2824.gz"
-father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Far_koblingsbro_2824_.gz"
-covidTable <- "/mnt/work/marc/pheno_covid_22-11-01/covid/moba_covid_phenotypes.gz"
-docsFolder <- "docs/covid/22-11-01/covid"
-mobaProjectNumber <- 2824
+# rawTablesFolder <- "/mnt/work/marc/pheno_covid_22-11-01/raw"
+# child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
+# mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
+# father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
+# mfr_raw_table <- "/mnt/work/marc/pheno_covid_22-11-01/raw/moba_ques/PDB2824_MFR_541_v12.gz"
+# msis_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/PDB2824_MSIS-data_MoBa.gz"
+# child_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Barn_ID_2824_2021_11_17sav.gz"
+# mother_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Mor_ID_2824_2021_11_17sav.gz"
+# father_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/msis/Far_ID_2824_2021_11_17sav.gz"
+# sysvak_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/SYSVAK210043_KOBLET_MOBA_01022022.gz"
+# child_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Barn_koblingsbro_2824.gz"
+# mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Mor_koblingsbro_2824.gz"
+# father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_22-11-01/raw/sysvac/2022_02_01_Far_koblingsbro_2824_.gz"
+# covidTable <- "/mnt/work/marc/pheno_covid_22-11-01/covid/moba_covid_phenotypes.gz"
+# docsFolder <- "docs/covid/22-11-01/covid"
+# mobaProjectNumber <- 2824
 
 ###
 
@@ -399,6 +402,8 @@ vaccination_table <- rbind(
 
 print(glue("{Sys.time()} - Setting up pheno table"))
 
+pheno_variable_to_question <- list()
+
 phenoDF <- idDF %>%
   mutate(
     sick_past_14_days = NA,
@@ -418,39 +423,64 @@ phenoDF <- idDF %>%
 
 # Effect of vaccines
 
-for (variable in c(influenza_variables, covid_vaccination_variables, covid_vaccination_menstruation_variables)) {
+for (i in 1:length(influenza_variables)) {
   
-  phenoDF[[variable]] <- NA
+  variable <- influenza_variables[i]
+  question <- influenza_questions[i]
+  
+  pheno_variable_to_question[[variable]] <- c(question)
+  
+}
+for (i in 1:length(covid_vaccination_variables)) {
+  
+  variable <- covid_vaccination_variables[i]
+  question <- covid_vaccination_questions[i]
+  
+  pheno_variable_to_question[[variable]] <- c(question)
+  
+}
+for (i in 1:length(covid_vaccination_menstruation_variables)) {
+  
+  variable <- covid_vaccination_menstruation_variables[i]
+  question <- covid_vaccination_menstruation_questions[i]
+  
+  pheno_variable_to_question[[variable]] <- c(question)
   
 }
 
-for (variable in covid_vaccination_variables) {
+for (original_variable in covid_vaccination_variables) {
   
-  
-  if (endsWith(variable, "_first_dose")) {
+  if (endsWith(original_variable, "_first_dose")) {
     
-    variable <- substr(variable, 1, nchar(variable) - nchar("_first_dose"))
+    variable <- substr(original_variable, 1, nchar(original_variable) - nchar("_first_dose"))
     
-  } else if (endsWith(variable, "_last_dose")) {
+  } else if (endsWith(original_variable, "_last_dose")) {
     
-    variable <- substr(variable, 1, nchar(variable) - nchar("_last_dose"))
+    variable <- substr(original_variable, 1, nchar(original_variable) - nchar("_last_dose"))
     
   }
   
+  pheno_variable_to_question[[variable]] <- unique(c(pheno_variable_to_question[[variable]], pheno_variable_to_question[[original_variable]]))
+  
   new_variable <- paste0(variable, "_after_bnt")
   phenoDF[[new_variable]] <- NA
+  pheno_variable_to_question[[new_variable]] <- unique(c(pheno_variable_to_question[[new_variable]], pheno_variable_to_question[[variable]]))
   
   new_variable <- paste0(variable, "_after_mod")
   phenoDF[[new_variable]] <- NA
+  pheno_variable_to_question[[new_variable]] <- unique(c(pheno_variable_to_question[[new_variable]], pheno_variable_to_question[[variable]]))
   
   new_variable <- paste0(variable, "_after_asz")
   phenoDF[[new_variable]] <- NA
+  pheno_variable_to_question[[new_variable]] <- unique(c(pheno_variable_to_question[[new_variable]], pheno_variable_to_question[[variable]]))
   
   new_variable <- paste0(variable, "_after_sin")
   phenoDF[[new_variable]] <- NA
+  pheno_variable_to_question[[new_variable]] <- unique(c(pheno_variable_to_question[[new_variable]], pheno_variable_to_question[[variable]]))
   
   new_variable <- paste0(variable, "_after_jan")
   phenoDF[[new_variable]] <- NA
+  pheno_variable_to_question[[new_variable]] <- unique(c(pheno_variable_to_question[[new_variable]], pheno_variable_to_question[[variable]]))
   
 }
 
@@ -478,6 +508,7 @@ longCovidPhenoImport <- function(
   if (!phenoLast %in% names(phenoDF)) {
     
     phenoDF[[phenoLast]] <- NA
+    pheno_variable_to_question[[phenoLast]] <- pheno_variable_to_question[[phenoName]]
     
   }
   
@@ -667,6 +698,7 @@ for (folder in list.files(quesFolder)) {
                 select(
                   -kf10
                 )
+              pheno_variable_to_question[["sick_past_14_days"]] <- unique(c(pheno_variable_to_question[["sick_past_14_days"]], "kf10"))
               
             }
             
@@ -712,6 +744,8 @@ for (folder in list.files(quesFolder)) {
               select(
                 -fill_in_date
               )
+            pheno_variable_to_question[["suspected_or_confirmed_covid_doctor_past_14_days"]] <- unique(c(pheno_variable_to_question[["suspected_or_confirmed_covid_doctor_past_14_days"]], "kf30"))
+            pheno_variable_to_question[["suspected_or_confirmed_covid_doctor_past_14_days_last_reported"]] <- unique(c(pheno_variable_to_question[["suspected_or_confirmed_covid_doctor_past_14_days_last_reported"]], "kf30"))
             
             if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
               
@@ -748,6 +782,8 @@ for (folder in list.files(quesFolder)) {
               select(
                 -fill_in_date
               )
+            pheno_variable_to_question[["tested_positive"]] <- unique(c(pheno_variable_to_question[["tested_positive"]], "kf41"))
+            pheno_variable_to_question[["tested_positive_last_reported"]] <- unique(c(pheno_variable_to_question[["tested_positive_last_reported"]], "kf41"))
             
             if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
               
@@ -810,6 +846,8 @@ for (folder in list.files(quesFolder)) {
                 select(
                   -kf165, -fill_in_date
                 )
+              pheno_variable_to_question[["tested_positive_pcr"]] <- unique(c(pheno_variable_to_question[["tested_positive_pcr"]], "kf165"))
+              pheno_variable_to_question[["tested_positive_pcr_last_reported"]] <- unique(c(pheno_variable_to_question[["tested_positive_pcr_last_reported"]], "kf165"))
             }
             
             if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
@@ -873,6 +911,8 @@ for (folder in list.files(quesFolder)) {
                 select(
                   -kf305, -fill_in_date
                 )
+              pheno_variable_to_question[["tested_positive_pcr"]] <- unique(c(pheno_variable_to_question[["tested_positive_pcr"]], "kf305"))
+              pheno_variable_to_question[["tested_positive_pcr_last_reported"]] <- unique(c(pheno_variable_to_question[["tested_positive_pcr_last_reported"]], "kf305"))
               
             }
             
@@ -937,6 +977,8 @@ for (folder in list.files(quesFolder)) {
                 select(
                   -kf166, -fill_in_date
                 )
+              pheno_variable_to_question[["tested_positive_ab"]] <- unique(c(pheno_variable_to_question[["tested_positive_ab"]], "kf166"))
+              pheno_variable_to_question[["tested_positive_ab_last_reported"]] <- unique(c(pheno_variable_to_question[["tested_positive_ab_last_reported"]], "kf166"))
               
             }
             
@@ -1465,6 +1507,20 @@ longCovidPhenos <- list(
   lung_function_reduced = "Lung function reduced (kf472)", 
   cough = "Cough (kf471)"
 )
+pheno_variable_to_question[["reduced_smell_taste"]] <- unique(c(pheno_variable_to_question[["reduced_smell_taste"]], "kf120"))
+pheno_variable_to_question[["brain_fog"]] <- unique(c(pheno_variable_to_question[["brain_fog"]], "kf480"))
+pheno_variable_to_question[["poor_memory"]] <- unique(c(pheno_variable_to_question[["poor_memory"]], "kf481"))
+pheno_variable_to_question[["dizziness"]] <- unique(c(pheno_variable_to_question[["dizziness"]], "kf479"))
+pheno_variable_to_question[["heart_palpitation"]] <- unique(c(pheno_variable_to_question[["heart_palpitation"]], "kf476"))
+pheno_variable_to_question[["fatigue"]] <- unique(c(pheno_variable_to_question[["fatigue"]], "kf468"))
+pheno_variable_to_question[["headache"]] <- unique(c(pheno_variable_to_question[["headache"]], "kf484"))
+pheno_variable_to_question[["skin_rash"]] <- unique(c(pheno_variable_to_question[["skin_rash"]], "kf487"))
+pheno_variable_to_question[["anxiety"]] <- unique(c(pheno_variable_to_question[["anxiety"]], "kf486"))
+pheno_variable_to_question[["altered_smell_taste"]] <- unique(c(pheno_variable_to_question[["altered_smell_taste"]], "kf489"))
+pheno_variable_to_question[["chest_pain"]] <- unique(c(pheno_variable_to_question[["chest_pain"]], "kf475"))
+pheno_variable_to_question[["shortness_breath"]] <- unique(c(pheno_variable_to_question[["shortness_breath"]], "kf470"))
+pheno_variable_to_question[["lung_function_reduced"]] <- unique(c(pheno_variable_to_questioncough, "kf472"))
+pheno_variable_to_question[["cough"]] <- unique(c(pheno_variable_to_question[["reduced_smell_taste"]], "kf471"))
 
 longCovidFactorWeights <- data.frame(
   brain_fog = c(0.952392278245466, -0.108327867721912), 
@@ -1487,8 +1543,11 @@ phenoDF$anySymptomLong <- 0
 phenoDF$long_covid_factor1 <- 0
 phenoDF$long_covid_factor2 <- 0
 
+long_covid_questions <- c()
 
 for (longCovidPheno in names(longCovidPhenos)) {
+  
+  long_covid_questions <- c(long_covid_questions, pheno_variable_to_question[[longCovidPheno]])
   
   lastPheno <- paste0(longCovidPheno, "_last_reported")
   
@@ -1502,6 +1561,9 @@ for (longCovidPheno in names(longCovidPhenos)) {
   phenoLong <- paste0(longCovidPheno, "_long")
   phenoDF[[phenoShort]] <- ifelse(phenoDF$symptome_duration < 90, 1, 0)
   phenoDF[[phenoLong]] <- ifelse(phenoDF$symptome_duration >= 90, 1, 0)
+  
+  pheno_variable_to_question[[phenoShort]] <- unique(c(pheno_variable_to_question[[phenoShort]], pheno_variable_to_question[[longCovidPheno]]))
+  pheno_variable_to_question[[phenoLong]] <- unique(c(pheno_variable_to_question[[phenoLong]], pheno_variable_to_question[[longCovidPheno]]))
   
   phenoDF$anySymptomShort[!is.na(phenoDF$msis_last_registered) & !is.na(phenoDF[[longCovidPheno]]) & phenoDF[[longCovidPheno]] == 1 & phenoDF$symptome_duration < 90] <- 1
   
@@ -1521,6 +1583,13 @@ for (longCovidPheno in names(longCovidPhenos)) {
     )
 }
 
+long_covid_questions <- unique(long_covid_questions)
+
+pheno_variable_to_question[["anySymptomShort"]] <- long_covid_questions
+pheno_variable_to_question[["anySymptomLong"]] <- long_covid_questions
+pheno_variable_to_question[["long_covid_factor1"]] <- long_covid_questions
+pheno_variable_to_question[["long_covid_factor2"]] <- long_covid_questions
+
 phenoDF <- phenoDF %>% 
   mutate(
     long_covid_vs_recovered = ifelse(!is.na(msis_last_registered), 0, NA),
@@ -1529,17 +1598,30 @@ phenoDF <- phenoDF %>%
     long_covid_factor1_vs_recovered = ifelse(!is.na(long_covid_vs_recovered) & long_covid_vs_recovered == 1, long_covid_factor1, long_covid_vs_recovered),
     long_covid_factor2_vs_recovered = ifelse(!is.na(long_covid_vs_recovered) & long_covid_vs_recovered == 1, long_covid_factor2, long_covid_vs_recovered)
   )
+pheno_variable_to_question[["long_covid_vs_recovered"]] <- long_covid_questions
+pheno_variable_to_question[["long_covid_vs_population"]] <- long_covid_questions
+pheno_variable_to_question[["long_covid_factor1_vs_recovered"]] <- long_covid_questions
+pheno_variable_to_question[["long_covid_factor2_vs_recovered"]] <- long_covid_questions
 
 
-# Write long covid docs
+# Variables mapping
 
-print(glue("{Sys.time()} - Saving long covid docs"))
-
-writeLongCovidDocs(
-  longCovidDocsFolder = longCovidDocsFolder,
-  longCovidDocsFile = longCovidDocsFile,
-  phenoDF = phenoDF
+variablesDF <- data.frame(
+  name = character(length(pheno_variable_to_question)),
+  question = character(length(pheno_variable_to_question)),
+  stringsAsFactors = F
 )
+
+for (i in 1:length(pheno_variable_to_question)) {
+  
+  variable <- names(pheno_variable_to_question)[i]
+  questions <- pheno_variable_to_question[[variable]]
+  questionsString <- paste(questions, collapse = ",")
+  
+  variablesDF$name[i] <- variable
+  variablesDF$question[i] <- questionsString
+  
+}
 
 
 # Save to file
@@ -1554,3 +1636,24 @@ write.table(
   row.names = F,
   quote = F
 )
+
+write.table(
+  x = variablesDF,
+  file = gzfile(file.path(docsFolder, "variable_to_question.gz")),
+  sep = "\t",
+  col.names = T,
+  row.names = F,
+  quote = F
+)
+
+
+# Write long covid docs
+
+print(glue("{Sys.time()} - Writing long covid documentation"))
+
+writeLongCovidDocs(
+  longCovidDocsFolder = longCovidDocsFolder,
+  longCovidDocsFile = longCovidDocsFile,
+  phenoDF = phenoDF
+)
+

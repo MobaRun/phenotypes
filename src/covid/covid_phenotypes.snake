@@ -54,6 +54,10 @@ msis_raw_table = os.path.join(raw_tables_folder, 'msis', f'PDB{moba_project_numb
 child_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'msis', f'Barn_ID_{moba_project_number}_2021_11_17sav.gz')
 mother_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'msis', f'Mor_ID_{moba_project_number}_2021_11_17sav.gz')
 father_msis_id_mapping_raw_table = os.path.join(raw_tables_folder, 'msis', f'Far_ID_{moba_project_number}_2021_11_17sav.gz')
+sysvak_raw_table = os.path.join(raw_tables_folder, 'sysvac', f'SYSVAK210043_KOBLET_MOBA_01022022.gz')
+child_sysvak_id_mapping_raw_table = os.path.join(raw_tables_folder, 'sysvac', f'2022_02_01_Barn_koblingsbro_{moba_project_number}.gz')
+mother_sysvak_id_mapping_raw_table = os.path.join(raw_tables_folder, 'sysvac', f'2022_02_01_Mor_koblingsbro_{moba_project_number}.gz')
+father_sysvak_id_mapping_raw_table = os.path.join(raw_tables_folder, 'sysvac', f'2022_02_01_Far_koblingsbro_{moba_project_number}_.gz')
 child_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Child_PDB{moba_project_number}.gz')
 mother_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Mother_PDB{moba_project_number}.gz')
 father_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Father_PDB{moba_project_number}.gz')
@@ -145,6 +149,10 @@ rule consolidate_covid_pheno:
         child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
         mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
         father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table,
+        sysvak_raw_table_path = sysvak_raw_table,
+        child_sysvak_id_mapping_raw_table_path = child_sysvak_id_mapping_raw_table,
+        mother_sysvak_id_mapping_raw_table_path = mother_sysvak_id_mapping_raw_table,
+        father_sysvak_id_mapping_raw_table_path = father_sysvak_id_mapping_raw_table,
     params:
         moba_project_number = moba_project_number,
         covid_docs_folder = covid_docs_folder,
@@ -166,6 +174,10 @@ rule consolidate_covid_pheno:
             {input.child_msis_id_mapping_raw_table} \
             {input.mother_msis_id_mapping_raw_table} \
             {input.father_msis_id_mapping_raw_table} \
+            {input.sysvak_raw_table_path} \
+            {input.child_sysvak_id_mapping_raw_table_path} \
+            {input.mother_sysvak_id_mapping_raw_table_path} \
+            {input.father_sysvak_id_mapping_raw_table_path} \
             {output.covid_table} \
             {params.covid_docs_folder} \
             {params.moba_project_number}
