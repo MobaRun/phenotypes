@@ -450,6 +450,8 @@ for (i in 1:length(covid_vaccination_menstruation_variables)) {
 
 for (original_variable in covid_vaccination_variables) {
   
+  phenoDF[[original_variable]] <- NA
+  
   if (endsWith(original_variable, "_first_dose")) {
     
     variable <- substr(original_variable, 1, nchar(original_variable) - nchar("_first_dose"))
