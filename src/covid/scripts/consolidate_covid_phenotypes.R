@@ -97,7 +97,7 @@ msis_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/PDB2824_MSI
 child_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Barn_ID_2824_2021_11_17sav.gz"
 mother_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Mor_ID_2824_2021_11_17sav.gz"
 father_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Far_ID_2824_2021_11_17sav.gz"
-sysvak_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvac/SYSVAK210043_KOBLET_MOBA_01022022.gz"
+sysvak_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/SYSVAK210043_KOBLET_MOBA_01022022.gz"
 child_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Barn_koblingsbro_2824.gz"
 mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Mor_koblingsbro_2824.gz"
 father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Far_koblingsbro_2824_.gz"
