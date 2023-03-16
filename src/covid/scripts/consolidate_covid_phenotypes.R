@@ -69,22 +69,22 @@ tryCatch(
 # Paths from command line
 args <- commandArgs(TRUE)
 
-rawTablesFolder <- args[1]
-child_id_linkage_raw_table_path <- args[2]
-mother_id_linkage_raw_table_path <- args[3]
-father_id_linkage_raw_table_path <- args[4]
-mfr_raw_table <- args[5]
-msis_raw_table_path <- args[6]
-child_msis_id_mapping_raw_table_path <- args[7]
-mother_msis_id_mapping_raw_table_path <- args[8]
-father_msis_id_mapping_raw_table_path <- args[9]
-sysvak_raw_table_path <- args[10]
-child_sysvak_id_mapping_raw_table_path <- args[11]
-mother_sysvak_id_mapping_raw_table_path <- args[12]
-father_sysvak_id_mapping_raw_table_path <- args[13]
-covidTable <- args[14]
-docsFolder <- args[15]
-mobaProjectNumber <- args[16]
+# rawTablesFolder <- args[1]
+# child_id_linkage_raw_table_path <- args[2]
+# mother_id_linkage_raw_table_path <- args[3]
+# father_id_linkage_raw_table_path <- args[4]
+# mfr_raw_table <- args[5]
+# msis_raw_table_path <- args[6]
+# child_msis_id_mapping_raw_table_path <- args[7]
+# mother_msis_id_mapping_raw_table_path <- args[8]
+# father_msis_id_mapping_raw_table_path <- args[9]
+# sysvak_raw_table_path <- args[10]
+# child_sysvak_id_mapping_raw_table_path <- args[11]
+# mother_sysvak_id_mapping_raw_table_path <- args[12]
+# father_sysvak_id_mapping_raw_table_path <- args[13]
+# covidTable <- args[14]
+# docsFolder <- args[15]
+# mobaProjectNumber <- args[16]
 
 ### DEBUG
 
