@@ -99,7 +99,8 @@ rule all:
     input:
         child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
         mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
-        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table
+        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table,
+        covid_table= covid_table
 
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
