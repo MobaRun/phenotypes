@@ -428,6 +428,7 @@ for (i in 1:length(influenza_variables)) {
   variable <- influenza_variables[i]
   question <- influenza_questions[i]
   
+  phenoDF[[variable]] <- NA
   pheno_variable_to_question[[variable]] <- c(question)
   
 }
@@ -436,6 +437,7 @@ for (i in 1:length(covid_vaccination_variables)) {
   variable <- covid_vaccination_variables[i]
   question <- covid_vaccination_questions[i]
   
+  phenoDF[[variable]] <- NA
   pheno_variable_to_question[[variable]] <- c(question)
   
 }
@@ -444,6 +446,7 @@ for (i in 1:length(covid_vaccination_menstruation_variables)) {
   variable <- covid_vaccination_menstruation_variables[i]
   question <- covid_vaccination_menstruation_questions[i]
   
+  phenoDF[[variable]] <- NA
   pheno_variable_to_question[[variable]] <- c(question)
   
 }
