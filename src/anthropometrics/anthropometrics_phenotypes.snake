@@ -167,94 +167,94 @@ rule raw_pheno:
 #     input:
 #         kinship_file
 
-
-rule anthropometrics_raw_cleaning:
-    'Organizes the anthropometric traits and related in separate tables and runs initial cleaning'
-    input:
-        child_id_linkage_raw_table = child_id_linkage_raw_table,
-        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
-        father_id_linkage_raw_table = father_id_linkage_raw_table,
-        mfr_raw_table = mfr_raw_table,
-        q1m_table = q1m_table,
-        q1f_table = q1f_table,
-        #q2_table = q2_table,
-        q3_table = q3_table,
-        q4_table = q4_table,
-        q5_table = q5_table,
-        q6_table = q6_table,
-        q7_table = q7_table,
-        q8_table = q8_table,
-        q9_table = q9_table,
-        skjemaKostUngdom_table = skjemaKostUngdom_table
-    params:
-        fam_file = fam_file,
-        # unrelated_children_ids_file = unrelated_children_ids_file,
-        tables_folder = tables_folder,
-        qc_folder = qc_folder,
-        moba_project_number = moba_project_number
-    output:
-         ids_table = os.path.join(tables_folder, "ids.gz"),
-         pregnancy_table = os.path.join(tables_folder, "pregnancy.gz"),
-         delivery_table = os.path.join(tables_folder, "delivery.gz"),
-         pregnancy_nutrition_table = os.path.join(tables_folder, "pregnancy_nutrition.gz"),
-         mother_nutrition_table = os.path.join(tables_folder, "mother_nutrition.gz"),
-         child_nutrition_table = os.path.join(tables_folder, "child_nutrition.gz"),
-         child_table = os.path.join(tables_folder, "child.gz"),
-         child_health_table = os.path.join(tables_folder, "child_health.gz"),
-         parents_table = os.path.join(tables_folder, "parents.gz"),
-         mother_health_table = os.path.join(tables_folder, "mother_health.gz"),
-         father_health_table = os.path.join(tables_folder, "father_health.gz"),
-         child_anthropometrics_raw_table = os.path.join(tables_folder, "child_anthropometrics_raw.gz")
-    conda:
-        "envs/r_anthropometrics.yaml"
-    threads: 1
-    shell:
-        """
-        Rscript src/anthropometrics/scripts/utils/raw-cleaning.R \
-            {input.child_id_linkage_raw_table} \
-            {input.mother_id_linkage_raw_table} \
-            {input.father_id_linkage_raw_table} \
-            {params.fam_file} \
-            {params.unrelated_children_ids_file} \
-            {input.mfr_raw_table} \
-            {input.q1m_table} \
-            {input.q1f_table} \
-            "" \
-            {input.q3_table} \
-            {input.q4_table} \
-            {input.q5_table} \
-            {input.q6_table} \
-            {input.q7_table} \
-            {input.q8_table} \
-            {input.q9_table} \
-            {input.skjemaKostUngdom_table} \
-            {params.tables_folder} \
-            {params.qc_folder} \
-            {params.moba_project_number}
-        """
-
-rule growth_cleaning:
-    'Removes outliers and imputes missing values'
-    input:
-        child_anthropometrics_raw_table = os.path.join(tables_folder, "child_anthropometrics_raw.gz")
-    params:
-        tables_folder = tables_folder,
-        qc_folder = qc_folder,
-        moba_project_number = moba_project_number,
-        release_name = suffix
-    output:
-        child_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics.gz")
-    conda:
-        "envs/r_anthropometrics.yaml"
-    threads: 1
-    shell:
-        """
-        Rscript src/anthropometrics/scripts/utils/lw-cleaning.R \
-            {params.tables_folder} \
-            {params.qc_folder} \
-            {params.moba_project_number} \
-            {params.release_name}
-        """
-
-
+#
+# rule anthropometrics_raw_cleaning:
+#     'Organizes the anthropometric traits and related in separate tables and runs initial cleaning'
+#     input:
+#         child_id_linkage_raw_table = child_id_linkage_raw_table,
+#         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
+#         father_id_linkage_raw_table = father_id_linkage_raw_table,
+#         mfr_raw_table = mfr_raw_table,
+#         q1m_table = q1m_table,
+#         q1f_table = q1f_table,
+#         #q2_table = q2_table,
+#         q3_table = q3_table,
+#         q4_table = q4_table,
+#         q5_table = q5_table,
+#         q6_table = q6_table,
+#         q7_table = q7_table,
+#         q8_table = q8_table,
+#         q9_table = q9_table,
+#         skjemaKostUngdom_table = skjemaKostUngdom_table
+#     params:
+#         fam_file = fam_file,
+#         # unrelated_children_ids_file = unrelated_children_ids_file,
+#         tables_folder = tables_folder,
+#         qc_folder = qc_folder,
+#         moba_project_number = moba_project_number
+#     output:
+#          ids_table = os.path.join(tables_folder, "ids.gz"),
+#          pregnancy_table = os.path.join(tables_folder, "pregnancy.gz"),
+#          delivery_table = os.path.join(tables_folder, "delivery.gz"),
+#          pregnancy_nutrition_table = os.path.join(tables_folder, "pregnancy_nutrition.gz"),
+#          mother_nutrition_table = os.path.join(tables_folder, "mother_nutrition.gz"),
+#          child_nutrition_table = os.path.join(tables_folder, "child_nutrition.gz"),
+#          child_table = os.path.join(tables_folder, "child.gz"),
+#          child_health_table = os.path.join(tables_folder, "child_health.gz"),
+#          parents_table = os.path.join(tables_folder, "parents.gz"),
+#          mother_health_table = os.path.join(tables_folder, "mother_health.gz"),
+#          father_health_table = os.path.join(tables_folder, "father_health.gz"),
+#          child_anthropometrics_raw_table = os.path.join(tables_folder, "child_anthropometrics_raw.gz")
+#     conda:
+#         "envs/r_anthropometrics.yaml"
+#     threads: 1
+#     shell:
+#         """
+#         Rscript src/anthropometrics/scripts/utils/raw-cleaning.R \
+#             {input.child_id_linkage_raw_table} \
+#             {input.mother_id_linkage_raw_table} \
+#             {input.father_id_linkage_raw_table} \
+#             {params.fam_file} \
+#             {params.unrelated_children_ids_file} \
+#             {input.mfr_raw_table} \
+#             {input.q1m_table} \
+#             {input.q1f_table} \
+#             "" \
+#             {input.q3_table} \
+#             {input.q4_table} \
+#             {input.q5_table} \
+#             {input.q6_table} \
+#             {input.q7_table} \
+#             {input.q8_table} \
+#             {input.q9_table} \
+#             {input.skjemaKostUngdom_table} \
+#             {params.tables_folder} \
+#             {params.qc_folder} \
+#             {params.moba_project_number}
+#         """
+#
+# rule growth_cleaning:
+#     'Removes outliers and imputes missing values'
+#     input:
+#         child_anthropometrics_raw_table = os.path.join(tables_folder, "child_anthropometrics_raw.gz")
+#     params:
+#         tables_folder = tables_folder,
+#         qc_folder = qc_folder,
+#         moba_project_number = moba_project_number,
+#         release_name = suffix
+#     output:
+#         child_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics.gz")
+#     conda:
+#         "envs/r_anthropometrics.yaml"
+#     threads: 1
+#     shell:
+#         """
+#         Rscript src/anthropometrics/scripts/utils/lw-cleaning.R \
+#             {params.tables_folder} \
+#             {params.qc_folder} \
+#             {params.moba_project_number} \
+#             {params.release_name}
+#         """
+#
+#
 
