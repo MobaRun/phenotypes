@@ -56,8 +56,8 @@ skjema6_3aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_pr
 skjema5aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema5aar_v12.gz')
 skjema7aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema7aar_v12.gz')
 skjema8aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema8aar_v12.gz')
-ungdomsskjema_barn_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Barn_v12.gz')
-ungdomsskjema_mor_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Mor_v12.gz')
+ungdomsskjema_barn_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Barn_v12_standard.gz')
+ungdomsskjema_mor_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Mor_v12_standard.gz')
 kosthold_ungdom_beregnet_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Kosthold_ungdom_beregnet_v12.gz')
 kosthold_ungdom_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Kosthold_ungdom_v12.gz')
 
