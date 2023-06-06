@@ -69,41 +69,41 @@ tryCatch(
 # Paths from command line
 args <- commandArgs(TRUE)
 
-# rawTablesFolder <- args[1]
-# child_id_linkage_raw_table_path <- args[2]
-# mother_id_linkage_raw_table_path <- args[3]
-# father_id_linkage_raw_table_path <- args[4]
-# mfr_raw_table <- args[5]
-# msis_raw_table_path <- args[6]
-# child_msis_id_mapping_raw_table_path <- args[7]
-# mother_msis_id_mapping_raw_table_path <- args[8]
-# father_msis_id_mapping_raw_table_path <- args[9]
-# sysvak_raw_table_path <- args[10]
-# child_sysvak_id_mapping_raw_table_path <- args[11]
-# mother_sysvak_id_mapping_raw_table_path <- args[12]
-# father_sysvak_id_mapping_raw_table_path <- args[13]
-# covidTable <- args[14]
-# docsFolder <- args[15]
-# mobaProjectNumber <- args[16]
+rawTablesFolder <- args[1]
+child_id_linkage_raw_table_path <- args[2]
+mother_id_linkage_raw_table_path <- args[3]
+father_id_linkage_raw_table_path <- args[4]
+mfr_raw_table <- args[5]
+msis_raw_table_path <- args[6]
+child_msis_id_mapping_raw_table_path <- args[7]
+mother_msis_id_mapping_raw_table_path <- args[8]
+father_msis_id_mapping_raw_table_path <- args[9]
+sysvak_raw_table_path <- args[10]
+child_sysvak_id_mapping_raw_table_path <- args[11]
+mother_sysvak_id_mapping_raw_table_path <- args[12]
+father_sysvak_id_mapping_raw_table_path <- args[13]
+covidTable <- args[14]
+docsFolder <- args[15]
+mobaProjectNumber <- args[16]
 
 ### DEBUG
 
-rawTablesFolder <- "/mnt/work/marc/pheno_covid_23-03-03/raw"
-child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
-mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
-father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
-mfr_raw_table <- "/mnt/work/marc/pheno_covid_23-03-03/raw/moba_ques/PDB2824_MFR_541_v12.gz"
-msis_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/PDB2824_MSIS-data_MoBa.gz"
-child_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Barn_ID_2824_2021_11_17sav.gz"
-mother_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Mor_ID_2824_2021_11_17sav.gz"
-father_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Far_ID_2824_2021_11_17sav.gz"
-sysvak_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/SYSVAK210043_KOBLET_MOBA_01022022.gz"
-child_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Barn_koblingsbro_2824.gz"
-mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Mor_koblingsbro_2824.gz"
-father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Far_koblingsbro_2824_.gz"
-covidTable <- "/mnt/work/marc/pheno_covid_23-03-03/covid/moba_covid_phenotypes.gz"
-docsFolder <- "docs/covid/23-03-03/covid"
-mobaProjectNumber <- 2824
+# rawTablesFolder <- "/mnt/work/marc/pheno_covid_23-03-03/raw"
+# child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
+# mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
+# father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
+# mfr_raw_table <- "/mnt/work/marc/pheno_covid_23-03-03/raw/moba_ques/PDB2824_MFR_541_v12.gz"
+# msis_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/PDB2824_MSIS-data_MoBa.gz"
+# child_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Barn_ID_2824_2021_11_17sav.gz"
+# mother_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Mor_ID_2824_2021_11_17sav.gz"
+# father_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Far_ID_2824_2021_11_17sav.gz"
+# sysvak_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/SYSVAK210043_KOBLET_MOBA_01022022.gz"
+# child_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Barn_koblingsbro_2824.gz"
+# mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Mor_koblingsbro_2824.gz"
+# father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Far_koblingsbro_2824_.gz"
+# covidTable <- "/mnt/work/marc/pheno_covid_23-03-03/covid/moba_covid_phenotypes.gz"
+# docsFolder <- "docs/covid/23-03-03/covid"
+# mobaProjectNumber <- 2824
 
 ###
 
@@ -1420,7 +1420,7 @@ idMappingDF <- read.table(
   ) %>% 
   select(
     temp_id,
-    !!kIdColumn := msisIdColumn
+    !!kIdColumn := all_of(msisIdColumn)
   )
 
 msisDF <- msisDF %>% 
@@ -1524,7 +1524,7 @@ pheno_variable_to_question[["anxiety"]] <- unique(c(pheno_variable_to_question[[
 pheno_variable_to_question[["altered_smell_taste"]] <- unique(c(pheno_variable_to_question[["altered_smell_taste"]], "kf489"))
 pheno_variable_to_question[["chest_pain"]] <- unique(c(pheno_variable_to_question[["chest_pain"]], "kf475"))
 pheno_variable_to_question[["shortness_breath"]] <- unique(c(pheno_variable_to_question[["shortness_breath"]], "kf470"))
-pheno_variable_to_question[["lung_function_reduced"]] <- unique(c(pheno_variable_to_questioncough, "kf472"))
+pheno_variable_to_question[["lung_function_reduced"]] <- unique(c(pheno_variable_to_question[["cough"]], "kf472"))
 pheno_variable_to_question[["cough"]] <- unique(c(pheno_variable_to_question[["reduced_smell_taste"]], "kf471"))
 
 longCovidFactorWeights <- data.frame(
