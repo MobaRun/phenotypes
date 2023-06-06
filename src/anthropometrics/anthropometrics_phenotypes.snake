@@ -17,7 +17,7 @@ import json
 
 # Analysis
 suffix = '23-05-28'
-moba_project_number = 2824
+moba_project_number = 315
 moba_linkage_relase_date = "20221228"
 
 # Files relating to the genotypes

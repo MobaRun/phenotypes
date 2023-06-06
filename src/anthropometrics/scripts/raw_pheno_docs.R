@@ -1,9 +1,9 @@
 
 ##
 #
-# This script installs the p
+# This script processes the raw .sav files, converts them to tables, and exports some documentation.
 #
-# Requires R 4.x.x, run in conda R_4.1.
+# Expected to run in R 4.2 with all dependencies installed. Use conda `envs/r_anthropometrics.yaml`.
 # Execute from the root of the repo.
 #
 ##
