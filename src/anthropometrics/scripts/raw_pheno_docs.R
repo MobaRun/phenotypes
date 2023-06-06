@@ -21,7 +21,13 @@ library(dplyr)
 library(janitor)
 
 
+# Avoid namespace conflicts
+
+conflicts_prefer(dplyr::filter)
+
+
 # Paths from command line
+
 args <- commandArgs(TRUE)
 
 linkageFolder <- args[1]
@@ -29,6 +35,7 @@ mobaQuesFolder <- args[2]
 tablesFolder <- args[3]
 docsFolder <- args[4]
 projectNumber <- args[5]
+
 
 # Docs
 docsFile <- file.path(docsFolder, "data.md")
