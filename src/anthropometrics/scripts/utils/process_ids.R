@@ -12,14 +12,19 @@ set.seed(123456)
 library(dplyr)
 
 
-# Parameters
+# Command line parameters
 
-kinship_file <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc-rel.kin"
-linkage_child <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz"
-linkage_mother <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz"
-linkage_father <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz"
-id_folder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/id"
-project_number <- 315
+args <- commandArgs(TRUE)
+
+kinship_file <- args[1]
+linkage_child <- args[2]
+linkage_mother <- args[3]
+linkage_father <- args[4]
+id_folder <- args[5]
+project_number <- args[6]
+
+
+# Parameters
 
 preg_id_column <- paste0("PREG_ID_", project_number)
 mother_id_column <- paste0("M_ID_", project_number)

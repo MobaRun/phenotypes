@@ -26,7 +26,7 @@ library(janitor)
 conflicts_prefer(dplyr::filter)
 
 
-# Paths from command line
+# Command line parameters
 
 args <- commandArgs(TRUE)
 
