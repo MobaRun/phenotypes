@@ -40,6 +40,7 @@ raw_tables_folder = f"{tables_folder}/raw"
 
 # Raw pheno tables
 mfr_541_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_MFR_541_v12.gz')
+far_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_SkjemaFar_v12.gz')
 far2_barn_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Far2_Barn_V12.gz')
 far2_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Far2_V12.gz')
 skjema1_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema1_v12.gz')
@@ -55,7 +56,6 @@ skjema6_3aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_pr
 skjema5aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema5aar_v12.gz')
 skjema7aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema7aar_v12.gz')
 skjema8aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema8aar_v12.gz')
-skjemaFar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_SkjemaFar_v12.gz')
 ungdomsskjema_barn_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Barn_v12.gz')
 ungdomsskjema_mor_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Mor_v12.gz')
 kosthold_ungdom_beregnet_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Kosthold_ungdom_beregnet_v12.gz')
