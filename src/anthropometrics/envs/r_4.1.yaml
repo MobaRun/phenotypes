@@ -1,5 +1,0 @@
-name: r_4.1
-channels:
- - r
-dependencies:
- - r=4.1
