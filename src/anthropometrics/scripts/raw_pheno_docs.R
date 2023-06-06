@@ -8,39 +8,17 @@
 #
 ##
 
-# Libararies
 
-library <- "~/R/R_4.1"
+# Libararies, should be available via the conda environment
 
-# This randomly fails the first time but not the second, seems to be an error in the latest R versions
-
-loadLibraries <- function() {
-  
-    library(memoise, lib.loc = library)
-    library(conflicted, lib.loc = library)
-    library(foreign, lib.loc = library)
-    library(stringr, lib.loc = library)
-    library(glue, lib.loc = library)
-    library(crayon, lib.loc = library)
-    library(tidyr, lib.loc = library)
-    library(dplyr, lib.loc = library)
-    library(janitor, lib.loc = library)
-    
-}
-
-tryCatch(
-    {
-        
-        loadLibraries()
-        
-    }, error = function(error_condition) {
-        
-        loadLibraries()
-        
-    }
-)
-
-conflict_prefer("filter", "dplyr")
+library(conflicted)
+library(foreign)
+library(stringr)
+library(glue)
+library(crayon)
+library(tidyr)
+library(dplyr)
+library(janitor)
 
 
 # Paths from command line
