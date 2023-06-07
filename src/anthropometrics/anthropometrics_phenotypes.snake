@@ -28,7 +28,6 @@ kinship_file = "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v
 
 # Raw phenotype files
 linkage_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/linkage"
-id_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/id"
 moba_phenotypes_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/phenotypes"
 
 # Docs folders
@@ -40,6 +39,7 @@ tables_folder = f"/mnt/archive/moba/pheno/v12/pheno_anthropometrics_{suffix}"
 raw_tables_folder = f"{tables_folder}/raw"
 
 # Identifiers tables
+id_folder = f"{tables_folder}/id"
 child_id_table = f"{id_folder}/children_id"
 unrelated_child_id_table = f"{id_folder}/child_id_unrelated"
 

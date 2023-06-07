@@ -36,11 +36,11 @@ father_id_column <- paste0("F_ID_", project_number)
 # This function takes a data frame of identifiers and exports lists of ids and related ids.
 ##
 process_ids <- function(
-linkage_table,
-relatedness_df,
-fam_id_df,
-export_folder,
-file_name
+    linkage_table,
+    relatedness_df,
+    fam_id_df,
+    export_folder,
+    file_name
 ) {
   
   print(paste0(Sys.time(), " - Processing ", file_name))
@@ -58,6 +58,9 @@ file_name
       pheno_id = id,
       family_id = fid
     )
+  
+  # Quick and dirty way to extract unrelated individuals. 
+  # @TODO: refactor using the igraph implementation
 
   indexes <- c()
   related_ids <- c()
@@ -68,7 +71,7 @@ file_name
 
     progress <- round(100 * i / nrow(identifiers))
 
-    if (progress > last_progress) {
+    if (progress > last_progress + 10) {
 
       print(paste0(Sys.time(), " - Processing ", file_name, ": ", progress, " %"))
 
