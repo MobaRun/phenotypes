@@ -8,61 +8,21 @@ print(paste0(Sys.time(), " - Organize phenotypes in a clean table and write docu
 
 
 
-# Libraries
+# Libararies, need to be available via the conda environment
 
-libFolder <- "~/R/R_4.1"
+library(conflicted)
+library(foreign)
+library(stringr)
+library(glue)
+library(crayon)
+library(tidyr)
+library(dplyr)
+library(janitor)
 
-# This randomly fails the first time but not the second, seems to be an error in the latest R versions
 
-loadLibraries <- function() {
-  
-  library(cli, lib = libFolder)
-  library(memoise, lib = libFolder)
-  library(isoband, lib = libFolder)
-  library(farver, lib = libFolder)
-  library(ellipsis, lib = libFolder)
-  library(scales, lib = libFolder)
-  library(backports, lib = libFolder)
-  library(vctrs, lib = libFolder)
-  library(crayon, lib = libFolder)
-  library(tidyr, lib = libFolder)
-  library(dplyr, lib = libFolder)
-  library(MASS, lib = libFolder)
-  library(gamlss.data, lib = libFolder)
-  library(gamlss.dist, lib = libFolder)
-  library(nlme, lib = libFolder)
-  library(gamlss, lib = libFolder)
-  library(withr, lib = libFolder)
-  library(labeling, lib = libFolder)
-  library(digest, lib = libFolder)
-  library(reshape2, lib = libFolder)
-  library(ggplot2, lib = libFolder)
-  library(grid, lib = libFolder)
-  library(scico, lib = libFolder)
-  library(gtable, lib = libFolder)
-  library(conflicted, lib = libFolder)
-  library(stringr, lib = libFolder)
-  library(jsonlite, lib = libFolder)
-  library(glue, lib = libFolder)
-  library(janitor, lib = libFolder)
-  
-  # Solve namespace conflicts
-  
-  conflict_prefer("select", "dplyr")
-  conflict_prefer("filter", "dplyr")
-  
-}
+# Avoid namespace conflicts
 
-tryCatch(
-  {
-    loadLibraries()
-    
-  }, error = function(error_condition) {
-    
-    loadLibraries()
-    
-  }
-)
+conflicts_prefer(dplyr::filter)
 
 
 

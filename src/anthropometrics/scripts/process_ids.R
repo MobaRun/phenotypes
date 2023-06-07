@@ -71,7 +71,7 @@ process_ids <- function(
 
     progress <- round(100 * i / nrow(identifiers))
 
-    if (progress > last_progress + 10) {
+    if (progress >= last_progress + 10) {
 
       print(paste0(Sys.time(), " - Processing ", file_name, ": ", progress, " %"))
 

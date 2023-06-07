@@ -16,10 +16,6 @@ import json
 suffix = '23-03-03'
 moba_project_number = 2824
 
-# Genotypes files
-fam_file = "/mnt/archive/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
-unrelated_children_ids_file = "/mnt/work/marc/unrelated_samples/children_id_unrelated"
-
 # Raw phenotype files
 linkage_folder = "/mnt/archive/linkage"
 moba_ques_folder = "/mnt/archive/phenotype/moba_ques"
@@ -124,7 +120,7 @@ rule raw_pheno:
         mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
         father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table
     conda:
-        "envs/r_4.1.yaml"
+        "envs/r_covid.yaml"
     threads: 1
     shell:
         """
@@ -161,7 +157,7 @@ rule consolidate_covid_pheno:
     output:
         covid_table = covid_table
     conda:
-        "envs/r_4.1.yaml"
+        "envs/r_covid.yaml"
     threads: 1
     shell:
         """

@@ -172,7 +172,7 @@ rule raw_pheno:
         """
 
 
-rule extract_ids:
+rule process_ids:
     'Extracts family and individual ids'
     input:
         kinship_file = kinship_file,
