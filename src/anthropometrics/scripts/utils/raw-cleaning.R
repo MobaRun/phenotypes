@@ -376,12 +376,12 @@ q1f_raw_table <- read.table(
   stringsAsFactors = F
 )
 
-# q2_raw_table <- read.table(
-#   file = q2_raw_table_path,
-#   header = T,
-#   sep = "\t",
-#   stringsAsFactors = F
-# )
+q2_raw_table <- read.table(
+  file = q2_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
 
 q3_raw_table <- read.table(
   file = q3_raw_table_path,
@@ -470,14 +470,14 @@ q1f_table <- q1f_raw_table %>%
     )
   )
 
-# q2VariablesMapping <- q2VariablesMapping[q2VariablesMapping %in% names(q2_raw_table)]
-# 
-# q2_table <- q2_raw_table %>%
-#   select(
-#     all_of(
-#       q2VariablesMapping
-#     )
-#   )
+q2VariablesMapping <- q2VariablesMapping[q2VariablesMapping %in% names(q2_raw_table)]
+
+q2_table <- q2_raw_table %>%
+  select(
+    all_of(
+      q2VariablesMapping
+    )
+  )
 
 q4VariablesMapping <- q4VariablesMapping[q4VariablesMapping %in% names(q4_raw_table)]
 
@@ -595,7 +595,7 @@ nrow_mfr <- nrow(mfr_table)
 rawPheno <- mfr_table %>%
   left_join(q1m_table, by = "preg_id") %>%
   left_join(q1f_table, by = "preg_id") %>%
-  # left_join(q2_table, by = "preg_id") %>%
+  left_join(q2_table, by = "preg_id") %>%
   left_join(q4_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q5_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q6_table, by = c("preg_id", "rank_siblings")) %>%
