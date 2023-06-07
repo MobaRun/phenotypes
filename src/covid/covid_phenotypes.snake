@@ -118,7 +118,11 @@ rule raw_pheno:
         msis_raw_table = msis_raw_table,
         child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
         mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
-        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table
+        father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table,
+        sysvak_raw_table_path = sysvak_raw_table,
+        child_sysvak_id_mapping_raw_table_path = child_sysvak_id_mapping_raw_table,
+        mother_sysvak_id_mapping_raw_table_path = mother_sysvak_id_mapping_raw_table,
+        father_sysvak_id_mapping_raw_table_path = father_sysvak_id_mapping_raw_table,
     conda:
         "envs/r_covid.yaml"
     threads: 1
