@@ -66,14 +66,11 @@ project_number <- args[20]
 
 # Libraries
 
-libFolder <- "~/R/R_4.1"
-
-library(stringr, lib = libFolder)
-library(crayon, lib = libFolder)
-library(dplyr, lib = libFolder)
-library(janitor, lib = libFolder)
-library(purrr, lib = libFolder)
-library(glue, lib = libFolder)
+library(stringr)
+library(dplyr)
+library(janitor)
+library(purrr)
+library(glue)
 
 
 # Housekeeping

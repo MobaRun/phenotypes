@@ -32,21 +32,14 @@ release_name <- args[4]
 
 ## Libraries import
 
-libFolder <- "~/R/R_4.1"
-
-library(stringr, lib = libFolder)
-library(crayon, lib = libFolder)
-library(dplyr, lib = libFolder)
-library(janitor, lib = libFolder)
-library(purrr, lib = libFolder)
-library(glue, lib = libFolder)
-library(withr, lib = libFolder)
-library(labeling, lib = libFolder)
-library(digest, lib = libFolder)
-library(farver, lib = libFolder)
-library(ggplot2, lib = libFolder)
-library(cli, lib = libFolder)
-library(grid, lib = libFolder)
+library(stringr)
+library(dplyr)
+library(janitor)
+library(purrr)
+library(glue)
+library(ggplot2)
+library(cli)
+library(grid)
 
 
 
