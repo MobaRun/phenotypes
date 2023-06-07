@@ -110,18 +110,18 @@ rule all:
     input:
         raw_data_docs = os.path.join(raw_docs_folder,'data.md'),
         child_id_table = child_id_table,
-        unrelated_child_id_table = unrelated_child_id_table
-        # pregnancy_table = os.path.join(tables_folder, "pregnancy.gz"),
-        # delivery_table = os.path.join(tables_folder, "delivery.gz"),
-        # pregnancy_nutrition_table = os.path.join(tables_folder, "pregnancy_nutrition.gz"),
-        # mother_nutrition_table = os.path.join(tables_folder, "mother_nutrition.gz"),
-        # child_nutrition_table = os.path.join(tables_folder, "child_nutrition.gz"),
-        # child_table = os.path.join(tables_folder, "child.gz"),
-        # child_health_table = os.path.join(tables_folder, "child_health.gz"),
-        # parents_table = os.path.join(tables_folder, "parents.gz"),
-        # mother_health_table = os.path.join(tables_folder, "mother_health.gz"),
-        # father_health_table = os.path.join(tables_folder, "father_health.gz"),
-        # child_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics.gz")
+        unrelated_child_id_table = unrelated_child_id_table,
+        pregnancy_table = os.path.join(tables_folder, "pregnancy.gz"),
+        delivery_table = os.path.join(tables_folder, "delivery.gz"),
+        pregnancy_nutrition_table = os.path.join(tables_folder, "pregnancy_nutrition.gz"),
+        mother_nutrition_table = os.path.join(tables_folder, "mother_nutrition.gz"),
+        child_nutrition_table = os.path.join(tables_folder, "child_nutrition.gz"),
+        child_table = os.path.join(tables_folder, "child.gz"),
+        child_health_table = os.path.join(tables_folder, "child_health.gz"),
+        parents_table = os.path.join(tables_folder, "parents.gz"),
+        mother_health_table = os.path.join(tables_folder, "mother_health.gz"),
+        father_health_table = os.path.join(tables_folder, "father_health.gz"),
+        child_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics.gz")
 
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
