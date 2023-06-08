@@ -41,25 +41,26 @@ project_number <- args[20]
 # Debug Marc - do not uncomment
 # args to run standalone
 # 
-# child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
-# mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
-# father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
-# genomics_fam_file_path <- "/mnt/archive/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
-# unrelated_children_id_path <- "/mnt/work/marc/unrelated_samples/children_id_unrelated"
-# mfr_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_MFR_541_v12.gz"
-# q1m_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema1_v12.gz"
-# q1f_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_SkjemaFar_v12.gz"
-# q2_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema2_v12.gz"
-# q3_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema3_v12.gz"
-# q4_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema4_6mnd_v12.gz"
-# q5_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema5_18mnd_v12.gz"
-# q6_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema6_3aar_v12.gz"
-# q7_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema5aar_v12.gz"
-# q8_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema7aar_v12.gz"
-# q9_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema8aar_v12.gz"
-# kostUngdom_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_SkjemaKostUngdom_v12.gz"
-# qcFolder <- "/mnt/work/marc/pheno_22-09-19/qc_tmp"
-# project_number <- 2824
+child_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz"
+mother_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz"
+father_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz"
+genomics_fam_file_path <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
+unrelated_children_id_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/id/children_id_unrelated"
+mfr_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_MFR_541_v12.gz"
+q1m_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema1_v12.gz"
+q1f_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_SkjemaFar_v12.gz"
+q2_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema2_beregning_CDW_v12.gz"
+q3_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema3_v12.gz"
+q4_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema4_6mnd_v12.gz"
+q5_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema5_18mnd_v12.gz"
+q6_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema6_3aar_v12.gz"
+q7_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema5aar_v12.gz"
+q8_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema7aar_v12.gz"
+q9_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema8aar_v12.gz"
+kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
+tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28"
+qcFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/qc"
+project_number <- 315
 #
 ##
 
