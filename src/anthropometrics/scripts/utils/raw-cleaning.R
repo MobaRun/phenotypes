@@ -1155,6 +1155,10 @@ values <- values %>%
     )
   )
 
+# Exclude extreme outliers
+
+values$mother_age_at_menarche[values$mother_age_at_menarche < 9 | values$mother_age_at_menarche > 17] <- NA
+
 
 # Save the variables in different tables
 
