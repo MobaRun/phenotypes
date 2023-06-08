@@ -117,6 +117,7 @@ mfrVariablesMapping <- c(
 
 q1mVariablesMapping <- c(
   preg_id = glue("PREG_ID_{project_number}"),
+  mother_age_at_menarche = "AA12",
   mother_weight_beginning_self = "AA85", 
   mother_weight_15w = "AA86", 
   mother_height_self = "AA87", 
@@ -1495,6 +1496,7 @@ child_health_columns <- c(
 
 parent_values_columns <- c(
   "mother_birth_year", 
+  "mother_age_at_menarche",
   "mother_age_15w", 
   "mother_age_category", 
   "father_birth_year", 

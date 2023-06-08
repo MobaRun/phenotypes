@@ -41,26 +41,26 @@ project_number <- args[20]
 # Debug Marc - do not uncomment
 # args to run standalone
 # 
-child_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz"
-mother_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz"
-father_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz"
-genomics_fam_file_path <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
-unrelated_children_id_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/id/children_id_unrelated"
-mfr_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_MFR_541_v12.gz"
-q1m_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema1_v12.gz"
-q1f_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_SkjemaFar_v12.gz"
-q2_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema2_beregning_CDW_v12.gz"
-q3_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema3_v12.gz"
-q4_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema4_6mnd_v12.gz"
-q5_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema5_18mnd_v12.gz"
-q6_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema6_3aar_v12.gz"
-q7_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema5aar_v12.gz"
-q8_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema7aar_v12.gz"
-q9_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema8aar_v12.gz"
-kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
-tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28"
-qcFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/qc"
-project_number <- 315
+# child_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz"
+# mother_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz"
+# father_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz"
+# genomics_fam_file_path <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
+# unrelated_children_id_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/id/children_id_unrelated"
+# mfr_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_MFR_541_v12.gz"
+# q1m_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema1_v12.gz"
+# q1f_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_SkjemaFar_v12.gz"
+# q2_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema2_beregning_CDW_v12.gz"
+# q3_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema3_v12.gz"
+# q4_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema4_6mnd_v12.gz"
+# q5_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema5_18mnd_v12.gz"
+# q6_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema6_3aar_v12.gz"
+# q7_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema5aar_v12.gz"
+# q8_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema7aar_v12.gz"
+# q9_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema8aar_v12.gz"
+# kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
+# tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28"
+# qcFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/qc"
+# project_number <- 315
 #
 ##
 
@@ -348,6 +348,24 @@ if (nrow(famDF) != length(unique(famDF$sentrix_id))) {
 famDF$mother_sentrix_id[! famDF$mother_sentrix_id %in% motherIdDF$sentrix_id] <- NA
 famDF$father_sentrix_id[! famDF$father_sentrix_id %in% fatherIdDF$sentrix_id] <- NA
 
+famDF <- famDF %>% 
+  left_join(
+    motherIdDF %>% 
+      select(
+        mother_sentrix_id = sentrix_id,
+        mother_id
+      ),
+    by = "mother_sentrix_id"
+  ) %>% 
+  left_join(
+    fatherIdDF %>% 
+      select(
+        father_sentrix_id = sentrix_id,
+        father_id
+      ),
+    by = "father_sentrix_id"
+  )
+
 
 # Load the values from the raw phenotype tables
 
@@ -602,10 +620,8 @@ rawPheno <- mfr_table %>%
   left_join(q9_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(kostUngdom_table, by = c("preg_id", "rank_siblings"))
 
-# Add sentrix ids
 
-rawPheno$mother_id[rawPheno$mother_id == ""] <- NA
-rawPheno$father_id[rawPheno$father_id == ""] <- NA
+# Add sentrix and parental ids
 
 rawPheno <- rawPheno %>% 
   left_join(
@@ -633,6 +649,7 @@ print(glue("- Children in birth registry: {nrow(rawPheno)}"))
 print(glue("- Children genotyped: {sum(!is.na(rawPheno$sentrix_id))}"))
 print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id))}"))
 print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$father_sentrix_id))}"))
+
 
 # Correct units for columns to be merged
 
@@ -798,14 +815,14 @@ print(paste(Sys.time(), " Loading identifiers for unrelated children"))
 
 unrelatedDF <- read.table(
   file = unrelated_children_id_path,
-  header = F,
+  header = T,
+  sep = "\t",
   stringsAsFactors = F
 )
-unrelatedIds <- unrelatedDF[, 2]
 
 rawPheno <- rawPheno %>%
   mutate(
-    unrelated_children = ifelse(sentrix_id %in% unrelatedIds, 1, 0)
+    unrelated_children = ifelse(sentrix_id %in% unrelatedDF$sentrix_id, 1, 0)
   )
 
 print(glue("Unrelated children:"))
