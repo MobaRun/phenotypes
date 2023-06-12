@@ -218,7 +218,8 @@ rule anthropometrics_raw_cleaning:
         q7_table = skjema5aar_table,
         q8_table = skjema7aar_table,
         q9_table = skjema8aar_table,
-        skjemaKostUngdom_table = kosthold_ungdom_table
+        skjemaKostUngdom_table = kosthold_ungdom_table,
+        ungdomsskjema_barn_table = ungdomsskjema_barn_table
     params:
         fam_file = fam_file,
         unrelated_children_ids_file = unrelated_child_id_table,
@@ -261,6 +262,7 @@ rule anthropometrics_raw_cleaning:
             {input.q8_table} \
             {input.q9_table} \
             {input.skjemaKostUngdom_table} \
+            {input.ungdomsskjema_barn_table} \
             {params.tables_folder} \
             {params.qc_folder} \
             {params.moba_project_number}

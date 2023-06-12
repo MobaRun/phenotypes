@@ -741,6 +741,25 @@ kostUngdomVariablesMapping <- c(
   length_kost = "QDY_213"
 )
 
+ungdomsskjemaBarnVariablesMapping <- c(
+  preg_id = glue("PREG_ID_{project_number}"),
+  rank_siblings = "BARN_NR",
+  youth_self_age = "AGE_YRS_UB",
+  youth_self_tried_to_eat_less_pas_4_weeks = "UB79",
+  youth_self_weight_rating = "UB87",
+  youth_self_height = "UB220",
+  youth_self_weight = "UB221",
+  youth_self_growth_spurt = "UB222",
+  youth_self_hair_growth_began = "UB223",
+  youth_self_acnea = "UB224",
+  youth_self_girl = "UB225",
+  youth_self_boy = "UB226",
+  youth_self_voice_change = "UB227",
+  youth_self_facial_hair = "UB228",
+  youth_self_breast = "UB229",
+  youth_self_menstruating = "UB230"
+)
+
 
 # Check for duplicates
 
@@ -1491,7 +1510,21 @@ child_health_columns <- c(
   "emotional_difficulties_sad_or_anxious_no_8y", 
   "emotional_difficulties_sad_or_anxious_currently_8y", 
   "emotional_difficulties_sad_or_anxious_past_8y", 
-  "emotional_difficulties_sad_or_anxious_specialist_8y"
+  "emotional_difficulties_sad_or_anxious_specialist_8y",
+  "youth_self_age",
+  "youth_self_tried_to_eat_less_pas_4_weeks",
+  "youth_self_weight_rating",
+  "youth_self_height",
+  "youth_self_weight",
+  "youth_self_growth_spurt",
+  "youth_self_hair_growth_began",
+  "youth_self_acnea",
+  "youth_self_girl",
+  "youth_self_boy",
+  "youth_self_voice_change",
+  "youth_self_facial_hair",
+  "youth_self_breast",
+  "youth_self_menstruating"
 )
 
 parent_values_columns <- c(

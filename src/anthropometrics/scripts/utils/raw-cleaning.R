@@ -31,9 +31,10 @@ q7_raw_table_path <- args[14]
 q8_raw_table_path <- args[15]
 q9_raw_table_path <- args[16]
 kostUngdom_raw_table_path <- args[17]
-tablesFolder <- args[18]
-qcFolder <- args[19]
-project_number <- args[20]
+ungdomsskjema_barn_raw_table_path <- args[18]
+tablesFolder <- args[19]
+qcFolder <- args[20]
+project_number <- args[21]
 
 
 ##
@@ -455,7 +456,12 @@ kostUngdom_raw_table <- read.table(
   stringsAsFactors = F
 )
 
-
+ungdomsskjema_barn_raw_table <- read.table(
+  file = ungdomsskjema_barn_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
 
 # Extract variables
 
@@ -558,6 +564,15 @@ kostUngdom_table <- kostUngdom_raw_table %>%
     )
   )
 
+ungdomsskjemaBarnVariablesMapping <- ungdomsskjemaBarnVariablesMapping[ungdomsskjemaBarnVariablesMapping %in% names(ungdomsskjema_barn_raw_table)]
+
+ungdomsskjema_barn_table <- ungdomsskjema_barn_raw_table %>%
+  select(
+    all_of(
+      ungdomsskjemaBarnVariablesMapping
+    )
+  )
+
 
 # Combination of variables from the same questionnaire
 
@@ -618,7 +633,8 @@ rawPheno <- mfr_table %>%
   left_join(q7_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q8_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q9_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(kostUngdom_table, by = c("preg_id", "rank_siblings"))
+  left_join(kostUngdom_table, by = c("preg_id", "rank_siblings")) %>%
+  left_join(ungdomsskjema_barn_table, by = c("preg_id", "rank_siblings"))
 
 
 # Add sentrix and parental ids
