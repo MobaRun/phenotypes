@@ -249,7 +249,7 @@ rule anthropometrics_raw_cleaning:
             {input.mother_id_linkage_raw_table} \
             {input.father_id_linkage_raw_table} \
             {params.fam_file} \
-            {params.unrelated_children_ids_file} \
+            {input.unrelated_children_ids_file} \
             {input.mfr_raw_table} \
             {input.q1m_table} \
             {input.q1f_table} \
