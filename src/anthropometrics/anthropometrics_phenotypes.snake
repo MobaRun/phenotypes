@@ -204,6 +204,7 @@ rule process_ids:
 rule anthropometrics_raw_cleaning:
     'Organizes the anthropometric traits and related in separate tables and runs initial cleaning'
     input:
+        unrelated_children_ids_file = unrelated_child_id_table,
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
@@ -222,7 +223,6 @@ rule anthropometrics_raw_cleaning:
         ungdomsskjema_barn_table = ungdomsskjema_barn_table
     params:
         fam_file = fam_file,
-        unrelated_children_ids_file = unrelated_child_id_table,
         tables_folder = tables_folder,
         qc_folder = qc_folder,
         moba_project_number = moba_project_number
