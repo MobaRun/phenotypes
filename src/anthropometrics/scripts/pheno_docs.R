@@ -16,7 +16,7 @@ conflicts_prefer(dplyr::filter)
 # General parameters
 theme_set(theme_bw(base_size = 14))
 
-pheno_file <- "docs/{release_version}/phenotypes.md"
+pheno_file <- glue("docs/{release_version}/phenotypes.md")
 moba_version <- "V12"
 release_version <- "23-05-28"
 tables_folder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28"
