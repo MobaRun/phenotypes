@@ -1,0 +1,13 @@
+# mother_marital_status
+Variable mapping to questionnaire: mfr, question SIVST_2.
+.
+- Number of values:
+
+| Value | Total | Child genotyped | Mother genotyped | Father genotyped |
+| ----- | ----- | --------------- | ---------------- | ---------------- |
+| Missing | 0 | 0 | 0 | 0 |
+| Married/registered partner/Co-habitant | 108506 | 80017 | 69041 |48902 |
+| Other | 5117 | 3338 | 2728 |1316 |
+
+
+

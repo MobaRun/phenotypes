@@ -1,0 +1,12 @@
+# amniotic_polyhydramnion
+Variable mapping to questionnaire: mfr, question FOSTERV_POLYHYDRAMNION.
+.
+- Number of values:
+
+| Value | Total | Child genotyped | Mother genotyped | Father genotyped |
+| ----- | ----- | --------------- | ---------------- | ---------------- |
+| Missing | 112594 | 82653 | 71152 | 49788 |
+| Yes | 1029 | 702 | 617 |430 |
+
+
+
