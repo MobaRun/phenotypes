@@ -1,0 +1,16 @@
+# pregnancy_itch_13w_15w
+Variable mapping to questionnaire: q1m, question AA259.
+.
+- Number of values:
+
+| Value | Total | Child genotyped | Mother genotyped | Father genotyped |
+| ----- | ----- | --------------- | ---------------- | ---------------- |
+| Missing | 107643 | 78876 | 67944 | 47584 |
+| 1 | 5980 | 4479 | 3825 |2634 |
+
+
+
+![](pregnancy_itch_13w_15w_n.png)
+
+
+
