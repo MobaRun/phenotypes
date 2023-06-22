@@ -132,7 +132,7 @@ for (table_name in names(tables)) {
   table_columns <- columns[[table_name]]
   
   write(
-    x = glue("## {table_name}\n"), 
+    x = glue("## {table_name}\n\n"), 
     file = pheno_file, 
     append = T
   )
@@ -142,7 +142,7 @@ for (table_name in names(tables)) {
     column_file <- glue("docs/{release_version}/{table_name}/{column}.md")
     
     write(
-      x = glue("[{column}]({table_name}/{column}.md)\n"), 
+      x = glue("- [{column}]({table_name}/{column}.md)\n"), 
       file = pheno_file, 
       append = T
     )
@@ -171,8 +171,6 @@ for (table_name in names(tables)) {
     }
     
     if (nchar(questions) > 0) {
-      
-      questions <- paste0(questions, ".\n")
       
       write(
         x = glue("Variable mapping to {questions}."), 
@@ -210,10 +208,21 @@ for (table_name in names(tables)) {
       file = column_file, 
       append = T
     )
+    write(
+      x = glue("| Non-missing | {sum(!is.na(all_values))} | {sum(!is.na(child_genotyped_values))} | {sum(!is.na(mother_genotyped_values))} | {sum(!is.na(father_genotyped_values))} |"), 
+      file = column_file, 
+      append = T
+    )
     
     all_values_numeric <- as.numeric(all_values)
     all_character <- all_values[!is.na(all_values) & is.na(all_values_numeric)]
+    child_values_numeric <- all_values_numeric[!is.na(table$child_sentrix_id)]
+    mother_values_numeric <- all_values_numeric[!is.na(table$mother_sentrix_id)]
+    father_values_numeric <- all_values_numeric[!is.na(table$father_sentrix_id)]
     all_values_numeric <- all_values_numeric[!is.na(all_values_numeric)]
+    child_values_numeric <- child_values_numeric[!is.na(child_values_numeric)]
+    mother_values_numeric <- mother_values_numeric[!is.na(mother_values_numeric)]
+    father_values_numeric <- father_values_numeric[!is.na(father_values_numeric)]
     
     if (length(all_character) > 0) {
       
@@ -234,17 +243,35 @@ for (table_name in names(tables)) {
       
       unique_numeric <- sort(unique(all_values_numeric))
       
-      if (length(unique_numeric < 20)) {
+      if (length(unique_numeric) < 20) {
         
         for (value in unique_numeric) {
           
           write(
-            x = glue("| {value} | {sum(!is.na(all_values) & all_values == value)} | {sum(!is.na(child_genotyped_values) & child_genotyped_values == value)} | {sum(!is.na(mother_genotyped_values) & mother_genotyped_values == value)} |{sum(!is.na(father_genotyped_values) & father_genotyped_values == value)} |"), 
+            x = glue("| {value} | {sum(all_values_numeric == value)} | {sum(child_values_numeric == value)} | {sum(mother_values_numeric == value)} | {sum(father_values_numeric == value)} |"), 
             file = column_file, 
             append = T
           )
           
         }
+      } else {
+        
+        write(
+          x = glue("| 25th percentile | {quantile(all_values_numeric, 0.25)} | {quantile(child_values_numeric, 0.25)} | {quantile(mother_values_numeric, 0.25)} | {quantile(father_values_numeric, 0.25)} |"), 
+          file = column_file, 
+          append = T
+        )
+        write(
+          x = glue("| 50th percentile | {quantile(all_values_numeric, 0.5)} | {quantile(child_values_numeric, 0.5)} | {quantile(mother_values_numeric, 0.5)} | {quantile(father_values_numeric, 0.5)} |"), 
+          file = column_file, 
+          append = T
+        )
+        write(
+          x = glue("| 75th percentile | {quantile(all_values_numeric, 0.75)} | {quantile(child_values_numeric, 0.75)} | {quantile(mother_values_numeric, 0.75)} | {quantile(father_values_numeric, 0.75)} |"), 
+          file = column_file, 
+          append = T
+        )
+        
       }
       
       write(
