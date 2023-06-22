@@ -557,6 +557,7 @@ q9_table <- q9_raw_table %>%
 
 kostUngdomVariablesMapping <- kostUngdomVariablesMapping[kostUngdomVariablesMapping %in% names(kostUngdom_raw_table)]
 
+kostUngdom_table <- kostUngdom_raw_table %>% 
   select(
     all_of(
       kostUngdomVariablesMapping
