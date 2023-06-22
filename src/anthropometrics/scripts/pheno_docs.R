@@ -36,6 +36,7 @@ parents_table <- args[14]
 mother_health_table <- args[15]
 father_health_table <- args[16]
 child_anthropometrics_table <- args[17]
+docs_folder <- args[18]
 
 # moba_version <- "V12"
 # release_version <- "23-05-28"
@@ -104,7 +105,7 @@ pheno_to_question <- list(
   ungdomsskjema_barn = ungdomsskjemaBarnVariablesMapping
 )
 
-pheno_file <- glue("docs/{release_version}/phenotypes.md")
+pheno_file <- file.path(docs_folder, "phenotypes.md")
 
 write(
   x = glue("# Phenotypes\n"), 
@@ -121,7 +122,7 @@ for (table_name in names(tables)) {
   
   print(paste(Sys.time(), " Processing", table_name))
   
-  dir.create(glue("docs/{release_version}/{table_name}"))
+  dir.create(file.path(docs_folder, table_name))
   
   table <- read.table(
     file = tables[[table_name]],
@@ -139,7 +140,7 @@ for (table_name in names(tables)) {
   
   for (column in table_columns) {
     
-    column_file <- glue("docs/{release_version}/{table_name}/{column}.md")
+    column_file <- file.path(docs_folder, table_name, glue("{column}.md"))
     
     write(
       x = glue("- [{column}]({table_name}/{column}.md)\n"), 
@@ -316,7 +317,7 @@ for (table_name in names(tables)) {
         )
       
       png(
-        filename = glue("docs/{release_version}/{table_name}/{column}_n.png"),
+        filename = file.path(docs_folder, table_name, glue("{column}_n.png")),
         width = 900,
         height = 600
       )

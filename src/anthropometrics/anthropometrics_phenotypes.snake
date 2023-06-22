@@ -35,6 +35,8 @@ moba_phenotypes_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/phen
 # Docs folders
 docs_folder = f"docs/anthropometrics/{suffix}"
 raw_docs_folder = f"{docs_folder}/raw"
+tables_docs_folder = f"{docs_folder}/tables"
+docs_file = os.path.join(tables_docs_folder, "phenotypes.md")
 
 # Tables folders
 tables_folder = f"/mnt/archive/moba/pheno/v12/pheno_anthropometrics_{suffix}"
@@ -93,9 +95,6 @@ father_health_table = os.path.join(tables_folder, "father_health.gz"),
 child_anthropometrics_raw_table = os.path.join(tables_folder, "child_anthropometrics_raw.gz"),
 child_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics.gz")
 
-# Documentation
-docs_file = os.path.join("docs", f"suffix", "phenotypes.md")
-
 # Anthropometrics QC folder
 qc_folder = f"{tables_folder}/qc"
 
@@ -107,6 +106,9 @@ if not os.path.isdir(docs_folder):
 
 if not os.path.isdir(raw_docs_folder):
     os.makedirs(raw_docs_folder)
+
+if not os.path.isdir(tables_docs_folder):
+    os.makedirs(tables_docs_folder)
 
 if not os.path.isdir(tables_folder):
     os.makedirs(tables_folder)
@@ -340,7 +342,8 @@ rule pheno_tables_docs:
     params:
         moba_version = moba_version,
         release_version = suffix,
-        project_number = moba_project_number
+        project_number = moba_project_number,
+        docs_folder = docs_folder
     output:
         docs_file = docs_file
     conda:
@@ -366,7 +369,8 @@ rule pheno_tables_docs:
             {input.parents_table}  \
             {input.mother_health_table} \
             {input.father_health_table} \
-            {input.child_anthropometrics_table}
+            {input.child_anthropometrics_table} \
+            {params.docs_folder}
         """
 
 
