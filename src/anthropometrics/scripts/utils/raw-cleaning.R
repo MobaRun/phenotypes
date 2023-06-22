@@ -557,7 +557,6 @@ q9_table <- q9_raw_table %>%
 
 kostUngdomVariablesMapping <- kostUngdomVariablesMapping[kostUngdomVariablesMapping %in% names(kostUngdom_raw_table)]
 
-kostUngdom_table <- kostUngdom_raw_table %>%
   select(
     all_of(
       kostUngdomVariablesMapping
@@ -650,6 +649,9 @@ rawPheno <- rawPheno %>%
   ) %>% 
   mutate(
     child_id = ifelse(is.na(child_id), paste0(preg_id, "_", rank_siblings), child_id)
+  ) %>% 
+  rename(
+    child_sentrix_id = sentrix_id
   )
 
 nrow_pheno <- nrow(rawPheno)
@@ -662,7 +664,7 @@ if (nrow_mfr != nrow_pheno) {
 
 print(glue("Phenotypes loaded:"))
 print(glue("- Children in birth registry: {nrow(rawPheno)}"))
-print(glue("- Children genotyped: {sum(!is.na(rawPheno$sentrix_id))}"))
+print(glue("- Children genotyped: {sum(!is.na(rawPheno$child_sentrix_id))}"))
 print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id))}"))
 print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$father_sentrix_id))}"))
 
@@ -838,11 +840,11 @@ unrelatedDF <- read.table(
 
 rawPheno <- rawPheno %>%
   mutate(
-    unrelated_children = ifelse(sentrix_id %in% unrelatedDF$sentrix_id, 1, 0)
+    unrelated_children = ifelse(child_sentrix_id %in% unrelatedDF$sentrix_id, 1, 0)
   )
 
 print(glue("Unrelated children:"))
-print(glue("- Children genotyped: {sum(!is.na(rawPheno$sentrix_id) & rawPheno$unrelated_children == 1)}"))
+print(glue("- Children genotyped: {sum(!is.na(rawPheno$child_sentrix_id) & rawPheno$unrelated_children == 1)}"))
 print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id[rawPheno$unrelated_children == 1]))}"))
 print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$father_sentrix_id[rawPheno$unrelated_children == 1]))}"))
 
@@ -911,8 +913,8 @@ rawPheno <- rawPheno %>%
     pregnancy_duration_preterm = ifelse(!is.na(pregnancy_duration) & pregnancy_duration < pregnancy_term_min, 1, 0)
   )
 
-term_pregnancies <- sum(!is.na(rawPheno$sentrix_id) & rawPheno$pregnancy_duration_term == 1)
-n_genotyped <- sum(!is.na(rawPheno$sentrix_id))
+term_pregnancies <- sum(!is.na(rawPheno$child_sentrix_id) & rawPheno$pregnancy_duration_term == 1)
+n_genotyped <- sum(!is.na(rawPheno$child_sentrix_id))
 
 print(glue("{term_pregnancies} genotyped children with delivery at term ({round(term_pregnancies / n_genotyped * 100)} %)"))
 
@@ -962,8 +964,8 @@ for (column in c(weight_columns, length_columns, head_circumference_columns)) {
   n_df <- data.frame(
     phenotype = column,
     n_values = sum(!is.na(rawPheno[[column]])),
-    n_genotyped = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$sentrix_id)),
-    n_genotyped_unrelated = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$sentrix_id) & rawPheno$unrelated == 1),
+    n_genotyped = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$child_sentrix_id)),
+    n_genotyped_unrelated = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$child_sentrix_id) & rawPheno$unrelated == 1),
     stringsAsFactors = F
   )
   
@@ -984,8 +986,8 @@ n_list <- list()
 
 for (column in c(weight_columns, length_columns, head_circumference_columns)) {
   
-  mean_value <- mean(values[[column]][!is.na(values[[column]]) & !is.na(values$sentrix_id)])
-  sd_value <- sd(values[[column]][!is.na(values[[column]]) & !is.na(values$sentrix_id)])
+  mean_value <- mean(values[[column]][!is.na(values[[column]]) & !is.na(values$child_sentrix_id)])
+  sd_value <- sd(values[[column]][!is.na(values[[column]]) & !is.na(values$child_sentrix_id)])
   
   toExclude <- !is.na(values[[column]]) & (values[[column]] < mean_value - 5 * sd_value | values[[column]] > mean_value + 5 * sd_value)
   values[[column]][toExclude] <- NA
@@ -993,8 +995,8 @@ for (column in c(weight_columns, length_columns, head_circumference_columns)) {
   n_df <- data.frame(
     phenotype = column,
     n_outliers = sum(toExclude),
-    n_outliers_genotyped = sum(toExclude & !is.na(values$sentrix_id)),
-    n_outliers_genotyped_unrelated = sum(toExclude & !is.na(values$sentrix_id) & values$unrelated == 1),
+    n_outliers_genotyped = sum(toExclude & !is.na(values$child_sentrix_id)),
+    n_outliers_genotyped_unrelated = sum(toExclude & !is.na(values$child_sentrix_id) & values$unrelated == 1),
     stringsAsFactors = F
   )
   
@@ -1019,8 +1021,8 @@ for (column in breastFeedingColumns) {
     n_df <- data.frame(
       phenotype = column,
       n_breast_feeding = sum(!is.na(values[[column]])),
-      n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id)),
-      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id) & values$unrelated == 1),
+      n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id)),
+      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id) & values$unrelated == 1),
       stringsAsFactors = F
     )
   }
@@ -1058,8 +1060,8 @@ for (column in breastFeedingColumns) {
     n_df <- data.frame(
       phenotype = column,
       n_breast_feeding = sum(!is.na(values[[column]])),
-      n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id)),
-      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id) & values$unrelated == 1),
+      n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id)),
+      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id) & values$unrelated == 1),
       stringsAsFactors = F
     )
   }
@@ -1081,8 +1083,8 @@ for (column in diabetesColumns) {
     n_df <- data.frame(
       phenotype = column,
       n_diabetes = sum(!is.na(values[[column]]) & values[[column]] == 1),
-      n_diabetes_genotyped = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$sentrix_id)),
-      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$sentrix_id) & values$unrelated == 1),
+      n_diabetes_genotyped = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id)),
+      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id) & values$unrelated == 1),
       stringsAsFactors = F
     )
   }
@@ -1141,8 +1143,8 @@ for (column in diabetesColumns) {
     n_df <- data.frame(
       phenotype = column,
       n_diabetes = sum(!is.na(values[[column]]) & values[[column]] == 1),
-      n_diabetes_genotyped = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$sentrix_id)),
-      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$sentrix_id) & values$unrelated == 1),
+      n_diabetes_genotyped = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id)),
+      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id) & values$unrelated == 1),
       stringsAsFactors = F
     )
   }

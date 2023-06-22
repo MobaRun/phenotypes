@@ -15,27 +15,49 @@ conflicts_prefer(dplyr::filter)
 
 # General parameters
 theme_set(theme_bw(base_size = 14))
-moba_version <- "V12"
-release_version <- "23-05-28"
-tables_folder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28"
 
-children_id_file <- file.path(tables_folder, "id", "children_id")
-mother_id_file <- file.path(tables_folder, "id", "mothers_id")
-father_id_file <- file.path(tables_folder, "id", "fathers_id")
+# Command line arguments
+args <- commandArgs(TRUE)
 
-pregnancy_table <- file.path(tables_folder, "pregnancy.gz")
-delivery_table <- file.path(tables_folder, "delivery.gz")
-pregnancy_nutrition_table <- file.path(tables_folder, "pregnancy_nutrition.gz")
-mother_nutrition_table <- file.path(tables_folder, "mother_nutrition.gz")
-child_nutrition_table <- file.path(tables_folder, "child_nutrition.gz")
-child_table <- file.path(tables_folder, "child.gz")
-child_health_table <- file.path(tables_folder, "child_health.gz")
-parents_table <- file.path(tables_folder, "parents.gz")
-mother_health_table <- file.path(tables_folder, "mother_health.gz")
-father_health_table <- file.path(tables_folder, "father_health.gz")
-child_anthropometrics_table <- file.path(tables_folder, "child_anthropometrics.gz")
+moba_version <- args[1]
+release_version <- args[2]
+project_number <- args[3]
+child_id_file <- args[4]
+mother_id_file <- args[5]
+father_id_file <- args[6]
+pregnancy_table <- args[7]
+delivery_table <- args[8]
+pregnancy_nutrition_table <- args[9]
+mother_nutrition_table <- args[10]
+child_nutrition_table <- args[11]
+child_table <- args[12]
+child_health_table <- args[13]
+parents_table <- args[14]
+mother_health_table <- args[15]
+father_health_table <- args[16]
+child_anthropometrics_table <- args[17]
 
-project_number <- 315
+# moba_version <- "V12"
+# release_version <- "23-05-28"
+# project_number <- 315
+# tables_folder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28"
+# 
+# child_id_file <- file.path(tables_folder, "id", "children_id")
+# mother_id_file <- file.path(tables_folder, "id", "mothers_id")
+# father_id_file <- file.path(tables_folder, "id", "fathers_id")
+# 
+# pregnancy_table <- file.path(tables_folder, "pregnancy.gz")
+# delivery_table <- file.path(tables_folder, "delivery.gz")
+# pregnancy_nutrition_table <- file.path(tables_folder, "pregnancy_nutrition.gz")
+# mother_nutrition_table <- file.path(tables_folder, "mother_nutrition.gz")
+# child_nutrition_table <- file.path(tables_folder, "child_nutrition.gz")
+# child_table <- file.path(tables_folder, "child.gz")
+# child_health_table <- file.path(tables_folder, "child_health.gz")
+# parents_table <- file.path(tables_folder, "parents.gz")
+# mother_health_table <- file.path(tables_folder, "mother_health.gz")
+# father_health_table <- file.path(tables_folder, "father_health.gz")
+# child_anthropometrics_table <- file.path(tables_folder, "child_anthropometrics.gz")
+
 
 # The variable mapping
 source("src/anthropometrics/scripts/utils/variables_mapping.R")
@@ -96,6 +118,8 @@ write(
 )
 
 for (table_name in names(tables)) {
+  
+  print(paste(Sys.time(), " Processing", table_name))
   
   dir.create(glue("docs/{release_version}/{table_name}"))
   
@@ -177,7 +201,7 @@ for (table_name in names(tables)) {
     )
     
     all_values <- table[[column]]
-    child_genotyped_values <- table[[column]][!is.na(table$sentrix_id)]
+    child_genotyped_values <- table[[column]][!is.na(table$child_sentrix_id)]
     mother_genotyped_values <- table[[column]][!is.na(table$mother_sentrix_id)]
     father_genotyped_values <- table[[column]][!is.na(table$father_sentrix_id)]
     
@@ -247,7 +271,8 @@ for (table_name in names(tables)) {
             x = value,
             fill = category
           ),
-          position = "dodge"
+          position = "dodge",
+          bins = 30
         ) +
         scale_fill_manual(
           values = c("black", "darkgreen", "darkblue", "darkred")
