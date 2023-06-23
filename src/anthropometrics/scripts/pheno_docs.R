@@ -14,7 +14,7 @@ library(grid)
 conflicts_prefer(dplyr::filter)
 
 # General parameters
-theme_set(theme_bw(base_size = 14))
+theme_set(theme_bw(base_size = 16))
 
 # Command line arguments
 args <- commandArgs(TRUE)
