@@ -365,7 +365,6 @@ rule pheno_tables_docs:
             {input.child_nutrition_table}  \
             {input.child_table}  \
             {input.child_health_table}  \
-            {input.child_table}  \
             {input.parents_table}  \
             {input.mother_health_table} \
             {input.father_health_table} \
