@@ -1187,7 +1187,7 @@ id_columns <- id_columns[id_columns %in% names(values)]
 
 idValues <- values %>% 
   select(
-    all_of(id_columns)
+    all_of(c(default_columns, all_of(id_columns)))
   )
 
 write.table(
