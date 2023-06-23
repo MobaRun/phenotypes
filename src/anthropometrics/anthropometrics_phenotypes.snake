@@ -35,7 +35,7 @@ moba_phenotypes_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/phen
 # Docs folders
 docs_folder = f"docs/anthropometrics/{suffix}"
 raw_docs_folder = f"{docs_folder}/raw"
-growth_docs_folder = f"{docs_folder}/growht_cleaning"
+growth_docs_folder = f"{docs_folder}/growth_cleaning"
 tables_docs_folder = f"{docs_folder}/tables"
 docs_file = os.path.join(tables_docs_folder, "phenotypes.md")
 
