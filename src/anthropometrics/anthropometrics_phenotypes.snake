@@ -343,7 +343,7 @@ rule pheno_tables_docs:
         moba_version = moba_version,
         release_version = suffix,
         project_number = moba_project_number,
-        docs_folder = docs_folder
+        docs_folder = tables_docs_folder
     output:
         docs_file = docs_file
     conda:
