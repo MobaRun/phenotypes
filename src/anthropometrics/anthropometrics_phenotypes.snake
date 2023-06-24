@@ -324,7 +324,6 @@ rule growth_cleaning:
             {params.tables_folder} \
             {params.qc_folder} \
             {params.moba_project_number} \
-            {params.release_name} \
             {params.docs_folder}
         """
 
