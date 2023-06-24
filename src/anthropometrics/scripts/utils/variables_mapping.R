@@ -916,7 +916,9 @@ default_columns <- c(
   "mother_sentrix_id",
   "father_sentrix_id",
   "unrelated_children",
-  "batch",
+  "child_batch",
+  "mother_batch",
+  "father_batch",
   "pregnancy_duration_term",
   "pregnancy_duration_preterm",
   "sex"
