@@ -652,7 +652,24 @@ rawPheno <- rawPheno %>%
     child_id = ifelse(is.na(child_id), paste0(preg_id, "_", rank_siblings), child_id)
   ) %>% 
   rename(
-    child_sentrix_id = sentrix_id
+    child_sentrix_id = sentrix_id,
+    child_batch = batch
+  ) %>% 
+  left_join(
+    motherIdDF %>% 
+      select(
+        mother_sentrix_id = sentrix_id,
+        mother_batch = batch
+      ),
+    by = "mother_sentrix_id"
+  ) %>% 
+  left_join(
+    fatherIdDF %>% 
+      select(
+        father_sentrix_id = sentrix_id,
+        father_batch = batch
+      ),
+    by = "father_sentrix_id"
   )
 
 nrow_pheno <- nrow(rawPheno)
