@@ -59,6 +59,7 @@ project_number <- args[21]
 # q8_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema7aar_v12.gz"
 # q9_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema8aar_v12.gz"
 # kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
+# ungdomsskjema_barn_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Ungdomsskjema_Barn_v12_standard.gz"
 # tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28"
 # qcFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/qc"
 # project_number <- 315
@@ -1199,6 +1200,14 @@ values$mother_age_at_menarche[values$mother_age_at_menarche < 9 | values$mother_
 # Save the variables in different tables
 
 print(paste(Sys.time(), " Saving the phenotypes to tables"))
+
+missing_default_columns <- which(! default_columns %in% names(values))
+
+if (length(missing_default_columns) > 0) {
+  
+  stop(psate0("Missing default column in phenotype table: ", paste(default_columns[missing_default_columns], sep = ", "), "."))
+  
+}
 
 id_columns <- id_columns[id_columns %in% names(values)]
 
