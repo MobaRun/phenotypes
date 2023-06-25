@@ -878,8 +878,8 @@ rawPheno <- rawPheno %>%
   ) %>% 
   mutate(
     sex = 0,
-    sex = ifelse(registry_sex == "Mann", 1, sex),
-    sex = ifelse(registry_sex == "Kvinne", 2, sex),
+    sex = ifelse(registry_sex == "Male", 1, sex),
+    sex = ifelse(registry_sex == "Female", 2, sex),
     sex = ifelse(!is.na(genetic_sex) & genetic_sex != 0, genetic_sex, sex)
   )
 
