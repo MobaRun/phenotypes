@@ -1007,8 +1007,23 @@ if (sum(duplicated(q1fVariablesMapping)) > 0) {
   stop("Duplicates in q1f variables mapping")
 }
 
-if (sum(duplicated(q2VariablesMapping)) > 0) {
-  print(q2VariablesMapping[duplicated(q2VariablesMapping)])
+if (sum(duplicated(q2CdwVariablesMapping)) > 0) {
+  print(q2CdwVariablesMapping[duplicated(q2CdwVariablesMapping)])
+  stop("Duplicates in q2 variables mapping")
+}
+
+if (sum(duplicated(q2CdwBeregningCaffeineFoodSupplementsVariablesMapping)) > 0) {
+  print(q2CdwBeregningCaffeineFoodSupplementsVariablesMapping[duplicated(q2CdwBeregningCaffeineFoodSupplementsVariablesMapping)])
+  stop("Duplicates in q2 variables mapping")
+}
+
+if (sum(duplicated(q2CdwBeregningFoodyFattyAcidIodineVariablesMapping)) > 0) {
+  print(q2CdwBeregningFoodyFattyAcidIodineVariablesMapping[duplicated(q2CdwBeregningFoodyFattyAcidIodineVariablesMapping)])
+  stop("Duplicates in q2 variables mapping")
+}
+
+if (sum(duplicated(q2CdwBeregningVariablesMapping)) > 0) {
+  print(q2CdwBeregningVariablesMapping[duplicated(q2CdwBeregningVariablesMapping)])
   stop("Duplicates in q2 variables mapping")
 }
 
