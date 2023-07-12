@@ -1452,7 +1452,7 @@ pregnancy_columns <- c(
   "vomiting_q2",
   "vomiting_week_from_q2",
   "vomiting_week_to_q2",
-  "vomiting_week_still_q2",
+  "vomiting_week_still_q2"
 )
 
 delivery_columns <- c(
