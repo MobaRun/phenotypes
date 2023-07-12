@@ -4,8 +4,8 @@ Variable mapping to questionnaire: q7, question LL13.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 65997 | 45954 | 39322 | 25729 |
-| Non-missing | 47626 | 37401 | 32447 | 24489 |
+| Missing | 65995 | 45954 | 39322 | 25729 |
+| Non-missing | 47628 | 37401 | 32447 | 24489 |
 | 25th percentile | 18 | 18 | 18 | 18 |
 | 50th percentile | 19.9 | 20 | 20 | 20 |
 | 75th percentile | 21.5 | 21.5 | 21.5 | 21.5 |

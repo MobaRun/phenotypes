@@ -15,165 +15,165 @@
 ![](plots/length_weight_11.png)
 ![](plots/length_weight_12.png)
 ### Imputation
-- Children with no data point altered: 68741
-- Children with at least one data point altered: 44882
-#### Random example: 48185
+- Children with no data point altered: 68719
+- Children with at least one data point altered: 44904
+#### Random example: 83612
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/48185_length.png)
-![](plots/48185_weight.png)
-#### Random example: 38729
+![](plots/83612_length.png)
+![](plots/83612_weight.png)
+#### Random example: 96795
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/38729_length.png)
-![](plots/38729_weight.png)
-#### Random example: 79410
+![](plots/96795_length.png)
+![](plots/96795_weight.png)
+#### Random example: 46874
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/79410_length.png)
-![](plots/79410_weight.png)
-#### Random example: 80595
+![](plots/46874_length.png)
+![](plots/46874_weight.png)
+#### Random example: 50473
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/80595_length.png)
-![](plots/80595_weight.png)
-#### Random example: 77612
+![](plots/50473_length.png)
+![](plots/50473_weight.png)
+#### Random example: 86026
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/77612_length.png)
-![](plots/77612_weight.png)
-#### Random example: 82547
+![](plots/86026_length.png)
+![](plots/86026_weight.png)
+#### Random example: 65709
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/82547_length.png)
-![](plots/82547_weight.png)
-#### Random example: 88151
+![](plots/65709_length.png)
+![](plots/65709_weight.png)
+#### Random example: 112982
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/88151_length.png)
-![](plots/88151_weight.png)
-#### Random example: 94673
+![](plots/112982_length.png)
+![](plots/112982_weight.png)
+#### Random example: 5273
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/94673_length.png)
-![](plots/94673_weight.png)
-#### Random example: 64618
+![](plots/5273_length.png)
+![](plots/5273_weight.png)
+#### Random example: 67310
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/64618_length.png)
-![](plots/64618_weight.png)
-#### Random example: 15488
+![](plots/67310_length.png)
+![](plots/67310_weight.png)
+#### Random example: 78266
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/15488_length.png)
-![](plots/15488_weight.png)
-#### Random example: 95045
+![](plots/78266_length.png)
+![](plots/78266_weight.png)
+#### Random example: 72589
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/95045_length.png)
-![](plots/95045_weight.png)
-#### Random example: 78458
+![](plots/72589_length.png)
+![](plots/72589_weight.png)
+#### Random example: 113030
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/78458_length.png)
-![](plots/78458_weight.png)
-#### Random example: 96334
+![](plots/113030_length.png)
+![](plots/113030_weight.png)
+#### Random example: 83666
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/96334_length.png)
-![](plots/96334_weight.png)
-#### Random example: 42413
+![](plots/83666_length.png)
+![](plots/83666_weight.png)
+#### Random example: 37596
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/42413_length.png)
-![](plots/42413_weight.png)
-#### Random example: 44942
+![](plots/37596_length.png)
+![](plots/37596_weight.png)
+#### Random example: 69810
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/44942_length.png)
-![](plots/44942_weight.png)
-#### Random example: 84742
+![](plots/69810_length.png)
+![](plots/69810_weight.png)
+#### Random example: 20258
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/84742_length.png)
-![](plots/84742_weight.png)
-#### Random example: 3463
+![](plots/20258_length.png)
+![](plots/20258_weight.png)
+#### Random example: 31178
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/3463_length.png)
-![](plots/3463_weight.png)
-#### Random example: 6413
+![](plots/31178_length.png)
+![](plots/31178_weight.png)
+#### Random example: 47799
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/6413_length.png)
-![](plots/6413_weight.png)
-#### Random example: 59091
+![](plots/47799_length.png)
+![](plots/47799_weight.png)
+#### Random example: 9783
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/59091_length.png)
-![](plots/59091_weight.png)
-#### Random example: 60773
+![](plots/9783_length.png)
+![](plots/9783_weight.png)
+#### Random example: 31327
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/60773_length.png)
-![](plots/60773_weight.png)
-#### Most extreme example (1): 69196
+![](plots/31327_length.png)
+![](plots/31327_weight.png)
+#### Most extreme example (1): 65441
 > 
-![](plots/69196_length.png)
-![](plots/69196_weight.png)
-#### Most extreme example (2): 83700
+![](plots/65441_length.png)
+![](plots/65441_weight.png)
+#### Most extreme example (2): 81414
 > 
-![](plots/83700_length.png)
-![](plots/83700_weight.png)
-#### Most extreme example (3): 35788
+![](plots/81414_length.png)
+![](plots/81414_weight.png)
+#### Most extreme example (3): 45347
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/35788_length.png)
-![](plots/35788_weight.png)
-#### Most extreme example (4): 32901
+![](plots/45347_length.png)
+![](plots/45347_weight.png)
+#### Most extreme example (4): 18639
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/32901_length.png)
-![](plots/32901_weight.png)
-#### Most extreme example (5): 111123
+![](plots/18639_length.png)
+![](plots/18639_weight.png)
+#### Most extreme example (5): 88878
 > 
-![](plots/111123_length.png)
-![](plots/111123_weight.png)
-#### Most extreme example (6): 103516
+![](plots/88878_length.png)
+![](plots/88878_weight.png)
+#### Most extreme example (6): 50096
 > imputed@length_8m imputed@length_1y imputed@length_16m imputed@weight_8m imputed@weight_1y imputed@weight_16m
-![](plots/103516_length.png)
-![](plots/103516_weight.png)
-#### Most extreme example (7): 4859
+![](plots/50096_length.png)
+![](plots/50096_weight.png)
+#### Most extreme example (7): 88008
 > outlier@length_2y imputed@length_2y
-![](plots/4859_length.png)
-![](plots/4859_weight.png)
-#### Most extreme example (8): 47480
+![](plots/88008_length.png)
+![](plots/88008_weight.png)
+#### Most extreme example (8): 112105
 > 
-![](plots/47480_length.png)
-![](plots/47480_weight.png)
-#### Most extreme example (9): 85713
+![](plots/112105_length.png)
+![](plots/112105_weight.png)
+#### Most extreme example (9): 93761
 > 
-![](plots/85713_length.png)
-![](plots/85713_weight.png)
-#### Most extreme example (10): 11601
+![](plots/93761_length.png)
+![](plots/93761_weight.png)
+#### Most extreme example (10): 59148
 > imputed@length_5y imputed@weight_5y
-![](plots/11601_length.png)
-![](plots/11601_weight.png)
-#### Most extreme example (11): 74487
+![](plots/59148_length.png)
+![](plots/59148_weight.png)
+#### Most extreme example (11): 47234
 > 
-![](plots/74487_length.png)
-![](plots/74487_weight.png)
-#### Most extreme example (12): 52753
+![](plots/47234_length.png)
+![](plots/47234_weight.png)
+#### Most extreme example (12): 19248
 > imputed@weight_6m imputed@weight_8m imputed@weight_16m
-![](plots/52753_length.png)
-![](plots/52753_weight.png)
-#### Most extreme example (13): 66962
+![](plots/19248_length.png)
+![](plots/19248_weight.png)
+#### Most extreme example (13): 96161
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/66962_length.png)
-![](plots/66962_weight.png)
-#### Most extreme example (14): 62615
+![](plots/96161_length.png)
+![](plots/96161_weight.png)
+#### Most extreme example (14): 31685
 > 
-![](plots/62615_length.png)
-![](plots/62615_weight.png)
-#### Most extreme example (15): 50795
+![](plots/31685_length.png)
+![](plots/31685_weight.png)
+#### Most extreme example (15): 61275
 > 
-![](plots/50795_length.png)
-![](plots/50795_weight.png)
-#### Most extreme example (16): 61743
+![](plots/61275_length.png)
+![](plots/61275_weight.png)
+#### Most extreme example (16): 95103
 > outlier@weight_1y imputed@weight_1y imputed@weight_2y
-![](plots/61743_length.png)
-![](plots/61743_weight.png)
-#### Most extreme example (17): 47466
+![](plots/95103_length.png)
+![](plots/95103_weight.png)
+#### Most extreme example (17): 67688
 > 
-![](plots/47466_length.png)
-![](plots/47466_weight.png)
-#### Most extreme example (18): 12198
+![](plots/67688_length.png)
+![](plots/67688_weight.png)
+#### Most extreme example (18): 91518
 > 
-![](plots/12198_length.png)
-![](plots/12198_weight.png)
-#### Most extreme example (19): 574
+![](plots/91518_length.png)
+![](plots/91518_weight.png)
+#### Most extreme example (19): 13142
 > imputed@length_16m imputed@length_2y imputed@weight_16m imputed@weight_2y
-![](plots/574_length.png)
-![](plots/574_weight.png)
-#### Most extreme example (20): 64442
+![](plots/13142_length.png)
+![](plots/13142_weight.png)
+#### Most extreme example (20): 11401
 > 
-![](plots/64442_length.png)
-![](plots/64442_weight.png)
+![](plots/11401_length.png)
+![](plots/11401_weight.png)
