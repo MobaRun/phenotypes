@@ -316,7 +316,7 @@ q2CdwVariablesMapping <- c(
   vomiting_q2 = "BB856",
   vomiting_week_from_q2 = "BB857",
   vomiting_week_to_q2 = "BB858",
-  vomiting_week_still_q2 = "BB859",
+  vomiting_week_still_q2 = "BB859"
 )  
 
 q2CdwBeregningCaffeineFoodSupplementsVariablesMapping <- c(
