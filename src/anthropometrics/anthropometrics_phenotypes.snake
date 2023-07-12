@@ -14,7 +14,7 @@ import json
 ####################### Parameters ###########################################
 
 # Pipeline configuration
-config_file = 'analysis.yaml'
+config_file = 'config.yaml'
 configfile: config_file
 
 # Analysis
