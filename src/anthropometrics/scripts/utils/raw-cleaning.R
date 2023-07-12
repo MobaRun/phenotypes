@@ -717,7 +717,6 @@ rawPheno <- mfr_table %>%
   left_join(q2_beregning_foody_fatty_acid_and_iodine_table, by = "preg_id") %>%
   left_join(q2CdwBeregningVariablesMapping, by = "preg_id") %>%
   left_join(q3_table, by = "preg_id") %>%
-  left_join(q3_table, by = "preg_id") %>%
   left_join(q4_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q5_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q6_table, by = c("preg_id", "rank_siblings")) %>%
