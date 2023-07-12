@@ -244,7 +244,11 @@ rule anthropometrics_raw_cleaning:
         mfr_raw_table = mfr_541_table,
         q1m_table = skjema1_table,
         q1f_table = far_table,
-        q2_table = skjema2_beregning_cdw,
+        skjema2cdw_table = skjema2cdw_table,
+        skjema2_beregning_cdw_caffeine_food_and_supplements_table = skjema2_beregning_cdw_caffeine_food_and_supplements_table,
+        skjema2_beregning_cdw_foody_fatty_acid_and_iodine_table = skjema2_beregning_cdw_foody_fatty_acid_and_iodine_table,
+        skjema2_beregning_cdw_supplements_table = skjema2_beregning_cdw_supplements_table,
+        skjema2_beregning_cdw = skjema2_beregning_cdw,
         q3_table = skjema3_table,
         q4_table = skjema4_6mnd_table,
         q5_table = skjema5_18mnd_table,
@@ -286,7 +290,11 @@ rule anthropometrics_raw_cleaning:
             {input.mfr_raw_table} \
             {input.q1m_table} \
             {input.q1f_table} \
-            {input.q2_table} \
+            {input.skjema2cdw_table} \
+            {input.skjema2_beregning_cdw_caffeine_food_and_supplements_table} \
+            {input.skjema2_beregning_cdw_foody_fatty_acid_and_iodine_table} \
+            {input.skjema2_beregning_cdw_supplements_table} \
+            {input.skjema2_beregning_cdw} \
             {input.q3_table} \
             {input.q4_table} \
             {input.q5_table} \
