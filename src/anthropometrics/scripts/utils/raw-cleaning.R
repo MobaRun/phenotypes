@@ -22,19 +22,23 @@ unrelated_children_id_path <- args[5]
 mfr_raw_table_path <- args[6]
 q1m_raw_table_path <- args[7]
 q1f_raw_table_path <- args[8]
-q2_raw_table_path <- args[9]
-q3_raw_table_path <- args[10]
-q4_raw_table_path <- args[11]
-q5_raw_table_path <- args[12]
-q6_raw_table_path <- args[13]
-q7_raw_table_path <- args[14]
-q8_raw_table_path <- args[15]
-q9_raw_table_path <- args[16]
-kostUngdom_raw_table_path <- args[17]
-ungdomsskjema_barn_raw_table_path <- args[18]
-tablesFolder <- args[19]
-qcFolder <- args[20]
-project_number <- args[21]
+q2_cdw_raw_table_path <- args[9]
+q2_beregning_caffeine_food_and_supplements_raw_table_path <- args[9]
+q2_beregning_foody_fatty_acid_and_iodine_raw_table_path <- args[10]
+q2_beregning_supplements_raw_table_path <- args[11]
+q2_beregning_raw_table_path <- args[11]
+q3_raw_table_path <- args[12]
+q4_raw_table_path <- args[13]
+q5_raw_table_path <- args[14]
+q6_raw_table_path <- args[15]
+q7_raw_table_path <- args[16]
+q8_raw_table_path <- args[17]
+q9_raw_table_path <- args[18]
+kostUngdom_raw_table_path <- args[19]
+ungdomsskjema_barn_raw_table_path <- args[20]
+tablesFolder <- args[21]
+qcFolder <- args[22]
+project_number <- args[23]
 
 
 ##
@@ -394,8 +398,36 @@ q1f_raw_table <- read.table(
   stringsAsFactors = F
 )
 
-q2_raw_table <- read.table(
-  file = q2_raw_table_path,
+q2_cdw_raw_table <- read.table(
+  file = q2_cdw_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+
+q2_beregning_caffeine_food_and_supplements_raw_table <- read.table(
+  file = q2_beregning_caffeine_food_and_supplements_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+
+q2_beregning_foody_fatty_acid_and_iodine_raw_table <- read.table(
+  file = q2_beregning_foody_fatty_acid_and_iodine_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+
+q2_beregning_supplements_raw_table <- read.table(
+  file = q2_beregning_supplements_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+
+q2_beregning_raw_table <- read.table(
+  file = q2_beregning_raw_table_path,
   header = T,
   sep = "\t",
   stringsAsFactors = F
@@ -493,12 +525,48 @@ q1f_table <- q1f_raw_table %>%
     )
   )
 
-q2VariablesMapping <- q2VariablesMapping[q2VariablesMapping %in% names(q2_raw_table)]
+q2CdwVariablesMapping <- q2CdwVariablesMapping[q2CdwVariablesMapping %in% names(q2_cdw_raw_table)]
 
-q2_table <- q2_raw_table %>%
+q2_cdw_table <- q2_cdw_raw_table %>%
   select(
     all_of(
-      q2VariablesMapping
+      q2CdwVariablesMapping
+    )
+  )
+
+q2CdwBeregningCaffeineFoodSupplementsVariablesMapping <- q2CdwBeregningCaffeineFoodSupplementsVariablesMapping[q2CdwBeregningCaffeineFoodSupplementsVariablesMapping %in% names(q2_beregning_caffeine_food_and_supplements_raw_table)]
+
+q2_beregning_caffeine_food_and_supplements_table <- q2_beregning_caffeine_food_and_supplements_raw_table %>%
+  select(
+    all_of(
+      q2CdwBeregningCaffeineFoodSupplementsVariablesMapping
+    )
+  )
+
+q2CdwBeregningFoodyFattyAcidIodineVariablesMapping <- q2CdwBeregningFoodyFattyAcidIodineVariablesMapping[q2CdwBeregningFoodyFattyAcidIodineVariablesMapping %in% names(q2_beregning_foody_fatty_acid_and_iodine_raw_table)]
+
+q2_beregning_foody_fatty_acid_and_iodine_table <- q2_beregning_foody_fatty_acid_and_iodine_raw_table %>%
+  select(
+    all_of(
+      q2CdwBeregningFoodyFattyAcidIodineVariablesMapping
+    )
+  )
+
+q2CdwBeregningVariablesMapping <- q2CdwBeregningVariablesMapping[q2CdwBeregningVariablesMapping %in% names(q2_beregning_raw_table)]
+
+q2_beregning_table <- q2_beregning_raw_table %>%
+  select(
+    all_of(
+      q2CdwBeregningVariablesMapping
+    )
+  )
+
+q3VariablesMapping <- q3VariablesMapping[q3VariablesMapping %in% names(q3_raw_table)]
+
+q3_table <- q3_raw_table %>%
+  select(
+    all_of(
+      q3VariablesMapping
     )
   )
 
@@ -619,6 +687,23 @@ if ("GG57" %in% names(q6_raw_table) && "GG58" %in% names(q6_raw_table) && "GG59"
 
 q8_table$length_7y <- ifelse(!is.na(q8_raw_table$JJ408), q8_raw_table$JJ408, q8_raw_table$JJ324*100)
 
+hospitalization_columns <- c("hospitalized_prolonged_nausea_vomiting", "hospitalized_bleeding", "hospitalized_amniotic_fluid_leakage", "hospitalized_threatening_preterm_labour", "hospitalized_high_blood_pressure", "hospitalized_pre_eclampsia", "hospitalized_other")
+suffixes <- c("_0_4w", "_5_8w", "_9_12w", "_13_16w", "_17_20w", "_21_24w", "_25_28w", "_after_29w")
+
+for (hospitalization_column in hospitalization_columns) {
+  
+  for (suffix in suffixes) {
+    
+    week_column <- paste0(hospitalization_column, suffix)
+    
+    q3_table[[hospitalization_column]] <- ifelse(!is.na(q3_table[[week_column]]) & q3_table[[week_column]] == 1, 1, q3_table[[hospitalization_column]])
+    
+  }
+  
+  q3_table$hospitalized_30w <- ifelse(!is.na(q3_table[[hospitalization_column]]) & q3_table[[hospitalization_column]] == 1, "Yes", q3_table$hospitalized_30w)
+  
+}
+
 
 # Make a single data frame
 
@@ -627,7 +712,12 @@ nrow_mfr <- nrow(mfr_table)
 rawPheno <- mfr_table %>%
   left_join(q1m_table, by = "preg_id") %>%
   left_join(q1f_table, by = "preg_id") %>%
-  left_join(q2_table, by = "preg_id") %>%
+  left_join(q2_cdw_table, by = "preg_id") %>%
+  left_join(q2_beregning_caffeine_food_and_supplements_table, by = "preg_id") %>%
+  left_join(q2_beregning_foody_fatty_acid_and_iodine_table, by = "preg_id") %>%
+  left_join(q2CdwBeregningVariablesMapping, by = "preg_id") %>%
+  left_join(q3_table, by = "preg_id") %>%
+  left_join(q3_table, by = "preg_id") %>%
   left_join(q4_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q5_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q6_table, by = c("preg_id", "rank_siblings")) %>%
@@ -705,6 +795,12 @@ lineIndexes <- !is.na(rawPheno$weight_15_18m_2) & rawPheno$weight_15_18m_2 < 2 #
 rawPheno$weight_15_18m_2[lineIndexes] <- rawPheno$weight_15_18m_2[lineIndexes] * 10
 
 rawPheno$weight_15_18m_2 <- rawPheno$weight_15_18m_2 * 1000 # Convert to grams
+
+rawPheno <- rawPheno %>% 
+  mutate(
+    umbilical_cord_length = ifelse(umbilical_cord_length >= 250, umbilical_cord_length / 10, umbilical_cord_length), # Wrong decimal separator
+    umbilical_cord_length = ifelse(umbilical_cord_length <= 10, umbilical_cord_length * 10, umbilical_cord_length) # Wrong decimal separator
+  )
 
 
 # Convert to number
