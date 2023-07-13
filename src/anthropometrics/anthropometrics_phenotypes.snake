@@ -386,4 +386,28 @@ rule pheno_tables_docs:
         """
 
 
+rule write_readme:
+    'Writes the readme file for this release'
+    input:
+        docs_file = docs_file
+    params:
+        config_file = config_file,
+        moba_delivery_folder = moba_phenotypes_folder,
+        raw_tables_folder = raw_tables_folder,
+        tables_folder = tables_folder
+    output:
+        readme_file = os.path.join(docs_folder, "README.md")
+    conda:
+        "envs/r_anthropometrics.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/write_readme.R \
+            {params.config_file} \
+            {params.moba_delivery_folder} \
+            {params.raw_tables_folder} \
+            {params.tables_folder}
+        """
+
+
 
