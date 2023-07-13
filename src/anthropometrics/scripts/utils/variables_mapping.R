@@ -1347,8 +1347,8 @@ mfr_columns <- c(
   "clavicle_fracture_birth",
   "other_fracture_birth",
   "cpap_treatment_birth",
-  "other_fracture_birth = ""
-  icterus_treated_birth",
+  "other_fracture_birth",
+  "icterus_treated_birth",
   "facial_parese_birth",
   "art",
   "prenatal_diagnostic_code",
