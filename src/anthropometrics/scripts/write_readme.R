@@ -13,10 +13,6 @@ library(conflicted)
 library(yaml)
 library(glue)
 library(dplyr)
-library(ggplot2)
-library(ggside)
-library(scico)
-library(grid)
 
 # Solve name space conflicts
 conflicts_prefer(dplyr::filter)

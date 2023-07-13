@@ -1335,15 +1335,15 @@ write.table(
   quote = F
 )
 
-delivery_columns <- delivery_columns[delivery_columns %in% names(values)]
-deliveryValues <- values %>% 
+mfr_columns <- mfr_columns[mfr_columns %in% names(values)]
+mfrValues <- values %>% 
   select(
-    all_of(c(default_columns, delivery_columns))
+    all_of(c(default_columns, mfr_columns))
   )
 
 write.table(
-  x = deliveryValues,
-  file = gzfile(file.path(tablesFolder, "delivery.gz")),
+  x = mfrValues,
+  file = gzfile(file.path(tablesFolder, "mfr.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",

@@ -26,7 +26,7 @@ child_id_file <- args[4]
 mother_id_file <- args[5]
 father_id_file <- args[6]
 pregnancy_table <- args[7]
-delivery_table <- args[8]
+mfr_table <- args[8]
 pregnancy_nutrition_table <- args[9]
 mother_nutrition_table <- args[10]
 child_nutrition_table <- args[11]
@@ -48,7 +48,7 @@ docs_folder <- args[18]
 # father_id_file <- file.path(tables_folder, "id", "fathers_id")
 # 
 # pregnancy_table <- file.path(tables_folder, "pregnancy.gz")
-# delivery_table <- file.path(tables_folder, "delivery.gz")
+# mfr_table <- file.path(tables_folder, "mfr.gz")
 # pregnancy_nutrition_table <- file.path(tables_folder, "pregnancy_nutrition.gz")
 # mother_nutrition_table <- file.path(tables_folder, "mother_nutrition.gz")
 # child_nutrition_table <- file.path(tables_folder, "child_nutrition.gz")
@@ -65,7 +65,7 @@ source("src/anthropometrics/scripts/utils/variables_mapping.R")
 
 tables <- list(
   pregnancy_table = pregnancy_table,
-  delivery_table = delivery_table,
+  mfr_table = mfr_table,
   pregnancy_nutrition_table = pregnancy_nutrition_table,
   mother_nutrition_table = mother_nutrition_table,
   child_nutrition_table = child_nutrition_table,
@@ -78,7 +78,7 @@ tables <- list(
 )
 columns <- list(
   pregnancy_table = pregnancy_columns,
-  delivery_table = delivery_columns,
+  mfr_table = mfr_columns,
   pregnancy_nutrition_table = pregnancy_nutrition_columns,
   mother_nutrition_table = mother_nutrition_columns,
   child_nutrition_table = child_nutrition_columns,
