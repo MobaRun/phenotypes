@@ -126,9 +126,8 @@ mfrVariablesMapping <- c(
   systemic_antibiotics_birth = "SYSTEMISKANTIBIOTIKA",
   respiratory_treatment_birth = "RESPIRATOR",
   clavicle_fracture_birth = "FRACT_CLAVICULAE",
-  other_fracture_birth = "ANNEN_FRACTUR",
   cpap_treatment_birth = "CPAP",
-  other_fracture_birth = "ANNEN_FRACTUR"
+  other_fracture_birth = "ANNEN_FRACTUR",
   icterus_treated_birth = "ICTERUS",
   facial_parese_birth = "FACIALISPARESE",
   art = "ART",
