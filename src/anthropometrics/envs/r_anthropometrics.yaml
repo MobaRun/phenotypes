@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - r-base=4.2
+  - r-here = 1.0.1
   - r-conflicted=1.2.0
   - r-stringr=1.5.0
   - r-glue=1.6.2
