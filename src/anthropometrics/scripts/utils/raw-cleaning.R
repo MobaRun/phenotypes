@@ -834,15 +834,6 @@ if ("mother_height_self" %in% names(rawPheno) & "mother_height" %in% names(rawPh
   
 }
 
-if ("mother_weight_beginning_self" %in% names(rawPheno) & "mother_weight_beginning" %in% names(rawPheno)) {
-  
-  rawPheno <- rawPheno %>%
-    mutate(
-      mother_weight_beginning = ifelse(is.na(mother_weight_beginning), mother_weight_beginning_self, mother_weight_beginning)
-    )
-  
-}
-
 if ("mother_weight_end" %in% names(rawPheno) & "mother_weight_end_self" %in% names(rawPheno)) {
   
   rawPheno <- rawPheno %>%
@@ -1276,12 +1267,6 @@ values <- values %>%
     mother_median_height = as.numeric(
       pmap(
         list(mother_height, mother_height_3y, mother_height_5y, mother_height_8y),
-        ~median(c(..1, ..2, ..3, ..4), na.rm = T)
-      )
-    ),
-    mother_median_weight = as.numeric(
-      pmap(
-        list(mother_weight_beginning, mother_weight_3y, mother_weight_5y, mother_weight_8y),
         ~median(c(..1, ..2, ..3, ..4), na.rm = T)
       )
     )
