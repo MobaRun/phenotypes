@@ -150,7 +150,8 @@ rule all:
         mother_health_table = mother_health_table,
         father_health_table = father_health_table,
         child_anthropometrics_table = child_anthropometrics_table,
-        docs_file = docs_file
+        docs_file = docs_file,
+        readme_file = os.path.join(docs_folder,"README.md")
 
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
