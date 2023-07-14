@@ -30,9 +30,9 @@ if (!file.exists(config_file)) {
   
 }
 
-moba_delivery_folder <- args[3]
-raw_tables_folder <- args[4]
-tables_folder <- args[5]
+moba_delivery_folder <- args[2]
+raw_tables_folder <- args[3]
+tables_folder <- args[4]
 
 # Import config file
 
@@ -59,7 +59,7 @@ write(
   append = T
 )
 write(
-  x = glue("- [{config$release}](config$release/README.md)\n"),
+  x = glue("- [{config$release}]({config$release}/README.md)\n"),
   file = readme_file,
   append = T
 )
@@ -73,7 +73,7 @@ write(
 
 for (file in list.files(file.path(here(), "docs", "anthropometrics"))) {
   
-  if (dir.exists(file.path(here(), "docs", "anthropometrics", file))) {
+  if (dir.exists(file.path(here(), "docs", "anthropometrics", file)) && file != config$release) {
     
     write(
       x = glue("- [{file}](file)\n"),
@@ -121,7 +121,7 @@ write(
   append = T
 )
 write(
-  x = glue("- [Associated documentation](raw/data.md).\n"),
+  x = glue("- [Raw tables documentation](raw/data.md).\n"),
   file = readme_file,
   append = T
 )
@@ -142,7 +142,7 @@ write(
   append = T
 )
 write(
-  x = glue("- [Associated documentation](tables/phenotypes.md).\n"),
+  x = glue("- [Curated tables documentation](tables/phenotypes.md).\n"),
   file = readme_file,
   append = T
 )

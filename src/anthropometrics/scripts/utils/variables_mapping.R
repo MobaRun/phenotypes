@@ -1535,7 +1535,7 @@ pregnancy_columns <- c(
   "hospitalized_bleeding_5_8w",
   "hospitalized_bleeding_9_12w",
   "hospitalized_bleeding_13_16w",
-  "hospitalized_bleeding_17_20w ",
+  "hospitalized_bleeding_17_20w",
   "hospitalized_bleeding_21_24w",
   "hospitalized_bleeding_25_28w",
   "hospitalized_bleeding_after_29w",
@@ -1857,19 +1857,6 @@ child_columns <- c(
 )
 
 child_health_columns <- c(
-  "apgar_1",
-  "apgar_5",
-  "neonatal_ward",
-  "respiratory_distress_syndrome_birth", 
-  "intracranial_hemorrhage_birth", 
-  "plexus_injury_birth", 
-  "systemic_antibiotics_birth", 
-  "respiratory_treatment_birth", 
-  "clavicle_fracture_birth", 
-  "other_fracture_birth", 
-  "cpap_treatment_birth", 
-  "icterus_treated_birth", 
-  "facial_parese_birth", 
   "common_cold_6m", 
   "common_cold_freq_6m",
   "common_cold_doctor_6m",
@@ -2139,22 +2126,16 @@ child_health_columns <- c(
 )
 
 parent_values_columns <- c(
-  "mother_birth_year", 
   "mother_age_at_menarche",
   "mother_age_15w", 
-  "mother_age_category", 
-  "father_birth_year", 
+  "mother_age_category",
   "father_age_15w", 
-  "father_age_category", 
-  "region_habitation", 
+  "father_age_category",
   "mother_education_completed", 
   "father_education_completed", 
   "mother_income", 
-  "father_income", 
-  "father_height", 
-  "father_weight", 
-  "mother_height", 
-  "mother_weight_beginning", 
+  "father_income",
+  "mother_height",
   "mother_weight_15w",
   "mother_weight_end",
   "mother_weight_6m",
@@ -2165,19 +2146,12 @@ parent_values_columns <- c(
   "mother_weight_3y", 
   "mother_weight_5y", 
   "mother_weight_8y",
-  "mother_median_height", 
-  "mother_median_weight", 
-  "mother_marital_status"
+  "mother_median_height"
 )
 
 mother_health_columns <- c(
   "grandmother_smoke", 
-  "mother_asthma", 
-  "mother_chronic_hypertension", 
-  "mother_chronic_renal_disease", 
-  "mother_rheumatoid_arthritis",
-  "mother_epilepsi", 
-  "mother_diabetes", 
+  "mother_asthma",
   "hba1c_before", 
   "diabetes_insulin_before", 
   "diabetes_insulin_during", 
