@@ -17,9 +17,6 @@ library(dplyr)
 # Solve name space conflicts
 conflicts_prefer(dplyr::filter)
 
-# General parameters
-theme_set(theme_bw(base_size = 14))
-
 
 # Files
 
