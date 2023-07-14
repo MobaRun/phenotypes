@@ -4,10 +4,10 @@ Variable mapping to questionnaire: q4, question DD301.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 111165 | 81423 | 70123 | 49162 |
-| Non-missing | 2458 | 1932 | 1646 | 1056 |
-| No | 2225 | 1749 | 1487 |950 |
-| Yes | 233 | 183 | 159 |106 |
+| Missing | 111165 | 73699 | 70123 | 49162 |
+| Non-missing | 2458 | 1732 | 1646 | 1056 |
+| No | 2225 | 1564 | 1487 |950 |
+| Yes | 233 | 168 | 159 |106 |
 
 
 

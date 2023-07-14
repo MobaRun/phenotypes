@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question HELLP.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113421 | 83261 | 71691 | 50159 |
-| Non-missing | 202 | 94 | 78 | 59 |
-| Yes | 202 | 94 | 78 |59 |
+| Missing | 113421 | 75344 | 71691 | 50159 |
+| Non-missing | 202 | 87 | 78 | 59 |
+| Yes | 202 | 87 | 78 |59 |
 
 
 

@@ -4,11 +4,11 @@ Variable mapping to questionnaire: q7, question LL82.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 72482 | 51190 | 43871 | 28900 |
-| Non-missing | 41141 | 32165 | 27898 | 21318 |
+| Missing | 72482 | 45987 | 43871 | 28900 |
+| Non-missing | 41141 | 29444 | 27898 | 21318 |
 | More than 1 check box filled in | 4 | 1 | 1 |1 |
-| No | 40720 | 31858 | 27674 |21146 |
-| Yes | 417 | 306 | 223 |171 |
+| No | 40720 | 29193 | 27674 |21146 |
+| Yes | 417 | 250 | 223 |171 |
 
 
 

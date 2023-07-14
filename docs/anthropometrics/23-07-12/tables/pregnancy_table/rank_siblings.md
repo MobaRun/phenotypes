@@ -5,11 +5,11 @@ Variable mapping to questionnaire: mfr, question BARN_NR; questionnaire: q4, que
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
 | Missing | 0 | 0 | 0 | 0 |
-| Non-missing | 113623 | 83355 | 71769 | 50218 |
+| Non-missing | 113623 | 75431 | 71769 | 50218 |
 | 0 | 1 | 0 | 0 | 0 |
-| 1 | 111654 | 82367 | 70941 | 49668 |
-| 2 | 1947 | 981 | 822 | 549 |
-| 3 | 21 | 7 | 6 | 1 |
+| 1 | 111654 | 74571 | 70941 | 49668 |
+| 2 | 1947 | 854 | 822 | 549 |
+| 3 | 21 | 6 | 6 | 1 |
 
 
 

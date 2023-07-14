@@ -4,9 +4,9 @@ Variable mapping to questionnaire: q1m, question AA277.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 110163 | 80728 | 69500 | 48626 |
-| Non-missing | 3460 | 2627 | 2269 | 1592 |
-| 1 | 3460 | 2627 | 2269 | 1592 |
+| Missing | 110163 | 73044 | 69500 | 48626 |
+| Non-missing | 3460 | 2387 | 2269 | 1592 |
+| 1 | 3460 | 2387 | 2269 | 1592 |
 
 
 

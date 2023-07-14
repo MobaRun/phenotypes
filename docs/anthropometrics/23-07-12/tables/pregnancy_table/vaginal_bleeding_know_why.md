@@ -4,11 +4,11 @@ Variable mapping to questionnaire: q3, question CC332.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 101978 | 74444 | 64194 | 44921 |
-| Non-missing | 11645 | 8911 | 7575 | 5297 |
-| More than 1 check box filled in | 68 | 52 | 43 |28 |
-| No | 7064 | 5364 | 4528 |3117 |
-| Yes | 4513 | 3495 | 3004 |2152 |
+| Missing | 101978 | 67500 | 64194 | 44921 |
+| Non-missing | 11645 | 7931 | 7575 | 5297 |
+| More than 1 check box filled in | 68 | 48 | 43 |28 |
+| No | 7064 | 4732 | 4528 |3117 |
+| Yes | 4513 | 3151 | 3004 |2152 |
 
 
 

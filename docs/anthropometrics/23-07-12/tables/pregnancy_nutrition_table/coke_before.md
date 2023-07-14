@@ -4,9 +4,9 @@ Variable mapping to questionnaire: q1m, question AA1392.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 67199 | 47769 | 40957 | 28459 |
-| Non-missing | 46424 | 35586 | 30812 | 21759 |
-| Consumption have been reported by a mark but no amount given | 11 | 6 | 4 |2 |
+| Missing | 67199 | 43054 | 40957 | 28459 |
+| Non-missing | 46424 | 32377 | 30812 | 21759 |
+| Consumption have been reported by a mark but no amount given | 11 | 5 | 4 |2 |
 | 25th percentile | 0 | 0 | 0 | 0 |
 | 50th percentile | 0 | 0 | 0 | 0 |
 | 75th percentile | 1 | 1 | 1 | 1 |

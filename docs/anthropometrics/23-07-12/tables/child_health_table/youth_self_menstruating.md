@@ -4,10 +4,10 @@ Variable mapping to questionnaire: ungdomsskjema_barn, question UB230.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 101976 | 74156 | 63714 | 44134 |
-| Non-missing | 11647 | 9199 | 8055 | 6084 |
-| JA | 10925 | 8629 | 7563 |5704 |
-| NEI | 722 | 570 | 492 |380 |
+| Missing | 101976 | 66974 | 63714 | 44134 |
+| Non-missing | 11647 | 8457 | 8055 | 6084 |
+| JA | 10925 | 7925 | 7563 |5704 |
+| NEI | 722 | 532 | 492 |380 |
 
 
 

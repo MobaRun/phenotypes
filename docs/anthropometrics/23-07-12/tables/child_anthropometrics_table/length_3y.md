@@ -4,10 +4,10 @@ Variable mapping to questionnaire: q6, question GG25.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 54931 | 37014 | 31483 | 20487 |
-| Non-missing | 58692 | 46341 | 40286 | 29731 |
+| Missing | 54930 | 33003 | 31482 | 20486 |
+| Non-missing | 58693 | 42428 | 40287 | 29732 |
 | 25th percentile | 94 | 94 | 94 | 94 |
-| 50th percentile | 96.7978586603291 | 97 | 97 | 97 |
+| 50th percentile | 96.7974027660077 | 97 | 97 | 97 |
 | 75th percentile | 99 | 99 | 99 | 99 |
 
 

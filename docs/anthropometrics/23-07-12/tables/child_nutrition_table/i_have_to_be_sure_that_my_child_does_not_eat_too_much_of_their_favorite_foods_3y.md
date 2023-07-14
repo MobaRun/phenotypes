@@ -4,14 +4,14 @@ Variable mapping to questionnaire: q6, question GG370.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 56777 | 38430 | 32714 | 21564 |
-| Non-missing | 56846 | 44925 | 39055 | 28654 |
-| Disagree completely | 24824 | 19646 | 17055 |12519 |
-| More than 1 check box filled in | 48 | 39 | 33 |27 |
-| Neither/nor | 12027 | 9508 | 8336 |6100 |
-| Slightly agree | 5790 | 4582 | 4000 |2916 |
-| Slightly disagree | 12519 | 9878 | 8564 |6318 |
-| Totally agree | 1638 | 1272 | 1067 |774 |
+| Missing | 56777 | 34306 | 32714 | 21564 |
+| Non-missing | 56846 | 41125 | 39055 | 28654 |
+| Disagree completely | 24824 | 17979 | 17055 |12519 |
+| More than 1 check box filled in | 48 | 35 | 33 |27 |
+| Neither/nor | 12027 | 8754 | 8336 |6100 |
+| Slightly agree | 5790 | 4200 | 4000 |2916 |
+| Slightly disagree | 12519 | 9026 | 8564 |6318 |
+| Totally agree | 1638 | 1131 | 1067 |774 |
 
 
 

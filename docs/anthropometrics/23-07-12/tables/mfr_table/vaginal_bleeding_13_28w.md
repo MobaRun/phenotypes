@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question BLODN_13_28.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 111754 | 82063 | 70650 | 49456 |
-| Non-missing | 1869 | 1292 | 1119 | 762 |
-| Yes | 1869 | 1292 | 1119 |762 |
+| Missing | 111754 | 74255 | 70650 | 49456 |
+| Non-missing | 1869 | 1176 | 1119 | 762 |
+| Yes | 1869 | 1176 | 1119 |762 |
 
 
 

@@ -5,8 +5,8 @@ Variable mapping to questionnaire: mfr, question BARNE0.
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
 | Missing | 0 | 0 | 0 | 0 |
-| Non-missing | 113623 | 83355 | 71769 | 50218 |
-|  | 113537 | 83334 | 71751 |50204 |
+| Non-missing | 113623 | 75431 | 71769 | 50218 |
+|  | 113537 | 75413 | 71751 |50204 |
 | _D; | 1 | 0 | 0 |0 |
 | _D;FI_Q250_nd_D;FI_R010_nd_D;FI_XF931_nd_K; | 1 | 1 | 1 |0 |
 | _IK;FI_FDE96_nd_K;FI_REGG_nd_M; | 1 | 0 | 0 |0 |
@@ -51,7 +51,7 @@ Variable mapping to questionnaire: mfr, question BARNE0.
 | D;FI_ND00_nd_IK; | 1 | 0 | 0 |0 |
 | D;FI_P702_nd_D; | 1 | 0 | 0 |0 |
 | D;FI_P711_nd_D;FI_P740_nd_D; | 1 | 0 | 0 |0 |
-| D;FI_Q431_nd_D;FI_Q900_nd_D;FI_Q909_nd_D;FI_ND05_nd_IK;FI_ND49_nd_IK; | 1 | 1 | 0 |0 |
+| D;FI_Q431_nd_D;FI_Q900_nd_D;FI_Q909_nd_D;FI_ND05_nd_IK;FI_ND49_nd_IK; | 1 | 0 | 0 |0 |
 | FI_ND49_nd_IK; | 1 | 0 | 0 |0 |
 | FI_P742_nd_D;FI_Q250_nd_D;FI_ND49_nd_IK; | 1 | 0 | 0 |0 |
 | FI_P743_nd_D;FI_Q230_nd_D;FI_Q232_nd_D;FI_Q253_nd_D;FI_Q254_nd_D;FI_ND49_nd_IK; | 1 | 0 | 0 |0 |
@@ -59,7 +59,7 @@ Variable mapping to questionnaire: mfr, question BARNE0.
 | FI_Q250_nd_D;FI_Q251_nd_D;FI_Q254_nd_D;FI_BB01_nd_IK;FI_BB02_nd_IK;FI_BB03_nd_IK; | 1 | 0 | 0 |0 |
 | FI_Q692_nd_D;FI_ND49_nd_IK; | 1 | 0 | 0 |0 |
 | I_BB03_nd_IK; | 1 | 1 | 1 |1 |
-| I_ND00_nd_IK; | 2 | 1 | 0 |0 |
+| I_ND00_nd_IK; | 2 | 0 | 0 |0 |
 | I_ND49_nd_IK; | 2 | 0 | 0 |0 |
 | I_ND49_nd_IK;FI_BB03_nd_IK; | 1 | 0 | 0 |0 |
 | I_P522_nd_D;FI_P524_nd_D;FI_P610_nd_D;FI_P612_nd_D;FI_P613_nd_D;FI_P711_nd_D;FI_P740_nd_D;FI_P742_nd_D;FI_P90_nd_D;FI_P910_nd_D;FI_P911_nd_D;FI_P912_nd_D;FI_P914_nd_D;FI_P918_nd_D;FI_Q039_nd_D;FI_ND49_nd_IK; | 1 | 0 | 0 |0 |
@@ -82,7 +82,7 @@ Variable mapping to questionnaire: mfr, question BARNE0.
 | nd_D;FI_P285_nd_D;FI_P590_nd_D;FI_P612_nd_D;FI_P614_nd_D;FI_P742_nd_D;FI_P744_nd_D;FI_P748_nd_D;FI_P929_nd_D;FI_Q250_nd_D;FI_ND00_nd_IK; | 1 | 0 | 0 |0 |
 | nd_D;FI_P912_nd_D;FI_Q250_nd_D; | 1 | 0 | 0 |0 |
 | nd_K;FI_XF931_nd_K; | 1 | 1 | 1 |1 |
-| P211_nd_D;FI_P220_nd_D;FI_P271_nd_D;FI_P278_nd_D;FI_P285_nd_D;FI_P520_nd_D;FI_P612_nd_D;FI_P614_nd_D;FI_P742_nd_D;FI_P743_nd_D;FI_P749_nd_D;FI_Q250_nd_D;FI_Q753_nd_D;FI_ND00_nd_IK; | 1 | 1 | 0 |0 |
+| P211_nd_D;FI_P220_nd_D;FI_P271_nd_D;FI_P278_nd_D;FI_P285_nd_D;FI_P520_nd_D;FI_P612_nd_D;FI_P614_nd_D;FI_P742_nd_D;FI_P743_nd_D;FI_P749_nd_D;FI_Q250_nd_D;FI_Q753_nd_D;FI_ND00_nd_IK; | 1 | 0 | 0 |0 |
 | P612_nd_D;FI_P702_nd_D;FI_P704_nd_D;FI_P740_nd_D;FI_Q250_nd_D; | 1 | 0 | 0 |0 |
 | P743_nd_D;FI_P90_nd_D;FI_P911_nd_D;FI_P968_nd_D;FI_Q211_nd_D; | 1 | 0 | 0 |0 |
 | P809_nd_D;FI_P913_nd_D; | 1 | 0 | 0 |0 |

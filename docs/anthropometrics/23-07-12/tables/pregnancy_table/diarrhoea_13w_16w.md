@@ -4,9 +4,9 @@ Variable mapping to questionnaire: q3, question CC448.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 111430 | 81658 | 70303 | 49204 |
-| Non-missing | 2193 | 1697 | 1466 | 1014 |
-| 1 | 2193 | 1697 | 1466 | 1014 |
+| Missing | 111430 | 73893 | 70303 | 49204 |
+| Non-missing | 2193 | 1538 | 1466 | 1014 |
+| 1 | 2193 | 1538 | 1466 | 1014 |
 
 
 

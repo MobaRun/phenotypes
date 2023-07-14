@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question FRAMHJELP.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 112376 | 82548 | 71068 | 49708 |
-| Non-missing | 1247 | 807 | 701 | 510 |
-| Yes | 1247 | 807 | 701 |510 |
+| Missing | 112376 | 74698 | 71068 | 49708 |
+| Non-missing | 1247 | 733 | 701 | 510 |
+| Yes | 1247 | 733 | 701 |510 |
 
 
 

@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question PLACENTA_PREVIA.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113287 | 83172 | 71611 | 50109 |
-| Non-missing | 336 | 183 | 158 | 109 |
-| Yes | 336 | 183 | 158 |109 |
+| Missing | 113287 | 75268 | 71611 | 50109 |
+| Non-missing | 336 | 163 | 158 | 109 |
+| Yes | 336 | 163 | 158 |109 |
 
 
 

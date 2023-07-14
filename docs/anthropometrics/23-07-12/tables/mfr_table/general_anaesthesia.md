@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question NARKOSE.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 110391 | 81548 | 70208 | 49115 |
-| Non-missing | 3232 | 1807 | 1561 | 1103 |
-| Yes | 3232 | 1807 | 1561 |1103 |
+| Missing | 110391 | 73798 | 70208 | 49115 |
+| Non-missing | 3232 | 1633 | 1561 | 1103 |
+| Yes | 3232 | 1633 | 1561 |1103 |
 
 
 

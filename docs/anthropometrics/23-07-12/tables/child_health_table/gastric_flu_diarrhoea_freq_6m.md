@@ -4,8 +4,8 @@ Variable mapping to questionnaire: q4, question DD284.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 104871 | 76495 | 65935 | 45939 |
-| Non-missing | 8752 | 6860 | 5834 | 4279 |
+| Missing | 104871 | 69231 | 65935 | 45939 |
+| Non-missing | 8752 | 6200 | 5834 | 4279 |
 | 25th percentile | 1 | 1 | 1 | 1 |
 | 50th percentile | 1 | 1 | 1 | 1 |
 | 75th percentile | 1 | 1 | 1 | 1 |

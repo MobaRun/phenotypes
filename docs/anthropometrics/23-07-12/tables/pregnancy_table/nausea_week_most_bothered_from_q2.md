@@ -4,8 +4,8 @@ Variable mapping to questionnaire: q2_cwd, question BB853.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 52805 | 36268 | 31243 | 19995 |
-| Non-missing | 60818 | 47087 | 40526 | 30223 |
+| Missing | 52805 | 32724 | 31243 | 19995 |
+| Non-missing | 60818 | 42707 | 40526 | 30223 |
 | 25th percentile | 4 | 4 | 4 | 4 |
 | 50th percentile | 6 | 6 | 6 | 6 |
 | 75th percentile | 7 | 7 | 7 | 7 |

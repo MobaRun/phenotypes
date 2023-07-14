@@ -4,11 +4,11 @@ Variable mapping to questionnaire: q5, question EE386.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 37634 | 23209 | 19387 | 12950 |
-| Non-missing | 75989 | 60146 | 52382 | 37268 |
-| 25th percentile | 8.09 | 8.1149845820449 | 8.12 | 8.13 |
-| 50th percentile | 8.759 | 8.77922175300043 | 8.78 | 8.78 |
-| 75th percentile | 9.47 | 9.48 | 9.49 | 9.485 |
+| Missing | 37635 | 20419 | 19387 | 12950 |
+| Non-missing | 75988 | 55012 | 52382 | 37268 |
+| 25th percentile | 8.09 | 8.12 | 8.12 | 8.13 |
+| 50th percentile | 8.75903721241183 | 8.78 | 8.78 | 8.78 |
+| 75th percentile | 9.47 | 9.48702968296817 | 9.49 | 9.485 |
 
 
 

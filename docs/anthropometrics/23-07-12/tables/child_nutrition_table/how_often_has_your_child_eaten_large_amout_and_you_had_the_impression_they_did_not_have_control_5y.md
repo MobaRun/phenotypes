@@ -4,13 +4,13 @@ Variable mapping to questionnaire: q7, question LL173.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 72782 | 51389 | 44041 | 29039 |
-| Non-missing | 40841 | 31966 | 27728 | 21179 |
-| 2 times a week or more | 77 | 55 | 41 |30 |
-| Less often | 1749 | 1347 | 1128 |861 |
-| More than 1 check box filled in | 7 | 5 | 4 |2 |
-| Never | 38902 | 30480 | 26484 |20237 |
-| Once per week | 106 | 79 | 71 |49 |
+| Missing | 72782 | 46165 | 44041 | 29039 |
+| Non-missing | 40841 | 29266 | 27728 | 21179 |
+| 2 times a week or more | 77 | 46 | 41 |30 |
+| Less often | 1749 | 1192 | 1128 |861 |
+| More than 1 check box filled in | 7 | 4 | 4 |2 |
+| Never | 38902 | 27949 | 26484 |20237 |
+| Once per week | 106 | 75 | 71 |49 |
 
 
 

@@ -4,9 +4,9 @@ Variable mapping to questionnaire: q2_cwd, question BB859.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 108157 | 79156 | 68212 | 47572 |
-| Non-missing | 5466 | 4199 | 3557 | 2646 |
-| 1 | 5466 | 4199 | 3557 | 2646 |
+| Missing | 108157 | 71684 | 68212 | 47572 |
+| Non-missing | 5466 | 3747 | 3557 | 2646 |
+| 1 | 5466 | 3747 | 3557 | 2646 |
 
 
 

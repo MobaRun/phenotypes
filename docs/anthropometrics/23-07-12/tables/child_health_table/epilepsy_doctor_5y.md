@@ -4,10 +4,10 @@ Variable mapping to questionnaire: q7, question LL68.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113494 | 83261 | 71693 | 50153 |
-| Non-missing | 129 | 94 | 76 | 65 |
-| No | 47 | 39 | 33 |27 |
-| Yes | 82 | 55 | 43 |38 |
+| Missing | 113494 | 75348 | 71693 | 50153 |
+| Non-missing | 129 | 83 | 76 | 65 |
+| No | 47 | 35 | 33 |27 |
+| Yes | 82 | 48 | 43 |38 |
 
 
 

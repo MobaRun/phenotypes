@@ -4,13 +4,13 @@ Variable mapping to questionnaire: q4, question DD92.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 25885 | 13950 | 11473 | 7544 |
-| Non-missing | 87738 | 69405 | 60296 | 42674 |
-| 1-3 times a week | 284 | 220 | 187 |143 |
-| 4-6 times a week | 653 | 491 | 375 |252 |
-| At least once a day | 70058 | 55844 | 48704 |34713 |
-| More than 1 check box filled in | 118 | 91 | 76 |55 |
-| Never / seldom | 16625 | 12759 | 10954 |7511 |
+| Missing | 25885 | 12111 | 11473 | 7544 |
+| Non-missing | 87738 | 63320 | 60296 | 42674 |
+| 1-3 times a week | 284 | 197 | 187 |143 |
+| 4-6 times a week | 653 | 393 | 375 |252 |
+| At least once a day | 70058 | 51121 | 48704 |34713 |
+| More than 1 check box filled in | 118 | 80 | 76 |55 |
+| Never / seldom | 16625 | 11529 | 10954 |7511 |
 
 
 

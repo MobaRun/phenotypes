@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question GANESPALTE.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113548 | 83306 | 71730 | 50195 |
-| Non-missing | 75 | 49 | 39 | 23 |
-| Yes | 75 | 49 | 39 |23 |
+| Missing | 113548 | 75388 | 71730 | 50195 |
+| Non-missing | 75 | 43 | 39 | 23 |
+| Yes | 75 | 43 | 39 |23 |
 
 
 

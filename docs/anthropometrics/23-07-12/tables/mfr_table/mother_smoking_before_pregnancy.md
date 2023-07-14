@@ -4,11 +4,11 @@ Variable mapping to questionnaire: mfr, question ROYK_FOER.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 95859 | 71102 | 61132 | 42276 |
-| Non-missing | 17764 | 12253 | 10637 | 7942 |
-| Daily | 1975 | 1244 | 1077 |746 |
-| No | 15249 | 10649 | 9245 |6956 |
-| Sometimes | 540 | 360 | 315 |240 |
+| Missing | 95859 | 64214 | 61132 | 42276 |
+| Non-missing | 17764 | 11217 | 10637 | 7942 |
+| Daily | 1975 | 1144 | 1077 |746 |
+| No | 15249 | 9736 | 9245 |6956 |
+| Sometimes | 540 | 337 | 315 |240 |
 
 
 

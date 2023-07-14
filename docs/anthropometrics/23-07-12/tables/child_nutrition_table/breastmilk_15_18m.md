@@ -4,9 +4,9 @@ Variable mapping to questionnaire: q5, question EE15.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 101006 | 73358 | 63193 | 44229 |
-| Non-missing | 12617 | 9997 | 8576 | 5989 |
-| 1 | 12617 | 9997 | 8576 | 5989 |
+| Missing | 101006 | 66423 | 63193 | 44229 |
+| Non-missing | 12617 | 9008 | 8576 | 5989 |
+| 1 | 12617 | 9008 | 8576 | 5989 |
 
 
 

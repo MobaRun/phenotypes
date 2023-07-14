@@ -4,10 +4,10 @@ Variable mapping to questionnaire: mfr, question LENGDE.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 5506 | 2940 | 2545 | 1834 |
-| Non-missing | 108117 | 80415 | 69224 | 48384 |
+| Missing | 5506 | 2666 | 2545 | 1834 |
+| Non-missing | 108117 | 72765 | 69224 | 48384 |
 | 25th percentile | 49 | 49 | 49 | 49 |
-| 50th percentile | 50 | 50 | 51 | 50 |
+| 50th percentile | 50 | 51 | 51 | 50 |
 | 75th percentile | 52 | 52 | 52 | 52 |
 
 

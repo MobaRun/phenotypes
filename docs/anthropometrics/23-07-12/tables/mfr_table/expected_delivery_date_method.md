@@ -4,10 +4,10 @@ Variable mapping to questionnaire: mfr, question TERMINMETODE.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 1468 | 948 | 815 | 558 |
-| Non-missing | 112155 | 82407 | 70954 | 49660 |
-| Ultrasound is not performed | 2141 | 1442 | 1227 |854 |
-| Ultrasound unspecified | 110014 | 80965 | 69727 |48806 |
+| Missing | 1468 | 865 | 815 | 558 |
+| Non-missing | 112155 | 74566 | 70954 | 49660 |
+| Ultrasound is not performed | 2141 | 1285 | 1227 |854 |
+| Ultrasound unspecified | 110014 | 73281 | 69727 |48806 |
 
 
 

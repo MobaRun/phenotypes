@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question MISD.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 107924 | 79640 | 68675 | 48044 |
-| Non-missing | 5699 | 3715 | 3094 | 2174 |
-| Yes | 5699 | 3715 | 3094 |2174 |
+| Missing | 107924 | 72174 | 68675 | 48044 |
+| Non-missing | 5699 | 3257 | 3094 | 2174 |
+| Yes | 5699 | 3257 | 3094 |2174 |
 
 
 

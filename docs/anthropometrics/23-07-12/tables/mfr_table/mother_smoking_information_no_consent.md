@@ -5,9 +5,9 @@ Variable mapping to questionnaire: mfr, question ROYK_MOTSETTER_SEG.
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
 | Missing | 171 | 1 | 1 | 1 |
-| Non-missing | 113452 | 83354 | 71768 | 50217 |
-| No | 96475 | 71162 | 61621 |42594 |
-| Yes | 16977 | 12192 | 10147 |7623 |
+| Non-missing | 113452 | 75430 | 71768 | 50217 |
+| No | 96475 | 64626 | 61621 |42594 |
+| Yes | 16977 | 10804 | 10147 |7623 |
 
 
 

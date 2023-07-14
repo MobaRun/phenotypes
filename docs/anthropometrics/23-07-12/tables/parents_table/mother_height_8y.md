@@ -4,8 +4,8 @@ Variable mapping to questionnaire: q9, question NN283.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 71242 | 50026 | 42812 | 28586 |
-| Non-missing | 42381 | 33329 | 28957 | 21632 |
+| Missing | 71242 | 44883 | 42812 | 28586 |
+| Non-missing | 42381 | 30548 | 28957 | 21632 |
 | 25th percentile | 164 | 164 | 164 | 164 |
 | 50th percentile | 168 | 168 | 168 | 168 |
 | 75th percentile | 172 | 172 | 172 | 172 |

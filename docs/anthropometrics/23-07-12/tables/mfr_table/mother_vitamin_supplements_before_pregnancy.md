@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question MULTIVITF.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 94788 | 69275 | 59555 | 41193 |
-| Non-missing | 18835 | 14080 | 12214 | 9025 |
-| Yes | 18835 | 14080 | 12214 |9025 |
+| Missing | 94788 | 62586 | 59555 | 41193 |
+| Non-missing | 18835 | 12845 | 12214 | 9025 |
+| Yes | 18835 | 12845 | 12214 |9025 |
 
 
 

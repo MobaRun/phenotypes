@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question ANNEN_FRACTUR.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113565 | 83319 | 71739 | 50199 |
-| Non-missing | 58 | 36 | 30 | 19 |
-| Yes | 58 | 36 | 30 |19 |
+| Missing | 113565 | 75400 | 71739 | 50199 |
+| Non-missing | 58 | 31 | 30 | 19 |
+| Yes | 58 | 31 | 30 |19 |
 
 
 

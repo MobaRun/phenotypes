@@ -4,8 +4,8 @@ Variable mapping to questionnaire: q3, question CC329.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 111012 | 81362 | 70055 | 49004 |
-| Non-missing | 2611 | 1993 | 1714 | 1214 |
+| Missing | 111012 | 73620 | 70055 | 49004 |
+| Non-missing | 2611 | 1811 | 1714 | 1214 |
 | 25th percentile | 1 | 1 | 1 | 1 |
 | 50th percentile | 1 | 1 | 1 | 1 |
 | 75th percentile | 2 | 2 | 2 | 2 |

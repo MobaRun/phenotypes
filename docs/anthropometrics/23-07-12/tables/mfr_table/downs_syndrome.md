@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question DOWNS.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113464 | 83268 | 71766 | 50215 |
-| Non-missing | 159 | 87 | 3 | 3 |
-| Yes | 159 | 87 | 3 |3 |
+| Missing | 113464 | 75428 | 71766 | 50215 |
+| Non-missing | 159 | 3 | 3 | 3 |
+| Yes | 159 | 3 | 3 |3 |
 
 
 

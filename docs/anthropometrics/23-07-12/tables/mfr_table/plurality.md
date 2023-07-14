@@ -5,10 +5,10 @@ Variable mapping to questionnaire: mfr, question PLURAL.
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
 | Missing | 0 | 0 | 0 | 0 |
-| Non-missing | 113623 | 83355 | 71769 | 50218 |
-| 1 | 109689 | 81324 | 70076 | 49097 |
-| 2 | 3871 | 2009 | 1676 | 1114 |
-| 3 | 63 | 22 | 17 | 7 |
+| Non-missing | 113623 | 75431 | 71769 | 50218 |
+| 1 | 109689 | 73674 | 70076 | 49097 |
+| 2 | 3871 | 1740 | 1676 | 1114 |
+| 3 | 63 | 17 | 17 | 7 |
 
 
 

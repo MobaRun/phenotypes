@@ -4,11 +4,11 @@ Variable mapping to questionnaire: q2_fatty_acid_iodine, question f_dpa.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 24927 | 14790 | 12674 | 6238 |
-| Non-missing | 88696 | 68565 | 59095 | 43980 |
-| 25th percentile | 0.0233 | 0.0232 | 0.0233 | 0.0234 |
-| 50th percentile | 0.0366 | 0.0365 | 0.0364 | 0.0365 |
-| 75th percentile | 0.0542 | 0.0539 | 0.0535 | 0.0535 |
+| Missing | 24927 | 13198 | 12674 | 6238 |
+| Non-missing | 88696 | 62233 | 59095 | 43980 |
+| 25th percentile | 0.0233 | 0.0233 | 0.0233 | 0.0234 |
+| 50th percentile | 0.0366 | 0.0364 | 0.0364 | 0.0365 |
+| 75th percentile | 0.0542 | 0.0536 | 0.0535 | 0.0535 |
 
 
 

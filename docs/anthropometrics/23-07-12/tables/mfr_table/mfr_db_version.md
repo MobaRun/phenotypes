@@ -5,8 +5,8 @@ Variable mapping to questionnaire: mfr, question VERSJON_DATABASE.
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
 | Missing | 0 | 0 | 0 | 0 |
-| Non-missing | 113623 | 83355 | 71769 | 50218 |
-| 2018Q3 | 113623 | 83355 | 71769 |50218 |
+| Non-missing | 113623 | 75431 | 71769 | 50218 |
+| 2018Q3 | 113623 | 75431 | 71769 |50218 |
 
 
 

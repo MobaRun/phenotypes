@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question INDUKSJON_ANNET.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 112861 | 82862 | 71354 | 49920 |
-| Non-missing | 762 | 493 | 415 | 298 |
-| Yes | 762 | 493 | 415 |298 |
+| Missing | 112861 | 74981 | 71354 | 49920 |
+| Non-missing | 762 | 450 | 415 | 298 |
+| Yes | 762 | 450 | 415 |298 |
 
 
 
