@@ -66,7 +66,7 @@ write(
 
 
 write(
-  x = glue("### Previous releases\n"),
+  x = glue("#### Previous releases\n"),
   file = readme_file,
   append = T
 )

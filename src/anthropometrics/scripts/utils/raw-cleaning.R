@@ -731,7 +731,10 @@ rawPheno <- mfr_table %>%
 
 rawPheno <- rawPheno %>% 
   left_join(
-    childIdDF,
+    childIdDF %>% 
+      filter(
+        sentrix_id %in% famDF$sentrix_id
+      ),
     by = c("preg_id", "rank_siblings")
   ) %>% 
   left_join(
@@ -1275,6 +1278,15 @@ values <- values %>%
 # Exclude extreme outliers
 
 values$mother_age_at_menarche[values$mother_age_at_menarche < 9 | values$mother_age_at_menarche > 17] <- NA
+
+
+# Check for duplicates
+
+if (length(unique(values$child_id)) != nrow(values)) {
+  
+  stop("Duplicates introduced during cleaning.")
+  
+}
 
 
 # Save the variables in different tables
