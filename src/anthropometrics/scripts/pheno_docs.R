@@ -39,9 +39,9 @@ child_anthropometrics_table <- args[17]
 docs_folder <- args[18]
 
 # moba_version <- "V12"
-# release_version <- "23-05-28"
+# release_version <- "23-07-12"
 # project_number <- 315
-# tables_folder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28"
+# tables_folder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-07-12"
 # 
 # child_id_file <- file.path(tables_folder, "id", "children_id")
 # mother_id_file <- file.path(tables_folder, "id", "mothers_id")
@@ -122,19 +122,19 @@ write(
 )
 
 for (table_name in names(tables)) {
-  
+
   print(paste(Sys.time(), " Processing", table_name))
-  
+
   dir.create(file.path(docs_folder, table_name))
-  
+
   table <- read.table(
     file = tables[[table_name]],
     header = T,
     sep = "\t"
   )
-  
+
   table_columns <- columns[[table_name]]
-  
+
   write(
     x = glue("## {table_name}\n\n"), 
     file = pheno_file, 
