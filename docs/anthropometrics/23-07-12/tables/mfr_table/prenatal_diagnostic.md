@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question PRENAT_DIAGNOSTIKK_UTF.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 110929 | 81866 | 70477 | 49379 |
-| Non-missing | 2694 | 1489 | 1292 | 839 |
-| Yes | 2694 | 1489 | 1292 |839 |
+| Missing | 110929 | 74060 | 70477 | 49379 |
+| Non-missing | 2694 | 1371 | 1292 | 839 |
+| Yes | 2694 | 1371 | 1292 |839 |
 
 
 

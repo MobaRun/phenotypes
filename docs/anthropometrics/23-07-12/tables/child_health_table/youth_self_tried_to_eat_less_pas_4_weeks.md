@@ -4,12 +4,12 @@ Variable mapping to questionnaire: ungdomsskjema_barn, question UB79.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 91762 | 66070 | 56713 | 38807 |
-| Non-missing | 21861 | 17285 | 15056 | 11411 |
-| ALDRI/SJELDEN | 14691 | 11675 | 10232 |7765 |
-| NOEN GANGER | 4486 | 3541 | 3012 |2274 |
-| OFTE | 1551 | 1201 | 1041 |785 |
-| VELDIG OFTE | 1133 | 868 | 771 |587 |
+| Missing | 91762 | 59590 | 56713 | 38807 |
+| Non-missing | 21861 | 15841 | 15056 | 11411 |
+| ALDRI/SJELDEN | 14691 | 10753 | 10232 |7765 |
+| NOEN GANGER | 4486 | 3192 | 3012 |2274 |
+| OFTE | 1551 | 1097 | 1041 |785 |
+| VELDIG OFTE | 1133 | 799 | 771 |587 |
 
 
 

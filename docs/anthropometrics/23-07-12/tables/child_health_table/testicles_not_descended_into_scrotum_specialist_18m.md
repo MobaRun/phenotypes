@@ -4,12 +4,12 @@ Variable mapping to questionnaire: q5, question EE196.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113554 | 83298 | 71725 | 50208 |
-| Non-missing | 69 | 57 | 44 | 10 |
+| Missing | 113554 | 75386 | 71725 | 50208 |
+| Non-missing | 69 | 45 | 44 | 10 |
 | More than 1 check box filled in | 2 | 2 | 2 |0 |
-| No | 33 | 26 | 17 |3 |
-| Yes, referred by someone else | 9 | 9 | 7 |1 |
-| Yes, referred from health centre | 25 | 20 | 18 |6 |
+| No | 33 | 18 | 17 |3 |
+| Yes, referred by someone else | 9 | 7 | 7 |1 |
+| Yes, referred from health centre | 25 | 18 | 18 |6 |
 
 
 

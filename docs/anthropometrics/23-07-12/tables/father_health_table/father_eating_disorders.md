@@ -4,9 +4,9 @@ Variable mapping to questionnaire: q1f, question FF389.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113548 | 83304 | 71724 | 50176 |
-| Non-missing | 75 | 51 | 45 | 42 |
-| 1 | 75 | 51 | 45 | 42 |
+| Missing | 113548 | 75382 | 71724 | 50176 |
+| Non-missing | 75 | 49 | 45 | 42 |
+| 1 | 75 | 49 | 45 | 42 |
 
 
 

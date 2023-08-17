@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question CPAP.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 111862 | 82594 | 71136 | 49731 |
-| Non-missing | 1761 | 761 | 633 | 487 |
-| Yes | 1761 | 761 | 633 |487 |
+| Missing | 111862 | 74768 | 71136 | 49731 |
+| Non-missing | 1761 | 663 | 633 | 487 |
+| Yes | 1761 | 663 | 633 |487 |
 
 
 

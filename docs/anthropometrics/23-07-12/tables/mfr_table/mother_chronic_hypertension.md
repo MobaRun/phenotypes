@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question HYPERTENSJON_KRONISK.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113021 | 82951 | 71429 | 49990 |
-| Non-missing | 602 | 404 | 340 | 228 |
-| Yes | 602 | 404 | 340 |228 |
+| Missing | 113021 | 75075 | 71429 | 49990 |
+| Non-missing | 602 | 356 | 340 | 228 |
+| Yes | 602 | 356 | 340 |228 |
 
 
 

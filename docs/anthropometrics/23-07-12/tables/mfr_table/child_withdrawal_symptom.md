@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question ABSTINENS.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113589 | 83340 | 71756 | 50210 |
-| Non-missing | 34 | 15 | 13 | 8 |
-| Yes | 34 | 15 | 13 |8 |
+| Missing | 113589 | 75418 | 71756 | 50210 |
+| Non-missing | 34 | 13 | 13 | 8 |
+| Yes | 34 | 13 | 13 |8 |
 
 
 

@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question REUM_ARTRITT.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113269 | 83092 | 71545 | 50057 |
-| Non-missing | 354 | 263 | 224 | 161 |
-| Yes | 354 | 263 | 224 |161 |
+| Missing | 113269 | 75191 | 71545 | 50057 |
+| Non-missing | 354 | 240 | 224 | 161 |
+| Yes | 354 | 240 | 224 |161 |
 
 
 

@@ -4,11 +4,11 @@ Variable mapping to questionnaire: mfr, question ART.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 110375 | 81176 | 69901 | 48875 |
-| Non-missing | 3248 | 2179 | 1868 | 1343 |
-| ART info from birth notification form (mother`s health) | 154 | 105 | 84 |50 |
-| Other ART info | 121 | 86 | 75 |38 |
-| Reported on ART notification form | 2973 | 1988 | 1709 |1255 |
+| Missing | 110375 | 73470 | 69901 | 48875 |
+| Non-missing | 3248 | 1961 | 1868 | 1343 |
+| ART info from birth notification form (mother`s health) | 154 | 88 | 84 |50 |
+| Other ART info | 121 | 77 | 75 |38 |
+| Reported on ART notification form | 2973 | 1796 | 1709 |1255 |
 
 
 

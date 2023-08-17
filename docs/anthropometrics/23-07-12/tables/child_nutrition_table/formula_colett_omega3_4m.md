@@ -4,9 +4,9 @@ Variable mapping to questionnaire: q4, question DD67.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 109291 | 79977 | 68856 | 48349 |
-| Non-missing | 4332 | 3378 | 2913 | 1869 |
-| 1 | 4332 | 3378 | 2913 | 1869 |
+| Missing | 109291 | 72374 | 68856 | 48349 |
+| Non-missing | 4332 | 3057 | 2913 | 1869 |
+| 1 | 4332 | 3057 | 2913 | 1869 |
 
 
 

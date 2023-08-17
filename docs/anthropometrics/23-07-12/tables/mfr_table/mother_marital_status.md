@@ -5,9 +5,9 @@ Variable mapping to questionnaire: mfr, question SIVST_2.
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
 | Missing | 0 | 0 | 0 | 0 |
-| Non-missing | 113623 | 83355 | 71769 | 50218 |
-| Married/registered partner/Co-habitant | 108506 | 80017 | 69041 |48902 |
-| Other | 5117 | 3338 | 2728 |1316 |
+| Non-missing | 113623 | 75431 | 71769 | 50218 |
+| Married/registered partner/Co-habitant | 108506 | 72564 | 69041 |48902 |
+| Other | 5117 | 2867 | 2728 |1316 |
 
 
 

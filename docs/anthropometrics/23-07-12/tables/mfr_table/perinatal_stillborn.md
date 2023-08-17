@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question PERINAT_DODFODT_MFR.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113235 | 83321 | 71741 | 50195 |
-| Non-missing | 388 | 34 | 28 | 23 |
-| Yes | 388 | 34 | 28 |23 |
+| Missing | 113235 | 75402 | 71741 | 50195 |
+| Non-missing | 388 | 29 | 28 | 23 |
+| Yes | 388 | 29 | 28 |23 |
 
 
 

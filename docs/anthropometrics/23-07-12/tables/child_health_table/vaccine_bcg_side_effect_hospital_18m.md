@@ -4,10 +4,10 @@ Variable mapping to questionnaire: q5, question EE168.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 109504 | 80170 | 69542 | 48667 |
-| Non-missing | 4119 | 3185 | 2227 | 1551 |
-| No | 4108 | 3177 | 2224 |1549 |
-| Yes | 11 | 8 | 3 |2 |
+| Missing | 109504 | 73094 | 69542 | 48667 |
+| Non-missing | 4119 | 2337 | 2227 | 1551 |
+| No | 4108 | 2334 | 2224 |1549 |
+| Yes | 11 | 3 | 3 |2 |
 
 
 

@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question HJERTE_MISD.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 112630 | 82716 | 71273 | 49857 |
-| Non-missing | 993 | 639 | 496 | 361 |
-| Yes | 993 | 639 | 496 |361 |
+| Missing | 112630 | 74899 | 71273 | 49857 |
+| Non-missing | 993 | 532 | 496 | 361 |
+| Yes | 993 | 532 | 496 |361 |
 
 
 

@@ -4,8 +4,8 @@ Variable mapping to questionnaire: q6, question GG135.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 104516 | 76126 | 65523 | 45615 |
-| Non-missing | 9107 | 7229 | 6246 | 4603 |
+| Missing | 104516 | 68834 | 65523 | 45615 |
+| Non-missing | 9107 | 6597 | 6246 | 4603 |
 | 25th percentile | 1 | 1 | 1 | 1 |
 | 50th percentile | 1 | 1 | 1 | 1 |
 | 75th percentile | 2 | 2 | 2 | 2 |

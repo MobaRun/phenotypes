@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question ROYK_OPPL.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 18271 | 13070 | 10897 | 8096 |
-| Non-missing | 95352 | 70285 | 60872 | 42122 |
-| Yes | 95352 | 70285 | 60872 |42122 |
+| Missing | 18271 | 11598 | 10897 | 8096 |
+| Non-missing | 95352 | 63833 | 60872 | 42122 |
+| Yes | 95352 | 63833 | 60872 |42122 |
 
 
 

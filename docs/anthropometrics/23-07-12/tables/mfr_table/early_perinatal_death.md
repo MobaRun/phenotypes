@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question PERINAT_DOD_TID_MFR.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113149 | 83308 | 71730 | 50187 |
-| Non-missing | 474 | 47 | 39 | 31 |
-| Yes | 474 | 47 | 39 |31 |
+| Missing | 113149 | 75391 | 71730 | 50187 |
+| Non-missing | 474 | 40 | 39 | 31 |
+| Yes | 474 | 40 | 39 |31 |
 
 
 

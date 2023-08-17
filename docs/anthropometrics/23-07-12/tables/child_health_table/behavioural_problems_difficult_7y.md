@@ -4,11 +4,11 @@ Variable mapping to questionnaire: q8, question JJ447.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 110184 | 80681 | 69577 | 48724 |
-| Non-missing | 3439 | 2674 | 2192 | 1494 |
+| Missing | 110184 | 73093 | 69577 | 48724 |
+| Non-missing | 3439 | 2338 | 2192 | 1494 |
 | More than 1 check box filled in | 4 | 2 | 2 |1 |
-| No | 1637 | 1305 | 1120 |731 |
-| Yes | 1798 | 1367 | 1070 |762 |
+| No | 1637 | 1174 | 1120 |731 |
+| Yes | 1798 | 1162 | 1070 |762 |
 
 
 

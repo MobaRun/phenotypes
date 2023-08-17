@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question ICTERUS.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 104668 | 77363 | 66804 | 46574 |
-| Non-missing | 8955 | 5992 | 4965 | 3644 |
-| Yes | 8955 | 5992 | 4965 |3644 |
+| Missing | 104668 | 70190 | 66804 | 46574 |
+| Non-missing | 8955 | 5241 | 4965 | 3644 |
+| Yes | 8955 | 5241 | 4965 |3644 |
 
 
 

@@ -5,10 +5,10 @@ Variable mapping to questionnaire: mfr, question KJONN.
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
 | Missing | 0 | 0 | 0 | 0 |
-| Non-missing | 113623 | 83355 | 71769 | 50218 |
+| Non-missing | 113623 | 75431 | 71769 | 50218 |
 | 0 | 214 | 0 | 0 | 0 |
-| 1 | 58133 | 42739 | 36563 | 25473 |
-| 2 | 55276 | 40616 | 35206 | 24745 |
+| 1 | 58133 | 38433 | 36563 | 25473 |
+| 2 | 55276 | 36998 | 35206 | 24745 |
 
 
 

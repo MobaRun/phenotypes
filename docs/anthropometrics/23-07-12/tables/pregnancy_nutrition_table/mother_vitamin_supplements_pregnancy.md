@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question MULTIVITU.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 72733 | 52688 | 45230 | 30877 |
-| Non-missing | 40890 | 30667 | 26539 | 19341 |
-| Yes | 40890 | 30667 | 26539 |19341 |
+| Missing | 72733 | 47565 | 45230 | 30877 |
+| Non-missing | 40890 | 27866 | 26539 | 19341 |
+| Yes | 40890 | 27866 | 26539 |19341 |
 
 
 

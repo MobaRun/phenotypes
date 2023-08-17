@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question RUPTUR34.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 109851 | 80399 | 69233 | 48385 |
-| Non-missing | 3772 | 2956 | 2536 | 1833 |
-| Yes | 3772 | 2956 | 2536 |1833 |
+| Missing | 109851 | 72764 | 69233 | 48385 |
+| Non-missing | 3772 | 2667 | 2536 | 1833 |
+| Yes | 3772 | 2667 | 2536 |1833 |
 
 
 

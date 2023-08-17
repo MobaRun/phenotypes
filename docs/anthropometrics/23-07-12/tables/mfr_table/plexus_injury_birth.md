@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question PLEXUSSKADE.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113419 | 83204 | 71639 | 50120 |
-| Non-missing | 204 | 151 | 130 | 98 |
-| Yes | 204 | 151 | 130 |98 |
+| Missing | 113419 | 75294 | 71639 | 50120 |
+| Non-missing | 204 | 137 | 130 | 98 |
+| Yes | 204 | 137 | 130 |98 |
 
 
 

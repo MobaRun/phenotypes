@@ -4,11 +4,11 @@ Variable mapping to questionnaire: q5, question EE152.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 50047 | 32911 | 27791 | 18730 |
-| Non-missing | 63576 | 50444 | 43978 | 31488 |
+| Missing | 50047 | 29231 | 27791 | 18730 |
+| Non-missing | 63576 | 46200 | 43978 | 31488 |
 | More than 1 check box filled in | 2 | 2 | 2 |1 |
-| No | 62554 | 49630 | 43293 |31009 |
-| Yes | 1020 | 812 | 683 |478 |
+| No | 62554 | 45469 | 43293 |31009 |
+| Yes | 1020 | 729 | 683 |478 |
 
 
 

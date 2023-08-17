@@ -4,9 +4,9 @@ Variable mapping to questionnaire: q9, question NN49.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 110698 | 81139 | 70014 | 48978 |
-| Non-missing | 2925 | 2216 | 1755 | 1240 |
-| 1 | 2925 | 2216 | 1755 | 1240 |
+| Missing | 110698 | 73532 | 70014 | 48978 |
+| Non-missing | 2925 | 1899 | 1755 | 1240 |
+| 1 | 2925 | 1899 | 1755 | 1240 |
 
 
 

@@ -4,10 +4,10 @@ Variable mapping to questionnaire: q6, question GG161.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 56560 | 38257 | 32542 | 21422 |
-| Non-missing | 57063 | 45098 | 39227 | 28796 |
-| No | 56681 | 44798 | 38978 |28610 |
-| Yes | 382 | 300 | 249 |186 |
+| Missing | 56560 | 34136 | 32542 | 21422 |
+| Non-missing | 57063 | 41295 | 39227 | 28796 |
+| No | 56681 | 41029 | 38978 |28610 |
+| Yes | 382 | 266 | 249 |186 |
 
 
 

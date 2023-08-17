@@ -4,9 +4,9 @@ Variable mapping to questionnaire: q3, question CC333.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 112496 | 82490 | 71011 | 49693 |
-| Non-missing | 1127 | 865 | 758 | 525 |
-| 1 | 1127 | 865 | 758 | 525 |
+| Missing | 112496 | 74638 | 71011 | 49693 |
+| Non-missing | 1127 | 793 | 758 | 525 |
+| 1 | 1127 | 793 | 758 | 525 |
 
 
 

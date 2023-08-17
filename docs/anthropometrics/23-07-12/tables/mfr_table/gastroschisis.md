@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question GASTROS.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113594 | 83350 | 71765 | 50216 |
-| Non-missing | 29 | 5 | 4 | 2 |
-| Yes | 29 | 5 | 4 |2 |
+| Missing | 113594 | 75427 | 71765 | 50216 |
+| Non-missing | 29 | 4 | 4 | 2 |
+| Yes | 29 | 4 | 4 |2 |
 
 
 

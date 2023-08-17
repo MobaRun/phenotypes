@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question RESPIRATOR.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 112925 | 83122 | 71578 | 50073 |
-| Non-missing | 698 | 233 | 191 | 145 |
-| Yes | 698 | 233 | 191 |145 |
+| Missing | 112925 | 75223 | 71578 | 50073 |
+| Non-missing | 698 | 208 | 191 | 145 |
+| Yes | 698 | 208 | 191 |145 |
 
 
 

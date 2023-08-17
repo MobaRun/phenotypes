@@ -4,9 +4,9 @@ Variable mapping to questionnaire: q8, question JJ435.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 113485 | 83259 | 71719 | 50184 |
-| Non-missing | 138 | 96 | 50 | 34 |
-| 1 | 138 | 96 | 50 | 34 |
+| Missing | 113485 | 75378 | 71719 | 50184 |
+| Non-missing | 138 | 53 | 50 | 34 |
+| 1 | 138 | 53 | 50 | 34 |
 
 
 

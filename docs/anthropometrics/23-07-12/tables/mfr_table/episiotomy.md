@@ -4,9 +4,9 @@ Variable mapping to questionnaire: mfr, question EPISIOTOMI.
 
 | Value | Total | Child genotyped | Mother genotyped | Father genotyped |
 | ----- | ----- | --------------- | ---------------- | ---------------- |
-| Missing | 94141 | 68534 | 58966 | 41077 |
-| Non-missing | 19482 | 14821 | 12803 | 9141 |
-| Yes | 19482 | 14821 | 12803 |9141 |
+| Missing | 94141 | 62002 | 58966 | 41077 |
+| Non-missing | 19482 | 13429 | 12803 | 9141 |
+| Yes | 19482 | 13429 | 12803 |9141 |
 
 
 
