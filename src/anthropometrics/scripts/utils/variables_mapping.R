@@ -750,7 +750,7 @@ q4VariablesMapping <- c(
   other_specify_txt_6m = "DD860",
   specialist_investigation_result_6m = "DD259",
   specialist_investigation_diagnosis_6m = "DD260",
-  specialist_investigation_diagnosis_txt_6m = "DD261",
+  specialist_investigation_diagnosis_txt_6m = "DD861",
   no_syndrome_or_chromosomal_defect_6m = "DD1109",
   syndrome_6m = "DD1110",
   chromosomal_defect_6m = "DD1111",
