@@ -1131,7 +1131,7 @@ q6VariablesMapping <- c(
   specialist_diagnosis_2_description_3y = "GG121",
   specialist_diagnosis_3_3y = "GG122",
   specialist_diagnosis_3_description_3y = "GG123",
-  serious_or_long_term_illness_3y = "GG124",
+  serious_or_long_term_illness_3y = "GG124"
 )
 
 q7VariablesMapping <- c(
