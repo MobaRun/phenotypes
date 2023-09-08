@@ -28,12 +28,12 @@ ques_folder = "/mnt/archive/phenotype/moba_covid_ques"
 docs_folder = f"docs/covid/{suffix}"
 raw_docs_folder = f"{docs_folder}/raw"
 covid_docs_folder = f"{docs_folder}/covid"
-docs_table_file = f"{docs_folder}/covid/"
+covid_table_docs = f"{covid_docs_folder}/moba_covid_phenotypes.md"
 
 # Tables folders
 tables_folder = f"/mnt/work/marc/pheno_covid_{suffix}"
 raw_tables_folder = f"{tables_folder}/raw"
-covid_table_docs = f"{tables_folder}/covid/moba_covid_phenotypes.md"
+covid_tables_folder = f"{tables_folder}/covid"
 
 # Raw tables
 mfr_raw_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_MFR_541_v12.gz')
