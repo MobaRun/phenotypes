@@ -14,7 +14,7 @@ import json
 
 # Analysis
 moba_version = "V12"
-suffix = '23-05-28'
+suffix = '23-09-08'
 moba_project_number = 2824
 
 # Raw phenotype files
@@ -31,7 +31,7 @@ covid_docs_folder = f"{docs_folder}/covid"
 covid_table_docs = f"{covid_docs_folder}/moba_covid_phenotypes.md"
 
 # Tables folders
-tables_folder = f"/mnt/work/marc/pheno_covid_{suffix}"
+tables_folder = f"/mnt/work/marc/phenotypes/pheno_covid_{suffix}"
 raw_tables_folder = f"{tables_folder}/raw"
 covid_tables_folder = f"{tables_folder}/covid"
 
