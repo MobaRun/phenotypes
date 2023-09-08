@@ -15,7 +15,7 @@ args <- commandArgs(TRUE)
 tablesFolder <- args[1]
 qcFolder <- args[2]
 project_number <- args[3]
-release_name <- args[4]
+docs_folder <- args[4]
 
 
 ##
@@ -25,28 +25,21 @@ release_name <- args[4]
 # 
 # qcFolder <- "/mnt/work/marc/pheno_22-09-19/qc_tmp"
 # project_number <- 2824
-# release_name <- "22-09-19
+# docs_folder <- "docs/anthropometrics/22-09-19/lw_qc
 #
 ##
 
 
 ## Libraries import
 
-libFolder <- "~/R/R_4.1"
-
-library(stringr, lib = libFolder)
-library(crayon, lib = libFolder)
-library(dplyr, lib = libFolder)
-library(janitor, lib = libFolder)
-library(purrr, lib = libFolder)
-library(glue, lib = libFolder)
-library(withr, lib = libFolder)
-library(labeling, lib = libFolder)
-library(digest, lib = libFolder)
-library(farver, lib = libFolder)
-library(ggplot2, lib = libFolder)
-library(cli, lib = libFolder)
-library(grid, lib = libFolder)
+library(stringr)
+library(dplyr)
+library(janitor)
+library(purrr)
+library(glue)
+library(ggplot2)
+library(cli)
+library(grid)
 
 
 
@@ -326,7 +319,6 @@ write.table(qcDF, file = qcFile, col.names = T, row.names = F, quote = F)
 
 print(paste(Sys.time(), " Writing documentation"))
 
-docs_folder <- glue("docs/{release_name}/anthropometrics")
 md_file <- file.path(docs_folder, "readme.md")
 docs_plots_folder <- file.path(docs_folder, "plots")
 

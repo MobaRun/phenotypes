@@ -22,18 +22,23 @@ unrelated_children_id_path <- args[5]
 mfr_raw_table_path <- args[6]
 q1m_raw_table_path <- args[7]
 q1f_raw_table_path <- args[8]
-q2_raw_table_path <- args[9]
-q3_raw_table_path <- args[10]
-q4_raw_table_path <- args[11]
-q5_raw_table_path <- args[12]
-q6_raw_table_path <- args[13]
-q7_raw_table_path <- args[14]
-q8_raw_table_path <- args[15]
-q9_raw_table_path <- args[16]
-kostUngdom_raw_table_path <- args[17]
-tablesFolder <- args[18]
-qcFolder <- args[19]
-project_number <- args[20]
+q2_cdw_raw_table_path <- args[9]
+q2_beregning_caffeine_food_and_supplements_raw_table_path <- args[10]
+q2_beregning_foody_fatty_acid_and_iodine_raw_table_path <- args[11]
+q2_beregning_supplements_raw_table_path <- args[12]
+q2_beregning_raw_table_path <- args[13]
+q3_raw_table_path <- args[14]
+q4_raw_table_path <- args[15]
+q5_raw_table_path <- args[16]
+q6_raw_table_path <- args[17]
+q7_raw_table_path <- args[18]
+q8_raw_table_path <- args[19]
+q9_raw_table_path <- args[20]
+kostUngdom_raw_table_path <- args[21]
+ungdomsskjema_barn_raw_table_path <- args[22]
+tablesFolder <- args[23]
+qcFolder <- args[24]
+project_number <- args[25]
 
 
 ##
@@ -41,39 +46,38 @@ project_number <- args[20]
 # Debug Marc - do not uncomment
 # args to run standalone
 # 
-# child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
-# mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
-# father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
-# genomics_fam_file_path <- "/mnt/archive/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
-# unrelated_children_id_path <- "/mnt/work/marc/unrelated_samples/children_id_unrelated"
-# mfr_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_MFR_541_v12.gz"
-# q1m_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema1_v12.gz"
-# q1f_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_SkjemaFar_v12.gz"
-# q2_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema2_v12.gz"
-# q3_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema3_v12.gz"
-# q4_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema4_6mnd_v12.gz"
-# q5_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema5_18mnd_v12.gz"
-# q6_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema6_3aar_v12.gz"
-# q7_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema5aar_v12.gz"
-# q8_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema7aar_v12.gz"
-# q9_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_Skjema8aar_v12.gz"
-# kostUngdom_raw_table_path <- "/mnt/work/marc/pheno_22-09-19/raw/moba_ques/PDB2824_SkjemaKostUngdom_v12.gz"
-# qcFolder <- "/mnt/work/marc/pheno_22-09-19/qc_tmp"
-# project_number <- 2824
+# child_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz"
+# mother_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz"
+# father_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz"
+# genomics_fam_file_path <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
+# unrelated_children_id_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/id/children_id_unrelated"
+# mfr_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_MFR_541_v12.gz"
+# q1m_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema1_v12.gz"
+# q1f_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_SkjemaFar_v12.gz"
+# q2_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema2_beregning_CDW_v12.gz"
+# q3_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema3_v12.gz"
+# q4_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema4_6mnd_v12.gz"
+# q5_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema5_18mnd_v12.gz"
+# q6_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema6_3aar_v12.gz"
+# q7_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema5aar_v12.gz"
+# q8_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema7aar_v12.gz"
+# q9_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema8aar_v12.gz"
+# kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
+# ungdomsskjema_barn_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Ungdomsskjema_Barn_v12_standard.gz"
+# tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28"
+# qcFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/qc"
+# project_number <- 315
 #
 ##
 
 
 # Libraries
 
-libFolder <- "~/R/R_4.1"
-
-library(stringr, lib = libFolder)
-library(crayon, lib = libFolder)
-library(dplyr, lib = libFolder)
-library(janitor, lib = libFolder)
-library(purrr, lib = libFolder)
-library(glue, lib = libFolder)
+library(stringr)
+library(dplyr)
+library(janitor)
+library(purrr)
+library(glue)
 
 
 # Housekeeping
@@ -350,6 +354,24 @@ if (nrow(famDF) != length(unique(famDF$sentrix_id))) {
 famDF$mother_sentrix_id[! famDF$mother_sentrix_id %in% motherIdDF$sentrix_id] <- NA
 famDF$father_sentrix_id[! famDF$father_sentrix_id %in% fatherIdDF$sentrix_id] <- NA
 
+famDF <- famDF %>% 
+  left_join(
+    motherIdDF %>% 
+      select(
+        mother_sentrix_id = sentrix_id,
+        mother_id
+      ),
+    by = "mother_sentrix_id"
+  ) %>% 
+  left_join(
+    fatherIdDF %>% 
+      select(
+        father_sentrix_id = sentrix_id,
+        father_id
+      ),
+    by = "father_sentrix_id"
+  )
+
 
 # Load the values from the raw phenotype tables
 
@@ -376,12 +398,40 @@ q1f_raw_table <- read.table(
   stringsAsFactors = F
 )
 
-# q2_raw_table <- read.table(
-#   file = q2_raw_table_path,
-#   header = T,
-#   sep = "\t",
-#   stringsAsFactors = F
-# )
+q2_cdw_raw_table <- read.table(
+  file = q2_cdw_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+
+q2_beregning_caffeine_food_and_supplements_raw_table <- read.table(
+  file = q2_beregning_caffeine_food_and_supplements_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+
+q2_beregning_foody_fatty_acid_and_iodine_raw_table <- read.table(
+  file = q2_beregning_foody_fatty_acid_and_iodine_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+
+q2_beregning_supplements_raw_table <- read.table(
+  file = q2_beregning_supplements_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+
+q2_beregning_raw_table <- read.table(
+  file = q2_beregning_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
 
 q3_raw_table <- read.table(
   file = q3_raw_table_path,
@@ -439,7 +489,12 @@ kostUngdom_raw_table <- read.table(
   stringsAsFactors = F
 )
 
-
+ungdomsskjema_barn_raw_table <- read.table(
+  file = ungdomsskjema_barn_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
 
 # Extract variables
 
@@ -470,14 +525,50 @@ q1f_table <- q1f_raw_table %>%
     )
   )
 
-# q2VariablesMapping <- q2VariablesMapping[q2VariablesMapping %in% names(q2_raw_table)]
-# 
-# q2_table <- q2_raw_table %>%
-#   select(
-#     all_of(
-#       q2VariablesMapping
-#     )
-#   )
+q2CdwVariablesMapping <- q2CdwVariablesMapping[q2CdwVariablesMapping %in% names(q2_cdw_raw_table)]
+
+q2_cdw_table <- q2_cdw_raw_table %>%
+  select(
+    all_of(
+      q2CdwVariablesMapping
+    )
+  )
+
+q2CdwBeregningCaffeineFoodSupplementsVariablesMapping <- q2CdwBeregningCaffeineFoodSupplementsVariablesMapping[q2CdwBeregningCaffeineFoodSupplementsVariablesMapping %in% names(q2_beregning_caffeine_food_and_supplements_raw_table)]
+
+q2_beregning_caffeine_food_and_supplements_table <- q2_beregning_caffeine_food_and_supplements_raw_table %>%
+  select(
+    all_of(
+      q2CdwBeregningCaffeineFoodSupplementsVariablesMapping
+    )
+  )
+
+q2CdwBeregningFoodyFattyAcidIodineVariablesMapping <- q2CdwBeregningFoodyFattyAcidIodineVariablesMapping[q2CdwBeregningFoodyFattyAcidIodineVariablesMapping %in% names(q2_beregning_foody_fatty_acid_and_iodine_raw_table)]
+
+q2_beregning_foody_fatty_acid_and_iodine_table <- q2_beregning_foody_fatty_acid_and_iodine_raw_table %>%
+  select(
+    all_of(
+      q2CdwBeregningFoodyFattyAcidIodineVariablesMapping
+    )
+  )
+
+q2CdwBeregningVariablesMapping <- q2CdwBeregningVariablesMapping[q2CdwBeregningVariablesMapping %in% names(q2_beregning_raw_table)]
+
+q2_beregning_table <- q2_beregning_raw_table %>%
+  select(
+    all_of(
+      q2CdwBeregningVariablesMapping
+    )
+  )
+
+q3VariablesMapping <- q3VariablesMapping[q3VariablesMapping %in% names(q3_raw_table)]
+
+q3_table <- q3_raw_table %>%
+  select(
+    all_of(
+      q3VariablesMapping
+    )
+  )
 
 q4VariablesMapping <- q4VariablesMapping[q4VariablesMapping %in% names(q4_raw_table)]
 
@@ -535,10 +626,19 @@ q9_table <- q9_raw_table %>%
 
 kostUngdomVariablesMapping <- kostUngdomVariablesMapping[kostUngdomVariablesMapping %in% names(kostUngdom_raw_table)]
 
-kostUngdom_table <- kostUngdom_raw_table %>%
+kostUngdom_table <- kostUngdom_raw_table %>% 
   select(
     all_of(
       kostUngdomVariablesMapping
+    )
+  )
+
+ungdomsskjemaBarnVariablesMapping <- ungdomsskjemaBarnVariablesMapping[ungdomsskjemaBarnVariablesMapping %in% names(ungdomsskjema_barn_raw_table)]
+
+ungdomsskjema_barn_table <- ungdomsskjema_barn_raw_table %>%
+  select(
+    all_of(
+      ungdomsskjemaBarnVariablesMapping
     )
   )
 
@@ -587,6 +687,23 @@ if ("GG57" %in% names(q6_raw_table) && "GG58" %in% names(q6_raw_table) && "GG59"
 
 q8_table$length_7y <- ifelse(!is.na(q8_raw_table$JJ408), q8_raw_table$JJ408, q8_raw_table$JJ324*100)
 
+hospitalization_columns <- c("hospitalized_prolonged_nausea_vomiting", "hospitalized_bleeding", "hospitalized_amniotic_fluid_leakage", "hospitalized_threatening_preterm_labour", "hospitalized_high_blood_pressure", "hospitalized_pre_eclampsia", "hospitalized_other")
+suffixes <- c("_0_4w", "_5_8w", "_9_12w", "_13_16w", "_17_20w", "_21_24w", "_25_28w", "_after_29w")
+
+for (hospitalization_column in hospitalization_columns) {
+  
+  for (suffix in suffixes) {
+    
+    week_column <- paste0(hospitalization_column, suffix)
+    
+    q3_table[[hospitalization_column]] <- ifelse(!is.na(q3_table[[week_column]]) & q3_table[[week_column]] == 1, 1, q3_table[[hospitalization_column]])
+    
+  }
+  
+  q3_table$hospitalized_30w <- ifelse(!is.na(q3_table[[hospitalization_column]]) & q3_table[[hospitalization_column]] == 1, "Yes", q3_table$hospitalized_30w)
+  
+}
+
 
 # Make a single data frame
 
@@ -595,23 +712,29 @@ nrow_mfr <- nrow(mfr_table)
 rawPheno <- mfr_table %>%
   left_join(q1m_table, by = "preg_id") %>%
   left_join(q1f_table, by = "preg_id") %>%
-  # left_join(q2_table, by = "preg_id") %>%
+  left_join(q2_cdw_table, by = "preg_id") %>%
+  left_join(q2_beregning_caffeine_food_and_supplements_table, by = "preg_id") %>%
+  left_join(q2_beregning_foody_fatty_acid_and_iodine_table, by = "preg_id") %>%
+  left_join(q2_beregning_table, by = "preg_id") %>%
+  left_join(q3_table, by = "preg_id") %>%
   left_join(q4_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q5_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q6_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q7_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q8_table, by = c("preg_id", "rank_siblings")) %>%
   left_join(q9_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(kostUngdom_table, by = c("preg_id", "rank_siblings"))
+  left_join(kostUngdom_table, by = c("preg_id", "rank_siblings")) %>%
+  left_join(ungdomsskjema_barn_table, by = c("preg_id", "rank_siblings"))
 
-# Add sentrix ids
 
-rawPheno$mother_id[rawPheno$mother_id == ""] <- NA
-rawPheno$father_id[rawPheno$father_id == ""] <- NA
+# Add sentrix and parental ids
 
 rawPheno <- rawPheno %>% 
   left_join(
-    childIdDF,
+    childIdDF %>% 
+      filter(
+        sentrix_id %in% famDF$sentrix_id
+      ),
     by = c("preg_id", "rank_siblings")
   ) %>% 
   left_join(
@@ -620,6 +743,26 @@ rawPheno <- rawPheno %>%
   ) %>% 
   mutate(
     child_id = ifelse(is.na(child_id), paste0(preg_id, "_", rank_siblings), child_id)
+  ) %>% 
+  rename(
+    child_sentrix_id = sentrix_id,
+    child_batch = batch
+  ) %>% 
+  left_join(
+    motherIdDF %>% 
+      select(
+        mother_sentrix_id = sentrix_id,
+        mother_batch = batch
+      ),
+    by = "mother_sentrix_id"
+  ) %>% 
+  left_join(
+    fatherIdDF %>% 
+      select(
+        father_sentrix_id = sentrix_id,
+        father_batch = batch
+      ),
+    by = "father_sentrix_id"
   )
 
 nrow_pheno <- nrow(rawPheno)
@@ -632,9 +775,10 @@ if (nrow_mfr != nrow_pheno) {
 
 print(glue("Phenotypes loaded:"))
 print(glue("- Children in birth registry: {nrow(rawPheno)}"))
-print(glue("- Children genotyped: {sum(!is.na(rawPheno$sentrix_id))}"))
+print(glue("- Children genotyped: {sum(!is.na(rawPheno$child_sentrix_id))}"))
 print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id))}"))
 print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$father_sentrix_id))}"))
+
 
 # Correct units for columns to be merged
 
@@ -653,6 +797,12 @@ lineIndexes <- !is.na(rawPheno$weight_15_18m_2) & rawPheno$weight_15_18m_2 < 2 #
 rawPheno$weight_15_18m_2[lineIndexes] <- rawPheno$weight_15_18m_2[lineIndexes] * 10
 
 rawPheno$weight_15_18m_2 <- rawPheno$weight_15_18m_2 * 1000 # Convert to grams
+
+rawPheno <- rawPheno %>% 
+  mutate(
+    umbilical_cord_length = ifelse(umbilical_cord_length >= 250, umbilical_cord_length / 10, umbilical_cord_length), # Wrong decimal separator
+    umbilical_cord_length = ifelse(umbilical_cord_length <= 10, umbilical_cord_length * 10, umbilical_cord_length) # Wrong decimal separator
+  )
 
 
 # Convert to number
@@ -683,15 +833,6 @@ if ("mother_height_self" %in% names(rawPheno) & "mother_height" %in% names(rawPh
   rawPheno <- rawPheno %>%
     mutate(
       mother_height = ifelse(is.na(mother_height), mother_height_self, mother_height)
-    )
-  
-}
-
-if ("mother_weight_beginning_self" %in% names(rawPheno) & "mother_weight_beginning" %in% names(rawPheno)) {
-  
-  rawPheno <- rawPheno %>%
-    mutate(
-      mother_weight_beginning = ifelse(is.na(mother_weight_beginning), mother_weight_beginning_self, mother_weight_beginning)
     )
   
 }
@@ -800,18 +941,18 @@ print(paste(Sys.time(), " Loading identifiers for unrelated children"))
 
 unrelatedDF <- read.table(
   file = unrelated_children_id_path,
-  header = F,
+  header = T,
+  sep = "\t",
   stringsAsFactors = F
 )
-unrelatedIds <- unrelatedDF[, 2]
 
 rawPheno <- rawPheno %>%
   mutate(
-    unrelated_children = ifelse(sentrix_id %in% unrelatedIds, 1, 0)
+    unrelated_children = ifelse(child_sentrix_id %in% unrelatedDF$sentrix_id, 1, 0)
   )
 
 print(glue("Unrelated children:"))
-print(glue("- Children genotyped: {sum(!is.na(rawPheno$sentrix_id) & rawPheno$unrelated_children == 1)}"))
+print(glue("- Children genotyped: {sum(!is.na(rawPheno$child_sentrix_id) & rawPheno$unrelated_children == 1)}"))
 print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id[rawPheno$unrelated_children == 1]))}"))
 print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$father_sentrix_id[rawPheno$unrelated_children == 1]))}"))
 
@@ -826,8 +967,8 @@ rawPheno <- rawPheno %>%
   ) %>% 
   mutate(
     sex = 0,
-    sex = ifelse(registry_sex == "Mann", 1, sex),
-    sex = ifelse(registry_sex == "Kvinne", 2, sex),
+    sex = ifelse(registry_sex == "Male", 1, sex),
+    sex = ifelse(registry_sex == "Female", 2, sex),
     sex = ifelse(!is.na(genetic_sex) & genetic_sex != 0, genetic_sex, sex)
   )
 
@@ -880,8 +1021,8 @@ rawPheno <- rawPheno %>%
     pregnancy_duration_preterm = ifelse(!is.na(pregnancy_duration) & pregnancy_duration < pregnancy_term_min, 1, 0)
   )
 
-term_pregnancies <- sum(!is.na(rawPheno$sentrix_id) & rawPheno$pregnancy_duration_term == 1)
-n_genotyped <- sum(!is.na(rawPheno$sentrix_id))
+term_pregnancies <- sum(!is.na(rawPheno$child_sentrix_id) & rawPheno$pregnancy_duration_term == 1)
+n_genotyped <- sum(!is.na(rawPheno$child_sentrix_id))
 
 print(glue("{term_pregnancies} genotyped children with delivery at term ({round(term_pregnancies / n_genotyped * 100)} %)"))
 
@@ -931,8 +1072,8 @@ for (column in c(weight_columns, length_columns, head_circumference_columns)) {
   n_df <- data.frame(
     phenotype = column,
     n_values = sum(!is.na(rawPheno[[column]])),
-    n_genotyped = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$sentrix_id)),
-    n_genotyped_unrelated = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$sentrix_id) & rawPheno$unrelated == 1),
+    n_genotyped = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$child_sentrix_id)),
+    n_genotyped_unrelated = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$child_sentrix_id) & rawPheno$unrelated == 1),
     stringsAsFactors = F
   )
   
@@ -953,8 +1094,8 @@ n_list <- list()
 
 for (column in c(weight_columns, length_columns, head_circumference_columns)) {
   
-  mean_value <- mean(values[[column]][!is.na(values[[column]]) & !is.na(values$sentrix_id)])
-  sd_value <- sd(values[[column]][!is.na(values[[column]]) & !is.na(values$sentrix_id)])
+  mean_value <- mean(values[[column]][!is.na(values[[column]]) & !is.na(values$child_sentrix_id)])
+  sd_value <- sd(values[[column]][!is.na(values[[column]]) & !is.na(values$child_sentrix_id)])
   
   toExclude <- !is.na(values[[column]]) & (values[[column]] < mean_value - 5 * sd_value | values[[column]] > mean_value + 5 * sd_value)
   values[[column]][toExclude] <- NA
@@ -962,8 +1103,8 @@ for (column in c(weight_columns, length_columns, head_circumference_columns)) {
   n_df <- data.frame(
     phenotype = column,
     n_outliers = sum(toExclude),
-    n_outliers_genotyped = sum(toExclude & !is.na(values$sentrix_id)),
-    n_outliers_genotyped_unrelated = sum(toExclude & !is.na(values$sentrix_id) & values$unrelated == 1),
+    n_outliers_genotyped = sum(toExclude & !is.na(values$child_sentrix_id)),
+    n_outliers_genotyped_unrelated = sum(toExclude & !is.na(values$child_sentrix_id) & values$unrelated == 1),
     stringsAsFactors = F
   )
   
@@ -988,8 +1129,8 @@ for (column in breastFeedingColumns) {
     n_df <- data.frame(
       phenotype = column,
       n_breast_feeding = sum(!is.na(values[[column]])),
-      n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id)),
-      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id) & values$unrelated == 1),
+      n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id)),
+      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id) & values$unrelated == 1),
       stringsAsFactors = F
     )
   }
@@ -1027,8 +1168,8 @@ for (column in breastFeedingColumns) {
     n_df <- data.frame(
       phenotype = column,
       n_breast_feeding = sum(!is.na(values[[column]])),
-      n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id)),
-      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$sentrix_id) & values$unrelated == 1),
+      n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id)),
+      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id) & values$unrelated == 1),
       stringsAsFactors = F
     )
   }
@@ -1050,8 +1191,8 @@ for (column in diabetesColumns) {
     n_df <- data.frame(
       phenotype = column,
       n_diabetes = sum(!is.na(values[[column]]) & values[[column]] == 1),
-      n_diabetes_genotyped = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$sentrix_id)),
-      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$sentrix_id) & values$unrelated == 1),
+      n_diabetes_genotyped = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id)),
+      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id) & values$unrelated == 1),
       stringsAsFactors = F
     )
   }
@@ -1110,8 +1251,8 @@ for (column in diabetesColumns) {
     n_df <- data.frame(
       phenotype = column,
       n_diabetes = sum(!is.na(values[[column]]) & values[[column]] == 1),
-      n_diabetes_genotyped = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$sentrix_id)),
-      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$sentrix_id) & values$unrelated == 1),
+      n_diabetes_genotyped = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id)),
+      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id) & values$unrelated == 1),
       stringsAsFactors = F
     )
   }
@@ -1131,25 +1272,40 @@ values <- values %>%
         list(mother_height, mother_height_3y, mother_height_5y, mother_height_8y),
         ~median(c(..1, ..2, ..3, ..4), na.rm = T)
       )
-    ),
-    mother_median_weight = as.numeric(
-      pmap(
-        list(mother_weight_beginning, mother_weight_3y, mother_weight_5y, mother_weight_8y),
-        ~median(c(..1, ..2, ..3, ..4), na.rm = T)
-      )
     )
   )
+
+# Exclude extreme outliers
+
+values$mother_age_at_menarche[values$mother_age_at_menarche < 9 | values$mother_age_at_menarche > 17] <- NA
+
+
+# Check for duplicates
+
+if (length(unique(values$child_id)) != nrow(values)) {
+  
+  stop("Duplicates introduced during cleaning.")
+  
+}
 
 
 # Save the variables in different tables
 
 print(paste(Sys.time(), " Saving the phenotypes to tables"))
 
+missing_default_columns <- which(! default_columns %in% names(values))
+
+if (length(missing_default_columns) > 0) {
+  
+  stop(psate0("Missing default column in phenotype table: ", paste(default_columns[missing_default_columns], sep = ", "), "."))
+  
+}
+
 id_columns <- id_columns[id_columns %in% names(values)]
 
 idValues <- values %>% 
   select(
-    all_of(id_columns)
+    all_of(c(default_columns, id_columns))
   )
 
 write.table(
@@ -1176,15 +1332,15 @@ write.table(
   quote = F
 )
 
-delivery_columns <- delivery_columns[delivery_columns %in% names(values)]
-deliveryValues <- values %>% 
+mfr_columns <- mfr_columns[mfr_columns %in% names(values)]
+mfrValues <- values %>% 
   select(
-    all_of(c(default_columns, delivery_columns))
+    all_of(c(default_columns, mfr_columns))
   )
 
 write.table(
-  x = deliveryValues,
-  file = gzfile(file.path(tablesFolder, "delivery.gz")),
+  x = mfrValues,
+  file = gzfile(file.path(tablesFolder, "mfr.gz")),
   row.names = F,
   col.names = T,
   sep = "\t",
