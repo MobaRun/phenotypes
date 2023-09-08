@@ -13,6 +13,7 @@ import json
 ####################### Parameters ###########################################
 
 # Analysis
+moba_version = "V12"
 suffix = '23-05-28'
 moba_project_number = 2824
 
@@ -27,11 +28,12 @@ ques_folder = "/mnt/archive/phenotype/moba_covid_ques"
 docs_folder = f"docs/covid/{suffix}"
 raw_docs_folder = f"{docs_folder}/raw"
 covid_docs_folder = f"{docs_folder}/covid"
+docs_table_file = f"{docs_folder}/covid/"
 
 # Tables folders
 tables_folder = f"/mnt/work/marc/pheno_covid_{suffix}"
 raw_tables_folder = f"{tables_folder}/raw"
-covid_tables_folder = f"{tables_folder}/covid"
+covid_table_docs = f"{tables_folder}/covid/moba_covid_phenotypes.md"
 
 # Raw tables
 mfr_raw_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_MFR_541_v12.gz')
@@ -96,7 +98,8 @@ rule all:
         child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
         mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
         father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table,
-        covid_table= covid_table
+        covid_table= covid_table,
+        covid_table_docs = covid_table_docs
 
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
@@ -182,4 +185,28 @@ rule consolidate_covid_pheno:
             {output.covid_table} \
             {params.covid_docs_folder} \
             {params.moba_project_number}
+        """
+
+
+rule pheno_tables_docs:
+    'Writes documentation and summary statistics on the phenotype tables'
+    input:
+        covid_table = covid_table
+    params:
+        moba_version = moba_version,
+        release_version = suffix,
+        project_number = moba_project_number
+    output:
+        covid_table_docs = covid_table_docs
+    conda:
+        "envs/r_covid.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/pheno_docs.R \
+            {params.moba_version} \
+            {params.release_version} \
+            {params.project_number} \
+            {input.covid_table} \
+            {output.covid_table_docs}
         """
