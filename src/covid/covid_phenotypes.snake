@@ -232,7 +232,7 @@ rule process_ids:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/process_ids.R \
+        Rscript src/covid/scripts/process_ids.R \
             {input.kinship_file} \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
@@ -258,7 +258,7 @@ rule pheno_tables_docs:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/pheno_docs.R \
+        Rscript src/covid/scripts/pheno_docs.R \
             {params.moba_version} \
             {params.release_version} \
             {params.project_number} \
