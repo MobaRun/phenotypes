@@ -25,8 +25,8 @@ sysvak_folder = "/mnt/archive/phenotype/sysvak"
 ques_folder = "/mnt/archive/phenotype/moba_covid_ques"
 
 # Files relating to the genotypes
-kinship_file = "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc-rel.kin"
-fam_file = "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
+kinship_file = "/home/ubuntu/MOBAGENETICS/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc-rel.kin"
+fam_file = "/home/ubuntu/MOBAGENETICS/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
 
 # Docs folders
 docs_folder = f"docs/covid/{suffix}"
