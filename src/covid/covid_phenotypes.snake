@@ -24,6 +24,10 @@ msis_folder = "/mnt/archive/phenotype/msis"
 sysvak_folder = "/mnt/archive/phenotype/sysvak"
 ques_folder = "/mnt/archive/phenotype/moba_covid_ques"
 
+# Files relating to the genotypes
+kinship_file = "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc-rel.kin"
+fam_file = "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
+
 # Docs folders
 docs_folder = f"docs/covid/{suffix}"
 raw_docs_folder = f"{docs_folder}/raw"
@@ -34,6 +38,17 @@ covid_table_docs = f"{covid_docs_folder}/moba_covid_phenotypes.md"
 tables_folder = f"/mnt/work/marc/phenotypes/pheno_covid_{suffix}"
 raw_tables_folder = f"{tables_folder}/raw"
 covid_tables_folder = f"{tables_folder}/covid"
+
+# Identifiers tables
+id_folder = f"{tables_folder}/id"
+child_id_table = f"{id_folder}/children_id"
+mother_id_table = f"{id_folder}/mothers_id"
+father_id_table = f"{id_folder}/fathers_id"
+parent_id_table = f"{id_folder}/parents_id"
+unrelated_child_id_table = f"{id_folder}/children_id_unrelated"
+unrelated_mother_id_table = f"{id_folder}/mothers_id_unrelated"
+unrelated_father_id_table = f"{id_folder}/fathers_id_unrelated"
+unrelated_parent_id_table = f"{id_folder}/parents_id_unrelated"
 
 # Raw tables
 mfr_raw_table = os.path.join(raw_tables_folder, 'moba_ques', f'PDB{moba_project_number}_MFR_541_v12.gz')
@@ -98,6 +113,8 @@ rule all:
         child_msis_id_mapping_raw_table = child_msis_id_mapping_raw_table,
         mother_msis_id_mapping_raw_table = mother_msis_id_mapping_raw_table,
         father_msis_id_mapping_raw_table = father_msis_id_mapping_raw_table,
+        parent_id_table = parent_id_table,
+        unrelated_parent_id_table = unrelated_parent_id_table,
         covid_table= covid_table,
         covid_table_docs = covid_table_docs
 
@@ -188,6 +205,40 @@ rule consolidate_covid_pheno:
         """
 
 
+rule process_ids:
+    'Extracts family and individual ids'
+    input:
+        kinship_file = kinship_file,
+        child_id_linkage_raw_table = child_id_linkage_raw_table,
+        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
+        father_id_linkage_raw_table = father_id_linkage_raw_table,
+        id_folder = id_folder
+    params:
+        moba_project_number = moba_project_number
+    output:
+        child_id_table = child_id_table,
+        unrelated_child_id_table = unrelated_child_id_table,
+        mother_id_table = mother_id_table,
+        unrelated_mother_id_table = unrelated_mother_id_table,
+        father_id_table = father_id_table,
+        unrelated_father_id_table = unrelated_father_id_table,
+        parent_id_table = parent_id_table,
+        unrelated_parent_id_table = unrelated_parent_id_table
+    conda:
+        "envs/r_covid.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/process_ids.R \
+            {input.kinship_file} \
+            {input.child_id_linkage_raw_table} \
+            {input.mother_id_linkage_raw_table} \
+            {input.father_id_linkage_raw_table} \
+            {input.id_folder} \
+            {params.moba_project_number}
+        """
+
+
 rule pheno_tables_docs:
     'Writes documentation and summary statistics on the phenotype tables'
     input:
@@ -195,7 +246,8 @@ rule pheno_tables_docs:
     params:
         moba_version = moba_version,
         release_version = suffix,
-        project_number = moba_project_number
+        project_number = moba_project_number,
+        covid_table_docs_folder = covid_docs_folder
     output:
         covid_table_docs = covid_table_docs
     conda:
@@ -208,5 +260,5 @@ rule pheno_tables_docs:
             {params.release_version} \
             {params.project_number} \
             {input.covid_table} \
-            {output.covid_table_docs}
+            {params.covid_docs_folder}
         """
