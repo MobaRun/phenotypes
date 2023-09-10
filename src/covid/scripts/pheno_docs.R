@@ -31,6 +31,8 @@ docs_folder <- args[5]
 # 
 # covid_table <- "/mnt/work/marc/phenotypes/pheno_covid_23-05-28/covid/moba_covid_phenotypes.gz"
 
+print(glue("pheno file: {docs_folder}"))
+
 pheno_file <- file.path(docs_folder, "phenotypes.md")
 
 write(
