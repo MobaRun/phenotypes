@@ -99,6 +99,9 @@ if not os.path.isdir(raw_tables_folder):
 if not os.path.isdir(covid_tables_folder):
     os.makedirs(covid_tables_folder)
 
+if not os.path.isdir(id_folder):
+    os.makedirs(id_folder)
+
 
 ####################### Functions ############################################
 
