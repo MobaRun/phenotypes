@@ -31,8 +31,6 @@ docs_folder <- args[5]
 # 
 # covid_table <- "/mnt/work/marc/phenotypes/pheno_covid_23-05-28/covid/moba_covid_phenotypes.gz"
 
-print(glue("pheno file: {docs_folder}"))
-
 pheno_file <- file.path(docs_folder, "phenotypes.md")
 
 write(
@@ -91,10 +89,10 @@ for (column in names(table)) {
     )
     
     all_values <- table[[column]]
-    child_genotyped_values <- table[[column]][!is.na(table$sentrix_id) & role == "Child"]
-    mother_genotyped_values <- table[[column]][!is.na(table$sentrix_id) & role == "Mother"]
-    father_genotyped_values <- table[[column]][!is.na(table$sentrix_id) & role == "Father"]
-    parent_genotyped_values <- table[[column]][!is.na(table$sentrix_id) & (role == "Mother" | role == "Father")]
+    child_genotyped_values <- table[[column]][!is.na(table$sentrix_id) & table$role == "Child"]
+    mother_genotyped_values <- table[[column]][!is.na(table$sentrix_id) & table$role == "Mother"]
+    father_genotyped_values <- table[[column]][!is.na(table$sentrix_id) & table$role == "Father"]
+    parent_genotyped_values <- table[[column]][!is.na(table$sentrix_id) & (table$role == "Mother" | table$role == "Father")]
     
     write(
       x = glue("| Value | Total | Child genotyped | Mother genotyped | Father genotyped | Parents genotyped |"), 
@@ -134,10 +132,10 @@ for (column in names(table)) {
     
     all_values_numeric <- as.numeric(all_values)
     all_character <- all_values[!is.na(all_values) & is.na(all_values_numeric)]
-    child_values_numeric <- all_values_numeric[!is.na(table$sentrix_id) & role == "Child"]
-    mother_values_numeric <- all_values_numeric[!is.na(table$sentrix_id) & role == "Mother"]
-    father_values_numeric <- all_values_numeric[!is.na(table$sentrix_id) & role == "Father"]
-    parent_values_numeric <- all_values_numeric[!is.na(table$sentrix_id) & (role == "Mother" | role == "Father")]
+    child_values_numeric <- all_values_numeric[!is.na(table$sentrix_id) & table$role == "Child"]
+    mother_values_numeric <- all_values_numeric[!is.na(table$sentrix_id) & table$role == "Mother"]
+    father_values_numeric <- all_values_numeric[!is.na(table$sentrix_id) & table$role == "Father"]
+    parent_values_numeric <- all_values_numeric[!is.na(table$sentrix_id) & (table$role == "Mother" | table$role == "Father")]
     all_values_numeric <- all_values_numeric[!is.na(all_values_numeric)]
     child_values_numeric <- child_values_numeric[!is.na(child_values_numeric)]
     mother_values_numeric <- mother_values_numeric[!is.na(mother_values_numeric)]
