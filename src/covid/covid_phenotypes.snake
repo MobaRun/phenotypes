@@ -250,7 +250,7 @@ rule pheno_tables_docs:
         moba_version = moba_version,
         release_version = suffix,
         project_number = moba_project_number,
-        covid_table_docs_folder = covid_docs_folder
+        covid_docs_folder = covid_docs_folder
     output:
         covid_table_docs = covid_table_docs
     conda:
