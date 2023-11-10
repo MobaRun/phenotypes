@@ -120,6 +120,7 @@ rule all:
         parent_id_table = parent_id_table,
         unrelated_parent_id_table = unrelated_parent_id_table,
         covid_table= covid_table,
+        location_table = location_table,
         covid_table_docs = covid_table_docs
 
 rule raw_pheno:
