@@ -1250,7 +1250,7 @@ participant_location <- do.call(rbind, participant_location) %>% distinct()
 
 write.table(
   x = participant_location,
-  file = gzfile(locationTable),
+  file = gzfile("/mnt/work/marc/phenotypes/pheno_covid_23-09-08/hla_location.gz"),
   sep = "\t",
   col.names = T,
   row.names = F,
