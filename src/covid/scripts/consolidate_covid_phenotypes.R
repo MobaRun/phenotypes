@@ -49,22 +49,22 @@ mobaProjectNumber <- args[17]
 
 ### DEBUG
 
-rawTablesFolder <- "/mnt/work/marc/pheno_covid_23-03-03/raw"
-child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
-mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
-father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
-mfr_raw_table <- "/mnt/work/marc/pheno_covid_23-03-03/raw/moba_ques/PDB2824_MFR_541_v12.gz"
-msis_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/PDB2824_MSIS-data_MoBa.gz"
-child_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Barn_ID_2824_2021_11_17sav.gz"
-mother_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Mor_ID_2824_2021_11_17sav.gz"
-father_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/msis/Far_ID_2824_2021_11_17sav.gz"
-sysvak_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/SYSVAK210043_KOBLET_MOBA_01022022.gz"
-child_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Barn_koblingsbro_2824.gz"
-mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Mor_koblingsbro_2824.gz"
-father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Far_koblingsbro_2824_.gz"
-covidTable <- "/mnt/work/marc/pheno_covid_23-03-03/covid/moba_covid_phenotypes.gz"
-locationTable <- "/mnt/work/marc/pheno_covid_23-03-03/covid/covid_participant_location.gz"
-docsFolder <- "docs/covid/23-03-03/covid"
+rawTablesFolder <- "/mnt/work/marc/pheno_covid_23-09-08/raw"
+child_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
+mother_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
+father_id_linkage_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
+mfr_raw_table <- "/mnt/work/marc/pheno_covid_23-09-08/raw/moba_ques/PDB2824_MFR_541_v12.gz"
+msis_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/msis/PDB2824_MSIS-data_MoBa.gz"
+child_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/msis/Barn_ID_2824_2021_11_17sav.gz"
+mother_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/msis/Mor_ID_2824_2021_11_17sav.gz"
+father_msis_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/msis/Far_ID_2824_2021_11_17sav.gz"
+sysvak_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/sysvak/SYSVAK210043_KOBLET_MOBA_01022022.gz"
+child_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/sysvak/2022_02_01_Barn_koblingsbro_2824.gz"
+mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/sysvak/2022_02_01_Mor_koblingsbro_2824.gz"
+father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-09-08/raw/sysvak/2022_02_01_Far_koblingsbro_2824_.gz"
+covidTable <- "/mnt/work/marc/pheno_covid_23-09-08/covid/moba_covid_phenotypes.gz"
+locationTable <- "/mnt/work/marc/pheno_covid_23-09-08/covid/covid_participant_location.gz"
+docsFolder <- "docs/covid/23-09-08/covid"
 mobaProjectNumber <- 2824
 
 ###
