@@ -75,8 +75,9 @@ child_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'202205
 mother_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Mother_PDB{moba_project_number}.gz')
 father_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'20220516_MoBaGeneticsTot_Father_PDB{moba_project_number}.gz')
 
-# Covid table
+# Covid tables
 covid_table = os.path.join(covid_tables_folder, "moba_covid_phenotypes.gz")
+location_table = os.path.join(covid_tables_folder, "moba_covid_location.gz")
 
 
 ####################### Housekeeping #########################################
@@ -182,7 +183,8 @@ rule consolidate_covid_pheno:
         covid_docs_folder = covid_docs_folder,
         raw_tables_folder = raw_tables_folder
     output:
-        covid_table = covid_table
+        covid_table = covid_table,
+        location_table = location_table
     conda:
         "envs/r_covid.yaml"
     threads: 1
@@ -203,6 +205,7 @@ rule consolidate_covid_pheno:
             {input.mother_sysvak_id_mapping_raw_table_path} \
             {input.father_sysvak_id_mapping_raw_table_path} \
             {output.covid_table} \
+            {output.location_table} \
             {params.covid_docs_folder} \
             {params.moba_project_number}
         """

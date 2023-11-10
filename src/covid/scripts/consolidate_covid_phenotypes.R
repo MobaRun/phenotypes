@@ -43,8 +43,9 @@ child_sysvak_id_mapping_raw_table_path <- args[11]
 mother_sysvak_id_mapping_raw_table_path <- args[12]
 father_sysvak_id_mapping_raw_table_path <- args[13]
 covidTable <- args[14]
-docsFolder <- args[15]
-mobaProjectNumber <- args[16]
+locationTable <- args[15]
+docsFolder <- args[16]
+mobaProjectNumber <- args[17]
 
 ### DEBUG
 
@@ -62,6 +63,7 @@ mobaProjectNumber <- args[16]
 # mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Mor_koblingsbro_2824.gz"
 # father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/pheno_covid_23-03-03/raw/sysvak/2022_02_01_Far_koblingsbro_2824_.gz"
 # covidTable <- "/mnt/work/marc/pheno_covid_23-03-03/covid/moba_covid_phenotypes.gz"
+# locationTable <- "/mnt/work/marc/pheno_covid_23-03-03/covid/covid_participant_location.gz"
 # docsFolder <- "docs/covid/23-03-03/covid"
 # mobaProjectNumber <- 2824
 
@@ -538,6 +540,11 @@ longCovidPhenoImport <- function(
 }
 
 
+# Participant location
+
+participant_location = list()
+
+
 # Load covid questionnaire data
 
 print(glue("{Sys.time()} - Loading long covid questionnaires"))
@@ -614,9 +621,33 @@ for (folder in list.files(quesFolder)) {
               )
             )
           
+          # Participant location
+          
+          if ("fylkenummer" %in% names(quesDF)) {
+            
+            if (!"fylkenavn" %in% names(quesDF)) {
+              
+              stop(glue("'fylkenavn' not found in '{questionnaireFile}': {names(quesDF)}"))
+              
+            }
+            if (!"fill_in_date" %in% names(quesDF)) {
+              
+              stop(glue("'fill_in_date' not found in '{questionnaireFile}': {names(quesDF)}"))
+              
+            }
+            
+            participant_location[[length(participant_location) + 1]] <- quesDF %>% 
+              select(
+                id, fylkenummer, fylkenavn, fill_in_date
+              )
+            
+          }
+          
+          # infection
+          
           if (!"fill_in_date" %in% names(quesDF)) {
             
-            stop("'fill_in_date' not found in '{questionnaireFile}': {names(quesDF)}")
+            stop(glue("'fill_in_date' not found in '{questionnaireFile}': {names(quesDF)}"))
             
           }
           
@@ -1207,6 +1238,23 @@ if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
   stop("Duplicate sentrix id introduced during processing of covid questionnaires.")
   
 }
+
+
+# Aggregate participant location
+
+print(glue("{Sys.time()} - Saving participant location"))
+
+participant_location <- do.call(rbind, participant_location) %>% distinct()
+
+write.table(
+  x = participant_location,
+  file = gzfile(locationTable),
+  sep = "\t",
+  col.names = T,
+  row.names = F,
+  quote = F
+)
+
 
 # Load medical birth registry
 
