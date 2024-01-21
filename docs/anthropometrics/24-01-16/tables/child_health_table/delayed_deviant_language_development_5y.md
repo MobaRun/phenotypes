@@ -1,0 +1,14 @@
+# delayed_deviant_language_development_5y
+Variable mapping to questionnaire: q7, question LL79.
+- Number of values:
+
+| Value | Total | Child genotyped | Mother genotyped | Father genotyped |
+| ----- | ----- | --------------- | ---------------- | ---------------- |
+| Missing | 72481 | 45984 | 43867 | 28909 |
+| Non-missing | 41142 | 29447 | 27902 | 21309 |
+| More than 1 check box filled in | 6 | 4 | 3 |4 |
+| No | 38542 | 27655 | 26221 |20074 |
+| Yes | 2594 | 1788 | 1678 |1231 |
+
+
+
