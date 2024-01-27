@@ -1549,7 +1549,7 @@ mfr_columns <- c(
   "eclampsia_total",
   "preeclampsia",
   "early_preeclampsia",
-  "mother_pregnancy_hellp",
+  "pregnancy_hellp",
   "mother_folic_supplements_pregnancy",
   "mother_vitamin_supplements_pregnancy",
   "mother_smoking_information_no_consent",
