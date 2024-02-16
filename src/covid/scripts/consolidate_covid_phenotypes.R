@@ -62,8 +62,8 @@ sysvak_raw_table_path <- "/mnt/work/marc/phenotypes/pheno_covid_23-09-08/raw/sys
 child_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/phenotypes/pheno_covid_23-09-08/raw/sysvak/2022_02_01_Barn_koblingsbro_2824.gz"
 mother_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/phenotypes/pheno_covid_23-09-08/raw/sysvak/2022_02_01_Mor_koblingsbro_2824.gz"
 father_sysvak_id_mapping_raw_table_path <- "/mnt/work/marc/phenotypes/pheno_covid_23-09-08/raw/sysvak/2022_02_01_Far_koblingsbro_2824_.gz"
-covidTable <- "/mnt/work/marc/pheno_covid_23-09-08/covid/moba_covid_phenotypes.gz"
-locationTable <- "/mnt/work/marc/pheno_covid_23-09-08/covid/covid_participant_location.gz"
+covidTable <- "/mnt/work/marc/phenotypes/pheno_covid_23-09-08/covid/moba_covid_phenotypes.gz"
+locationTable <- "/mnt/work/marc/phenotypes/pheno_covid_23-09-08/covid/covid_participant_location.gz"
 docsFolder <- "docs/covid/23-09-08/covid"
 mobaProjectNumber <- 2824
 
@@ -1246,21 +1246,20 @@ if (nrow(phenoDF) != length(unique(phenoDF$sentrix_id))) {
 
 print(glue("{Sys.time()} - Saving participant location"))
 
-participant_location <- do.call(rbind, participant_location) %>% distinct()
+participant_location <- do.call(rbind, participant_location) %>%
+    distinct() %>%
+    mutate(
+        fill_in_date = as.Date(fill_in_date/86400, origin = "1582-10-14")
+    )
 
 write.table(
   x = participant_location,
-  file = gzfile("/mnt/work/marc/phenotypes/pheno_covid_23-09-08/hla_location.gz"),
+  file = gzfile(locationTable),
   sep = "\t",
   col.names = T,
   row.names = F,
   quote = F
 )
-
-writeLines("DEBUG", covidTable)
-
-stop("DEBUG")
-
 
 # Load medical birth registry
 
