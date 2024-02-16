@@ -49,7 +49,7 @@ conflicts_prefer(dplyr::filter)
 
 ### DEBUG
 
-rawTablesFolder <- "/mnt/work/marc/pheno_covid_23-09-08/raw"
+rawTablesFolder <- "/mnt/work/marc/phenotypes/pheno_covid_23-09-08/raw"
 child_id_linkage_raw_table_path <- "/mnt/work/marc/phenotypes/pheno_covid_23-09-08/raw/linkage/20220516_MoBaGeneticsTot_Child_PDB2824.gz"
 mother_id_linkage_raw_table_path <- "/mnt/work/marc/phenotypes/pheno_covid_23-09-08/raw/linkage/20220516_MoBaGeneticsTot_Mother_PDB2824.gz"
 father_id_linkage_raw_table_path <- "/mnt/work/marc/phenotypes/pheno_covid_23-09-08/raw/linkage/20220516_MoBaGeneticsTot_Father_PDB2824.gz"
