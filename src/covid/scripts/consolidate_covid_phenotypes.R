@@ -984,8 +984,7 @@ for (folder in list.files(quesFolder)) {
               
             }
           }
-          
-          if (F) {  # DEBUG
+
           for (question_i in 1:length(long_covid_questions)) {
             
             question <- long_covid_questions[question_i]
@@ -1229,7 +1228,6 @@ for (folder in list.files(quesFolder)) {
             }
           }
           }
-        } # DEBUG
       }
     }
   }
