@@ -1317,6 +1317,21 @@ write.table(
   quote = F
 )
 
+reproduction_columns <- reproduction_columns[reproduction_columns %in% names(values)]
+reproductionValues <- values %>% 
+  select(
+    all_of(c(default_columns, reproduction_columns))
+  )
+
+write.table(
+  x = reproductionValues,
+  file = gzfile(file.path(tablesFolder, "reproduction.gz")),
+  row.names = F,
+  col.names = T,
+  sep = "\t",
+  quote = F
+)
+
 pregnancy_columns <- pregnancy_columns[pregnancy_columns %in% names(values)]
 pregnancyValues <- values %>% 
   select(
