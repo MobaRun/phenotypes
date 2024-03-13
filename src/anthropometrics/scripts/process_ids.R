@@ -59,38 +59,26 @@ process_ids <- function(
       family_id = fid
     )
   
-  # Quick and dirty way to extract unrelated individuals. 
-  # @TODO: refactor using the igraph implementation
-
-  indexes <- c()
-  related_ids <- c()
-
-  last_progress <- 0
-
-  for (i in 1:nrow(identifiers)) {
-
-    progress <- round(100 * i / nrow(identifiers))
-
-    if (progress >= last_progress + 10) {
-
-      print(paste0(Sys.time(), " - Processing ", file_name, ": ", progress, " %"))
-
-      last_progress <- progress
-
-    }
-
-    identifier <- identifiers[i, "sentrix_id"]
-
-    if (! identifier %in% related_ids) {
-
-      indexes[length(indexes) + 1] <- i
-
-      related_ids <- unique(c(related_ids, relatedness_df$ID2[relatedness_df$ID1 == identifier], relatedness_df$ID1[relatedness_df$ID2 == identifier]))
-
-    }
+  # Extract unrelated individuals
+  
+  unrelated_individuals <- identifiers$sentrix_id[! identifiers$sentrix_id %in% c(related_ids_table$ID1, related_ids_table$ID2)]
+  
+  relatedness_graph <- graph_from_data_frame(
+    related_ids_table,
+    directed = F
+  )
+  
+  relatedness_components <- components(relatedness_graph)
+  
+  for (component_i in 1:relatedness_components$no) {
+    
+    component_nodes <- names(relatedness_components$membership)[relatedness_components$membership == component_i]
+    
+    unrelated_individuals <- c(unrelated_individuals, sample(component_nodes, 1))
+    
   }
 
-  identifiers_unrelated <- identifiers[indexes, ]
+  identifiers_unrelated <- identifiers[identifiers$sentrix_id %in% unrelated_individuals, ]
 
   print(paste0(Sys.time(), " - Exporting identifiers for ", file_name))
   

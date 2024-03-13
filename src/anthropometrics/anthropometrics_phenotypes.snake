@@ -82,8 +82,9 @@ preg_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{mob
 
 # Output tables
 ids_table = os.path.join(tables_folder, "ids.gz"),
+reproduction_table = os.path.join(tables_folder, "reproduction.gz"),
 pregnancy_table = os.path.join(tables_folder, "pregnancy.gz"),
-mfr_table = os.path.join(tables_folder, "mfr.gz"),
+pregnancy_table = os.path.join(tables_folder, "pregnancy.gz"),
 pregnancy_nutrition_table = os.path.join(tables_folder, "pregnancy_nutrition.gz"),
 mother_nutrition_table = os.path.join(tables_folder, "mother_nutrition.gz"),
 child_nutrition_table = os.path.join(tables_folder, "child_nutrition.gz"),
@@ -139,6 +140,7 @@ rule all:
         raw_data_docs = os.path.join(raw_docs_folder, 'data.md'),
         child_id_table = child_id_table,
         unrelated_child_id_table = unrelated_child_id_table,
+        reproduction_table = reproduction_table,
         pregnancy_table = pregnancy_table,
         mfr_table = mfr_table,
         pregnancy_nutrition_table = pregnancy_nutrition_table,
@@ -266,8 +268,9 @@ rule anthropometrics_raw_cleaning:
         moba_project_number = moba_project_number
     output:
          ids_table = ids_table,
-         pregnancy_table = pregnancy_table,
          mfr_table = mfr_table,
+         reproduction_table = reproduction_table,
+         pregnancy_table = pregnancy_table,
          pregnancy_nutrition_table = pregnancy_nutrition_table,
          mother_nutrition_table = mother_nutrition_table,
          child_nutrition_table = child_nutrition_table,
@@ -342,8 +345,9 @@ rule pheno_tables_docs:
         child_id_table = child_id_table,
         mother_id_table = mother_id_table,
         father_id_table = father_id_table,
-        pregnancy_table = pregnancy_table,
         mfr_table = mfr_table,
+        reproduction_table = reproduction_table,
+        pregnancy_table = pregnancy_table,
         pregnancy_nutrition_table = pregnancy_nutrition_table,
         mother_nutrition_table = mother_nutrition_table,
         child_nutrition_table = child_nutrition_table,
@@ -372,6 +376,7 @@ rule pheno_tables_docs:
             {input.child_id_table} \
             {input.mother_id_table} \
             {input.father_id_table} \
+            {input.reproduction_table}  \
             {input.pregnancy_table}  \
             {input.mfr_table}  \
             {input.pregnancy_nutrition_table}  \

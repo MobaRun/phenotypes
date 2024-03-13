@@ -25,18 +25,19 @@ project_number <- args[3]
 child_id_file <- args[4]
 mother_id_file <- args[5]
 father_id_file <- args[6]
-pregnancy_table <- args[7]
-mfr_table <- args[8]
-pregnancy_nutrition_table <- args[9]
-mother_nutrition_table <- args[10]
-child_nutrition_table <- args[11]
-child_table <- args[12]
-child_health_table <- args[13]
-parents_table <- args[14]
-mother_health_table <- args[15]
-father_health_table <- args[16]
-child_anthropometrics_table <- args[17]
-docs_folder <- args[18]
+reproduction_table <- args[7]
+pregnancy_table <- args[8]
+mfr_table <- args[9]
+pregnancy_nutrition_table <- args[10]
+mother_nutrition_table <- args[11]
+child_nutrition_table <- args[12]
+child_table <- args[13]
+child_health_table <- args[14]
+parents_table <- args[15]
+mother_health_table <- args[16]
+father_health_table <- args[17]
+child_anthropometrics_table <- args[18]
+docs_folder <- args[19]
 
 # moba_version <- "V12"
 # release_version <- "23-07-12"
@@ -64,6 +65,7 @@ docs_folder <- args[18]
 source("src/anthropometrics/scripts/utils/variables_mapping.R")
 
 tables <- list(
+  reproduction_table = reproduction_table,
   pregnancy_table = pregnancy_table,
   mfr_table = mfr_table,
   pregnancy_nutrition_table = pregnancy_nutrition_table,
@@ -77,6 +79,7 @@ tables <- list(
   child_anthropometrics_table = child_anthropometrics_table
 )
 columns <- list(
+  reproduction_table = reproduction_columns,
   pregnancy_table = pregnancy_columns,
   mfr_table = mfr_columns,
   pregnancy_nutrition_table = pregnancy_nutrition_columns,
