@@ -2340,7 +2340,7 @@ child_nutrition_columns <- c(
   "cod_liver_oil_pills_5y",
   "multivitamins_pills_5y",
   "fluorid_pills_5y",
-  "other_supplement_pills_5y"
+  "other_supplement_pills_5y",
   "takes_cod_liver_oil_7y", 
   "takes_omega3_7y", 
   "takes_multivitamins_7y", 
