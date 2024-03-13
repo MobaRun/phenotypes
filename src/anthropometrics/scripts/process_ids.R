@@ -37,7 +37,7 @@ father_id_column <- paste0("F_ID_", project_number)
 ##
 process_ids <- function(
     linkage_table,
-    relatedness_df,
+    related_ids_table,
     fam_id_df,
     export_folder,
     file_name
@@ -168,7 +168,7 @@ kinship_df <- read.table(
 
 relatedness_threshold <- min(kinship_df$PropIBD[kinship_df$InfType == "3rd"])
 
-relatedness_df <- kinship_df[kinship_df$PropIBD > relatedness_threshold, c("ID1", "ID2")]
+related_ids_table <- kinship_df[kinship_df$PropIBD > relatedness_threshold, c("ID1", "ID2")]
 
 
 # Get family ids
@@ -217,7 +217,7 @@ child_linkage_table <- read.table(
   
 process_ids(
     linkage_table = child_linkage_table,
-    relatedness_df = relatedness_df,
+    related_ids_table = related_ids_table,
     fam_id_df = fam_id_df,
     export_folder = id_folder,
     file_name = "children_id"
@@ -235,7 +235,7 @@ mother_linkage_table <- read.table(
 
 process_ids(
   linkage_table = mother_linkage_table,
-  relatedness_df = relatedness_df,
+  related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
   file_name = "mothers_id"
@@ -253,7 +253,7 @@ father_linkage_table <- read.table(
 
 process_ids(
   linkage_table = father_linkage_table,
-  relatedness_df = relatedness_df,
+  related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
   file_name = "fathers_id"
@@ -262,7 +262,7 @@ process_ids(
 parents_linkage_table <- rbind(mother_linkage_table, father_linkage_table)
 process_ids(
   linkage_table = parents_linkage_table,
-  relatedness_df = relatedness_df,
+  related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
   file_name = "parents_id"
@@ -271,7 +271,7 @@ process_ids(
 all_individuals_linkage_table <- rbind(parents_linkage_table, child_linkage_table)
 process_ids(
   linkage_table = all_individuals_linkage_table,
-  relatedness_df = relatedness_df,
+  related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
   file_name = "all_individuals_id"
