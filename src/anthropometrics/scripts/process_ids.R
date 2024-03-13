@@ -129,8 +129,8 @@ process_ids <- function(
   )
 
 
-  sampled_indexes <- sort(sample(x = indexes, size = min(length(indexes), 30000)))
-  identifiers_unrelated <- identifiers[sampled_indexes, ]
+  sampled_indexes <- sort(sample(x = 1:nrow(identifiers_unrelated), size = min(length(indexes), 30000)))
+  identifiers_unrelated <- identifiers_unrelated[sampled_indexes, ]
   
   output_file <- file.path(export_folder, paste0(file_name, "_unrelated_30k"))
   
