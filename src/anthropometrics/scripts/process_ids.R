@@ -10,6 +10,7 @@ set.seed(123456)
 # Libraries
 
 library(dplyr)
+library(igraph)
 
 
 # Command line parameters
