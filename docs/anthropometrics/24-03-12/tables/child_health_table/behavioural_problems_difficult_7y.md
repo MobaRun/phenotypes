@@ -1,0 +1,14 @@
+# behavioural_problems_difficult_7y
+Variable mapping to questionnaire: q8, question JJ447.
+- Number of values:
+
+| Value | Total | Child genotyped | Mother genotyped | Father genotyped |
+| ----- | ----- | --------------- | ---------------- | ---------------- |
+| Missing | 110184 | 73093 | 69577 | 48724 |
+| Non-missing | 3439 | 2338 | 2192 | 1494 |
+| More than 1 check box filled in | 4 | 2 | 2 |1 |
+| No | 1637 | 1174 | 1120 |731 |
+| Yes | 1798 | 1162 | 1070 |762 |
+
+
+
