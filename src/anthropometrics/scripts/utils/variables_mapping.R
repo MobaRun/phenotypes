@@ -209,6 +209,7 @@ q1mVariablesMapping <- c(
   contraception_used_mini_pill_length = "AA42",
   pregancy_planned = "AA46",
   months_intercourse_without_contraception_1 = "AA47",
+  months_intercourse_without_contraception_1_2 = "AA1687",
   months_intercourse_without_contraception_2 = "AA48",
   partner_used_contraceptives = "AA49",
   sex_frequency_before = "AA65",
@@ -3091,6 +3092,7 @@ parent_values_columns <- c(
 reproduction_columns <- c(
   "pregancy_planned",
   "months_intercourse_without_contraception_1",
+  "months_intercourse_without_contraception_1_2",
   "months_intercourse_without_contraception_2",
   "partner_used_contraceptives",
   "sex_frequency_before",
@@ -3128,6 +3130,7 @@ reproduction_columns <- c(
   "contraception_used_other_specify_2",
   "contraception_used_pill_length",
   "contraception_used_mini_pill_length",
+  "irregular_periods",
   "lost_periods_no",
   "lost_periods_previous_pregnancy",
   "lost_periods_yes_other",
