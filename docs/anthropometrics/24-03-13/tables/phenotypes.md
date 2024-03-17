@@ -4,6 +4,7 @@ Descriptives of the phenotypic files for version 'V12' of the phenotypes, releas
 
 - [pregancy_planned](reproduction_table/pregancy_planned.md)
 - [months_intercourse_without_contraception_1](reproduction_table/months_intercourse_without_contraception_1.md)
+- [months_intercourse_without_contraception_1_2](reproduction_table/months_intercourse_without_contraception_1_2.md)
 - [months_intercourse_without_contraception_2](reproduction_table/months_intercourse_without_contraception_2.md)
 - [partner_used_contraceptives](reproduction_table/partner_used_contraceptives.md)
 - [sex_frequency_before](reproduction_table/sex_frequency_before.md)
@@ -41,6 +42,7 @@ Descriptives of the phenotypic files for version 'V12' of the phenotypes, releas
 - [contraception_used_other_specify_2](reproduction_table/contraception_used_other_specify_2.md)
 - [contraception_used_pill_length](reproduction_table/contraception_used_pill_length.md)
 - [contraception_used_mini_pill_length](reproduction_table/contraception_used_mini_pill_length.md)
+- [irregular_periods](reproduction_table/irregular_periods.md)
 - [lost_periods_no](reproduction_table/lost_periods_no.md)
 - [lost_periods_previous_pregnancy](reproduction_table/lost_periods_previous_pregnancy.md)
 - [lost_periods_yes_other](reproduction_table/lost_periods_yes_other.md)
