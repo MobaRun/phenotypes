@@ -233,8 +233,8 @@ q1mVariablesMapping <- c(
   mother_weight_beginning_self = "AA85", 
   mother_weight_15w = "AA86", 
   mother_height_self = "AA87", 
-  father_height = "AA88", 
-  father_weight = "AA89", 
+  father_height_15w = "AA88", 
+  father_weight_15w = "AA89", 
   pregnant_before = "AA93",
   previous_pregnancy_outcome_1 = "AA95",
   previous_pregnancy_outcome_2 = "AA101",
@@ -423,8 +423,8 @@ q1mVariablesMapping <- c(
 q1fVariablesMapping <- c(
   preg_id = glue("PREG_ID_{project_number}"),
   father_age_15w = "FAR_ALDERUTFYLT", 
-  father_height_self = "FF333", 
-  father_weight_self = "FF334", 
+  father_height_self_15w = "FF333", 
+  father_weight_self_15w = "FF334", 
   father_diabetes = "FF149", 
   father_eating_disorders = "FF389"
 )
@@ -1512,6 +1512,13 @@ ungdomsskjemaBarnVariablesMapping <- c(
   youth_self_facial_hair = "UB228",
   youth_self_breast = "UB229",
   youth_self_menstruating = "UB230"
+)
+
+far2VariablesMapping <- c(
+  preg_id = glue("PREG_ID_{project_number}"),
+  father_height_far2 = "G__5",
+  father_weight_far2 = "G__6",
+  father_weight_recall_18 = "G__7_1"
 )
 
 
@@ -3086,7 +3093,14 @@ parent_values_columns <- c(
   "mother_weight_3y", 
   "mother_weight_5y", 
   "mother_weight_8y",
-  "mother_median_height"
+  "mother_median_height",
+  "father_height_15w", 
+  "father_weight_15w",
+  "father_height_self_15w", 
+  "father_weight_self_15w",
+  "father_height_far2",
+  "father_weight_far2",
+  "father_weight_recall_18"
 )
 
 reproduction_columns <- c(

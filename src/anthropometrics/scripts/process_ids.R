@@ -60,6 +60,14 @@ process_ids <- function(
       family_id = fid
     )
   
+  # Keep only relationships within population
+  
+  population_related_ids_table <- related_ids_table %>% 
+    filter(
+      ID1 %in% identifiers$sentrix_id & ID2 %in% identifiers$sentrix_id
+    )
+  
+  
   # Extract unrelated individuals
   
   unrelated_individuals <- identifiers$sentrix_id[! identifiers$sentrix_id %in% c(related_ids_table$ID1, related_ids_table$ID2)]
@@ -267,14 +275,5 @@ process_ids(
   fam_id_df = fam_id_df,
   export_folder = id_folder,
   file_name = "parents_id"
-)
-
-all_individuals_linkage_table <- rbind(parents_linkage_table, child_linkage_table)
-process_ids(
-  linkage_table = all_individuals_linkage_table,
-  related_ids_table = related_ids_table,
-  fam_id_df = fam_id_df,
-  export_folder = id_folder,
-  file_name = "all_individuals_id"
 )
 

@@ -70,6 +70,7 @@ skjema5aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_proj
 skjema7aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema7aar_v12.gz')
 skjema8aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema8aar_v12.gz')
 ungdomsskjema_barn_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Barn_v12_standard.gz')
+f2_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Far2_V12.gz.gz')
 ungdomsskjema_mor_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Mor_v12_standard.gz')
 kosthold_ungdom_beregnet_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Kosthold_ungdom_beregnet_v12.gz')
 kosthold_ungdom_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Kosthold_ungdom_v12.gz')
@@ -260,7 +261,8 @@ rule anthropometrics_raw_cleaning:
         q8_table = skjema7aar_table,
         q9_table = skjema8aar_table,
         skjemaKostUngdom_table = kosthold_ungdom_table,
-        ungdomsskjema_barn_table = ungdomsskjema_barn_table
+        ungdomsskjema_barn_table = ungdomsskjema_barn_table,
+        f2_table = f2_table
     params:
         fam_file = fam_file,
         tables_folder = tables_folder,
@@ -308,6 +310,7 @@ rule anthropometrics_raw_cleaning:
             {input.q9_table} \
             {input.skjemaKostUngdom_table} \
             {input.ungdomsskjema_barn_table} \
+            {input.f2_table} \
             {params.tables_folder} \
             {params.qc_folder} \
             {params.moba_project_number}

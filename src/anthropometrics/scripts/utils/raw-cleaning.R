@@ -36,9 +36,10 @@ q8_raw_table_path <- args[19]
 q9_raw_table_path <- args[20]
 kostUngdom_raw_table_path <- args[21]
 ungdomsskjema_barn_raw_table_path <- args[22]
-tablesFolder <- args[23]
-qcFolder <- args[24]
-project_number <- args[25]
+far2_raw_table_path <- args[23]
+tablesFolder <- args[24]
+qcFolder <- args[25]
+project_number <- args[26]
 
 
 ##
@@ -496,6 +497,13 @@ ungdomsskjema_barn_raw_table <- read.table(
   stringsAsFactors = F
 )
 
+far2_raw_table <- read.table(
+  file = far2_raw_table_path,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+
 # Extract variables
 
 mfrVariablesMapping <- mfrVariablesMapping[mfrVariablesMapping %in% names(mfr_raw_table)]
@@ -642,6 +650,15 @@ ungdomsskjema_barn_table <- ungdomsskjema_barn_raw_table %>%
     )
   )
 
+far2VariablesMapping <- far2VariablesMapping[far2VariablesMapping %in% names(far2_raw_table)]
+
+far2_table <- far2_raw_table %>%
+  select(
+    all_of(
+      far2VariablesMapping
+    )
+  )
+
 
 # Combination of variables from the same questionnaire
 
@@ -778,6 +795,20 @@ print(glue("- Children in birth registry: {nrow(rawPheno)}"))
 print(glue("- Children genotyped: {sum(!is.na(rawPheno$child_sentrix_id))}"))
 print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id))}"))
 print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$father_sentrix_id))}"))
+
+
+# Merge parent-specific tables
+
+father_id_column_caps <- paste0("F_ID_", project_number)
+
+rawPheno <- rawPheno %>% 
+  left_join(
+    far2_table %>% 
+      rename(
+        father_id = !!sym(father_id_column_caps)
+      ),
+    by = "father_id"
+  )
 
 
 # Correct units for columns to be merged
