@@ -191,8 +191,7 @@ rule raw_pheno:
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
-        preg_id_linkage_raw_table = preg_id_linkage_raw_table,
-        f2_table = f2_table
+        preg_id_linkage_raw_table = preg_id_linkage_raw_table
     conda:
         "envs/r_anthropometrics.yaml"
     threads: 1
@@ -263,7 +262,7 @@ rule anthropometrics_raw_cleaning:
         q9_table = skjema8aar_table,
         skjemaKostUngdom_table = kosthold_ungdom_table,
         ungdomsskjema_barn_table = ungdomsskjema_barn_table,
-        f2_table = f2_table
+        far2_table = far2_table
     params:
         fam_file = fam_file,
         tables_folder = tables_folder,
@@ -311,7 +310,7 @@ rule anthropometrics_raw_cleaning:
             {input.q9_table} \
             {input.skjemaKostUngdom_table} \
             {input.ungdomsskjema_barn_table} \
-            {input.f2_table} \
+            {input.far2_table} \
             {params.tables_folder} \
             {params.qc_folder} \
             {params.moba_project_number}
