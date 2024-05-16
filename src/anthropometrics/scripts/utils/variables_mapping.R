@@ -1515,7 +1515,7 @@ ungdomsskjemaBarnVariablesMapping <- c(
 )
 
 far2VariablesMapping <- c(
-  preg_id = glue("PREG_ID_{project_number}"),
+  father_id = glue("F_ID_{project_number}"),
   father_height_far2 = "G__5",
   father_weight_far2 = "G__6",
   father_weight_recall_18 = "G__7_1"

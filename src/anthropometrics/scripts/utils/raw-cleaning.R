@@ -801,10 +801,7 @@ print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$fathe
 
 rawPheno <- rawPheno %>% 
   left_join(
-    far2_table %>% 
-      rename(
-        father_id = !!sym(father_id_column)
-      ),
+    far2_table,
     by = "father_id"
   )
 
