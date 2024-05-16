@@ -799,13 +799,11 @@ print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$fathe
 
 # Merge parent-specific tables
 
-father_id_column_caps <- paste0("F_ID_", project_number)
-
 rawPheno <- rawPheno %>% 
   left_join(
     far2_table %>% 
       rename(
-        father_id = !!sym(father_id_column_caps)
+        father_id = !!sym(father_id_column)
       ),
     by = "father_id"
   )
