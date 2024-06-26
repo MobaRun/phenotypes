@@ -16,3 +16,4 @@ dependencies:
   - r-ggplot2=3.4.0
   - r-ggside=0.2.2
   - r-igraph=1.3.5
+  - r-gamlss

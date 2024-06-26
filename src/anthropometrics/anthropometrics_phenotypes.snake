@@ -35,6 +35,7 @@ moba_phenotypes_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/phen
 docs_folder = f"docs/anthropometrics/{suffix}"
 raw_docs_folder = f"{docs_folder}/raw"
 growth_docs_folder = f"{docs_folder}/growth_cleaning"
+standardization_docs_folder = f"{docs_folder}/standardization"
 tables_docs_folder = f"{docs_folder}/tables"
 docs_file = os.path.join(tables_docs_folder, "phenotypes.md")
 
@@ -96,6 +97,7 @@ mother_health_table = os.path.join(tables_folder, "mother_health.gz"),
 father_health_table = os.path.join(tables_folder, "father_health.gz"),
 child_anthropometrics_raw_table = os.path.join(tables_folder, "child_anthropometrics_raw.gz"),
 child_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics.gz")
+child_standardized_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics_standardized.gz")
 
 # Anthropometrics QC folder
 qc_folder = f"{tables_folder}/qc"
@@ -153,6 +155,7 @@ rule all:
         mother_health_table = mother_health_table,
         father_health_table = father_health_table,
         child_anthropometrics_table = child_anthropometrics_table,
+        child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
         docs_file = docs_file,
         readme_file = os.path.join(docs_folder,"README.md")
 
@@ -319,7 +322,7 @@ rule anthropometrics_raw_cleaning:
 rule growth_cleaning:
     'Removes outliers and imputes missing values'
     input:
-        child_anthropometrics_raw_table = os.path.join(tables_folder, "child_anthropometrics_raw.gz")
+        child_anthropometrics_raw_table = child_anthropometrics_raw_table
     params:
         tables_folder = tables_folder,
         qc_folder = qc_folder,
@@ -327,7 +330,7 @@ rule growth_cleaning:
         release_name = suffix,
         docs_folder = growth_docs_folder
     output:
-        child_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics.gz"),
+        child_anthropometrics_table = child_anthropometrics_table,
         growth_docs_file = os.path.join(growth_docs_folder, "readme.md")
     conda:
         "envs/r_anthropometrics.yaml"
@@ -337,6 +340,28 @@ rule growth_cleaning:
         Rscript src/anthropometrics/scripts/utils/lw-cleaning.R \
             {params.tables_folder} \
             {params.qc_folder} \
+            {params.moba_project_number} \
+            {params.docs_folder}
+        """
+
+rule lw_standardization:
+    'standardizes anthropometric traits'
+    input:
+        child_anthropometrics_table = child_anthropometrics_table
+    params:
+        tables_folder = tables_folder,
+        moba_project_number = moba_project_number,
+        docs_folder = standardization_docs_folder
+    output:
+        child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
+        growth_docs_file = os.path.join(standardization_docs_folder, "standardization.md")
+    conda:
+        "envs/r_anthropometrics.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/utils/lw-standardization.R \
+            {params.tables_folder} \
             {params.moba_project_number} \
             {params.docs_folder}
         """

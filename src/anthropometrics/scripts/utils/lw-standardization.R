@@ -22,9 +22,9 @@ docs_folder <- args[4]
 # Debug Marc - do not uncomment
 # args to run locally on Hunt 
 # 
-tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_24-05-07"
-project_number <- 2824
-docs_folder <- "docs/anthropometrics/24-05-07/standardization"
+# tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_24-05-07"
+# project_number <- 2824
+# docs_folder <- "docs/anthropometrics/24-05-07/standardization"
 #
 ##
 
@@ -320,7 +320,7 @@ print(paste(Sys.time(), "Saving the results."))
 
 values_to_export <- values %>% 
   select(
-    -pregnancy_duration_1
+    all_of(c(default_columns, pregnancy_duration, age_columns, length_columns, weight_columns, bmi_columns, paste0("z_", length_columns), paste0("z_", weight_columns), paste0("z_", bmi_columns)))
   )
 
 
