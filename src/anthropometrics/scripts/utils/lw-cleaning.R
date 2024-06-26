@@ -83,6 +83,16 @@ weight_columns <- weight_columns[1:(length(weight_columns) - 1)]
 
 # Housekeeping
 
+if (!dir.exists(qcFolder)) {
+
+  dir.create(
+    path = qcFolder,
+    showWarnings = T,
+    recursive = T
+  )
+
+}
+
 lwQcLogFolder <- file.path(qcFolder, "lw_log")
 
 if (!file.exists(lwQcLogFolder)) {
@@ -115,16 +125,6 @@ if (!dir.exists(tablesFolder)) {
     recursive = T
   )
   
-}
-
-if (!dir.exists(qcFolder)) {
-
-  dir.create(
-    path = qcFolder,
-    showWarnings = T,
-    recursive = T
-  )
-
 }
 
 if (exportProfiles) {
