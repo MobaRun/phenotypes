@@ -1661,6 +1661,34 @@ bmi_columns <- c(
   "bmi_14y"
 )
 
+growth_columns <- c(
+  "growth_birth_6w",
+  "growth_6w_3m",
+  "growth_3m_6m",
+  "growth_6m_8m",
+  "growth_8m_1y",
+  "growth_1y_16m",
+  "growth_16m_2y",
+  "growth_2y_3y",
+  "growth_3y_5y",
+  "growth_5y_7y",
+  "growth_7y_8y"
+)
+
+weight_gain_columns <- c(
+  "weight_gain_birth_6w",
+  "weight_gain_6w_3m",
+  "weight_gain_3m_6m",
+  "weight_gain_6m_8m",
+  "weight_gain_8m_1y",
+  "weight_gain_1y_16m",
+  "weight_gain_16m_2y",
+  "weight_gain_2y_3y",
+  "weight_gain_3y_5y",
+  "weight_gain_5y_7y",
+  "weight_gain_7y_8y"
+)
+
 head_circumference_columns <- c(
   "hc_birth",
   "hc_6w",
