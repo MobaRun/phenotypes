@@ -1,0 +1,16 @@
+# nausea_9w_12w
+Variable mapping to questionnaire: q1m, question AA218.
+- Number of values:
+
+| Value | Total | Child genotyped | Mother genotyped | Father genotyped |
+| ----- | ----- | --------------- | ---------------- | ---------------- |
+| Missing | 61717 | 39114 | 37201 | 25430 |
+| Non-missing | 51906 | 36317 | 34568 | 24788 |
+| 1 | 51906 | 36317 | 34568 | 24788 |
+
+
+
+![](nausea_9w_12w_n.png)
+
+
+
