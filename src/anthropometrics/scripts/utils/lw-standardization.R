@@ -207,7 +207,6 @@ for (phenoI in 1:length(weight_columns)) {
   familyName <- "NO"
   family <- NO
   
-  
   sigmaFormula <- paste0(" ~ pregnancy_duration_1")
   
   formula <- paste0(phenoName, " ~ fp(pregnancy_duration_1)")
@@ -222,7 +221,7 @@ for (phenoI in 1:length(weight_columns)) {
     trainingvalues = refvalues,
     values = values,
     id = "child_id",
-    x = dependentPhenoName,
+    x = "pregnancy_duration_1",
     y = phenoName,
     zY = zPhenoName,
     formula = as.formula(formula),
@@ -269,7 +268,6 @@ for (phenoI in 1:length(bmi_columns)) {
   familyName <- "LOGNO"
   family <- LOGNO
   
-  
   sigmaFormula <- paste0(" ~ pregnancy_duration_1")
   
   formula <- paste0(phenoName, " ~ fp(pregnancy_duration_1)")
@@ -284,7 +282,7 @@ for (phenoI in 1:length(bmi_columns)) {
     trainingvalues = refvalues,
     values = values,
     id = "child_id",
-    x = dependentPhenoName,
+    x = "pregnancy_duration_1",
     y = phenoName,
     zY = zPhenoName,
     formula = as.formula(formula),
