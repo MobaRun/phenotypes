@@ -319,7 +319,7 @@ print(paste(Sys.time(), "Saving the results."))
 
 values_to_export <- values %>% 
   select(
-    all_of(c(default_columns, pregnancy_duration, age_columns, length_columns, weight_columns, bmi_columns, paste0("z_", length_columns), paste0("z_", weight_columns), paste0("z_", bmi_columns)))
+    all_of(c(default_columns, "pregnancy_duration", age_columns, length_columns, weight_columns, bmi_columns, paste0("z_", length_columns), paste0("z_", weight_columns), paste0("z_", bmi_columns)))
   )
 
 
