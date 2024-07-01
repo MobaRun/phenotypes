@@ -31,13 +31,14 @@ docs_folder <- args[3]
 
 ## Libraries import
 
+library(cli)
 library(janitor)
 library(stringr)
 library(dplyr)
 library(gamlss)
 library(glue)
 library(ggplot2)
-library(cli)
+library(gtable)
 library(grid)
 
 
