@@ -13,8 +13,8 @@
 args <- commandArgs(TRUE)
 
 tablesFolder <- args[1]
-project_number <- args[3]
-docs_folder <- args[4]
+project_number <- args[2]
+docs_folder <- args[3]
 
 
 ##
