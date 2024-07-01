@@ -199,7 +199,7 @@ for (phenoI in 1:length(weight_columns)) {
   
   print(paste0(Sys.time(), "    Standardizing ", phenoName))
   
-  timePoint <- timePoints[phenoI]
+  timePoint <- strsplit(phenoName, "_")[[1]][2]
   
   zPhenoName <- paste0("z_", phenoName)
   phenoLabel <- paste0("Weight at ", timePoint)
@@ -261,7 +261,7 @@ for (phenoI in 1:length(bmi_columns)) {
   
   print(paste0(Sys.time(), "    Standardizing ", phenoName))
   
-  timePoint <- timePoints[phenoI]
+  timePoint <- strsplit(phenoName, "_")[[1]][2]
   
   zPhenoName <- paste0("z_", phenoName)
   phenoLabel <- paste0("BMI at ", timePoint)
