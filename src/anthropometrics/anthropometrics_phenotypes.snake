@@ -142,23 +142,23 @@ rule all:
     'The output of the pipeline'
     input:
         raw_data_docs = os.path.join(raw_docs_folder, 'data.md'),
-        child_id_table = child_id_table,
-        unrelated_child_id_table = unrelated_child_id_table,
-        reproduction_table = reproduction_table,
-        pregnancy_table = pregnancy_table,
-        mfr_table = mfr_table,
-        pregnancy_nutrition_table = pregnancy_nutrition_table,
-        mother_nutrition_table = mother_nutrition_table,
-        child_nutrition_table = child_nutrition_table,
-        child_table = child_table,
-        child_health_table = child_health_table,
-        parents_table = parents_table,
-        mother_health_table = mother_health_table,
-        father_health_table = father_health_table,
-        child_anthropometrics_table = child_anthropometrics_table,
-        child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
-        docs_file = docs_file,
-        readme_file = os.path.join(docs_folder,"README.md")
+        # child_id_table = child_id_table,
+        # unrelated_child_id_table = unrelated_child_id_table,
+        # reproduction_table = reproduction_table,
+        # pregnancy_table = pregnancy_table,
+        # mfr_table = mfr_table,
+        # pregnancy_nutrition_table = pregnancy_nutrition_table,
+        # mother_nutrition_table = mother_nutrition_table,
+        # child_nutrition_table = child_nutrition_table,
+        # child_table = child_table,
+        # child_health_table = child_health_table,
+        # parents_table = parents_table,
+        # mother_health_table = mother_health_table,
+        # father_health_table = father_health_table,
+        # child_anthropometrics_table = child_anthropometrics_table,
+        # child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
+        # docs_file = docs_file,
+        # readme_file = os.path.join(docs_folder,"README.md")
 
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
