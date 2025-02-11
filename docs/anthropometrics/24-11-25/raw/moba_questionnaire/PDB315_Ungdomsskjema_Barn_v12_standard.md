@@ -1,0 +1,768 @@
+# PDB315_Ungdomsskjema_Barn_v12_standard.sav
+- [BARN_NR](PDB315_Ungdomsskjema_Barn_v12_standard.md#BARN_NR)
+- [VERSJON_UNGDOM_BARN_TBL1](PDB315_Ungdomsskjema_Barn_v12_standard.md#VERSJON_UNGDOM_BARN_TBL1)
+- [UB79](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB79): Q14UHC_16_1:UNGDOM_BARN_HBM; (Q14UH_16_1:UNGDOM_BARN_B); (Q14C_53:UNGDOM_BARN_A); NÅR DU TENKER TILBAKE PÅ DE SISTE 4 UKENE, HVOR OFTE HAR DU PRØVD Å SPISE MINDRE FOR Å ENDRE KROPPEN ELLER VEKTEN DIN?; 16. KRYSS AV FOR HVER LINJE:
+- [UB87](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB87): Q14UHC_17:UNGDOM_BARN_HBM; (Q14UH_17:UNGDOM_BARN_B); (Q14C_61:UNGDOM_BARN_A); ; 17. HVORDAN VURDERER DU DIN EGEN VEKT?
+- [UB220](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB220): Q14UHC_42:UNGDOM_BARN_HBM; (Q14UH_42:UNGDOM_BARN_B); HVA ER HØYDEN DIN NÅ I CM?; 42. UTVIKLING OG PUBERTET
+- [UB221](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB221): Q14UHC_43:UNGDOM_BARN_HBM; (Q14UH_43:UNGDOM_BARN_B); HVA ER VEKTEN DIN NÅ I KG?; 43. UTVIKLING OG PUBERTET
+- [UB222](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB222): Q14UHC_44_1:UNGDOM_BARN_HBM; (Q14UH_44_1:UNGDOM_BARN_B); (Q14C_165:UNGDOM_BARN_A); NÅR MAN ER TENÅRING, ER DET PERIODER DA MAN VOKSER RASKT. HAR DU MERKET AT KROPPEN DIN HAR VOKST FORT (BLITT HØYERE)?; 44. Her er det noen spørsmål om kro.....
+- [UB223](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB223): Q14UHC_44_2:UNGDOM_BARN_HBM; (Q14UH_44_2:UNGDOM_BARN_B); (Q14C_166:UNGDOM_BARN_A); OG HVA MED HÅR PÅ KROPPEN (F.EKS. UNDER ARMENE)?  VIL DU SI AT HÅRVEKST PÅ KROPPEN DIN HAR BEGYNT Å VOKSE?; 44. Her er det noen spørsmål om kroppslige for.....
+- [UB224](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB224): Q14UHC_44_3:UNGDOM_BARN_HBM; (Q14UH_44_3:UNGDOM_BARN_B); (Q14C_167:UNGDOM_BARN_A); HAR DU BEGYNT Å FÅ UREN HUD, FOR EKSEMPEL KVISER?; 44. Her er det noen spørsmål om kroppslige forandringer som skjer med ungdommer i din alder.
+- [UB225](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB225): Q14UHC_45_1_1:UNGDOM_BARN_HBM; (Q14UH_45_1_1:UNGDOM_BARN_B); (Q14C_168_1:UNGDOM_BARN_A); JENTE; 45. ER DU GUTT ELLER JENTE?
+- [UB226](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB226): Q14UHC_45_1_2:UNGDOM_BARN_HBM; (Q14UH_45_1_2:UNGDOM_BARN_B); (Q14C_168_2:UNGDOM_BARN_A); GUTT; 45. ER DU GUTT ELLER JENTE?
+- [UB227](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB227): Q14UHC_45_2:UNGDOM_BARN_HBM; (Q14UH_45_2:UNGDOM_BARN_B); (Q14C_169:UNGDOM_BARN_A); HAR DU BEGYNT Å KOMME I STEMMESKIFTET?(Hvis gutt); 45. ER DU GUTT ELLER JENTE?
+- [UB228](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB228): Q14UHC_45_3:UNGDOM_BARN_HBM; (Q14UH_45_3:UNGDOM_BARN_B); (Q14C_170:UNGDOM_BARN_A); HAR DU BEGYNT Å FÅ HÅRVEKST I ANSIKTET?(Hvis gutt); 45. ER DU GUTT ELLER JENTE?
+- [UB229](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB229): Q14UHC_45_6:UNGDOM_BARN_HBM; (Q14UH_45_4:UNGDOM_BARN_B); (Q14C_171:UNGDOM_BARN_A); HAR DU BEGYNT Å FÅ BRYSTER?(Hvis jente); 45. ER DU GUTT ELLER JENTE?
+- [UB230](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB230): Q14UHC_45_7:UNGDOM_BARN_HBM; (Q14UH_45_5:UNGDOM_BARN_B); (Q14C_172:UNGDOM_BARN_A); HAR DU FÅTT MENSTRUASJON?(Hvis jente); 45. ER DU GUTT ELLER JENTE?
+- [UB231](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB231): Q14UHC_45_8:UNGDOM_BARN_HBM; (Q14UH_45_6:UNGDOM_BARN_B); (Q14C_173:UNGDOM_BARN_A); OMTRENT HVOR GAMMEL VAR DU DA DU FIKK DIN FØRSTE MENSTRUASJON?(Hvis ja, har fått menstruasjon; Hvis jente); 45. ER DU GUTT ELLER JENTE?
+- [UB239](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB239): Q14UHC_49_1:UNGDOM_BARN_HBM; (Q14UH_49_1:UNGDOM_BARN_B); (Q14C_177:UNGDOM_BARN_A); ; 49. RØYKER DU?
+- [UB240](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB240): Q14UHC_49_2:UNGDOM_BARN_HBM; (Q14UH_49_2:UNGDOM_BARN_B); (Q14C_178:UNGDOM_BARN_A); HVOR MANGE SIGARETTER RØYKER DU PER UKE? (Hvis av og til); 49. RØYKER DU?
+- [UB241](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB241): Q14UHC_49_3:UNGDOM_BARN_HBM; (Q14UH_49_3:UNGDOM_BARN_B); (Q14C_179:UNGDOM_BARN_A); HVOR MANGE SIGARETTER RØYKER DU HVER DAG? (Hvis daglig); 49. RØYKER DU?
+- [UB242](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB242): Q14UHC_50_1:UNGDOM_BARN_HBM; (Q14UH_50_1:UNGDOM_BARN_B); (Q14C_180:UNGDOM_BARN_A); ; 50. BRUKER DU SNUS?
+- [UB243](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB243): Q14UHC_50_2:UNGDOM_BARN_HBM; (Q14UH_50_2:UNGDOM_BARN_B); (Q14C_181:UNGDOM_BARN_A); HVOR MANGE BOKSER SNUS BRUKER DU I MÅNEDEN? (Hvis ja); 50. BRUKER DU SNUS?
+- [UB244](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB244): Q14UHC_51_1:UNGDOM_BARN_HBM; (Q14UH_51_1:UNGDOM_BARN_B); (Q14C_182:UNGDOM_BARN_A); E-SIGARETTER MED NIKOTIN; 51. BRUKER DU NOE AV FØLGENDE?
+- [UB245](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB245): Q14UHC_51_2:UNGDOM_BARN_HBM; (Q14UH_51_2:UNGDOM_BARN_B); (Q14C_183:UNGDOM_BARN_A); NIKOTINTYGGEGUMMI; 51. BRUKER DU NOE AV FØLGENDE?
+- [UB246](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB246): Q14UHC_51_3:UNGDOM_BARN_HBM; (Q14UH_51_3:UNGDOM_BARN_B); (Q14C_184:UNGDOM_BARN_A); ANDRE NIKOTINPREPARAT; 51. BRUKER DU NOE AV FØLGENDE?
+- [UB247](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB247): Q14UHC_52_1:UNGDOM_BARN_HBM; (Q14UH_52_1:UNGDOM_BARN_B); (Q14C_185:UNGDOM_BARN_A); ; 52. HAR DU NOEN GANG DRUKKET ALKOHOL (MER ENN BARE Å HA SMAKT EN SLURK)?
+- [UB248](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB248): Q14UHC_52_2:UNGDOM_BARN_HBM; (Q14UH_52_2:UNGDOM_BARN_B); (Q14C_186:UNGDOM_BARN_A); HVOR GAMMEL VAR DU FØRSTE GANG? (Hvis ja); 52. HAR DU NOEN GANG DRUKKET ALKOHOL (MER ENN BARE Å HA SMAKT EN SLURK)?
+- [UB321](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB321): Q14C_163:UNGDOM_BARN_A; Hva er høyden din nå i cm?; 163. UTVIKLING OG PUBERTET
+- [UB322](PDB315_Ungdomsskjema_Barn_v12_standard.md#UB322): Q14C_164:UNGDOM_BARN_A; Hva er vekten din nå i kg?; 164. UTVIKLING OG PUBERTET
+- [AGE_YRS_UB](PDB315_Ungdomsskjema_Barn_v12_standard.md#AGE_YRS_UB): AGE_YRS_UB; UNGDOM_BARN_HBM; (AGE_YRS_UB:UNGDOM_BARN_B); (AGE_YRS_UB:UNGDOM_BARN_A); BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0. 
+
+
+### BARN_NR
+
+
+| Category | n |
+| -------- | - |
+| 1 | 21759 |
+| 2 | 336 |
+| 3 | 1 |
+| NA | 0 |
+
+
+### VERSJON_UNGDOM_BARN_TBL1
+
+
+| Category | n |
+| -------- | - |
+| UNGDOM_BARN_B | 9045 |
+| UNGDOM_BARN_HBM | 10257 |
+| UNGDOM_BARN_A | 1853 |
+| UNGDOM_BARN_HNN | 941 |
+| NA | 0 |
+
+
+### UB79
+Q14UHC_16_1:UNGDOM_BARN_HBM; (Q14UH_16_1:UNGDOM_BARN_B); (Q14C_53:UNGDOM_BARN_A); NÅR DU TENKER TILBAKE PÅ DE SISTE 4 UKENE, HVOR OFTE HAR DU PRØVD Å SPISE MINDRE FOR Å ENDRE KROPPEN ELLER VEKTEN DIN?; 16. KRYSS AV FOR HVER LINJE:
+
+
+| Category | n |
+| -------- | - |
+| NOEN GANGER | 4496 |
+| ALDRI/SJELDEN | 14731 |
+| VELDIG OFTE | 1133 |
+| OFTE | 1553 |
+| NA | 183 |
+
+
+### UB87
+Q14UHC_17:UNGDOM_BARN_HBM; (Q14UH_17:UNGDOM_BARN_B); (Q14C_61:UNGDOM_BARN_A); ; 17. HVORDAN VURDERER DU DIN EGEN VEKT?
+
+
+| Category | n |
+| -------- | - |
+| PASSE | 12293 |
+| LITT FOR TYKK | 4958 |
+| FOR TYKK | 1026 |
+| FOR TYNN | 585 |
+| LITT FOR TYNN | 3076 |
+| NA | 158 |
+
+
+### UB220
+Q14UHC_42:UNGDOM_BARN_HBM; (Q14UH_42:UNGDOM_BARN_B); HVA ER HØYDEN DIN NÅ I CM?; 42. UTVIKLING OG PUBERTET
+
+
+| Key | Value |
+| --- | ----- |
+| VET IKKE HØYDEN MIN | 242 |
+| LAVERE ENN 125 CM | 2 |
+| 125 CM | 1 |
+| 126 CM | 2 |
+| 127 CM | 3 |
+| 128 CM | 1 |
+| 129 CM | 0 |
+| 130 CM | 1 |
+| 131 CM | 0 |
+| 132 CM | 1 |
+| 133 CM | 1 |
+| 134 CM | 2 |
+| 135 CM | 2 |
+| 136 CM | 1 |
+| 137 CM | 0 |
+| 138 CM | 0 |
+| 139 CM | 1 |
+| 140 CM | 5 |
+| 141 CM | 2 |
+| 142 CM | 4 |
+| 143 CM | 2 |
+| 144 CM | 3 |
+| 145 CM | 7 |
+| 146 CM | 7 |
+| 147 CM | 5 |
+| 148 CM | 6 |
+| 149 CM | 3 |
+| 150 CM | 33 |
+| 151 CM | 21 |
+| 152 CM | 52 |
+| 153 CM | 74 |
+| 154 CM | 74 |
+| 155 CM | 148 |
+| 156 CM | 142 |
+| 157 CM | 223 |
+| 158 CM | 331 |
+| 159 CM | 281 |
+| 160 CM | 660 |
+| 161 CM | 386 |
+| 162 CM | 573 |
+| 163 CM | 747 |
+| 164 CM | 802 |
+| 165 CM | 1105 |
+| 166 CM | 665 |
+| 167 CM | 827 |
+| 168 CM | 892 |
+| 169 CM | 889 |
+| 170 CM | 1343 |
+| 171 CM | 620 |
+| 172 CM | 857 |
+| 173 CM | 868 |
+| 174 CM | 780 |
+| 175 CM | 995 |
+| 176 CM | 615 |
+| 177 CM | 504 |
+| 178 CM | 586 |
+| 179 CM | 367 |
+| 180 CM | 689 |
+| 181 CM | 346 |
+| 182 CM | 374 |
+| 183 CM | 400 |
+| 184 CM | 272 |
+| 185 CM | 321 |
+| 186 CM | 198 |
+| 187 CM | 157 |
+| 188 CM | 128 |
+| 189 CM | 68 |
+| 190 CM | 102 |
+| 191 CM | 47 |
+| 192 CM | 36 |
+| 193 CM | 34 |
+| 194 CM | 25 |
+| 195 CM | 23 |
+| 196 CM | 11 |
+| 197 CM | 7 |
+| 198 CM | 5 |
+| 199 CM | 2 |
+| 200 CM | 2 |
+| 201 CM | 0 |
+| 202 CM | 2 |
+| 203 CM | 0 |
+| 204 CM | 0 |
+| 205 CM | 3 |
+| 206 CM | 0 |
+| HØYERE ENN 206 CM | 4 |
+| NA's | 2076 |
+
+
+### UB221
+Q14UHC_43:UNGDOM_BARN_HBM; (Q14UH_43:UNGDOM_BARN_B); HVA ER VEKTEN DIN NÅ I KG?; 43. UTVIKLING OG PUBERTET
+
+
+| Key | Value |
+| --- | ----- |
+| 60 KG | 1253 |
+| VET IKKE VEKTEN MIN | 1200 |
+| 55 KG | 1133 |
+| 50 KG | 924 |
+| 65 KG | 830 |
+| 58 KG | 743 |
+| 53 KG | 731 |
+| 56 KG | 714 |
+| 57 KG | 709 |
+| 52 KG | 708 |
+| 62 KG | 682 |
+| 63 KG | 667 |
+| 70 KG | 653 |
+| 54 KG | 651 |
+| 59 KG | 505 |
+| 64 KG | 501 |
+| 61 KG | 480 |
+| 51KG | 426 |
+| 68 KG | 389 |
+| 67 KG | 385 |
+| 48 KG | 379 |
+| 66 KG | 377 |
+| 49 KG | 368 |
+| 47 KG | 335 |
+| 75 KG | 323 |
+| 45 KG | 315 |
+| 69 KG | 299 |
+| 72 KG | 253 |
+| 46 KG | 236 |
+| 73 KG | 231 |
+| 80 KG | 215 |
+| 71 KG | 192 |
+| 74 KG | 149 |
+| 44 KG | 143 |
+| 43 KG | 142 |
+| 76 KG | 132 |
+| 42 KG | 122 |
+| 78 KG | 115 |
+| 40 KG | 101 |
+| 77 KG | 93 |
+| 79 KG | 88 |
+| 85 KG | 87 |
+| 83 KG | 81 |
+| 41 KG | 73 |
+| 90 KG | 62 |
+| 82 KG | 61 |
+| 81 KG | 48 |
+| 84 KG | 47 |
+| 86 KG | 34 |
+| 87 KG | 33 |
+| 88 KG | 32 |
+| 95 KG | 31 |
+| 39 KG | 29 |
+| 38 KG | 26 |
+| 89 KG | 26 |
+| 100 KG | 25 |
+| 96 KG | 21 |
+| 93 KG | 19 |
+| 37 KG | 17 |
+| 92 KG | 17 |
+| 91 KG | 16 |
+| 94 KG | 12 |
+| 36 KG | 10 |
+| 103 KG | 9 |
+| 140 KG ELLER MER | 9 |
+| 97 KG | 8 |
+| 98 KG | 8 |
+| 105 KG | 8 |
+| 110 KG | 8 |
+| 34 KG | 6 |
+| 35 KG | 6 |
+| 102 KG | 6 |
+| 32 KG | 5 |
+| 33 KG | 5 |
+| 99 KG | 5 |
+| 107 KG | 5 |
+| 109 KG | 5 |
+| 101 KG | 4 |
+| 115 KG | 4 |
+| 30 KG | 3 |
+| 108 KG | 3 |
+| 114 KG | 3 |
+| 118 KG | 3 |
+| 120 KG | 3 |
+| 25 KG | 2 |
+| 104 KG | 2 |
+| 106 KG | 2 |
+| 111 KG | 2 |
+| 112 KG | 2 |
+| 116 KG | 2 |
+| 117 KG | 2 |
+| 122 KG | 2 |
+| 130 KG | 2 |
+| 132 KG | 2 |
+| 137 KG | 2 |
+| MINDRE ENN 25 KG | 1 |
+| 29 KG | 1 |
+| 31 KG | 1 |
+| (Other) | 7 |
+| NA's | 2249 |
+
+
+### UB222
+Q14UHC_44_1:UNGDOM_BARN_HBM; (Q14UH_44_1:UNGDOM_BARN_B); (Q14C_165:UNGDOM_BARN_A); NÅR MAN ER TENÅRING, ER DET PERIODER DA MAN VOKSER RASKT. HAR DU MERKET AT KROPPEN DIN HAR VOKST FORT (BLITT HØYERE)?; 44. Her er det noen spørsmål om kro.....
+
+
+| Category | n |
+| -------- | - |
+| HELT KLART BEGYNT | 10745 |
+| FORANDRINGEN VIRKER FERDIG | 8007 |
+| SÅ VIDT BEGYNT | 2107 |
+| IKKE BEGYNT ENNÅ | 952 |
+| NA | 285 |
+
+
+### UB223
+Q14UHC_44_2:UNGDOM_BARN_HBM; (Q14UH_44_2:UNGDOM_BARN_B); (Q14C_166:UNGDOM_BARN_A); OG HVA MED HÅR PÅ KROPPEN (F.EKS. UNDER ARMENE)?  VIL DU SI AT HÅRVEKST PÅ KROPPEN DIN HAR BEGYNT Å VOKSE?; 44. Her er det noen spørsmål om kroppslige for.....
+
+
+| Category | n |
+| -------- | - |
+| FORANDRINGEN VIRKER FERDIG | 8068 |
+| HELT KLART BEGYNT | 11701 |
+| SÅ VIDT BEGYNT | 1653 |
+| IKKE BEGYNT ENNÅ | 308 |
+| NA | 366 |
+
+
+### UB224
+Q14UHC_44_3:UNGDOM_BARN_HBM; (Q14UH_44_3:UNGDOM_BARN_B); (Q14C_167:UNGDOM_BARN_A); HAR DU BEGYNT Å FÅ UREN HUD, FOR EKSEMPEL KVISER?; 44. Her er det noen spørsmål om kroppslige forandringer som skjer med ungdommer i din alder.
+
+
+| Category | n |
+| -------- | - |
+| FORANDRINGEN VIRKER FERDIG | 3919 |
+| SÅ VIDT BEGYNT | 3446 |
+| HELT KLART BEGYNT | 13235 |
+| IKKE BEGYNT ENNÅ | 1146 |
+| NA | 350 |
+
+
+### UB225
+Q14UHC_45_1_1:UNGDOM_BARN_HBM; (Q14UH_45_1_1:UNGDOM_BARN_B); (Q14C_168_1:UNGDOM_BARN_A); JENTE; 45. ER DU GUTT ELLER JENTE?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 11744 |
+| NA | 10352 |
+
+
+### UB226
+Q14UHC_45_1_2:UNGDOM_BARN_HBM; (Q14UH_45_1_2:UNGDOM_BARN_B); (Q14C_168_2:UNGDOM_BARN_A); GUTT; 45. ER DU GUTT ELLER JENTE?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 10186 |
+| NA | 11910 |
+
+
+### UB227
+Q14UHC_45_2:UNGDOM_BARN_HBM; (Q14UH_45_2:UNGDOM_BARN_B); (Q14C_169:UNGDOM_BARN_A); HAR DU BEGYNT Å KOMME I STEMMESKIFTET?(Hvis gutt); 45. ER DU GUTT ELLER JENTE?
+
+
+| Category | n |
+| -------- | - |
+| FERDIG UTVIKLET | 2382 |
+| SÅ VIDT BEGYNT | 1442 |
+| HELT KLART BEGYNT | 5562 |
+| IKKE BEGYNT ENDA | 734 |
+| NA | 11976 |
+
+
+### UB228
+Q14UHC_45_3:UNGDOM_BARN_HBM; (Q14UH_45_3:UNGDOM_BARN_B); (Q14C_170:UNGDOM_BARN_A); HAR DU BEGYNT Å FÅ HÅRVEKST I ANSIKTET?(Hvis gutt); 45. ER DU GUTT ELLER JENTE?
+
+
+| Category | n |
+| -------- | - |
+| HELT KLART BEGYNT | 4224 |
+| IKKE BEGYNT ENDA | 1795 |
+| SÅ VIDT BEGYNT | 3832 |
+| FERDIG UTVIKLET | 264 |
+| NA | 11981 |
+
+
+### UB229
+Q14UHC_45_6:UNGDOM_BARN_HBM; (Q14UH_45_4:UNGDOM_BARN_B); (Q14C_171:UNGDOM_BARN_A); HAR DU BEGYNT Å FÅ BRYSTER?(Hvis jente); 45. ER DU GUTT ELLER JENTE?
+
+
+| Category | n |
+| -------- | - |
+| HELT KLART BEGYNT | 8203 |
+| SÅ VIDT BEGYNT | 1727 |
+| FERDIG UTVIKLET | 1670 |
+| IKKE BEGYNT ENDA | 58 |
+| NA | 10438 |
+
+
+### UB230
+Q14UHC_45_7:UNGDOM_BARN_HBM; (Q14UH_45_5:UNGDOM_BARN_B); (Q14C_172:UNGDOM_BARN_A); HAR DU FÅTT MENSTRUASJON?(Hvis jente); 45. ER DU GUTT ELLER JENTE?
+
+
+| Category | n |
+| -------- | - |
+| JA | 10947 |
+| NEI | 723 |
+| NA | 10426 |
+
+
+### UB231
+Q14UHC_45_8:UNGDOM_BARN_HBM; (Q14UH_45_6:UNGDOM_BARN_B); (Q14C_173:UNGDOM_BARN_A); OMTRENT HVOR GAMMEL VAR DU DA DU FIKK DIN FØRSTE MENSTRUASJON?(Hvis ja, har fått menstruasjon; Hvis jente); 45. ER DU GUTT ELLER JENTE?
+
+
+| Category | n |
+| -------- | - |
+| 14 ÅR | 1927 |
+| 13 ÅR | 3993 |
+| 11 ÅR | 1257 |
+| 12 ÅR | 3307 |
+| 10 ÅR | 266 |
+| 15 ÅR ELLER ELDRE | 87 |
+| 9 ÅR | 58 |
+| 8 ÅR | 10 |
+| 7 ÅR ELLER YNGRE | 4 |
+| NA | 11187 |
+
+
+### UB239
+Q14UHC_49_1:UNGDOM_BARN_HBM; (Q14UH_49_1:UNGDOM_BARN_B); (Q14C_177:UNGDOM_BARN_A); ; 49. RØYKER DU?
+
+
+| Category | n |
+| -------- | - |
+| HAR ALDRI RØYKT | 19931 |
+| HAR PRØVD | 1783 |
+| RØYKER AV OG TIL | 223 |
+| RØYKER DAGLIG | 22 |
+| NA | 137 |
+
+
+### UB240
+Q14UHC_49_2:UNGDOM_BARN_HBM; (Q14UH_49_2:UNGDOM_BARN_B); (Q14C_178:UNGDOM_BARN_A); HVOR MANGE SIGARETTER RØYKER DU PER UKE? (Hvis av og til); 49. RØYKER DU?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 72 |
+| 10 | 8 |
+| 0 | 17 |
+| 2 | 35 |
+| 3 | 19 |
+| 5 | 9 |
+| 15 | 4 |
+| 7 | 3 |
+| 4 | 12 |
+| 6 | 3 |
+| 13 | 1 |
+| 12 | 3 |
+| 20 | 4 |
+| 25 | 1 |
+| 14 | 1 |
+| 8 | 1 |
+| NA | 21903 |
+
+
+### UB241
+Q14UHC_49_3:UNGDOM_BARN_HBM; (Q14UH_49_3:UNGDOM_BARN_B); (Q14C_179:UNGDOM_BARN_A); HVOR MANGE SIGARETTER RØYKER DU HVER DAG? (Hvis daglig); 49. RØYKER DU?
+
+
+| Category | n |
+| -------- | - |
+| 100 | 1 |
+| 4 | 4 |
+| 1 | 1 |
+| 3 | 3 |
+| 7 | 1 |
+| 5 | 2 |
+| 2 | 1 |
+| 6 | 2 |
+| 10 | 1 |
+| 8 | 1 |
+| 999 | 1 |
+| NA | 22078 |
+
+
+### UB242
+Q14UHC_50_1:UNGDOM_BARN_HBM; (Q14UH_50_1:UNGDOM_BARN_B); (Q14C_180:UNGDOM_BARN_A); ; 50. BRUKER DU SNUS?
+
+
+| Category | n |
+| -------- | - |
+| HAR ALDRI SNUSET | 19995 |
+| HAR PRØVD | 1593 |
+| SNUSER AV OG TIL | 225 |
+| SNUSER DAGLIG | 148 |
+| NA | 135 |
+
+
+### UB243
+Q14UHC_50_2:UNGDOM_BARN_HBM; (Q14UH_50_2:UNGDOM_BARN_B); (Q14C_181:UNGDOM_BARN_A); HVOR MANGE BOKSER SNUS BRUKER DU I MÅNEDEN? (Hvis ja); 50. BRUKER DU SNUS?
+
+
+| Category | n |
+| -------- | - |
+| 1 | 45 |
+| MINDRE ENN 1 | 114 |
+| 3 | 33 |
+| 4 | 33 |
+| 2 | 44 |
+| 5 | 23 |
+| 8 | 14 |
+| 6 | 17 |
+| 16-17 | 1 |
+| 25-29 | 2 |
+| 12-13 | 7 |
+| 10-11 | 15 |
+| 7 | 8 |
+| 30-34 | 4 |
+| 14-15 | 1 |
+| 9 | 2 |
+| 20-24 | 1 |
+| 40 ELLER MER | 1 |
+| NA | 21731 |
+
+
+### UB244
+Q14UHC_51_1:UNGDOM_BARN_HBM; (Q14UH_51_1:UNGDOM_BARN_B); (Q14C_182:UNGDOM_BARN_A); E-SIGARETTER MED NIKOTIN; 51. BRUKER DU NOE AV FØLGENDE?
+
+
+| Category | n |
+| -------- | - |
+| ALDRI | 20369 |
+| HAR PRØVD | 1358 |
+| AV OG TIL | 171 |
+| DAGLIG | 28 |
+| NA | 170 |
+
+
+### UB245
+Q14UHC_51_2:UNGDOM_BARN_HBM; (Q14UH_51_2:UNGDOM_BARN_B); (Q14C_183:UNGDOM_BARN_A); NIKOTINTYGGEGUMMI; 51. BRUKER DU NOE AV FØLGENDE?
+
+
+| Category | n |
+| -------- | - |
+| ALDRI | 21649 |
+| HAR PRØVD | 216 |
+| AV OG TIL | 13 |
+| DAGLIG | 8 |
+| NA | 210 |
+
+
+### UB246
+Q14UHC_51_3:UNGDOM_BARN_HBM; (Q14UH_51_3:UNGDOM_BARN_B); (Q14C_184:UNGDOM_BARN_A); ANDRE NIKOTINPREPARAT; 51. BRUKER DU NOE AV FØLGENDE?
+
+
+| Category | n |
+| -------- | - |
+| ALDRI | 21473 |
+| HAR PRØVD | 296 |
+| AV OG TIL | 30 |
+| DAGLIG | 20 |
+| NA | 277 |
+
+
+### UB247
+Q14UHC_52_1:UNGDOM_BARN_HBM; (Q14UH_52_1:UNGDOM_BARN_B); (Q14C_185:UNGDOM_BARN_A); ; 52. HAR DU NOEN GANG DRUKKET ALKOHOL (MER ENN BARE Å HA SMAKT EN SLURK)?
+
+
+| Category | n |
+| -------- | - |
+| JA | 3840 |
+| NEI | 18072 |
+| NA | 184 |
+
+
+### UB248
+Q14UHC_52_2:UNGDOM_BARN_HBM; (Q14UH_52_2:UNGDOM_BARN_B); (Q14C_186:UNGDOM_BARN_A); HVOR GAMMEL VAR DU FØRSTE GANG? (Hvis ja); 52. HAR DU NOEN GANG DRUKKET ALKOHOL (MER ENN BARE Å HA SMAKT EN SLURK)?
+
+
+| Category | n |
+| -------- | - |
+| 15 ÅR | 682 |
+| 13 ÅR | 702 |
+| 14 ÅR | 2061 |
+| 12 ÅR | 190 |
+| 11 ÅR | 47 |
+| 9 ÅR ELLER YNGRE | 63 |
+| 10 ÅR | 35 |
+| NA | 18316 |
+
+
+### UB321
+Q14C_163:UNGDOM_BARN_A; Hva er høyden din nå i cm?; 163. UTVIKLING OG PUBERTET
+
+
+| Key | Value |
+| --- | ----- |
+| VET IKKE HØYDEN MIN | 40 |
+| LAVERE ENN 125 CM | 0 |
+| 125 CM | 0 |
+| 126 CM | 0 |
+| 127 CM | 0 |
+| 128 CM | 0 |
+| 129 CM | 0 |
+| 130 CM | 0 |
+| 131 CM | 1 |
+| 132 CM | 0 |
+| 133 CM | 0 |
+| 134 CM | 0 |
+| 135 CM | 0 |
+| 136 CM | 0 |
+| 137 CM | 1 |
+| 138 CM | 0 |
+| 139 CM | 0 |
+| 140 CM | 0 |
+| 141 CM | 0 |
+| 142 CM | 0 |
+| 143 CM | 0 |
+| 144 CM | 1 |
+| 145 CM | 1 |
+| 146 CM | 0 |
+| 147 CM | 4 |
+| 148 CM | 2 |
+| 149 CM | 1 |
+| 150 CM | 10 |
+| 151 CM | 5 |
+| 152 CM | 10 |
+| 153 CM | 8 |
+| 154 CM | 12 |
+| 155 CM | 27 |
+| 156 CM | 17 |
+| 157 CM | 35 |
+| 158 CM | 38 |
+| 159 CM | 26 |
+| 160 CM | 77 |
+| 161 CM | 43 |
+| 162 CM | 60 |
+| 163 CM | 94 |
+| 164 CM | 74 |
+| 165 CM | 127 |
+| 166 CM | 67 |
+| 167 CM | 79 |
+| 168 CM | 85 |
+| 169 CM | 64 |
+| 170 CM | 145 |
+| 171 CM | 48 |
+| 172 CM | 82 |
+| 173 CM | 72 |
+| 174 CM | 64 |
+| 175 CM | 87 |
+| 176 CM | 48 |
+| 177 CM | 39 |
+| 178 CM | 38 |
+| 179 CM | 18 |
+| 180 CM | 49 |
+| 181 CM | 26 |
+| 182 CM | 16 |
+| 183 CM | 15 |
+| 184 CM | 10 |
+| 185 CM | 20 |
+| 186 CM | 6 |
+| 187 CM | 10 |
+| 188 CM | 4 |
+| 189 CM | 3 |
+| 190 CM | 5 |
+| 191 CM | 2 |
+| 192 CM | 0 |
+| 193 CM | 0 |
+| 194 CM | 0 |
+| 195 CM | 0 |
+| 196 CM | 0 |
+| 197 CM | 0 |
+| 198 CM | 0 |
+| 199 CM | 0 |
+| 200 CM | 0 |
+| HØYERE ENN 200 CM | 0 |
+| NA's | 20280 |
+
+
+### UB322
+Q14C_164:UNGDOM_BARN_A; Hva er vekten din nå i kg?; 164. UTVIKLING OG PUBERTET
+
+
+| Key | Value |
+| --- | ----- |
+| VET IKKE VEKTEN MIN | 93 |
+| MINDRE ENN 25 KG | 0 |
+| 25 KG | 1 |
+| 26 KG | 0 |
+| 27 KG | 0 |
+| 28 KG | 0 |
+| 29 KG | 0 |
+| 30 KG | 0 |
+| 31 KG | 0 |
+| 32 KG | 0 |
+| 33 KG | 1 |
+| 34 KG | 1 |
+| 35 KG | 4 |
+| 36 KG | 3 |
+| 37 KG | 3 |
+| 38 KG | 4 |
+| 39 KG | 14 |
+| 40 KG | 17 |
+| 41 KG | 15 |
+| 42 KG | 18 |
+| 43 KG | 37 |
+| 44 KG | 21 |
+| 45 KG | 50 |
+| 46 KG | 39 |
+| 47 KG | 40 |
+| 48 KG | 45 |
+| 49 KG | 32 |
+| 50 KG | 108 |
+| 51KG | 44 |
+| 52 KG | 67 |
+| 53 KG | 83 |
+| 54 KG | 63 |
+| 55 KG | 106 |
+| 56 KG | 56 |
+| 57 KG | 63 |
+| 58 KG | 63 |
+| 59 KG | 29 |
+| 60 KG | 120 |
+| 61 KG | 40 |
+| 62 KG | 54 |
+| 63 KG | 50 |
+| 64 KG | 40 |
+| 65 KG | 56 |
+| 66 KG | 35 |
+| 67 KG | 32 |
+| 68 KG | 24 |
+| 69 KG | 28 |
+| 70 KG | 40 |
+| 71 KG | 2 |
+| 72 KG | 22 |
+| 73 KG | 23 |
+| 74 KG | 9 |
+| 75 KG | 16 |
+| 76 KG | 6 |
+| 77 KG | 4 |
+| 78 KG | 11 |
+| 79 KG | 2 |
+| 80 KG | 15 |
+| 81 KG | 4 |
+| 82 KG | 3 |
+| 83 KG | 6 |
+| 84 KG | 3 |
+| 85 KG | 4 |
+| 86 KG | 2 |
+| 87 KG | 2 |
+| 88 KG | 0 |
+| 89 KG | 0 |
+| 90 KG | 7 |
+| 91 KG | 1 |
+| 92 KG | 2 |
+| 93 KG | 3 |
+| 94 KG | 1 |
+| 95 KG | 2 |
+| 96 KG | 1 |
+| 97 KG | 0 |
+| 98 KG | 1 |
+| 99 KG | 0 |
+| 100-104 KG | 3 |
+| 105-109 KG | 2 |
+| 110-114 KG | 0 |
+| 115-119 KG | 2 |
+| 120-129 KG | 1 |
+| 130-139 KG | 0 |
+| 140 KG ELLER MER | 1 |
+| NA's | 20296 |
+
+
+### AGE_YRS_UB
+AGE_YRS_UB; UNGDOM_BARN_HBM; (AGE_YRS_UB:UNGDOM_BARN_B); (AGE_YRS_UB:UNGDOM_BARN_A); BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0. 
+
+
+| Category | n |
+| -------- | - |
+| 15 | 8788 |
+| 14 | 13101 |
+| 16 | 207 |
+| NA | 0 |
+
+
