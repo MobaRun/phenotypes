@@ -20,7 +20,8 @@ configfile: config_file
 # Analysis
 suffix = config["release"]
 moba_project_number = config["moba_project_number"]
-moba_linkage_relase_date = config["moba_linkage_relase_date"]
+moba_genotypes_linkage_relase_date = config["moba_genotypes_linkage_relase_date"]
+moba_family_linkage_relase_date = config["moba_family_linkage_relase_date"]
 moba_version = config["moba_version"]
 
 # Files relating to the genotypes
@@ -77,10 +78,10 @@ kosthold_ungdom_beregnet_table = os.path.join(raw_tables_folder, 'phenotypes', f
 kosthold_ungdom_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Kosthold_ungdom_v12.gz')
 
 # Raw linkage tables
-child_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_MoBaGeneticsTot_Child_{moba_linkage_relase_date}.gz')
-mother_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_MoBaGeneticsTot_Mother_{moba_linkage_relase_date}.gz')
-father_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_MoBaGeneticsTot_Father_{moba_linkage_relase_date}.gz')
-preg_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_SV_INFO_V12_{moba_linkage_relase_date}.gz')
+child_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_MoBaGeneticsTot_Child_{moba_genotypes_linkage_relase_date}.gz')
+mother_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_MoBaGeneticsTot_Mother_{moba_genotypes_linkage_relase_date}.gz')
+father_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_MoBaGeneticsTot_Father_{moba_genotypes_linkage_relase_date}.gz')
+preg_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_SV_INFO_V12_{moba_family_linkage_relase_date}.gz')
 
 # Output tables
 ids_table = os.path.join(tables_folder, "ids.gz"),
