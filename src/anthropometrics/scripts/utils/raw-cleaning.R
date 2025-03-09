@@ -19,27 +19,15 @@ mother_id_linkage_raw_table_path <- args[2]
 father_id_linkage_raw_table_path <- args[3]
 genomics_fam_file_path <- args[4]
 unrelated_children_id_path <- args[5]
-mfr_raw_table_path <- args[6]
-q1m_raw_table_path <- args[7]
-q1f_raw_table_path <- args[8]
-q2_cdw_raw_table_path <- args[9]
-q2_beregning_caffeine_food_and_supplements_raw_table_path <- args[10]
-q2_beregning_foody_fatty_acid_and_iodine_raw_table_path <- args[11]
-q2_beregning_supplements_raw_table_path <- args[12]
-q2_beregning_raw_table_path <- args[13]
-q3_raw_table_path <- args[14]
-q4_raw_table_path <- args[15]
-q5_raw_table_path <- args[16]
-q6_raw_table_path <- args[17]
-q7_raw_table_path <- args[18]
-q8_raw_table_path <- args[19]
-q9_raw_table_path <- args[20]
-kostUngdom_raw_table_path <- args[21]
-ungdomsskjema_barn_raw_table_path <- args[22]
-far2_raw_table_path <- args[23]
-tablesFolder <- args[24]
-qcFolder <- args[25]
-project_number <- args[26]
+variables_mapping_table <- args[6]
+ids_mapping_table <- args[7]
+raw_tables_fodlder <- args[8]
+kostUngdom_raw_table_path <- args[23]
+ungdomsskjema_barn_raw_table_path <- args[24]
+far2_raw_table_path <- args[25]
+tablesFolder <- args[26]
+qcFolder <- args[27]
+project_number <- args[28]
 
 
 ##
@@ -47,30 +35,20 @@ project_number <- args[26]
 # Debug Marc - do not uncomment
 # args to run standalone
 # 
-# child_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz"
-# mother_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz"
-# father_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz"
-# genomics_fam_file_path <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
-# unrelated_children_id_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/id/children_id_unrelated"
-# mfr_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_MFR_541_v12.gz"
-# q1m_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema1_v12.gz"
-# q1f_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_SkjemaFar_v12.gz"
-# q2_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema2_beregning_CDW_v12.gz"
-# q3_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema3_v12.gz"
-# q4_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema4_6mnd_v12.gz"
-# q5_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema5_18mnd_v12.gz"
-# q6_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema6_3aar_v12.gz"
-# q7_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema5aar_v12.gz"
-# q8_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema7aar_v12.gz"
-# q9_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Skjema8aar_v12.gz"
-# kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
-# ungdomsskjema_barn_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/raw/phenotypes/PDB315_Ungdomsskjema_Barn_v12_standard.gz"
-# tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28"
-# qcFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_23-05-28/qc"
-# project_number <- 315
+child_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz"
+mother_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz"
+father_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz"
+genomics_fam_file_path <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
+unrelated_children_id_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/id/children_id_unrelated"
+variables_mapping_table <- "src/anthropometrics/scripts/resources/variable_mapping"
+raw_tables_fodlder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes"
+kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
+ungdomsskjema_barn_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes/PDB315_Ungdomsskjema_Barn_v12_standard.gz"
+tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11"
+qcFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/qc"
+project_number <- 315
 #
 ##
-
 
 # Libraries
 
@@ -107,7 +85,14 @@ if (!dir.exists(qcFolder)) {
 ## Parameters
 
 # The variable mapping
-source("src/anthropometrics/scripts/utils/variables_mapping.R")
+identifiers_mapping <- read.table(
+  "src/anthropometrics/scripts/resources/identifiers",
+  header = T
+)
+variable_mapping <- read.table(
+  "src/anthropometrics/scripts/resources/variable_mapping",
+  header = T
+)
 
 # Cache for the standard values of the normal distribution
 anchorUp <- pnorm(1)
@@ -378,131 +363,23 @@ famDF <- famDF %>%
 
 print(paste0(Sys.time(), " - Loading raw phenotypes"))
 
-mfr_raw_table <- read.table(
-  file = mfr_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
+raw_tables <- list()
 
-q1m_raw_table <- read.table(
-  file = q1m_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q1f_raw_table <- read.table(
-  file = q1f_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q2_cdw_raw_table <- read.table(
-  file = q2_cdw_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q2_beregning_caffeine_food_and_supplements_raw_table <- read.table(
-  file = q2_beregning_caffeine_food_and_supplements_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q2_beregning_foody_fatty_acid_and_iodine_raw_table <- read.table(
-  file = q2_beregning_foody_fatty_acid_and_iodine_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q2_beregning_supplements_raw_table <- read.table(
-  file = q2_beregning_supplements_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q2_beregning_raw_table <- read.table(
-  file = q2_beregning_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q3_raw_table <- read.table(
-  file = q3_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q4_raw_table <- read.table(
-  file = q4_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q5_raw_table <- read.table(
-  file = q5_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q6_raw_table <- read.table(
-  file = q6_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q7_raw_table <- read.table(
-  file = q7_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q8_raw_table <- read.table(
-  file = q8_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-q9_raw_table <- read.table(
-  file = q9_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-kostUngdom_raw_table <- read.table(
-  file = kostUngdom_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-ungdomsskjema_barn_raw_table <- read.table(
-  file = ungdomsskjema_barn_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
-
-far2_raw_table <- read.table(
-  file = far2_raw_table_path,
-  header = T,
-  sep = "\t",
-  stringsAsFactors = F
-)
+for (file_name in list.files(raw_tables_fodlder)) {
+  
+  if (endsWith(file_name, ".gz") && !endsWith(file_name, "labels.gz")) {
+    
+    raw_table <- read.table(
+      file = file.path(raw_tables_fodlder, file_name),
+      header = T,
+      sep = "\t",
+      stringsAsFactors = F
+    )
+    
+    raw_tables[[file_name]] <- raw_table
+    
+  }
+}
 
 # Extract variables
 
