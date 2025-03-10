@@ -451,9 +451,61 @@ for (table_name in unique(variable_mapping$moba_table)) {
 }
 
 
-# Make a single data frame
+# Make a table of identifiers
 
-raw_phenotypes_pregnancy_centric
+rawPheno <- childIdDF %>% 
+  filter(
+    sentrix_id %in% famDF$sentrix_id
+  ) %>% 
+  select(
+    preg_id, rank_siblings, child_id, child_sentrix_id = sentrix_id, child_batch = batch
+  ) %>% 
+  left_join(
+    famDF %>% 
+      rename(child_sentrix_id = sentrix_id),
+    by = "child_sentrix_id"
+  ) %>% 
+  left_join(
+    motherIdDF %>% 
+      select(
+        mother_sentrix_id = sentrix_id,
+        mother_batch = batch
+      ),
+    by = "mother_sentrix_id"
+  ) %>% 
+  left_join(
+    fatherIdDF %>% 
+      select(
+        father_sentrix_id = sentrix_id,
+        father_batch = batch
+      ),
+    by = "father_sentrix_id"
+  )
+
+
+# Merge with the pheno tables
+
+for (table_name in names(raw_tables)) {
+  
+  raw_table <- raw_tables[[table_name]]
+  ids_to_extract <- identifiers_mapping$project_identifier[identifiers_mapping$moba_table == table_name]
+  
+  columns_to_select <- c(ids_to_extract, names(raw_table)[!names(raw_table) %in% names(rawPheno)])
+  
+  raw_table <- raw_table %>% 
+    select(
+      all_of(
+        columns_to_select
+      )
+    )
+    
+  rawPheno <- rawPheno %>% 
+    left_join(
+      raw_table,
+      by = ids_to_extract
+    )
+    
+}
 
 nrow_mfr <- nrow(mfr_table)
 
@@ -535,45 +587,6 @@ for (hospitalization_column in hospitalization_columns) {
   q3_table$hospitalized_30w <- ifelse(!is.na(q3_table[[hospitalization_column]]) & q3_table[[hospitalization_column]] == 1, "Yes", q3_table$hospitalized_30w)
   
 }
-
-
-# Add sentrix and parental ids
-
-rawPheno <- rawPheno %>% 
-  left_join(
-    childIdDF %>% 
-      filter(
-        sentrix_id %in% famDF$sentrix_id
-      ),
-    by = c("preg_id", "rank_siblings")
-  ) %>% 
-  left_join(
-    famDF,
-    by = "sentrix_id"
-  ) %>% 
-  mutate(
-    child_id = ifelse(is.na(child_id), paste0(preg_id, "_", rank_siblings), child_id)
-  ) %>% 
-  rename(
-    child_sentrix_id = sentrix_id,
-    child_batch = batch
-  ) %>% 
-  left_join(
-    motherIdDF %>% 
-      select(
-        mother_sentrix_id = sentrix_id,
-        mother_batch = batch
-      ),
-    by = "mother_sentrix_id"
-  ) %>% 
-  left_join(
-    fatherIdDF %>% 
-      select(
-        father_sentrix_id = sentrix_id,
-        father_batch = batch
-      ),
-    by = "father_sentrix_id"
-  )
 
 nrow_pheno <- nrow(rawPheno)
 
