@@ -88,11 +88,21 @@ if (!dir.exists(qcFolder)) {
 identifiers_mapping <- read.table(
   "src/anthropometrics/scripts/resources/identifiers",
   header = T
-)
+) %>% 
+  mutate(
+    moba_identifier = str_replace_all(moba_identifier, "\\{project_number\\}", as.character(project_number))
+  )
+id_moba_to_project <- identifiers_mapping$project_identifier
+names(id_moba_to_project) <- identifiers_mapping$moba_identifier
+
+
 variable_mapping <- read.table(
   "src/anthropometrics/scripts/resources/variable_mapping",
   header = T
 )
+variable_moba_to_project <- variable_mapping$project_variable
+names(variable_moba_to_project) <- variable_mapping$moba_variable
+
 
 # Cache for the standard values of the normal distribution
 anchorUp <- pnorm(1)
@@ -359,182 +369,110 @@ famDF <- famDF %>%
   )
 
 
-# Load the values from the raw phenotype tables
+# Load the values from the raw phenotype tables, keep only the variables mapped and identifiers
 
 print(paste0(Sys.time(), " - Loading raw phenotypes"))
 
 raw_tables <- list()
 
-for (file_name in list.files(raw_tables_fodlder)) {
+for (table_name in unique(variable_mapping$moba_table)) {
   
-  if (endsWith(file_name, ".gz") && !endsWith(file_name, "labels.gz")) {
+  print(paste0(Sys.time(), "     ", table_name))
+  
+  file_name <- paste0("PDB", project_number, "_", table_name, ".gz")
+  table_file <- file.path(raw_tables_fodlder, file_name)
+  
+  if (!file.exists(table_file)) {
+    
+    stop(paste0("File `", table_file, "` corresponding to table `", table_name, "` not found."))
+    
+  }
     
     raw_table <- read.table(
-      file = file.path(raw_tables_fodlder, file_name),
+      file = table_file,
       header = T,
       sep = "\t",
       stringsAsFactors = F
     )
     
-    raw_tables[[file_name]] <- raw_table
+    variables_to_extract <- variable_mapping$moba_variable[variable_mapping$moba_table == table_name]
     
-  }
+    missing_variables <- variables_to_extract[!variables_to_extract %in% names(raw_table)]
+    
+    if (length(missing_variables) > 0) {
+      
+      print(glue("The following variables were not found in `{table_name}`:"))
+      
+      for (missing_variable in missing_variables) {
+        
+        print(missing_variable)
+        
+      }
+      
+      # stop("Error: Variables mismatch")
+      
+      variables_to_extract <- variables_to_extract[variables_to_extract %in% names(raw_table)]
+      
+    }
+    
+    ids_to_extract <- identifiers_mapping$moba_identifier[identifiers_mapping$moba_table == table_name]
+    
+    missing_ids <- ids_to_extract[!ids_to_extract %in% names(raw_table)]
+    
+    if (length(missing_ids) > 0) {
+      
+      print(glue("The following ids were not found in `{table_name}`:"))
+      
+      for (missing_id in missing_ids) {
+        
+        print(missing_id)
+        
+      }
+      
+      # stop("Error: Missing id")
+      
+      ids_to_extract <- ids_to_extract[ids_to_extract %in% names(raw_table)]
+      
+    }
+    
+    names(variables_to_extract) <- variable_moba_to_project[variables_to_extract]
+    names(ids_to_extract) <- id_moba_to_project[ids_to_extract]
+    columns_to_extract <- c(variables_to_extract, ids_to_extract)
+    
+    raw_table <- raw_table %>% 
+      select(
+        all_of(
+          c(ids_to_extract, variables_to_extract)
+        )
+      )
+    
+    raw_tables[[table_name]] <- raw_table
+    
 }
 
-# Extract variables
 
-mfrVariablesMapping <- mfrVariablesMapping[mfrVariablesMapping %in% names(mfr_raw_table)]
+# Make a single data frame
 
-mfr_table <- mfr_raw_table %>%
-  select(
-    all_of(
-      mfrVariablesMapping
-    )
-  )
+raw_phenotypes_pregnancy_centric
 
-q1mVariablesMapping <- q1mVariablesMapping[q1mVariablesMapping %in% names(q1m_raw_table)]
+nrow_mfr <- nrow(mfr_table)
 
-q1m_table <- q1m_raw_table %>%
-  select(
-    all_of(
-      q1mVariablesMapping
-    )
-  )
-
-q1fVariablesMapping <- q1fVariablesMapping[q1fVariablesMapping %in% names(q1f_raw_table)]
-
-q1f_table <- q1f_raw_table %>%
-  select(
-    all_of(
-      q1fVariablesMapping
-    )
-  )
-
-q2CdwVariablesMapping <- q2CdwVariablesMapping[q2CdwVariablesMapping %in% names(q2_cdw_raw_table)]
-
-q2_cdw_table <- q2_cdw_raw_table %>%
-  select(
-    all_of(
-      q2CdwVariablesMapping
-    )
-  )
-
-q2CdwBeregningCaffeineFoodSupplementsVariablesMapping <- q2CdwBeregningCaffeineFoodSupplementsVariablesMapping[q2CdwBeregningCaffeineFoodSupplementsVariablesMapping %in% names(q2_beregning_caffeine_food_and_supplements_raw_table)]
-
-q2_beregning_caffeine_food_and_supplements_table <- q2_beregning_caffeine_food_and_supplements_raw_table %>%
-  select(
-    all_of(
-      q2CdwBeregningCaffeineFoodSupplementsVariablesMapping
-    )
-  )
-
-q2CdwBeregningFoodyFattyAcidIodineVariablesMapping <- q2CdwBeregningFoodyFattyAcidIodineVariablesMapping[q2CdwBeregningFoodyFattyAcidIodineVariablesMapping %in% names(q2_beregning_foody_fatty_acid_and_iodine_raw_table)]
-
-q2_beregning_foody_fatty_acid_and_iodine_table <- q2_beregning_foody_fatty_acid_and_iodine_raw_table %>%
-  select(
-    all_of(
-      q2CdwBeregningFoodyFattyAcidIodineVariablesMapping
-    )
-  )
-
-q2CdwBeregningVariablesMapping <- q2CdwBeregningVariablesMapping[q2CdwBeregningVariablesMapping %in% names(q2_beregning_raw_table)]
-
-q2_beregning_table <- q2_beregning_raw_table %>%
-  select(
-    all_of(
-      q2CdwBeregningVariablesMapping
-    )
-  )
-
-q3VariablesMapping <- q3VariablesMapping[q3VariablesMapping %in% names(q3_raw_table)]
-
-q3_table <- q3_raw_table %>%
-  select(
-    all_of(
-      q3VariablesMapping
-    )
-  )
-
-q4VariablesMapping <- q4VariablesMapping[q4VariablesMapping %in% names(q4_raw_table)]
-
-q4_table <- q4_raw_table %>%
-  select(
-    all_of(
-      q4VariablesMapping
-    )
-  )
-
-q5VariablesMapping <- q5VariablesMapping[q5VariablesMapping %in% names(q5_raw_table)]
-
-q5_table <- q5_raw_table %>%
-  select(
-    all_of(
-      q5VariablesMapping
-    )
-  )
-
-q6VariablesMapping <- q6VariablesMapping[q6VariablesMapping %in% names(q6_raw_table)]
-
-q6_table <- q6_raw_table %>%
-  select(
-    all_of(
-      q6VariablesMapping
-    )
-  )
-
-q7VariablesMapping <- q7VariablesMapping[q7VariablesMapping %in% names(q7_raw_table)]
-
-q7_table <- q7_raw_table %>%
-  select(
-    all_of(
-      q7VariablesMapping
-    )
-  )
-
-q8VariablesMapping <- q8VariablesMapping[q8VariablesMapping %in% names(q8_raw_table)]
-
-q8_table <- q8_raw_table %>%
-  select(
-    all_of(
-      q8VariablesMapping
-    )
-  )
-
-q9VariablesMapping <- q9VariablesMapping[q9VariablesMapping %in% names(q9_raw_table)]
-
-q9_table <- q9_raw_table %>%
-  select(
-    all_of(
-      q9VariablesMapping
-    )
-  )
-
-kostUngdomVariablesMapping <- kostUngdomVariablesMapping[kostUngdomVariablesMapping %in% names(kostUngdom_raw_table)]
-
-kostUngdom_table <- kostUngdom_raw_table %>% 
-  select(
-    all_of(
-      kostUngdomVariablesMapping
-    )
-  )
-
-ungdomsskjemaBarnVariablesMapping <- ungdomsskjemaBarnVariablesMapping[ungdomsskjemaBarnVariablesMapping %in% names(ungdomsskjema_barn_raw_table)]
-
-ungdomsskjema_barn_table <- ungdomsskjema_barn_raw_table %>%
-  select(
-    all_of(
-      ungdomsskjemaBarnVariablesMapping
-    )
-  )
-
-far2VariablesMapping <- far2VariablesMapping[far2VariablesMapping %in% names(far2_raw_table)]
-
-far2_table <- far2_raw_table %>%
-  select(
-    all_of(
-      far2VariablesMapping
-    )
-  )
+rawPheno <- mfr_table %>%
+  left_join(q1m_table, by = "preg_id") %>%
+  left_join(q1f_table, by = "preg_id") %>%
+  left_join(q2_cdw_table, by = "preg_id") %>%
+  left_join(q2_beregning_caffeine_food_and_supplements_table, by = "preg_id") %>%
+  left_join(q2_beregning_foody_fatty_acid_and_iodine_table, by = "preg_id") %>%
+  left_join(q2_beregning_table, by = "preg_id") %>%
+  left_join(q3_table, by = "preg_id") %>%
+  left_join(q4_table, by = c("preg_id", "rank_siblings")) %>%
+  left_join(q5_table, by = c("preg_id", "rank_siblings")) %>%
+  left_join(q6_table, by = c("preg_id", "rank_siblings")) %>%
+  left_join(q7_table, by = c("preg_id", "rank_siblings")) %>%
+  left_join(q8_table, by = c("preg_id", "rank_siblings")) %>%
+  left_join(q9_table, by = c("preg_id", "rank_siblings")) %>%
+  left_join(kostUngdom_table, by = c("preg_id", "rank_siblings")) %>%
+  left_join(ungdomsskjema_barn_table, by = c("preg_id", "rank_siblings"))
 
 
 # Combination of variables from the same questionnaire
@@ -599,28 +537,6 @@ for (hospitalization_column in hospitalization_columns) {
 }
 
 
-# Make a single data frame
-
-nrow_mfr <- nrow(mfr_table)
-
-rawPheno <- mfr_table %>%
-  left_join(q1m_table, by = "preg_id") %>%
-  left_join(q1f_table, by = "preg_id") %>%
-  left_join(q2_cdw_table, by = "preg_id") %>%
-  left_join(q2_beregning_caffeine_food_and_supplements_table, by = "preg_id") %>%
-  left_join(q2_beregning_foody_fatty_acid_and_iodine_table, by = "preg_id") %>%
-  left_join(q2_beregning_table, by = "preg_id") %>%
-  left_join(q3_table, by = "preg_id") %>%
-  left_join(q4_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(q5_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(q6_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(q7_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(q8_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(q9_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(kostUngdom_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(ungdomsskjema_barn_table, by = c("preg_id", "rank_siblings"))
-
-
 # Add sentrix and parental ids
 
 rawPheno <- rawPheno %>% 
@@ -672,15 +588,6 @@ print(glue("- Children in birth registry: {nrow(rawPheno)}"))
 print(glue("- Children genotyped: {sum(!is.na(rawPheno$child_sentrix_id))}"))
 print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id))}"))
 print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$father_sentrix_id))}"))
-
-
-# Merge parent-specific tables
-
-rawPheno <- rawPheno %>% 
-  left_join(
-    far2_table,
-    by = "father_id"
-  )
 
 
 # Correct units for columns to be merged

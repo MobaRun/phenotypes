@@ -189,8 +189,8 @@ MFR_541_v12	LEPPE_LEPPEGANESPALTE	cleft_lip_with_or_without_cleft_palate	mfr
 MFR_541_v12	MISD	congenital_malformations	mfr
 MFR_541_v12	OMPHALO	omphalocele	mfr
 MFR_541_v12	SPINAB	spina_bifida	mfr
-MFR_541_v12	MORS_FAAR	mother_birth_year	mfr
-MFR_541_v12	FARS_FAAR	father_birth_year	mfr
+MFR_541_v12	mor_faar_trunkert	mother_birth_year	mfr
+MFR_541_v12	far_faar_trunkert	father_birth_year	mfr
 MFR_541_v12	DODKAT_G	death_category_g	mfr
 Skjema1_v12	AA12	mother_age_at_menarche	parent
 Skjema1_v12	AA13	menstrual_cycle_length	reproduction
@@ -429,11 +429,11 @@ Skjema1_v12	AA1450	heroin_before	mother_health
 Skjema1_v12	AA1451	heroin_during	mother_health
 Skjema1_v12	AA1453	alcohol_before	mother_health
 Skjema1_v12	AA1454	alcohol_during	mother_health
-PDB315_SkjemaFar_v12	FAR_ALDERUTFYLT	father_age_15w	parent
-PDB315_SkjemaFar_v12	FF333	father_height_self_15w	parent
-PDB315_SkjemaFar_v12	FF334	father_weight_self_15w	parent
-PDB315_SkjemaFar_v12	FF149	father_diabetes	father_health
-PDB315_SkjemaFar_v12	FF389	father_eating_disorders	father_health
+SkjemaFar_v12	FAR_ALDERUTFYLT	father_age_15w	parent
+SkjemaFar_v12	FF333	father_height_self_15w	parent
+SkjemaFar_v12	FF334	father_weight_self_15w	parent
+SkjemaFar_v12	FF149	father_diabetes	father_health
+SkjemaFar_v12	FF389	father_eating_disorders	father_health
 Skjema2CDW_v12	BB851	nausea_q2	pregnancy
 Skjema2CDW_v12	BB852	nausea_eat_more_or_less_q2	pregnancy
 Skjema2CDW_v12	BB853	nausea_week_most_bothered_from_q2	pregnancy

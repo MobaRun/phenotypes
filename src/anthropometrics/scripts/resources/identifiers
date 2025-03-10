@@ -1,8 +1,6 @@
 moba_table	moba_identifier	project_identifier
 MFR_541_v12	PREG_ID_{project_number}	preg_id
 MFR_541_v12	BARN_NR	rank_siblings
-MFR_541_v12	M_ID_{project_number}	mother_id
-MFR_541_v12	F_ID_{project_number}	father_id
 Skjema1_v12	PREG_ID_{project_number}	preg_id
 PDB315_SkjemaFar_v12	PREG_ID_{project_number}	preg_id
 Skjema2CDW_v12	PREG_ID_{project_number}	preg_id
