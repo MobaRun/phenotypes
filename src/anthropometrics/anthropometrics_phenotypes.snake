@@ -142,8 +142,8 @@ rule all:
     'The output of the pipeline'
     input:
         raw_data_docs = os.path.join(raw_docs_folder, 'data.md'),
-        # child_id_table = child_id_table,
-        # unrelated_child_id_table = unrelated_child_id_table,
+        child_id_table = child_id_table,
+        unrelated_child_id_table = unrelated_child_id_table,
         # reproduction_table = reproduction_table,
         # pregnancy_table = pregnancy_table,
         # mfr_table = mfr_table,
