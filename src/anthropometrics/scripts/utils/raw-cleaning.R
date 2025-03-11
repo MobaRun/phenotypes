@@ -508,6 +508,24 @@ for (table_name in names(raw_tables)) {
 }
 
 
+# Sanity check
+
+if (nrow(rawPheno) != length(unique(rawPheno$child_id))) {
+  
+  stop("Duplictes were introduced when merging data frames.")
+  
+}
+
+print(glue("Phenotypes loaded:"))
+print(glue("- Children in birth registry: {nrow(rawPheno)}"))
+print(glue("- Children genotyped: {sum(!is.na(rawPheno$child_sentrix_id))}"))
+print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id))}"))
+print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$father_sentrix_id))}"))
+
+
+
+
+
 # Combination of variables
 
 rawPheno$diabetes_3y <- NA
@@ -537,7 +555,7 @@ if ("gained_too_much_weight_no_3y" %in% names(rawPheno) && "gained_too_much_weig
   
 }
 
-q8_table$length_7y <- ifelse(!is.na(q8_raw_table$JJ408), q8_raw_table$JJ408, q8_raw_table$JJ324*100)
+rawPheno$length_7y <- ifelse(!is.na(rawPheno$height_7y_cm), rawPheno$height_7y_cm, rawPheno$height_7y_m * 100)
 
 hospitalization_columns <- c("hospitalized_prolonged_nausea_vomiting", "hospitalized_bleeding", "hospitalized_amniotic_fluid_leakage", "hospitalized_threatening_preterm_labour", "hospitalized_high_blood_pressure", "hospitalized_pre_eclampsia", "hospitalized_other")
 suffixes <- c("_0_4w", "_5_8w", "_9_12w", "_13_16w", "_17_20w", "_21_24w", "_25_28w", "_after_29w")
@@ -548,30 +566,13 @@ for (hospitalization_column in hospitalization_columns) {
     
     week_column <- paste0(hospitalization_column, suffix)
     
-    q3_table[[hospitalization_column]] <- ifelse(!is.na(q3_table[[week_column]]) & q3_table[[week_column]] == 1, 1, q3_table[[hospitalization_column]])
+    rawPheno[[hospitalization_column]] <- ifelse(!is.na(rawPheno[[week_column]]) & rawPheno[[week_column]] == 1, 1, rawPheno[[hospitalization_column]])
     
   }
   
-  q3_table$hospitalized_30w <- ifelse(!is.na(q3_table[[hospitalization_column]]) & q3_table[[hospitalization_column]] == 1, "Yes", q3_table$hospitalized_30w)
+  rawPheno$hospitalized_30w <- ifelse(!is.na(rawPheno[[hospitalization_column]]) & rawPheno[[hospitalization_column]] == 1, "Yes", rawPheno$hospitalized_30w)
   
-}
-
-nrow_pheno <- nrow(rawPheno)
-
-if (nrow_mfr != nrow_pheno) {
-  
-  stop("Duplictes were introduced when merging data frames.")
-  
-}
-
-print(glue("Phenotypes loaded:"))
-print(glue("- Children in birth registry: {nrow(rawPheno)}"))
-print(glue("- Children genotyped: {sum(!is.na(rawPheno$child_sentrix_id))}"))
-print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id))}"))
-print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$father_sentrix_id))}"))
-
-
-# Correct units for columns to be merged
+}# Correct units for columns to be merged
 
 print(paste(Sys.time(), " Correcting units"))
 
