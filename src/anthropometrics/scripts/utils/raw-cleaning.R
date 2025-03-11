@@ -507,65 +507,33 @@ for (table_name in names(raw_tables)) {
     
 }
 
-nrow_mfr <- nrow(mfr_table)
 
-rawPheno <- mfr_table %>%
-  left_join(q1m_table, by = "preg_id") %>%
-  left_join(q1f_table, by = "preg_id") %>%
-  left_join(q2_cdw_table, by = "preg_id") %>%
-  left_join(q2_beregning_caffeine_food_and_supplements_table, by = "preg_id") %>%
-  left_join(q2_beregning_foody_fatty_acid_and_iodine_table, by = "preg_id") %>%
-  left_join(q2_beregning_table, by = "preg_id") %>%
-  left_join(q3_table, by = "preg_id") %>%
-  left_join(q4_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(q5_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(q6_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(q7_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(q8_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(q9_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(kostUngdom_table, by = c("preg_id", "rank_siblings")) %>%
-  left_join(ungdomsskjema_barn_table, by = c("preg_id", "rank_siblings"))
+# Combination of variables
 
+rawPheno$diabetes_3y <- NA
 
-# Combination of variables from the same questionnaire
-
-if ("breastmilk_freq_18m" %in% names(q5_table) && "breastmilk_freq_18m_1" %in% names(q5_table) && "breastmilk_freq_18m_2" %in% names(q5_table)) {
+if ("diabetes_no_3y" %in% names(rawPheno) && "diabetes_yes_3y" %in% names(rawPheno) && "diabetes_previous_3y" %in% names(rawPheno) ) {
   
-  q5_table$breastmilk_freq_18m <- as.character(q5_table$breastmilk_freq_18m_1)
-  q5_table$breastmilk_freq_18m[is.na(q5_table$breastmilk_freq_18m)] <- as.character(q5_table$breastmilk_freq_18m_2)
-  q5_table$formula_freq_18m <- as.character(q5_table$formula_freq_18m_1)
-  q5_table$formula_freq_18m[is.na(q5_table$formula_freq_18m)] <- as.character(q5_table$formula_freq_18m_2)
-  
-} else {
-  
-  q5_table$breastmilk_freq_18m <- NA
+  rawPheno$diabetes_3y[rawPheno$diabetes_no_3y == 1] <- 0
+  rawPheno$diabetes_3y[rawPheno$diabetes_yes_3y == 1 | rawPheno$diabetes_yes_3y == 1] <- 1
   
 }
 
-q6_table$diabetes_3y <- NA
+rawPheno$underweight_3y <- NA
 
-if ("GG49" %in% names(q6_raw_table) && "GG51" %in% names(q6_raw_table)) {
+if ("gained_too_little_weight_no_3y" %in% names(rawPheno) && "gained_too_little_weight_yes_3y" %in% names(rawPheno) && "gained_too_little_weight_previous_3y" %in% names(rawPheno)) {
   
-  q6_table$diabetes_3y[q6_raw_table$GG49 == 1] <- 0
-  q6_table$diabetes_3y[q6_raw_table$GG50 == 1 | q6_raw_table$GG51 == 1] <- 1
-  
-}
-
-q6_table$underweight_3y <- NA
-
-if ("GG53" %in% names(q6_raw_table) && "GG54" %in% names(q6_raw_table) && "GG55" %in% names(q6_raw_table)) {
-  
-  q6_table$underweight_3y[q6_raw_table$GG53 == 1] <- 0
-  q6_table$underweight_3y[q6_raw_table$GG54 == 1 | q6_raw_table$GG55 == 1] <- 1
+  rawPheno$underweight_3y[rawPheno$gained_too_little_weight_no_3y == 1] <- 0
+  rawPheno$underweight_3y[rawPheno$gained_too_little_weight_yes_3y == 1 | rawPheno$gained_too_little_weight_previous_3y == 1] <- 1
   
 }
 
-q6_table$overweight_3y <- NA
+rawPheno$overweight_3y <- NA
 
-if ("GG57" %in% names(q6_raw_table) && "GG58" %in% names(q6_raw_table) && "GG59" %in% names(q6_raw_table)) {
+if ("gained_too_much_weight_no_3y" %in% names(rawPheno) && "gained_too_much_weight_yes_3y" %in% names(rawPheno) && "gained_too_much_weight_previous_3y" %in% names(rawPheno)) {
   
-  q6_table$overweight_3y[q6_raw_table$GG57 == 1] <- 0
-  q6_table$overweight_3y[q6_raw_table$GG58 == 1 | q6_raw_table$GG59 == 1] <- 1
+  rawPheno$overweight_3y[rawPheno$gained_too_much_weight_no_3y == 1] <- 0
+  rawPheno$overweight_3y[rawPheno$gained_too_much_weight_yes_3y == 1 | rawPheno$gained_too_much_weight_previous_3y == 1] <- 1
   
 }
 
