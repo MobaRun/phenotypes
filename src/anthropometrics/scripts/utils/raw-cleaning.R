@@ -72,19 +72,21 @@ if (!dir.exists(tablesFolder)) {
 }
 
 if (!dir.exists(qcFolder)) {
-
+  
   dir.create(
     path = qcFolder,
     showWarnings = T,
     recursive = T
   )
-
+  
 }
 
 
 ## Parameters
 
 # The variable mapping
+source("src/anthropometrics/scripts/utils/variables_mapping.R")
+
 identifiers_mapping <- read.table(
   "src/anthropometrics/scripts/resources/identifiers",
   header = T
@@ -102,6 +104,8 @@ variable_mapping <- read.table(
 )
 variable_moba_to_project <- variable_mapping$project_variable
 names(variable_moba_to_project) <- variable_mapping$moba_variable
+
+new_variables <- list()
 
 
 # Cache for the standard values of the normal distribution
@@ -322,7 +326,7 @@ fatherIdDF <- idDFs[[3]]
 
 # Load the fam file
 
-print(paste0(Sys.time(), "    Loading triads from fam file"))
+print(paste0(Sys.time(), "    Loading familial relationship from fam file"))
 
 famDF <- read.table(
   file = genomics_fam_file_path,
@@ -387,67 +391,67 @@ for (table_name in unique(variable_mapping$moba_table)) {
     stop(paste0("File `", table_file, "` corresponding to table `", table_name, "` not found."))
     
   }
+  
+  raw_table <- read.table(
+    file = table_file,
+    header = T,
+    sep = "\t",
+    stringsAsFactors = F
+  )
+  
+  variables_to_extract <- variable_mapping$moba_variable[variable_mapping$moba_table == table_name]
+  
+  missing_variables <- variables_to_extract[!variables_to_extract %in% names(raw_table)]
+  
+  if (length(missing_variables) > 0) {
     
-    raw_table <- read.table(
-      file = table_file,
-      header = T,
-      sep = "\t",
-      stringsAsFactors = F
-    )
+    print(glue("The following variables were not found in `{table_name}`:"))
     
-    variables_to_extract <- variable_mapping$moba_variable[variable_mapping$moba_table == table_name]
-    
-    missing_variables <- variables_to_extract[!variables_to_extract %in% names(raw_table)]
-    
-    if (length(missing_variables) > 0) {
+    for (missing_variable in missing_variables) {
       
-      print(glue("The following variables were not found in `{table_name}`:"))
-      
-      for (missing_variable in missing_variables) {
-        
-        print(missing_variable)
-        
-      }
-      
-      # stop("Error: Variables mismatch")
-      
-      variables_to_extract <- variables_to_extract[variables_to_extract %in% names(raw_table)]
+      print(missing_variable)
       
     }
     
-    ids_to_extract <- identifiers_mapping$moba_identifier[identifiers_mapping$moba_table == table_name]
+    # stop("Error: Variables mismatch")
     
-    missing_ids <- ids_to_extract[!ids_to_extract %in% names(raw_table)]
+    variables_to_extract <- variables_to_extract[variables_to_extract %in% names(raw_table)]
     
-    if (length(missing_ids) > 0) {
+  }
+  
+  ids_to_extract <- identifiers_mapping$moba_identifier[identifiers_mapping$moba_table == table_name]
+  
+  missing_ids <- ids_to_extract[!ids_to_extract %in% names(raw_table)]
+  
+  if (length(missing_ids) > 0) {
+    
+    print(glue("The following ids were not found in `{table_name}`:"))
+    
+    for (missing_id in missing_ids) {
       
-      print(glue("The following ids were not found in `{table_name}`:"))
-      
-      for (missing_id in missing_ids) {
-        
-        print(missing_id)
-        
-      }
-      
-      # stop("Error: Missing id")
-      
-      ids_to_extract <- ids_to_extract[ids_to_extract %in% names(raw_table)]
+      print(missing_id)
       
     }
     
-    names(variables_to_extract) <- variable_moba_to_project[variables_to_extract]
-    names(ids_to_extract) <- id_moba_to_project[ids_to_extract]
-    columns_to_extract <- c(variables_to_extract, ids_to_extract)
+    # stop("Error: Missing id")
     
-    raw_table <- raw_table %>% 
-      select(
-        all_of(
-          c(ids_to_extract, variables_to_extract)
-        )
+    ids_to_extract <- ids_to_extract[ids_to_extract %in% names(raw_table)]
+    
+  }
+  
+  names(variables_to_extract) <- variable_moba_to_project[variables_to_extract]
+  names(ids_to_extract) <- id_moba_to_project[ids_to_extract]
+  columns_to_extract <- c(variables_to_extract, ids_to_extract)
+  
+  raw_table <- raw_table %>% 
+    select(
+      all_of(
+        c(ids_to_extract, variables_to_extract)
       )
-    
-    raw_tables[[table_name]] <- raw_table
-    
+    )
+  
+  raw_tables[[table_name]] <- raw_table
+  
 }
 
 
@@ -498,13 +502,13 @@ for (table_name in names(raw_tables)) {
         columns_to_select
       )
     )
-    
+  
   rawPheno <- rawPheno %>% 
     left_join(
       raw_table,
       by = ids_to_extract
     )
-    
+  
 }
 
 
@@ -517,13 +521,10 @@ if (nrow(rawPheno) != length(unique(rawPheno$child_id))) {
 }
 
 print(glue("Phenotypes loaded:"))
-print(glue("- Children in birth registry: {nrow(rawPheno)}"))
+print(glue("- Children with phenotypes: {nrow(rawPheno)}"))
 print(glue("- Children genotyped: {sum(!is.na(rawPheno$child_sentrix_id))}"))
 print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id))}"))
 print(glue("- Fathers genotyped linked to a child: {length(unique(rawPheno$father_sentrix_id))}"))
-
-
-
 
 
 # Combination of variables
@@ -537,6 +538,9 @@ if ("diabetes_no_3y" %in% names(rawPheno) && "diabetes_yes_3y" %in% names(rawPhe
   
 }
 
+new_variables[["child_health"]] <- c(new_variables[["child_health"]], "diabetes_3y")
+
+
 rawPheno$underweight_3y <- NA
 
 if ("gained_too_little_weight_no_3y" %in% names(rawPheno) && "gained_too_little_weight_yes_3y" %in% names(rawPheno) && "gained_too_little_weight_previous_3y" %in% names(rawPheno)) {
@@ -545,6 +549,9 @@ if ("gained_too_little_weight_no_3y" %in% names(rawPheno) && "gained_too_little_
   rawPheno$underweight_3y[rawPheno$gained_too_little_weight_yes_3y == 1 | rawPheno$gained_too_little_weight_previous_3y == 1] <- 1
   
 }
+
+new_variables[["child_health"]] <- c(new_variables[["child_health"]], "underweight_3y")
+
 
 rawPheno$overweight_3y <- NA
 
@@ -555,7 +562,13 @@ if ("gained_too_much_weight_no_3y" %in% names(rawPheno) && "gained_too_much_weig
   
 }
 
+new_variables[["child_health"]] <- c(new_variables[["child_health"]], "overweight_3y")
+
+
 rawPheno$length_7y <- ifelse(!is.na(rawPheno$height_7y_cm), rawPheno$height_7y_cm, rawPheno$height_7y_m * 100)
+
+new_variables[["child_health"]] <- c(new_variables[["child_health"]], "length_7y")
+
 
 hospitalization_columns <- c("hospitalized_prolonged_nausea_vomiting", "hospitalized_bleeding", "hospitalized_amniotic_fluid_leakage", "hospitalized_threatening_preterm_labour", "hospitalized_high_blood_pressure", "hospitalized_pre_eclampsia", "hospitalized_other")
 suffixes <- c("_0_4w", "_5_8w", "_9_12w", "_13_16w", "_17_20w", "_21_24w", "_25_28w", "_after_29w")
@@ -572,7 +585,12 @@ for (hospitalization_column in hospitalization_columns) {
   
   rawPheno$hospitalized_30w <- ifelse(!is.na(rawPheno[[hospitalization_column]]) & rawPheno[[hospitalization_column]] == 1, "Yes", rawPheno$hospitalized_30w)
   
-}# Correct units for columns to be merged
+}
+
+new_variables[["pregnancy"]] <- c(new_variables[["pregnancy"]], hospitalization_columns)
+
+
+# Correct units for columns to be merged
 
 print(paste(Sys.time(), " Correcting units"))
 
@@ -614,6 +632,8 @@ rawPheno$length_14y <- str_remove_all(rawPheno$length_kost, " CM")
 rawPheno$length_14y <- str_remove_all(rawPheno$length_14y, "LAVERE ENN ")
 rawPheno$length_14y <- str_remove_all(rawPheno$length_14y, "HØYERE ENN ")
 rawPheno$length_14y <- as.numeric(rawPheno$length_14y)
+
+new_variables[["child_anthropometrics_raw"]] <- c(new_variables[["child_anthropometrics_raw"]], c("age_birth", "age_14y", "weight_14y", "length_14y"))
 
 
 # Merge columns
@@ -764,6 +784,8 @@ rawPheno <- rawPheno %>%
     sex = ifelse(!is.na(genetic_sex) & genetic_sex != 0, genetic_sex, sex)
   )
 
+new_variables[["ids"]] <- c(new_variables[["ids"]], c("registry_sex", "genetic_sex"))
+
 
 # Check that all longitudinal columns are available
 
@@ -815,6 +837,8 @@ rawPheno <- rawPheno %>%
 
 term_pregnancies <- sum(!is.na(rawPheno$child_sentrix_id) & rawPheno$pregnancy_duration_term == 1)
 n_genotyped <- sum(!is.na(rawPheno$child_sentrix_id))
+
+new_variables[["pregnancy"]] <- c(new_variables[["pregnancy"]], c("pregnancy_duration_preterm", "pregnancy_duration_term"))
 
 print(glue("{term_pregnancies} genotyped children with delivery at term ({round(term_pregnancies / n_genotyped * 100)} %)"))
 
@@ -1067,7 +1091,9 @@ values <- values %>%
     )
   )
 
-# Exclude extreme outliers
+new_variables[["parent"]] <- c(new_variables[["parent"]], "mother_median_height")
+
+# Exclude extreme outliers for aam
 
 values$mother_age_at_menarche[values$mother_age_at_menarche < 9 | values$mother_age_at_menarche > 17] <- NA
 
@@ -1093,204 +1119,43 @@ if (length(missing_default_columns) > 0) {
   
 }
 
-id_columns <- id_columns[id_columns %in% names(values)]
+table_names <- unique(c(variable_mapping$project_table, names(new_variables)))
 
-idValues <- values %>% 
-  select(
-    all_of(c(default_columns, id_columns))
-  )
-
-write.table(
-  x = idValues,
-  file = gzfile(file.path(tablesFolder, "ids.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-reproduction_columns <- reproduction_columns[reproduction_columns %in% names(values)]
-reproductionValues <- values %>% 
-  select(
-    all_of(c(default_columns, reproduction_columns))
-  )
-
-write.table(
-  x = reproductionValues,
-  file = gzfile(file.path(tablesFolder, "reproduction.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-pregnancy_columns <- pregnancy_columns[pregnancy_columns %in% names(values)]
-pregnancyValues <- values %>% 
-  select(
-    all_of(c(default_columns, pregnancy_columns))
-  )
-
-write.table(
-  x = pregnancyValues,
-  file = gzfile(file.path(tablesFolder, "pregnancy.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-mfr_columns <- mfr_columns[mfr_columns %in% names(values)]
-mfrValues <- values %>% 
-  select(
-    all_of(c(default_columns, mfr_columns))
-  )
-
-write.table(
-  x = mfrValues,
-  file = gzfile(file.path(tablesFolder, "mfr.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-pregnancy_nutrition_columns <- pregnancy_nutrition_columns[pregnancy_nutrition_columns %in% names(values)]
-pregnancyNutritionValues <- values %>% 
-  select(
-    all_of(c(default_columns, pregnancy_nutrition_columns))
-  )
-
-write.table(
-  x = pregnancyNutritionValues,
-  file = gzfile(file.path(tablesFolder, "pregnancy_nutrition.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-mother_nutrition_columns <- mother_nutrition_columns[mother_nutrition_columns %in% names(values)]
-motherNutritionValues <- values %>% 
-  select(
-    all_of(c(default_columns, mother_nutrition_columns))
-  )
-
-write.table(
-  x = motherNutritionValues,
-  file = gzfile(file.path(tablesFolder, "mother_nutrition.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-child_nutrition_columns <- child_nutrition_columns[child_nutrition_columns %in% names(values)]
-childNutritionValues <- values %>% 
-  select(
-    all_of(c(default_columns, child_nutrition_columns))
-  )
-
-write.table(
-  x = childNutritionValues,
-  file = gzfile(file.path(tablesFolder, "child_nutrition.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-child_columns <- child_columns[child_columns %in% names(values)]
-childValues <- values %>% 
-  select(
-    all_of(c(default_columns, child_columns))
-  )
-
-write.table(
-  x = childValues,
-  file = gzfile(file.path(tablesFolder, "child.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-child_health_columns <- child_health_columns[child_health_columns %in% names(values)]
-childHealth <- values %>% 
-  select(
-    all_of(c(default_columns, child_health_columns))
-  )
-
-write.table(
-  x = childHealth,
-  file = gzfile(file.path(tablesFolder, "child_health.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-parent_values_columns <- parent_values_columns[parent_values_columns %in% names(values)]
-parentValues <- values %>% 
-  select(
-    all_of(c(default_columns, parent_values_columns))
-  )
-
-write.table(
-  x = parentValues,
-  file = gzfile(file.path(tablesFolder, "parents.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-mother_health_columns <- mother_health_columns[mother_health_columns %in% names(values)]
-motherHealthValues <- values %>% 
-  select(
-    all_of(c(default_columns, mother_health_columns))
-  )
-
-write.table(
-  x = motherHealthValues,
-  file = gzfile(file.path(tablesFolder, "mother_health.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-father_health_columns <- father_health_columns[father_health_columns %in% names(values)]
-fatherHealthValues <- values %>% 
-  select(
-    all_of(c(default_columns, father_health_columns))
-  )
-
-write.table(
-  x = fatherHealthValues,
-  file = gzfile(file.path(tablesFolder, "father_health.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
-
-age_columns <- age_columns[age_columns %in% names(values)]
-weight_columns <- weight_columns[weight_columns %in% names(values)]
-length_columns <- length_columns[length_columns %in% names(values)]
-head_circumference_columns <- head_circumference_columns[head_circumference_columns %in% names(values)]
-childAnthropometricValues <- values %>% 
-  select(
-    all_of(c(default_columns, age_columns, weight_columns, length_columns, head_circumference_columns))
-  )
-
-write.table(
-  x = childAnthropometricValues,
-  file = gzfile(file.path(tablesFolder, "child_anthropometrics_raw.gz")),
-  row.names = F,
-  col.names = T,
-  sep = "\t",
-  quote = F
-)
+for (project_table_name in table_names) {
+  
+  if (!is.na(project_table_name)) {
+    
+    print(paste0(Sys.time(), "     ", project_table_name))
+    
+    variables <- variable_mapping %>% 
+      filter(
+        project_table == project_table_name
+      ) %>% 
+      pull(
+        project_variable
+      )
+    
+    if (project_table_name %in% new_variables) {
+      
+      variables <- c(variables, new_variables[[project_table_name]])
+      
+    }
+    
+    variables <- unique(variables)
+    variables <- variables[!variables %in% default_columns]
+    variables <- c(default_columns, variables)
+    
+    write.table(
+      x = idValues,
+      file = gzfile(file.path(tablesFolder, paste0(project_table_name, ".gz"))),
+      row.names = F,
+      col.names = T,
+      sep = "\t",
+      quote = F
+    )
+    
+  }
+}
 
 # Save qc
 
