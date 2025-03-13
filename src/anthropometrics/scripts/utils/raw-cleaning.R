@@ -1144,6 +1144,7 @@ for (project_table_name in table_names) {
     variables <- unique(variables)
     variables <- variables[!variables %in% default_columns]
     variables <- c(default_columns, variables)
+    variables <- variables[variables %in% names(values)]
     
     table_content <- values %>% 
       select(
