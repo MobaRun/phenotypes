@@ -1145,8 +1145,13 @@ for (project_table_name in table_names) {
     variables <- variables[!variables %in% default_columns]
     variables <- c(default_columns, variables)
     
+    table_content <- values %>% 
+      select(
+        all_of(variables)
+      )
+    
     write.table(
-      x = idValues,
+      x = table_content,
       file = gzfile(file.path(tablesFolder, paste0(project_table_name, ".gz"))),
       row.names = F,
       col.names = T,
