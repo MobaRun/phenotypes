@@ -144,22 +144,20 @@ if not os.path.exists(variables_mapping):
 if not os.path.exists(identifiers_mapping):
     raise Exception(f"Identifiers mapping file `{identifiers_mapping}` not found.")
 
-variables_table = pd.read_csv(variables_mapping)
+variables_table = pd.read_csv(variables_mapping, sep = '\t')
 
 # Function returning the paths to the MoBa tables
 def get_moba_paths():
-    raw_paths = []
-    for table in variables_table["moba_table"]:
+    raw_paths = list()
+    for table in set(variables_table["moba_table"]):
         raw_paths.append(os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_{table}.gz'))
-
     return raw_paths
 
 # Function returning the paths to the project tables
 def get_project_paths():
-    project_paths = []
-    for table in variables_table["project_table"]:
+    project_paths = list()
+    for table in set(variables_table["project_table"]):
         project_paths.append(os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_{table}.gz'))
-
     return project_paths
 
 
