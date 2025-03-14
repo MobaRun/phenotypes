@@ -171,7 +171,7 @@ rule all:
         child_id_table = child_id_table,
         unrelated_child_id_table = unrelated_child_id_table,
         project_tables= get_project_paths(),
-        # child_anthropometrics_table = child_anthropometrics_table,
+        child_anthropometrics_table = child_anthropometrics_table,
         # child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
         # docs_file = docs_file,
         # readme_file = os.path.join(docs_folder,"README.md")
