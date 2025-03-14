@@ -22,12 +22,9 @@ unrelated_children_id_path <- args[5]
 variables_mapping_table <- args[6]
 ids_mapping_table <- args[7]
 raw_tables_fodlder <- args[8]
-kostUngdom_raw_table_path <- args[9]
-ungdomsskjema_barn_raw_table_path <- args[10]
-far2_raw_table_path <- args[11]
-tablesFolder <- args[12]
-qcFolder <- args[13]
-project_number <- args[14]
+tablesFolder <- args[9]
+qcFolder <- args[10]
+project_number <- args[11]
 
 
 ##

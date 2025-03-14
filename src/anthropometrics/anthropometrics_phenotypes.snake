@@ -281,6 +281,7 @@ rule anthropometrics_raw_cleaning:
         identifiers_mapping = identifiers_mapping,
         raw_tables = get_project_paths()
     params:
+        raw_tables_folder = raw_tables_folder,
         tables_folder = tables_folder,
         qc_folder = qc_folder,
         moba_project_number = moba_project_number
@@ -297,24 +298,9 @@ rule anthropometrics_raw_cleaning:
             {input.father_id_linkage_raw_table} \
             {params.fam_file} \
             {input.unrelated_children_ids_file} \
-            {input.mfr_raw_table} \
-            {input.q1m_table} \
-            {input.q1f_table} \
-            {input.skjema2cdw_table} \
-            {input.skjema2_beregning_cdw_caffeine_food_and_supplements_table} \
-            {input.skjema2_beregning_cdw_foody_fatty_acid_and_iodine_table} \
-            {input.skjema2_beregning_cdw_supplements_table} \
-            {input.skjema2_beregning_cdw} \
-            {input.q3_table} \
-            {input.q4_table} \
-            {input.q5_table} \
-            {input.q6_table} \
-            {input.q7_table} \
-            {input.q8_table} \
-            {input.q9_table} \
-            {input.skjemaKostUngdom_table} \
-            {input.ungdomsskjema_barn_table} \
-            {input.far2_table} \
+            {input.variables_mapping} \
+            {input.identifiers_mapping} \
+            {params.raw_tables_folder} \
             {params.tables_folder} \
             {params.qc_folder} \
             {params.moba_project_number}
