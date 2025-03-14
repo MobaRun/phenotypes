@@ -21,7 +21,7 @@ genomics_fam_file_path <- args[4]
 unrelated_children_id_path <- args[5]
 variables_mapping_table <- args[6]
 ids_mapping_table <- args[7]
-raw_tables_fodlder <- args[8]
+raw_phenotypes_tables_fodlder <- args[8]
 tablesFolder <- args[9]
 qcFolder <- args[10]
 project_number <- args[11]
@@ -38,7 +38,7 @@ project_number <- args[11]
 # genomics_fam_file_path <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
 # unrelated_children_id_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/id/children_id_unrelated"
 # variables_mapping_table <- "src/anthropometrics/scripts/resources/variable_mapping"
-# raw_tables_fodlder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes"
+# raw_phenotypes_tables_fodlder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes"
 # kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
 # ungdomsskjema_barn_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes/PDB315_Ungdomsskjema_Barn_v12_standard.gz"
 # tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11"
@@ -381,7 +381,7 @@ for (table_name in unique(variable_mapping$moba_table)) {
   print(paste0(Sys.time(), "     ", table_name))
   
   file_name <- paste0("PDB", project_number, "_", table_name, ".gz")
-  table_file <- file.path(raw_tables_fodlder, file_name)
+  table_file <- file.path(raw_phenotypes_tables_fodlder, file_name)
   
   if (!file.exists(table_file)) {
     

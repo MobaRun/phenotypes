@@ -59,9 +59,10 @@ unrelated_mother_id_table = f"{id_folder}/mothers_id_unrelated"
 unrelated_father_id_table = f"{id_folder}/fathers_id_unrelated"
 
 # Raw pheno tables
-mfr_541_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_MFR_541_v12.gz')
-far_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_SkjemaFar_v12.gz')
-far2_barn_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Far2_Barn_V12.gz')
+raw_phenotypes_tables_folder = os.path.join(raw_tables_folder, 'phenotypes')
+mfr_541_table = os.path.join(raw_phenotypes_tables_folder, f'PDB{moba_project_number}_MFR_541_v12.gz')
+far_table = os.path.join(raw_phenotypes_tables_folder, f'PDB{moba_project_number}_SkjemaFar_v12.gz')
+far2_barn_table = os.path.join(raw_phenotypes_tables_folder, f'PDB{moba_project_number}_Far2_Barn_V12.gz')
 far2_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Far2_V12.gz')
 skjema1_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema1_v12.gz')
 skjema2cdw_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema2CDW_v12.gz')
@@ -150,14 +151,14 @@ variables_table = pd.read_csv(variables_mapping, sep = '\t')
 def get_moba_paths():
     raw_paths = list()
     for table in set(variables_table["moba_table"]):
-        raw_paths.append(os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_{table}.gz'))
+        raw_paths.append(os.path.join(raw_phenotypes_tables_folder, f'PDB{moba_project_number}_{table}.gz'))
     return raw_paths
 
 # Function returning the paths to the project tables
 def get_project_paths():
     project_paths = list()
     for table in set(variables_table["project_table"]):
-        project_paths.append(os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_{table}.gz'))
+        project_paths.append(os.path.join(tables_folder, f'PDB{moba_project_number}_{table}.gz'))
     return project_paths
 
 
@@ -269,7 +270,7 @@ rule anthropometrics_raw_cleaning:
         identifiers_mapping = identifiers_mapping,
         raw_tables = get_moba_paths()
     params:
-        raw_tables_folder = raw_tables_folder,
+        raw_phenotypes_tables_folder = raw_phenotypes_tables_folder,
         tables_folder = tables_folder,
         qc_folder = qc_folder,
         moba_project_number = moba_project_number
@@ -288,7 +289,7 @@ rule anthropometrics_raw_cleaning:
             {input.unrelated_children_ids_file} \
             {input.variables_mapping} \
             {input.identifiers_mapping} \
-            {params.raw_tables_folder} \
+            {params.raw_phenotypes_tables_folder} \
             {params.tables_folder} \
             {params.qc_folder} \
             {params.moba_project_number}
