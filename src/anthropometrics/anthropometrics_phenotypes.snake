@@ -1,5 +1,6 @@
 import os
 import json
+import pandas as pd
 
 ##
 #
@@ -23,6 +24,10 @@ moba_project_number = config["moba_project_number"]
 moba_genotypes_linkage_relase_date = config["moba_genotypes_linkage_relase_date"]
 moba_family_linkage_relase_date = config["moba_family_linkage_relase_date"]
 moba_version = config["moba_version"]
+
+# Variables mapping
+variables_mapping = "src/anthropometrics/scripts/resources/variable_mapping"
+identifiers_mapping = "src/anthropometrics/scripts/resources/identifiers"
 
 # Files relating to the genotypes
 kinship_file = "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc-rel.kin"
@@ -133,7 +138,29 @@ if not os.path.isdir(id_folder):
 
 ####################### Functions ############################################
 
+if not os.path.exists(variables_mapping):
+    raise Exception(f"Variables mapping file `{variables_mapping}` not found.")
 
+if not os.path.exists(identifiers_mapping):
+    raise Exception(f"Identifiers mapping file `{identifiers_mapping}` not found.")
+
+variables_table = pd.read_csv(variables_mapping)
+
+# Function returning the paths to the MoBa tables
+def get_project_paths():
+    raw_paths = []
+    for table in variables_table["moba_table"]:
+        raw_paths.append(os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_{table}.gz'))
+
+    return raw_paths
+
+# Function returning the paths to the project tables
+def get_project_paths():
+    project_paths = []
+    for table in variables_table["project_table"]:
+        project_paths.append(os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_{table}.gz'))
+
+    return project_paths
 
 
 ####################### General rule #########################################
@@ -245,47 +272,20 @@ rule process_ids:
 rule anthropometrics_raw_cleaning:
     'Organizes the anthropometric traits and related in separate tables and runs initial cleaning'
     input:
-        unrelated_children_ids_file = unrelated_child_id_table,
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
-        mfr_raw_table = mfr_541_table,
-        q1m_table = skjema1_table,
-        q1f_table = far_table,
-        skjema2cdw_table = skjema2cdw_table,
-        skjema2_beregning_cdw_caffeine_food_and_supplements_table = skjema2_beregning_cdw_caffeine_food_and_supplements_table,
-        skjema2_beregning_cdw_foody_fatty_acid_and_iodine_table = skjema2_beregning_cdw_foody_fatty_acid_and_iodine_table,
-        skjema2_beregning_cdw_supplements_table = skjema2_beregning_cdw_supplements_table,
-        skjema2_beregning_cdw = skjema2_beregning_cdw,
-        q3_table = skjema3_table,
-        q4_table = skjema4_6mnd_table,
-        q5_table = skjema5_18mnd_table,
-        q6_table = skjema6_3aar_table,
-        q7_table = skjema5aar_table,
-        q8_table = skjema7aar_table,
-        q9_table = skjema8aar_table,
-        skjemaKostUngdom_table = kosthold_ungdom_table,
-        ungdomsskjema_barn_table = ungdomsskjema_barn_table,
-        far2_table = far2_table
-    params:
         fam_file = fam_file,
+        unrelated_children_ids_file = unrelated_child_id_table,
+        variables_mapping = variables_mapping,
+        identifiers_mapping = identifiers_mapping,
+        raw_tables = get_project_paths()
+    params:
         tables_folder = tables_folder,
         qc_folder = qc_folder,
         moba_project_number = moba_project_number
     output:
-         ids_table = ids_table,
-         mfr_table = mfr_table,
-         reproduction_table = reproduction_table,
-         pregnancy_table = pregnancy_table,
-         pregnancy_nutrition_table = pregnancy_nutrition_table,
-         mother_nutrition_table = mother_nutrition_table,
-         child_nutrition_table = child_nutrition_table,
-         child_table = child_table,
-         child_health_table = child_health_table,
-         parents_table = parents_table,
-         mother_health_table = mother_health_table,
-         father_health_table = father_health_table,
-         child_anthropometrics_raw_table = child_anthropometrics_raw_table
+         project_tables = get_project_paths()
     conda:
         "envs/r_anthropometrics.yaml"
     threads: 1
