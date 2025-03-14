@@ -147,7 +147,7 @@ if not os.path.exists(identifiers_mapping):
 variables_table = pd.read_csv(variables_mapping)
 
 # Function returning the paths to the MoBa tables
-def get_project_paths():
+def get_moba_paths():
     raw_paths = []
     for table in variables_table["moba_table"]:
         raw_paths.append(os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_{table}.gz'))
@@ -171,17 +171,7 @@ rule all:
         raw_data_docs = os.path.join(raw_docs_folder, 'data.md'),
         child_id_table = child_id_table,
         unrelated_child_id_table = unrelated_child_id_table,
-        # reproduction_table = reproduction_table,
-        # pregnancy_table = pregnancy_table,
-        # mfr_table = mfr_table,
-        # pregnancy_nutrition_table = pregnancy_nutrition_table,
-        # mother_nutrition_table = mother_nutrition_table,
-        # child_nutrition_table = child_nutrition_table,
-        # child_table = child_table,
-        # child_health_table = child_health_table,
-        # parents_table = parents_table,
-        # mother_health_table = mother_health_table,
-        # father_health_table = father_health_table,
+        project_tables= get_project_paths(),
         # child_anthropometrics_table = child_anthropometrics_table,
         # child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
         # docs_file = docs_file,
@@ -279,7 +269,7 @@ rule anthropometrics_raw_cleaning:
         unrelated_children_ids_file = unrelated_child_id_table,
         variables_mapping = variables_mapping,
         identifiers_mapping = identifiers_mapping,
-        raw_tables = get_project_paths()
+        raw_tables = get_moba_paths()
     params:
         raw_tables_folder = raw_tables_folder,
         tables_folder = tables_folder,
