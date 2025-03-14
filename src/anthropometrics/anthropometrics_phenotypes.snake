@@ -284,7 +284,7 @@ rule anthropometrics_raw_cleaning:
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
             {input.father_id_linkage_raw_table} \
-            {params.fam_file} \
+            {input.fam_file} \
             {input.unrelated_children_ids_file} \
             {input.variables_mapping} \
             {input.identifiers_mapping} \
