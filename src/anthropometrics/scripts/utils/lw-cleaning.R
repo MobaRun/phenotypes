@@ -23,9 +23,10 @@ docs_folder <- args[4]
 # Debug Marc - do not uncomment
 # args to run locally on Hunt 
 # 
-# qcFolder <- "/mnt/work/marc/pheno_22-09-19/qc_tmp"
-# project_number <- 2824
-# docs_folder <- "docs/anthropometrics/22-09-19/lw_qc
+tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11"
+qcFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/qc"
+project_number <- 315
+docs_folder <- "docs/anthropometrics/25-02-11/lw_qc"
 #
 ##
 
