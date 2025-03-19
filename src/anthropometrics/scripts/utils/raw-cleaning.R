@@ -1138,10 +1138,10 @@ for (project_table_name in table_names) {
     if (project_table_name == "child_anthropometrics_raw") {
       
       print("- Variables from config")
-      print0(variables, sep = ", ")
+      print(variables, sep = ", ")
       
       print("- New variables")
-      print0(new_variables[[project_table_name]], sep = ", ")
+      print(new_variables[[project_table_name]], sep = ", ")
       
     }
     
@@ -1154,7 +1154,7 @@ for (project_table_name in table_names) {
     if (project_table_name == "child_anthropometrics_raw") {
       
       print("- Missing variables")
-      print0(variables[!variables %in% names(values)], sep = ", ")
+      print(variables[!variables %in% names(values)], sep = ", ")
       
     }
     
