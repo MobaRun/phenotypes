@@ -180,7 +180,9 @@ rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
     input:
         linkage_folder = linkage_folder,
-        moba_phenotypes_folder = moba_phenotypes_folder
+        moba_phenotypes_folder = moba_phenotypes_folder,
+        variables_mapping = variables_mapping,
+        identifiers_mapping = identifiers_mapping
     params:
         moba_project_number = moba_project_number,
         raw_tables_folder = raw_tables_folder,

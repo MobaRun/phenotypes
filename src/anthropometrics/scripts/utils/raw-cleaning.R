@@ -743,6 +743,8 @@ rawPheno <- rawPheno %>%
     weight_16m = ifelse(is.na(weight_15_18m_1), weight_15_18m_1, weight_15_18m_2)
   )
 
+new_variables[["child_anthropometrics_raw"]] <- c(new_variables[["child_anthropometrics_raw"]], c("age_16m", "length_16m", "weight_16m"))
+
 
 # Get a list of unrelated kids
 
