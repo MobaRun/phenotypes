@@ -1092,6 +1092,7 @@ values <- values %>%
 
 new_variables[["parent"]] <- c(new_variables[["parent"]], "mother_median_height")
 
+
 # Exclude extreme outliers for aam
 
 values$mother_age_at_menarche[values$mother_age_at_menarche < 9 | values$mother_age_at_menarche > 17] <- NA
@@ -1134,9 +1135,26 @@ for (project_table_name in table_names) {
         project_variable
       )
     
+    if (project_table_name == "child_anthropometrics_raw") {
+      
+      print("- Variables from config")
+      print0(variables, sep = ", ")
+      
+      print("- New variables")
+      print0(new_variables[[project_table_name]], sep = ", ")
+      
+    }
+    
     if (project_table_name %in% new_variables) {
       
       variables <- c(variables, new_variables[[project_table_name]])
+      
+    }
+    
+    if (project_table_name == "child_anthropometrics_raw") {
+      
+      print("- Missing variables")
+      print0(variables[!variables %in% names(values)], sep = ", ")
       
     }
     
@@ -1161,6 +1179,7 @@ for (project_table_name in table_names) {
     
   }
 }
+
 
 # Save qc
 
