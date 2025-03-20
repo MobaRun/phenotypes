@@ -1145,7 +1145,7 @@ for (project_table_name in table_names) {
       
     }
     
-    if (project_table_name %in% new_variables) {
+    if (project_table_name %in% names(new_variables)) {
       
       variables <- c(variables, new_variables[[project_table_name]])
       
