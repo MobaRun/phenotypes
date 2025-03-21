@@ -643,6 +643,7 @@ Skjema3_v12	CC451	diarrhoea_25w_28w	pregnancy
 Skjema3_v12	CC452	diarrhoea_after_29w	pregnancy
 Skjema4_6mnd_v12	DD672	mother_weight_end_self	pregnancy
 Skjema4_6mnd_v12	DD673	mother_weight_6m	parent
+MFR_541_v12	VEKT	weight_birth	child_anthropometrics_raw
 MFR_541_v12	LENGDE	length_birth	child_anthropometrics_raw
 Skjema4_6mnd_v12	ALDER6UK_SJEKK	age_6w	child_anthropometrics_raw
 Skjema4_6mnd_v12	ALDER3MND_SJEKK	age_3m	child_anthropometrics_raw
