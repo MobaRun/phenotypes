@@ -564,7 +564,7 @@ new_variables[["child_health"]] <- c(new_variables[["child_health"]], "overweigh
 
 rawPheno$length_7y <- ifelse(!is.na(rawPheno$height_7y_cm), rawPheno$height_7y_cm, rawPheno$height_7y_m * 100)
 
-new_variables[["child_health"]] <- c(new_variables[["child_health"]], "length_7y")
+new_variables[["child_anthropometrics_raw"]] <- c(new_variables[["child_anthropometrics_raw"]], "length_7y")
 
 
 hospitalization_columns <- c("hospitalized_prolonged_nausea_vomiting", "hospitalized_bleeding", "hospitalized_amniotic_fluid_leakage", "hospitalized_threatening_preterm_labour", "hospitalized_high_blood_pressure", "hospitalized_pre_eclampsia", "hospitalized_other")
