@@ -173,8 +173,8 @@ rule all:
         project_tables= get_project_paths(),
         child_anthropometrics_table = child_anthropometrics_table,
         child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
-        # docs_file = docs_file,
-        # readme_file = os.path.join(docs_folder,"README.md")
+        docs_file = docs_file,
+        readme_file = os.path.join(docs_folder,"README.md")
 
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
