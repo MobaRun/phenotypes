@@ -173,8 +173,9 @@ rule all:
         project_tables= get_project_paths(),
         child_anthropometrics_table = child_anthropometrics_table,
         child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
-        docs_file = docs_file,
-        readme_file = os.path.join(docs_folder,"README.md")
+    # Note: The documentation is not updated to the new release.
+#        docs_file = docs_file,
+#        readme_file = os.path.join(docs_folder,"README.md")
 
 rule raw_pheno:
     'Convert raw phenotypes and write associated documentation'
@@ -351,18 +352,7 @@ rule pheno_tables_docs:
         child_id_table = child_id_table,
         mother_id_table = mother_id_table,
         father_id_table = father_id_table,
-        mfr_table = mfr_table,
-        reproduction_table = reproduction_table,
-        pregnancy_table = pregnancy_table,
-        pregnancy_nutrition_table = pregnancy_nutrition_table,
-        mother_nutrition_table = mother_nutrition_table,
-        child_nutrition_table = child_nutrition_table,
-        child_table = child_table,
-        child_health_table = child_health_table,
-        parents_table = parents_table,
-        mother_health_table = mother_health_table,
-        father_health_table = father_health_table,
-        child_anthropometrics_table = child_anthropometrics_table,
+        project_tables = get_project_paths()
     params:
         moba_version = moba_version,
         release_version = suffix,
