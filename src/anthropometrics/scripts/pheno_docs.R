@@ -25,19 +25,9 @@ project_number <- args[3]
 child_id_file <- args[4]
 mother_id_file <- args[5]
 father_id_file <- args[6]
-reproduction_table <- args[7]
-pregnancy_table <- args[8]
-mfr_table <- args[9]
-pregnancy_nutrition_table <- args[10]
-mother_nutrition_table <- args[11]
-child_nutrition_table <- args[12]
-child_table <- args[13]
-child_health_table <- args[14]
-parents_table <- args[15]
-mother_health_table <- args[16]
-father_health_table <- args[17]
-child_anthropometrics_table <- args[18]
-docs_folder <- args[19]
+variables_mapping_file <- args[7]
+tables_folder <- args[8]
+docs_folder <- args[9]
 
 # moba_version <- "V12"
 # release_version <- "23-07-12"
@@ -63,53 +53,6 @@ docs_folder <- args[19]
 
 # The variable mapping
 source("src/anthropometrics/scripts/utils/variables_mapping.R")
-
-tables <- list(
-  reproduction_table = reproduction_table,
-  pregnancy_table = pregnancy_table,
-  mfr_table = mfr_table,
-  pregnancy_nutrition_table = pregnancy_nutrition_table,
-  mother_nutrition_table = mother_nutrition_table,
-  child_nutrition_table = child_nutrition_table,
-  child_table = child_table,
-  child_health_table = child_health_table,
-  parents_table = parents_table,
-  mother_health_table = mother_health_table,
-  father_health_table = father_health_table,
-  child_anthropometrics_table = child_anthropometrics_table
-)
-columns <- list(
-  reproduction_table = reproduction_columns,
-  pregnancy_table = pregnancy_columns,
-  mfr_table = mfr_columns,
-  pregnancy_nutrition_table = pregnancy_nutrition_columns,
-  mother_nutrition_table = mother_nutrition_columns,
-  child_nutrition_table = child_nutrition_columns,
-  child_table = child_columns,
-  child_health_table = child_health_columns,
-  parents_table = parent_values_columns,
-  mother_health_table = mother_health_columns,
-  father_health_table = father_health_columns,
-  child_anthropometrics_table = c(age_columns, weight_columns, length_columns, head_circumference_columns)
-)
-pheno_to_question <- list(
-  mfr = mfrVariablesMapping,
-  q1m = q1mVariablesMapping,
-  q1f = q1fVariablesMapping,
-  q2_cwd = q2CdwVariablesMapping,
-  q2_caffeine_supplements = q2CdwBeregningCaffeineFoodSupplementsVariablesMapping,
-  q2_fatty_acid_iodine = q2CdwBeregningFoodyFattyAcidIodineVariablesMapping,
-  q2_cwd_calculations = q2CdwBeregningVariablesMapping,
-  q3 = q3VariablesMapping,
-  q4 = q4VariablesMapping,
-  q5 = q5VariablesMapping,
-  q6 = q6VariablesMapping,
-  q7 = q7VariablesMapping,
-  q8 = q8VariablesMapping,
-  q9 = q9VariablesMapping,
-  kost_ungdom = kostUngdomVariablesMapping,
-  ungdomsskjema_barn = ungdomsskjemaBarnVariablesMapping
-)
 
 pheno_file <- file.path(docs_folder, "phenotypes.md")
 

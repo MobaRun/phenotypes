@@ -352,8 +352,10 @@ rule pheno_tables_docs:
         child_id_table = child_id_table,
         mother_id_table = mother_id_table,
         father_id_table = father_id_table,
+        variables_mapping = variables_mapping,
         project_tables = get_project_paths()
     params:
+        tables_folder = tables_folder,
         moba_version = moba_version,
         release_version = suffix,
         project_number = moba_project_number,
@@ -372,18 +374,8 @@ rule pheno_tables_docs:
             {input.child_id_table} \
             {input.mother_id_table} \
             {input.father_id_table} \
-            {input.reproduction_table}  \
-            {input.pregnancy_table}  \
-            {input.mfr_table}  \
-            {input.pregnancy_nutrition_table}  \
-            {input.mother_nutrition_table}  \
-            {input.child_nutrition_table}  \
-            {input.child_table}  \
-            {input.child_health_table}  \
-            {input.parents_table}  \
-            {input.mother_health_table} \
-            {input.father_health_table} \
-            {input.child_anthropometrics_table} \
+            {input.variables_mapping}  \
+            {params.tables_folder}  \
             {params.docs_folder}
         """
 
