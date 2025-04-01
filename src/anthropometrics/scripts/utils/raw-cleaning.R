@@ -85,7 +85,7 @@ if (!dir.exists(qcFolder)) {
 source("src/anthropometrics/scripts/utils/variables_mapping.R")
 
 identifiers_mapping <- read.table(
-  "src/anthropometrics/scripts/resources/identifiers",
+  file = ids_mapping_table,
   header = T
 ) %>% 
   mutate(
@@ -96,7 +96,7 @@ names(id_moba_to_project) <- identifiers_mapping$moba_identifier
 
 
 variable_mapping <- read.table(
-  "src/anthropometrics/scripts/resources/variable_mapping",
+  file = variables_mapping_table,
   header = T
 )
 variable_moba_to_project <- variable_mapping$project_variable
