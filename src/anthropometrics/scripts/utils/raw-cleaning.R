@@ -50,8 +50,8 @@ project_number <- args[11]
 # Libraries
 
 library(stringr)
-library(dplyr)
 library(janitor)
+library(dplyr)
 library(purrr)
 library(glue)
 
@@ -454,6 +454,8 @@ for (table_name in unique(variable_mapping$moba_table)) {
 
 # Make a table of identifiers
 
+print(paste0(Sys.time(), " - Making a table of identifiers"))
+
 rawPheno <- childIdDF %>% 
   filter(
     sentrix_id %in% famDF$sentrix_id
@@ -491,7 +493,21 @@ for (table_name in names(raw_tables)) {
   raw_table <- raw_tables[[table_name]]
   ids_to_extract <- identifiers_mapping$project_identifier[identifiers_mapping$moba_table == table_name]
   
+  if (length(ids_to_extract) == 0) {
+    
+    stop(glue("No identifiers found for table `{table_name}`."))
+    
+  }
+  
   columns_to_select <- c(ids_to_extract, names(raw_table)[!names(raw_table) %in% names(rawPheno)])
+  
+  missing_ids <- ids_to_extract[!ids_to_extract %in% names(raw_table)]
+  
+  if (length(missing_ids) > 0) {
+    
+    stop(glue("Missing identifiers `{missing_ids}` in raw_table `{table_name}`."))
+    
+  }
   
   raw_table <- raw_table %>% 
     select(
@@ -499,6 +515,14 @@ for (table_name in names(raw_tables)) {
         columns_to_select
       )
     )
+  
+  missing_ids <- ids_to_extract[!ids_to_extract %in% names(rawPheno)]
+  
+  if (length(missing_ids) > 0) {
+    
+    stop(glue("Missing identifiers `{missing_ids}` in merged table rawPheno."))
+    
+  }
   
   rawPheno <- rawPheno %>% 
     left_join(
