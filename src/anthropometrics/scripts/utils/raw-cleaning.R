@@ -38,6 +38,7 @@ project_number <- args[11]
 # genomics_fam_file_path <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
 # unrelated_children_id_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/id/children_id_unrelated"
 # variables_mapping_table <- "src/anthropometrics/scripts/resources/variable_mapping"
+# ids_mapping_table <- "src/anthropometrics/scripts/resources/identifiers"
 # raw_phenotypes_tables_fodlder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes"
 # kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
 # ungdomsskjema_barn_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes/PDB315_Ungdomsskjema_Barn_v12_standard.gz"

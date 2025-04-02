@@ -25,12 +25,15 @@ Kosthold_ungdom_v12	BARN_NR	rank_siblings
 Ungdomsskjema_Barn_v12_standard	PREG_ID_{project_number}	preg_id
 Ungdomsskjema_Barn_v12_standard	BARN_NR	rank_siblings
 Ungdomsskjema_Mor_v12_standard PREG_ID_{project_number}	preg_id
+Ungdomsskjema_Mor_v12_standard BARN_NR	rank_siblings
 18-aarsskjema_v12_standard PREG_ID_{project_number}	preg_id
 18-aarsskjema_v12_standard BARN_NR	rank_siblings
-19-aarsskjema_standard PREG_ID_{project_number}	preg_id
-19-aarsskjema_standard BARN_NR	rank_siblings
+19_aarsskjema_standard PREG_ID_{project_number}	preg_id
+19_aarsskjema_standard BARN_NR	rank_siblings
 WF_Klinikkskjema_v12 PREG_ID_{project_number}	preg_id
+WF_Klinikkskjema_v12 BARN_NR	rank_siblings
 UngHelse_standard PREG_ID_{project_number}	preg_id
+UngHelse_standard BARN_NR	rank_siblings
 Far2_V12	F_ID_{project_number}	father_id
 MobaForeldre45_Mor_v12_standard PREG_ID_{project_number}	preg_id
 MobaForeldre45_Far_v12_standard PREG_ID_{project_number}	preg_id
