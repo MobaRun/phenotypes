@@ -45,7 +45,7 @@ project_number <- args[11]
 # tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11"
 # qcFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/qc"
 # project_number <- 315
-#
+# #
 ##
 
 # Libraries
@@ -643,19 +643,27 @@ print(paste(Sys.time(), " Converting string input to number"))
 
 rawPheno$age_birth <- 0
 
-rawPheno$age_14y <- rawPheno$age_kost
+rawPheno$weight_14c <- str_remove_all(rawPheno$weight_14c, " KG")
+rawPheno$weight_14c <- str_remove_all(rawPheno$weight_14c, "MINDRE ENN ")
+rawPheno$weight_14c <- str_remove_all(rawPheno$weight_14c, "MER ENN ")
+rawPheno$weight_14c <- as.numeric(rawPheno$weight_14c)
 
-rawPheno$weight_14y <- str_remove_all(rawPheno$weight_kost, " KG")
-rawPheno$weight_14y <- str_remove_all(rawPheno$weight_14y, "MINDRE ENN ")
-rawPheno$weight_14y <- str_remove_all(rawPheno$weight_14y, "MER ENN ")
-rawPheno$weight_14y <- as.numeric(rawPheno$weight_14y)
+rawPheno$height_14c <- str_remove_all(rawPheno$height_14c, " CM")
+rawPheno$height_14c <- str_remove_all(rawPheno$height_14c, "LAVERE ENN ")
+rawPheno$height_14c <- str_remove_all(rawPheno$height_14c, "HØYERE ENN ")
+rawPheno$height_14c <- as.numeric(rawPheno$height_14c)
 
-rawPheno$length_14y <- str_remove_all(rawPheno$length_kost, " CM")
-rawPheno$length_14y <- str_remove_all(rawPheno$length_14y, "LAVERE ENN ")
-rawPheno$length_14y <- str_remove_all(rawPheno$length_14y, "HØYERE ENN ")
-rawPheno$length_14y <- as.numeric(rawPheno$length_14y)
+rawPheno$weight_mother_14m <- str_remove_all(rawPheno$weight_mother_14m, " KG")
+rawPheno$weight_mother_14m <- str_remove_all(rawPheno$weight_mother_14m, "MINDRE ENN ")
+rawPheno$weight_mother_14m <- str_remove_all(rawPheno$weight_mother_14m, "MER ENN ")
+rawPheno$weight_mother_14m <- as.numeric(rawPheno$weight_mother_14m)
 
-new_variables[["child_anthropometrics_raw"]] <- c(new_variables[["child_anthropometrics_raw"]], c("age_birth", "age_14y", "weight_14y", "length_14y"))
+rawPheno$height_mother_14m <- str_remove_all(rawPheno$height_mother_14m, " CM")
+rawPheno$height_mother_14m <- str_remove_all(rawPheno$height_mother_14m, "LAVERE ENN ")
+rawPheno$height_mother_14m <- str_remove_all(rawPheno$height_mother_14m, "HØYERE ENN ")
+rawPheno$height_mother_14m <- as.numeric(rawPheno$height_mother_14m)
+
+new_variables[["child_anthropometrics_raw"]] <- c(new_variables[["child_anthropometrics_raw"]], c("age_birth"))
 
 
 # Merge columns
@@ -886,7 +894,7 @@ rawPheno <- rawPheno %>%
     age_5y = age_5y / 12 * 365.25,
     age_7y = age_7y / 12 * 365.25,
     age_8y = age_8y / 12 * 365.25,
-    age_14y = age_14y / 12 * 365.25,
+    age_answering_q_14c = age_answering_q_14c / 12 * 365.25,
     
     weight_birth = weight_birth / 1000,
     weight_6w = weight_6w / 1000,

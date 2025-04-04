@@ -12,8 +12,7 @@ age_columns <- c(
   "age_3y",
   "age_5y",
   "age_7y",
-  "age_8y",
-  "age_14y"
+  "age_8y"
 )
 
 length_columns <- c(
@@ -28,8 +27,7 @@ length_columns <- c(
   "length_3y",
   "length_5y",
   "length_7y",
-  "length_8y",
-  "length_14y"
+  "length_8y"
 )
 
 weight_columns <- c(
@@ -44,8 +42,7 @@ weight_columns <- c(
   "weight_3y",
   "weight_5y",
   "weight_7y",
-  "weight_8y",
-  "weight_14y"
+  "weight_8y"
 )
 
 bmi_columns <- c(
@@ -60,8 +57,7 @@ bmi_columns <- c(
   "bmi_3y",
   "bmi_5y",
   "bmi_7y",
-  "bmi_8y",
-  "bmi_14y"
+  "bmi_8y"
 )
 
 growth_columns <- c(
