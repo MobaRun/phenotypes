@@ -18,16 +18,18 @@ library(igraph)
 args <- commandArgs(TRUE)
 
 kinship_file <- args[1]
-linkage_child <- args[2]
-linkage_mother <- args[3]
-linkage_father <- args[4]
-id_folder <- args[5]
-project_number <- args[6]
+linkage_preg <- args[2]
+linkage_child <- args[3]
+linkage_mother <- args[4]
+linkage_father <- args[5]
+id_folder <- args[6]
+project_number <- args[7]
 
 
 # Debug files
 # 
 # kinship_file <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc-rel.kin"
+# linkage_preg <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_24-05-07/raw/linkage/PDB315_SV_INFO_V12_20250131.gz"
 # linkage_child <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_24-05-07/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz"
 # linkage_mother <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_24-05-07/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz"
 # linkage_father <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_24-05-07/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz"
@@ -222,13 +224,34 @@ if (max(fid_n$n) > 1) {
 
 print(paste0(Sys.time(), " - Loading identifiers"))
 
+trioIdDF <- read.table(
+  file = preg_id_linkage_raw_table_path,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
+) %>% 
+  clean_names() %>% 
+  select(
+    preg_id = !!sym(preg_id_column),
+    mother_id = !!sym(mother_id_column),
+    father_id = !!sym(father_id_column)
+  )
+
 child_linkage_table <- read.table(
   file = linkage_child,
   sep = "\t", 
   header = T
 ) %>% 
+  rename(
+    preg_id = !!sym(preg_id_column)
+  ) %>% 
+  filter(
+    preg_id %in% trioIdDF$preg_id
+  ) %>% 
   mutate(
-    id = paste0(!!sym(preg_id_column), "_", BARN_NR)
+    id = paste0(preg_id, "_", BARN_NR)
   ) %>% 
   select(
     SENTRIX_ID, id
@@ -251,6 +274,9 @@ mother_linkage_table <- read.table(
   select(
     SENTRIX_ID, id = !!sym(mother_id_column)
   ) %>% 
+  filter(
+    id %in% trioIdDF$mother_id
+  ) %>% 
   distinct()
 
 process_ids(
@@ -268,6 +294,9 @@ father_linkage_table <- read.table(
 ) %>% 
   select(
     SENTRIX_ID, id = !!sym(father_id_column)
+  ) %>% 
+  filter(
+    id %in% trioIdDF$father_id
   ) %>% 
   distinct()
 

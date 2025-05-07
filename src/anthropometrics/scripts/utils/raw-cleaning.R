@@ -14,17 +14,18 @@ print(paste0(Sys.time(), " - Load and clean raw QC values"))
 # Command line arguments
 args <- commandArgs(TRUE)
 
-child_id_linkage_raw_table_path <- args[1]
-mother_id_linkage_raw_table_path <- args[2]
-father_id_linkage_raw_table_path <- args[3]
-genomics_fam_file_path <- args[4]
-unrelated_children_id_path <- args[5]
-variables_mapping_table <- args[6]
-ids_mapping_table <- args[7]
-raw_phenotypes_tables_fodlder <- args[8]
-tablesFolder <- args[9]
-qcFolder <- args[10]
-project_number <- args[11]
+preg_id_linkage_raw_table_path <- args[1]
+child_id_linkage_raw_table_path <- args[2]
+mother_id_linkage_raw_table_path <- args[3]
+father_id_linkage_raw_table_path <- args[4]
+genomics_fam_file_path <- args[5]
+unrelated_children_id_path <- args[6]
+variables_mapping_table <- args[7]
+ids_mapping_table <- args[8]
+raw_phenotypes_tables_folder <- args[9]
+tablesFolder <- args[10]
+qcFolder <- args[11]
+project_number <- args[12]
 
 
 ##
@@ -32,6 +33,7 @@ project_number <- args[11]
 # Debug Marc - do not uncomment
 # args to run standalone
 # 
+# preg_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_SV_INFO_V12_20250131.gz"
 # child_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz"
 # mother_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz"
 # father_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz"
@@ -39,7 +41,7 @@ project_number <- args[11]
 # unrelated_children_id_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/id/children_id_unrelated"
 # variables_mapping_table <- "src/anthropometrics/scripts/resources/variable_mapping"
 # ids_mapping_table <- "src/anthropometrics/scripts/resources/identifiers"
-# raw_phenotypes_tables_fodlder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes"
+# raw_phenotypes_tables_folder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes"
 # kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
 # ungdomsskjema_barn_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes/PDB315_Ungdomsskjema_Barn_v12_standard.gz"
 # tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11"
@@ -163,6 +165,21 @@ father_id_column <- paste0("f_id_", project_number)
 
 print(paste0(Sys.time(), "    Loading identifiers"))
 
+trioIdDF <- read.table(
+  file = preg_id_linkage_raw_table_path,
+  sep = "\t",
+  header = T,
+  quote = "",
+  stringsAsFactors = F,
+  comment.char = ""
+) %>% 
+  clean_names() %>% 
+  select(
+    preg_id = !!sym(preg_id_column),
+    mother_id = !!sym(mother_id_column),
+    father_id = !!sym(father_id_column)
+  )
+
 childIdDF <- read.table(
   file = child_id_linkage_raw_table_path,
   sep = "\t",
@@ -181,6 +198,9 @@ childIdDF <- read.table(
   ) %>% 
   mutate(
     child_id = paste0(preg_id, "_", rank_siblings)
+  ) %>% 
+  filter(
+    preg_id %in% trioIdDF$preg_id
   )
 
 if (sum(is.na(childIdDF$sentrix_id)) > 0) {
@@ -203,6 +223,9 @@ motherIdDF <- read.table(
     sentrix_id,
     batch,
     sampletype
+  ) %>% 
+  filter(
+    mother_id %in% trioIdDF$mother_id
   )
 
 if (sum(is.na(motherIdDF$sentrix_id)) > 0) {
@@ -226,6 +249,9 @@ fatherIdDF <- read.table(
     sentrix_id,
     batch,
     sampletype
+  ) %>% 
+  filter(
+    father_id %in% trioIdDF$father_id
   )
 
 if (sum(is.na(fatherIdDF$sentrix_id)) > 0) {
@@ -382,7 +408,7 @@ for (table_name in unique(variable_mapping$moba_table)) {
   print(paste0(Sys.time(), "     ", table_name))
   
   file_name <- paste0("PDB", project_number, "_", table_name, ".gz")
-  table_file <- file.path(raw_phenotypes_tables_fodlder, file_name)
+  table_file <- file.path(raw_phenotypes_tables_folder, file_name)
   
   if (!file.exists(table_file)) {
     

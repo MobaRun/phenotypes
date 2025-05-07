@@ -233,6 +233,7 @@ rule process_ids:
     'Extracts family and individual ids'
     input:
         kinship_file = kinship_file,
+        preg_id_linkage_raw_table = preg_id_linkage_raw_table,
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
@@ -253,6 +254,7 @@ rule process_ids:
         """
         Rscript src/anthropometrics/scripts/process_ids.R \
             {input.kinship_file} \
+            {input.preg_id_linkage_raw_table} \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
             {input.father_id_linkage_raw_table} \
@@ -264,6 +266,7 @@ rule process_ids:
 rule anthropometrics_raw_cleaning:
     'Organizes the anthropometric traits and related in separate tables and runs initial cleaning'
     input:
+        preg_id_linkage_raw_table = preg_id_linkage_raw_table,
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
@@ -285,6 +288,7 @@ rule anthropometrics_raw_cleaning:
     shell:
         """
         Rscript src/anthropometrics/scripts/utils/raw-cleaning.R \
+            {input.preg_id_linkage_raw_table} \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
             {input.father_id_linkage_raw_table} \
@@ -371,9 +375,6 @@ rule pheno_tables_docs:
             {params.moba_version} \
             {params.release_version} \
             {params.project_number} \
-            {input.child_id_table} \
-            {input.mother_id_table} \
-            {input.father_id_table} \
             {input.variables_mapping}  \
             {params.tables_folder}  \
             {params.docs_folder}

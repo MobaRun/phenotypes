@@ -22,12 +22,9 @@ args <- commandArgs(TRUE)
 moba_version <- args[1]
 release_version <- args[2]
 project_number <- args[3]
-child_id_file <- args[4]
-mother_id_file <- args[5]
-father_id_file <- args[6]
-variables_mapping_file <- args[7]
-tables_folder <- args[8]
-docs_folder <- args[9]
+variables_mapping_file <- args[4]
+tables_folder <- args[5]
+docs_folder <- args[6]
 
 
 # The variable mapping
