@@ -91,17 +91,6 @@ preg_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{mob
 
 # Output tables
 ids_table = os.path.join(tables_folder, "ids.gz"),
-reproduction_table = os.path.join(tables_folder, "reproduction.gz"),
-pregnancy_table = os.path.join(tables_folder, "pregnancy.gz"),
-mfr_table = os.path.join(tables_folder, "mfr.gz"),
-pregnancy_nutrition_table = os.path.join(tables_folder, "pregnancy_nutrition.gz"),
-mother_nutrition_table = os.path.join(tables_folder, "mother_nutrition.gz"),
-child_nutrition_table = os.path.join(tables_folder, "child_nutrition.gz"),
-child_table = os.path.join(tables_folder, "child.gz"),
-child_health_table = os.path.join(tables_folder, "child_health.gz"),
-parents_table = os.path.join(tables_folder, "parents.gz"),
-mother_health_table = os.path.join(tables_folder, "mother_health.gz"),
-father_health_table = os.path.join(tables_folder, "father_health.gz"),
 child_anthropometrics_raw_table = os.path.join(tables_folder, "child_anthropometrics_raw.gz"),
 child_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics.gz")
 child_standardized_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics_standardized.gz")
@@ -190,31 +179,11 @@ rule raw_pheno:
         raw_docs_folder = raw_docs_folder
     output:
         docs_file = os.path.join(raw_docs_folder, 'data.md'),
-        mfr_541_table = mfr_541_table,
-        far_table = far_table,
-        far2_barn_table = far2_barn_table,
-        far2_table = far2_table,
-        skjema1_table = skjema1_table,
-        skjema2cdw_table = skjema2cdw_table,
-        skjema2_beregning_cdw_caffeine_food_and_supplements_table = skjema2_beregning_cdw_caffeine_food_and_supplements_table,
-        skjema2_beregning_cdw_foody_fatty_acid_and_iodine_table = skjema2_beregning_cdw_foody_fatty_acid_and_iodine_table,
-        skjema2_beregning_cdw_supplements_table = skjema2_beregning_cdw_supplements_table,
-        skjema2_beregning_cdw = skjema2_beregning_cdw,
-        skjema3_table = skjema3_table,
-        skjema4_6mnd_table = skjema4_6mnd_table,
-        skjema5_18mnd_table = skjema5_18mnd_table,
-        skjema6_3aar_table = skjema6_3aar_table,
-        skjema5aar_table = skjema5aar_table,
-        skjema7aar_table = skjema7aar_table,
-        skjema8aar_table = skjema8aar_table,
-        ungdomsskjema_barn_table = ungdomsskjema_barn_table,
-        ungdomsskjema_mor_table = ungdomsskjema_mor_table,
-        kosthold_ungdom_beregnet_table = kosthold_ungdom_beregnet_table,
-        kosthold_ungdom_table = kosthold_ungdom_table,
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
-        preg_id_linkage_raw_table = preg_id_linkage_raw_table
+        preg_id_linkage_raw_table = preg_id_linkage_raw_table,
+        project_tables = get_project_paths()
     conda:
         "envs/r_anthropometrics.yaml"
     threads: 1
