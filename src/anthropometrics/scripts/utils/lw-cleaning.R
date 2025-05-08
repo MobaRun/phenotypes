@@ -76,12 +76,6 @@ source("src/anthropometrics/scripts/utils/lw-docs-functions.R")
 source("src/anthropometrics/scripts/utils/variables_mapping.R")
 
 
-# Currently exclude values after 8y
-
-length_columns <- length_columns[1:(length(length_columns) - 1)]
-weight_columns <- weight_columns[1:(length(weight_columns) - 1)]
-
-
 # Housekeeping
 
 if (!dir.exists(qcFolder)) {
@@ -401,7 +395,7 @@ n_values <- n_values %>%
     age_factor = factor(age_i, levels = 1:length(length_columns))
   )
 
-levels(n_values$age_factor) <- c("Birth", "6 w", "3 m", "6 m", "8 m", "1 y", "1.5 y", "2 y", "3 y", "5 y", "7 y", "8 y", "14 y")
+levels(n_values$age_factor) <- c("Birth", "6 w", "3 m", "6 m", "8 m", "1 y", "1.5 y", "2 y", "3 y", "5 y", "7 y", "8 y")
 
 n_plot <- ggplot() +
   theme_bw(
