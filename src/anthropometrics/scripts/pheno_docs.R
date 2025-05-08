@@ -56,7 +56,7 @@ for (table_name in tables) {
   
   dir.create(file.path(docs_folder, table_name))
   
-  table_file <- file.path(tablesFolder, paste0(project_table_name, ".gz"))
+  table_file <- file.path(tables_folder, paste0(project_table_name, ".gz"))
   
   table <- read.table(
     file = table_file,
