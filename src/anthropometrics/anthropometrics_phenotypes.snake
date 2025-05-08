@@ -163,7 +163,7 @@ rule all:
         child_anthropometrics_table = child_anthropometrics_table,
         child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
     # Note: The documentation is not updated to the new release.
-#        docs_file = docs_file,
+        docs_file = docs_file,
 #        readme_file = os.path.join(docs_folder,"README.md")
 
 rule raw_pheno:
