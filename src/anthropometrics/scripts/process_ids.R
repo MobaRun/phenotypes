@@ -9,6 +9,7 @@ set.seed(123456)
 
 # Libraries
 
+library(janitor)
 library(dplyr)
 library(igraph)
 
