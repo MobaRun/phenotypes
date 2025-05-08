@@ -233,7 +233,6 @@ trioIdDF <- read.table(
   stringsAsFactors = F,
   comment.char = ""
 ) %>% 
-  clean_names() %>% 
   select(
     preg_id = !!sym(preg_id_column),
     mother_id = !!sym(mother_id_column),
