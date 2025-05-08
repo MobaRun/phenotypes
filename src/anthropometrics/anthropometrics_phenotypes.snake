@@ -183,7 +183,7 @@ rule raw_pheno:
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
         preg_id_linkage_raw_table = preg_id_linkage_raw_table,
-        project_tables = get_project_paths()
+        raw_tables = get_moba_paths()
     conda:
         "envs/r_anthropometrics.yaml"
     threads: 1
