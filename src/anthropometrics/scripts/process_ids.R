@@ -226,7 +226,7 @@ if (max(fid_n$n) > 1) {
 print(paste0(Sys.time(), " - Loading identifiers"))
 
 trioIdDF <- read.table(
-  file = preg_id_linkage_raw_table_path,
+  file = linkage_preg,
   sep = "\t",
   header = T,
   quote = "",
