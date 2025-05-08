@@ -933,7 +933,7 @@ getPopulationValue <- function(
   ]
   
   if (length(result) != 1) {
-    stop(paste0("No or multiple population value found.\nageI: ", ageI, "\nsex: ", sex, "\npheno: ", pheno, "\nquantileType: ", quantileType))
+    stop(paste0("No or multiple population value found.\nageI: ", ageI, "\nsex: ", sex, "\npheno: ", pheno, "\nquantileType: ", quantileType, "\nn_populations: ", result))
   }
   
   return(result[1])
