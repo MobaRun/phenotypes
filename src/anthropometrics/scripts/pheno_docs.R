@@ -56,11 +56,11 @@ for (table_name in tables) {
   
   if (!dir.exists(file.path(docs_folder, table_name))) {
   
-  dir.create(file.path(docs_folder, table_name))
+    dir.create(file.path(docs_folder, table_name))
     
   }
   
-  table_file <- file.path(tables_folder, paste0(project_table_name, ".gz"))
+  table_file <- file.path(tables_folder, paste0(table_name, ".gz"))
   
   table <- read.table(
     file = table_file,
