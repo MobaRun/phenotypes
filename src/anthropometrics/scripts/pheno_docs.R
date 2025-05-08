@@ -54,7 +54,11 @@ for (table_name in tables) {
   
   print(paste(Sys.time(), " Processing", table_name))
   
+  if (!dir.exists(file.path(docs_folder, table_name))) {
+  
   dir.create(file.path(docs_folder, table_name))
+    
+  }
   
   table_file <- file.path(tables_folder, paste0(project_table_name, ".gz"))
   
