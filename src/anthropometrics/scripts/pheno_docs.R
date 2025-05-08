@@ -94,7 +94,7 @@ for (table_name in tables) {
       
       if (column %in% variable_mapping$project_variable) {
         
-        i <- which(variable_mapping$project_variable)
+        i <- which(variable_mapping$project_variable == column)
         
         write(
           x = glue("Variable mapping to `{variable_mapping$moba_variable[i]}` in `{variable_mapping$moba_table[i]}`."), 
