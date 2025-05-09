@@ -70,7 +70,7 @@ for (table_name in tables) {
   )
   
   labels_table <- read.table(
-    file = file.path(raw_tables_folder, "phenotypes", glue("{newName}.labels.gz")),
+    file = file.path(raw_tables_folder, "phenotypes", glue("{table_name}.labels.gz")),
     header = T,
     sep = "\t"
   )
