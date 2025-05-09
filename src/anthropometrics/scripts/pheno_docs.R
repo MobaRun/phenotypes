@@ -51,12 +51,14 @@ write(
   append = T
 )
 
+current_moba_table <- ""
+
 for (table_name in tables) {
   
   print(paste(Sys.time(), " Processing", table_name))
   
   if (!dir.exists(file.path(docs_folder, table_name))) {
-  
+    
     dir.create(file.path(docs_folder, table_name))
     
   }
@@ -65,12 +67,6 @@ for (table_name in tables) {
   
   table <- read.table(
     file = table_file,
-    header = T,
-    sep = "\t"
-  )
-  
-  labels_table <- read.table(
-    file = file.path(raw_tables_folder, "phenotypes", glue("{table_name}.labels.gz")),
     header = T,
     sep = "\t"
   )
@@ -103,11 +99,26 @@ for (table_name in tables) {
         
         i <- which(variable_mapping$project_variable == column)
         
+        moba_variable <- variable_mapping$moba_variable[i]
+        moba_table <- variable_mapping$moba_table[i]
+        
         write(
-          x = glue("Variable mapping to `{variable_mapping$moba_variable[i]}` in `{variable_mapping$moba_table[i]}`."), 
+          x = glue("Variable mapping to `{moba_variable}` in `{moba_table}`."), 
           file = column_file, 
           append = T
         )
+        
+        if (moba_table != current_moba_table) {
+          
+          labels_table <- read.table(
+            file = file.path(raw_tables_folder, glue("{moba_table}.labels.gz")),
+            header = T,
+            sep = "\t"
+          )
+          
+          current_moba_table <- moba_table
+          
+        }
         
         i <- which(labels_table$pheno == column)
         
@@ -116,7 +127,7 @@ for (table_name in tables) {
           label <- labels_table$description
           
           write(
-            x = paste("> ", column, ": ", label, sep = "", collapse = ""), 
+            x = paste("> ", moba_variable, ": ", label, sep = "", collapse = ""), 
             file = column_file, 
             append = T
           )
