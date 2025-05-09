@@ -328,6 +328,7 @@ rule pheno_tables_docs:
         variables_mapping = variables_mapping,
         project_tables = get_project_paths()
     params:
+        raw_phenotypes_tables_folder = raw_phenotypes_tables_folder,
         tables_folder = tables_folder,
         moba_version = moba_version,
         release_version = suffix,
@@ -345,6 +346,7 @@ rule pheno_tables_docs:
             {params.release_version} \
             {params.project_number} \
             {input.variables_mapping}  \
+            {params.raw_tables_folder} \
             {params.tables_folder}  \
             {params.docs_folder}
         """

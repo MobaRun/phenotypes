@@ -23,8 +23,9 @@ moba_version <- args[1]
 release_version <- args[2]
 project_number <- args[3]
 variables_mapping_file <- args[4]
-tables_folder <- args[5]
-docs_folder <- args[6]
+raw_tables_folder <- args[5]
+tables_folder <- args[6]
+docs_folder <- args[7]
 
 
 # The variable mapping
@@ -68,6 +69,14 @@ for (table_name in tables) {
     sep = "\t"
   )
   
+  label_subfolder <- file.path(tablesFolder, "phenotypes")
+  
+  labels_table <- read.table(
+    file = file.path(label_subfolder, glue("{newName}.labels.gz")),
+    header = T,
+    sep = "\t"
+  )
+  
   write(
     x = glue("## {table_name}\n\n"), 
     file = pheno_file, 
@@ -101,6 +110,20 @@ for (table_name in tables) {
           file = column_file, 
           append = T
         )
+        
+        i <- which(labels_table$pheno == column)
+        
+        if (length(i) > 0) {
+          
+          label <- labels_table$description
+          
+          write(
+            x = paste("> ", column, ": ", label, sep = "", collapse = ""), 
+            file = column_file, 
+            append = T
+          )
+          
+        }
         
       } else {
         
