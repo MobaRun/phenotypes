@@ -346,7 +346,7 @@ rule pheno_tables_docs:
             {params.release_version} \
             {params.project_number} \
             {input.variables_mapping}  \
-            {params.raw_tables_folder} \
+            {params.raw_phenotypes_tables_folder} \
             {params.tables_folder}  \
             {params.docs_folder}
         """
