@@ -69,10 +69,8 @@ for (table_name in tables) {
     sep = "\t"
   )
   
-  label_subfolder <- file.path(tablesFolder, "phenotypes")
-  
   labels_table <- read.table(
-    file = file.path(label_subfolder, glue("{newName}.labels.gz")),
+    file = file.path(raw_tables_folder, "phenotypes", glue("{newName}.labels.gz")),
     header = T,
     sep = "\t"
   )
