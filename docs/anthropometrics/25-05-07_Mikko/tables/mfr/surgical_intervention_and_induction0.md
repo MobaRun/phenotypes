@@ -1,0 +1,11 @@
+# surgical_intervention_and_induction0
+Variable mapping to `INTER0` in `MFR_541_v12`.
+- Number of values:
+
+| Value | Total | Child genotyped | Mother genotyped | Father genotyped |
+| ----- | ----- | --------------- | ---------------- | ---------------- |
+| Missing | 75308 | 75308 | 71650 | 50084 |
+| Non-missing | 0 | 0 | 0 | 0 |
+
+
+
