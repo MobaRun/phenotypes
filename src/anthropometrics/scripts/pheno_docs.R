@@ -97,7 +97,9 @@ for (table_name in tables) {
       
       if (column %in% variable_mapping$project_variable) {
         
-        i <- which(variable_mapping$project_variable == column)
+        is <- which(variable_mapping$project_variable == column)
+        
+        for (i in is) {
         
         moba_variable <- variable_mapping$moba_variable[i]
         moba_table <- variable_mapping$moba_table[i]
@@ -120,11 +122,11 @@ for (table_name in tables) {
           
         }
         
-        i <- which(labels_table$pheno == column)
+        j <- which(labels_table$pheno == column)
         
-        if (length(i) > 0) {
+        if (length(j) > 0) {
           
-          label <- labels_table$description
+          label <- labels_table$description[j]
           
           write(
             x = paste("> ", moba_variable, ": ", label, sep = "", collapse = ""), 
@@ -132,6 +134,7 @@ for (table_name in tables) {
             append = T
           )
           
+        }
         }
         
       } else {
