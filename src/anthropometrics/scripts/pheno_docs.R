@@ -111,7 +111,7 @@ for (table_name in tables) {
         if (moba_table != current_moba_table) {
           
           labels_table <- read.table(
-            file = file.path(raw_tables_folder, glue("{moba_table}.labels.gz")),
+            file = file.path(raw_tables_folder, glue("PDB{project_number}_{moba_table}.labels.gz")),
             header = T,
             sep = "\t"
           )
