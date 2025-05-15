@@ -381,6 +381,7 @@ Skjema1_v12	AA879	anxiety_during_pregnancy_15w	mother_health
 Skjema1_v12	AA903	hba1c_before	mother_health
 Skjema1_v12	AA1124	mother_education_completed	parent
 Skjema1_v12	AA1126	father_education_completed	parent
+
 Skjema1_v12	AA1315	mother_income	parent
 Skjema1_v12	AA1316	father_income	parent
 Skjema1_v12	AA1348	grandmother_smoke	mother_health
@@ -1555,17 +1556,17 @@ Ungdomsskjema_Mor_v12_standard	AGE_YRS_UM	age_answering_q_14m	parent
 19_aarsskjema_standard	VG134	height_19	child_anthropometrics_raw
 19_aarsskjema_standard	VG135	weight_19	child_anthropometrics_raw
 19_aarsskjema_standard	AGE_YRS_VG	age_answering_q_19	child_anthropometrics_raw
-WF_Klinikkskjema_v12	WK12	height_wf	parent
-WF_Klinikkskjema_v12	WK13	waist_cm_wf	parent
-WF_Klinikkskjema_v12	WK14	hip_cm_wf	parent
-WF_Klinikkskjema_v12	WK15	weight_wf	parent
-WF_Klinikkskjema_v12	WK16	body_fat_pct_wf	parent
-WF_Klinikkskjema_v12	WK17	water_pct_wf	parent
-WF_Klinikkskjema_v12	WK18	muscle_mass_kg_wf	parent
-WF_Klinikkskjema_v12	WK19	metabolic_age_wf	parent
-WF_Klinikkskjema_v12	WK20	resting_metab_wf	parent
-WF_Klinikkskjema_v12	WK21	bone_mass_kg_wf	parent
-WF_Klinikkskjema_v12	AGE_YRS_WK	age_answering_q_wf	parent
+WF_Klinikkskjema_v12	WK12	height_wf	child_anthropometrics_raw
+WF_Klinikkskjema_v12	WK13	waist_cm_wf	child_anthropometrics_raw
+WF_Klinikkskjema_v12	WK14	hip_cm_wf	child_anthropometrics_raw
+WF_Klinikkskjema_v12	WK15	weight_wf	child_anthropometrics_raw
+WF_Klinikkskjema_v12	WK16	body_fat_pct_wf	child_anthropometrics_raw
+WF_Klinikkskjema_v12	WK17	water_pct_wf	child_anthropometrics_raw
+WF_Klinikkskjema_v12	WK18	muscle_mass_kg_wf	child_anthropometrics_raw
+WF_Klinikkskjema_v12	WK19	metabolic_age_wf	child_anthropometrics_raw
+WF_Klinikkskjema_v12	WK20	resting_metab_wf	child_anthropometrics_raw
+WF_Klinikkskjema_v12	WK21	bone_mass_kg_wf	child_anthropometrics_raw
+WF_Klinikkskjema_v12	AGE_YRS_WK	age_answering_q_wf	child_anthropometrics_raw
 UngHelse_standard	UH51	height_ung	parent
 UngHelse_standard	UH52	weight_ung	parent
 UngHelse_standard	AGE_YRS_UH	age_answering_q_ung	parent
@@ -1599,5 +1600,13 @@ HelseFedre	HF126	body_acceptance_level_hf	parent
 HelseFedre	HF127	height_hf	parent
 HelseFedre	HF128	weight_hf	parent
 HelseFedre	AGE_YRS_HF	age_answering_q_hf	parent
+Skjema1_v12	AA1305	mother_tongue_parents_not_norwe	parent
+Skjema1_v12	AA1309	mother_tongue_grandp_not_norwe	parent
+Skjema1_v12	AA1306_D	mother_tongue_mother	parent
+Skjema1_v12	AA1307_D	mother_tongue_father	parent
+Skjema1_v12	AA1310_D	mother_tongue_mormor	parent
+Skjema1_v12	AA1311_D	mother_tongue_morfar	parent
+Skjema1_v12	AA1312_D	mother_tongue_farmor	parent
+Skjema1_v12	AA1313_D	mother_tongue_farfar	parent
 
 
