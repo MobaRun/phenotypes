@@ -35,6 +35,9 @@
 - [z_length_7y](z_length_7y/z_length_7y.md): Length/height at 7y
 
 
+- [z_length_8y](z_length_8y/z_length_8y.md): Length/height at 8y
+
+
 - [z_weight_birth](z_weight_birth/z_weight_birth.md): Weight at birth
 
 
@@ -68,6 +71,9 @@
 - [z_weight_7y](z_weight_7y/z_weight_7y.md): Weight at 7y
 
 
+- [z_weight_8y](z_weight_8y/z_weight_8y.md): Weight at 8y
+
+
 - [z_bmi_birth](z_bmi_birth/z_bmi_birth.md): BMI at birth
 
 
@@ -99,5 +105,8 @@
 
 
 - [z_bmi_7y](z_bmi_7y/z_bmi_7y.md): BMI at 7y
+
+
+- [z_bmi_8y](z_bmi_8y/z_bmi_8y.md): BMI at 8y
 
 
