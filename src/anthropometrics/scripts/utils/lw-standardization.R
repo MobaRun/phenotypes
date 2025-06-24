@@ -55,9 +55,9 @@ source("src/anthropometrics/scripts/utils/variables_mapping.R")
 
 # Currently exclude values after 8y
 
-length_columns <- length_columns[1:(length(length_columns) - 1)]
-weight_columns <- weight_columns[1:(length(weight_columns) - 1)]
-bmi_columns <- bmi_columns[1:(length(bmi_columns) - 1)]
+length_columns <- length_columns[1:length(length_columns)]
+weight_columns <- weight_columns[1:length(weight_columns)]
+bmi_columns <- bmi_columns[1:length(bmi_columns)]
 
 
 # Housekeeping
