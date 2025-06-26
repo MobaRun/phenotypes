@@ -667,27 +667,44 @@ rawPheno <- rawPheno %>%
 
 print(paste(Sys.time(), " Converting string input to number"))
 
-rawPheno$age_birth <- 0
-
-rawPheno$weight_14c <- str_remove_all(rawPheno$weight_14c, " KG")
-rawPheno$weight_14c <- str_remove_all(rawPheno$weight_14c, "MINDRE ENN ")
-rawPheno$weight_14c <- str_remove_all(rawPheno$weight_14c, "MER ENN ")
-rawPheno$weight_14c <- as.numeric(rawPheno$weight_14c)
-
-rawPheno$height_14c <- str_remove_all(rawPheno$height_14c, " CM")
-rawPheno$height_14c <- str_remove_all(rawPheno$height_14c, "LAVERE ENN ")
-rawPheno$height_14c <- str_remove_all(rawPheno$height_14c, "HØYERE ENN ")
-rawPheno$height_14c <- as.numeric(rawPheno$height_14c)
-
-rawPheno$weight_mother_14m <- str_remove_all(rawPheno$weight_mother_14m, " KG")
-rawPheno$weight_mother_14m <- str_remove_all(rawPheno$weight_mother_14m, "MINDRE ENN ")
-rawPheno$weight_mother_14m <- str_remove_all(rawPheno$weight_mother_14m, "MER ENN ")
-rawPheno$weight_mother_14m <- as.numeric(rawPheno$weight_mother_14m)
-
-rawPheno$height_mother_14m <- str_remove_all(rawPheno$height_mother_14m, " CM")
-rawPheno$height_mother_14m <- str_remove_all(rawPheno$height_mother_14m, "LAVERE ENN ")
-rawPheno$height_mother_14m <- str_remove_all(rawPheno$height_mother_14m, "HØYERE ENN ")
-rawPheno$height_mother_14m <- as.numeric(rawPheno$height_mother_14m)
+rawPheno <- rawPheno %>% 
+  mutate(
+    age_birth = 0,
+    
+    weight_14c = str_remove_all(weight_14c, " KG"),
+    weight_14c = str_remove_all(weight_14c, " ELLER MER"),
+    weight_14c = str_remove_all(weight_14c, "MINDRE ENN "),
+    weight_14c = as.numeric(weight_14c),
+    
+    height_14c = str_remove_all(height_14c, " CM"),
+    height_14c = str_remove_all(height_14c, "HØYERE ENN "),
+    height_14c = str_remove_all(height_14c, "LAVERE ENN "),
+    height_14c = as.numeric(height_14c),
+    
+    weight_mother_14m = str_remove_all(weight_mother_14m, " KG"),
+    weight_mother_14m = str_remove_all(weight_mother_14m, "UNDER "),
+    weight_mother_14m = str_remove_all(weight_mother_14m, " ELLER MER"),
+    weight_mother_14m = case_when(
+      "100-104" ~ 102,
+      "105-109" ~ 107,
+      "110-114" ~ 112,
+      "115-119" ~ 117,
+      "120-129" ~ 125,
+      "130-139" ~ 135,
+      "140-149" ~ 145,
+      "150-159" ~ 155,
+      "160-169" ~ 165,
+      "170-179" ~ 175,
+      T ~ weight_mother_14m
+    ),
+    weight_mother_14m = as.numeric(weight_mother_14m),
+    
+    height_mother_14m = str_remove_all(height_mother_14m, " CM"),
+    height_mother_14m = str_remove_all(height_mother_14m, " ELLER MINDRE"),
+    height_mother_14m = str_remove_all(height_mother_14m, " ELLER MER"),
+    height_mother_14m = as.numeric(height_mother_14m)
+    
+  )
 
 new_variables[["child_anthropometrics_raw"]] <- c(new_variables[["child_anthropometrics_raw"]], c("age_birth"))
 
@@ -803,6 +820,35 @@ rawPheno <- rawPheno %>%
   )
 
 new_variables[["child_anthropometrics_raw"]] <- c(new_variables[["child_anthropometrics_raw"]], c("age_16m", "length_16m", "weight_16m"))
+
+
+# Exclude outliers for maternal weight
+
+min_height <- 125
+min_weight <- 35
+max_weight <- 150
+
+rawPheno <- rawPheno %>%
+  mutate(
+    mother_height = ifelse(mother_height < min_height, NA, mother_height),
+    mother_height_self = ifelse(mother_height_self < min_height, NA, mother_height_self),
+    mother_height_3y = ifelse(mother_height_3y < min_height, NA, mother_height_3y),
+    mother_height_5y = ifelse(mother_height_5y < min_height, NA, mother_height_5y),
+    mother_height_8y = ifelse(mother_height_8y < min_height, NA, mother_height_8y),
+    mother_height_14y = ifelse(mother_height_14y < min_height, NA, mother_height_14y),
+    height_hm = ifelse(height_hm < min_height, NA, height_hm),
+    mother_weight_beginning_self = ifelse(mother_weight_beginning_self < min_weight | mother_weight_beginning_self > max_weight, NA, mother_weight_beginning_self),
+    mother_weight_15w = ifelse(mother_weight_15w < min_weight, NA, mother_weight_15w),
+    mother_weight_15w = ifelse(mother_weight_15w > mother_weight_beginning_self + 50, NA, mother_weight_15w),
+    mother_weight_6m = ifelse(mother_weight_6m < min_weight | mother_weight_6m > max_weight, NA, mother_weight_6m),
+    mother_weight_18m = ifelse(mother_weight_18m < min_weight | mother_weight_18m > max_weight, NA, mother_weight_18m),
+    mother_weight_18m = ifelse(mother_weight_6m > 120 & mother_weight_18m < 60, NA, mother_weight_18m),
+    mother_weight_3y = ifelse(mother_weight_3y < min_weight | mother_weight_3y > max_weight, NA, mother_weight_3y),
+    mother_weight_5y = ifelse(mother_weight_5y < min_weight | mother_weight_5y > max_weight, NA, mother_weight_5y),
+    mother_weight_8y = ifelse(mother_weight_8y < min_weight | mother_weight_8y > max_weight, NA, mother_weight_8y),
+    weight_mother_14m = ifelse(weight_mother_14m < min_weight | weight_mother_14m > max_weight, NA, weight_mother_14m),
+    weight_hm = ifelse(weight_hm < min_weight | weight_hm > max_weight, NA, weight_hm)
+  )
 
 
 # Get a list of unrelated kids
