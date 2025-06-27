@@ -835,7 +835,7 @@ rawPheno <- rawPheno %>%
     mother_height_3y = ifelse(mother_height_3y < min_height, NA, mother_height_3y),
     mother_height_5y = ifelse(mother_height_5y < min_height, NA, mother_height_5y),
     mother_height_8y = ifelse(mother_height_8y < min_height, NA, mother_height_8y),
-    height_mother_14m = ifelse(mother_height_14m < min_height, NA, mother_height_14m),
+    height_mother_14m = ifelse(height_mother_14m < min_height, NA, height_mother_14m),
     height_hm = ifelse(height_hm < min_height, NA, height_hm),
     mother_weight_beginning_self = ifelse(mother_weight_beginning_self < min_weight | mother_weight_beginning_self > max_weight, NA, mother_weight_beginning_self),
     mother_weight_15w = ifelse(mother_weight_15w < min_weight, NA, mother_weight_15w),
