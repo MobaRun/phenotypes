@@ -1,0 +1,379 @@
+import os
+import json
+import pandas as pd
+
+##
+#
+# This script processes the raw anthropometric phenotypes of MoBa into text tables and writes documentation.
+#
+# Commands to execute from the repository folder:
+# conda activate snakemake
+# snakemake --snakefile src/anthropometrics/anthropometrics_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
+#
+##
+
+####################### Parameters ###########################################
+
+# Pipeline configuration
+config_file = 'src/anthropometrics/config.yaml'
+configfile: config_file
+
+# Analysis
+suffix = config["release"]
+moba_project_number = config["moba_project_number"]
+moba_genotypes_linkage_relase_date = config["moba_genotypes_linkage_relase_date"]
+moba_family_linkage_relase_date = config["moba_family_linkage_relase_date"]
+moba_version = config["moba_version"]
+
+# Variables mapping
+variables_mapping = "src/anthropometrics/scripts/resources/variable_mapping"
+identifiers_mapping = "src/anthropometrics/scripts/resources/identifiers"
+
+# Files relating to the genotypes
+kinship_file = "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc-rel.kin"
+fam_file = "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
+
+# Raw phenotype files
+linkage_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/linkage"
+moba_phenotypes_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/phenotypes"
+
+# Docs folders
+docs_folder = f"docs/anthropometrics/{suffix}"
+raw_docs_folder = f"{docs_folder}/raw"
+growth_docs_folder = f"{docs_folder}/growth_cleaning"
+standardization_docs_folder = f"{docs_folder}/standardization"
+tables_docs_folder = f"{docs_folder}/tables"
+docs_file = os.path.join(tables_docs_folder, "phenotypes.md")
+
+# Tables folders
+tables_folder = f"/mnt/archive/moba/pheno/v12/pheno_anthropometrics_{suffix}"
+raw_tables_folder = f"{tables_folder}/raw"
+
+# Identifiers tables
+id_folder = f"{tables_folder}/id"
+child_id_table = f"{id_folder}/children_id"
+mother_id_table = f"{id_folder}/mothers_id"
+father_id_table = f"{id_folder}/fathers_id"
+unrelated_child_id_table = f"{id_folder}/children_id_unrelated"
+unrelated_mother_id_table = f"{id_folder}/mothers_id_unrelated"
+unrelated_father_id_table = f"{id_folder}/fathers_id_unrelated"
+
+# Raw pheno tables
+raw_phenotypes_tables_folder = os.path.join(raw_tables_folder, 'phenotypes')
+mfr_541_table = os.path.join(raw_phenotypes_tables_folder, f'PDB{moba_project_number}_MFR_541_v12.gz')
+far_table = os.path.join(raw_phenotypes_tables_folder, f'PDB{moba_project_number}_SkjemaFar_v12.gz')
+far2_barn_table = os.path.join(raw_phenotypes_tables_folder, f'PDB{moba_project_number}_Far2_Barn_V12.gz')
+far2_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Far2_V12.gz')
+skjema1_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema1_v12.gz')
+skjema2cdw_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema2CDW_v12.gz')
+skjema2_beregning_cdw_caffeine_food_and_supplements_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema2_beregning_CDW_caffeine_food_and_supplements_v12.gz')
+skjema2_beregning_cdw_foody_fatty_acid_and_iodine_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema2_beregning_CDW_foody_fatty_acid_and_iodine_v12.gz')
+skjema2_beregning_cdw_supplements_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema2_beregning_CDW_supplements_v12.gz')
+skjema2_beregning_cdw = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema2_beregning_CDW_v12.gz')
+skjema3_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema3_v12.gz')
+skjema4_6mnd_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema4_6mnd_v12.gz')
+skjema5_18mnd_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema5_18mnd_v12.gz')
+skjema6_3aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema6_3aar_v12.gz')
+skjema5aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema5aar_v12.gz')
+skjema7aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema7aar_v12.gz')
+skjema8aar_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Skjema8aar_v12.gz')
+ungdomsskjema_barn_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Barn_v12_standard.gz')
+f2_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Far2_V12.gz')
+ungdomsskjema_mor_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Mor_v12_standard.gz')
+kosthold_ungdom_beregnet_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Kosthold_ungdom_beregnet_v12.gz')
+kosthold_ungdom_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Kosthold_ungdom_v12.gz')
+
+# Raw linkage tables
+child_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_MoBaGeneticsTot_Child_{moba_genotypes_linkage_relase_date}.gz')
+mother_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_MoBaGeneticsTot_Mother_{moba_genotypes_linkage_relase_date}.gz')
+father_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_MoBaGeneticsTot_Father_{moba_genotypes_linkage_relase_date}.gz')
+preg_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_SV_INFO_V12_{moba_family_linkage_relase_date}.gz')
+
+# Output tables
+ids_table = os.path.join(tables_folder, "ids.gz"),
+child_anthropometrics_raw_table = os.path.join(tables_folder, "child_anthropometrics_raw.gz"),
+child_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics.gz")
+child_standardized_anthropometrics_table = os.path.join(tables_folder, "child_anthropometrics_standardized.gz")
+
+# Anthropometrics QC folder
+qc_folder = f"{tables_folder}/qc"
+
+
+####################### Housekeeping #########################################
+
+if not os.path.isdir(docs_folder):
+    os.makedirs(docs_folder)
+
+if not os.path.isdir(raw_docs_folder):
+    os.makedirs(raw_docs_folder)
+
+if not os.path.isdir(growth_docs_folder):
+    os.makedirs(growth_docs_folder)
+
+if not os.path.isdir(tables_docs_folder):
+    os.makedirs(tables_docs_folder)
+
+if not os.path.isdir(tables_folder):
+    os.makedirs(tables_folder)
+
+if not os.path.isdir(raw_tables_folder):
+    os.makedirs(raw_tables_folder)
+
+if not os.path.isdir(qc_folder):
+    os.makedirs(qc_folder)
+
+if not os.path.isdir(id_folder):
+    os.makedirs(id_folder)
+
+
+####################### Functions ############################################
+
+if not os.path.exists(variables_mapping):
+    raise Exception(f"Variables mapping file `{variables_mapping}` not found.")
+
+if not os.path.exists(identifiers_mapping):
+    raise Exception(f"Identifiers mapping file `{identifiers_mapping}` not found.")
+
+variables_table = pd.read_csv(variables_mapping, sep = '\t')
+
+# Function returning the paths to the MoBa tables
+def get_moba_paths():
+    raw_paths = list()
+    for table in set(variables_table["moba_table"]):
+        raw_paths.append(os.path.join(raw_phenotypes_tables_folder, f'PDB{moba_project_number}_{table}.gz'))
+    return raw_paths
+
+# Function returning the paths to the project tables
+def get_project_paths():
+    project_paths = list()
+    for table in set(variables_table["project_table"]):
+        project_paths.append(os.path.join(tables_folder, f'{table}.gz'))
+    return project_paths
+
+
+####################### General rule #########################################
+
+rule all:
+    'The output of the pipeline'
+    input:
+        raw_data_docs = os.path.join(raw_docs_folder, 'data.md'),
+        child_id_table = child_id_table,
+        unrelated_child_id_table = unrelated_child_id_table,
+        project_tables= get_project_paths(),
+        child_anthropometrics_table = child_anthropometrics_table,
+        child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
+    # Note: The documentation is not updated to the new release.
+        docs_file = docs_file,
+        readme_file = os.path.join(docs_folder,"README.md")
+
+rule raw_pheno:
+    'Convert raw phenotypes and write associated documentation'
+    input:
+        linkage_folder = linkage_folder,
+        moba_phenotypes_folder = moba_phenotypes_folder,
+        variables_mapping = variables_mapping,
+        identifiers_mapping = identifiers_mapping
+    params:
+        moba_project_number = moba_project_number,
+        raw_tables_folder = raw_tables_folder,
+        raw_docs_folder = raw_docs_folder
+    output:
+        docs_file = os.path.join(raw_docs_folder, 'data.md'),
+        child_id_linkage_raw_table = child_id_linkage_raw_table,
+        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
+        father_id_linkage_raw_table = father_id_linkage_raw_table,
+        preg_id_linkage_raw_table = preg_id_linkage_raw_table,
+        raw_tables = get_moba_paths()
+    conda:
+        "envs/r_anthropometrics.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/raw_pheno_docs.R \
+            {input.linkage_folder} \
+            {input.moba_phenotypes_folder} \
+            {params.raw_tables_folder} \
+            {params.raw_docs_folder} \
+            {params.moba_project_number}
+        """
+
+
+rule process_ids:
+    'Extracts family and individual ids'
+    input:
+        kinship_file = kinship_file,
+        preg_id_linkage_raw_table = preg_id_linkage_raw_table,
+        child_id_linkage_raw_table = child_id_linkage_raw_table,
+        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
+        father_id_linkage_raw_table = father_id_linkage_raw_table,
+        id_folder = id_folder
+    params:
+        moba_project_number = moba_project_number
+    output:
+        child_id_table = child_id_table,
+        unrelated_child_id_table = unrelated_child_id_table,
+        mother_id_table = mother_id_table,
+        unrelated_mother_id_table = unrelated_mother_id_table,
+        father_id_table = father_id_table,
+        unrelated_father_id_table = unrelated_father_id_table
+    conda:
+        "envs/r_anthropometrics.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/process_ids.R \
+            {input.kinship_file} \
+            {input.preg_id_linkage_raw_table} \
+            {input.child_id_linkage_raw_table} \
+            {input.mother_id_linkage_raw_table} \
+            {input.father_id_linkage_raw_table} \
+            {input.id_folder} \
+            {params.moba_project_number}
+        """
+
+
+rule anthropometrics_raw_cleaning:
+    'Organizes the anthropometric traits and related in separate tables and runs initial cleaning'
+    input:
+        preg_id_linkage_raw_table = preg_id_linkage_raw_table,
+        child_id_linkage_raw_table = child_id_linkage_raw_table,
+        mother_id_linkage_raw_table = mother_id_linkage_raw_table,
+        father_id_linkage_raw_table = father_id_linkage_raw_table,
+        fam_file = fam_file,
+        unrelated_children_ids_file = unrelated_child_id_table,
+        variables_mapping = variables_mapping,
+        identifiers_mapping = identifiers_mapping,
+        raw_tables = get_moba_paths()
+    params:
+        raw_phenotypes_tables_folder = raw_phenotypes_tables_folder,
+        tables_folder = tables_folder,
+        qc_folder = qc_folder,
+        moba_project_number = moba_project_number
+    output:
+         project_tables = get_project_paths()
+    conda:
+        "envs/r_anthropometrics.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/utils/raw-cleaning.R \
+            {input.preg_id_linkage_raw_table} \
+            {input.child_id_linkage_raw_table} \
+            {input.mother_id_linkage_raw_table} \
+            {input.father_id_linkage_raw_table} \
+            {input.fam_file} \
+            {input.unrelated_children_ids_file} \
+            {input.variables_mapping} \
+            {input.identifiers_mapping} \
+            {params.raw_phenotypes_tables_folder} \
+            {params.tables_folder} \
+            {params.qc_folder} \
+            {params.moba_project_number}
+        """
+
+rule growth_cleaning:
+    'Removes outliers and imputes missing values'
+    input:
+        child_anthropometrics_raw_table = child_anthropometrics_raw_table
+    params:
+        tables_folder = tables_folder,
+        qc_folder = qc_folder,
+        moba_project_number = moba_project_number,
+        release_name = suffix,
+        docs_folder = growth_docs_folder
+    output:
+        child_anthropometrics_table = child_anthropometrics_table,
+        growth_docs_file = os.path.join(growth_docs_folder, "readme.md")
+    conda:
+        "envs/r_anthropometrics.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/utils/lw-cleaning.R \
+            {params.tables_folder} \
+            {params.qc_folder} \
+            {params.moba_project_number} \
+            {params.docs_folder}
+        """
+
+rule lw_standardization:
+    'standardizes anthropometric traits'
+    input:
+        child_anthropometrics_table = child_anthropometrics_table
+    params:
+        tables_folder = tables_folder,
+        moba_project_number = moba_project_number,
+        docs_folder = standardization_docs_folder
+    output:
+        child_standardized_anthropometrics_table = child_standardized_anthropometrics_table,
+        growth_docs_file = os.path.join(standardization_docs_folder, "standardization.md")
+    conda:
+        "envs/r_anthropometrics.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/utils/lw-standardization.R \
+            {params.tables_folder} \
+            {params.moba_project_number} \
+            {params.docs_folder}
+        """
+
+
+rule pheno_tables_docs:
+    'Writes documentation and summary statistics on the phenotype tables'
+    input:
+        child_id_table = child_id_table,
+        mother_id_table = mother_id_table,
+        father_id_table = father_id_table,
+        variables_mapping = variables_mapping,
+        project_tables = get_project_paths()
+    params:
+        raw_phenotypes_tables_folder = raw_phenotypes_tables_folder,
+        tables_folder = tables_folder,
+        moba_version = moba_version,
+        release_version = suffix,
+        project_number = moba_project_number,
+        docs_folder = tables_docs_folder
+    output:
+        docs_file = docs_file
+    conda:
+        "envs/r_anthropometrics.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/pheno_docs.R \
+            {params.moba_version} \
+            {params.release_version} \
+            {params.project_number} \
+            {input.variables_mapping}  \
+            {params.raw_phenotypes_tables_folder} \
+            {params.tables_folder}  \
+            {params.docs_folder}
+        """
+
+
+rule write_readme:
+    'Writes the readme file for this release'
+    input:
+        docs_file = docs_file
+    params:
+        config_file = config_file,
+        moba_delivery_folder = moba_phenotypes_folder,
+        raw_tables_folder = raw_tables_folder,
+        tables_folder = tables_folder
+    output:
+        readme_file = os.path.join(docs_folder, "README.md")
+    conda:
+        "envs/r_anthropometrics.yaml"
+    threads: 1
+    shell:
+        """
+        Rscript src/anthropometrics/scripts/write_readme.R \
+            {params.config_file} \
+            {params.moba_delivery_folder} \
+            {params.raw_tables_folder} \
+            {params.tables_folder}
+        """
+
+
+

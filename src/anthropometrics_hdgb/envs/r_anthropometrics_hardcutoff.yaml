@@ -1,0 +1,23 @@
+name: r_anthropometrics_hardcutoff
+channels:
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - r-base>=4.2
+  - r-data.table
+  - r-dplyr
+  - r-tidyr
+  - r-stringr
+  - r-readr
+  - r-glue
+  - r-gamlss
+  - r-gamlss.data
+  - r-gamlss.dist
+  - r-jmv
+  - r-janitor
+  - r-cli
+  - r-ggplot2
+  - r-gtable
+  - r-gridextra
+  - r-R.utils
