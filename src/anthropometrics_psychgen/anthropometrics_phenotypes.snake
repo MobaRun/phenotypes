@@ -8,14 +8,14 @@ import pandas as pd
 #
 # Commands to execute from the repository folder:
 # conda activate snakemake
-# snakemake --snakefile src/anthropometrics/anthropometrics_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
+# snakemake --snakefile src/anthropometrics_psychgen/anthropometrics_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
 #
 ##
 
 ####################### Parameters ###########################################
 
 # Pipeline configuration
-config_file = 'src/anthropometrics/config.yaml'
+config_file = 'src/anthropometrics_psychgen/config.yaml'
 configfile: config_file
 
 # Analysis
@@ -26,8 +26,8 @@ moba_family_linkage_relase_date = config["moba_family_linkage_relase_date"]
 moba_version = config["moba_version"]
 
 # Variables mapping
-variables_mapping = "src/anthropometrics/scripts/resources/variable_mapping"
-identifiers_mapping = "src/anthropometrics/scripts/resources/identifiers"
+variables_mapping = "src/anthropometrics_psychgen/scripts/resources/variable_mapping"
+identifiers_mapping = "src/anthropometrics_psychgen/scripts/resources/identifiers"
 
 # Files relating to the genotypes
 kinship_file = "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc-rel.kin"
@@ -38,7 +38,7 @@ linkage_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/linkage"
 moba_phenotypes_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/phenotypes"
 
 # Docs folders
-docs_folder = f"docs/anthropometrics/{suffix}"
+docs_folder = f"docs/anthropometrics_psychgen/{suffix}"
 raw_docs_folder = f"{docs_folder}/raw"
 growth_docs_folder = f"{docs_folder}/growth_cleaning"
 standardization_docs_folder = f"{docs_folder}/standardization"
@@ -189,7 +189,7 @@ rule raw_pheno:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/raw_pheno_docs.R \
+        Rscript src/anthropometrics_psychgen/scripts/raw_pheno_docs.R \
             {input.linkage_folder} \
             {input.moba_phenotypes_folder} \
             {params.raw_tables_folder} \
@@ -221,7 +221,7 @@ rule process_ids:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/process_ids.R \
+        Rscript src/anthropometrics_psychgen/scripts/process_ids.R \
             {input.kinship_file} \
             {input.preg_id_linkage_raw_table} \
             {input.child_id_linkage_raw_table} \
@@ -256,7 +256,7 @@ rule anthropometrics_raw_cleaning:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/utils/raw-cleaning.R \
+        Rscript src/anthropometrics_psychgen/scripts/utils/raw-cleaning.R \
             {input.preg_id_linkage_raw_table} \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
@@ -289,7 +289,7 @@ rule growth_cleaning:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/utils/lw-cleaning.R \
+        Rscript src/anthropometrics_psychgen/scripts/utils/lw-cleaning.R \
             {params.tables_folder} \
             {params.qc_folder} \
             {params.moba_project_number} \
@@ -312,7 +312,7 @@ rule lw_standardization:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/utils/lw-standardization.R \
+        Rscript src/anthropometrics_psychgen/scripts/utils/lw-standardization.R \
             {params.tables_folder} \
             {params.moba_project_number} \
             {params.docs_folder}
@@ -341,7 +341,7 @@ rule pheno_tables_docs:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/pheno_docs.R \
+        Rscript src/anthropometrics_psychgen/scripts/pheno_docs.R \
             {params.moba_version} \
             {params.release_version} \
             {params.project_number} \
@@ -368,7 +368,7 @@ rule write_readme:
     threads: 1
     shell:
         """
-        Rscript src/anthropometrics/scripts/write_readme.R \
+        Rscript src/anthropometrics_psychgen/scripts/write_readme.R \
             {params.config_file} \
             {params.moba_delivery_folder} \
             {params.raw_tables_folder} \
