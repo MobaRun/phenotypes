@@ -85,7 +85,7 @@ if (!dir.exists(qcFolder)) {
 ## Parameters
 
 # The variable mapping
-source("src/anthropometrics/scripts/utils/variables_mapping.R")
+source("src/anthropometrics_psychgen/scripts/utils/variables_mapping.R")
 
 identifiers_mapping <- read.table(
   file = ids_mapping_table,

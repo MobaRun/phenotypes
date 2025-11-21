@@ -70,10 +70,9 @@ exportProfiles <- F
 
 # External functions and variable mapping
 
-source("src/anthropometrics/scripts/utils/lw-cleaning-functions.R")
-source("src/anthropometrics/scripts/utils/lw-docs-functions.R")
-
-source("src/anthropometrics/scripts/utils/variables_mapping.R")
+source("src/anthropometrics_psychgen/scripts/utils/lw-cleaning-functions.R")
+source("src/anthropometrics_psychgen/scripts/utils/lw-docs-functions.R")
+source("src/anthropometrics_psychgen/scripts/utils/variables_mapping.R")
 
 
 # Housekeeping
