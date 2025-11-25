@@ -12,7 +12,7 @@ print(paste0(Sys.time(), " - Load and clean raw QC values"))
 ## Command line input
 
 # Command line arguments
-# args <- commandArgs(TRUE)
+args <- commandArgs(TRUE)
 
 
 ##
@@ -20,20 +20,20 @@ print(paste0(Sys.time(), " - Load and clean raw QC values"))
 # Debug Marc - do not uncomment
 # args to run standalone
 # 
-args <- c(
-  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_SV_INFO_V12_20250131.gz",
-  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz",
-  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz",
-  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz",
-  "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam",
-  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/id/children_id_unrelated",
-  "src/anthropometrics_psychgen/scripts/resources/variable_mapping",
-  "src/anthropometrics_psychgen/scripts/resources/identifiers",
-  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/phenotypes",
-  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen",
-  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/qc",
-  315
-)
+# args <- c(
+#   "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_SV_INFO_V12_20250131.gz",
+#   "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz",
+#   "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz",
+#   "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz",
+#   "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam",
+#   "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/id/children_id_unrelated",
+#   "src/anthropometrics_psychgen/scripts/resources/variable_mapping",
+#   "src/anthropometrics_psychgen/scripts/resources/identifiers",
+#   "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/phenotypes",
+#   "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen",
+#   "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/qc",
+#   315
+# )
 # #
 ##
 
