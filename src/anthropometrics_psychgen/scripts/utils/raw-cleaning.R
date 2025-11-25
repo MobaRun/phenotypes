@@ -492,7 +492,9 @@ rawPheno <- childIdDF %>%
   ) %>% 
   left_join(
     famDF %>% 
-      rename(child_sentrix_id = sentrix_id),
+      rename(
+        child_sentrix_id = sentrix_id
+        ),
     by = "child_sentrix_id"
   ) %>% 
   left_join(
@@ -556,6 +558,15 @@ for (table_name in names(raw_tables)) {
       raw_table,
       by = ids_to_extract
     )
+  
+  
+  # Sanity check
+  
+  if (nrow(rawPheno) != length(unique(rawPheno$child_id))) {
+    
+    stop(paste0("Duplictes were introduced when including table `", table_name, "`."))
+    
+  }
   
 }
 
