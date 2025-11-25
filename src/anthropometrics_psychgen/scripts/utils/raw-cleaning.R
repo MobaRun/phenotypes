@@ -12,7 +12,30 @@ print(paste0(Sys.time(), " - Load and clean raw QC values"))
 ## Command line input
 
 # Command line arguments
-args <- commandArgs(TRUE)
+# args <- commandArgs(TRUE)
+
+
+##
+#
+# Debug Marc - do not uncomment
+# args to run standalone
+# 
+args <- c(
+  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_SV_INFO_V12_20250131.gz",
+  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz",
+  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz",
+  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz",
+  "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam",
+  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/id/children_id_unrelated",
+  "src/anthropometrics_psychgen/scripts/resources/variable_mapping",
+  "src/anthropometrics_psychgen/scripts/resources/identifiers",
+  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/raw/phenotypes",
+  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen",
+  "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-11-21_psychgen/qc",
+  315
+)
+# #
+##
 
 preg_id_linkage_raw_table_path <- args[1]
 child_id_linkage_raw_table_path <- args[2]
@@ -26,29 +49,6 @@ raw_phenotypes_tables_folder <- args[9]
 tablesFolder <- args[10]
 qcFolder <- args[11]
 project_number <- args[12]
-
-
-##
-#
-# Debug Marc - do not uncomment
-# args to run standalone
-# 
-# preg_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_SV_INFO_V12_20250131.gz"
-# child_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_MoBaGeneticsTot_Child_20221228.gz"
-# mother_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_MoBaGeneticsTot_Mother_20221228.gz"
-# father_id_linkage_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/linkage/PDB315_MoBaGeneticsTot_Father_20221228.gz"
-# genomics_fam_file_path <- "/mnt/archive/moba/geno/MobaPsychgenReleaseMarch23/MoBaPsychGen_v1/MoBaPsychGen_v1-ec-eur-batch-basic-qc.fam"
-# unrelated_children_id_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/id/children_id_unrelated"
-# variables_mapping_table <- "src/anthropometrics/scripts/resources/variable_mapping"
-# ids_mapping_table <- "src/anthropometrics/scripts/resources/identifiers"
-# raw_phenotypes_tables_folder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes"
-# kostUngdom_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes/PDB315_Kosthold_ungdom_v12.gz"
-# ungdomsskjema_barn_raw_table_path <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/raw/phenotypes/PDB315_Ungdomsskjema_Barn_v12_standard.gz"
-# tablesFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11"
-# qcFolder <- "/mnt/archive/moba/pheno/v12/pheno_anthropometrics_25-02-11/qc"
-# project_number <- 315
-# #
-##
 
 # Libraries
 
