@@ -34,6 +34,7 @@ moba_delivery_folder <- args[2]
 raw_tables_folder <- args[3]
 tables_folder <- args[4]
 
+
 # Import config file
 
 config <- read_yaml(config_file)
@@ -41,7 +42,7 @@ config <- read_yaml(config_file)
 
 # Write readme for release
 
-readme_file <- file.path(here(), "docs", "anthropometrics", "README.md")
+readme_file <- file.path(here(), "docs", "anthropometrics_psychgen", "README.md")
 
 write(
   x = glue("# Anthropometric traits\n"),
@@ -71,9 +72,9 @@ write(
   append = T
 )
 
-for (file in list.files(file.path(here(), "docs", "anthropometrics"))) {
+for (file in list.files(file.path(here(), "docs", "anthropometrics_psychgen"))) {
   
-  if (dir.exists(file.path(here(), "docs", "anthropometrics", file)) && file != config$release) {
+  if (dir.exists(file.path(here(), "docs", "anthropometrics_psychgen", file)) && file != config$release) {
     
     write(
       x = glue("- [{file}](file)\n"),
@@ -87,7 +88,7 @@ for (file in list.files(file.path(here(), "docs", "anthropometrics"))) {
 
 # Write readme for release
 
-readme_file <- file.path(here(), "docs", "anthropometrics", config$release, "README.md")
+readme_file <- file.path(here(), "docs", "anthropometrics_psychgen", config$release, "README.md")
 
 write(
   x = glue("# Anthropometric traits\n"),

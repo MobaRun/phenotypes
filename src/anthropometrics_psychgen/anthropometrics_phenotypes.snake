@@ -372,7 +372,8 @@ rule write_readme:
             {params.config_file} \
             {params.moba_delivery_folder} \
             {params.raw_tables_folder} \
-            {params.tables_folder}
+            {params.tables_folder} \
+            {input.docs_file}
         """
 
 
