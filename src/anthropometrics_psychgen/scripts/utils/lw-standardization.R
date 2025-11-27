@@ -48,9 +48,9 @@ library(grid)
 
 # External functions
 
-source("src/anthropometrics/scripts/utils/standardization_functions.R")
-source("src/anthropometrics/scripts/utils/standardization_docs_functions.R")
-source("src/anthropometrics/scripts/utils/variables_mapping.R")
+source("src/anthropometrics_psychgen/scripts/utils/standardization_functions.R")
+source("src/anthropometrics_psychgen/scripts/utils/standardization_docs_functions.R")
+source("src/anthropometrics_psychgen/scripts/utils/variables_mapping.R")
 
 
 # Currently exclude values after 8y
