@@ -29,7 +29,7 @@ docs_folder <- args[7]
 
 
 # The variable mapping
-source("src/anthropometrics/scripts/utils/variables_mapping.R")
+source("src/anthropometrics_psychgen/scripts/utils/variables_mapping.R")
 
 variable_mapping <- read.table(
   file = variables_mapping_file,
