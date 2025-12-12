@@ -8,14 +8,14 @@ import pandas as pd
 #
 # Commands to execute from the repository folder:
 # conda activate snakemake
-# snakemake --snakefile pipeline_HDGB_compatible/anthropometrics_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
+# snakemake --snakefile src/anthropometrics_hdgb/anthropometrics_phenotypes.snake --cores 2 --use-conda --rerun-incomplete
 #
 ##
 
 ####################### Parameters ###########################################
 
 # Pipeline configuration
-config_file = 'pipeline_HDGB_compatible/config.yaml'
+config_file = 'src/anthropometrics_hdgb/config.yaml'
 configfile: config_file
 
 # Analysis
@@ -26,8 +26,8 @@ moba_family_linkage_relase_date = config["moba_family_linkage_relase_date"]
 moba_version = config["moba_version"]
 
 # Variables mapping
-variables_mapping = "pipeline_HDGB_compatible/scripts/resources/variable_mapping"
-identifiers_mapping = "pipeline_HDGB_compatible/scripts/resources/identifiers"
+variables_mapping = "src/anthropometrics_hdgb/scripts/resources/variable_mapping"
+identifiers_mapping = "src/anthropometrics_hdgb/scripts/resources/identifiers"
 
 # Files relating to the genotypes
 kinship_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/kinship/moba_genotypes_2025.01.30_withFIDn_clean.kin0"
@@ -204,7 +204,7 @@ rule raw_pheno:
     threads: 1
     shell:
         """
-        Rscript pipeline_HDGB_compatible/scripts/raw_pheno_docs.R \
+        Rscript src/anthropometrics_hdgb/scripts/raw_pheno_docs.R \
             {input.linkage_folder} \
             {input.moba_phenotypes_folder} \
             {params.raw_tables_folder} \
@@ -236,7 +236,7 @@ rule process_ids:
     threads: 1
     shell:
         """
-        Rscript pipeline_HDGB_compatible/scripts/process_ids.R \
+        Rscript src/anthropometrics_hdgb/scripts/process_ids.R \
             {input.kinship_file} \
             {input.preg_id_linkage_raw_table} \
             {input.child_id_linkage_raw_table} \
@@ -271,7 +271,7 @@ rule anthropometrics_raw_cleaning:
     threads: 1
     shell:
         """
-        Rscript pipeline_HDGB_compatible/scripts/utils/raw-cleaning.R \
+        Rscript src/anthropometrics_hdgb/scripts/utils/raw-cleaning.R \
             {input.preg_id_linkage_raw_table} \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
@@ -304,7 +304,7 @@ rule growth_cleaning:
     threads: 1
     shell:
         """
-        Rscript pipeline_HDGB_compatible/scripts/utils/lw-cleaning.R \
+        Rscript src/anthropometrics_hdgb/scripts/utils/lw-cleaning.R \
             {params.tables_folder} \
             {params.qc_folder} \
             {params.moba_project_number} \
@@ -327,7 +327,7 @@ rule lw_standardization:
     threads: 1
     shell:
         """
-        Rscript pipeline_HDGB_compatible/scripts/utils/lw-standardization.R \
+        Rscript src/anthropometrics_hdgb/scripts/utils/lw-standardization.R \
             {params.tables_folder} \
             {params.moba_project_number} \
             {params.docs_folder}
@@ -353,7 +353,7 @@ rule lw_hardcutoff_values_from_std:
     threads: 1
     shell:
         r"""
-        Rscript pipeline_HDGB_compatible/scripts/utils/lw-hardcutoff-from-standardized.R \
+        Rscript src/anthropometrics_hdgb/scripts/utils/lw-hardcutoff-from-standardized.R \
             {params.tables_folder} \
             {output.values_file} \
             {output.change_log} \
@@ -382,7 +382,7 @@ rule pheno_tables_docs:
     threads: 1
     shell:
         """
-        Rscript pipeline_HDGB_compatible/scripts/pheno_docs.R \
+        Rscript src/anthropometrics_hdgb/scripts/pheno_docs.R \
             {params.moba_version} \
             {params.release_version} \
             {params.project_number} \
@@ -408,7 +408,7 @@ rule write_readme:
     threads: 1
     shell:
         r"""
-        Rscript pipeline_HDGB_compatible/scripts/write_readme.R \
+        Rscript src/anthropometrics_hdgb/scripts/write_readme.R \
             {params.config_file} \
             {params.moba_delivery_folder} \
             {params.raw_tables_folder} \
