@@ -996,7 +996,7 @@ for (column in c(weight_columns, length_columns, head_circumference_columns)) {
 
 # Convert months to days, g to kg
 
-rawPheno <- rawPheno %>% 
+values <- rawPheno %>% 
   mutate(
     
     age_5y = age_5y / 12 * 365.25,
@@ -1012,6 +1012,7 @@ rawPheno <- rawPheno %>%
     weight_16m = weight_16m / 1000
     
   )
+
 
 # Keep track of the number of values for the different phenotypes
 
