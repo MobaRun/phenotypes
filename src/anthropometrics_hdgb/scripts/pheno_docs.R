@@ -29,7 +29,7 @@ docs_folder <- args[7]
 
 
 # The variable mapping
-source("pipeline_HDGB_compatible/scripts/utils/variables_mapping.R")
+source("src/anthropometrics_hdgb/scripts/utils/variables_mapping.R")
 
 variable_mapping <- read.table(
   file = variables_mapping_file,

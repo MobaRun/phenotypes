@@ -48,9 +48,9 @@ library(grid)
 
 # External functions
 
-source("pipeline_HDGB_compatible/scripts/utils/standardization_functions.R")
-source("pipeline_HDGB_compatible/scripts/utils/standardization_docs_functions.R")
-source("pipeline_HDGB_compatible/scripts/utils/variables_mapping.R")
+source("src/anthropometrics_hdgb/scripts/utils/standardization_functions.R")
+source("src/anthropometrics_hdgb/scripts/utils/standardization_docs_functions.R")
+source("src/anthropometrics_hdgb/scripts/utils/variables_mapping.R")
 
 
 # Currently exclude values after 8y

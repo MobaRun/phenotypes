@@ -70,10 +70,10 @@ exportProfiles <- F
 
 # External functions and variable mapping
 
-source("pipeline_HDGB_compatible/scripts/utils/lw-cleaning-functions.R")
-source("pipeline_HDGB_compatible/scripts/utils/lw-docs-functions.R")
+source("src/anthropometrics_hdgb/scripts/utils/lw-cleaning-functions.R")
+source("src/anthropometrics_hdgb/scripts/utils/lw-docs-functions.R")
 
-source("pipeline_HDGB_compatible/scripts/utils/variables_mapping.R")
+source("src/anthropometrics_hdgb/scripts/utils/variables_mapping.R")
 
 
 # Housekeeping

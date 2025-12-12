@@ -85,7 +85,7 @@ if (!dir.exists(qcFolder)) {
 ## Parameters
 
 # The variable mapping
-source("pipeline_HDGB_compatible/scripts/utils/variables_mapping.R")
+source("src/anthropometrics_hdgb/scripts/utils/variables_mapping.R")
 
 identifiers_mapping <- read.table(
   file = ids_mapping_table,
@@ -1036,37 +1036,6 @@ for (column in c(weight_columns, length_columns, head_circumference_columns)) {
 }
 
 number_values_tables$number_values <- do.call("rbind", n_list)
-
-
-# Exclusion of outliers using five SD
-
-print(paste(Sys.time(), " Exclusion of extreme outliers"))
-
-values <- rawPheno
-
-n_list <- list()
-
-for (column in c(weight_columns, length_columns, head_circumference_columns)) {
-  
-  mean_value <- mean(values[[column]][!is.na(values[[column]]) & !is.na(values$child_sentrix_id)])
-  sd_value <- sd(values[[column]][!is.na(values[[column]]) & !is.na(values$child_sentrix_id)])
-  
-  toExclude <- !is.na(values[[column]]) & (values[[column]] < mean_value - 5 * sd_value | values[[column]] > mean_value + 5 * sd_value)
-  values[[column]][toExclude] <- NA
-  
-  n_df <- data.frame(
-    phenotype = column,
-    n_outliers = sum(toExclude),
-    n_outliers_genotyped = sum(toExclude & !is.na(values$child_sentrix_id)),
-    n_outliers_genotyped_unrelated = sum(toExclude & !is.na(values$child_sentrix_id) & values$unrelated == 1),
-    stringsAsFactors = F
-  )
-  
-  n_list[[length(n_list) + 1]] <- n_df
-  
-}
-
-number_values_tables$number_outliers <- do.call("rbind", n_list)
 
 
 # Impute late breast feeding from earlier values
