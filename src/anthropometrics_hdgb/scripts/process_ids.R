@@ -19,12 +19,13 @@ library(igraph)
 args <- commandArgs(TRUE)
 
 kinship_file <- args[1]
-linkage_preg <- args[2]
-linkage_child <- args[3]
-linkage_mother <- args[4]
-linkage_father <- args[5]
-id_folder <- args[6]
-project_number <- args[7]
+psam_file <- args[2]
+linkage_preg <- args[3]
+linkage_child <- args[4]
+linkage_mother <- args[5]
+linkage_father <- args[6]
+id_folder <- args[7]
+project_number <- args[8]
 
 
 # Debug files
@@ -55,7 +56,8 @@ process_ids <- function(
     related_ids_table,
     fam_id_df,
     export_folder,
-    file_name
+    file_name,
+    population
 ) {
   
   print(paste0(Sys.time(), " - Processing ", file_name))
@@ -83,53 +85,32 @@ process_ids <- function(
   
   
   # Extract unrelated individuals
-#  
-#  unrelated_individuals <- identifiers$sentrix_id[! identifiers$sentrix_id %in% c(population_related_ids_table$ID1, population_related_ids_table$ID2)]
-#  
-#  relatedness_graph <- graph_from_data_frame(
-#    population_related_ids_table,
-#    directed = F
-#  )
-#  
-#  relatedness_components <- components(relatedness_graph)
-#  
-#  for (component_i in 1:relatedness_components$no) {
-#    
-#    component_nodes <- names(relatedness_components$membership)[relatedness_components$membership == component_i]
-#    
-#    unrelated_individuals <- c(unrelated_individuals, sample(component_nodes, 1))
-#    
-#  }
-#
-  ## --- CHANGED START ---
-  # CHANGED: Make graph handling and sampling robust when there are no edges/components.
   
-  # Extract unrelated individuals (no edges)
-  unrelated_individuals <- identifiers$sentrix_id[
-    ! identifiers$sentrix_id %in% c(population_related_ids_table$ID1, population_related_ids_table$ID2)
-  ]
+  unrelated_individuals <- identifiers$sentrix_id[! identifiers$sentrix_id %in% c(population_related_ids_table$ID1, population_related_ids_table$ID2)]
   
-  # Add 1 representative per connected component, but only if there are edges
   if (nrow(population_related_ids_table) > 0) {
+    
     relatedness_graph <- graph_from_data_frame(
       population_related_ids_table,
-      directed = FALSE
+      directed = F
     )
+    
     relatedness_components <- components(relatedness_graph)
     
-    for (component_i in seq_len(relatedness_components$no)) {  # avoid 1:0
-      component_nodes <- names(relatedness_components$membership)[
-        relatedness_components$membership == component_i
-      ]
+    for (component_i in 1:relatedness_components$no) {
+      
+      component_nodes <- names(relatedness_components$membership)[relatedness_components$membership == component_i]
+      
       if (length(component_nodes) > 0) {
+        
         unrelated_individuals <- c(unrelated_individuals, sample(component_nodes, 1))
+        
       }
     }
   }
-  ## --- CHANGED END ---
-    
+  
   identifiers_unrelated <- identifiers[identifiers$sentrix_id %in% unrelated_individuals, ]
-
+  
   print(paste0(Sys.time(), " - Exporting identifiers for ", file_name))
   
   output_file <- file.path(export_folder, file_name)
@@ -176,30 +157,22 @@ process_ids <- function(
     quote = F,
     sep = " "
   )
-
-
-#  sampled_indexes <- sort(sample(x = 1:nrow(identifiers_unrelated), size = min(nrow(identifiers_unrelated), 30000)))
-#  identifiers_unrelated <- identifiers_unrelated[sampled_indexes, ]
-
-## --- CHANGED START ---
-  # CHANGED: Safe 30k sampling (avoid sample() when n == 0)
-  n_unrel <- nrow(identifiers_unrelated)
-  if (n_unrel > 0) {
-    if (n_unrel > 30000) {
-      sampled_indexes <- sort(sample(seq_len(n_unrel), size = 30000))
-    } else {
-      sampled_indexes <- seq_len(n_unrel)
-    }
-    identifiers_unrelated_30k <- identifiers_unrelated[sampled_indexes, ]
-  } else {
-    identifiers_unrelated_30k <- identifiers_unrelated  # empty, same cols
-  }
-  ## --- CHANGED END ---
+  
+  n_unrelated <- nrow(identifiers_unrelated)
+  
+  if (n_unrelated <= 30000) {
     
+    stop(paste0("Less than 30000 unrelated individuals found (", n_unrelated, ") for ", population, "."))
+    
+  }
+  
+  sampled_indexes <- sort(sample(x = 1:nrow(identifiers_unrelated), size = 30000))
+  identifiers_unrelated <- identifiers_unrelated[sampled_indexes, ]
+  
   output_file <- file.path(export_folder, paste0(file_name, "_unrelated_30k"))
   
   write.table(
-    x = identifiers_unrelated_30k,         # was identifiers_unrelated
+    x = identifiers_unrelated,
     file = output_file,
     col.names = T,
     row.names = F,
@@ -208,9 +181,9 @@ process_ids <- function(
   )
   
   output_file <- file.path(export_folder, paste0(file_name, "_unrelated_30k_plink"))
-
+  
   write.table(
-    x = identifiers_unrelated_30k[ , c("family_id", "sentrix_id")],  # was identifiers_unrelated[ , ...]
+    x = identifiers_unrelated[ , c("family_id", "sentrix_id")],
     file = output_file,
     col.names = F,
     row.names = F,
@@ -229,44 +202,26 @@ kinship_df <- read.table(
   stringsAsFactors = F
 )
 
+print(paste0(Sys.time(), " - Loading psam file"))
+
+psam_df <- read.table(
+  file = psam_file,
+  header = F,
+  sep = "\t",
+  stringsAsFactors = F
+)
+names(psam_df) <- c("fid", "iid", "pat", "mat", "sex")
+
+
 # Make list of related individuals
 
-#relatedness_threshold <- min(kinship_df$PropIBD[kinship_df$InfType == "3rd"])
-#
-#related_ids_table <- kinship_df[kinship_df$PropIBD > relatedness_threshold, c("ID1", "ID2")]
+relatedness_threshold <- min(kinship_df$PropIBD[kinship_df$InfType == "3rd"])
 
-## --- CHANGED START ---
-# CHANGED: Your kin file lacks 3rd/4th/UN; select related pairs by InfType directly.
-# This keeps variable names the same and avoids the Inf threshold issue.
-
-related_ids_table <- kinship_df[kinship_df$InfType %in% c("PO", "FS", "2nd", "Dup/MZ"), c("ID1", "ID2")]
-## --- CHANGED END ---
-
+related_ids_table <- kinship_df[kinship_df$PropIBD > relatedness_threshold, c("ID1", "ID2")]
 
 # Get family ids
 
-fam_id_df_1 <- kinship_df[, c("FID", "ID1")]
-names(fam_id_df_1) <- c("fid", "iid")
-fam_id_df_2 <- kinship_df[, c("FID", "ID2")]
-names(fam_id_df_2) <- c("fid", "iid")
-fam_id_df <- rbind(fam_id_df_1, fam_id_df_2) %>% 
-  distinct()
-
-# Sanity check that we have only one family id per individual
-
-fid_n <- fam_id_df %>% 
-  group_by(
-    iid
-  ) %>% 
-  summarize(
-    n = n()
-  )
-
-if (max(fid_n$n) > 1) {
-  
-  stop("More than one family id per individual")
-  
-}
+fam_id_df <- psam_df[, c("fid", "iid")]
 
 
 # Children
@@ -305,13 +260,14 @@ child_linkage_table <- read.table(
     SENTRIX_ID, id
   ) %>% 
   distinct()
-  
+
 process_ids(
-    linkage_table = child_linkage_table,
-    related_ids_table = related_ids_table,
-    fam_id_df = fam_id_df,
-    export_folder = id_folder,
-    file_name = "children_id"
+  linkage_table = child_linkage_table,
+  related_ids_table = related_ids_table,
+  fam_id_df = fam_id_df,
+  export_folder = id_folder,
+  file_name = "children_id",
+  "children"
 )
 
 mother_linkage_table <- read.table(
@@ -332,7 +288,8 @@ process_ids(
   related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
-  file_name = "mothers_id"
+  file_name = "mothers_id",
+  "mothers"
 )
 
 father_linkage_table <- read.table(
@@ -353,7 +310,8 @@ process_ids(
   related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
-  file_name = "fathers_id"
+  file_name = "fathers_id",
+  "fathers"
 )
 
 parents_linkage_table <- rbind(mother_linkage_table, father_linkage_table)
@@ -362,6 +320,7 @@ process_ids(
   related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
-  file_name = "parents_id"
+  file_name = "parents_id",
+  "parents"
 )
 

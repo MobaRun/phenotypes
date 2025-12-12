@@ -4,7 +4,7 @@ import pandas as pd
 
 ##
 #
-# This script processes the raw anthropometric phenotypes of MoBa into text tables and writes documentation, specifically for the HDGB genotype release in terms of now FID identifier. 
+# This script processes the raw anthropometric phenotypes of MoBa into text tables and writes documentation. This script is designed for the HDGB release of genotypes. 
 #
 # Commands to execute from the repository folder:
 # conda activate snakemake
@@ -30,7 +30,7 @@ variables_mapping = "src/anthropometrics_hdgb/scripts/resources/variable_mapping
 identifiers_mapping = "src/anthropometrics_hdgb/scripts/resources/identifiers"
 
 # Files relating to the genotypes
-kinship_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/kinship/moba_genotypes_2025.01.30_withFIDn_clean.kin0"
+kinship_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/kinship/moba_genotypes_2025.09.25_bergomo.kin"
 psam_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/moba_genotypes_2025.09.25_common.psam"
 
 # Raw phenotype files
@@ -217,6 +217,7 @@ rule process_ids:
     'Extracts family and individual ids'
     input:
         kinship_file = kinship_file,
+        psam_file = psam_file,
         preg_id_linkage_raw_table = preg_id_linkage_raw_table,
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
@@ -238,6 +239,7 @@ rule process_ids:
         """
         Rscript src/anthropometrics_hdgb/scripts/process_ids.R \
             {input.kinship_file} \
+            {input.psam_file} \
             {input.preg_id_linkage_raw_table} \
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
