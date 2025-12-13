@@ -32,6 +32,7 @@ identifiers_mapping = "src/anthropometrics_hdgb/scripts/resources/identifiers"
 # Files relating to the genotypes
 kinship_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/kinship/moba_genotypes_2025.09.25_bergomo.kin"
 psam_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/moba_genotypes_2025.09.25_common.psam"
+genotyping_batch_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/batch/moba_genotypes_2025.09.25_batches"
 
 # Raw phenotype files
 linkage_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/linkage"
@@ -256,6 +257,7 @@ rule anthropometrics_raw_cleaning:
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
+        genotyping_batch_file = genotyping_batch_file,
         psam_file = psam_file,
         unrelated_children_ids_file = unrelated_child_id_table,
         variables_mapping = variables_mapping,
@@ -278,6 +280,7 @@ rule anthropometrics_raw_cleaning:
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
             {input.father_id_linkage_raw_table} \
+            {input.genotyping_batch_file} \
             {input.psam_file} \
             {input.unrelated_children_ids_file} \
             {input.variables_mapping} \

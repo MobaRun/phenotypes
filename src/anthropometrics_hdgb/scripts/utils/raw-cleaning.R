@@ -18,14 +18,15 @@ preg_id_linkage_raw_table_path <- args[1]
 child_id_linkage_raw_table_path <- args[2]
 mother_id_linkage_raw_table_path <- args[3]
 father_id_linkage_raw_table_path <- args[4]
-genomics_psam_file_path <- args[5]
-unrelated_children_id_path <- args[6]
-variables_mapping_table <- args[7]
-ids_mapping_table <- args[8]
-raw_phenotypes_tables_folder <- args[9]
-tablesFolder <- args[10]
-qcFolder <- args[11]
-project_number <- args[12]
+batches_file_path <- args[5]
+genomics_psam_file_path <- args[6]
+unrelated_children_id_path <- args[7]
+variables_mapping_table <- args[8]
+ids_mapping_table <- args[9]
+raw_phenotypes_tables_folder <- args[10]
+tablesFolder <- args[11]
+qcFolder <- args[12]
+project_number <- args[13]
 
 
 ##
@@ -120,8 +121,8 @@ pregnancy_duration_max <- 308
 pregnancy_term_min <- 259
 pregnancy_term_max <- 294
 
-#Batch order to prioritize genotypes when samples have been measured in duplicates across batches
-batchOrder <- c("NORMENT_JAN21", "NORMENT_MAI21", "NORMENT_SEP20_R996R1029", "NORMENT-JAN20", "NORMENT-FEB18", "NORMENT-JUN15", "NORMENT-MAY16", "NORMENT-JAN15", "ROTTERDAM1", "ROTTERDAM2", "HARVEST", "TED", "PDB1382_R875_R876")
+# Batch order to prioritize genotypes when samples have been measured in duplicates across batches
+batch_order <- c("snp014", "snp015a", "snp015b", "snp016a", "snp016b", "snp017a", "snp017b", "snp017c", "snp017d", "snp017e", "snp017f", "snp018a", "snp018b", "snp018c", "snp018de", "snp012", "snp011", "snp010", "snp009", "snp008", "snp007", "snp003", "snp002", "snp001")
 
 
 ## Functions
@@ -193,7 +194,6 @@ childIdDF <- read.table(
     rank_siblings = barn_nr,
     preg_id = !!sym(preg_id_column),
     sentrix_id,
-    batch,
     sampletype
   ) %>% 
   mutate(
@@ -221,7 +221,6 @@ motherIdDF <- read.table(
   select(
     mother_id = !!sym(mother_id_column),
     sentrix_id,
-    batch,
     sampletype
   ) %>% 
   filter(
@@ -247,7 +246,6 @@ fatherIdDF <- read.table(
   select(
     father_id = !!sym(father_id_column),
     sentrix_id,
-    batch,
     sampletype
   ) %>% 
   filter(
@@ -265,24 +263,32 @@ idDFLabels <- c("children", "mothers", "fathers")
 idColumns <- c("child_id", "mother_id", "father_id")
 
 
+# Load batches
+
+print(paste0(Sys.time(), "    Handling genotyping batches and removing duplicates"))
+
+batch_table <- read.table(
+  file = batches_file_path,
+  sep = "\t",
+  header = T
+) %>% 
+  rename(
+    sentrix_id == iid
+  )
+
 # Check that all batches are supported
 
-for (i in 1:length(idDFs)) {
+batches <- unique(batch_table$batch)
+missing_batches <- batches[!batches %in% batch_order]
+
+if (length(missing_batches) > 0) {
+
+stop(paste0("Batch not supported: ", paste(missing_batches, collapse = ", ")))
   
-  idDF <- idDFs[[i]]
-  label <- idDFLabels[i]
-  
-  if (sum(!idDF$batch %in% batchOrder) > 0) {
-    
-    missingBatches <- unique(idDF$batch[!idDF$batch %in% batchOrder])
-    
-    stop(paste0("Batch not supported for ", label, ": ", paste(missingBatches, collapse = ", ")))
-    
-  }
 }
 
 
-# Remove duplicates
+# Add batch and remove duplicates between batches
 
 for (i in 1:length(idDFs)) {
   
@@ -291,6 +297,12 @@ for (i in 1:length(idDFs)) {
   idColumn <- idColumns[i]
   
   print(glue("{Sys.time()} - Removing duplicates in {label}"))
+  
+  idDf <- idDF %>% 
+    left_join(
+      batch_table,
+      by = "sentrix_id"
+    )
   
   nBefore <- nrow(idDF)
   
@@ -310,7 +322,7 @@ for (i in 1:length(idDFs)) {
         !!sym(idColumn) == duplicate
       ) %>% 
       mutate(
-        batchFactor = factor(batch, levels = batchOrder)
+        batchFactor = factor(batch, levels = batch_order)
       ) %>% 
       arrange(
         batchFactor
