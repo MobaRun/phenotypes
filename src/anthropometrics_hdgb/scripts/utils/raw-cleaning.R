@@ -19,7 +19,7 @@ child_id_linkage_raw_table_path <- args[2]
 mother_id_linkage_raw_table_path <- args[3]
 father_id_linkage_raw_table_path <- args[4]
 batches_file_path <- args[5]
-genomics_psam_file_path <- args[6]
+psam_file_path <- args[6]
 unrelated_children_id_path <- args[7]
 variables_mapping_table <- args[8]
 ids_mapping_table <- args[9]
@@ -258,10 +258,6 @@ if (sum(is.na(fatherIdDF$sentrix_id)) > 0) {
   
 }
 
-idDFs <- list(childIdDF, motherIdDF, fatherIdDF)
-idDFLabels <- c("children", "mothers", "fathers")
-idColumns <- c("child_id", "mother_id", "father_id")
-
 
 # Load batches
 
@@ -290,6 +286,10 @@ stop(paste0("Batch not supported: ", paste(missing_batches, collapse = ", ")))
 
 # Add batch and remove duplicates between batches
 
+idDFs <- list(childIdDF, motherIdDF, fatherIdDF)
+idDFLabels <- c("children", "mothers", "fathers")
+idColumns <- c("child_id", "mother_id", "father_id")
+
 for (i in 1:length(idDFs)) {
   
   idDF <- idDFs[[i]]
@@ -298,7 +298,7 @@ for (i in 1:length(idDFs)) {
   
   print(glue("{Sys.time()} - Removing duplicates in {label}"))
   
-  idDf <- idDF %>% 
+  idDF <- idDF %>% 
     left_join(
       batch_table,
       by = "sentrix_id"
@@ -370,7 +370,7 @@ print(paste0(Sys.time(), "    Loading familial relationship from psam file"))
 # - accept any whitespace as delimiter
 # - do not require PHENOTYPE (optional in many .psam)
 psamDF <- read.table(
-  file = genomics_psam_file_path,
+  file = psam_file_path,
   header = TRUE,
   sep = "",                 # any whitespace
   stringsAsFactors = FALSE,
