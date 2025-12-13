@@ -273,7 +273,7 @@ batch_table <- read.table(
   header = T
 ) %>% 
   rename(
-    sentrix_id == iid
+    sentrix_id = iid
   )
 
 # Check that all batches are supported
