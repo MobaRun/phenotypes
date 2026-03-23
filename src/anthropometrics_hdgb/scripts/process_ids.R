@@ -24,8 +24,9 @@ linkage_preg <- args[3]
 linkage_child <- args[4]
 linkage_mother <- args[5]
 linkage_father <- args[6]
-id_folder <- args[7]
-project_number <- args[8]
+pca_cluster_file <- args[7]
+id_folder <- args[8]
+project_number <- args[9]
 
 
 # Debug files
@@ -202,6 +203,15 @@ kinship_df <- read.table(
   stringsAsFactors = F
 )
 
+print(paste0(Sys.time(), " - Loading PCA clusters"))
+
+pca_cluster_df <- read.table(
+  file = pca_cluster_file,
+  header = T,
+  sep = "\t",
+  stringsAsFactors = F
+)
+
 print(paste0(Sys.time(), " - Loading psam file"))
 
 psam_df <- read.table(
@@ -222,6 +232,17 @@ related_ids_table <- kinship_df[kinship_df$PropIBD > relatedness_threshold, c("I
 # Get family ids
 
 fam_id_df <- psam_df[, c("fid", "iid")]
+
+
+# Identifiers from participants in the CEU cluster
+
+ceu_ids <- pca_cluster_df %>% 
+  filter(
+    pop_inference == "EUR_core" | pop_inference == "EUR"
+  ) %>% 
+  pull(
+    iid
+  )
 
 
 # Children
@@ -270,6 +291,20 @@ process_ids(
   "children"
 )
 
+child_linkage_table_ceu <- child_linkage_table %>% 
+  filter(
+    SENTRIX_ID %in% ceu_ids
+  )
+
+process_ids(
+  linkage_table = child_linkage_table,
+  related_ids_table = related_ids_table,
+  fam_id_df = fam_id_df,
+  export_folder = id_folder,
+  file_name = "children_id_ceu",
+  "children_ceu"
+)
+
 mother_linkage_table <- read.table(
   file = linkage_mother,
   sep = "\t", 
@@ -290,6 +325,20 @@ process_ids(
   export_folder = id_folder,
   file_name = "mothers_id",
   "mothers"
+)
+
+mother_linkage_table <- mother_linkage_table %>% 
+  filter(
+    SENTRIX_ID %in% ceu_ids
+  )
+
+process_ids(
+  linkage_table = mother_linkage_table,
+  related_ids_table = related_ids_table,
+  fam_id_df = fam_id_df,
+  export_folder = id_folder,
+  file_name = "mothers_id_ceu",
+  "mothers_ceu"
 )
 
 father_linkage_table <- read.table(
@@ -314,7 +363,22 @@ process_ids(
   "fathers"
 )
 
+father_linkage_table <- father_linkage_table %>% 
+  filter(
+    SENTRIX_ID %in% ceu_ids
+  )
+
+process_ids(
+  linkage_table = father_linkage_table,
+  related_ids_table = related_ids_table,
+  fam_id_df = fam_id_df,
+  export_folder = id_folder,
+  file_name = "fathers_id_ceu",
+  "fathers_ceu"
+)
+
 parents_linkage_table <- rbind(mother_linkage_table, father_linkage_table)
+
 process_ids(
   linkage_table = parents_linkage_table,
   related_ids_table = related_ids_table,
@@ -322,5 +386,19 @@ process_ids(
   export_folder = id_folder,
   file_name = "parents_id",
   "parents"
+)
+
+parents_linkage_table <- parents_linkage_table %>% 
+  filter(
+    SENTRIX_ID %in% ceu_ids
+  )
+
+process_ids(
+  linkage_table = parents_linkage_table,
+  related_ids_table = related_ids_table,
+  fam_id_df = fam_id_df,
+  export_folder = id_folder,
+  file_name = "parents_id_ceu",
+  "parents_ceu"
 )
 

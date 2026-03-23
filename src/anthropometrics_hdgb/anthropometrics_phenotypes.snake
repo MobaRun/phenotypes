@@ -31,6 +31,7 @@ identifiers_mapping = "src/anthropometrics_hdgb/scripts/resources/identifiers"
 
 # Files relating to the genotypes
 kinship_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/kinship/moba_genotypes_2025.09.25_bergomo.kin"
+pca_cluster_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/pca/moba_genotypes_2025.09.25_clusters"
 psam_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/moba_genotypes_2025.09.25_common.psam"
 genotyping_batch_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/batch/moba_genotypes_2025.09.25_batches"
 
