@@ -224,6 +224,7 @@ rule process_ids:
         child_id_linkage_raw_table = child_id_linkage_raw_table,
         mother_id_linkage_raw_table = mother_id_linkage_raw_table,
         father_id_linkage_raw_table = father_id_linkage_raw_table,
+        pca_cluster_file = pca_cluster_file,
         id_folder = id_folder
     params:
         moba_project_number = moba_project_number
@@ -246,6 +247,7 @@ rule process_ids:
             {input.child_id_linkage_raw_table} \
             {input.mother_id_linkage_raw_table} \
             {input.father_id_linkage_raw_table} \
+            {input.pca_cluster_file} \
             {input.id_folder} \
             {params.moba_project_number}
         """
