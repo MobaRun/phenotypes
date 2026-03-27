@@ -1,7 +1,7 @@
 # Anthropometric traits
 Phenotype analysis pipeline for anthropometric traits in the [Norwegian Mother, Father and Child Cohort Study (MoBa)](fhi.no/en/studies/moba).
 ### Current release
-- [25-12-12_HDGB_compatible](25-12-12_HDGB_compatible/README.md)
+- [26-03-23_hdgb](26-03-23_hdgb/README.md)
 #### Previous releases
 - [23-05-28](23-05-28)
 - [23-07-12](23-07-12)
@@ -18,3 +18,5 @@ Phenotype analysis pipeline for anthropometric traits in the [Norwegian Mother, 
 - [25-06-10](25-06-10)
 - [25-06-26](25-06-26)
 - [25-11-17](25-11-17)
+- [25-12-12_hdgb](25-12-12_hdgb)
+- [25-12-12_HDGB_compatible](25-12-12_HDGB_compatible)
