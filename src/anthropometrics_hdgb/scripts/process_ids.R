@@ -297,7 +297,7 @@ child_linkage_table_ceu <- child_linkage_table %>%
   )
 
 process_ids(
-  linkage_table = child_linkage_table,
+  linkage_table = child_linkage_table_ceu,
   related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
@@ -327,13 +327,13 @@ process_ids(
   "mothers"
 )
 
-mother_linkage_table <- mother_linkage_table %>% 
+mother_linkage_table_ceu <- mother_linkage_table %>% 
   filter(
     SENTRIX_ID %in% ceu_ids
   )
 
 process_ids(
-  linkage_table = mother_linkage_table,
+  linkage_table = mother_linkage_table_ceu,
   related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
@@ -363,13 +363,13 @@ process_ids(
   "fathers"
 )
 
-father_linkage_table <- father_linkage_table %>% 
+father_linkage_table_ceu <- father_linkage_table %>% 
   filter(
     SENTRIX_ID %in% ceu_ids
   )
 
 process_ids(
-  linkage_table = father_linkage_table,
+  linkage_table = father_linkage_table_ceu,
   related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
@@ -388,13 +388,10 @@ process_ids(
   "parents"
 )
 
-parents_linkage_table <- parents_linkage_table %>% 
-  filter(
-    SENTRIX_ID %in% ceu_ids
-  )
+parents_linkage_table_ceu <- rbind(mother_linkage_table_ceu, father_linkage_table_ceu)
 
 process_ids(
-  linkage_table = parents_linkage_table,
+  linkage_table = parents_linkage_table_ceu,
   related_ids_table = related_ids_table,
   fam_id_df = fam_id_df,
   export_folder = id_folder,
