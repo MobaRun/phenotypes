@@ -159,6 +159,7 @@ BARN_NR
 | -------- | - |
 | 1 | 487 |
 | 2 | 4 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -170,6 +171,7 @@ BARN_NR
 | WFDELTAKER_C | 182 |
 | WFDELTAKER_B | 218 |
 | WFDELTAKER_A | 91 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -180,6 +182,7 @@ QWFDC_2_1_1:WFDELTAKER_C; (QWFDB_2_1_1:WFDELTAKER_B); (QWFD_2_1_1:WFDELTAKER_A);
 | Category | n |
 | -------- | - |
 | 1 | 205 |
+| Not NA | 205 |
 | NA | 286 |
 
 
@@ -190,6 +193,7 @@ QWFDC_2_1_2:WFDELTAKER_C; (QWFDB_2_1_2:WFDELTAKER_B); (QWFD_2_1_2:WFDELTAKER_A);
 | Category | n |
 | -------- | - |
 | 1 | 145 |
+| Not NA | 145 |
 | NA | 346 |
 
 
@@ -200,6 +204,7 @@ QWFDC_2_1_3:WFDELTAKER_C; (QWFDB_2_1_3:WFDELTAKER_B); (QWFD_2_1_3:WFDELTAKER_A);
 | Category | n |
 | -------- | - |
 | 1 | 41 |
+| Not NA | 41 |
 | NA | 450 |
 
 
@@ -210,6 +215,7 @@ QWFDC_2_1_4:WFDELTAKER_C; (QWFDB_2_1_4:WFDELTAKER_B); (QWFD_2_1_4:WFDELTAKER_A);
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 483 |
 
 
@@ -220,6 +226,7 @@ QWFDC_2_1_5:WFDELTAKER_C; (QWFDB_2_1_5:WFDELTAKER_B); (QWFD_2_1_5:WFDELTAKER_A);
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 475 |
 
 
@@ -230,6 +237,7 @@ QWFDC_2_1_6:WFDELTAKER_C; (QWFDB_2_1_6:WFDELTAKER_B); (QWFD_2_1_6:WFDELTAKER_A);
 | Category | n |
 | -------- | - |
 | 1 | 59 |
+| Not NA | 59 |
 | NA | 432 |
 
 
@@ -240,6 +248,7 @@ QWFDC_2_1_7:WFDELTAKER_C; (QWFDB_2_1_7:WFDELTAKER_B); (QWFD_2_1_7:WFDELTAKER_A);
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 488 |
 
 
@@ -250,6 +259,7 @@ QWFDC_2_1_8:WFDELTAKER_C; (QWFDB_2_1_8:WFDELTAKER_B); (QWFD_2_1_8:WFDELTAKER_A);
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 488 |
 
 
@@ -260,6 +270,7 @@ QWFDC_2_1_9:WFDELTAKER_C; (QWFDB_2_1_9:WFDELTAKER_B); (QWFD_2_1_9:WFDELTAKER_A);
 | Category | n |
 | -------- | - |
 | 1 | 55 |
+| Not NA | 55 |
 | NA | 436 |
 
 
@@ -270,6 +281,7 @@ QWFDC_2_1_10:WFDELTAKER_C; (QWFDB_2_1_10:WFDELTAKER_B); (QWFD_2_1_10:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 61 |
+| Not NA | 61 |
 | NA | 430 |
 
 
@@ -280,6 +292,7 @@ QWFDC_2_1_11:WFDELTAKER_C; (QWFDB_2_1_11:WFDELTAKER_B); (QWFD_2_1_11:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 490 |
 
 
@@ -290,6 +303,7 @@ QWFDC_2_1_12:WFDELTAKER_C; (QWFDB_2_1_12:WFDELTAKER_B); (QWFD_2_1_12:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 487 |
 
 
@@ -300,6 +314,7 @@ QWFDC_2_1_13:WFDELTAKER_C; (QWFDB_2_1_13:WFDELTAKER_B); (QWFD_2_1_13:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 480 |
 
 
@@ -310,6 +325,7 @@ QWFDC_3_1:WFDELTAKER_C; (QWFDB_3_1:WFDELTAKER_B); (QWFD_3_1:WFDELTAKER_A); JEG B
 | Category | n |
 | -------- | - |
 | 1 | 32 |
+| Not NA | 32 |
 | NA | 459 |
 
 
@@ -319,6 +335,7 @@ QWFDC_3_2:WFDELTAKER_C; (QWFDB_3_2:WFDELTAKER_B); (QWFD_3_2:WFDELTAKER_A); JEG B
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -329,6 +346,7 @@ QWFDC_3_3:WFDELTAKER_C; (QWFDB_3_3:WFDELTAKER_B); (QWFD_3_3:WFDELTAKER_A); JEG B
 | Category | n |
 | -------- | - |
 | 1 | 55 |
+| Not NA | 55 |
 | NA | 436 |
 
 
@@ -339,6 +357,7 @@ QWFDC_3_4:WFDELTAKER_C; (QWFDB_3_4:WFDELTAKER_B); (QWFD_3_4:WFDELTAKER_A); JEG B
 | Category | n |
 | -------- | - |
 | 1 | 269 |
+| Not NA | 269 |
 | NA | 222 |
 
 
@@ -349,6 +368,7 @@ QWFDC_3_5:WFDELTAKER_C; (QWFDB_3_5:WFDELTAKER_B); (QWFD_3_5:WFDELTAKER_A); JEG B
 | Category | n |
 | -------- | - |
 | 1 | 137 |
+| Not NA | 137 |
 | NA | 354 |
 
 
@@ -359,6 +379,7 @@ QWFD_3_6:WFDELTAKER_A; JEG BOR MED VENNER; 3. BOSITUASJON, SETT ETT ELLER FLERE 
 | Category | n |
 | -------- | - |
 | 1 | 28 |
+| Not NA | 28 |
 | NA | 463 |
 
 
@@ -369,6 +390,7 @@ QWFDC_3_7:WFDELTAKER_C; (QWFDB_3_7:WFDELTAKER_B); (QWFD_3_7:WFDELTAKER_A); JEG B
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 489 |
 
 
@@ -379,6 +401,7 @@ QWFDC_3_8:WFDELTAKER_C; (QWFDB_3_8:WFDELTAKER_B); (QWFD_3_8:WFDELTAKER_A); JEG B
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 477 |
 
 
@@ -389,6 +412,7 @@ QWFDC_3_6:WFDELTAKER_C; (QWFDB_3_6:WFDELTAKER_B); Jeg bor med venner/kollektiv/k
 | Category | n |
 | -------- | - |
 | 1 | 104 |
+| Not NA | 104 |
 | NA | 387 |
 
 
@@ -403,6 +427,7 @@ QWFDC_4_1:WFDELTAKER_C; (QWFDB_4_1:WFDELTAKER_B); (QWFD_4_1:WFDELTAKER_A); ; 4. 
 | VIDEREGÅENDE (YRKESFAGLIG) | 55 |
 | HØYSKOLE/UNIVERSITET OPPTIL 4 ÅR | 10 |
 | Annet | 1 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -417,6 +442,7 @@ QWFDC_5_1:WFDELTAKER_C; (QWFDB_5_1:WFDELTAKER_B); (QWFD_5_1:WFDELTAKER_A); ; 5. 
 | VIDEREGÅENDE (YRKESFAGLIG) | 43 |
 | HØYSKOLE/UNIVERSITET 4 ÅR | 124 |
 | Annet | 16 |
+| Not NA | 486 |
 | NA | 5 |
 
 
@@ -431,6 +457,7 @@ QWFDC_6:WFDELTAKER_C; (QWFDB_6:WFDELTAKER_B); (QWFD_6:WFDELTAKER_A); ; 6. HVA VA
 | 300 - 399.999 KR. | 9 |
 | Vet ikke | 6 |
 | 400 - 499.999 KR. | 6 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -452,6 +479,7 @@ QWFDC_7:WFDELTAKER_C; (QWFDB_7:WFDELTAKER_B); (QWFD_7:WFDELTAKER_A); ; 7. HVA VA
 | 300 - 399.999 KR. | 27 |
 | Ingen inntekt | 5 |
 | IKKE AKTUELT | 4 |
+| Not NA | 481 |
 | NA | 10 |
 
 
@@ -473,6 +501,7 @@ QWFDC_8:WFDELTAKER_C; (QWFDB_8:WFDELTAKER_B); (QWFD_8:WFDELTAKER_A); ; 8. HVA VA
 | 300 - 399.999 KR. | 11 |
 | IKKE AKTUELT | 12 |
 | Ingen inntekt | 4 |
+| Not NA | 481 |
 | NA | 10 |
 
 
@@ -484,6 +513,7 @@ QWFDC_9_1:WFDELTAKER_C; (QWFDB_9_1:WFDELTAKER_B); (QWFD_9_1:WFDELTAKER_A); ØKON
 | -------- | - |
 | Ja | 47 |
 | Nei | 443 |
+| Not NA | 490 |
 | NA | 1 |
 
 
@@ -495,6 +525,7 @@ QWFDC_9_2:WFDELTAKER_C; (QWFDB_9_2:WFDELTAKER_B); (QWFD_9_2:WFDELTAKER_A); KONFL
 | -------- | - |
 | Nei | 381 |
 | Ja | 108 |
+| Not NA | 489 |
 | NA | 2 |
 
 
@@ -506,6 +537,7 @@ QWFDC_9_3:WFDELTAKER_C; (QWFDB_9_3:WFDELTAKER_B); (QWFD_9_3:WFDELTAKER_A); FOREL
 | -------- | - |
 | Nei | 367 |
 | Ja | 124 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -517,6 +549,7 @@ QWFDC_9_4:WFDELTAKER_C; (QWFDB_9_4:WFDELTAKER_B); (QWFD_9_4:WFDELTAKER_A); LANGV
 | -------- | - |
 | Ja | 57 |
 | Nei | 431 |
+| Not NA | 488 |
 | NA | 3 |
 
 
@@ -528,6 +561,7 @@ QWFDC_9_5:WFDELTAKER_C; (QWFDB_9_5:WFDELTAKER_B); (QWFD_9_5:WFDELTAKER_A); PROBL
 | -------- | - |
 | Ja | 97 |
 | Nei | 392 |
+| Not NA | 489 |
 | NA | 2 |
 
 
@@ -547,6 +581,7 @@ QWFDC_11:WFDELTAKER_C; (QWFDB_11:WFDELTAKER_B); (QWFD_11:WFDELTAKER_A); ALDER I 
 | HUSKER IKKE | 3 |
 | 9 ÅR | 8 |
 | IKKE FÅTT MENSTRUASJON | 1 |
+| Not NA | 490 |
 | NA | 1 |
 
 
@@ -569,6 +604,7 @@ QWFDC_11_1:WFDELTAKER_C; (QWFDB_11_1:WFDELTAKER_B); (QWFD_11_1:WFDELTAKER_A); MN
 | 3 MÅNEDER | 39 |
 | 9 MÅNEDER | 20 |
 | 8 MÅNEDER | 33 |
+| Not NA | 465 |
 | NA | 26 |
 
 
@@ -582,6 +618,7 @@ QWFD_12:WFDELTAKER_A; ; 12. HAR DU SMERTER OMKRING MENSTRUASJON?
 | JEG HAR SÅ VONDT AT JEG MÅ REDUSERE VANLIG DAGLIG AKTIVITET (MEN ER IKKE SENGELIGGENDE!) | 29 |
 | JEG HAR IKKE VONDT | 16 |
 | JEG HAR SÅ VONDT AT JEG OFTE ER SENGELIGGENDE | 2 |
+| Not NA | 91 |
 | NA | 400 |
 
 
@@ -595,6 +632,7 @@ QWFD_13:WFDELTAKER_A; ; 13. BRUKER DU SMERTESTILLENDE I FORBINDELSE MED MENSTRUA
 | Ofte | 12 |
 | HVER GANG | 14 |
 | Aldri/sjelden | 29 |
+| Not NA | 91 |
 | NA | 400 |
 
 
@@ -606,6 +644,7 @@ QWFD_14:WFDELTAKER_A; ; 14. HAR DU REGELMESSIG MENSTRUASJON?
 | -------- | - |
 | Ja | 60 |
 | Nei | 31 |
+| Not NA | 91 |
 | NA | 400 |
 
 
@@ -658,6 +697,7 @@ QWFD_14_1:WFDELTAKER_A; ; 14. HVOR MANGE DAGER GÅR DET VANLIGVIS MELLOM TO MENS
 | 40 | 0 |
 | MER ENN 40 | 11 |
 | NA's | 400 |
+| Not NA | 91 |
 
 
 ### WD208
@@ -670,6 +710,7 @@ QWFDC_12:WFDELTAKER_C; (QWFDB_12:WFDELTAKER_B); Bruker du smertestillende i forb
 | Aldri/sjelden | 127 |
 | Noen ganger | 142 |
 | Ofte | 69 |
+| Not NA | 399 |
 | NA | 92 |
 
 
@@ -683,6 +724,7 @@ QWFDC_13:WFDELTAKER_C; (QWFDB_13:WFDELTAKER_B); Har du smerter omkring menstruas
 | JEG HAR IKKE VONDT | 65 |
 | JEG HAR SÅ VONDT AT JEG MÅ REDUSERE VANLIG DAGLIG AKTIVITET (MEN ER IKKE SENGELIGGENDE!) | 136 |
 | JEG HAR SÅ VONDT AT JEG OFTE ER SENGELIGGENDE | 32 |
+| Not NA | 398 |
 | NA | 93 |
 
 
@@ -696,6 +738,7 @@ QWFDC_13_1:WFDELTAKER_C; (QWFDB_13_1:WFDELTAKER_B); Har du smerter omkring menst
 | JEG HAR VONDT, MEN KAN VÆRE I VANLIG DAGLIG AKTIVITET | 191 |
 | JEG HAR SÅ VONDT AT JEG MÅ REDUSERE VANLIG DAGLIG AKTIVITET (MEN ER IKKE SENGELIGGENDE!) | 27 |
 | JEG HAR SÅ VONDT AT JEG OFTE ER SENGELIGGENDE | 1 |
+| Not NA | 393 |
 | NA | 98 |
 
 
@@ -707,6 +750,7 @@ QWFDC_14:WFDELTAKER_C; (QWFDB_14:WFDELTAKER_B); Har du regelmessig menstruasjon?
 | -------- | - |
 | Ja | 299 |
 | Nei | 96 |
+| Not NA | 395 |
 | NA | 96 |
 
 
@@ -764,6 +808,7 @@ QWFDC_14_1:WFDELTAKER_C; (QWFDB_14_1:WFDELTAKER_B); Hvor mange dager går det va
 | 45 | 2 |
 | MER ENN 45 DAGER | 17 |
 | NA's | 97 |
+| Not NA | 394 |
 
 
 ### WD_DAYS_SINCE_LMP
@@ -779,6 +824,7 @@ WFDELTAKER_C;(WFDELTAKER_B);(WFDELTAKER_A);Generated variable; Number of days be
 | 3rd Qu. | 4 |
 | Max. | 2628 |
 | NA's | 5 |
+| Not NA | 486 |
 
 
 ### WD54
@@ -789,6 +835,7 @@ QWFDC_15:WFDELTAKER_C; (QWFDB_15:WFDELTAKER_B); (QWFD_15:WFDELTAKER_A); ; 15. HA
 | -------- | - |
 | Nei | 298 |
 | Ja | 193 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -804,6 +851,7 @@ QWFD_16:WFDELTAKER_A; ; 16. Hvor mange seksualpartnere har du hatt i løpet av l
 | 8-10 | 5 |
 | 2-4 | 22 |
 | 5-7 | 11 |
+| Not NA | 91 |
 | NA | 400 |
 
 
@@ -822,6 +870,7 @@ QWFD_16_1:WFDELTAKER_A; HVOR GAMMEL VAR DU DA DU DEBUTERTE SEKSUELT?(HVIS ANTALL
 | 14 år | 9 |
 | 17 år | 12 |
 | 13 år | 1 |
+| Not NA | 72 |
 | NA | 419 |
 
 
@@ -832,6 +881,7 @@ QWFDC_17_1_1:WFDELTAKER_C; (QWFDB_17_1_1:WFDELTAKER_B); (QWFD_17_1_1:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 240 |
+| Not NA | 240 |
 | NA | 251 |
 
 
@@ -842,6 +892,7 @@ QWFDC_17_1_2:WFDELTAKER_C; (QWFDB_17_1_2:WFDELTAKER_B); (QWFD_17_1_2:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 44 |
+| Not NA | 44 |
 | NA | 447 |
 
 
@@ -852,6 +903,7 @@ QWFDC_17_1_3:WFDELTAKER_C; (QWFDB_17_1_3:WFDELTAKER_B); (QWFD_17_1_3:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 481 |
 
 
@@ -862,6 +914,7 @@ QWFDC_17_1_4:WFDELTAKER_C; (QWFDB_17_1_4:WFDELTAKER_B); (QWFD_17_1_4:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 128 |
+| Not NA | 128 |
 | NA | 363 |
 
 
@@ -872,6 +925,7 @@ QWFDC_17_1_5:WFDELTAKER_C; (QWFDB_17_1_5:WFDELTAKER_B); (QWFD_17_1_5:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 486 |
 
 
@@ -881,6 +935,7 @@ QWFDC_17_1_6:WFDELTAKER_C; (QWFDB_17_1_6:WFDELTAKER_B); (QWFD_17_1_6:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -891,6 +946,7 @@ QWFDC_17_1_7:WFDELTAKER_C; (QWFDB_17_1_7:WFDELTAKER_B); (QWFD_17_1_7:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 183 |
+| Not NA | 183 |
 | NA | 308 |
 
 
@@ -901,6 +957,7 @@ QWFDC_17_1_8:WFDELTAKER_C; (QWFDB_17_1_8:WFDELTAKER_B); (QWFD_17_1_8:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 481 |
 
 
@@ -911,6 +968,7 @@ QWFDC_17_1_9:WFDELTAKER_C; (QWFDB_17_1_9:WFDELTAKER_B); (QWFD_17_1_9:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 1 | 47 |
+| Not NA | 47 |
 | NA | 444 |
 
 
@@ -921,6 +979,7 @@ QWFDC_17_1_10:WFDELTAKER_C; (QWFDB_17_1_10:WFDELTAKER_B); (QWFD_17_1_10:WFDELTAK
 | Category | n |
 | -------- | - |
 | 1 | 133 |
+| Not NA | 133 |
 | NA | 358 |
 
 
@@ -931,6 +990,7 @@ QWFDC_17_1_11:WFDELTAKER_C; (QWFDB_17_1_11:WFDELTAKER_B); (QWFD_17_1_11:WFDELTAK
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 477 |
 
 
@@ -951,6 +1011,7 @@ QWFDC_16:WFDELTAKER_C; (QWFDB_16:WFDELTAKER_B); ; 16. Hvor mange seksualpartnere
 | 17 - 20 | 7 |
 | ØNSKER IKKE SVARE | 3 |
 | MER ENN 25 | 2 |
+| Not NA | 399 |
 | NA | 92 |
 
 
@@ -971,6 +1032,7 @@ QWFDC_16_1:WFDELTAKER_C; (QWFDB_16_1:WFDELTAKER_B); Hvor gammel var du da du deb
 | 12 år | 2 |
 | VIL IKKE SVARE | 1 |
 | 21 ÅR | 1 |
+| Not NA | 299 |
 | NA | 192 |
 
 
@@ -982,6 +1044,7 @@ QWFDC_16_2:WFDELTAKER_C; (QWFDB_16_2:WFDELTAKER_B); Pleier du å ha smerter ved 
 | -------- | - |
 | Nei | 238 |
 | Ja | 61 |
+| Not NA | 299 |
 | NA | 192 |
 
 
@@ -992,6 +1055,7 @@ QWFDC_16_3_1:WFDELTAKER_C; (QWFDB_16_3_1:WFDELTAKER_B); Ytterst ved skjedeåpnin
 | Category | n |
 | -------- | - |
 | 1 | 25 |
+| Not NA | 25 |
 | NA | 466 |
 
 
@@ -1002,6 +1066,7 @@ QWFDC_16_3_2:WFDELTAKER_C; (QWFDB_16_3_2:WFDELTAKER_B); Sviende smerter innover 
 | Category | n |
 | -------- | - |
 | 1 | 12 |
+| Not NA | 12 |
 | NA | 479 |
 
 
@@ -1012,6 +1077,7 @@ QWFDC_16_3_3:WFDELTAKER_C; (QWFDB_16_3_3:WFDELTAKER_B); Dype smerter innerst i s
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 455 |
 
 
@@ -1022,6 +1088,7 @@ QWFDC_16_3_4:WFDELTAKER_C; (QWFDB_16_3_4:WFDELTAKER_B); Andre smerter. Hva slags
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 486 |
 
 
@@ -1036,6 +1103,7 @@ M5075887_QWFDC_19_1_1:WFDELTAKER_C; (QWFDB_19_1_1:WFDELTAKER_B); (QWFD_19_1_1:WF
 | IKKE BRUKT SISTE MÅNED | 69 |
 | HVER UKE, MEN IKKE DAGLIG | 62 |
 | Daglig | 1 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -1050,6 +1118,7 @@ M5075887_QWFDC_19_1_2:WFDELTAKER_C; (QWFDB_19_1_2:WFDELTAKER_B); (QWFD_19_1_2:WF
 | HVER UKE, MEN IKKE DAGLIG | 7 |
 | SJELDNERE ENN HVER UKE | 48 |
 | Daglig | 2 |
+| Not NA | 489 |
 | NA | 2 |
 
 
@@ -1064,6 +1133,7 @@ M5075887_QWFDC_19_1_3:WFDELTAKER_C; (QWFDB_19_1_3:WFDELTAKER_B); (QWFD_19_1_3:WF
 | IKKE BRUKT SISTE MÅNED | 114 |
 | SJELDNERE ENN HVER UKE | 20 |
 | HVER UKE, MEN IKKE DAGLIG | 5 |
+| Not NA | 488 |
 | NA | 3 |
 
 
@@ -1078,6 +1148,7 @@ M5075887_QWFDC_19_1_4:WFDELTAKER_C; (QWFDB_19_1_4:WFDELTAKER_B); (QWFD_19_1_4:WF
 | HVER UKE, MEN IKKE DAGLIG | 21 |
 | Daglig | 43 |
 | SJELDNERE ENN HVER UKE | 19 |
+| Not NA | 489 |
 | NA | 2 |
 
 
@@ -1092,6 +1163,7 @@ M5075887_QWFDC_19_1_5:WFDELTAKER_C; (QWFDB_19_1_5:WFDELTAKER_B); (QWFD_19_1_5:WF
 | SJELDNERE ENN HVER UKE | 7 |
 | Daglig | 14 |
 | HVER UKE, MEN IKKE DAGLIG | 11 |
+| Not NA | 488 |
 | NA | 3 |
 
 
@@ -1106,6 +1178,7 @@ M5075887_QWFDC_19_1_6:WFDELTAKER_C; (QWFDB_19_1_6:WFDELTAKER_B); (QWFD_19_1_6:WF
 | IKKE BRUKT SISTE MÅNED | 83 |
 | SJELDNERE ENN HVER UKE | 25 |
 | HVER UKE, MEN IKKE DAGLIG | 14 |
+| Not NA | 488 |
 | NA | 3 |
 
 
@@ -1120,6 +1193,7 @@ M5075887_QWFDC_19_1_7:WFDELTAKER_C; (QWFDB_19_1_7:WFDELTAKER_B); (QWFD_19_1_7:WF
 | HVER UKE, MEN IKKE DAGLIG | 1 |
 | SJELDNERE ENN HVER UKE | 6 |
 | Daglig | 4 |
+| Not NA | 488 |
 | NA | 3 |
 
 
@@ -1134,6 +1208,7 @@ M5075887_QWFDC_19_1_8:WFDELTAKER_C; (QWFDB_19_1_8:WFDELTAKER_B); (QWFD_19_1_8:WF
 | IKKE BRUKT SISTE MÅNED | 74 |
 | HVER UKE, MEN IKKE DAGLIG | 2 |
 | SJELDNERE ENN HVER UKE | 1 |
+| Not NA | 488 |
 | NA | 3 |
 
 
@@ -1148,6 +1223,7 @@ M5075887_QWFDC_19_1_9:WFDELTAKER_C; (QWFDB_19_1_9:WFDELTAKER_B); (QWFD_19_1_9:WF
 | IKKE BRUKT SISTE MÅNED | 96 |
 | SJELDNERE ENN HVER UKE | 17 |
 | HVER UKE, MEN IKKE DAGLIG | 8 |
+| Not NA | 488 |
 | NA | 3 |
 
 
@@ -1161,6 +1237,7 @@ QWFD_21:WFDELTAKER_A; ; 21. VIL DU HA BARN?
 | Nei | 7 |
 | Ja | 66 |
 | HAR ALLEREDE BARN | 1 |
+| Not NA | 91 |
 | NA | 400 |
 
 
@@ -1174,6 +1251,7 @@ QWFD_22_1:WFDELTAKER_A; Fast jobb. Hva mener du må på plass før du får barn?
 | Litt enig | 20 |
 | Verken eller | 4 |
 | Litt uenig | 1 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1188,6 +1266,7 @@ QWFD_22_2:WFDELTAKER_A; Bo nær familie. Hva mener du må på plass før du får
 | Verken eller | 22 |
 | ENIG | 11 |
 | UENIG | 3 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1200,6 +1279,7 @@ QWFD_22_3:WFDELTAKER_A; Et forhold jeg tror vil vare. Hva mener du må på plass
 | ENIG | 60 |
 | Litt enig | 5 |
 | Verken eller | 1 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1214,6 +1294,7 @@ QWFD_22_4:WFDELTAKER_A; Avsluttet utdanning. Hva mener du må på plass før du 
 | Verken eller | 10 |
 | UENIG | 3 |
 | Litt uenig | 1 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1228,6 +1309,7 @@ QWFD_22_5:WFDELTAKER_A; Eie bolig. Hva mener du må på plass før du får barn?
 | Verken eller | 16 |
 | UENIG | 2 |
 | Litt uenig | 3 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1242,6 +1324,7 @@ QWFD_22_6:WFDELTAKER_A; At flere i min vennekrets har fått barn. Hva mener du m
 | Verken eller | 27 |
 | Litt uenig | 12 |
 | ENIG | 1 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1256,6 +1339,7 @@ QWFD_22_7:WFDELTAKER_A; At jeg har fått utrettet noe av betydning jeg ønsker p
 | ENIG | 14 |
 | Litt uenig | 5 |
 | UENIG | 4 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1268,6 +1352,7 @@ QWFD_23_1:WFDELTAKER_A; Jeg vil ha partner før jeg får barn. Ta stilling til f
 | ENIG | 59 |
 | Litt enig | 6 |
 | Verken eller | 1 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1282,6 +1367,7 @@ QWFD_23_2:WFDELTAKER_A; Jeg kunne tenke meg å få barn som enslig. Ta stilling 
 | Litt enig | 4 |
 | Litt uenig | 7 |
 | ENIG | 1 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1296,6 +1382,7 @@ QWFD_23_3:WFDELTAKER_A; Barn er noe jeg får etter jeg har gjort meg ferdig med 
 | Verken eller | 14 |
 | UENIG | 5 |
 | Litt uenig | 15 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1310,6 +1397,7 @@ QWFD_23_4:WFDELTAKER_A; Jeg kunne tenke meg å fryse ned eggene mine. Ta stillin
 | UENIG | 8 |
 | ENIG | 8 |
 | Litt uenig | 6 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1324,6 +1412,7 @@ QWFD_23_5:WFDELTAKER_A; Det er best for barn å vokse opp med biologisk mor og b
 | Verken eller | 32 |
 | Litt enig | 6 |
 | ENIG | 3 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1338,6 +1427,7 @@ QWFD_23_6:WFDELTAKER_A; Ekteskapet er en umoderne samlivsform. Ta stilling til f
 | Litt uenig | 12 |
 | Litt enig | 3 |
 | ENIG | 1 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1359,6 +1449,7 @@ QWFD_24:WFDELTAKER_A; Hva er en passende alder for deg for å få ditt første b
 | 28 ÅR | 9 |
 | 23 ÅR | 5 |
 | 21 ÅR | 1 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1371,6 +1462,7 @@ QWFD_25:WFDELTAKER_A; Du har kanskje allerede nå noen ideer eller tanker om hvo
 | Ja | 61 |
 | Usikker | 3 |
 | Nei | 2 |
+| Not NA | 66 |
 | NA | 425 |
 
 
@@ -1384,6 +1476,7 @@ QWFD_25_1:WFDELTAKER_A; Oppgi hvor mange barn du vil ha (Hvis ja, har tanker om 
 | 3 | 29 |
 | 4 | 5 |
 | 1 | 1 |
+| Not NA | 61 |
 | NA | 430 |
 
 
@@ -1395,6 +1488,7 @@ QWFDC_29_0_1:WFDELTAKER_C; (QWFDB_29_0_1:WFDELTAKER_B); (QWFD_29:WFDELTAKER_A); 
 | -------- | - |
 | Nei | 478 |
 | Ja | 13 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -1406,6 +1500,7 @@ QWFDC_29_0_2:WFDELTAKER_C; (QWFDB_29_0_2:WFDELTAKER_B); (QWFD_29_0:WFDELTAKER_A)
 | -------- | - |
 | 1 | 12 |
 | 2 | 1 |
+| Not NA | 13 |
 | NA | 478 |
 
 
@@ -1420,6 +1515,7 @@ QWFDC_29_1_1:WFDELTAKER_C; (QWFDB_29_1_1:WFDELTAKER_B); (QWFD_29_1_1:WFDELTAKER_
 | 2020 | 2 |
 | 2017 | 1 |
 | 2016 | 1 |
+| Not NA | 12 |
 | NA | 479 |
 
 
@@ -1432,6 +1528,7 @@ QWFDC_29_1_2:WFDELTAKER_C; (QWFDB_29_1_2:WFDELTAKER_B); (QWFD_29_1_2:WFDELTAKER_
 | SPONTANABORT | 7 |
 | LEVENDEFØDT BARN | 2 |
 | FREMKALT ABORT (SELVBESTEMT) | 4 |
+| Not NA | 13 |
 | NA | 478 |
 
 
@@ -1444,6 +1541,7 @@ QWFD_29_1_3:WFDELTAKER_A; OPPGI SVANGERSKAPSUKE FOR ABORTEN/DØDFØDSELEN FOR DI
 | 7 | 1 |
 | 10 | 1 |
 | 6 | 1 |
+| Not NA | 3 |
 | NA | 488 |
 
 
@@ -1454,6 +1552,7 @@ QWFDC_29_2_1:WFDELTAKER_C; (QWFDB_29_2_1:WFDELTAKER_B); (QWFD_29_2_1:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | 2022 | 1 |
+| Not NA | 1 |
 | NA | 490 |
 
 
@@ -1464,6 +1563,7 @@ QWFDC_29_2_2:WFDELTAKER_C; (QWFDB_29_2_2:WFDELTAKER_B); (QWFD_29_2_2:WFDELTAKER_
 | Category | n |
 | -------- | - |
 | FREMKALT ABORT (SELVBESTEMT) | 1 |
+| Not NA | 1 |
 | NA | 490 |
 
 
@@ -1473,6 +1573,7 @@ QWFD_29_2_3:WFDELTAKER_A; OPPGI SVANGERSKAPSUKE FOR ABORTEN/DØDFØDSELEN FOR DI
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1482,6 +1583,7 @@ QWFDC_29_3_1:WFDELTAKER_C; (QWFDB_29_3_1:WFDELTAKER_B); (QWFD_29_3_1:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1491,6 +1593,7 @@ QWFDC_29_3_2:WFDELTAKER_C; (QWFDB_29_3_2:WFDELTAKER_B); (QWFD_29_3_2:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1500,6 +1603,7 @@ QWFD_29_3_3:WFDELTAKER_A; OPPGI SVANGERSKAPSUKE FOR ABORTEN/DØDFØDSELEN FOR DI
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1509,6 +1613,7 @@ QWFDC_29_4_1:WFDELTAKER_C; (QWFDB_29_4_1:WFDELTAKER_B); (QWFD_29_4_1:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1518,6 +1623,7 @@ QWFDC_29_4_2:WFDELTAKER_C; (QWFDB_29_4_2:WFDELTAKER_B); (QWFD_29_4_2:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1527,6 +1633,7 @@ QWFD_29_4_3:WFDELTAKER_A; OPPGI SVANGERSKAPSUKE FOR ABORTEN/DØDFØDSELEN FOR DI
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1536,6 +1643,7 @@ QWFDC_29_5_1:WFDELTAKER_C; (QWFDB_29_5_1:WFDELTAKER_B); (QWFD_29_5_1:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1545,6 +1653,7 @@ QWFDC_29_5_2:WFDELTAKER_C; (QWFDB_29_5_2:WFDELTAKER_B); (QWFD_29_5_2:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1554,6 +1663,7 @@ QWFD_29_5_3:WFDELTAKER_A; OPPGI SVANGERSKAPSUKE FOR ABORTEN/DØDFØDSELEN FOR DI
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1563,6 +1673,7 @@ QWFDC_29_6_1:WFDELTAKER_C; (QWFDB_29_6_1:WFDELTAKER_B); (QWFD_29_6_1:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1572,6 +1683,7 @@ QWFDC_29_6_2:WFDELTAKER_C; (QWFDB_29_6_2:WFDELTAKER_B); (QWFD_29_6_2:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1581,6 +1693,7 @@ QWFD_29_6_3:WFDELTAKER_A; OPPGI SVANGERSKAPSUKE FOR ABORTEN/DØDFØDSELEN FOR DI
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1590,6 +1703,7 @@ QWFDC_29_7_1:WFDELTAKER_C; (QWFDB_29_7_1:WFDELTAKER_B); (QWFD_29_7_1:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1599,6 +1713,7 @@ QWFDC_29_7_2:WFDELTAKER_C; (QWFDB_29_7_2:WFDELTAKER_B); (QWFD_29_7_2:WFDELTAKER_
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1608,6 +1723,7 @@ QWFD_29_7_3:WFDELTAKER_A; OPPGI SVANGERSKAPSUKE FOR ABORTEN/DØDFØDSELEN FOR DI
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1621,6 +1737,7 @@ QWFDC_21:WFDELTAKER_C; (QWFDB_21:WFDELTAKER_B); ; 21. Ønsker du deg barn, nå e
 | Ja | 315 |
 | VET IKKE / USIKKER | 62 |
 | HAR ALLEREDE BARN | 1 |
+| Not NA | 400 |
 | NA | 91 |
 
 
@@ -1635,6 +1752,7 @@ QWFDC_22_1:WFDELTAKER_C; (QWFDB_22_1:WFDELTAKER_B); Fast jobb. Hva mener du må 
 | Litt enig | 108 |
 | UENIG | 3 |
 | Verken eller | 19 |
+| Not NA | 376 |
 | NA | 115 |
 
 
@@ -1649,6 +1767,7 @@ QWFDC_22_2:WFDELTAKER_C; (QWFDB_22_2:WFDELTAKER_B); Bo nær familie. Hva mener d
 | Litt enig | 134 |
 | ENIG | 48 |
 | Verken eller | 127 |
+| Not NA | 378 |
 | NA | 113 |
 
 
@@ -1663,6 +1782,7 @@ QWFDC_22_3:WFDELTAKER_C; (QWFDB_22_3:WFDELTAKER_B); Et forhold jeg tror vil vare
 | Litt enig | 29 |
 | UENIG | 2 |
 | Litt uenig | 2 |
+| Not NA | 378 |
 | NA | 113 |
 
 
@@ -1677,6 +1797,7 @@ QWFDC_22_4:WFDELTAKER_C; (QWFDB_22_4:WFDELTAKER_B); Avsluttet utdanning. Hva men
 | ENIG | 176 |
 | Litt uenig | 14 |
 | UENIG | 11 |
+| Not NA | 378 |
 | NA | 113 |
 
 
@@ -1691,6 +1812,7 @@ QWFDC_22_5:WFDELTAKER_C; (QWFDB_22_5:WFDELTAKER_B); Eie bolig. Hva mener du må 
 | ENIG | 99 |
 | Litt uenig | 29 |
 | UENIG | 16 |
+| Not NA | 377 |
 | NA | 114 |
 
 
@@ -1705,6 +1827,7 @@ QWFDC_22_6:WFDELTAKER_C; (QWFDB_22_6:WFDELTAKER_B); At flere i min vennekrets ha
 | ENIG | 7 |
 | UENIG | 131 |
 | Litt enig | 43 |
+| Not NA | 378 |
 | NA | 113 |
 
 
@@ -1719,6 +1842,7 @@ QWFDC_22_7:WFDELTAKER_C; (QWFDB_22_7:WFDELTAKER_B); At jeg har fått utrettet no
 | ENIG | 86 |
 | UENIG | 35 |
 | Litt uenig | 33 |
+| Not NA | 378 |
 | NA | 113 |
 
 
@@ -1733,6 +1857,7 @@ QWFDC_23_1:WFDELTAKER_C; (QWFDB_23_1:WFDELTAKER_B); Jeg vil ha partner før jeg 
 | UENIG | 1 |
 | Litt uenig | 1 |
 | Verken eller | 3 |
+| Not NA | 378 |
 | NA | 113 |
 
 
@@ -1747,6 +1872,7 @@ QWFDC_23_2:WFDELTAKER_C; (QWFDB_23_2:WFDELTAKER_B); Jeg kunne tenke meg å få b
 | ENIG | 5 |
 | Verken eller | 50 |
 | Litt uenig | 78 |
+| Not NA | 378 |
 | NA | 113 |
 
 
@@ -1761,6 +1887,7 @@ QWFDC_23_3:WFDELTAKER_C; (QWFDB_23_3:WFDELTAKER_B); Barn er noe jeg får etter j
 | Verken eller | 71 |
 | Litt uenig | 42 |
 | ENIG | 104 |
+| Not NA | 377 |
 | NA | 114 |
 
 
@@ -1775,6 +1902,7 @@ QWFDC_23_4:WFDELTAKER_C; (QWFDB_23_4:WFDELTAKER_B); Jeg kunne tenke meg å fryse
 | Litt uenig | 46 |
 | Litt enig | 64 |
 | ENIG | 25 |
+| Not NA | 376 |
 | NA | 115 |
 
 
@@ -1789,6 +1917,7 @@ QWFDC_23_5:WFDELTAKER_C; (QWFDB_23_5:WFDELTAKER_B); Det er best for barn å voks
 | Verken eller | 125 |
 | UENIG | 111 |
 | Litt uenig | 68 |
+| Not NA | 399 |
 | NA | 92 |
 
 
@@ -1803,6 +1932,7 @@ QWFDC_23_6:WFDELTAKER_C; (QWFDB_23_6:WFDELTAKER_B); Ekteskapet er en umoderne sa
 | Litt uenig | 81 |
 | Litt enig | 36 |
 | ENIG | 13 |
+| Not NA | 399 |
 | NA | 92 |
 
 
@@ -1829,6 +1959,7 @@ QWFDC_24:WFDELTAKER_C; (QWFDB_24:WFDELTAKER_B); Hva er en passende alder for deg
 | 22 ÅR | 8 |
 | 19 ÅR | 3 |
 | 33 ÅR | 2 |
+| Not NA | 378 |
 | NA | 113 |
 
 
@@ -1841,6 +1972,7 @@ QWFDC_25:WFDELTAKER_C; (QWFDB_25:WFDELTAKER_B); Du har kanskje allerede nå noen
 | Ja | 296 |
 | Usikker | 65 |
 | Nei | 16 |
+| Not NA | 377 |
 | NA | 114 |
 
 
@@ -1855,6 +1987,7 @@ QWFDC_25_1:WFDELTAKER_C; (QWFDB_25_1:WFDELTAKER_B); Oppgi hvor mange barn du øn
 | 4 | 20 |
 | 1 | 7 |
 | 0 | 5 |
+| Not NA | 368 |
 | NA | 123 |
 
 
@@ -1871,6 +2004,7 @@ QWFDC_29_1_3:WFDELTAKER_C; (QWFDB_29_1_3:WFDELTAKER_B); OPPGI SVANGERSKAPSUKE FO
 | 8 | 1 |
 | 11 | 1 |
 | 13 | 1 |
+| Not NA | 8 |
 | NA | 483 |
 
 
@@ -1881,6 +2015,7 @@ QWFDC_29_2_3:WFDELTAKER_C; (QWFDB_29_2_3:WFDELTAKER_B); OPPGI SVANGERSKAPSUKE FO
 | Category | n |
 | -------- | - |
 | 12 | 1 |
+| Not NA | 1 |
 | NA | 490 |
 
 
@@ -1890,6 +2025,7 @@ QWFDC_29_3_3:WFDELTAKER_C; (QWFDB_29_3_3:WFDELTAKER_B); OPPGI SVANGERSKAPSUKE FO
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1899,6 +2035,7 @@ QWFDC_29_4_3:WFDELTAKER_C; (QWFDB_29_4_3:WFDELTAKER_B); OPPGI SVANGERSKAPSUKE FO
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1908,6 +2045,7 @@ QWFDC_29_5_3:WFDELTAKER_C; (QWFDB_29_5_3:WFDELTAKER_B); OPPGI SVANGERSKAPSUKE FO
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1917,6 +2055,7 @@ QWFDC_29_6_3:WFDELTAKER_C; (QWFDB_29_6_3:WFDELTAKER_B); OPPGI SVANGERSKAPSUKE FO
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1926,6 +2065,7 @@ QWFDC_29_7_3:WFDELTAKER_C; (QWFDB_29_7_3:WFDELTAKER_B); OPPGI SVANGERSKAPSUKE FO
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 491 |
 
 
@@ -1941,6 +2081,7 @@ QWFDC_30:WFDELTAKER_C; (QWFDB_30:WFDELTAKER_B); (QWFD_30:WFDELTAKER_A); ; 30. P�
 | 11 TIMER ELLER MER | 22 |
 | 1 - 2 TIMER | 23 |
 | MINDRE ENN 1 TIME | 1 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -1955,6 +2096,7 @@ QWFDC_31:WFDELTAKER_C; (QWFDB_31:WFDELTAKER_B); (QWFD_31:WFDELTAKER_A); ; 31. HV
 | 5 - 6 TIMER | 182 |
 | 7 - 8 TIMER | 122 |
 | 1 - 2 TIMER | 14 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -1969,6 +2111,7 @@ QWFDC_32:WFDELTAKER_C; (QWFDB_32:WFDELTAKER_B); (QWFD_32:WFDELTAKER_A); ; 32. HV
 | 1 - 2 TIMER | 87 |
 | 5 - 6 TIMER | 128 |
 | UNDER EN TIME | 2 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -1983,6 +2126,7 @@ QWFDC_33_1:WFDELTAKER_C; (QWFDB_33_1:WFDELTAKER_B); (QWFD_33_1:WFDELTAKER_A); JE
 | STEMMER HELT | 90 |
 | STEMMER DELVIS | 94 |
 | Stemmer ikke | 8 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -1997,6 +2141,7 @@ QWFDC_33_2:WFDELTAKER_C; (QWFDB_33_2:WFDELTAKER_B); (QWFD_33_2:WFDELTAKER_A); JE
 | Stemmer ganske dårlig | 34 |
 | STEMMER GANSKE GODT | 224 |
 | Stemmer ikke | 6 |
+| Not NA | 489 |
 | NA | 2 |
 
 
@@ -2011,6 +2156,7 @@ QWFDC_33_3:WFDELTAKER_C; (QWFDB_33_3:WFDELTAKER_B); (QWFD_33_3:WFDELTAKER_A); DE
 | Stemmer ganske dårlig | 48 |
 | STEMMER HELT | 77 |
 | STEMMER DELVIS | 161 |
+| Not NA | 490 |
 | NA | 1 |
 
 
@@ -2025,6 +2171,7 @@ QWFDC_33_4:WFDELTAKER_C; (QWFDB_33_4:WFDELTAKER_B); (QWFD_33_4:WFDELTAKER_A); JE
 | STEMMER DELVIS | 119 |
 | STEMMER HELT | 97 |
 | Stemmer ikke | 11 |
+| Not NA | 491 |
 | NA | 0 |
 
 
@@ -2039,6 +2186,7 @@ QWFDC_33_5:WFDELTAKER_C; (QWFDB_33_5:WFDELTAKER_B); (QWFD_33_5:WFDELTAKER_A); JE
 | STEMMER GANSKE GODT | 122 |
 | Stemmer ikke | 24 |
 | Stemmer ganske dårlig | 95 |
+| Not NA | 489 |
 | NA | 2 |
 
 
@@ -2053,6 +2201,7 @@ QWFDC_33_6:WFDELTAKER_C; (QWFDB_33_6:WFDELTAKER_B); (QWFD_33_6:WFDELTAKER_A); IB
 | STEMMER GANSKE GODT | 118 |
 | Stemmer ganske dårlig | 128 |
 | STEMMER DELVIS | 156 |
+| Not NA | 489 |
 | NA | 2 |
 
 
@@ -2067,6 +2216,7 @@ WFDELTAKER_C;(WFDELTAKER_B);(WFDELTAKER_A);Generated variable; AGE_YRS_WD Age in
 | 21 | 60 |
 | 19 | 106 |
 | 22 | 19 |
+| Not NA | 491 |
 | NA | 0 |
 
 

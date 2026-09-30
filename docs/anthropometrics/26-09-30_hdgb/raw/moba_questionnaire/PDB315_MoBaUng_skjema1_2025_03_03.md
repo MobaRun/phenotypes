@@ -21,6 +21,7 @@
 | 1 | 36018 |
 | 2 | 569 |
 | 3 | 6 |
+| Not NA | 36593 |
 | NA | 0 |
 
 
@@ -33,6 +34,7 @@
 | MOBAUNG_1C | 17611 |
 | MOBAUNG_1B | 6247 |
 | MOBAUNG_1A | 3463 |
+| Not NA | 36593 |
 | NA | 0 |
 
 
@@ -49,6 +51,7 @@ QMU1D_1:MOBAUNG_1D; (A_1:MOBAUNG_1C); På de fleste måter er livet mitt slik je
 | Litt enig | 5561 |
 | Uenig | 1379 |
 | Helt uenig | 539 |
+| Not NA | 26836 |
 | NA | 9757 |
 
 
@@ -65,6 +68,7 @@ QMU1D_2:MOBAUNG_1D; (A_2:MOBAUNG_1C); (A_2:MOBAUNG_1B); (A_2:MOBAUNG_1A); De fle
 | Verken eller | 2082 |
 | Uenig | 1078 |
 | Enig | 15729 |
+| Not NA | 36527 |
 | NA | 66 |
 
 
@@ -81,6 +85,7 @@ QMU1D_3:MOBAUNG_1D; (A_3:MOBAUNG_1C); (A_3:MOBAUNG_1B); (A_3:MOBAUNG_1A); Jeg er
 | Verken eller | 2400 |
 | Enig | 14214 |
 | Helt uenig | 727 |
+| Not NA | 36526 |
 | NA | 67 |
 
 
@@ -97,6 +102,7 @@ QMU1D_4:MOBAUNG_1D; (A_4:MOBAUNG_1C); Så langt har jeg fått det viktigste jeg 
 | Litt uenig | 1443 |
 | Helt enig | 6552 |
 | Verken eller | 2882 |
+| Not NA | 26818 |
 | NA | 9775 |
 
 
@@ -113,6 +119,7 @@ QMU1D_5:MOBAUNG_1D; (A_5:MOBAUNG_1C); Hvis jeg kunne leve livet på nytt, ville 
 | Helt enig | 3332 |
 | Litt enig | 5507 |
 | Verken eller | 3089 |
+| Not NA | 26822 |
 | NA | 9771 |
 
 
@@ -129,6 +136,7 @@ A_1:MOBAUNG_1B; (A_1:MOBAUNG_1A); På de fleste måter er livet mitt omtrent sli
 | Helt enig | 1819 |
 | Litt enig | 1779 |
 | Litt uenig | 719 |
+| Not NA | 9685 |
 | NA | 26908 |
 
 
@@ -145,6 +153,7 @@ A_4:MOBAUNG_1B; (A_4:MOBAUNG_1A); Så langt har jeg fått de viktige tingene jeg
 | Helt enig | 2840 |
 | Litt uenig | 456 |
 | Helt uenig | 152 |
+| Not NA | 9681 |
 | NA | 26912 |
 
 
@@ -161,6 +170,7 @@ A_5:MOBAUNG_1B; (A_5:MOBAUNG_1A); Dersom jeg kunne levet livet på nytt, ville j
 | Litt enig | 2065 |
 | Helt enig | 1761 |
 | Litt uenig | 945 |
+| Not NA | 9690 |
 | NA | 26903 |
 
 
@@ -181,6 +191,7 @@ QMU1D_31:MOBAUNG_1D; (A_31:MOBAUNG_1C); (A_35:MOBAUNG_1B); (A_35:MOBAUNG_1A); ; 
 | 9 | 6146 |
 | 3 | 957 |
 | 0 - verste mulige livet | 133 |
+| Not NA | 36245 |
 | NA | 348 |
 
 
@@ -193,6 +204,7 @@ AGE_YRS_YA1; MOBAUNG_1C; (A__2:MOBAUNG_1B); (A__2:MOBAUNG_1A); BARNETS ALDER I �
 | 16 | 35400 |
 | 17 | 1190 |
 | 18 | 3 |
+| Not NA | 36593 |
 | NA | 0 |
 
 

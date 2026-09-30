@@ -17,6 +17,7 @@
 | SKJEMA2DBG | 5559 |
 | SKJEMA2C | 18709 |
 | SKJEMA2W | 4834 |
+| Not NA | 87100 |
 | NA | 0 |
 
 
@@ -32,6 +33,7 @@ Eicosapentaenoic acid (20:5n-3) from food, g/day
 | Mean | 0.166337980482204 |
 | 3rd Qu. | 0.1947 |
 | Max. | 3.2324 |
+| Not NA | 87100 |
 
 
 ### f_dha
@@ -46,6 +48,7 @@ Docosahexaenoic acid (22:6n-3) from food, g/day
 | Mean | 0.268998492537313 |
 | 3rd Qu. | 0.3209 |
 | Max. | 5.0382 |
+| Not NA | 87100 |
 
 
 ### f_dpa
@@ -60,6 +63,7 @@ Docosapentaenoic acid (22:5n-3) from food, g/day
 | Mean | 0.043308205510907 |
 | 3rd Qu. | 0.0542 |
 | Max. | 0.4971 |
+| Not NA | 87100 |
 
 
 ### f_sum_LCn3
@@ -74,6 +78,7 @@ Sum of epa, dha, dpa from food (note not including supplements), g/day
 | Mean | 0.478644678530425 |
 | 3rd Qu. | 0.5697 |
 | Max. | 8.5831 |
+| Not NA | 87100 |
 
 
 ### f_aa
@@ -88,6 +93,7 @@ Arachidonic acid (20:4n-6) from food, g/day
 | Mean | 0.0774819839265212 |
 | 3rd Qu. | 0.092 |
 | Max. | 0.334 |
+| Not NA | 87100 |
 
 
 ### f_jod
@@ -102,5 +108,6 @@ Iodine from food, mcg/day
 | Mean | 132.876277593571 |
 | 3rd Qu. | 162.245575 |
 | Max. | 2004.0849 |
+| Not NA | 87100 |
 
 

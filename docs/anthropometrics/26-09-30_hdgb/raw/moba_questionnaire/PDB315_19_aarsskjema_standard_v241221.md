@@ -149,6 +149,7 @@
 | 1 | 14079 |
 | 2 | 220 |
 | 3 | 2 |
+| Not NA | 14301 |
 | NA | 0 |
 
 
@@ -160,6 +161,7 @@
 | MOBA19_A | 6402 |
 | MOBA19_C | 3662 |
 | MOBA19_B | 4237 |
+| Not NA | 14301 |
 | NA | 0 |
 
 
@@ -171,6 +173,7 @@ Q19C_1:MOBA19_C; (Q19B_1:MOBA19_B); ; 1. Hvilket biologisk kjønn ble du født m
 | -------- | - |
 | Kvinne | 5148 |
 | Mann  | 2737 |
+| Not NA | 7885 |
 | NA | 6416 |
 
 
@@ -187,6 +190,7 @@ Q19C_2:MOBA19_C; (Q19B_2:MOBA19_B); (Q19A13:MOBA19_A); Oppgi svaret ditt i centi
 | 3rd Qu. | 180 |
 | Max. | 267 |
 | NA's | 66 |
+| Not NA | 14235 |
 
 
 ### VG135
@@ -202,6 +206,7 @@ Q19C_3:MOBA19_C; (Q19B_3:MOBA19_B); (Q19A14:MOBA19_A); Uten klær og sko. Oppgi 
 | 3rd Qu. | 77 |
 | Max. | 500 |
 | NA's | 389 |
+| Not NA | 13912 |
 
 
 ### VG138
@@ -214,6 +219,7 @@ Q19C_4:MOBA19_C; (Q19B_4:MOBA19_B); (Hvis «Mann» for biologisk kjønn); 4. Sam
 | Tidligere enn mine jevnaldrende | 461 |
 | Senere enn mine jevnaldrende | 458 |
 | Vet ikke | 185 |
+| Not NA | 2719 |
 | NA | 11582 |
 
 
@@ -236,6 +242,7 @@ Q19C_5:MOBA19_C; (Q19B_5:MOBA19_B); Velg antall år: (Hvis «Mann» for biologis
 | Under 8 år | 5 |
 | 17 ÅR | 13 |
 | Har ikke hatt | 6 |
+| Not NA | 2573 |
 | NA | 11728 |
 
 
@@ -257,6 +264,7 @@ Q19C_5_1_1:MOBA19_C; (Q19B_5_1_1:MOBA19_B); Velg antall måneder: (Hvis alder i 
 | 7 MÅNEDER | 68 |
 | 5 MÅNEDER | 105 |
 | 11 MÅNEDER | 12 |
+| Not NA | 1791 |
 | NA | 12510 |
 
 
@@ -281,6 +289,7 @@ Q19C_6:MOBA19_C; (Q19B_6:MOBA19_B); Velg antall år: (Hvis «Mann» for biologis
 | Under 8 år | 1 |
 | 8 ÅR | 2 |
 | Har ikke kommet i stemmeskiftet | 3 |
+| Not NA | 2574 |
 | NA | 11727 |
 
 
@@ -302,6 +311,7 @@ Q19C_6_1_1:MOBA19_C; (Q19B_6_1_1:MOBA19_B); Velg antall måneder: (Hvis alder  i
 | 10 MÅNEDER | 22 |
 | 9 MÅNEDER | 24 |
 | 11 MÅNEDER | 7 |
+| Not NA | 1772 |
 | NA | 12529 |
 
 
@@ -324,6 +334,7 @@ Q19B_7:MOBA19_B; Velg antall år: (Hvis «Kvinne» for biologisk kjønn); 7. Hvo
 | 18 år | 6 |
 | 19 ÅR | 4 |
 | Har ikke fått | 2 |
+| Not NA | 2627 |
 | NA | 11674 |
 
 
@@ -345,6 +356,7 @@ Q19B_7_1_1:MOBA19_B; Velg antall måneder: (Hvis alder  i år oppgitt); 7. Hvor 
 | 7 MÅNEDER | 119 |
 | 8 MÅNEDER | 144 |
 | 11 MÅNEDER | 123 |
+| Not NA | 2294 |
 | NA | 12007 |
 
 
@@ -369,6 +381,7 @@ Q19C_7:MOBA19_C; Velg antall år: (Hvis «Kvinne» for biologisk kjønn); 7. Hvo
 | 17 ÅR | 6 |
 | 7 ÅR ELLER YNGRE | 1 |
 | Har ikke fått | 3 |
+| Not NA | 2413 |
 | NA | 11888 |
 
 
@@ -390,6 +403,7 @@ Q19C_7_1_1:MOBA19_C; Velg antall måneder: (Hvis alder  i år oppgitt); 7. Hvor 
 | 5 MÅNEDER | 174 |
 | 2 MÅNEDER | 158 |
 | 9 MÅNEDER | 117 |
+| Not NA | 2140 |
 | NA | 12161 |
 
 
@@ -403,6 +417,7 @@ Q19C_8:MOBA19_C; (Q19B_8:MOBA19_B); (Hvis «Kvinne» for biologisk kjønn); 8. S
 | Tidligere enn mine jevnaldrende | 1137 |
 | Senere enn mine jevnaldrende | 944 |
 | Vet ikke | 233 |
+| Not NA | 5132 |
 | NA | 9169 |
 
 
@@ -413,6 +428,7 @@ Q19C_9_1:MOBA19_C; (Q19B_9_1:MOBA19_B); (Q19A_1_1:MOBA19_A); Går på videregåe
 | Category | n |
 | -------- | - |
 | 1 | 982 |
+| Not NA | 982 |
 | NA | 13319 |
 
 
@@ -423,6 +439,7 @@ Q19C_9_2:MOBA19_C; (Q19B_9_2:MOBA19_B); (Q19A_1_2:MOBA19_A); Studerer. ; 9. Hva 
 | Category | n |
 | -------- | - |
 | 1 | 5522 |
+| Not NA | 5522 |
 | NA | 8779 |
 
 
@@ -433,6 +450,7 @@ Q19C_9_3:MOBA19_C; (Q19B_9_3:MOBA19_B); (Q19A_1_3:MOBA19_A); Har yrkespraksis/er
 | Category | n |
 | -------- | - |
 | 1 | 1707 |
+| Not NA | 1707 |
 | NA | 12594 |
 
 
@@ -443,6 +461,7 @@ Q19C_9_4:MOBA19_C; (Q19B_9_4:MOBA19_B); (Q19A_1_4:MOBA19_A); Er i militærtjenes
 | Category | n |
 | -------- | - |
 | 1 | 1372 |
+| Not NA | 1372 |
 | NA | 12929 |
 
 
@@ -453,6 +472,7 @@ Q19C_9_5:MOBA19_C; (Q19B_9_5:MOBA19_B); (Q19A_1_5:MOBA19_A); Går på folkehøgs
 | Category | n |
 | -------- | - |
 | 1 | 972 |
+| Not NA | 972 |
 | NA | 13329 |
 
 
@@ -463,6 +483,7 @@ Q19C_9_6:MOBA19_C; (Q19B_9_6:MOBA19_B); (Q19A_1_6:MOBA19_A); Har et friår. ; 9.
 | Category | n |
 | -------- | - |
 | 1 | 2958 |
+| Not NA | 2958 |
 | NA | 11343 |
 
 
@@ -473,6 +494,7 @@ Q19C_9_7:MOBA19_C; (Q19B_9_7:MOBA19_B); (Q19A_1_7:MOBA19_A); Er arbeidssøkende/
 | Category | n |
 | -------- | - |
 | 1 | 235 |
+| Not NA | 235 |
 | NA | 14066 |
 
 
@@ -483,6 +505,7 @@ Q19C_9_8:MOBA19_C; (Q19B_9_8:MOBA19_B); (Q19A_1_8:MOBA19_A); Er sykmeldt/ufør/u
 | Category | n |
 | -------- | - |
 | 1 | 187 |
+| Not NA | 187 |
 | NA | 14114 |
 
 
@@ -493,6 +516,7 @@ Q19C_9_9:MOBA19_C; (Q19B_9_9:MOBA19_B); (Q19A_1_9:MOBA19_A); Er ansatt i privat 
 | Category | n |
 | -------- | - |
 | 1 | 2300 |
+| Not NA | 2300 |
 | NA | 12001 |
 
 
@@ -503,6 +527,7 @@ Q19C_9_10:MOBA19_C; (Q19B_9_10:MOBA19_B); (Q19A_1_10:MOBA19_A); Er ansatt i offe
 | Category | n |
 | -------- | - |
 | 1 | 2127 |
+| Not NA | 2127 |
 | NA | 12174 |
 
 
@@ -513,6 +538,7 @@ Q19C_9_11:MOBA19_C; (Q19B_9_11:MOBA19_B); (Q19A_1_11:MOBA19_A); Er selvstendig n
 | Category | n |
 | -------- | - |
 | 1 | 109 |
+| Not NA | 109 |
 | NA | 14192 |
 
 
@@ -523,6 +549,7 @@ Q19C_9_12:MOBA19_C; (Q19B_9_12:MOBA19_B); (Q19A_1_12:MOBA19_A); Er freelancer. ;
 | Category | n |
 | -------- | - |
 | 1 | 135 |
+| Not NA | 135 |
 | NA | 14166 |
 
 
@@ -533,6 +560,7 @@ Q19C_9_13:MOBA19_C; (Q19B_9_13:MOBA19_B); (Q19A_1_13:MOBA19_A); Annet. ; 9. Hva 
 | Category | n |
 | -------- | - |
 | 1 | 386 |
+| Not NA | 386 |
 | NA | 13915 |
 
 
@@ -549,6 +577,7 @@ Q19C_10:MOBA19_C; (Q19B_10:MOBA19_B); (Q19A_3:MOBA19_A); Inkluder all tid på un
 | 3rd Qu. | 30 |
 | Max. | 150 |
 | NA's | 2742 |
+| Not NA | 11559 |
 
 
 ### VG26
@@ -559,6 +588,7 @@ Q19C_11:MOBA19_C; (Q19B_11:MOBA19_B); (Q19A_2:MOBA19_A); ; 11. Har du hatt innte
 | -------- | - |
 | Ja | 12256 |
 | Nei | 1970 |
+| Not NA | 14226 |
 | NA | 75 |
 
 
@@ -575,6 +605,7 @@ Q19C_11_1_1:MOBA19_C; (Q19B_11_1_1:MOBA19_B); (Q19A_2_1:MOBA19_A); Hvor mange ti
 | 3rd Qu. | 37 |
 | Max. | 150 |
 | NA's | 2592 |
+| Not NA | 11709 |
 
 
 ### VG28
@@ -587,6 +618,7 @@ Q19C_11_2_1:MOBA19_C; (Q19B_11_2_1:MOBA19_B); (Q19A_2_2:MOBA19_A); Har du arbeid
 | Ja, kveld | 5310 |
 | Ja, begge | 2129 |
 | Ja, natt | 202 |
+| Not NA | 12050 |
 | NA | 2251 |
 
 
@@ -629,6 +661,7 @@ Q19A_2_2_1:MOBA19_A; Hvor mange netter i måneden jobber du i gjennomsnitt? (Hvi
 | 30 | 0 |
 | 31 | 2 |
 | NA's | 14215 |
+| Not NA | 86 |
 
 
 ### VG150
@@ -670,6 +703,7 @@ Q19C_11_2_1_1:MOBA19_C; (Q19B_11_2_1_1:MOBA19_B); Hvor mange netter i måneden j
 | 30 | 0 |
 | 31 | 5 |
 | NA's | 13188 |
+| Not NA | 1113 |
 
 
 ### VG31
@@ -679,6 +713,7 @@ Q19C_12_1:MOBA19_C; (Q19B_12_1:MOBA19_B); (Q19A_4_1:MOBA19_A); Studielån og sti
 | Category | n |
 | -------- | - |
 | 1 | 5730 |
+| Not NA | 5730 |
 | NA | 8571 |
 
 
@@ -689,6 +724,7 @@ Q19C_12_2:MOBA19_C; (Q19B_12_2:MOBA19_B); (Q19A_4_2:MOBA19_A); Økonomisk hjelp 
 | Category | n |
 | -------- | - |
 | 1 | 3245 |
+| Not NA | 3245 |
 | NA | 11056 |
 
 
@@ -699,6 +735,7 @@ Q19C_12_3:MOBA19_C; (Q19B_12_3:MOBA19_B); (Q19A_4_3:MOBA19_A); Arbeid eller nær
 | Category | n |
 | -------- | - |
 | 1 | 10265 |
+| Not NA | 10265 |
 | NA | 4036 |
 
 
@@ -709,6 +746,7 @@ Q19C_12_4:MOBA19_C; (Q19B_12_4:MOBA19_B); (Q19A_4_4:MOBA19_A); Annet; 12. Hvor k
 | Category | n |
 | -------- | - |
 | 1 | 913 |
+| Not NA | 913 |
 | NA | 13388 |
 
 
@@ -725,6 +763,7 @@ Q19C_12_1_1:MOBA19_C; (Q19B_12_1_1:MOBA19_B); Hvor mye forventer du å få i stu
 | 3rd Qu. | 158500 |
 | Max. | 1e+06 |
 | NA's | 12306 |
+| Not NA | 1995 |
 
 
 ### VG147
@@ -740,6 +779,7 @@ Q19C_12_2_1:MOBA19_C; (Q19B_12_2_1:MOBA19_B); Hvor mye forventer du å få i øk
 | 3rd Qu. | 40000 |
 | Max. | 1e+06 |
 | NA's | 12775 |
+| Not NA | 1526 |
 
 
 ### VG148
@@ -755,6 +795,7 @@ Q19C_12_3_1:MOBA19_C; (Q19B_12_3_1:MOBA19_B); Hvor mye forventer du å få i inn
 | 3rd Qu. | 2e+05 |
 | Max. | 1e+06 |
 | NA's | 9048 |
+| Not NA | 5253 |
 
 
 ### VG149
@@ -770,6 +811,7 @@ Q19C_12_5_1:MOBA19_C; (Q19B_12_5_1:MOBA19_B); Hvor mye forventer du å få i inn
 | 3rd Qu. | 120000 |
 | Max. | 1e+06 |
 | NA's | 13962 |
+| Not NA | 339 |
 
 
 ### VG36
@@ -781,6 +823,7 @@ Q19A_4_2_1:MOBA19_A; Hvor mye forventer du å få i studielån og stipend til li
 | Length | 14301 |
 | Class | character |
 | Mode | character |
+| Not NA | 14301 |
 
 
 ### VG37
@@ -792,6 +835,7 @@ Q19A_4_3_1:MOBA19_A; Hvor mye forventer du å få i økonomisk hjelp fra foreldr
 | Length | 14301 |
 | Class | character |
 | Mode | character |
+| Not NA | 14301 |
 
 
 ### VG38
@@ -803,6 +847,7 @@ Q19A_4_4_1:MOBA19_A; Hvor mye forventer du å få i inntekt fra arbeid eller næ
 | Length | 14301 |
 | Class | character |
 | Mode | character |
+| Not NA | 14301 |
 
 
 ### VG39
@@ -814,6 +859,7 @@ Q19A_4_5:MOBA19_A; Hvor mye forventer du å få i inntekt fra andre kilder i år
 | Length | 14301 |
 | Class | character |
 | Mode | character |
+| Not NA | 14301 |
 
 
 ### VG40
@@ -823,6 +869,7 @@ Q19C_13_1:MOBA19_C; (Q19B_13_1:MOBA19_B); (Q19A_5_1:MOBA19_A); Jeg bor alene; 13
 | Category | n |
 | -------- | - |
 | 1 | 1654 |
+| Not NA | 1654 |
 | NA | 12647 |
 
 
@@ -833,6 +880,7 @@ Q19C_13_2:MOBA19_C; (Q19B_13_2:MOBA19_B); (Q19A_5_2:MOBA19_A); Jeg bor med kjær
 | Category | n |
 | -------- | - |
 | 1 | 1286 |
+| Not NA | 1286 |
 | NA | 13015 |
 
 
@@ -843,6 +891,7 @@ Q19C_13_3:MOBA19_C; (Q19B_13_3:MOBA19_B); (Q19A_5_3:MOBA19_A); Jeg bor med en el
 | Category | n |
 | -------- | - |
 | 1 | 7532 |
+| Not NA | 7532 |
 | NA | 6769 |
 
 
@@ -853,6 +902,7 @@ Q19C_13_4:MOBA19_C; (Q19B_13_4:MOBA19_B); (Q19A_5_4:MOBA19_A); Jeg bor med søsk
 | Category | n |
 | -------- | - |
 | 1 | 2763 |
+| Not NA | 2763 |
 | NA | 11538 |
 
 
@@ -863,6 +913,7 @@ Q19C_13_5:MOBA19_C; (Q19B_13_5:MOBA19_B); (Q19A_5_5:MOBA19_A); Jeg bor med venne
 | Category | n |
 | -------- | - |
 | 1 | 3964 |
+| Not NA | 3964 |
 | NA | 10337 |
 
 
@@ -873,6 +924,7 @@ Q19C_13_6:MOBA19_C; (Q19B_13_6:MOBA19_B); (Q19A_5_6:MOBA19_A); Jeg bor med egne 
 | Category | n |
 | -------- | - |
 | 1 | 42 |
+| Not NA | 42 |
 | NA | 14259 |
 
 
@@ -883,6 +935,7 @@ Q19C_13_7:MOBA19_C; (Q19B_13_7:MOBA19_B); (Q19A_5_7:MOBA19_A); Jeg bor med andre
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 14281 |
 
 
@@ -893,6 +946,7 @@ Q19C_13_8:MOBA19_C; (Q19B_13_8:MOBA19_B); (Q19A_5_8:MOBA19_A); Jeg bor med andre
 | Category | n |
 | -------- | - |
 | 1 | 551 |
+| Not NA | 551 |
 | NA | 13750 |
 
 
@@ -919,6 +973,7 @@ Q19C_14:MOBA19_C; (Q19B_14:MOBA19_B); (Q19A_6:MOBA19_A); ; 14. Dersom du har gå
 | Har ikke gått på videregående | 50 |
 | Restaurant- og matfag | 169 |
 | Salg, service og reiseliv | 205 |
+| Not NA | 14152 |
 | NA | 149 |
 
 
@@ -933,6 +988,7 @@ Q19C_14_1:MOBA19_C; (Q19B_14_1:MOBA19_B); Når startet du første gang på vider
 | 2020 | 347 |
 | 2023 | 193 |
 | 2024 | 6 |
+| Not NA | 7453 |
 | NA | 6848 |
 
 
@@ -951,6 +1007,7 @@ Q19A_6_1:MOBA19_A; Når startet du første gang på videregående? (Hvis ett av 
 | 2015 | 23 |
 | 2014 | 2 |
 | 2022 | 1 |
+| Not NA | 6294 |
 | NA | 8007 |
 
 
@@ -962,6 +1019,7 @@ Q19C_14_2:MOBA19_C; (Q19B_14_2:MOBA19_B); Har du fullført videregående opplær
 | -------- | - |
 | Ja | 6120 |
 | Nei | 1634 |
+| Not NA | 7754 |
 | NA | 6547 |
 
 
@@ -972,6 +1030,7 @@ Q19C_14_2_1_1:MOBA19_C; (Q19B_14_2_1_1:MOBA19_B); Jeg er fortsatt under opplæri
 | Category | n |
 | -------- | - |
 | 1 | 1170 |
+| Not NA | 1170 |
 | NA | 13131 |
 
 
@@ -982,6 +1041,7 @@ Q19C_14_2_1_2:MOBA19_C; (Q19B_14_2_1_2:MOBA19_B); Jeg gikk lei / manglet motivas
 | Category | n |
 | -------- | - |
 | 1 | 202 |
+| Not NA | 202 |
 | NA | 14099 |
 
 
@@ -992,6 +1052,7 @@ Q19C_14_2_1_3:MOBA19_C; (Q19B_14_2_1_3:MOBA19_B); Jeg valgte feil eller ble usik
 | Category | n |
 | -------- | - |
 | 1 | 115 |
+| Not NA | 115 |
 | NA | 14186 |
 
 
@@ -1002,6 +1063,7 @@ Q19C_14_2_1_4:MOBA19_C; (Q19B_14_2_1_4:MOBA19_B); Jeg kom ikke inn på ønsket u
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 14286 |
 
 
@@ -1012,6 +1074,7 @@ Q19C_14_2_1_5:MOBA19_C; (Q19B_14_2_1_5:MOBA19_B); Jeg kom ikke inn på ønsket s
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 14292 |
 
 
@@ -1022,6 +1085,7 @@ Q19C_14_2_1_6:MOBA19_C; (Q19B_14_2_1_6:MOBA19_B); Jeg fikk ikke læreplass. Hvor
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 14267 |
 
 
@@ -1032,6 +1096,7 @@ Q19C_14_2_1_7:MOBA19_C; (Q19B_14_2_1_7:MOBA19_B); Jeg ble permittert fra lærepl
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 14299 |
 
 
@@ -1042,6 +1107,7 @@ Q19C_14_2_1_8:MOBA19_C; (Q19B_14_2_1_8:MOBA19_B); Jeg mistet læreplassen / ble 
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 14297 |
 
 
@@ -1052,6 +1118,7 @@ Q19C_14_2_1_9:MOBA19_C; (Q19B_14_2_1_9:MOBA19_B); Jeg følte at jeg ikke mestret
 | Category | n |
 | -------- | - |
 | 1 | 62 |
+| Not NA | 62 |
 | NA | 14239 |
 
 
@@ -1062,6 +1129,7 @@ Q19C_14_2_1_10:MOBA19_C; (Q19B_14_2_1_10:MOBA19_B); Jeg trivdes ikke med miljøe
 | Category | n |
 | -------- | - |
 | 1 | 110 |
+| Not NA | 110 |
 | NA | 14191 |
 
 
@@ -1072,6 +1140,7 @@ Q19C_14_2_1_11:MOBA19_C; (Q19B_14_2_1_11:MOBA19_B); Jeg mestret ikke jobben som 
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 14296 |
 
 
@@ -1082,6 +1151,7 @@ Q19C_14_2_1_12:MOBA19_C; (Q19B_14_2_1_12:MOBA19_B); Jeg trivdes ikke i bedriften
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 14290 |
 
 
@@ -1092,6 +1162,7 @@ Q19C_14_2_1_13:MOBA19_C; (Q19B_14_2_1_13:MOBA19_B); Jeg mestret ikke hjemmeskole
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 14287 |
 
 
@@ -1102,6 +1173,7 @@ Q19C_14_2_1_14:MOBA19_C; (Q19B_14_2_1_14:MOBA19_B); Jeg fikk karakteren 1 / ikke
 | Category | n |
 | -------- | - |
 | 1 | 100 |
+| Not NA | 100 |
 | NA | 14201 |
 
 
@@ -1112,6 +1184,7 @@ Q19C_14_2_1_15:MOBA19_C; (Q19B_14_2_1_15:MOBA19_B); Jeg fikk for høyt udokument
 | Category | n |
 | -------- | - |
 | 1 | 84 |
+| Not NA | 84 |
 | NA | 14217 |
 
 
@@ -1122,6 +1195,7 @@ Q19C_14_2_1_16:MOBA19_C; (Q19B_14_2_1_16:MOBA19_B); Jeg fikk ikke karakter i ett
 | Category | n |
 | -------- | - |
 | 1 | 99 |
+| Not NA | 99 |
 | NA | 14202 |
 
 
@@ -1132,6 +1206,7 @@ Q19C_14_2_1_17:MOBA19_C; (Q19B_14_2_1_17:MOBA19_B); Jeg ønsket heller å jobbe.
 | Category | n |
 | -------- | - |
 | 1 | 54 |
+| Not NA | 54 |
 | NA | 14247 |
 
 
@@ -1142,6 +1217,7 @@ Q19C_14_2_1_18:MOBA19_C; (Q19B_14_2_1_18:MOBA19_B); Jeg ville heller gå på fol
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 14282 |
 
 
@@ -1152,6 +1228,7 @@ Q19C_14_2_1_19:MOBA19_C; (Q19B_14_2_1_19:MOBA19_B); Jeg ville ta et friår uten 
 | Category | n |
 | -------- | - |
 | 1 | 32 |
+| Not NA | 32 |
 | NA | 14269 |
 
 
@@ -1162,6 +1239,7 @@ Q19C_14_2_1_20:MOBA19_C; (Q19B_14_2_1_20:MOBA19_B); Jeg ble fysisk syk. Hvorfor 
 | Category | n |
 | -------- | - |
 | 1 | 134 |
+| Not NA | 134 |
 | NA | 14167 |
 
 
@@ -1172,6 +1250,7 @@ Q19C_14_2_1_21:MOBA19_C; (Q19B_14_2_1_21:MOBA19_B); Jeg fikk psykiske vansker. H
 | Category | n |
 | -------- | - |
 | 1 | 269 |
+| Not NA | 269 |
 | NA | 14032 |
 
 
@@ -1182,6 +1261,7 @@ Q19C_14_2_1_22:MOBA19_C; (Q19B_14_2_1_22:MOBA19_B); Jeg fikk rusproblemer. Hvorf
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 14286 |
 
 
@@ -1192,6 +1272,7 @@ Q19C_14_2_1_23:MOBA19_C; (Q19B_14_2_1_23:MOBA19_B); Jeg opplevde problemer i fam
 | Category | n |
 | -------- | - |
 | 1 | 42 |
+| Not NA | 42 |
 | NA | 14259 |
 
 
@@ -1202,6 +1283,7 @@ Q19C_14_2_1_24:MOBA19_C; (Q19B_14_2_1_24:MOBA19_B); Jeg fikk barn. Hvorfor har d
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 14297 |
 
 
@@ -1212,6 +1294,7 @@ Q19C_14_2_1_25:MOBA19_C; (Q19B_14_2_1_25:MOBA19_B); Jeg vet ikke. Hvorfor har du
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 14291 |
 
 
@@ -1222,6 +1305,7 @@ Q19C_14_2_1_26:MOBA19_C; (Q19B_14_2_1_26:MOBA19_B); Annet. Hvorfor har du ikke f
 | Category | n |
 | -------- | - |
 | 1 | 60 |
+| Not NA | 60 |
 | NA | 14241 |
 
 
@@ -1232,6 +1316,7 @@ Q19A_7_2_1:MOBA19_A; Jeg er fortsatt under opplæring (skole eller lære). Hvorf
 | Category | n |
 | -------- | - |
 | 1 | 605 |
+| Not NA | 605 |
 | NA | 13696 |
 
 
@@ -1242,6 +1327,7 @@ Q19A_7_2_2:MOBA19_A; Jeg gikk lei / manglet motivasjon. Hvorfor har du ikke full
 | Category | n |
 | -------- | - |
 | 1 | 137 |
+| Not NA | 137 |
 | NA | 14164 |
 
 
@@ -1252,6 +1338,7 @@ Q19A_7_2_3:MOBA19_A; Jeg valgte feil eller ble usikker på valg. Hvorfor har du 
 | Category | n |
 | -------- | - |
 | 1 | 88 |
+| Not NA | 88 |
 | NA | 14213 |
 
 
@@ -1262,6 +1349,7 @@ Q19A_7_2_4:MOBA19_A; Jeg kom ikke inn på ønsket utdanningsprogram/programområ
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 14287 |
 
 
@@ -1272,6 +1360,7 @@ Q19A_7_2_5:MOBA19_A; Jeg kom ikke inn på ønsket skole. Hvorfor har du ikke ful
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 14293 |
 
 
@@ -1282,6 +1371,7 @@ Q19A_7_2_6:MOBA19_A; Jeg fikk ikke læreplass. Hvorfor har du ikke fullført vid
 | Category | n |
 | -------- | - |
 | 1 | 26 |
+| Not NA | 26 |
 | NA | 14275 |
 
 
@@ -1292,6 +1382,7 @@ Q19A_7_2_7:MOBA19_A; Jeg ble permittert fra læreplassen. Hvorfor har du ikke fu
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 14295 |
 
 
@@ -1302,6 +1393,7 @@ Q19A_7_2_8:MOBA19_A; Jeg mistet læreplassen / ble sagt opp. Hvorfor har du ikke
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 14293 |
 
 
@@ -1312,6 +1404,7 @@ Q19A_7_2_9:MOBA19_A; Jeg følte at jeg ikke mestret fagene på skolen. Hvorfor h
 | Category | n |
 | -------- | - |
 | 1 | 57 |
+| Not NA | 57 |
 | NA | 14244 |
 
 
@@ -1322,6 +1415,7 @@ Q19A_7_2_10:MOBA19_A; Jeg trivdes ikke med miljøet på skolen. Hvorfor har du i
 | Category | n |
 | -------- | - |
 | 1 | 87 |
+| Not NA | 87 |
 | NA | 14214 |
 
 
@@ -1332,6 +1426,7 @@ Q19A_7_2_11:MOBA19_A; Jeg mestret ikke jobben som lærling. Hvorfor har du ikke 
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 14287 |
 
 
@@ -1342,6 +1437,7 @@ Q19A_7_2_12:MOBA19_A; Jeg trivdes ikke i bedriften som lærling. Hvorfor har du 
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 14280 |
 
 
@@ -1352,6 +1448,7 @@ Q19A_7_2_13:MOBA19_A; Jeg mestret ikke hjemmeskole / hjemmearbeid under koronapa
 | Category | n |
 | -------- | - |
 | 1 | 40 |
+| Not NA | 40 |
 | NA | 14261 |
 
 
@@ -1362,6 +1459,7 @@ Q19A_7_2_14:MOBA19_A; Jeg fikk karakteren 1 / ikke bestått i et eller flere fag
 | Category | n |
 | -------- | - |
 | 1 | 64 |
+| Not NA | 64 |
 | NA | 14237 |
 
 
@@ -1372,6 +1470,7 @@ Q19A_7_2_15:MOBA19_A; Jeg fikk for høyt udokumentert fravær. Hvorfor har du ik
 | Category | n |
 | -------- | - |
 | 1 | 65 |
+| Not NA | 65 |
 | NA | 14236 |
 
 
@@ -1382,6 +1481,7 @@ Q19A_7_2_16:MOBA19_A; Jeg fikk ikke karakter i ett eller flere fag grunnet mangl
 | Category | n |
 | -------- | - |
 | 1 | 79 |
+| Not NA | 79 |
 | NA | 14222 |
 
 
@@ -1392,6 +1492,7 @@ Q19A_7_2_17:MOBA19_A; Jeg ønsket heller å jobbe. Hvorfor har du ikke fullført
 | Category | n |
 | -------- | - |
 | 1 | 81 |
+| Not NA | 81 |
 | NA | 14220 |
 
 
@@ -1402,6 +1503,7 @@ Q19A_7_2_18:MOBA19_A; Jeg ville heller gå på folkehøyskole. Hvorfor har du ik
 | Category | n |
 | -------- | - |
 | 1 | 26 |
+| Not NA | 26 |
 | NA | 14275 |
 
 
@@ -1412,6 +1514,7 @@ Q19A_7_2_19:MOBA19_A; Jeg ville ta et friår uten utdanning/arbeid. Hvorfor har 
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 14278 |
 
 
@@ -1422,6 +1525,7 @@ Q19A_7_2_20:MOBA19_A; Jeg ble fysisk syk. Hvorfor har du ikke fullført videreg�
 | Category | n |
 | -------- | - |
 | 1 | 89 |
+| Not NA | 89 |
 | NA | 14212 |
 
 
@@ -1432,6 +1536,7 @@ Q19A_7_2_21:MOBA19_A; Jeg fikk psykiske vansker. Hvorfor har du ikke fullført v
 | Category | n |
 | -------- | - |
 | 1 | 201 |
+| Not NA | 201 |
 | NA | 14100 |
 
 
@@ -1442,6 +1547,7 @@ Q19A_7_2_22:MOBA19_A; Jeg fikk rusproblemer. Hvorfor har du ikke fullført vider
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 14287 |
 
 
@@ -1452,6 +1558,7 @@ Q19A_7_2_23:MOBA19_A; Jeg opplevde problemer i familien. Hvorfor har du ikke ful
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 14274 |
 
 
@@ -1462,6 +1569,7 @@ Q19A_7_2_24:MOBA19_A; Jeg fikk barn. Hvorfor har du ikke fullført videregående
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 14294 |
 
 
@@ -1472,6 +1580,7 @@ Q19A_7_2_25:MOBA19_A; Jeg vet ikke. Hvorfor har du ikke fullført videregående?
 | Category | n |
 | -------- | - |
 | 1 | 26 |
+| Not NA | 26 |
 | NA | 14275 |
 
 
@@ -1482,6 +1591,7 @@ Q19A_7_2_26:MOBA19_A; Annet. Hvorfor har du ikke fullført videregående? (Hvis 
 | Category | n |
 | -------- | - |
 | 1 | 361 |
+| Not NA | 361 |
 | NA | 13940 |
 
 
@@ -1492,6 +1602,7 @@ Q19C_15_1:MOBA19_C; (Q19B_15_1:MOBA19_B); (Q19A_7_1:MOBA19_A); Ungdomsskole (set
 | Category | n |
 | -------- | - |
 | 1 | 11756 |
+| Not NA | 11756 |
 | NA | 2545 |
 
 
@@ -1502,6 +1613,7 @@ Q19C_15_2:MOBA19_C; (Q19B_15_2:MOBA19_B); (Q19A_7_2:MOBA19_A); Vg1/grunnkompetan
 | Category | n |
 | -------- | - |
 | 1 | 3796 |
+| Not NA | 3796 |
 | NA | 10505 |
 
 
@@ -1512,6 +1624,7 @@ Q19C_15_3:MOBA19_C; (Q19B_15_3:MOBA19_B); (Q19A_7_3:MOBA19_A); Vg1 (studieforber
 | Category | n |
 | -------- | - |
 | 1 | 8812 |
+| Not NA | 8812 |
 | NA | 5489 |
 
 
@@ -1522,6 +1635,7 @@ Q19C_15_4:MOBA19_C; (Q19B_15_4:MOBA19_B); (Q19A_7_4:MOBA19_A); Vg2 (yrkesfaglig)
 | Category | n |
 | -------- | - |
 | 1 | 3658 |
+| Not NA | 3658 |
 | NA | 10643 |
 
 
@@ -1532,6 +1646,7 @@ Q19C_15_5:MOBA19_C; (Q19B_15_5:MOBA19_B); (Q19A_7_5:MOBA19_A); Vg2 (studieforber
 | Category | n |
 | -------- | - |
 | 1 | 8672 |
+| Not NA | 8672 |
 | NA | 5629 |
 
 
@@ -1542,6 +1657,7 @@ Q19C_15_6:MOBA19_C; (Q19B_15_6:MOBA19_B); (Q19A_7_6:MOBA19_A); Fagbrev /svennebr
 | Category | n |
 | -------- | - |
 | 1 | 581 |
+| Not NA | 581 |
 | NA | 13720 |
 
 
@@ -1552,6 +1668,7 @@ Q19C_15_7:MOBA19_C; (Q19B_15_7:MOBA19_B); (Q19A_7_7:MOBA19_A); Vg3 (studieforber
 | Category | n |
 | -------- | - |
 | 1 | 9605 |
+| Not NA | 9605 |
 | NA | 4696 |
 
 
@@ -1562,6 +1679,7 @@ Q19C_15_8:MOBA19_C; (Q19B_15_8:MOBA19_B); (Q19A_7_8:MOBA19_A); Påbygging til ge
 | Category | n |
 | -------- | - |
 | 1 | 1268 |
+| Not NA | 1268 |
 | NA | 13033 |
 
 
@@ -1572,6 +1690,7 @@ Q19C_15_9:MOBA19_C; (Q19B_15_9:MOBA19_B); (Q19A_7_9:MOBA19_A); Fagskolegrad/mest
 | Category | n |
 | -------- | - |
 | 1 | 29 |
+| Not NA | 29 |
 | NA | 14272 |
 
 
@@ -1582,6 +1701,7 @@ Q19C_15_10:MOBA19_C; (Q19B_15_10:MOBA19_B); (Q19A_7_10:MOBA19_A); Høyskole/univ
 | Category | n |
 | -------- | - |
 | 1 | 370 |
+| Not NA | 370 |
 | NA | 13931 |
 
 
@@ -1592,6 +1712,7 @@ Q19C_15_11:MOBA19_C; (Q19B_15_11:MOBA19_B); (Q19A_7_11:MOBA19_A); Høyskole/univ
 | Category | n |
 | -------- | - |
 | 1 | 12 |
+| Not NA | 12 |
 | NA | 14289 |
 
 
@@ -1602,6 +1723,7 @@ Q19C_15_12:MOBA19_C; (Q19B_15_12:MOBA19_B); (Q19A_7_12:MOBA19_A); Annet; 15. Hvi
 | Category | n |
 | -------- | - |
 | 1 | 419 |
+| Not NA | 419 |
 | NA | 13882 |
 
 
@@ -1623,6 +1745,7 @@ Q19C_15_2_1:MOBA19_C; (Q19B_15_2_1:MOBA19_B); (Q19A_7_3_1:MOBA19_A); Hvor mange 
 | Jeg fikk ikke grunnskolepoeng | 251 |
 | 20-24 grunnskolepoeng (snitt 2,0-2,4) | 27 |
 | 15-19 grunnskolepoeng (snitt 1,5-1,9) | 19 |
+| Not NA | 14114 |
 | NA | 187 |
 
 
@@ -1639,6 +1762,7 @@ Q19C_15_3_1:MOBA19_C; (Q19B_15_3_1:MOBA19_B); (Q19A_7_4_1:MOBA19_A); Innen hvilk
 | Kunst, design og arkitektur | 301 |
 | Musikk, dans og drama | 733 |
 | Medier og kommunikasjon | 325 |
+| Not NA | 10772 |
 | NA | 3529 |
 
 
@@ -1660,6 +1784,7 @@ Q19C_15_4_1:MOBA19_C; (Q19B_15_4_1:MOBA19_B); (Q19A7_5:MOBA19_A); Hvor mange kar
 | 20-24 karakterpoeng (snitt 2,0-2,4) | 5 |
 | 15-19 karakterpoeng (snitt 1,5-1,9) | 3 |
 | 25-29 karakterpoeng (snitt 2,5-2,9) | 25 |
+| Not NA | 10746 |
 | NA | 3555 |
 
 
@@ -1681,6 +1806,7 @@ Q19C_15_5_1:MOBA19_C; (Q19B_15_5_1:MOBA19_B); (Q19A_7_6_1:MOBA19_A); Hva var dit
 | 2,0-2,4 | 13 |
 | 1,5-1,9 | 2 |
 | 1,0-1,4 | 1 |
+| Not NA | 3606 |
 | NA | 10695 |
 
 
@@ -1701,6 +1827,7 @@ Q19C_15_6_1:MOBA19_C; (Q19B_15_6_1:MOBA19_B); (Q19A9_7_7:MOBA19_A); Innen hvilke
 | Elektro og datateknologi | 505 |
 | Restaurant- og matfag | 142 |
 | Salg, service og reiseliv | 157 |
+| Not NA | 3621 |
 | NA | 10680 |
 
 
@@ -1711,6 +1838,7 @@ Q19C_16_1:MOBA19_C; (Q19B_16_1:MOBA19_B); (Q19A_8_1:MOBA19_A); Ungdomsskole elle
 | Category | n |
 | -------- | - |
 | 1 | 2213 |
+| Not NA | 2213 |
 | NA | 12088 |
 
 
@@ -1721,6 +1849,7 @@ Q19C_16_2:MOBA19_C; (Q19B_16_2:MOBA19_B); (Q19A_8_2:MOBA19_A); Grunnkompetanse (
 | Category | n |
 | -------- | - |
 | 1 | 630 |
+| Not NA | 630 |
 | NA | 13671 |
 
 
@@ -1731,6 +1860,7 @@ Q19C_16_3:MOBA19_C; (Q19B_16_3:MOBA19_B); (Q19A_8_3:MOBA19_A); Yrkeskompetanse (
 | Category | n |
 | -------- | - |
 | 1 | 2035 |
+| Not NA | 2035 |
 | NA | 12266 |
 
 
@@ -1741,6 +1871,7 @@ Q19C_16_4:MOBA19_C; (Q19B_16_4:MOBA19_B); (Q19A_8_4:MOBA19_A); Generell studieko
 | Category | n |
 | -------- | - |
 | 1 | 3234 |
+| Not NA | 3234 |
 | NA | 11067 |
 
 
@@ -1751,6 +1882,7 @@ Q19C_16_5:MOBA19_C; (Q19B_16_5:MOBA19_B); (Q19A_8_5:MOBA19_A); Fagskolegrad/mest
 | Category | n |
 | -------- | - |
 | 1 | 558 |
+| Not NA | 558 |
 | NA | 13743 |
 
 
@@ -1761,6 +1893,7 @@ Q19C_16_6:MOBA19_C; (Q19B_16_6:MOBA19_B); (Q19A_8_6:MOBA19_A); Høyskole/univers
 | Category | n |
 | -------- | - |
 | 1 | 7007 |
+| Not NA | 7007 |
 | NA | 7294 |
 
 
@@ -1771,6 +1904,7 @@ Q19C_16_7:MOBA19_C; (Q19B_16_7:MOBA19_B); (Q19A_8_7:MOBA19_A); Høyskole/univers
 | Category | n |
 | -------- | - |
 | 1 | 7691 |
+| Not NA | 7691 |
 | NA | 6610 |
 
 
@@ -1781,6 +1915,7 @@ Q19C_16_8:MOBA19_C; (Q19B_16_8:MOBA19_B); (Q19A_8_8:MOBA19_A); Annet; 16. Hvilke
 | Category | n |
 | -------- | - |
 | 1 | 267 |
+| Not NA | 267 |
 | NA | 14034 |
 
 
@@ -1791,6 +1926,7 @@ Q19C_16_9:MOBA19_C; (Q19B_16_9:MOBA19_B); (Q19A_8_9:MOBA19_A); Vet ikke; 16. Hvi
 | Category | n |
 | -------- | - |
 | 1 | 1000 |
+| Not NA | 1000 |
 | NA | 13301 |
 
 
@@ -1802,6 +1938,7 @@ Q19C_18:MOBA19_C; (Q19B_18:MOBA19_B); (Q19A10:MOBA19_A); Selv om du ikke er sikk
 | -------- | - |
 | Samme som ønsket | 11115 |
 | Annet | 2130 |
+| Not NA | 13245 |
 | NA | 1056 |
 
 
@@ -1815,6 +1952,7 @@ Q19B_22:MOBA19_B; (Hvis «Kvinne» for biologisk kjønn); 22. Er du gravid  nå?
 | Usikker | 38 |
 | Ønsker ikke å svare | 7 |
 | Ja | 8 |
+| Not NA | 2644 |
 | NA | 11657 |
 
 
@@ -1828,6 +1966,7 @@ Q19B_22_1:MOBA19_B; Planlegger du å gjennomføre graviditeten? (Hvis Ja eller U
 | Ønsker ikke å svare | 3 |
 | Nei | 23 |
 | Ja | 9 |
+| Not NA | 46 |
 | NA | 14255 |
 
 
@@ -1843,6 +1982,7 @@ AGE_YRS_VG; MOBA19_A; BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0.
 | 22 | 521 |
 | 20 | 1825 |
 | 23 | 287 |
+| Not NA | 14301 |
 | NA | 0 |
 
 

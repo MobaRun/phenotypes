@@ -901,6 +901,7 @@
 | 1 | 87835 |
 | 2 | 1472 |
 | 3 | 14 |
+| Not NA | 89321 |
 | NA | 0 |
 
 
@@ -914,6 +915,7 @@
 | SKJEMA4B | 34249 |
 | SKJEMA4A | 7906 |
 | SKJEMA4F | 14650 |
+| Not NA | 89321 |
 | NA | 0 |
 
 
@@ -938,6 +940,7 @@ V__0_3:SKJEMA4H; (V__0_3:SKJEMA4G); (V__0_3:SKJEMA4F); (V__0_3:SKJEMA4B); (S_0_3
 | 2066 | 1 |
 | 2033 | 1 |
 | 2022 | 1 |
+| Not NA | 87377 |
 | NA | 1944 |
 
 
@@ -950,6 +953,7 @@ V__1:SKJEMA4H; (V__1:SKJEMA4G); (V__1:SKJEMA4F); (V__1:SKJEMA4B); ; 1. Is your c
 | Girl | 39776 |
 | Boy | 41379 |
 | More than 1 check box filled in | 1 |
+| Not NA | 81156 |
 | NA | 8165 |
 
 
@@ -966,6 +970,7 @@ V__2_1:SKJEMA4H; (V__2_1:SKJEMA4G); (V__2_1:SKJEMA4F); (V__2_1:SKJEMA4B); Birth 
 | 3rd Qu. | 3938 |
 | Max. | 9500 |
 | NA's | 8108 |
+| Not NA | 81213 |
 
 
 ### DD14
@@ -981,6 +986,7 @@ V__2_2:SKJEMA4H; (V__2_2:SKJEMA4G); (V__2_2:SKJEMA4F); (V__2_2:SKJEMA4B); Length
 | 3rd Qu. | 52 |
 | Max. | 99 |
 | NA's | 9268 |
+| Not NA | 80053 |
 
 
 ### DD15
@@ -996,6 +1002,7 @@ V__3:SKJEMA4H; (V__3:SKJEMA4G); (V__3:SKJEMA4F); (V__3:SKJEMA4B); ; 3. In which 
 | 3rd Qu. | 41 |
 | Max. | 64 |
 | NA's | 10064 |
+| Not NA | 79257 |
 
 
 ### DD16
@@ -1011,6 +1018,7 @@ V__4_1:SKJEMA4H; (V__4_1:SKJEMA4G); (V__4_1:SKJEMA4F); (V__4_1:SKJEMA4B); Number
 | 3rd Qu. | 4 |
 | Max. | 95 |
 | NA's | 10404 |
+| Not NA | 78917 |
 
 
 ### DD17
@@ -1026,6 +1034,7 @@ V__4_2:SKJEMA4H; (V__4_2:SKJEMA4G); (V__4_2:SKJEMA4F); (V__4_2:SKJEMA4B); or wee
 | 3rd Qu. | 4 |
 | Max. | 43 |
 | NA's | 86049 |
+| Not NA | 3272 |
 
 
 ### DD18
@@ -1037,6 +1046,7 @@ V__5_1:SKJEMA4H; (V__5_1:SKJEMA4G); (V__5_1:SKJEMA4F); (V__5_1:SKJEMA4B); ; 5. W
 | No | 69297 |
 | Yes | 11763 |
 | More than 1 check box filled in | 14 |
+| Not NA | 81074 |
 | NA | 8247 |
 
 
@@ -1048,6 +1058,7 @@ V__6:SKJEMA4H; (V__6:SKJEMA4G); (V__6:SKJEMA4F); (V__6:SKJEMA4B); ; 6. Was your 
 | -------- | - |
 | No | 69112 |
 | Yes | 12161 |
+| Not NA | 81273 |
 | NA | 8048 |
 
 
@@ -1060,6 +1071,7 @@ V__7_1:SKJEMA4H; (V__7_1:SKJEMA4G); (V__7_1:SKJEMA4F); (V__7_1:SKJEMA4B); ; 7. I
 | No | 7745 |
 | Yes | 5491 |
 | More than 1 check box filled in | 40 |
+| Not NA | 13276 |
 | NA | 76045 |
 
 
@@ -1070,6 +1082,7 @@ V__7_2:SKJEMA4H; (V__7_2:SKJEMA4G); (V__7_2:SKJEMA4F); (V__7_2:SKJEMA4B); Breech
 | Category | n |
 | -------- | - |
 | 1 | 1994 |
+| Not NA | 1994 |
 | NA | 87327 |
 
 
@@ -1080,6 +1093,7 @@ V__7_3:SKJEMA4H; (V__7_3:SKJEMA4G); (V__7_3:SKJEMA4F); (V__7_3:SKJEMA4B); Previo
 | Category | n |
 | -------- | - |
 | 1 | 1443 |
+| Not NA | 1443 |
 | NA | 87878 |
 
 
@@ -1090,6 +1104,7 @@ V__7_4:SKJEMA4H; (V__7_4:SKJEMA4G); (V__7_4:SKJEMA4F); (V__7_4:SKJEMA4B); Pregna
 | Category | n |
 | -------- | - |
 | 1 | 1782 |
+| Not NA | 1782 |
 | NA | 87539 |
 
 
@@ -1100,6 +1115,7 @@ V__7_5:SKJEMA4H; (V__7_5:SKJEMA4G); (V__7_5:SKJEMA4F); (V__7_5:SKJEMA4B); Poor g
 | Category | n |
 | -------- | - |
 | 1 | 729 |
+| Not NA | 729 |
 | NA | 88592 |
 
 
@@ -1110,6 +1126,7 @@ V__7_6:SKJEMA4H; (V__7_6:SKJEMA4G); (V__7_6:SKJEMA4F); (V__7_6:SKJEMA4B); Own pr
 | Category | n |
 | -------- | - |
 | 1 | 1000 |
+| Not NA | 1000 |
 | NA | 88321 |
 
 
@@ -1120,6 +1137,7 @@ V__7_7:SKJEMA4H; (V__7_7:SKJEMA4G); (V__7_7:SKJEMA4F); (V__7_7:SKJEMA4B); Other 
 | Category | n |
 | -------- | - |
 | 1 | 2281 |
+| Not NA | 2281 |
 | NA | 87040 |
 
 
@@ -1132,6 +1150,7 @@ V__8_1:SKJEMA4H; (V__8_1:SKJEMA4G); (V__8_1:SKJEMA4F); (V__8_1:SKJEMA4B); ; 8. W
 | No | 64363 |
 | Yes | 14757 |
 | More than 1 check box filled in | 61 |
+| Not NA | 79181 |
 | NA | 10140 |
 
 
@@ -1144,6 +1163,7 @@ V__9:SKJEMA4H; (V__9:SKJEMA4G); (V__9:SKJEMA4F); (V__9:SKJEMA4B); (S_34:SKJEMA4A
 | No | 79418 |
 | Yes | 6244 |
 | More than 1 check box filled in | 15 |
+| Not NA | 85677 |
 | NA | 3644 |
 
 
@@ -1160,6 +1180,7 @@ V_11_1:SKJEMA4H; (V_11_1:SKJEMA4G); (V_11_1:SKJEMA4F); (V_11_1:SKJEMA4B); Before
 | 3rd Qu. | 1 |
 | Max. | 99 |
 | NA's | 24035 |
+| Not NA | 65286 |
 
 
 ### DD34
@@ -1175,6 +1196,7 @@ V_11_2:SKJEMA4H; (V_11_2:SKJEMA4G); (V_11_2:SKJEMA4F); (V_11_2:SKJEMA4B); After 
 | 3rd Qu. | 4 |
 | Max. | 99 |
 | NA's | 11197 |
+| Not NA | 78124 |
 
 
 ### DD35
@@ -1193,6 +1215,7 @@ V_12:SKJEMA4H; (V_12:SKJEMA4G); (V_12:SKJEMA4F); (V_12:SKJEMA4B); ; 12. Did the 
 | Yes, as expected + No, it was easier | 17 |
 | No, it was easier + Both yes and no_duplicated_8 | 16 |
 | No, it was easier + Both yes and no | 15 |
+| Not NA | 79269 |
 | NA | 10052 |
 
 
@@ -1206,6 +1229,7 @@ V_13_1:SKJEMA4H; (V_13_1:SKJEMA4G); (V_13_1:SKJEMA4F); (V_13_1:SKJEMA4B); (S_31_
 | Partially true | 11477 |
 | Not true | 1865 |
 | More than 1 check box filled in | 12 |
+| Not NA | 86829 |
 | NA | 2492 |
 
 
@@ -1219,6 +1243,7 @@ V_13_2:SKJEMA4H; (V_13_2:SKJEMA4G); (V_13_2:SKJEMA4F); (V_13_2:SKJEMA4B); (S_31_
 | Partially true | 30058 |
 | Not true | 13155 |
 | More than 1 check box filled in | 17 |
+| Not NA | 82274 |
 | NA | 7047 |
 
 
@@ -1232,6 +1257,7 @@ V_13_3:SKJEMA4H; (V_13_3:SKJEMA4G); (V_13_3:SKJEMA4F); (V_13_3:SKJEMA4B); (S_31_
 | Partially true | 14125 |
 | Fairly true | 7163 |
 | More than 1 check box filled in | 11 |
+| Not NA | 80809 |
 | NA | 8512 |
 
 
@@ -1242,6 +1268,7 @@ V_14_1:SKJEMA4H; (V_14_1:SKJEMA4G); (V_14_1:SKJEMA4F); (V_14_1:SKJEMA4B); (S_32_
 | Category | n |
 | -------- | - |
 | 1 | 84211 |
+| Not NA | 84211 |
 | NA | 5110 |
 
 
@@ -1252,6 +1279,7 @@ V_14_2:SKJEMA4H; (V_14_2:SKJEMA4G); (V_14_2:SKJEMA4F); (V_14_2:SKJEMA4B); (S_32_
 | Category | n |
 | -------- | - |
 | 1 | 2939 |
+| Not NA | 2939 |
 | NA | 86382 |
 
 
@@ -1262,6 +1290,7 @@ V_14_3:SKJEMA4H; (V_14_3:SKJEMA4G); (V_14_3:SKJEMA4F); (V_14_3:SKJEMA4B); (S_32_
 | Category | n |
 | -------- | - |
 | 1 | 1523 |
+| Not NA | 1523 |
 | NA | 87798 |
 
 
@@ -1278,6 +1307,7 @@ S_33:SKJEMA4A; ; 33. How many days were you in hospital in connection with the b
 | 3rd Qu. | 5 |
 | Max. | 90 |
 | NA's | 81592 |
+| Not NA | 7729 |
 
 
 ### DD42
@@ -1287,6 +1317,7 @@ V_15_1:SKJEMA4H; (V_15_1:SKJEMA4G); (V_15_1:SKJEMA4F); (V_15_1:SKJEMA4B); (S_1_1
 | Category | n |
 | -------- | - |
 | 1 | 87766 |
+| Not NA | 87766 |
 | NA | 1555 |
 
 
@@ -1297,6 +1328,7 @@ V_15_2:SKJEMA4H; (V_15_2:SKJEMA4G); (V_15_2:SKJEMA4F); (V_15_2:SKJEMA4B); (S_1_2
 | Category | n |
 | -------- | - |
 | 1 | 5146 |
+| Not NA | 5146 |
 | NA | 84175 |
 
 
@@ -1307,6 +1339,7 @@ V_15_3:SKJEMA4H; (V_15_3:SKJEMA4G); (V_15_3:SKJEMA4F); (V_15_3:SKJEMA4B); (S_1_3
 | Category | n |
 | -------- | - |
 | 1 | 6415 |
+| Not NA | 6415 |
 | NA | 82906 |
 
 
@@ -1317,6 +1350,7 @@ V_15_4:SKJEMA4H; (V_15_4:SKJEMA4G); (V_15_4:SKJEMA4F); (V_15_4:SKJEMA4B); (S_1_4
 | Category | n |
 | -------- | - |
 | 1 | 15262 |
+| Not NA | 15262 |
 | NA | 74059 |
 
 
@@ -1327,6 +1361,7 @@ V_15_5_1:SKJEMA4H; (V_15_5_1:SKJEMA4G); (V_15_5_1:SKJEMA4F); (V_15_5_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2086 |
+| Not NA | 2086 |
 | NA | 87235 |
 
 
@@ -1337,6 +1372,7 @@ V_15_6:SKJEMA4H; (V_15_6:SKJEMA4G); (V_15_6:SKJEMA4F); (V_15_6:SKJEMA4B); (S_1_6
 | Category | n |
 | -------- | - |
 | 1 | 266 |
+| Not NA | 266 |
 | NA | 89055 |
 
 
@@ -1347,6 +1383,7 @@ V_16_1_1:SKJEMA4H; (V_16_1_1:SKJEMA4G); (V_16_1_1:SKJEMA4F); (V_16_1_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 78604 |
+| Not NA | 78604 |
 | NA | 10717 |
 
 
@@ -1357,6 +1394,7 @@ V_16_1_2:SKJEMA4H; (V_16_1_2:SKJEMA4G); (V_16_1_2:SKJEMA4F); (V_16_1_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 78803 |
+| Not NA | 78803 |
 | NA | 10518 |
 
 
@@ -1367,6 +1405,7 @@ V_16_1_3:SKJEMA4H; (V_16_1_3:SKJEMA4G); (V_16_1_3:SKJEMA4F); (V_16_1_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 77052 |
+| Not NA | 77052 |
 | NA | 12269 |
 
 
@@ -1377,6 +1416,7 @@ V_16_1_4:SKJEMA4H; (V_16_1_4:SKJEMA4G); (V_16_1_4:SKJEMA4F); (V_16_1_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 74617 |
+| Not NA | 74617 |
 | NA | 14704 |
 
 
@@ -1387,6 +1427,7 @@ V_16_1_5:SKJEMA4H; (V_16_1_5:SKJEMA4G); (V_16_1_5:SKJEMA4F); (V_16_1_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 71669 |
+| Not NA | 71669 |
 | NA | 17652 |
 
 
@@ -1397,6 +1438,7 @@ V_16_1_6:SKJEMA4H; (V_16_1_6:SKJEMA4G); (V_16_1_6:SKJEMA4F); (V_16_1_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 69403 |
+| Not NA | 69403 |
 | NA | 19918 |
 
 
@@ -1407,6 +1449,7 @@ V_16_1_7:SKJEMA4H; (V_16_1_7:SKJEMA4G); (V_16_1_7:SKJEMA4F); (V_16_1_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 62358 |
+| Not NA | 62358 |
 | NA | 26963 |
 
 
@@ -1417,6 +1460,7 @@ V_16_2_1:SKJEMA4H; (V_16_2_1:SKJEMA4G); (V_16_2_1:SKJEMA4F); (V_16_2_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2586 |
+| Not NA | 2586 |
 | NA | 86735 |
 
 
@@ -1427,6 +1471,7 @@ V_16_2_2:SKJEMA4H; (V_16_2_2:SKJEMA4G); (V_16_2_2:SKJEMA4F); (V_16_2_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 783 |
+| Not NA | 783 |
 | NA | 88538 |
 
 
@@ -1437,6 +1482,7 @@ V_16_2_3:SKJEMA4H; (V_16_2_3:SKJEMA4G); (V_16_2_3:SKJEMA4F); (V_16_2_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 851 |
+| Not NA | 851 |
 | NA | 88470 |
 
 
@@ -1447,6 +1493,7 @@ V_16_2_4:SKJEMA4H; (V_16_2_4:SKJEMA4G); (V_16_2_4:SKJEMA4F); (V_16_2_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 916 |
+| Not NA | 916 |
 | NA | 88405 |
 
 
@@ -1457,6 +1504,7 @@ V_16_2_5:SKJEMA4H; (V_16_2_5:SKJEMA4G); (V_16_2_5:SKJEMA4F); (V_16_2_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1063 |
+| Not NA | 1063 |
 | NA | 88258 |
 
 
@@ -1467,6 +1515,7 @@ V_16_2_6:SKJEMA4H; (V_16_2_6:SKJEMA4G); (V_16_2_6:SKJEMA4F); (V_16_2_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1194 |
+| Not NA | 1194 |
 | NA | 88127 |
 
 
@@ -1477,6 +1526,7 @@ V_16_2_7:SKJEMA4H; (V_16_2_7:SKJEMA4G); (V_16_2_7:SKJEMA4F); (V_16_2_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1043 |
+| Not NA | 1043 |
 | NA | 88278 |
 
 
@@ -1487,6 +1537,7 @@ V_16_3_1:SKJEMA4H; (V_16_3_1:SKJEMA4G); (V_16_3_1:SKJEMA4F); (V_16_3_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2829 |
+| Not NA | 2829 |
 | NA | 86492 |
 
 
@@ -1497,6 +1548,7 @@ V_16_3_2:SKJEMA4H; (V_16_3_2:SKJEMA4G); (V_16_3_2:SKJEMA4F); (V_16_3_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2108 |
+| Not NA | 2108 |
 | NA | 87213 |
 
 
@@ -1507,6 +1559,7 @@ V_16_3_3:SKJEMA4H; (V_16_3_3:SKJEMA4G); (V_16_3_3:SKJEMA4F); (V_16_3_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2904 |
+| Not NA | 2904 |
 | NA | 86417 |
 
 
@@ -1517,6 +1570,7 @@ V_16_3_4:SKJEMA4H; (V_16_3_4:SKJEMA4G); (V_16_3_4:SKJEMA4F); (V_16_3_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3632 |
+| Not NA | 3632 |
 | NA | 85689 |
 
 
@@ -1527,6 +1581,7 @@ V_16_3_5:SKJEMA4H; (V_16_3_5:SKJEMA4G); (V_16_3_5:SKJEMA4F); (V_16_3_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4336 |
+| Not NA | 4336 |
 | NA | 84985 |
 
 
@@ -1537,6 +1592,7 @@ V_16_3_6:SKJEMA4H; (V_16_3_6:SKJEMA4G); (V_16_3_6:SKJEMA4F); (V_16_3_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4961 |
+| Not NA | 4961 |
 | NA | 84360 |
 
 
@@ -1547,6 +1603,7 @@ V_16_3_7:SKJEMA4H; (V_16_3_7:SKJEMA4G); (V_16_3_7:SKJEMA4F); (V_16_3_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4373 |
+| Not NA | 4373 |
 | NA | 84948 |
 
 
@@ -1557,6 +1614,7 @@ V_16_4_1:SKJEMA4H; (V_16_4_1:SKJEMA4G); (V_16_4_1:SKJEMA4F); (V_16_4_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 7663 |
+| Not NA | 7663 |
 | NA | 81658 |
 
 
@@ -1567,6 +1625,7 @@ V_16_4_2:SKJEMA4H; (V_16_4_2:SKJEMA4G); (V_16_4_2:SKJEMA4F); (V_16_4_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 8327 |
+| Not NA | 8327 |
 | NA | 80994 |
 
 
@@ -1577,6 +1636,7 @@ V_16_4_3:SKJEMA4H; (V_16_4_3:SKJEMA4G); (V_16_4_3:SKJEMA4F); (V_16_4_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 11140 |
+| Not NA | 11140 |
 | NA | 78181 |
 
 
@@ -1587,6 +1647,7 @@ V_16_4_4:SKJEMA4H; (V_16_4_4:SKJEMA4G); (V_16_4_4:SKJEMA4F); (V_16_4_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 14406 |
+| Not NA | 14406 |
 | NA | 74915 |
 
 
@@ -1597,6 +1658,7 @@ V_16_4_5:SKJEMA4H; (V_16_4_5:SKJEMA4G); (V_16_4_5:SKJEMA4F); (V_16_4_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 18156 |
+| Not NA | 18156 |
 | NA | 71165 |
 
 
@@ -1607,6 +1669,7 @@ V_16_4_6:SKJEMA4H; (V_16_4_6:SKJEMA4G); (V_16_4_6:SKJEMA4F); (V_16_4_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 20999 |
+| Not NA | 20999 |
 | NA | 68322 |
 
 
@@ -1617,6 +1680,7 @@ V_16_4_7:SKJEMA4H; (V_16_4_7:SKJEMA4G); (V_16_4_7:SKJEMA4F); (V_16_4_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 20906 |
+| Not NA | 20906 |
 | NA | 68415 |
 
 
@@ -1627,6 +1691,7 @@ V_16_5_1:SKJEMA4H; (V_16_5_1:SKJEMA4G); (V_16_5_1:SKJEMA4F); (V_16_5_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3355 |
+| Not NA | 3355 |
 | NA | 85966 |
 
 
@@ -1637,6 +1702,7 @@ V_16_5_2:SKJEMA4H; (V_16_5_2:SKJEMA4G); (V_16_5_2:SKJEMA4F); (V_16_5_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2503 |
+| Not NA | 2503 |
 | NA | 86818 |
 
 
@@ -1647,6 +1713,7 @@ V_16_5_3:SKJEMA4H; (V_16_5_3:SKJEMA4G); (V_16_5_3:SKJEMA4F); (V_16_5_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2841 |
+| Not NA | 2841 |
 | NA | 86480 |
 
 
@@ -1657,6 +1724,7 @@ V_16_5_4:SKJEMA4H; (V_16_5_4:SKJEMA4G); (V_16_5_4:SKJEMA4F); (V_16_5_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3083 |
+| Not NA | 3083 |
 | NA | 86238 |
 
 
@@ -1667,6 +1735,7 @@ V_16_5_5:SKJEMA4H; (V_16_5_5:SKJEMA4G); (V_16_5_5:SKJEMA4F); (V_16_5_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3037 |
+| Not NA | 3037 |
 | NA | 86284 |
 
 
@@ -1677,6 +1746,7 @@ V_16_5_6:SKJEMA4H; (V_16_5_6:SKJEMA4G); (V_16_5_6:SKJEMA4F); (V_16_5_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2776 |
+| Not NA | 2776 |
 | NA | 86545 |
 
 
@@ -1687,6 +1757,7 @@ V_16_5_7:SKJEMA4H; (V_16_5_7:SKJEMA4G); (V_16_5_7:SKJEMA4F); (V_16_5_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2457 |
+| Not NA | 2457 |
 | NA | 86864 |
 
 
@@ -1697,6 +1768,7 @@ V_16_6_1:SKJEMA4H; (V_16_6_1:SKJEMA4G); (V_16_6_1:SKJEMA4F); (V_16_6_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1647 |
+| Not NA | 1647 |
 | NA | 87674 |
 
 
@@ -1707,6 +1779,7 @@ V_16_6_2:SKJEMA4H; (V_16_6_2:SKJEMA4G); (V_16_6_2:SKJEMA4F); (V_16_6_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 941 |
+| Not NA | 941 |
 | NA | 88380 |
 
 
@@ -1717,6 +1790,7 @@ V_16_6_3:SKJEMA4H; (V_16_6_3:SKJEMA4G); (V_16_6_3:SKJEMA4F); (V_16_6_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1412 |
+| Not NA | 1412 |
 | NA | 87909 |
 
 
@@ -1727,6 +1801,7 @@ V_16_6_4:SKJEMA4H; (V_16_6_4:SKJEMA4G); (V_16_6_4:SKJEMA4F); (V_16_6_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2005 |
+| Not NA | 2005 |
 | NA | 87316 |
 
 
@@ -1737,6 +1812,7 @@ V_16_6_5:SKJEMA4H; (V_16_6_5:SKJEMA4G); (V_16_6_5:SKJEMA4F); (V_16_6_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2788 |
+| Not NA | 2788 |
 | NA | 86533 |
 
 
@@ -1747,6 +1823,7 @@ V_16_6_6:SKJEMA4H; (V_16_6_6:SKJEMA4G); (V_16_6_6:SKJEMA4F); (V_16_6_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3585 |
+| Not NA | 3585 |
 | NA | 85736 |
 
 
@@ -1757,6 +1834,7 @@ V_16_6_7:SKJEMA4H; (V_16_6_7:SKJEMA4G); (V_16_6_7:SKJEMA4F); (V_16_6_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3697 |
+| Not NA | 3697 |
 | NA | 85624 |
 
 
@@ -1771,6 +1849,7 @@ V_17_1:SKJEMA4H; (V_17_1:SKJEMA4G); (V_17_1:SKJEMA4F); (V_17_1:SKJEMA4B); (S_3_1
 | 1-3 times a week | 284 |
 | 4-6 times a week | 655 |
 | More than 1 check box filled in | 118 |
+| Not NA | 87850 |
 | NA | 1471 |
 
 
@@ -1785,6 +1864,7 @@ V_17_2:SKJEMA4H; (V_17_2:SKJEMA4G); (V_17_2:SKJEMA4F); (V_17_2:SKJEMA4B); (S_3_2
 | 1-3 times a week | 5978 |
 | 4-6 times a week | 2833 |
 | More than 1 check box filled in | 73 |
+| Not NA | 81012 |
 | NA | 8309 |
 
 
@@ -1799,6 +1879,7 @@ V_17_3:SKJEMA4H; (V_17_3:SKJEMA4G); (V_17_3:SKJEMA4F); (V_17_3:SKJEMA4B); (S_3_3
 | 1-3 times a week | 233 |
 | At least once a day | 215 |
 | More than 1 check box filled in | 8 |
+| Not NA | 75828 |
 | NA | 13493 |
 
 
@@ -1813,6 +1894,7 @@ V_17_4:SKJEMA4H; (V_17_4:SKJEMA4G); (V_17_4:SKJEMA4F); (V_17_4:SKJEMA4B); (S_3_4
 | At least once a day | 328 |
 | 4-6 times a week | 521 |
 | More than 1 check box filled in | 4 |
+| Not NA | 76026 |
 | NA | 13295 |
 
 
@@ -1827,6 +1909,7 @@ V_17_5:SKJEMA4H; (V_17_5:SKJEMA4G); (V_17_5:SKJEMA4F); (V_17_5:SKJEMA4B); (S_3_5
 | At least once a day | 183 |
 | 4-6 times a week | 132 |
 | More than 1 check box filled in | 17 |
+| Not NA | 75752 |
 | NA | 13569 |
 
 
@@ -1841,6 +1924,7 @@ V_17_6:SKJEMA4H; (V_17_6:SKJEMA4G); (V_17_6:SKJEMA4F); (V_17_6:SKJEMA4B); (S_3_6
 | 4-6 times a week | 6878 |
 | At least once a day | 19321 |
 | More than 1 check box filled in | 86 |
+| Not NA | 80447 |
 | NA | 8874 |
 
 
@@ -1855,6 +1939,7 @@ V_17_7:SKJEMA4H; (V_17_7:SKJEMA4G); (V_17_7:SKJEMA4F); (V_17_7:SKJEMA4B); (S_3_7
 | 1-3 times a week | 10486 |
 | 4-6 times a week | 6157 |
 | More than 1 check box filled in | 38 |
+| Not NA | 82239 |
 | NA | 7082 |
 
 
@@ -1869,6 +1954,7 @@ V_17_8:SKJEMA4H; (V_17_8:SKJEMA4G); (V_17_8:SKJEMA4F); (V_17_8:SKJEMA4B); (S_3_8
 | 4-6 times a week | 619 |
 | At least once a day | 803 |
 | More than 1 check box filled in | 17 |
+| Not NA | 77672 |
 | NA | 11649 |
 
 
@@ -1883,6 +1969,7 @@ V_17_9:SKJEMA4H; (V_17_9:SKJEMA4G); (V_17_9:SKJEMA4F); (V_17_9:SKJEMA4B); (S_3_9
 | 4-6 times a week | 1595 |
 | At least once a day | 1452 |
 | More than 1 check box filled in | 13 |
+| Not NA | 78457 |
 | NA | 10864 |
 
 
@@ -1897,6 +1984,7 @@ V_1710:SKJEMA4H; (V_1710:SKJEMA4G); (V_1710:SKJEMA4F); (V_1710:SKJEMA4B); (S_3_1
 | At least once a day | 190 |
 | 4-6 times a week | 282 |
 | More than 1 check box filled in | 4 |
+| Not NA | 77438 |
 | NA | 11883 |
 
 
@@ -1911,6 +1999,7 @@ V_1711:SKJEMA4H; (V_1711:SKJEMA4G); (V_1711:SKJEMA4F); (V_1711:SKJEMA4B); (S_3_1
 | 4-6 times a week | 117 |
 | At least once a day | 89 |
 | More than 1 check box filled in | 2 |
+| Not NA | 77315 |
 | NA | 12006 |
 
 
@@ -1925,6 +2014,7 @@ V_1712:SKJEMA4H; (V_1712:SKJEMA4G); (V_1712:SKJEMA4F); (V_1712:SKJEMA4B); (S_3_1
 | 4-6 times a week | 644 |
 | At least once a day | 495 |
 | More than 1 check box filled in | 8 |
+| Not NA | 77641 |
 | NA | 11680 |
 
 
@@ -1939,6 +2029,7 @@ V_1713_1:SKJEMA4H; (V_1713_1:SKJEMA4G); (V_1713_1:SKJEMA4F); (V_1713_1:SKJEMA4B)
 | 1-3 times a week | 1341 |
 | 4-6 times a week | 698 |
 | More than 1 check box filled in | 9 |
+| Not NA | 33173 |
 | NA | 56148 |
 
 
@@ -1949,6 +2040,7 @@ V_16_7_1:SKJEMA4H; (V_16_7_1:SKJEMA4G); (V_16_7_1:SKJEMA4F); Water at age 0 mont
 | Category | n |
 | -------- | - |
 | 1 | 1201 |
+| Not NA | 1201 |
 | NA | 88120 |
 
 
@@ -1959,6 +2051,7 @@ V_16_7_2:SKJEMA4H; (V_16_7_2:SKJEMA4G); (V_16_7_2:SKJEMA4F); Water at age 1 mont
 | Category | n |
 | -------- | - |
 | 1 | 1012 |
+| Not NA | 1012 |
 | NA | 88309 |
 
 
@@ -1969,6 +2062,7 @@ V_16_7_3:SKJEMA4H; (V_16_7_3:SKJEMA4G); (V_16_7_3:SKJEMA4F); Water at age 2 mont
 | Category | n |
 | -------- | - |
 | 1 | 1637 |
+| Not NA | 1637 |
 | NA | 87684 |
 
 
@@ -1979,6 +2073,7 @@ V_16_7_4:SKJEMA4H; (V_16_7_4:SKJEMA4G); (V_16_7_4:SKJEMA4F); Water at age 3 mont
 | Category | n |
 | -------- | - |
 | 1 | 3192 |
+| Not NA | 3192 |
 | NA | 86129 |
 
 
@@ -1989,6 +2084,7 @@ V_16_7_5:SKJEMA4H; (V_16_7_5:SKJEMA4G); (V_16_7_5:SKJEMA4F); Water at age 4 mont
 | Category | n |
 | -------- | - |
 | 1 | 7357 |
+| Not NA | 7357 |
 | NA | 81964 |
 
 
@@ -1999,6 +2095,7 @@ V_16_7_6:SKJEMA4H; (V_16_7_6:SKJEMA4G); (V_16_7_6:SKJEMA4F); Water at age 5 mont
 | Category | n |
 | -------- | - |
 | 1 | 14945 |
+| Not NA | 14945 |
 | NA | 74376 |
 
 
@@ -2009,6 +2106,7 @@ V_16_7_7:SKJEMA4H; (V_16_7_7:SKJEMA4G); (V_16_7_7:SKJEMA4F); Water at age 6 mont
 | Category | n |
 | -------- | - |
 | 1 | 22944 |
+| Not NA | 22944 |
 | NA | 66377 |
 
 
@@ -2019,6 +2117,7 @@ V_16_8_1:SKJEMA4H; (V_16_8_1:SKJEMA4G); (V_16_8_1:SKJEMA4F); Squash/Juice at age
 | Category | n |
 | -------- | - |
 | 1 | 826 |
+| Not NA | 826 |
 | NA | 88495 |
 
 
@@ -2029,6 +2128,7 @@ V_16_8_2:SKJEMA4H; (V_16_8_2:SKJEMA4G); (V_16_8_2:SKJEMA4F); Squash/Juice at age
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 89303 |
 
 
@@ -2039,6 +2139,7 @@ V_16_8_3:SKJEMA4H; (V_16_8_3:SKJEMA4G); (V_16_8_3:SKJEMA4F); Squash/Juice at age
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 89297 |
 
 
@@ -2049,6 +2150,7 @@ V_16_8_4:SKJEMA4H; (V_16_8_4:SKJEMA4G); (V_16_8_4:SKJEMA4F); Squash/Juice at age
 | Category | n |
 | -------- | - |
 | 1 | 97 |
+| Not NA | 97 |
 | NA | 89224 |
 
 
@@ -2059,6 +2161,7 @@ V_16_8_5:SKJEMA4H; (V_16_8_5:SKJEMA4G); (V_16_8_5:SKJEMA4F); Squash/Juice at age
 | Category | n |
 | -------- | - |
 | 1 | 574 |
+| Not NA | 574 |
 | NA | 88747 |
 
 
@@ -2069,6 +2172,7 @@ V_16_8_6:SKJEMA4H; (V_16_8_6:SKJEMA4G); (V_16_8_6:SKJEMA4F); Squash/Juice at age
 | Category | n |
 | -------- | - |
 | 1 | 1575 |
+| Not NA | 1575 |
 | NA | 87746 |
 
 
@@ -2079,6 +2183,7 @@ V_16_8_7:SKJEMA4H; (V_16_8_7:SKJEMA4G); (V_16_8_7:SKJEMA4F); Squash/Juice at age
 | Category | n |
 | -------- | - |
 | 1 | 3385 |
+| Not NA | 3385 |
 | NA | 85936 |
 
 
@@ -2093,6 +2198,7 @@ V_18_1_1:SKJEMA4H; (V_18_1_1:SKJEMA4G); (V_18_1_1:SKJEMA4F); (V_18_1_1:SKJEMA4B)
 | 1-3 times a week | 12860 |
 | Never / seldom | 30930 |
 | More than 1 check box filled in | 73 |
+| Not NA | 84913 |
 | NA | 4408 |
 
 
@@ -2112,6 +2218,7 @@ V_18_1_2:SKJEMA4H; (V_18_1_2:SKJEMA4G); (V_18_1_2:SKJEMA4F); (V_18_1_2:SKJEMA4B)
 | 1 | 13 |
 | 0 | 1 |
 | 18 | 1 |
+| Not NA | 67134 |
 | NA | 22187 |
 
 
@@ -2126,6 +2233,7 @@ V_18_2_1:SKJEMA4H; (V_18_2_1:SKJEMA4G); (V_18_2_1:SKJEMA4F); (V_18_2_1:SKJEMA4B)
 | Never / seldom | 28671 |
 | 1-3 times a week | 9151 |
 | More than 1 check box filled in | 100 |
+| Not NA | 84399 |
 | NA | 4922 |
 
 
@@ -2147,6 +2255,7 @@ V_18_2_2:SKJEMA4H; (V_18_2_2:SKJEMA4G); (V_18_2_2:SKJEMA4F); (V_18_2_2:SKJEMA4B)
 | 1 | 6 |
 | 0 | 1 |
 | 20 | 1 |
+| Not NA | 56785 |
 | NA | 32536 |
 
 
@@ -2161,6 +2270,7 @@ V_18_3_1:SKJEMA4H; (V_18_3_1:SKJEMA4G); (V_18_3_1:SKJEMA4F); (V_18_3_1:SKJEMA4B)
 | At least once a day | 21336 |
 | 1-3 times a week | 7866 |
 | More than 1 check box filled in | 90 |
+| Not NA | 82476 |
 | NA | 6845 |
 
 
@@ -2179,6 +2289,7 @@ V_18_3_2:SKJEMA4H; (V_18_3_2:SKJEMA4G); (V_18_3_2:SKJEMA4F); (V_18_3_2:SKJEMA4B)
 | 8 | 61 |
 | 1 | 6 |
 | 20 | 1 |
+| Not NA | 38360 |
 | NA | 50961 |
 
 
@@ -2193,6 +2304,7 @@ V_18_4_1:SKJEMA4H; (V_18_4_1:SKJEMA4G); (V_18_4_1:SKJEMA4F); (V_18_4_1:SKJEMA4B)
 | At least once a day | 526 |
 | 4-6 times a week | 336 |
 | More than 1 check box filled in | 3 |
+| Not NA | 80814 |
 | NA | 8507 |
 
 
@@ -2213,6 +2325,7 @@ V_18_4_2:SKJEMA4H; (V_18_4_2:SKJEMA4G); (V_18_4_2:SKJEMA4F); (V_18_4_2:SKJEMA4B)
 | 9 | 5 |
 | 1 | 2 |
 | 2 | 3 |
+| Not NA | 2202 |
 | NA | 87119 |
 
 
@@ -2227,6 +2340,7 @@ V_18_5_1:SKJEMA4H; (V_18_5_1:SKJEMA4G); (V_18_5_1:SKJEMA4F); (V_18_5_1:SKJEMA4B)
 | At least once a day | 144 |
 | 4-6 times a week | 77 |
 | More than 1 check box filled in | 1 |
+| Not NA | 80585 |
 | NA | 8736 |
 
 
@@ -2244,6 +2358,7 @@ V_18_5_2:SKJEMA4H; (V_18_5_2:SKJEMA4G); (V_18_5_2:SKJEMA4F); (V_18_5_2:SKJEMA4B)
 | 1 | 4 |
 | 8 | 3 |
 | 10 | 1 |
+| Not NA | 588 |
 | NA | 88733 |
 
 
@@ -2258,6 +2373,7 @@ V_18_6_1:SKJEMA4H; (V_18_6_1:SKJEMA4G); (V_18_6_1:SKJEMA4F); (V_18_6_1:SKJEMA4B)
 | 4-6 times a week | 367 |
 | At least once a day | 840 |
 | More than 1 check box filled in | 5 |
+| Not NA | 80839 |
 | NA | 8482 |
 
 
@@ -2276,6 +2392,7 @@ V_18_6_2:SKJEMA4H; (V_18_6_2:SKJEMA4G); (V_18_6_2:SKJEMA4F); (V_18_6_2:SKJEMA4B)
 | 1 | 1 |
 | 10 | 1 |
 | 2 | 2 |
+| Not NA | 1970 |
 | NA | 87351 |
 
 
@@ -2290,6 +2407,7 @@ V_18_7_1:SKJEMA4H; (V_18_7_1:SKJEMA4G); (V_18_7_1:SKJEMA4F); (V_18_7_1:SKJEMA4B)
 | 1-3 times a week | 1605 |
 | 4-6 times a week | 991 |
 | More than 1 check box filled in | 16 |
+| Not NA | 81034 |
 | NA | 8287 |
 
 
@@ -2307,6 +2425,7 @@ V_18_7_2:SKJEMA4H; (V_18_7_2:SKJEMA4G); (V_18_7_2:SKJEMA4F); (V_18_7_2:SKJEMA4B)
 | 1 | 2 |
 | 8 | 2 |
 | 2 | 1 |
+| Not NA | 5073 |
 | NA | 84248 |
 
 
@@ -2321,6 +2440,7 @@ V_18_8_1:SKJEMA4H; (V_18_8_1:SKJEMA4G); (V_18_8_1:SKJEMA4F); (V_18_8_1:SKJEMA4B)
 | 4-6 times a week | 7351 |
 | At least once a day | 9254 |
 | More than 1 check box filled in | 57 |
+| Not NA | 82014 |
 | NA | 7307 |
 
 
@@ -2341,6 +2461,7 @@ V_18_8_2:SKJEMA4H; (V_18_8_2:SKJEMA4G); (V_18_8_2:SKJEMA4F); (V_18_8_2:SKJEMA4B)
 | 9 | 7 |
 | 11 | 1 |
 | 24 | 1 |
+| Not NA | 38709 |
 | NA | 50612 |
 
 
@@ -2355,6 +2476,7 @@ V_18_9_1:SKJEMA4H; (V_18_9_1:SKJEMA4G); (V_18_9_1:SKJEMA4F); (V_18_9_1:SKJEMA4B)
 | 1-3 times a week | 13198 |
 | At least once a day | 14160 |
 | More than 1 check box filled in | 100 |
+| Not NA | 83579 |
 | NA | 5742 |
 
 
@@ -2374,6 +2496,7 @@ V_18_9_2:SKJEMA4H; (V_18_9_2:SKJEMA4G); (V_18_9_2:SKJEMA4F); (V_18_9_2:SKJEMA4B)
 | 2 | 3 |
 | 10 | 1 |
 | 1 | 1 |
+| Not NA | 37877 |
 | NA | 51444 |
 
 
@@ -2388,6 +2511,7 @@ V_1810_1:SKJEMA4H; (V_1810_1:SKJEMA4G); (V_1810_1:SKJEMA4F); (V_1810_1:SKJEMA4B)
 | 4-6 times a week | 6979 |
 | At least once a day | 7614 |
 | More than 1 check box filled in | 71 |
+| Not NA | 83609 |
 | NA | 5712 |
 
 
@@ -2408,6 +2532,7 @@ V_1810_2:SKJEMA4H; (V_1810_2:SKJEMA4G); (V_1810_2:SKJEMA4F); (V_1810_2:SKJEMA4B)
 | 2 | 3 |
 | 12 | 2 |
 | 10 | 5 |
+| Not NA | 36700 |
 | NA | 52621 |
 
 
@@ -2422,6 +2547,7 @@ V_1811_1:SKJEMA4H; (V_1811_1:SKJEMA4G); (V_1811_1:SKJEMA4F); (V_1811_1:SKJEMA4B)
 | 1-3 times a week | 6822 |
 | 4-6 times a week | 2230 |
 | More than 1 check box filled in | 20 |
+| Not NA | 81077 |
 | NA | 8244 |
 
 
@@ -2441,6 +2567,7 @@ V_1811_2:SKJEMA4H; (V_1811_2:SKJEMA4G); (V_1811_2:SKJEMA4F); (V_1811_2:SKJEMA4B)
 | 10 | 8 |
 | 9 | 5 |
 | 12 | 2 |
+| Not NA | 11356 |
 | NA | 77965 |
 
 
@@ -2455,6 +2582,7 @@ V_1812_1:SKJEMA4H; (V_1812_1:SKJEMA4G); (V_1812_1:SKJEMA4F); (V_1812_1:SKJEMA4B)
 | 4-6 times a week | 779 |
 | At least once a day | 642 |
 | More than 1 check box filled in | 10 |
+| Not NA | 80634 |
 | NA | 8687 |
 
 
@@ -2475,6 +2603,7 @@ V_1812_2:SKJEMA4H; (V_1812_2:SKJEMA4G); (V_1812_2:SKJEMA4F); (V_1812_2:SKJEMA4B)
 | 12 | 4 |
 | 10 | 8 |
 | 0 | 1 |
+| Not NA | 6850 |
 | NA | 82471 |
 
 
@@ -2489,6 +2618,7 @@ V_1813_1:SKJEMA4H; (V_1813_1:SKJEMA4G); (V_1813_1:SKJEMA4F); (V_1813_1:SKJEMA4B)
 | At least once a day | 1046 |
 | 4-6 times a week | 971 |
 | More than 1 check box filled in | 11 |
+| Not NA | 79844 |
 | NA | 9477 |
 
 
@@ -2509,6 +2639,7 @@ V_1813_2:SKJEMA4H; (V_1813_2:SKJEMA4G); (V_1813_2:SKJEMA4F); (V_1813_2:SKJEMA4B)
 | 10 | 8 |
 | 13 | 1 |
 | 12 | 1 |
+| Not NA | 7835 |
 | NA | 81486 |
 
 
@@ -2523,6 +2654,7 @@ V_1814_1:SKJEMA4H; (V_1814_1:SKJEMA4G); (V_1814_1:SKJEMA4F); (V_1814_1:SKJEMA4B)
 | 1-3 times a week | 16566 |
 | 4-6 times a week | 8927 |
 | More than 1 check box filled in | 55 |
+| Not NA | 81862 |
 | NA | 7459 |
 
 
@@ -2543,6 +2675,7 @@ V_1814_2:SKJEMA4H; (V_1814_2:SKJEMA4G); (V_1814_2:SKJEMA4F); (V_1814_2:SKJEMA4B)
 | 1 | 4 |
 | 9 | 2 |
 | 10 | 2 |
+| Not NA | 33629 |
 | NA | 55692 |
 
 
@@ -2557,6 +2690,7 @@ V_1815_1:SKJEMA4H; (V_1815_1:SKJEMA4G); (V_1815_1:SKJEMA4F); (V_1815_1:SKJEMA4B)
 | 1-3 times a week | 19852 |
 | 4-6 times a week | 13840 |
 | More than 1 check box filled in | 109 |
+| Not NA | 84643 |
 | NA | 4678 |
 
 
@@ -2576,6 +2710,7 @@ V_1815_2:SKJEMA4H; (V_1815_2:SKJEMA4G); (V_1815_2:SKJEMA4F); (V_1815_2:SKJEMA4B)
 | 8 | 39 |
 | 1 | 2 |
 | 24 | 1 |
+| Not NA | 50191 |
 | NA | 39130 |
 
 
@@ -2590,6 +2725,7 @@ V_1816_1:SKJEMA4H; (V_1816_1:SKJEMA4G); (V_1816_1:SKJEMA4F); (V_1816_1:SKJEMA4B)
 | At least once a day | 3465 |
 | 4-6 times a week | 3345 |
 | More than 1 check box filled in | 49 |
+| Not NA | 80708 |
 | NA | 8613 |
 
 
@@ -2610,6 +2746,7 @@ V_1816_2:SKJEMA4H; (V_1816_2:SKJEMA4G); (V_1816_2:SKJEMA4F); (V_1816_2:SKJEMA4B)
 | 10 | 5 |
 | 2 | 1 |
 | 1 | 2 |
+| Not NA | 15296 |
 | NA | 74025 |
 
 
@@ -2624,6 +2761,7 @@ V_1817_1:SKJEMA4H; (V_1817_1:SKJEMA4G); (V_1817_1:SKJEMA4F); (V_1817_1:SKJEMA4B)
 | 4-6 times a week | 1283 |
 | 1-3 times a week | 1869 |
 | More than 1 check box filled in | 10 |
+| Not NA | 42814 |
 | NA | 46507 |
 
 
@@ -2644,6 +2782,7 @@ V_1817_2:SKJEMA4H; (V_1817_2:SKJEMA4G); (V_1817_2:SKJEMA4F); (V_1817_2:SKJEMA4B)
 | 0 | 16 |
 | 1 | 5 |
 | 11 | 1 |
+| Not NA | 4999 |
 | NA | 84322 |
 
 
@@ -2656,6 +2795,7 @@ V_19:SKJEMA4H; (V_19:SKJEMA4G); (V_19:SKJEMA4F); (V_19:SKJEMA4B); (S_5:SKJEMA4A)
 | No | 84036 |
 | Yes | 4512 |
 | More than 1 check box filled in | 16 |
+| Not NA | 88564 |
 | NA | 757 |
 
 
@@ -2666,6 +2806,7 @@ V_20_1:SKJEMA4H; (V_20_1:SKJEMA4G); (V_20_1:SKJEMA4F); (V_20_1:SKJEMA4B); (S_6_1
 | Category | n |
 | -------- | - |
 | 1 | 1434 |
+| Not NA | 1434 |
 | NA | 87887 |
 
 
@@ -2676,6 +2817,7 @@ V_20_2:SKJEMA4H; (V_20_2:SKJEMA4G); (V_20_2:SKJEMA4F); (V_20_2:SKJEMA4B); (S_6_2
 | Category | n |
 | -------- | - |
 | 1 | 1391 |
+| Not NA | 1391 |
 | NA | 87930 |
 
 
@@ -2686,6 +2828,7 @@ V_20_3:SKJEMA4H; (V_20_3:SKJEMA4G); (V_20_3:SKJEMA4F); (V_20_3:SKJEMA4B); (S_6_3
 | Category | n |
 | -------- | - |
 | 1 | 1314 |
+| Not NA | 1314 |
 | NA | 88007 |
 
 
@@ -2696,6 +2839,7 @@ V_20_4:SKJEMA4H; (V_20_4:SKJEMA4G); (V_20_4:SKJEMA4F); (V_20_4:SKJEMA4B); (S_6_4
 | Category | n |
 | -------- | - |
 | 1 | 1096 |
+| Not NA | 1096 |
 | NA | 88225 |
 
 
@@ -2706,6 +2850,7 @@ V_20_5:SKJEMA4H; (V_20_5:SKJEMA4G); (V_20_5:SKJEMA4F); (V_20_5:SKJEMA4B); (S_6_5
 | Category | n |
 | -------- | - |
 | 1 | 2834 |
+| Not NA | 2834 |
 | NA | 86487 |
 
 
@@ -2716,6 +2861,7 @@ V_20_6:SKJEMA4H; (V_20_6:SKJEMA4G); (V_20_6:SKJEMA4F); (V_20_6:SKJEMA4B); (S_6_6
 | Category | n |
 | -------- | - |
 | 1 | 1193 |
+| Not NA | 1193 |
 | NA | 88128 |
 
 
@@ -2728,6 +2874,7 @@ V_21:SKJEMA4H; (V_21:SKJEMA4G); (V_21:SKJEMA4F); (V_21:SKJEMA4B); (S_7:SKJEMA4A)
 | Yes | 74009 |
 | No | 14212 |
 | More than 1 check box filled in | 67 |
+| Not NA | 88288 |
 | NA | 1033 |
 
 
@@ -2746,6 +2893,7 @@ V_22_1_1:SKJEMA4H; (V_22_1_1:SKJEMA4G); (V_22_1_1:SKJEMA4F); (V_22_1_1:SKJEMA4B)
 | 6 | 11 |
 | 7 | 6 |
 | 8 | 1 |
+| Not NA | 46369 |
 | NA | 42952 |
 
 
@@ -2758,6 +2906,7 @@ V_22_1_2:SKJEMA4H; (V_22_1_2:SKJEMA4G); (V_22_1_2:SKJEMA4F); (V_22_1_2:SKJEMA4B)
 | Every day | 28782 |
 | Sometimes | 17775 |
 | More than 1 check box filled in | 92 |
+| Not NA | 46649 |
 | NA | 42672 |
 
 
@@ -2777,6 +2926,7 @@ V_22_1_3:SKJEMA4H; (V_22_1_3:SKJEMA4G); (V_22_1_3:SKJEMA4F); (V_22_1_3:SKJEMA4B)
 | 7 | 85 |
 | 9 | 6 |
 | 8 | 8 |
+| Not NA | 28370 |
 | NA | 60951 |
 
 
@@ -2796,6 +2946,7 @@ V_22_1_4:SKJEMA4H; (V_22_1_4:SKJEMA4G); (V_22_1_4:SKJEMA4F); (V_22_1_4:SKJEMA4B)
 | 7 | 449 |
 | 5 | 1192 |
 | 9 | 48 |
+| Not NA | 32898 |
 | NA | 56423 |
 
 
@@ -2813,6 +2964,7 @@ V_22_2_1:SKJEMA4H; (V_22_2_1:SKJEMA4G); (V_22_2_1:SKJEMA4F); (V_22_2_1:SKJEMA4B)
 | 4 | 68 |
 | 5 | 28 |
 | 8 | 3 |
+| Not NA | 6188 |
 | NA | 83133 |
 
 
@@ -2825,6 +2977,7 @@ V_22_2_2:SKJEMA4H; (V_22_2_2:SKJEMA4G); (V_22_2_2:SKJEMA4F); (V_22_2_2:SKJEMA4B)
 | Sometimes | 1494 |
 | Every day | 2815 |
 | More than 1 check box filled in | 14 |
+| Not NA | 4323 |
 | NA | 84998 |
 
 
@@ -2845,6 +2998,7 @@ V_22_2_3:SKJEMA4H; (V_22_2_3:SKJEMA4G); (V_22_2_3:SKJEMA4F); (V_22_2_3:SKJEMA4B)
 | 7 | 21 |
 | 9 | 1 |
 | 8 | 2 |
+| Not NA | 2917 |
 | NA | 86404 |
 
 
@@ -2864,6 +3018,7 @@ V_22_2_4:SKJEMA4H; (V_22_2_4:SKJEMA4G); (V_22_2_4:SKJEMA4F); (V_22_2_4:SKJEMA4B)
 | 9 | 5 |
 | 5 | 59 |
 | 7 | 28 |
+| Not NA | 2201 |
 | NA | 87120 |
 
 
@@ -2881,6 +3036,7 @@ V_22_3_1:SKJEMA4H; (V_22_3_1:SKJEMA4G); (V_22_3_1:SKJEMA4F); (V_22_3_1:SKJEMA4B)
 | 4 | 19 |
 | 8 | 1 |
 | 6 | 2 |
+| Not NA | 5800 |
 | NA | 83521 |
 
 
@@ -2893,6 +3049,7 @@ V_22_3_2:SKJEMA4H; (V_22_3_2:SKJEMA4G); (V_22_3_2:SKJEMA4F); (V_22_3_2:SKJEMA4B)
 | Every day | 1990 |
 | Sometimes | 1842 |
 | More than 1 check box filled in | 3 |
+| Not NA | 3835 |
 | NA | 85486 |
 
 
@@ -2913,6 +3070,7 @@ V_22_3_3:SKJEMA4H; (V_22_3_3:SKJEMA4G); (V_22_3_3:SKJEMA4F); (V_22_3_3:SKJEMA4B)
 | 8 | 9 |
 | 9 | 5 |
 | 13 | 1 |
+| Not NA | 3134 |
 | NA | 86187 |
 
 
@@ -2932,6 +3090,7 @@ V_22_3_4:SKJEMA4H; (V_22_3_4:SKJEMA4G); (V_22_3_4:SKJEMA4F); (V_22_3_4:SKJEMA4B)
 | 8 | 56 |
 | 9 | 6 |
 | 5 | 29 |
+| Not NA | 1444 |
 | NA | 87877 |
 
 
@@ -2946,6 +3105,7 @@ V_22_4_1:SKJEMA4B; (S_8_4_1:SKJEMA4A); How much each time of Collet vitamins for
 | 2 | 19 |
 | 3 | 6 |
 | 5 | 1 |
+| Not NA | 926 |
 | NA | 88395 |
 
 
@@ -2958,6 +3118,7 @@ V_22_4_2:SKJEMA4B; (S_8_4_2:SKJEMA4A); How often does your child take Collet vit
 | Every day | 185 |
 | Sometimes | 81 |
 | More than 1 check box filled in | 2 |
+| Not NA | 268 |
 | NA | 89053 |
 
 
@@ -2974,6 +3135,7 @@ V_22_4_3:SKJEMA4B; (S_8_4_3:SKJEMA4A); How old was your child when you started w
 | 2 | 30 |
 | 6 | 10 |
 | 5 | 10 |
+| Not NA | 167 |
 | NA | 89154 |
 
 
@@ -2992,6 +3154,7 @@ V_22_4_4:SKJEMA4B; (S_8_4_4:SKJEMA4A); How old was your child when you started w
 | 8 | 9 |
 | 7 | 2 |
 | 5 | 2 |
+| Not NA | 145 |
 | NA | 89176 |
 
 
@@ -3004,6 +3167,7 @@ V_22_5_2:SKJEMA4H; (V_22_5_2:SKJEMA4G); (V_22_5_2:SKJEMA4F); (V_22_5_2:SKJEMA4B)
 | Every day | 1161 |
 | Sometimes | 351 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1514 |
 | NA | 87807 |
 
 
@@ -3024,6 +3188,7 @@ V_22_5_3:SKJEMA4H; (V_22_5_3:SKJEMA4G); (V_22_5_3:SKJEMA4F); (V_22_5_3:SKJEMA4B)
 | 9 | 3 |
 | 8 | 5 |
 | 13 | 1 |
+| Not NA | 1463 |
 | NA | 87858 |
 
 
@@ -3042,6 +3207,7 @@ V_22_5_4:SKJEMA4H; (V_22_5_4:SKJEMA4G); (V_22_5_4:SKJEMA4F); (V_22_5_4:SKJEMA4B)
 | 5 | 2 |
 | 9 | 1 |
 | 8 | 2 |
+| Not NA | 632 |
 | NA | 88689 |
 
 
@@ -3054,6 +3220,7 @@ V_22_6_2:SKJEMA4H; (V_22_6_2:SKJEMA4G); (V_22_6_2:SKJEMA4F); (V_22_6_2:SKJEMA4B)
 | Every day | 3355 |
 | Sometimes | 613 |
 | More than 1 check box filled in | 7 |
+| Not NA | 3975 |
 | NA | 85346 |
 
 
@@ -3072,6 +3239,7 @@ V_22_6_3:SKJEMA4H; (V_22_6_3:SKJEMA4G); (V_22_6_3:SKJEMA4F); (V_22_6_3:SKJEMA4B)
 | 6 | 130 |
 | 7 | 9 |
 | 8 | 2 |
+| Not NA | 2254 |
 | NA | 87067 |
 
 
@@ -3091,6 +3259,7 @@ V_22_6_4:SKJEMA4H; (V_22_6_4:SKJEMA4G); (V_22_6_4:SKJEMA4F); (V_22_6_4:SKJEMA4B)
 | 7 | 18 |
 | 8 | 28 |
 | 9 | 3 |
+| Not NA | 2875 |
 | NA | 86446 |
 
 
@@ -3103,6 +3272,7 @@ V_22_7_2:SKJEMA4H; (V_22_7_2:SKJEMA4G); (V_22_7_2:SKJEMA4F); (V_22_7_2:SKJEMA4B)
 | Every day | 22136 |
 | Sometimes | 6032 |
 | More than 1 check box filled in | 19 |
+| Not NA | 28187 |
 | NA | 61134 |
 
 
@@ -3122,6 +3292,7 @@ V_22_7_3:SKJEMA4H; (V_22_7_3:SKJEMA4G); (V_22_7_3:SKJEMA4F); (V_22_7_3:SKJEMA4B)
 | 7 | 45 |
 | 9 | 2 |
 | 8 | 5 |
+| Not NA | 19129 |
 | NA | 70192 |
 
 
@@ -3141,6 +3312,7 @@ V_22_7_4:SKJEMA4H; (V_22_7_4:SKJEMA4G); (V_22_7_4:SKJEMA4F); (V_22_7_4:SKJEMA4B)
 | 3 | 1015 |
 | 8 | 436 |
 | 9 | 30 |
+| Not NA | 18273 |
 | NA | 71048 |
 
 
@@ -3160,6 +3332,7 @@ V_22_4_1:SKJEMA4H; (V_22_4_1:SKJEMA4G); (V_22_4_1:SKJEMA4F); How much each time 
 | 6 | 2 |
 | 8 | 1 |
 | 7 | 3 |
+| Not NA | 2631 |
 | NA | 86690 |
 
 
@@ -3172,6 +3345,7 @@ V_22_4_2:SKJEMA4H; (V_22_4_2:SKJEMA4G); (V_22_4_2:SKJEMA4F); How often do you gi
 | Sometimes | 278 |
 | Every day | 1079 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1358 |
 | NA | 87963 |
 
 
@@ -3191,6 +3365,7 @@ V_22_4_3:SKJEMA4H; (V_22_4_3:SKJEMA4G); (V_22_4_3:SKJEMA4F); How old was your ch
 | 7 | 2 |
 | 9 | 1 |
 | 8 | 1 |
+| Not NA | 1014 |
 | NA | 88307 |
 
 
@@ -3209,6 +3384,7 @@ V_22_4_4:SKJEMA4H; (V_22_4_4:SKJEMA4G); (V_22_4_4:SKJEMA4F); How old was your ch
 | 3 | 67 |
 | 8 | 6 |
 | 7 | 7 |
+| Not NA | 1025 |
 | NA | 88296 |
 
 
@@ -3223,6 +3399,7 @@ V_23:SKJEMA4H; (V_23:SKJEMA4G); (V_23:SKJEMA4F); (V_23:SKJEMA4B); ; 23. How many
 | More than 10 times | 6522 |
 | 1-2 times | 480 |
 | Never | 23 |
+| Not NA | 80057 |
 | NA | 9264 |
 
 
@@ -3242,6 +3419,7 @@ V_24:SKJEMA4H; (V_24:SKJEMA4G); (V_24:SKJEMA4F); (V_24:SKJEMA4B); (S_10:SKJEMA4A
 | (2+4) No, I do not want vaccination + No, vaccinations postponed for practical reasons | 15 |
 | (1+3) Yes + No, the child has been often ill | 19 |
 | (3+4) No, the child has been often ill + No, vaccinations postponed for practical reasons | 16 |
+| Not NA | 88764 |
 | NA | 557 |
 
 
@@ -3254,6 +3432,7 @@ V_25_1_1:SKJEMA4H; (V_25_1_1:SKJEMA4G); (V_25_1_1:SKJEMA4F); (V_25_1_1:SKJEMA4B)
 | Yes | 79031 |
 | No | 2973 |
 | More than 1 check box filled in | 11 |
+| Not NA | 82015 |
 | NA | 7306 |
 
 
@@ -3266,6 +3445,7 @@ V_25_1_2:SKJEMA4H; (V_25_1_2:SKJEMA4G); (V_25_1_2:SKJEMA4F); (V_25_1_2:SKJEMA4B)
 | No | 58816 |
 | Yes | 19031 |
 | More than 1 check box filled in | 16 |
+| Not NA | 77863 |
 | NA | 11458 |
 
 
@@ -3278,6 +3458,7 @@ V_25_1_3:SKJEMA4H; (V_25_1_3:SKJEMA4G); (V_25_1_3:SKJEMA4F); (V_25_1_3:SKJEMA4B)
 | No | 58834 |
 | Yes | 766 |
 | More than 1 check box filled in | 1 |
+| Not NA | 59601 |
 | NA | 29720 |
 
 
@@ -3289,6 +3470,7 @@ V_25_1_4:SKJEMA4H; (V_25_1_4:SKJEMA4G); (V_25_1_4:SKJEMA4F); (V_25_1_4:SKJEMA4B)
 | -------- | - |
 | No | 58778 |
 | Yes | 39 |
+| Not NA | 58817 |
 | NA | 30504 |
 
 
@@ -3301,6 +3483,7 @@ V_25_2_1:SKJEMA4H; (V_25_2_1:SKJEMA4G); (V_25_2_1:SKJEMA4F); (V_25_2_1:SKJEMA4B)
 | Yes | 22097 |
 | No | 41166 |
 | More than 1 check box filled in | 5 |
+| Not NA | 63268 |
 | NA | 26053 |
 
 
@@ -3313,6 +3496,7 @@ V_25_2_2:SKJEMA4H; (V_25_2_2:SKJEMA4G); (V_25_2_2:SKJEMA4F); (V_25_2_2:SKJEMA4B)
 | No | 21703 |
 | Yes | 5097 |
 | More than 1 check box filled in | 4 |
+| Not NA | 26804 |
 | NA | 62517 |
 
 
@@ -3324,6 +3508,7 @@ V_25_2_3:SKJEMA4H; (V_25_2_3:SKJEMA4G); (V_25_2_3:SKJEMA4F); (V_25_2_3:SKJEMA4B)
 | -------- | - |
 | No | 20019 |
 | Yes | 216 |
+| Not NA | 20235 |
 | NA | 69086 |
 
 
@@ -3335,6 +3520,7 @@ V_25_2_4:SKJEMA4H; (V_25_2_4:SKJEMA4G); (V_25_2_4:SKJEMA4F); (V_25_2_4:SKJEMA4B)
 | -------- | - |
 | No | 19924 |
 | Yes | 12 |
+| Not NA | 19936 |
 | NA | 69385 |
 
 
@@ -3347,6 +3533,7 @@ V_25_3_1:SKJEMA4H; (V_25_3_1:SKJEMA4G); (V_25_3_1:SKJEMA4F); (V_25_3_1:SKJEMA4B)
 | Yes | 72976 |
 | No | 2381 |
 | More than 1 check box filled in | 14 |
+| Not NA | 75371 |
 | NA | 13950 |
 
 
@@ -3363,6 +3550,7 @@ ALDER6UK_SJEKK:SKJEMA4H; (ALDER6UK_SJEKK:SKJEMA4B); Childs age at examination at
 | 3rd Qu. | 48 |
 | Max. | 1871 |
 | NA's | 11010 |
+| Not NA | 78311 |
 
 
 ### ALDER3MND_SJEKK
@@ -3378,6 +3566,7 @@ ALDER3MND_SJEKK:SKJEMA4H; (ALDER3MND_SJEKK:SKJEMA4B); Childs age at examination 
 | 3rd Qu. | 99 |
 | Max. | 7395 |
 | NA's | 2966 |
+| Not NA | 86355 |
 
 
 ### ALDER6MND_SJEKK
@@ -3393,6 +3582,7 @@ ALDER6MND_SJEKK:SKJEMA4H; (ALDER6MND_SJEKK:SKJEMA4B); Childs age at examination 
 | 3rd Qu. | 187 |
 | Max. | 7486 |
 | NA's | 4845 |
+| Not NA | 84476 |
 
 
 ### DD193
@@ -3404,6 +3594,7 @@ V_25_3_2:SKJEMA4H; (V_25_3_2:SKJEMA4G); (V_25_3_2:SKJEMA4F); (V_25_3_2:SKJEMA4B)
 | No | 53438 |
 | Yes | 17135 |
 | More than 1 check box filled in | 13 |
+| Not NA | 70586 |
 | NA | 18735 |
 
 
@@ -3416,6 +3607,7 @@ V_25_3_3:SKJEMA4H; (V_25_3_3:SKJEMA4G); (V_25_3_3:SKJEMA4F); (V_25_3_3:SKJEMA4B)
 | No | 52334 |
 | Yes | 682 |
 | More than 1 check box filled in | 1 |
+| Not NA | 53017 |
 | NA | 36304 |
 
 
@@ -3428,6 +3620,7 @@ V_25_3_4:SKJEMA4H; (V_25_3_4:SKJEMA4G); (V_25_3_4:SKJEMA4F); (V_25_3_4:SKJEMA4B)
 | No | 52150 |
 | Yes | 36 |
 | More than 1 check box filled in | 1 |
+| Not NA | 52187 |
 | NA | 37134 |
 
 
@@ -3440,6 +3633,7 @@ V_25_4_1:SKJEMA4H; (V_25_4_1:SKJEMA4G); (V_25_4_1:SKJEMA4F); (V_25_4_1:SKJEMA4B)
 | Yes | 7661 |
 | No | 45878 |
 | More than 1 check box filled in | 3 |
+| Not NA | 53542 |
 | NA | 35779 |
 
 
@@ -3452,6 +3646,7 @@ V_25_4_2:SKJEMA4H; (V_25_4_2:SKJEMA4G); (V_25_4_2:SKJEMA4F); (V_25_4_2:SKJEMA4B)
 | No | 11779 |
 | Yes | 1171 |
 | More than 1 check box filled in | 3 |
+| Not NA | 12953 |
 | NA | 76368 |
 
 
@@ -3463,6 +3658,7 @@ V_25_4_3:SKJEMA4H; (V_25_4_3:SKJEMA4G); (V_25_4_3:SKJEMA4F); (V_25_4_3:SKJEMA4B)
 | -------- | - |
 | No | 10297 |
 | Yes | 58 |
+| Not NA | 10355 |
 | NA | 78966 |
 
 
@@ -3474,6 +3670,7 @@ V_25_4_4:SKJEMA4H; (V_25_4_4:SKJEMA4G); (V_25_4_4:SKJEMA4F); (V_25_4_4:SKJEMA4B)
 | -------- | - |
 | No | 10271 |
 | Yes | 7 |
+| Not NA | 10278 |
 | NA | 79043 |
 
 
@@ -3486,6 +3683,7 @@ V_25_5_1:SKJEMA4H; (V_25_5_1:SKJEMA4G); (V_25_5_1:SKJEMA4F); (V_25_5_1:SKJEMA4B)
 | No | 44993 |
 | Yes | 3694 |
 | More than 1 check box filled in | 6 |
+| Not NA | 48693 |
 | NA | 40628 |
 
 
@@ -3498,6 +3696,7 @@ V_25_5_2:SKJEMA4H; (V_25_5_2:SKJEMA4G); (V_25_5_2:SKJEMA4F); (V_25_5_2:SKJEMA4B)
 | No | 8521 |
 | Yes | 416 |
 | More than 1 check box filled in | 1 |
+| Not NA | 8938 |
 | NA | 80383 |
 
 
@@ -3509,6 +3708,7 @@ V_25_5_3:SKJEMA4H; (V_25_5_3:SKJEMA4G); (V_25_5_3:SKJEMA4F); (V_25_5_3:SKJEMA4B)
 | -------- | - |
 | No | 7319 |
 | Yes | 55 |
+| Not NA | 7374 |
 | NA | 81947 |
 
 
@@ -3520,6 +3720,7 @@ V_25_5_4:SKJEMA4H; (V_25_5_4:SKJEMA4G); (V_25_5_4:SKJEMA4F); (V_25_5_4:SKJEMA4B)
 | -------- | - |
 | No | 7335 |
 | Yes | 8 |
+| Not NA | 7343 |
 | NA | 81978 |
 
 
@@ -3531,6 +3732,7 @@ V_25_7_1:SKJEMA4H; (V_25_7_1:SKJEMA4G); (V_25_6_1:SKJEMA4F); (V_25_6_1:SKJEMA4B)
 | -------- | - |
 | No | 17591 |
 | Yes | 13541 |
+| Not NA | 31132 |
 | NA | 58189 |
 
 
@@ -3543,6 +3745,7 @@ V_25_7_2:SKJEMA4H; (V_25_7_2:SKJEMA4G); (V_25_6_2:SKJEMA4F); (V_25_6_2:SKJEMA4B)
 | No | 12462 |
 | Yes | 3711 |
 | More than 1 check box filled in | 3 |
+| Not NA | 16176 |
 | NA | 73145 |
 
 
@@ -3555,6 +3758,7 @@ V_25_7_3:SKJEMA4H; (V_25_7_3:SKJEMA4G); (V_25_6_3:SKJEMA4F); (V_25_6_3:SKJEMA4B)
 | No | 12746 |
 | Yes | 179 |
 | More than 1 check box filled in | 1 |
+| Not NA | 12926 |
 | NA | 76395 |
 
 
@@ -3567,6 +3771,7 @@ V_25_7_4:SKJEMA4H; (V_25_7_4:SKJEMA4G); (V_25_6_4:SKJEMA4F); (V_25_6_4:SKJEMA4B)
 | No | 12722 |
 | Yes | 16 |
 | More than 1 check box filled in | 1 |
+| Not NA | 12739 |
 | NA | 76582 |
 
 
@@ -3583,6 +3788,7 @@ V_26_1_6:SKJEMA4H; (V_26_1_6:SKJEMA4G); (V_26_1_4:SKJEMA4F); (V_26_1_4:SKJEMA4B)
 | 3rd Qu. | 5460 |
 | Max. | 9700 |
 | NA's | 10761 |
+| Not NA | 78560 |
 
 
 ### DD213
@@ -3598,6 +3804,7 @@ V_26_1_4:SKJEMA4H; (V_26_1_4:SKJEMA4G); (V_26_1_5:SKJEMA4F); (V_26_1_5:SKJEMA4B)
 | 3rd Qu. | 58.5 |
 | Max. | 87.5 |
 | NA's | 27351 |
+| Not NA | 61970 |
 
 
 ### DD214
@@ -3613,6 +3820,7 @@ V_26_1_5:SKJEMA4H; (V_26_1_5:SKJEMA4G); (V_26_1_6:SKJEMA4F); (V_26_1_6:SKJEMA4B)
 | 3rd Qu. | 39.5 |
 | Max. | 97.8 |
 | NA's | 21823 |
+| Not NA | 67498 |
 
 
 ### DD218
@@ -3628,6 +3836,7 @@ V_26_2_6:SKJEMA4H; (V_26_2_6:SKJEMA4G); (V_26_2_4:SKJEMA4F); (V_26_2_4:SKJEMA4B)
 | 3rd Qu. | 6885 |
 | Max. | 10440 |
 | NA's | 2701 |
+| Not NA | 86620 |
 
 
 ### DD219
@@ -3643,6 +3852,7 @@ V_26_2_4:SKJEMA4H; (V_26_2_4:SKJEMA4G); (V_26_2_5:SKJEMA4F); (V_26_2_5:SKJEMA4B)
 | 3rd Qu. | 63.5 |
 | Max. | 77.7 |
 | NA's | 4377 |
+| Not NA | 84944 |
 
 
 ### DD220
@@ -3658,6 +3868,7 @@ V_26_2_5:SKJEMA4H; (V_26_2_5:SKJEMA4G); (V_26_2_6:SKJEMA4F); (V_26_2_6:SKJEMA4B)
 | 3rd Qu. | 42 |
 | Max. | 90.2 |
 | NA's | 11190 |
+| Not NA | 78131 |
 
 
 ### DD224
@@ -3673,6 +3884,7 @@ V_26_3_6:SKJEMA4H; (V_26_3_6:SKJEMA4G); (V_26_3_4:SKJEMA4F); (V_26_3_4:SKJEMA4B)
 | 3rd Qu. | 8520 |
 | Max. | 99180 |
 | NA's | 4539 |
+| Not NA | 84782 |
 
 
 ### DD225
@@ -3688,6 +3900,7 @@ V_26_3_4:SKJEMA4H; (V_26_3_4:SKJEMA4G); (V_26_3_5:SKJEMA4F); (V_26_3_5:SKJEMA4B)
 | 3rd Qu. | 69.5 |
 | Max. | 90 |
 | NA's | 5099 |
+| Not NA | 84222 |
 
 
 ### DD226
@@ -3703,6 +3916,7 @@ V_26_3_5:SKJEMA4H; (V_26_3_5:SKJEMA4G); (V_26_3_6:SKJEMA4F); (V_26_3_6:SKJEMA4B)
 | 3rd Qu. | 44.5 |
 | Max. | 93.5 |
 | NA's | 13447 |
+| Not NA | 75874 |
 
 
 ### DD906
@@ -3716,6 +3930,7 @@ S_9_1:SKJEMA4A; ; 9. How many times have you been to the mother and child health
 | 1-2 times | 60 |
 | Never | 3 |
 | More than 1 check box filled in | 1 |
+| Not NA | 7865 |
 | NA | 81456 |
 
 
@@ -3726,6 +3941,7 @@ S_9_2:SKJEMA4A; ; 9. How many times have you been to the mother and child health
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 89303 |
 
 
@@ -3737,6 +3953,7 @@ S_12_3_1:SKJEMA4A; ; 12. Referring to your child`s health card, enter a cross fo
 | -------- | - |
 | Yes | 6907 |
 | No | 239 |
+| Not NA | 7146 |
 | NA | 82175 |
 
 
@@ -3749,6 +3966,7 @@ S_12_3_2:SKJEMA4A; ; 12. Referring to your child`s health card, enter a cross fo
 | No | 5502 |
 | Yes | 1204 |
 | More than 1 check box filled in | 2 |
+| Not NA | 6708 |
 | NA | 82613 |
 
 
@@ -3761,6 +3979,7 @@ S_12_3_3:SKJEMA4A; ; 12. Referring to your child`s health card, enter a cross fo
 | No | 5037 |
 | Yes | 47 |
 | More than 1 check box filled in | 1 |
+| Not NA | 5085 |
 | NA | 84236 |
 
 
@@ -3772,6 +3991,7 @@ S_12_3_4:SKJEMA4A; ; 12. Referring to your child`s health card, enter a cross fo
 | -------- | - |
 | No | 5025 |
 | Yes | 3 |
+| Not NA | 5028 |
 | NA | 84293 |
 
 
@@ -3784,6 +4004,7 @@ S_12_4_1:SKJEMA4A; ; 12. Referring to your child`s health card, enter a cross fo
 | Yes | 6740 |
 | No | 303 |
 | More than 1 check box filled in | 2 |
+| Not NA | 7045 |
 | NA | 82276 |
 
 
@@ -3796,6 +4017,7 @@ S_12_4_2:SKJEMA4A; ; 12. Referring to your child`s health card, enter a cross fo
 | No | 5401 |
 | Yes | 1141 |
 | More than 1 check box filled in | 2 |
+| Not NA | 6544 |
 | NA | 82777 |
 
 
@@ -3808,6 +4030,7 @@ S_12_4_3:SKJEMA4A; ; 12. Referring to your child`s health card, enter a cross fo
 | No | 4928 |
 | Yes | 37 |
 | More than 1 check box filled in | 1 |
+| Not NA | 4966 |
 | NA | 84355 |
 
 
@@ -3819,6 +4042,7 @@ S_12_4_4:SKJEMA4A; ; 12. Referring to your child`s health card, enter a cross fo
 | -------- | - |
 | No | 4910 |
 | Yes | 3 |
+| Not NA | 4913 |
 | NA | 84408 |
 
 
@@ -3831,6 +4055,7 @@ V_25_6_1:SKJEMA4H; (V_25_6_1:SKJEMA4G); Pneumococcus (Prevenar), Has your child 
 | Yes | 23611 |
 | No | 3736 |
 | More than 1 check box filled in | 12 |
+| Not NA | 27359 |
 | NA | 61962 |
 
 
@@ -3843,6 +4068,7 @@ V_25_6_2:SKJEMA4H; (V_25_6_2:SKJEMA4G); Pneumococcus (Prevenar), Was there any s
 | No | 15598 |
 | Yes | 7564 |
 | More than 1 check box filled in | 7 |
+| Not NA | 23169 |
 | NA | 66152 |
 
 
@@ -3854,6 +4080,7 @@ V_25_6_3:SKJEMA4H; (V_25_6_3:SKJEMA4G); Pneumococcus (Prevenar), Was there any s
 | -------- | - |
 | No | 17089 |
 | Yes | 336 |
+| Not NA | 17425 |
 | NA | 71896 |
 
 
@@ -3866,6 +4093,7 @@ V_25_6_4:SKJEMA4H; (V_25_6_4:SKJEMA4G); Pneumococcus (Prevenar), Was there any s
 | No | 17058 |
 | Yes | 16 |
 | More than 1 check box filled in | 1 |
+| Not NA | 17075 |
 | NA | 72246 |
 
 
@@ -3878,6 +4106,7 @@ V_27_1_1:SKJEMA4H; (V_27_1_1:SKJEMA4G); (V_27_1_1:SKJEMA4F); (V_27_1_1:SKJEMA4B)
 | No | 76553 |
 | Yes | 3198 |
 | More than 1 check box filled in | 20 |
+| Not NA | 79771 |
 | NA | 9550 |
 
 
@@ -3891,6 +4120,7 @@ V_27_1_2:SKJEMA4H; (V_27_1_2:SKJEMA4G); (V_27_1_2:SKJEMA4F); (V_27_1_2:SKJEMA4B)
 | Yes, referred by someone else | 4471 |
 | Yes, referred from health centre | 1679 |
 | More than 1 check box filled in | 67 |
+| Not NA | 11192 |
 | NA | 78129 |
 
 
@@ -3902,6 +4132,7 @@ V_27_2_1:SKJEMA4H; (V_27_2_1:SKJEMA4G); (V_27_2_1:SKJEMA4F); (V_27_2_1:SKJEMA4B)
 | -------- | - |
 | No | 79167 |
 | Yes | 343 |
+| Not NA | 79510 |
 | NA | 9811 |
 
 
@@ -3915,6 +4146,7 @@ V_27_2_2:SKJEMA4H; (V_27_2_2:SKJEMA4G); (V_27_2_2:SKJEMA4F); (V_27_2_2:SKJEMA4B)
 | Yes, referred by someone else | 324 |
 | Yes, referred from health centre | 77 |
 | More than 1 check box filled in | 5 |
+| Not NA | 5620 |
 | NA | 83701 |
 
 
@@ -3927,6 +4159,7 @@ V_27_3_1:SKJEMA4H; (V_27_3_1:SKJEMA4G); (V_27_3_1:SKJEMA4F); (V_27_3_1:SKJEMA4B)
 | No | 79227 |
 | Yes | 223 |
 | More than 1 check box filled in | 1 |
+| Not NA | 79451 |
 | NA | 9870 |
 
 
@@ -3940,6 +4173,7 @@ V_27_3_2:SKJEMA4H; (V_27_3_2:SKJEMA4G); (V_27_3_2:SKJEMA4F); (V_27_3_2:SKJEMA4B)
 | Yes, referred by someone else | 177 |
 | Yes, referred from health centre | 162 |
 | More than 1 check box filled in | 8 |
+| Not NA | 5478 |
 | NA | 83843 |
 
 
@@ -3952,6 +4186,7 @@ V_27_4_1:SKJEMA4H; (V_27_4_1:SKJEMA4G); (V_27_4_1:SKJEMA4F); (V_27_4_1:SKJEMA4B)
 | No | 77829 |
 | Yes | 1509 |
 | More than 1 check box filled in | 12 |
+| Not NA | 79350 |
 | NA | 9971 |
 
 
@@ -3965,6 +4200,7 @@ V_27_4_2:SKJEMA4H; (V_27_4_2:SKJEMA4G); (V_27_4_2:SKJEMA4F); (V_27_4_2:SKJEMA4B)
 | Yes, referred from health centre | 920 |
 | Yes, referred by someone else | 363 |
 | More than 1 check box filled in | 56 |
+| Not NA | 6654 |
 | NA | 82667 |
 
 
@@ -3977,6 +4213,7 @@ V_27_5_1:SKJEMA4H; (V_27_5_1:SKJEMA4G); (V_27_5_1:SKJEMA4F); (V_27_5_1:SKJEMA4B)
 | No | 74138 |
 | Yes | 5135 |
 | More than 1 check box filled in | 8 |
+| Not NA | 79281 |
 | NA | 10040 |
 
 
@@ -3990,6 +4227,7 @@ V_27_5_2:SKJEMA4H; (V_27_5_2:SKJEMA4G); (V_27_5_2:SKJEMA4F); (V_27_5_2:SKJEMA4B)
 | Yes, referred from health centre | 522 |
 | Yes, referred by someone else | 353 |
 | More than 1 check box filled in | 27 |
+| Not NA | 9988 |
 | NA | 79333 |
 
 
@@ -4002,6 +4240,7 @@ V_27_6_1:SKJEMA4H; (V_27_6_1:SKJEMA4G); (V_27_6_1:SKJEMA4F); (V_27_6_1:SKJEMA4B)
 | No | 79040 |
 | Yes | 331 |
 | More than 1 check box filled in | 4 |
+| Not NA | 79375 |
 | NA | 9946 |
 
 
@@ -4015,6 +4254,7 @@ V_27_6_2:SKJEMA4H; (V_27_6_2:SKJEMA4G); (V_27_6_2:SKJEMA4F); (V_27_6_2:SKJEMA4B)
 | Yes, referred from health centre | 30 |
 | More than 1 check box filled in | 1 |
 | Yes, referred by someone else | 7 |
+| Not NA | 5407 |
 | NA | 83914 |
 
 
@@ -4027,6 +4267,7 @@ V_27_7_1:SKJEMA4H; (V_27_7_1:SKJEMA4G); (V_27_7_1:SKJEMA4F); (V_27_7_1:SKJEMA4B)
 | No | 77769 |
 | Yes | 1581 |
 | More than 1 check box filled in | 3 |
+| Not NA | 79353 |
 | NA | 9968 |
 
 
@@ -4040,6 +4281,7 @@ V_27_7_2:SKJEMA4H; (V_27_7_2:SKJEMA4G); (V_27_7_2:SKJEMA4F); (V_27_7_2:SKJEMA4B)
 | Yes, referred from health centre | 487 |
 | More than 1 check box filled in | 21 |
 | Yes, referred by someone else | 145 |
+| Not NA | 6673 |
 | NA | 82648 |
 
 
@@ -4052,6 +4294,7 @@ V_27_8_1:SKJEMA4H; (V_27_8_1:SKJEMA4G); (V_27_8_1:SKJEMA4F); (V_27_8_1:SKJEMA4B)
 | No | 77937 |
 | Yes | 1561 |
 | More than 1 check box filled in | 2 |
+| Not NA | 79500 |
 | NA | 9821 |
 
 
@@ -4065,6 +4308,7 @@ V_27_8_2:SKJEMA4H; (V_27_8_2:SKJEMA4G); (V_27_8_2:SKJEMA4F); (V_27_8_2:SKJEMA4B)
 | Yes, referred by someone else | 1297 |
 | Yes, referred from health centre | 304 |
 | More than 1 check box filled in | 11 |
+| Not NA | 6708 |
 | NA | 82613 |
 
 
@@ -4077,6 +4321,7 @@ V_27_9_1:SKJEMA4H; (V_27_9_1:SKJEMA4G); (V_27_9_1:SKJEMA4F); (V_27_9_1:SKJEMA4B)
 | No | 77408 |
 | Yes | 806 |
 | More than 1 check box filled in | 2 |
+| Not NA | 78216 |
 | NA | 11105 |
 
 
@@ -4090,6 +4335,7 @@ V_27_9_2:SKJEMA4H; (V_27_9_2:SKJEMA4G); (V_27_9_2:SKJEMA4F); (V_27_9_2:SKJEMA4B)
 | Yes, referred from health centre | 132 |
 | Yes, referred by someone else | 98 |
 | More than 1 check box filled in | 7 |
+| Not NA | 5755 |
 | NA | 83566 |
 
 
@@ -4102,6 +4348,7 @@ V_2710_1:SKJEMA4H; (V_2710_1:SKJEMA4G); (V_2710_1:SKJEMA4F); (V_2710_1:SKJEMA4B)
 | No | 78326 |
 | Yes | 1097 |
 | More than 1 check box filled in | 6 |
+| Not NA | 79429 |
 | NA | 9892 |
 
 
@@ -4115,6 +4362,7 @@ V_2710_2:SKJEMA4H; (V_2710_2:SKJEMA4G); (V_2710_2:SKJEMA4F); (V_2710_2:SKJEMA4B)
 | Yes, referred from health centre | 157 |
 | Yes, referred by someone else | 550 |
 | More than 1 check box filled in | 21 |
+| Not NA | 6131 |
 | NA | 83190 |
 
 
@@ -4127,6 +4375,7 @@ V_2711_1:SKJEMA4H; (V_2711_1:SKJEMA4G); (V_2711_1:SKJEMA4F); (V_2711_1:SKJEMA4B)
 | No | 70187 |
 | Yes | 9332 |
 | More than 1 check box filled in | 13 |
+| Not NA | 79532 |
 | NA | 9789 |
 
 
@@ -4140,6 +4389,7 @@ V_2711_2:SKJEMA4H; (V_2711_2:SKJEMA4G); (V_2711_2:SKJEMA4F); (V_2711_2:SKJEMA4B)
 | More than 1 check box filled in | 70 |
 | Yes, referred from health centre | 828 |
 | Yes, referred by someone else | 1119 |
+| Not NA | 13553 |
 | NA | 75768 |
 
 
@@ -4152,6 +4402,7 @@ V_2712_1:SKJEMA4H; (V_2712_1:SKJEMA4G); (V_2712_1:SKJEMA4F); (V_2712_1:SKJEMA4B)
 | No | 78655 |
 | Yes | 634 |
 | More than 1 check box filled in | 5 |
+| Not NA | 79294 |
 | NA | 10027 |
 
 
@@ -4165,6 +4416,7 @@ V_2712_2:SKJEMA4H; (V_2712_2:SKJEMA4G); (V_2712_2:SKJEMA4F); (V_2712_2:SKJEMA4B)
 | Yes, referred from health centre | 43 |
 | Yes, referred by someone else | 110 |
 | More than 1 check box filled in | 2 |
+| Not NA | 5667 |
 | NA | 83654 |
 
 
@@ -4177,6 +4429,7 @@ V_2713_1:SKJEMA4H; (V_2713_1:SKJEMA4G); (V_2713_1:SKJEMA4F); (V_2713_1:SKJEMA4B)
 | No | 76714 |
 | Yes | 2558 |
 | More than 1 check box filled in | 11 |
+| Not NA | 79283 |
 | NA | 10038 |
 
 
@@ -4190,6 +4443,7 @@ V_2713_2:SKJEMA4H; (V_2713_2:SKJEMA4G); (V_2713_2:SKJEMA4F); (V_2713_2:SKJEMA4B)
 | Yes, referred from health centre | 477 |
 | Yes, referred by someone else | 836 |
 | More than 1 check box filled in | 40 |
+| Not NA | 7442 |
 | NA | 81879 |
 
 
@@ -4202,6 +4456,7 @@ V_2715_1:SKJEMA4H; (V_2715_1:SKJEMA4G); (V_2714_1:SKJEMA4F); (V_2714_1:SKJEMA4B)
 | No | 59202 |
 | Yes | 1248 |
 | More than 1 check box filled in | 4 |
+| Not NA | 60454 |
 | NA | 28867 |
 
 
@@ -4215,6 +4470,7 @@ V_2715_2:SKJEMA4H; (V_2715_2:SKJEMA4G); (V_2714_2:SKJEMA4F); (V_2714_2:SKJEMA4B)
 | Yes, referred from health centre | 316 |
 | Yes, referred by someone else | 873 |
 | More than 1 check box filled in | 37 |
+| Not NA | 5495 |
 | NA | 83826 |
 
 
@@ -4227,6 +4483,7 @@ V_2716_1:SKJEMA4H; (V_2716_1:SKJEMA4G); (V_2715_1:SKJEMA4F); (V_2715_1:SKJEMA4B)
 | No | 44830 |
 | Yes | 6853 |
 | More than 1 check box filled in | 8 |
+| Not NA | 51691 |
 | NA | 37630 |
 
 
@@ -4240,6 +4497,7 @@ V_2716_2:SKJEMA4H; (V_2716_2:SKJEMA4G); (V_2715_2:SKJEMA4F); (V_2715_2:SKJEMA4B)
 | Yes, referred from health centre | 2822 |
 | No | 4966 |
 | More than 1 check box filled in | 195 |
+| Not NA | 10979 |
 | NA | 78342 |
 
 
@@ -4254,6 +4512,7 @@ V_28_1:SKJEMA4H; (V_28_1:SKJEMA4G); (V_28_1:SKJEMA4F); (V_28_1:SKJEMA4B); (S_15_
 | Do not know | 1203 |
 | More than 1 check box filled in | 729 |
 | Have received following diagnosis: | 5753 |
+| Not NA | 20729 |
 | NA | 68592 |
 
 
@@ -4266,6 +4525,7 @@ V_29_1:SKJEMA4B; ; 29. Has your child been treated with a pillow placed between 
 | No | 30925 |
 | Yes | 662 |
 | More than 1 check box filled in | 1 |
+| Not NA | 31588 |
 | NA | 57733 |
 
 
@@ -4285,6 +4545,7 @@ V_29_2:SKJEMA4B; How long? (months); 29. Has your child been treated with a pill
 | 0 | 3 |
 | 9 | 1 |
 | 8 | 1 |
+| Not NA | 638 |
 | NA | 88683 |
 
 
@@ -4297,6 +4558,7 @@ S_13:SKJEMA4A; ; 13.
 | No | 6450 |
 | Yes | 1349 |
 | More than 1 check box filled in | 5 |
+| Not NA | 7804 |
 | NA | 81517 |
 
 
@@ -4307,6 +4569,7 @@ S_14_1:SKJEMA4A; ; 14.
 | Category | n |
 | -------- | - |
 | 1 | 94 |
+| Not NA | 94 |
 | NA | 89227 |
 
 
@@ -4317,6 +4580,7 @@ S_14_2:SKJEMA4A; ; 14.
 | Category | n |
 | -------- | - |
 | 1 | 35 |
+| Not NA | 35 |
 | NA | 89286 |
 
 
@@ -4327,6 +4591,7 @@ S_14_3:SKJEMA4A; ; 14.
 | Category | n |
 | -------- | - |
 | 1 | 315 |
+| Not NA | 315 |
 | NA | 89006 |
 
 
@@ -4337,6 +4602,7 @@ S_14_4_1:SKJEMA4A; ; 14.
 | Category | n |
 | -------- | - |
 | 1 | 51 |
+| Not NA | 51 |
 | NA | 89270 |
 
 
@@ -4347,6 +4613,7 @@ S_14_5:SKJEMA4A; ; 14.
 | Category | n |
 | -------- | - |
 | 1 | 86 |
+| Not NA | 86 |
 | NA | 89235 |
 
 
@@ -4357,6 +4624,7 @@ S_14_6:SKJEMA4A; ; 14.
 | Category | n |
 | -------- | - |
 | 1 | 31 |
+| Not NA | 31 |
 | NA | 89290 |
 
 
@@ -4367,6 +4635,7 @@ S_14_7:SKJEMA4A; ; 14.
 | Category | n |
 | -------- | - |
 | 1 | 59 |
+| Not NA | 59 |
 | NA | 89262 |
 
 
@@ -4377,6 +4646,7 @@ S_14_8:SKJEMA4A; ; 14.
 | Category | n |
 | -------- | - |
 | 1 | 102 |
+| Not NA | 102 |
 | NA | 89219 |
 
 
@@ -4387,6 +4657,7 @@ S_14_9_1:SKJEMA4A; ; 14.
 | Category | n |
 | -------- | - |
 | 1 | 563 |
+| Not NA | 563 |
 | NA | 88758 |
 
 
@@ -4397,6 +4668,7 @@ V_30_1:SKJEMA4H; (V_30_1:SKJEMA4G); (V_29_1:SKJEMA4F); No; 30. Has your child be
 | Category | n |
 | -------- | - |
 | 1 | 44950 |
+| Not NA | 44950 |
 | NA | 44371 |
 
 
@@ -4407,6 +4679,7 @@ V_30_2:SKJEMA4H; (V_30_2:SKJEMA4G); (V_29_2:SKJEMA4F); Yes, treated with a cushi
 | Category | n |
 | -------- | - |
 | 1 | 724 |
+| Not NA | 724 |
 | NA | 88597 |
 
 
@@ -4417,6 +4690,7 @@ V_30_3:SKJEMA4H; (V_30_3:SKJEMA4G); (V_29_3:SKJEMA4F); Yes, treated with a plast
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 89303 |
 
 
@@ -4427,6 +4701,7 @@ V_30_4:SKJEMA4H; (V_30_4:SKJEMA4G); (V_29_4:SKJEMA4F); Yes, treated with braces;
 | Category | n |
 | -------- | - |
 | 1 | 69 |
+| Not NA | 69 |
 | NA | 89252 |
 
 
@@ -4444,6 +4719,7 @@ V_30_5:SKJEMA4H; (V_30_5:SKJEMA4G); (V_29_5:SKJEMA4F); If yes, how long did the 
 | 6 | 43 |
 | 7 | 8 |
 | 0 | 6 |
+| Not NA | 720 |
 | NA | 88601 |
 
 
@@ -4455,6 +4731,7 @@ V_2714_1:SKJEMA4H; (V_2714_1:SKJEMA4G); Delayed psychomotor development (several
 | -------- | - |
 | No | 31787 |
 | Yes | 67 |
+| Not NA | 31854 |
 | NA | 57467 |
 
 
@@ -4467,6 +4744,7 @@ V_2714_2:SKJEMA4H; (V_2714_2:SKJEMA4G); Delayed psychomotor development (several
 | No | 1797 |
 | Yes, referred by someone else | 48 |
 | Yes, referred from health centre | 13 |
+| Not NA | 1858 |
 | NA | 87463 |
 
 
@@ -4477,6 +4755,7 @@ V_29_1:SKJEMA4H; (V_29_1:SKJEMA4G); No; 29. Is you child suspected of having a s
 | Category | n |
 | -------- | - |
 | 1 | 31014 |
+| Not NA | 31014 |
 | NA | 58307 |
 
 
@@ -4487,6 +4766,7 @@ V_29_2:SKJEMA4H; (V_29_2:SKJEMA4G); Yes, a syndrome; 29. Is you child suspected 
 | Category | n |
 | -------- | - |
 | 1 | 132 |
+| Not NA | 132 |
 | NA | 89189 |
 
 
@@ -4497,6 +4777,7 @@ V_29_3:SKJEMA4H; (V_29_3:SKJEMA4G); Yes, a chromosomal defect; 29. Is you child 
 | Category | n |
 | -------- | - |
 | 1 | 64 |
+| Not NA | 64 |
 | NA | 89257 |
 
 
@@ -4507,6 +4788,7 @@ V_29_4_1:SKJEMA4H; (V_29_4_1:SKJEMA4G); If yes, specify the name or describe the
 | Category | n |
 | -------- | - |
 | 1 | 76 |
+| Not NA | 76 |
 | NA | 89245 |
 
 
@@ -4519,6 +4801,7 @@ V_31_1_1:SKJEMA4H; (V_31_1_1:SKJEMA4G); (V_30_1_1:SKJEMA4F); (V_30_1_1:SKJEMA4B)
 | Yes | 61478 |
 | No | 18863 |
 | More than 1 check box filled in | 4 |
+| Not NA | 80345 |
 | NA | 8976 |
 
 
@@ -4535,6 +4818,7 @@ V_31_1_2:SKJEMA4H; (V_31_1_2:SKJEMA4G); (V_30_1_2:SKJEMA4F); (V_30_1_2:SKJEMA4B)
 | 3rd Qu. | 2 |
 | Max. | 99 |
 | NA's | 29190 |
+| Not NA | 60131 |
 
 
 ### DD265
@@ -4546,6 +4830,7 @@ V_31_1_3:SKJEMA4H; (V_31_1_3:SKJEMA4G); (V_30_1_3:SKJEMA4F); (V_30_1_3:SKJEMA4B)
 | No | 41873 |
 | Yes | 18331 |
 | More than 1 check box filled in | 47 |
+| Not NA | 60251 |
 | NA | 29070 |
 
 
@@ -4558,6 +4843,7 @@ V_31_1_4:SKJEMA4H; (V_31_1_4:SKJEMA4G); (V_30_1_4:SKJEMA4F); (V_30_1_4:SKJEMA4B)
 | No | 53258 |
 | Yes | 889 |
 | More than 1 check box filled in | 1 |
+| Not NA | 54148 |
 | NA | 35173 |
 
 
@@ -4569,6 +4855,7 @@ V_31_2_1:SKJEMA4H; (V_31_2_1:SKJEMA4G); (V_30_2_1:SKJEMA4F); (V_30_2_1:SKJEMA4B)
 | -------- | - |
 | No | 76549 |
 | Yes | 2440 |
+| Not NA | 78989 |
 | NA | 10332 |
 
 
@@ -4589,6 +4876,7 @@ V_31_2_2:SKJEMA4H; (V_31_2_2:SKJEMA4G); (V_30_2_2:SKJEMA4F); (V_30_2_2:SKJEMA4B)
 | 5 | 2 |
 | 12 | 1 |
 | 30 | 1 |
+| Not NA | 2515 |
 | NA | 86806 |
 
 
@@ -4601,6 +4889,7 @@ V_31_2_3:SKJEMA4H; (V_31_2_3:SKJEMA4G); (V_30_2_3:SKJEMA4F); (V_30_2_3:SKJEMA4B)
 | No | 2251 |
 | Yes | 1831 |
 | More than 1 check box filled in | 1 |
+| Not NA | 4083 |
 | NA | 85238 |
 
 
@@ -4612,6 +4901,7 @@ V_31_2_4:SKJEMA4H; (V_31_2_4:SKJEMA4G); (V_30_2_4:SKJEMA4F); (V_30_2_4:SKJEMA4B)
 | -------- | - |
 | No | 3580 |
 | Yes | 90 |
+| Not NA | 3670 |
 | NA | 85651 |
 
 
@@ -4623,6 +4913,7 @@ V_31_3_1:SKJEMA4H; (V_31_3_1:SKJEMA4G); (V_30_3_1:SKJEMA4F); (V_30_3_1:SKJEMA4B)
 | -------- | - |
 | No | 81885 |
 | Yes | 4020 |
+| Not NA | 85905 |
 | NA | 3416 |
 
 
@@ -4644,6 +4935,7 @@ V_31_3_2:SKJEMA4H; (V_31_3_2:SKJEMA4G); (V_30_3_2:SKJEMA4F); (V_30_3_2:SKJEMA4B)
 | 6 | 6 |
 | 15 | 1 |
 | 10 | 1 |
+| Not NA | 3636 |
 | NA | 85685 |
 
 
@@ -4656,6 +4948,7 @@ V_31_3_3:SKJEMA4H; (V_31_3_3:SKJEMA4G); (V_30_3_3:SKJEMA4F); (V_30_3_3:SKJEMA4B)
 | No | 2607 |
 | Yes | 3452 |
 | More than 1 check box filled in | 3 |
+| Not NA | 6062 |
 | NA | 83259 |
 
 
@@ -4667,6 +4960,7 @@ V_31_3_4:SKJEMA4H; (V_31_3_4:SKJEMA4G); (V_30_3_4:SKJEMA4F); (V_30_3_4:SKJEMA4B)
 | -------- | - |
 | No | 5232 |
 | Yes | 160 |
+| Not NA | 5392 |
 | NA | 83929 |
 
 
@@ -4679,6 +4973,7 @@ V_31_4_1:SKJEMA4H; (V_31_4_1:SKJEMA4G); (V_30_4_1:SKJEMA4F); (V_30_4_1:SKJEMA4B)
 | No | 83961 |
 | Yes | 1868 |
 | More than 1 check box filled in | 2 |
+| Not NA | 85831 |
 | NA | 3490 |
 
 
@@ -4701,6 +4996,7 @@ V_31_4_2:SKJEMA4H; (V_31_4_2:SKJEMA4G); (V_30_4_2:SKJEMA4F); (V_30_4_2:SKJEMA4B)
 | 14 | 1 |
 | 8 | 1 |
 | 12 | 1 |
+| Not NA | 1774 |
 | NA | 87547 |
 
 
@@ -4713,6 +5009,7 @@ V_31_4_3:SKJEMA4H; (V_31_4_3:SKJEMA4G); (V_30_4_3:SKJEMA4F); (V_30_4_3:SKJEMA4B)
 | No | 2603 |
 | Yes | 1372 |
 | More than 1 check box filled in | 1 |
+| Not NA | 3976 |
 | NA | 85345 |
 
 
@@ -4724,6 +5021,7 @@ V_31_4_4:SKJEMA4H; (V_31_4_4:SKJEMA4G); (V_30_4_4:SKJEMA4F); (V_30_4_4:SKJEMA4B)
 | -------- | - |
 | No | 3488 |
 | Yes | 183 |
+| Not NA | 3671 |
 | NA | 85650 |
 
 
@@ -4736,6 +5034,7 @@ V_31_5_1:SKJEMA4H; (V_31_5_1:SKJEMA4G); (V_30_5_1:SKJEMA4F); (V_30_5_1:SKJEMA4B)
 | No | 75168 |
 | Yes | 3891 |
 | More than 1 check box filled in | 2 |
+| Not NA | 79061 |
 | NA | 10260 |
 
 
@@ -4761,6 +5060,7 @@ V_31_5_2:SKJEMA4H; (V_31_5_2:SKJEMA4G); (V_30_5_2:SKJEMA4F); (V_30_5_2:SKJEMA4B)
 | 10 | 3 |
 | 99 | 1 |
 | 14 | 1 |
+| Not NA | 3868 |
 | NA | 85453 |
 
 
@@ -4773,6 +5073,7 @@ V_31_5_3:SKJEMA4H; (V_31_5_3:SKJEMA4G); (V_30_5_3:SKJEMA4F); (V_30_5_3:SKJEMA4B)
 | Yes | 3689 |
 | No | 1705 |
 | More than 1 check box filled in | 3 |
+| Not NA | 5397 |
 | NA | 83924 |
 
 
@@ -4785,6 +5086,7 @@ V_31_5_4:SKJEMA4H; (V_31_5_4:SKJEMA4G); (V_30_5_4:SKJEMA4F); (V_30_5_4:SKJEMA4B)
 | No | 3512 |
 | Yes | 1572 |
 | More than 1 check box filled in | 1 |
+| Not NA | 5085 |
 | NA | 84236 |
 
 
@@ -4797,6 +5099,7 @@ V_31_6_1:SKJEMA4H; (V_31_6_1:SKJEMA4G); (V_30_6_1:SKJEMA4F); (V_30_6_1:SKJEMA4B)
 | No | 76465 |
 | Yes | 9442 |
 | More than 1 check box filled in | 8 |
+| Not NA | 85915 |
 | NA | 3406 |
 
 
@@ -4813,6 +5116,7 @@ V_31_6_2:SKJEMA4H; (V_31_6_2:SKJEMA4G); (V_30_6_2:SKJEMA4F); (V_30_6_2:SKJEMA4B)
 | 3rd Qu. | 1 |
 | Max. | 99 |
 | NA's | 80558 |
+| Not NA | 8763 |
 
 
 ### DD285
@@ -4824,6 +5128,7 @@ V_31_6_3:SKJEMA4H; (V_31_6_3:SKJEMA4G); (V_30_6_3:SKJEMA4F); (V_30_6_3:SKJEMA4B)
 | No | 8268 |
 | Yes | 2701 |
 | More than 1 check box filled in | 2 |
+| Not NA | 10971 |
 | NA | 78350 |
 
 
@@ -4836,6 +5141,7 @@ V_31_6_4:SKJEMA4H; (V_31_6_4:SKJEMA4G); (V_30_6_4:SKJEMA4F); (V_30_6_4:SKJEMA4B)
 | No | 8707 |
 | Yes | 346 |
 | More than 1 check box filled in | 2 |
+| Not NA | 9055 |
 | NA | 80266 |
 
 
@@ -4848,6 +5154,7 @@ V_31_7_1:SKJEMA4H; (V_31_7_1:SKJEMA4G); (V_30_7_1:SKJEMA4F); (V_30_7_1:SKJEMA4B)
 | No | 85032 |
 | Yes | 736 |
 | More than 1 check box filled in | 2 |
+| Not NA | 85770 |
 | NA | 3551 |
 
 
@@ -4867,6 +5174,7 @@ V_31_7_2:SKJEMA4H; (V_31_7_2:SKJEMA4G); (V_30_7_2:SKJEMA4F); (V_30_7_2:SKJEMA4B)
 | 6 | 2 |
 | 9 | 1 |
 | 14 | 1 |
+| Not NA | 738 |
 | NA | 88583 |
 
 
@@ -4878,6 +5186,7 @@ V_31_7_3:SKJEMA4H; (V_31_7_3:SKJEMA4G); (V_30_7_3:SKJEMA4F); (V_30_7_3:SKJEMA4B)
 | -------- | - |
 | No | 2179 |
 | Yes | 676 |
+| Not NA | 2855 |
 | NA | 86466 |
 
 
@@ -4889,6 +5198,7 @@ V_31_7_4:SKJEMA4H; (V_31_7_4:SKJEMA4G); (V_30_7_4:SKJEMA4F); (V_30_7_4:SKJEMA4B)
 | -------- | - |
 | No | 2450 |
 | Yes | 327 |
+| Not NA | 2777 |
 | NA | 86544 |
 
 
@@ -4901,6 +5211,7 @@ V_31_8_1:SKJEMA4H; (V_31_8_1:SKJEMA4G); (V_30_8_1:SKJEMA4F); (V_30_8_1:SKJEMA4B)
 | No | 63837 |
 | Yes | 22363 |
 | More than 1 check box filled in | 16 |
+| Not NA | 86216 |
 | NA | 3105 |
 
 
@@ -4917,6 +5228,7 @@ V_31_8_2:SKJEMA4H; (V_31_8_2:SKJEMA4G); (V_30_8_2:SKJEMA4F); (V_30_8_2:SKJEMA4B)
 | 3rd Qu. | 2 |
 | Max. | 99 |
 | NA's | 70004 |
+| Not NA | 19317 |
 
 
 ### DD293
@@ -4928,6 +5240,7 @@ V_31_8_3:SKJEMA4H; (V_31_8_3:SKJEMA4G); (V_30_8_3:SKJEMA4F); (V_30_8_3:SKJEMA4B)
 | No | 10656 |
 | Yes | 12684 |
 | More than 1 check box filled in | 17 |
+| Not NA | 23357 |
 | NA | 65964 |
 
 
@@ -4940,6 +5253,7 @@ V_31_8_4:SKJEMA4H; (V_31_8_4:SKJEMA4G); (V_30_8_4:SKJEMA4F); (V_30_8_4:SKJEMA4B)
 | No | 18426 |
 | Yes | 110 |
 | More than 1 check box filled in | 1 |
+| Not NA | 18537 |
 | NA | 70784 |
 
 
@@ -4952,6 +5266,7 @@ V_31_9_1:SKJEMA4H; (V_31_9_1:SKJEMA4G); (V_30_9_1:SKJEMA4F); (V_30_9_1:SKJEMA4B)
 | No | 85402 |
 | Yes | 320 |
 | More than 1 check box filled in | 1 |
+| Not NA | 85723 |
 | NA | 3598 |
 
 
@@ -4971,6 +5286,7 @@ V_31_9_2:SKJEMA4H; (V_31_9_2:SKJEMA4G); (V_30_9_2:SKJEMA4F); (V_30_9_2:SKJEMA4B)
 | 3 | 8 |
 | 90 | 1 |
 | 8 | 1 |
+| Not NA | 332 |
 | NA | 88989 |
 
 
@@ -4982,6 +5298,7 @@ V_31_9_3:SKJEMA4H; (V_31_9_3:SKJEMA4G); (V_30_9_3:SKJEMA4F); (V_30_9_3:SKJEMA4B)
 | -------- | - |
 | No | 2258 |
 | Yes | 145 |
+| Not NA | 2403 |
 | NA | 86918 |
 
 
@@ -4993,6 +5310,7 @@ V_31_9_4:SKJEMA4H; (V_31_9_4:SKJEMA4G); (V_30_9_4:SKJEMA4F); (V_30_9_4:SKJEMA4B)
 | -------- | - |
 | No | 2262 |
 | Yes | 56 |
+| Not NA | 2318 |
 | NA | 87003 |
 
 
@@ -5004,6 +5322,7 @@ V_3110_1:SKJEMA4H; (V_3110_1:SKJEMA4G); (V_3010_1:SKJEMA4F); (V_3010_1:SKJEMA4B)
 | -------- | - |
 | No | 85309 |
 | Yes | 409 |
+| Not NA | 85718 |
 | NA | 3603 |
 
 
@@ -5020,6 +5339,7 @@ V_3110_2:SKJEMA4H; (V_3110_2:SKJEMA4G); (V_3010_2:SKJEMA4F); (V_3010_2:SKJEMA4B)
 | 3rd Qu. | 3 |
 | Max. | 99 |
 | NA's | 88968 |
+| Not NA | 353 |
 
 
 ### DD301
@@ -5030,6 +5350,7 @@ V_3110_3:SKJEMA4H; (V_3110_3:SKJEMA4G); (V_3010_3:SKJEMA4F); (V_3010_3:SKJEMA4B)
 | -------- | - |
 | No | 2229 |
 | Yes | 235 |
+| Not NA | 2464 |
 | NA | 86857 |
 
 
@@ -5041,6 +5362,7 @@ V_3110_4:SKJEMA4H; (V_3110_4:SKJEMA4G); (V_3010_4:SKJEMA4F); (V_3010_4:SKJEMA4B)
 | -------- | - |
 | No | 2236 |
 | Yes | 188 |
+| Not NA | 2424 |
 | NA | 86897 |
 
 
@@ -5053,6 +5375,7 @@ V_3111_1:SKJEMA4H; (V_3111_1:SKJEMA4G); (V_3011_1:SKJEMA4F); (V_3011_1:SKJEMA4B)
 | Yes | 9919 |
 | No | 75940 |
 | More than 1 check box filled in | 28 |
+| Not NA | 85887 |
 | NA | 3434 |
 
 
@@ -5069,6 +5392,7 @@ V_3111_2:SKJEMA4H; (V_3111_2:SKJEMA4G); (V_3011_2:SKJEMA4F); (V_3011_2:SKJEMA4B)
 | 3rd Qu. | 30 |
 | Max. | 99 |
 | NA's | 85179 |
+| Not NA | 4142 |
 
 
 ### DD305
@@ -5080,6 +5404,7 @@ V_3111_3:SKJEMA4H; (V_3111_3:SKJEMA4G); (V_3011_3:SKJEMA4F); (V_3011_3:SKJEMA4B)
 | No | 7737 |
 | Yes | 3235 |
 | More than 1 check box filled in | 5 |
+| Not NA | 10977 |
 | NA | 78344 |
 
 
@@ -5092,6 +5417,7 @@ V_3111_4:SKJEMA4H; (V_3111_4:SKJEMA4G); (V_3011_4:SKJEMA4F); (V_3011_4:SKJEMA4B)
 | No | 8923 |
 | Yes | 171 |
 | More than 1 check box filled in | 1 |
+| Not NA | 9095 |
 | NA | 80226 |
 
 
@@ -5104,6 +5430,7 @@ V_3112_1:SKJEMA4H; (V_3112_1:SKJEMA4G); (V_3012_1:SKJEMA4F); (V_3012_1:SKJEMA4B)
 | No | 68473 |
 | Yes | 17301 |
 | More than 1 check box filled in | 15 |
+| Not NA | 85789 |
 | NA | 3532 |
 
 
@@ -5120,6 +5447,7 @@ V_3112_2:SKJEMA4H; (V_3112_2:SKJEMA4G); (V_3012_2:SKJEMA4F); (V_3012_2:SKJEMA4B)
 | 3rd Qu. | 3 |
 | Max. | 99 |
 | NA's | 75508 |
+| Not NA | 13813 |
 
 
 ### DD309
@@ -5131,6 +5459,7 @@ V_3112_3:SKJEMA4H; (V_3112_3:SKJEMA4G); (V_3012_3:SKJEMA4F); (V_3012_3:SKJEMA4B)
 | No | 16355 |
 | Yes | 1633 |
 | More than 1 check box filled in | 1 |
+| Not NA | 17989 |
 | NA | 71332 |
 
 
@@ -5143,6 +5472,7 @@ V_3112_4:SKJEMA4H; (V_3112_4:SKJEMA4G); (V_3012_4:SKJEMA4F); (V_3012_4:SKJEMA4B)
 | No | 13506 |
 | Yes | 35 |
 | More than 1 check box filled in | 1 |
+| Not NA | 13542 |
 | NA | 75779 |
 
 
@@ -5155,6 +5485,7 @@ V_3113_1:SKJEMA4H; (V_3113_1:SKJEMA4G); (V_3013_1:SKJEMA4F); (V_3013_1:SKJEMA4B)
 | No | 42579 |
 | Yes | 9101 |
 | More than 1 check box filled in | 10 |
+| Not NA | 51690 |
 | NA | 37631 |
 
 
@@ -5171,6 +5502,7 @@ V_3113_2:SKJEMA4H; (V_3113_2:SKJEMA4G); (V_3013_2:SKJEMA4F); (V_3013_2:SKJEMA4B)
 | 3rd Qu. | 1 |
 | Max. | 99 |
 | NA's | 81979 |
+| Not NA | 7342 |
 
 
 ### DD313
@@ -5182,6 +5514,7 @@ V_3113_3:SKJEMA4H; (V_3113_3:SKJEMA4G); (V_3013_3:SKJEMA4F); (V_3013_3:SKJEMA4B)
 | Yes | 6924 |
 | No | 3784 |
 | More than 1 check box filled in | 4 |
+| Not NA | 10712 |
 | NA | 78609 |
 
 
@@ -5194,6 +5527,7 @@ V_3113_4:SKJEMA4H; (V_3113_4:SKJEMA4G); (V_3013_4:SKJEMA4F); (V_3013_4:SKJEMA4B)
 | No | 7680 |
 | Yes | 1695 |
 | More than 1 check box filled in | 1 |
+| Not NA | 9376 |
 | NA | 79945 |
 
 
@@ -5206,6 +5540,7 @@ V_32:SKJEMA4H; (V_32:SKJEMA4G); (V_31:SKJEMA4F); (V_31:SKJEMA4B); (S_17:SKJEMA4A
 | Yes | 48686 |
 | No | 39176 |
 | More than 1 check box filled in | 50 |
+| Not NA | 87912 |
 | NA | 1409 |
 
 
@@ -5216,6 +5551,7 @@ V_33_1_2:SKJEMA4H; (V_33_1_2:SKJEMA4G); (V_32_1_2:SKJEMA4F); (V_32_1_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 5443 |
+| Not NA | 5443 |
 | NA | 83878 |
 
 
@@ -5226,6 +5562,7 @@ V_33_1_3:SKJEMA4H; (V_33_1_3:SKJEMA4G); (V_32_1_3:SKJEMA4F); (V_32_1_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 9978 |
+| Not NA | 9978 |
 | NA | 79343 |
 
 
@@ -5236,6 +5573,7 @@ V_33_1_4:SKJEMA4H; (V_33_1_4:SKJEMA4G); (V_32_1_4:SKJEMA4F); (V_32_1_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 22846 |
+| Not NA | 22846 |
 | NA | 66475 |
 
 
@@ -5246,6 +5584,7 @@ V_33_1_5:SKJEMA4H; (V_33_1_5:SKJEMA4G); (V_32_1_5:SKJEMA4F); (V_32_1_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 22473 |
+| Not NA | 22473 |
 | NA | 66848 |
 
 
@@ -5262,6 +5601,7 @@ V_33_1_6:SKJEMA4H; (V_33_1_6:SKJEMA4G); (V_32_1_6:SKJEMA4F); (V_32_1_6:SKJEMA4B)
 | 3rd Qu. | 7 |
 | Max. | 999 |
 | NA's | 41785 |
+| Not NA | 47536 |
 
 
 ### DD324
@@ -5271,6 +5611,7 @@ V_33_2_2:SKJEMA4H; (V_33_2_2:SKJEMA4G); (V_32_2_2:SKJEMA4F); (V_32_2_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1795 |
+| Not NA | 1795 |
 | NA | 87526 |
 
 
@@ -5281,6 +5622,7 @@ V_33_2_3:SKJEMA4H; (V_33_2_3:SKJEMA4G); (V_32_2_3:SKJEMA4F); (V_32_2_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3574 |
+| Not NA | 3574 |
 | NA | 85747 |
 
 
@@ -5291,6 +5633,7 @@ V_33_2_4:SKJEMA4H; (V_33_2_4:SKJEMA4G); (V_32_2_4:SKJEMA4F); (V_32_2_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 6902 |
+| Not NA | 6902 |
 | NA | 82419 |
 
 
@@ -5301,6 +5644,7 @@ V_33_2_5:SKJEMA4H; (V_33_2_5:SKJEMA4G); (V_32_2_5:SKJEMA4F); (V_32_2_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 9681 |
+| Not NA | 9681 |
 | NA | 79640 |
 
 
@@ -5317,6 +5661,7 @@ V_33_2_6:SKJEMA4H; (V_33_2_6:SKJEMA4G); (V_32_2_6:SKJEMA4F); (V_32_2_6:SKJEMA4B)
 | 3rd Qu. | 10 |
 | Max. | 999 |
 | NA's | 72229 |
+| Not NA | 17092 |
 
 
 ### DD330
@@ -5326,6 +5671,7 @@ V_33_3_2:SKJEMA4H; (V_33_3_2:SKJEMA4G); (V_32_3_2:SKJEMA4F); (V_32_3_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 642 |
+| Not NA | 642 |
 | NA | 88679 |
 
 
@@ -5336,6 +5682,7 @@ V_33_3_3:SKJEMA4H; (V_33_3_3:SKJEMA4G); (V_32_3_3:SKJEMA4F); (V_32_3_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1278 |
+| Not NA | 1278 |
 | NA | 88043 |
 
 
@@ -5346,6 +5693,7 @@ V_33_3_4:SKJEMA4H; (V_33_3_4:SKJEMA4G); (V_32_3_4:SKJEMA4F); (V_32_3_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2364 |
+| Not NA | 2364 |
 | NA | 86957 |
 
 
@@ -5356,6 +5704,7 @@ V_33_3_5:SKJEMA4H; (V_33_3_5:SKJEMA4G); (V_32_3_5:SKJEMA4F); (V_32_3_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3564 |
+| Not NA | 3564 |
 | NA | 85757 |
 
 
@@ -5372,6 +5721,7 @@ V_33_3_6:SKJEMA4H; (V_33_3_6:SKJEMA4G); (V_32_3_6:SKJEMA4F); (V_32_3_6:SKJEMA4B)
 | 3rd Qu. | 14 |
 | Max. | 999 |
 | NA's | 83392 |
+| Not NA | 5929 |
 
 
 ### DD336
@@ -5381,6 +5731,7 @@ V_33_4_2:SKJEMA4H; (V_33_4_2:SKJEMA4G); (V_32_4_2:SKJEMA4F); (V_32_4_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 267 |
+| Not NA | 267 |
 | NA | 89054 |
 
 
@@ -5391,6 +5742,7 @@ V_33_4_3:SKJEMA4H; (V_33_4_3:SKJEMA4G); (V_32_4_3:SKJEMA4F); (V_32_4_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 441 |
+| Not NA | 441 |
 | NA | 88880 |
 
 
@@ -5401,6 +5753,7 @@ V_33_4_4:SKJEMA4H; (V_33_4_4:SKJEMA4G); (V_32_4_4:SKJEMA4F); (V_32_4_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 843 |
+| Not NA | 843 |
 | NA | 88478 |
 
 
@@ -5411,6 +5764,7 @@ V_33_4_5:SKJEMA4H; (V_33_4_5:SKJEMA4G); (V_32_4_5:SKJEMA4F); (V_32_4_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1343 |
+| Not NA | 1343 |
 | NA | 87978 |
 
 
@@ -5427,6 +5781,7 @@ V_33_4_6:SKJEMA4H; (V_33_4_6:SKJEMA4G); (V_32_4_6:SKJEMA4F); (V_32_4_6:SKJEMA4B)
 | 3rd Qu. | 14 |
 | Max. | 999 |
 | NA's | 87208 |
+| Not NA | 2113 |
 
 
 ### DD344
@@ -5438,6 +5793,7 @@ V_34_1:SKJEMA4H; (V_34_1:SKJEMA4G); (V_33_1:SKJEMA4F); (V_33_1:SKJEMA4B); (S_19_
 | No | 68706 |
 | Yes | 19756 |
 | More than 1 check box filled in | 8 |
+| Not NA | 88470 |
 | NA | 851 |
 
 
@@ -5450,6 +5806,7 @@ V_35_1:SKJEMA4H; (V_35_1:SKJEMA4G); (V_34_1:SKJEMA4F); (V_34_1:SKJEMA4B); (S_20_
 | No | 85297 |
 | Yes | 2280 |
 | More than 1 check box filled in | 13 |
+| Not NA | 87590 |
 | NA | 1731 |
 
 
@@ -5462,6 +5819,7 @@ S_16_1_1:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | Yes | 5134 |
 | No | 2408 |
 | More than 1 check box filled in | 1 |
+| Not NA | 7543 |
 | NA | 81778 |
 
 
@@ -5474,6 +5832,7 @@ S_16_1_2:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | Yes | 1765 |
 | No | 3420 |
 | More than 1 check box filled in | 4 |
+| Not NA | 5189 |
 | NA | 84132 |
 
 
@@ -5486,6 +5845,7 @@ S_16_1_3:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | No | 4229 |
 | Yes | 191 |
 | More than 1 check box filled in | 1 |
+| Not NA | 4421 |
 | NA | 84900 |
 
 
@@ -5497,6 +5857,7 @@ S_16_4_1:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 6643 |
 | Yes | 236 |
+| Not NA | 6879 |
 | NA | 82442 |
 
 
@@ -5508,6 +5869,7 @@ S_16_4_2:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | Yes | 229 |
 | No | 491 |
+| Not NA | 720 |
 | NA | 88601 |
 
 
@@ -5519,6 +5881,7 @@ S_16_4_3:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | Yes | 150 |
 | No | 542 |
+| Not NA | 692 |
 | NA | 88629 |
 
 
@@ -5530,6 +5893,7 @@ S_16_5_1:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 6671 |
 | Yes | 206 |
+| Not NA | 6877 |
 | NA | 82444 |
 
 
@@ -5541,6 +5905,7 @@ S_16_5_2:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | Yes | 197 |
 | No | 495 |
+| Not NA | 692 |
 | NA | 88629 |
 
 
@@ -5552,6 +5917,7 @@ S_16_5_3:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 601 |
 | Yes | 52 |
+| Not NA | 653 |
 | NA | 88668 |
 
 
@@ -5563,6 +5929,7 @@ S_16_6_1:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 6762 |
 | Yes | 89 |
+| Not NA | 6851 |
 | NA | 82470 |
 
 
@@ -5574,6 +5941,7 @@ S_16_6_2:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 499 |
 | Yes | 83 |
+| Not NA | 582 |
 | NA | 88739 |
 
 
@@ -5585,6 +5953,7 @@ S_16_6_3:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 516 |
 | Yes | 43 |
+| Not NA | 559 |
 | NA | 88762 |
 
 
@@ -5597,6 +5966,7 @@ S_1610_1:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | No | 5732 |
 | Yes | 1209 |
 | More than 1 check box filled in | 5 |
+| Not NA | 6946 |
 | NA | 82375 |
 
 
@@ -5608,6 +5978,7 @@ S_1610_2:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | Yes | 609 |
 | No | 956 |
+| Not NA | 1565 |
 | NA | 87756 |
 
 
@@ -5619,6 +5990,7 @@ S_1610_3:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 1278 |
 | Yes | 65 |
+| Not NA | 1343 |
 | NA | 87978 |
 
 
@@ -5631,6 +6003,7 @@ S_1612_1:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | No | 6534 |
 | Yes | 300 |
 | More than 1 check box filled in | 1 |
+| Not NA | 6835 |
 | NA | 82486 |
 
 
@@ -5643,6 +6016,7 @@ S_1612_2:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | Yes | 166 |
 | No | 616 |
 | More than 1 check box filled in | 1 |
+| Not NA | 783 |
 | NA | 88538 |
 
 
@@ -5655,6 +6029,7 @@ S_1612_3:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | Yes | 80 |
 | No | 638 |
 | More than 1 check box filled in | 1 |
+| Not NA | 719 |
 | NA | 88602 |
 
 
@@ -5666,6 +6041,7 @@ S_1616_1:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 6690 |
 | Yes | 138 |
+| Not NA | 6828 |
 | NA | 82493 |
 
 
@@ -5678,6 +6054,7 @@ S_1616_2:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | No | 519 |
 | Yes | 110 |
 | More than 1 check box filled in | 1 |
+| Not NA | 630 |
 | NA | 88691 |
 
 
@@ -5689,6 +6066,7 @@ S_1616_3:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 502 |
 | Yes | 107 |
+| Not NA | 609 |
 | NA | 88712 |
 
 
@@ -5700,6 +6078,7 @@ S_1617_1:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 6753 |
 | Yes | 60 |
+| Not NA | 6813 |
 | NA | 82508 |
 
 
@@ -5711,6 +6090,7 @@ S_1617_2:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 523 |
 | Yes | 41 |
+| Not NA | 564 |
 | NA | 88757 |
 
 
@@ -5722,6 +6102,7 @@ S_1617_3:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 512 |
 | Yes | 30 |
+| Not NA | 542 |
 | NA | 88779 |
 
 
@@ -5733,6 +6114,7 @@ S_1618_1:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 6712 |
 | Yes | 100 |
+| Not NA | 6812 |
 | NA | 82509 |
 
 
@@ -5745,6 +6127,7 @@ S_1618_2:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | Yes | 94 |
 | No | 520 |
 | More than 1 check box filled in | 1 |
+| Not NA | 615 |
 | NA | 88706 |
 
 
@@ -5756,6 +6139,7 @@ S_1618_3:SKJEMA4A; ; 16. Has your child had the following illnesses/health probl
 | -------- | - |
 | No | 533 |
 | Yes | 29 |
+| Not NA | 562 |
 | NA | 88759 |
 
 
@@ -5770,6 +6154,7 @@ V_36_1:SKJEMA4H; (V_36_1:SKJEMA4G); (V_35_1:SKJEMA4F); (V_35_1:SKJEMA4B); (S_21_
 | Do not know | 86 |
 | No, not yet | 5339 |
 | More than 1 check box filled in | 7 |
+| Not NA | 88824 |
 | NA | 497 |
 
 
@@ -5784,6 +6169,7 @@ V_36_2:SKJEMA4H; (V_36_2:SKJEMA4G); (V_35_2:SKJEMA4F); (V_35_2:SKJEMA4B); (S_21_
 | No, not yet | 5939 |
 | Do not know | 126 |
 | More than 1 check box filled in | 14 |
+| Not NA | 88655 |
 | NA | 666 |
 
 
@@ -5798,6 +6184,7 @@ V_36_3:SKJEMA4H; (V_36_3:SKJEMA4G); (V_35_3:SKJEMA4F); (V_35_3:SKJEMA4B); (S_21_
 | Yes, but seldom | 10786 |
 | More than 1 check box filled in | 12 |
 | Do not know | 32 |
+| Not NA | 88886 |
 | NA | 435 |
 
 
@@ -5812,6 +6199,7 @@ V_36_4:SKJEMA4H; (V_36_4:SKJEMA4G); (V_35_4:SKJEMA4F); (V_35_4:SKJEMA4B); (S_21_
 | No, not yet | 297 |
 | Do not know | 82 |
 | More than 1 check box filled in | 12 |
+| Not NA | 88804 |
 | NA | 517 |
 
 
@@ -5826,6 +6214,7 @@ V_36_5:SKJEMA4H; (V_36_5:SKJEMA4G); (V_35_5:SKJEMA4F); (V_35_5:SKJEMA4B); (S_21_
 | No, not yet | 71 |
 | Do not know | 17 |
 | More than 1 check box filled in | 5 |
+| Not NA | 88847 |
 | NA | 474 |
 
 
@@ -5840,6 +6229,7 @@ V_36_6:SKJEMA4H; (V_36_6:SKJEMA4G); (V_35_6:SKJEMA4F); (V_35_6:SKJEMA4B); (S_21_
 | No, not yet | 214 |
 | Do not know | 250 |
 | More than 1 check box filled in | 11 |
+| Not NA | 88882 |
 | NA | 439 |
 
 
@@ -5854,6 +6244,7 @@ V_36_7:SKJEMA4H; (V_36_7:SKJEMA4G); (V_35_7:SKJEMA4F); (V_35_7:SKJEMA4B); (S_21_
 | Do not know | 26 |
 | More than 1 check box filled in | 13 |
 | No, not yet | 55 |
+| Not NA | 88863 |
 | NA | 458 |
 
 
@@ -5868,6 +6259,7 @@ V_36_8:SKJEMA4H; (V_36_8:SKJEMA4G); (V_35_8:SKJEMA4F); (V_35_8:SKJEMA4B); (S_21_
 | Do not know | 1248 |
 | No, not yet | 5913 |
 | More than 1 check box filled in | 36 |
+| Not NA | 88300 |
 | NA | 1021 |
 
 
@@ -5882,6 +6274,7 @@ V_36_9:SKJEMA4H; (V_36_9:SKJEMA4G); (V_35_9:SKJEMA4F); (V_35_9:SKJEMA4B); (S_21_
 | Yes, but seldom | 268 |
 | Do not know | 13 |
 | More than 1 check box filled in | 2 |
+| Not NA | 88862 |
 | NA | 459 |
 
 
@@ -5896,6 +6289,7 @@ V_3610:SKJEMA4H; (V_3610:SKJEMA4G); (V_3510:SKJEMA4F); (V_3510:SKJEMA4B); (S_21_
 | No, not yet | 1052 |
 | Do not know | 164 |
 | More than 1 check box filled in | 3 |
+| Not NA | 88801 |
 | NA | 520 |
 
 
@@ -5910,6 +6304,7 @@ V_3611:SKJEMA4H; (V_3611:SKJEMA4G); (V_3511:SKJEMA4F); (V_3511:SKJEMA4B); (S_21_
 | Do not know | 210 |
 | No, not yet | 328 |
 | More than 1 check box filled in | 16 |
+| Not NA | 88645 |
 | NA | 676 |
 
 
@@ -5920,6 +6315,7 @@ V_37_1:SKJEMA4H; (V_37_1:SKJEMA4G); (V_36_1:SKJEMA4F); (V_36_1:SKJEMA4B); (S_22_
 | Category | n |
 | -------- | - |
 | 1 | 88738 |
+| Not NA | 88738 |
 | NA | 583 |
 
 
@@ -5930,6 +6326,7 @@ V_37_2:SKJEMA4H; (V_37_2:SKJEMA4G); (V_36_2:SKJEMA4F); (V_36_2:SKJEMA4B); (S_22_
 | Category | n |
 | -------- | - |
 | 1 | 149 |
+| Not NA | 149 |
 | NA | 89172 |
 
 
@@ -5940,6 +6337,7 @@ V_37_3:SKJEMA4H; (V_37_3:SKJEMA4G); (V_36_3:SKJEMA4F); (V_36_3:SKJEMA4B); At a c
 | Category | n |
 | -------- | - |
 | 1 | 148 |
+| Not NA | 148 |
 | NA | 89173 |
 
 
@@ -5950,6 +6348,7 @@ V_37_4:SKJEMA4H; (V_37_4:SKJEMA4G); (V_36_4:SKJEMA4F); (V_36_4:SKJEMA4B); In an 
 | Category | n |
 | -------- | - |
 | 1 | 35 |
+| Not NA | 35 |
 | NA | 89286 |
 
 
@@ -5960,6 +6359,7 @@ V_37_5:SKJEMA4H; (V_37_5:SKJEMA4G); (V_36_5:SKJEMA4F); (V_36_5:SKJEMA4B); (S_22_
 | Category | n |
 | -------- | - |
 | 1 | 110 |
+| Not NA | 110 |
 | NA | 89211 |
 
 
@@ -5976,6 +6376,7 @@ V_38:SKJEMA4H; (V_38:SKJEMA4G); (V_37:SKJEMA4F); (V_37:SKJEMA4B); (S_23:SKJEMA4A
 | 3rd Qu. | 1 |
 | Max. | 36 |
 | NA's | 2715 |
+| Not NA | 86606 |
 
 
 ### DD365
@@ -5987,6 +6388,7 @@ V_39_1:SKJEMA4H; (V_39_1:SKJEMA4G); (V_38_1:SKJEMA4F); (V_38_1:SKJEMA4B); (S_24:
 | No | 66721 |
 | Yes | 22049 |
 | More than 1 check box filled in | 20 |
+| Not NA | 88790 |
 | NA | 531 |
 
 
@@ -6003,6 +6405,7 @@ V_39_2:SKJEMA4H; (V_39_2:SKJEMA4G); (V_38_2:SKJEMA4F); (V_38_2:SKJEMA4B); If yes
 | 3rd Qu. | 7 |
 | Max. | 60 |
 | NA's | 70053 |
+| Not NA | 19268 |
 
 
 ### DD367
@@ -6015,6 +6418,7 @@ V_40:SKJEMA4H; (V_40:SKJEMA4G); (V_39:SKJEMA4F); (V_39:SKJEMA4B); ; 40. How ofte
 | More than 3 hours a day | 13075 |
 | 1-3 hours a day | 51032 |
 | Seldom | 1885 |
+| Not NA | 80968 |
 | NA | 8353 |
 
 
@@ -6025,6 +6429,7 @@ S_22_3:SKJEMA4A; ; 22. Where is your child cared for during the day?
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 89300 |
 
 
@@ -6038,6 +6443,7 @@ S_25:SKJEMA4A; ; 25. How often is your child outside?
 | Often, but less that 1 hour a day | 1848 |
 | More than 1 check box filled in | 51 |
 | Seldom | 165 |
+| Not NA | 7863 |
 | NA | 81458 |
 
 
@@ -6051,6 +6457,7 @@ V_41:SKJEMA4H; (V_41:SKJEMA4G); (V_40:SKJEMA4F); (V_40:SKJEMA4B); (S_26:SKJEMA4A
 | Only when he/she goes to sleep | 28996 |
 | Seldom or never | 29417 |
 | Most of the time | 1933 |
+| Not NA | 88816 |
 | NA | 505 |
 
 
@@ -6065,6 +6472,7 @@ V_42:SKJEMA4H; (V_42:SKJEMA4G); (V_41:SKJEMA4F); (V_41:SKJEMA4B); (S_27:SKJEMA4A
 | More than 14 hours | 24966 |
 | 8-10 hours | 2531 |
 | Less than 8 hours | 425 |
+| Not NA | 88735 |
 | NA | 586 |
 
 
@@ -6075,6 +6483,7 @@ V_43_1_1:SKJEMA4H; (V_43_1_1:SKJEMA4G); (V_42_1_1:SKJEMA4F); (V_42_1_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 81270 |
+| Not NA | 81270 |
 | NA | 8051 |
 
 
@@ -6085,6 +6494,7 @@ V_43_1_2:SKJEMA4H; (V_43_1_2:SKJEMA4G); (V_42_1_2:SKJEMA4F); (V_42_1_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 7990 |
+| Not NA | 7990 |
 | NA | 81331 |
 
 
@@ -6095,6 +6505,7 @@ V_43_1_3:SKJEMA4H; (V_43_1_3:SKJEMA4G); (V_42_1_3:SKJEMA4F); (V_42_1_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1399 |
+| Not NA | 1399 |
 | NA | 87922 |
 
 
@@ -6105,6 +6516,7 @@ V_43_2_1:SKJEMA4H; (V_43_2_1:SKJEMA4G); (V_42_2_1:SKJEMA4F); (V_42_2_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 80313 |
+| Not NA | 80313 |
 | NA | 9008 |
 
 
@@ -6115,6 +6527,7 @@ V_43_2_2:SKJEMA4H; (V_43_2_2:SKJEMA4G); (V_42_2_2:SKJEMA4F); (V_42_2_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 7904 |
+| Not NA | 7904 |
 | NA | 81417 |
 
 
@@ -6125,6 +6538,7 @@ V_43_2_3:SKJEMA4H; (V_43_2_3:SKJEMA4G); (V_42_2_3:SKJEMA4F); (V_42_2_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1851 |
+| Not NA | 1851 |
 | NA | 87470 |
 
 
@@ -6135,6 +6549,7 @@ V_43_3_1:SKJEMA4H; (V_43_3_1:SKJEMA4G); (V_42_3_1:SKJEMA4F); (V_42_3_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 79598 |
+| Not NA | 79598 |
 | NA | 9723 |
 
 
@@ -6145,6 +6560,7 @@ V_43_3_2:SKJEMA4H; (V_43_3_2:SKJEMA4G); (V_42_3_2:SKJEMA4F); (V_42_3_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 8665 |
+| Not NA | 8665 |
 | NA | 80656 |
 
 
@@ -6155,6 +6571,7 @@ V_43_3_3:SKJEMA4H; (V_43_3_3:SKJEMA4G); (V_42_3_3:SKJEMA4F); (V_42_3_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1823 |
+| Not NA | 1823 |
 | NA | 87498 |
 
 
@@ -6165,6 +6582,7 @@ V_43_4_1:SKJEMA4H; (V_43_4_1:SKJEMA4G); (V_42_4_1:SKJEMA4F); (V_42_4_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 77476 |
+| Not NA | 77476 |
 | NA | 11845 |
 
 
@@ -6175,6 +6593,7 @@ V_43_4_2:SKJEMA4H; (V_43_4_2:SKJEMA4G); (V_42_4_2:SKJEMA4F); (V_42_4_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 10956 |
+| Not NA | 10956 |
 | NA | 78365 |
 
 
@@ -6185,6 +6604,7 @@ V_43_4_3:SKJEMA4H; (V_43_4_3:SKJEMA4G); (V_42_4_3:SKJEMA4F); (V_42_4_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2313 |
+| Not NA | 2313 |
 | NA | 87008 |
 
 
@@ -6200,6 +6620,7 @@ V_44_1:SKJEMA4H; (V_44_1:SKJEMA4G); (V_43_1:SKJEMA4F); (V_43_1:SKJEMA4B); (S_29_
 | No + Sometimes | 35 |
 | Sometimes + Often | 9 |
 | No + Often | 1 |
+| Not NA | 88435 |
 | NA | 886 |
 
 
@@ -6215,6 +6636,7 @@ V_44_2:SKJEMA4H; (V_44_2:SKJEMA4G); (V_43_2:SKJEMA4F); (V_43_2:SKJEMA4B); (S_29_
 | No + Sometimes | 18 |
 | Sometimes + Often | 6 |
 | No + Often | 1 |
+| Not NA | 88367 |
 | NA | 954 |
 
 
@@ -6229,6 +6651,7 @@ V_44_3:SKJEMA4H; (V_44_3:SKJEMA4G); (V_43_3:SKJEMA4F); (V_43_3:SKJEMA4B); (S_29_
 | Sometimes | 17254 |
 | No + Sometimes | 29 |
 | Sometimes + Often | 15 |
+| Not NA | 88355 |
 | NA | 966 |
 
 
@@ -6244,6 +6667,7 @@ V_44_4:SKJEMA4H; (V_44_4:SKJEMA4G); (V_43_4:SKJEMA4F); (V_43_4:SKJEMA4B); (S_29_
 | Sometimes + Often | 17 |
 | No + Sometimes | 34 |
 | No + Sometimes + Often | 1 |
+| Not NA | 88302 |
 | NA | 1019 |
 
 
@@ -6261,6 +6685,7 @@ V_45_1:SKJEMA4H; (V_45_1:SKJEMA4G); (V_44_1:SKJEMA4F); (V_44_1:SKJEMA4B); (S_30_
 | More than 1 check box filled in | 60 |
 | Agree completely | 419 |
 | Agree | 847 |
+| Not NA | 88695 |
 | NA | 626 |
 
 
@@ -6278,6 +6703,7 @@ V_45_2:SKJEMA4H; (V_45_2:SKJEMA4G); (V_44_2:SKJEMA4F); (V_44_2:SKJEMA4B); (S_30_
 | More than 1 check box filled in | 111 |
 | Neither agree nor disagree | 921 |
 | Disagree | 503 |
+| Not NA | 88787 |
 | NA | 534 |
 
 
@@ -6295,6 +6721,7 @@ V_45_3:SKJEMA4H; (V_45_3:SKJEMA4G); (V_44_3:SKJEMA4F); (V_44_3:SKJEMA4B); (S_30_
 | More than 1 check box filled in | 178 |
 | Agree | 1476 |
 | Agree completely | 839 |
+| Not NA | 88554 |
 | NA | 767 |
 
 
@@ -6312,6 +6739,7 @@ V_45_4:SKJEMA4H; (V_45_4:SKJEMA4G); (V_44_4:SKJEMA4F); (V_44_4:SKJEMA4B); (S_30_
 | Disagree completely | 17574 |
 | Agree completely | 4092 |
 | More than 1 check box filled in | 532 |
+| Not NA | 88447 |
 | NA | 874 |
 
 
@@ -6329,6 +6757,7 @@ V_45_5:SKJEMA4H; (V_45_5:SKJEMA4G); (V_44_5:SKJEMA4F); (V_44_5:SKJEMA4B); (S_30_
 | Disagree | 422 |
 | Disagree somewhat | 1256 |
 | More than 1 check box filled in | 338 |
+| Not NA | 88181 |
 | NA | 1140 |
 
 
@@ -6346,6 +6775,7 @@ V_45_6:SKJEMA4H; (V_45_6:SKJEMA4G); (V_44_6:SKJEMA4F); (V_44_6:SKJEMA4B); (S_30_
 | Neither agree nor disagree | 13793 |
 | Agree | 13193 |
 | More than 1 check box filled in | 186 |
+| Not NA | 87966 |
 | NA | 1355 |
 
 
@@ -6363,6 +6793,7 @@ V_45_7:SKJEMA4H; (V_45_7:SKJEMA4G); (V_44_7:SKJEMA4F); (V_44_7:SKJEMA4B); (S_30_
 | Disagree | 1562 |
 | Disagree completely | 880 |
 | More than 1 check box filled in | 51 |
+| Not NA | 87918 |
 | NA | 1403 |
 
 
@@ -6380,6 +6811,7 @@ V_45_8:SKJEMA4H; (V_45_8:SKJEMA4G); (V_44_8:SKJEMA4F); (V_44_8:SKJEMA4B); (S_30_
 | More than 1 check box filled in | 85 |
 | Agree | 334 |
 | Agree completely | 439 |
+| Not NA | 88614 |
 | NA | 707 |
 
 
@@ -6397,6 +6829,7 @@ V_45_9:SKJEMA4H; (V_45_9:SKJEMA4G); (V_44_9:SKJEMA4F); (V_44_9:SKJEMA4B); (S_30_
 | Disagree | 74 |
 | Disagree somewhat | 168 |
 | More than 1 check box filled in | 30 |
+| Not NA | 88717 |
 | NA | 604 |
 
 
@@ -6414,6 +6847,7 @@ V_4510:SKJEMA4H; (V_4510:SKJEMA4G); (V_4410:SKJEMA4F); (V_4410:SKJEMA4B); Your c
 | Neither agree nor disagree | 3993 |
 | Disagree | 4215 |
 | More than 1 check box filled in | 28 |
+| Not NA | 80907 |
 | NA | 8414 |
 
 
@@ -6427,6 +6861,7 @@ V_46:SKJEMA4H; (V_46:SKJEMA4G); (V_45:SKJEMA4F); (V_45:SKJEMA4B); ; 46. Currentl
 | 3 or more times every night | 16708 |
 | Once or twice every night | 39877 |
 | A few times a week | 11201 |
+| Not NA | 80849 |
 | NA | 8472 |
 
 
@@ -6439,6 +6874,7 @@ V_47_1:SKJEMA4H; (V_47_1:SKJEMA4G); (V_46_1:SKJEMA4F); (V_46_1:SKJEMA4B); (S_36_
 | No | 61668 |
 | Yes | 25430 |
 | More than 1 check box filled in | 44 |
+| Not NA | 87142 |
 | NA | 2179 |
 
 
@@ -6455,6 +6891,7 @@ V_47_2:SKJEMA4H; (V_47_2:SKJEMA4G); (V_46_2:SKJEMA4F); (V_46_2:SKJEMA4B); (S_36_
 | 3rd Qu. | 2 |
 | Max. | 90 |
 | NA's | 65137 |
+| Not NA | 24184 |
 
 
 ### DD403
@@ -6464,6 +6901,7 @@ V_48_1:SKJEMA4H; (V_48_1:SKJEMA4G); (V_47_1:SKJEMA4F); (V_47_1:SKJEMA4B); (S_37_
 | Category | n |
 | -------- | - |
 | 1 | 5171 |
+| Not NA | 5171 |
 | NA | 84150 |
 
 
@@ -6474,6 +6912,7 @@ V_48_2:SKJEMA4H; (V_48_2:SKJEMA4G); (V_47_2:SKJEMA4F); (V_47_2:SKJEMA4B); (S_37_
 | Category | n |
 | -------- | - |
 | 1 | 2975 |
+| Not NA | 2975 |
 | NA | 86346 |
 
 
@@ -6484,6 +6923,7 @@ V_48_3:SKJEMA4H; (V_48_3:SKJEMA4G); (V_47_3:SKJEMA4F); (V_47_3:SKJEMA4B); (S_37_
 | Category | n |
 | -------- | - |
 | 1 | 6893 |
+| Not NA | 6893 |
 | NA | 82428 |
 
 
@@ -6494,6 +6934,7 @@ V_48_4:SKJEMA4H; (V_48_4:SKJEMA4G); (V_47_4:SKJEMA4F); (V_47_4:SKJEMA4B); (S_37_
 | Category | n |
 | -------- | - |
 | 1 | 4970 |
+| Not NA | 4970 |
 | NA | 84351 |
 
 
@@ -6504,6 +6945,7 @@ V_48_5:SKJEMA4H; (V_48_5:SKJEMA4G); (V_47_5:SKJEMA4F); (V_47_5:SKJEMA4B); (S_37_
 | Category | n |
 | -------- | - |
 | 1 | 5036 |
+| Not NA | 5036 |
 | NA | 84285 |
 
 
@@ -6514,6 +6956,7 @@ V_48_6_1:SKJEMA4H; (V_48_6_1:SKJEMA4G); (V_47_6_1:SKJEMA4F); (V_47_6_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 8136 |
+| Not NA | 8136 |
 | NA | 81185 |
 
 
@@ -6526,6 +6969,7 @@ V_49_1:SKJEMA4H; (V_49_1:SKJEMA4G); (V_48_1:SKJEMA4F); (V_48_1:SKJEMA4B); (S_38_
 | No | 75351 |
 | Yes | 11716 |
 | More than 1 check box filled in | 18 |
+| Not NA | 87085 |
 | NA | 2236 |
 
 
@@ -6542,6 +6986,7 @@ V_49_2:SKJEMA4H; (V_49_2:SKJEMA4G); (V_48_2:SKJEMA4F); (V_48_2:SKJEMA4B); (S_38_
 | 3rd Qu. | 8 |
 | Max. | 90 |
 | NA's | 77945 |
+| Not NA | 11376 |
 
 
 ### DD412
@@ -6553,6 +6998,7 @@ V_50_1:SKJEMA4H; (V_50_1:SKJEMA4G); (V_49_1:SKJEMA4F); (V_49_1:SKJEMA4B); (S_39_
 | No | 82719 |
 | Yes | 4720 |
 | More than 1 check box filled in | 3 |
+| Not NA | 87442 |
 | NA | 1879 |
 
 
@@ -6565,6 +7011,7 @@ V_51_1:SKJEMA4H; (V_51_1:SKJEMA4G); (V_50_1:SKJEMA4F); (V_50_1:SKJEMA4B); (S_40_
 | No | 84236 |
 | Yes | 2818 |
 | More than 1 check box filled in | 14 |
+| Not NA | 87068 |
 | NA | 2253 |
 
 
@@ -6579,6 +7026,7 @@ V_52:SKJEMA4H; (V_52:SKJEMA4G); (V_51:SKJEMA4F); (V_51:SKJEMA4B); (S_41:SKJEMA4A
 | Poor | 2842 |
 | More than 1 check box filled in | 127 |
 | Very poor | 141 |
+| Not NA | 87273 |
 | NA | 2048 |
 
 
@@ -6589,6 +7037,7 @@ V_53_1_1:SKJEMA4H; (V_53_1_1:SKJEMA4G); (V_52_1_1:SKJEMA4F); (V_52_1_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 80503 |
+| Not NA | 80503 |
 | NA | 8818 |
 
 
@@ -6599,6 +7048,7 @@ V_53_1_2:SKJEMA4H; (V_53_1_2:SKJEMA4G); (V_52_1_2:SKJEMA4F); (V_52_1_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 5822 |
+| Not NA | 5822 |
 | NA | 83499 |
 
 
@@ -6609,6 +7059,7 @@ V_53_1_3:SKJEMA4H; (V_53_1_3:SKJEMA4G); (V_52_1_3:SKJEMA4F); (V_52_1_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 258 |
+| Not NA | 258 |
 | NA | 89063 |
 
 
@@ -6619,6 +7070,7 @@ V_53_1_5:SKJEMA4H; (V_53_1_5:SKJEMA4G); (V_52_1_5:SKJEMA4F); (V_52_1_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 442 |
+| Not NA | 442 |
 | NA | 88879 |
 
 
@@ -6629,6 +7081,7 @@ V_53_1_6:SKJEMA4H; (V_53_1_6:SKJEMA4G); (V_52_1_6:SKJEMA4F); (V_52_1_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 172 |
+| Not NA | 172 |
 | NA | 89149 |
 
 
@@ -6639,6 +7092,7 @@ V_53_1_7:SKJEMA4H; (V_53_1_7:SKJEMA4G); (V_52_1_7:SKJEMA4F); (V_52_1_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 140 |
+| Not NA | 140 |
 | NA | 89181 |
 
 
@@ -6655,6 +7109,7 @@ V_53_1_8:SKJEMA4H; (V_53_1_8:SKJEMA4G); (V_52_1_8:SKJEMA4F); (V_52_1_8:SKJEMA4B)
 | 3rd Qu. | 60 |
 | Max. | 998 |
 | NA's | 89028 |
+| Not NA | 293 |
 
 
 ### DD425
@@ -6664,6 +7119,7 @@ V_53_2_1:SKJEMA4H; (V_53_2_1:SKJEMA4G); (V_52_2_1:SKJEMA4F); (V_52_2_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 74229 |
+| Not NA | 74229 |
 | NA | 15092 |
 
 
@@ -6674,6 +7130,7 @@ V_53_2_2:SKJEMA4H; (V_53_2_2:SKJEMA4G); (V_52_2_2:SKJEMA4F); (V_52_2_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 12145 |
+| Not NA | 12145 |
 | NA | 77176 |
 
 
@@ -6684,6 +7141,7 @@ V_53_2_3:SKJEMA4H; (V_53_2_3:SKJEMA4G); (V_52_2_3:SKJEMA4F); (V_52_2_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 880 |
+| Not NA | 880 |
 | NA | 88441 |
 
 
@@ -6694,6 +7152,7 @@ V_53_2_5:SKJEMA4H; (V_53_2_5:SKJEMA4G); (V_52_2_5:SKJEMA4F); (V_52_2_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 573 |
+| Not NA | 573 |
 | NA | 88748 |
 
 
@@ -6704,6 +7163,7 @@ V_53_2_6:SKJEMA4H; (V_53_2_6:SKJEMA4G); (V_52_2_6:SKJEMA4F); (V_52_2_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 190 |
+| Not NA | 190 |
 | NA | 89131 |
 
 
@@ -6714,6 +7174,7 @@ V_53_2_7:SKJEMA4H; (V_53_2_7:SKJEMA4G); (V_52_2_7:SKJEMA4F); (V_52_2_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 105 |
+| Not NA | 105 |
 | NA | 89216 |
 
 
@@ -6730,6 +7191,7 @@ V_53_2_8:SKJEMA4H; (V_53_2_8:SKJEMA4G); (V_52_2_8:SKJEMA4F); (V_52_2_8:SKJEMA4B)
 | 3rd Qu. | 14 |
 | Max. | 270 |
 | NA's | 88967 |
+| Not NA | 354 |
 
 
 ### DD433
@@ -6739,6 +7201,7 @@ V_53_3_1:SKJEMA4H; (V_53_3_1:SKJEMA4G); (V_52_3_1:SKJEMA4F); (V_52_3_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 76670 |
+| Not NA | 76670 |
 | NA | 12651 |
 
 
@@ -6749,6 +7212,7 @@ V_53_3_2:SKJEMA4H; (V_53_3_2:SKJEMA4G); (V_52_3_2:SKJEMA4F); (V_52_3_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 9819 |
+| Not NA | 9819 |
 | NA | 79502 |
 
 
@@ -6759,6 +7223,7 @@ V_53_3_3:SKJEMA4H; (V_53_3_3:SKJEMA4G); (V_52_3_3:SKJEMA4F); (V_52_3_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2119 |
+| Not NA | 2119 |
 | NA | 87202 |
 
 
@@ -6769,6 +7234,7 @@ V_53_3_5:SKJEMA4H; (V_53_3_5:SKJEMA4G); (V_52_3_5:SKJEMA4F); (V_52_3_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 880 |
+| Not NA | 880 |
 | NA | 88441 |
 
 
@@ -6779,6 +7245,7 @@ V_53_3_6:SKJEMA4H; (V_53_3_6:SKJEMA4G); (V_52_3_6:SKJEMA4F); (V_52_3_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 929 |
+| Not NA | 929 |
 | NA | 88392 |
 
 
@@ -6789,6 +7256,7 @@ V_53_3_7:SKJEMA4H; (V_53_3_7:SKJEMA4G); (V_52_3_7:SKJEMA4F); (V_52_3_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 357 |
+| Not NA | 357 |
 | NA | 88964 |
 
 
@@ -6805,6 +7273,7 @@ V_53_3_8:SKJEMA4H; (V_53_3_8:SKJEMA4G); (V_52_3_8:SKJEMA4F); (V_52_3_8:SKJEMA4B)
 | 3rd Qu. | 90 |
 | Max. | 999 |
 | NA's | 88318 |
+| Not NA | 1003 |
 
 
 ### DD441
@@ -6814,6 +7283,7 @@ V_53_4_1:SKJEMA4H; (V_53_4_1:SKJEMA4G); (V_52_4_1:SKJEMA4F); (V_52_4_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 56199 |
+| Not NA | 56199 |
 | NA | 33122 |
 
 
@@ -6824,6 +7294,7 @@ V_53_4_2:SKJEMA4H; (V_53_4_2:SKJEMA4G); (V_52_4_2:SKJEMA4F); (V_52_4_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 30219 |
+| Not NA | 30219 |
 | NA | 59102 |
 
 
@@ -6834,6 +7305,7 @@ V_53_4_3:SKJEMA4H; (V_53_4_3:SKJEMA4G); (V_52_4_3:SKJEMA4F); (V_52_4_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4934 |
+| Not NA | 4934 |
 | NA | 84387 |
 
 
@@ -6844,6 +7316,7 @@ V_53_4_5:SKJEMA4H; (V_53_4_5:SKJEMA4G); (V_52_4_5:SKJEMA4F); (V_52_4_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 783 |
+| Not NA | 783 |
 | NA | 88538 |
 
 
@@ -6854,6 +7327,7 @@ V_53_4_6:SKJEMA4H; (V_53_4_6:SKJEMA4G); (V_52_4_6:SKJEMA4F); (V_52_4_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 346 |
+| Not NA | 346 |
 | NA | 88975 |
 
 
@@ -6864,6 +7338,7 @@ V_53_4_7:SKJEMA4H; (V_53_4_7:SKJEMA4G); (V_52_4_7:SKJEMA4F); (V_52_4_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 131 |
+| Not NA | 131 |
 | NA | 89190 |
 
 
@@ -6880,6 +7355,7 @@ V_53_4_8:SKJEMA4H; (V_53_4_8:SKJEMA4G); (V_52_4_8:SKJEMA4F); (V_52_4_8:SKJEMA4B)
 | 3rd Qu. | 30 |
 | Max. | 270 |
 | NA's | 89037 |
+| Not NA | 284 |
 
 
 ### DD449
@@ -6889,6 +7365,7 @@ V_53_5_1:SKJEMA4H; (V_53_5_1:SKJEMA4G); (V_52_5_1:SKJEMA4F); (V_52_5_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 82168 |
+| Not NA | 82168 |
 | NA | 7153 |
 
 
@@ -6899,6 +7376,7 @@ V_53_5_2:SKJEMA4H; (V_53_5_2:SKJEMA4G); (V_52_5_2:SKJEMA4F); (V_52_5_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2029 |
+| Not NA | 2029 |
 | NA | 87292 |
 
 
@@ -6909,6 +7387,7 @@ V_53_5_3:SKJEMA4H; (V_53_5_3:SKJEMA4G); (V_52_5_3:SKJEMA4F); (V_52_5_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2676 |
+| Not NA | 2676 |
 | NA | 86645 |
 
 
@@ -6919,6 +7398,7 @@ V_53_5_5:SKJEMA4H; (V_53_5_5:SKJEMA4G); (V_52_5_5:SKJEMA4F); (V_52_5_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1168 |
+| Not NA | 1168 |
 | NA | 88153 |
 
 
@@ -6929,6 +7409,7 @@ V_53_5_6:SKJEMA4H; (V_53_5_6:SKJEMA4G); (V_52_5_6:SKJEMA4F); (V_52_5_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1573 |
+| Not NA | 1573 |
 | NA | 87748 |
 
 
@@ -6939,6 +7420,7 @@ V_53_5_7:SKJEMA4H; (V_53_5_7:SKJEMA4G); (V_52_5_7:SKJEMA4F); (V_52_5_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 746 |
+| Not NA | 746 |
 | NA | 88575 |
 
 
@@ -6955,6 +7437,7 @@ V_53_5_8:SKJEMA4H; (V_53_5_8:SKJEMA4G); (V_52_5_8:SKJEMA4F); (V_52_5_8:SKJEMA4B)
 | 3rd Qu. | 10 |
 | Max. | 365 |
 | NA's | 86533 |
+| Not NA | 2788 |
 
 
 ### DD457
@@ -6964,6 +7447,7 @@ V_53_6_1:SKJEMA4H; (V_53_6_1:SKJEMA4G); (V_52_6_1:SKJEMA4F); (V_52_6_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 60902 |
+| Not NA | 60902 |
 | NA | 28419 |
 
 
@@ -6974,6 +7458,7 @@ V_53_6_2:SKJEMA4H; (V_53_6_2:SKJEMA4G); (V_52_6_2:SKJEMA4F); (V_52_6_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 14168 |
+| Not NA | 14168 |
 | NA | 75153 |
 
 
@@ -6984,6 +7469,7 @@ V_53_6_3:SKJEMA4H; (V_53_6_3:SKJEMA4G); (V_52_6_3:SKJEMA4F); (V_52_6_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 17070 |
+| Not NA | 17070 |
 | NA | 72251 |
 
 
@@ -6994,6 +7480,7 @@ V_53_6_5:SKJEMA4H; (V_53_6_5:SKJEMA4G); (V_52_6_5:SKJEMA4F); (V_52_6_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2103 |
+| Not NA | 2103 |
 | NA | 87218 |
 
 
@@ -7004,6 +7491,7 @@ V_53_6_6:SKJEMA4H; (V_53_6_6:SKJEMA4G); (V_52_6_6:SKJEMA4F); (V_52_6_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4187 |
+| Not NA | 4187 |
 | NA | 85134 |
 
 
@@ -7014,6 +7502,7 @@ V_53_6_7:SKJEMA4H; (V_53_6_7:SKJEMA4G); (V_52_6_7:SKJEMA4F); (V_52_6_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1080 |
+| Not NA | 1080 |
 | NA | 88241 |
 
 
@@ -7030,6 +7519,7 @@ V_53_6_8:SKJEMA4H; (V_53_6_8:SKJEMA4G); (V_52_6_8:SKJEMA4F); (V_52_6_8:SKJEMA4B)
 | 3rd Qu. | 30 |
 | Max. | 999 |
 | NA's | 85067 |
+| Not NA | 4254 |
 
 
 ### DD465
@@ -7039,6 +7529,7 @@ V_53_7_1:SKJEMA4H; (V_53_7_1:SKJEMA4G); (V_52_7_1:SKJEMA4F); (V_52_7_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 76738 |
+| Not NA | 76738 |
 | NA | 12583 |
 
 
@@ -7049,6 +7540,7 @@ V_53_7_2:SKJEMA4H; (V_53_7_2:SKJEMA4G); (V_52_7_2:SKJEMA4F); (V_52_7_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2704 |
+| Not NA | 2704 |
 | NA | 86617 |
 
 
@@ -7059,6 +7551,7 @@ V_53_7_3:SKJEMA4H; (V_53_7_3:SKJEMA4G); (V_52_7_3:SKJEMA4F); (V_52_7_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 7445 |
+| Not NA | 7445 |
 | NA | 81876 |
 
 
@@ -7069,6 +7562,7 @@ V_53_7_5:SKJEMA4H; (V_53_7_5:SKJEMA4G); (V_52_7_5:SKJEMA4F); (V_52_7_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 202 |
+| Not NA | 202 |
 | NA | 89119 |
 
 
@@ -7079,6 +7573,7 @@ V_53_7_6:SKJEMA4H; (V_53_7_6:SKJEMA4G); (V_52_7_6:SKJEMA4F); (V_52_7_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 564 |
+| Not NA | 564 |
 | NA | 88757 |
 
 
@@ -7089,6 +7584,7 @@ V_53_7_7:SKJEMA4H; (V_53_7_7:SKJEMA4G); (V_52_7_7:SKJEMA4F); (V_52_7_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1024 |
+| Not NA | 1024 |
 | NA | 88297 |
 
 
@@ -7105,6 +7601,7 @@ V_53_7_8:SKJEMA4H; (V_53_7_8:SKJEMA4G); (V_52_7_8:SKJEMA4F); (V_52_7_8:SKJEMA4B)
 | 3rd Qu. | 5 |
 | Max. | 330 |
 | NA's | 88482 |
+| Not NA | 839 |
 
 
 ### DD473
@@ -7114,6 +7611,7 @@ V_53_8_1:SKJEMA4H; (V_53_8_1:SKJEMA4G); (V_52_8_1:SKJEMA4F); (V_52_8_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 52889 |
+| Not NA | 52889 |
 | NA | 36432 |
 
 
@@ -7124,6 +7622,7 @@ V_53_8_2:SKJEMA4H; (V_53_8_2:SKJEMA4G); (V_52_8_2:SKJEMA4F); (V_52_8_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 33853 |
+| Not NA | 33853 |
 | NA | 55468 |
 
 
@@ -7134,6 +7633,7 @@ V_53_8_3:SKJEMA4H; (V_53_8_3:SKJEMA4G); (V_52_8_3:SKJEMA4F); (V_52_8_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1590 |
+| Not NA | 1590 |
 | NA | 87731 |
 
 
@@ -7144,6 +7644,7 @@ V_53_8_5:SKJEMA4H; (V_53_8_5:SKJEMA4G); (V_52_8_5:SKJEMA4F); (V_52_8_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 8962 |
+| Not NA | 8962 |
 | NA | 80359 |
 
 
@@ -7154,6 +7655,7 @@ V_53_8_6:SKJEMA4H; (V_53_8_6:SKJEMA4G); (V_52_8_6:SKJEMA4F); (V_52_8_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 535 |
+| Not NA | 535 |
 | NA | 88786 |
 
 
@@ -7164,6 +7666,7 @@ V_53_8_7:SKJEMA4H; (V_53_8_7:SKJEMA4G); (V_52_8_7:SKJEMA4F); (V_52_8_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 558 |
+| Not NA | 558 |
 | NA | 88763 |
 
 
@@ -7180,6 +7683,7 @@ V_53_8_8:SKJEMA4H; (V_53_8_8:SKJEMA4G); (V_52_8_8:SKJEMA4F); (V_52_8_8:SKJEMA4B)
 | 3rd Qu. | 60 |
 | Max. | 999 |
 | NA's | 82660 |
+| Not NA | 6661 |
 
 
 ### DD481
@@ -7189,6 +7693,7 @@ V_53_9_1:SKJEMA4H; (V_53_9_1:SKJEMA4G); (V_52_9_1:SKJEMA4F); (V_52_9_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 53739 |
+| Not NA | 53739 |
 | NA | 35582 |
 
 
@@ -7199,6 +7704,7 @@ V_53_9_2:SKJEMA4H; (V_53_9_2:SKJEMA4G); (V_52_9_2:SKJEMA4F); (V_52_9_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 6247 |
+| Not NA | 6247 |
 | NA | 83074 |
 
 
@@ -7209,6 +7715,7 @@ V_53_9_3:SKJEMA4H; (V_53_9_3:SKJEMA4G); (V_52_9_3:SKJEMA4F); (V_52_9_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 29300 |
+| Not NA | 29300 |
 | NA | 60021 |
 
 
@@ -7219,6 +7726,7 @@ V_53_9_5:SKJEMA4H; (V_53_9_5:SKJEMA4G); (V_52_9_5:SKJEMA4F); (V_52_9_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1776 |
+| Not NA | 1776 |
 | NA | 87545 |
 
 
@@ -7229,6 +7737,7 @@ V_53_9_6:SKJEMA4H; (V_53_9_6:SKJEMA4G); (V_52_9_6:SKJEMA4F); (V_52_9_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4452 |
+| Not NA | 4452 |
 | NA | 84869 |
 
 
@@ -7239,6 +7748,7 @@ V_53_9_7:SKJEMA4H; (V_53_9_7:SKJEMA4G); (V_52_9_7:SKJEMA4F); (V_52_9_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 7301 |
+| Not NA | 7301 |
 | NA | 82020 |
 
 
@@ -7255,6 +7765,7 @@ V_53_9_8:SKJEMA4H; (V_53_9_8:SKJEMA4G); (V_52_9_8:SKJEMA4F); (V_52_9_8:SKJEMA4B)
 | 3rd Qu. | 7 |
 | Max. | 999 |
 | NA's | 79821 |
+| Not NA | 9500 |
 
 
 ### DD489
@@ -7264,6 +7775,7 @@ V_5310_1:SKJEMA4H; (V_5310_1:SKJEMA4G); (V_5210_1:SKJEMA4F); (V_5210_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 77690 |
+| Not NA | 77690 |
 | NA | 11631 |
 
 
@@ -7274,6 +7786,7 @@ V_5310_2:SKJEMA4H; (V_5310_2:SKJEMA4G); (V_5210_2:SKJEMA4F); (V_5210_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1951 |
+| Not NA | 1951 |
 | NA | 87370 |
 
 
@@ -7284,6 +7797,7 @@ V_5310_3:SKJEMA4H; (V_5310_3:SKJEMA4G); (V_5210_3:SKJEMA4F); (V_5210_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 6458 |
+| Not NA | 6458 |
 | NA | 82863 |
 
 
@@ -7294,6 +7808,7 @@ V_5310_5:SKJEMA4H; (V_5310_5:SKJEMA4G); (V_5210_5:SKJEMA4F); (V_5210_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1114 |
+| Not NA | 1114 |
 | NA | 88207 |
 
 
@@ -7304,6 +7819,7 @@ V_5310_6:SKJEMA4H; (V_5310_6:SKJEMA4G); (V_5210_6:SKJEMA4F); (V_5210_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1610 |
+| Not NA | 1610 |
 | NA | 87711 |
 
 
@@ -7314,6 +7830,7 @@ V_5310_7:SKJEMA4H; (V_5310_7:SKJEMA4G); (V_5210_7:SKJEMA4F); (V_5210_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2770 |
+| Not NA | 2770 |
 | NA | 86551 |
 
 
@@ -7330,6 +7847,7 @@ V_5310_8:SKJEMA4H; (V_5310_8:SKJEMA4G); (V_5210_8:SKJEMA4F); (V_5210_8:SKJEMA4B)
 | 3rd Qu. | 10 |
 | Max. | 999 |
 | NA's | 84604 |
+| Not NA | 4717 |
 
 
 ### DD497
@@ -7339,6 +7857,7 @@ V_5311_1:SKJEMA4H; (V_5311_1:SKJEMA4G); (V_5211_1:SKJEMA4F); (V_5211_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 84694 |
+| Not NA | 84694 |
 | NA | 4627 |
 
 
@@ -7349,6 +7868,7 @@ V_5311_2:SKJEMA4H; (V_5311_2:SKJEMA4G); (V_5211_2:SKJEMA4F); (V_5211_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 675 |
+| Not NA | 675 |
 | NA | 88646 |
 
 
@@ -7359,6 +7879,7 @@ V_5311_3:SKJEMA4H; (V_5311_3:SKJEMA4G); (V_5211_3:SKJEMA4F); (V_5211_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1014 |
+| Not NA | 1014 |
 | NA | 88307 |
 
 
@@ -7369,6 +7890,7 @@ V_5311_5:SKJEMA4H; (V_5311_5:SKJEMA4G); (V_5211_5:SKJEMA4F); (V_5211_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 430 |
+| Not NA | 430 |
 | NA | 88891 |
 
 
@@ -7379,6 +7901,7 @@ V_5311_6:SKJEMA4H; (V_5311_6:SKJEMA4G); (V_5211_6:SKJEMA4F); (V_5211_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 362 |
+| Not NA | 362 |
 | NA | 88959 |
 
 
@@ -7389,6 +7912,7 @@ V_5311_7:SKJEMA4H; (V_5311_7:SKJEMA4G); (V_5211_7:SKJEMA4F); (V_5211_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 496 |
+| Not NA | 496 |
 | NA | 88825 |
 
 
@@ -7405,6 +7929,7 @@ V_5311_8:SKJEMA4H; (V_5311_8:SKJEMA4G); (V_5211_8:SKJEMA4F); (V_5211_8:SKJEMA4B)
 | 3rd Qu. | 10 |
 | Max. | 300 |
 | NA's | 88203 |
+| Not NA | 1118 |
 
 
 ### DD505
@@ -7414,6 +7939,7 @@ V_5312_1:SKJEMA4H; (V_5312_1:SKJEMA4G); (V_5212_1:SKJEMA4F); (V_5212_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 77063 |
+| Not NA | 77063 |
 | NA | 12258 |
 
 
@@ -7424,6 +7950,7 @@ V_5312_2:SKJEMA4H; (V_5312_2:SKJEMA4G); (V_5212_2:SKJEMA4F); (V_5212_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1078 |
+| Not NA | 1078 |
 | NA | 88243 |
 
 
@@ -7434,6 +7961,7 @@ V_5312_3:SKJEMA4H; (V_5312_3:SKJEMA4G); (V_5212_3:SKJEMA4F); (V_5212_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1391 |
+| Not NA | 1391 |
 | NA | 87930 |
 
 
@@ -7444,6 +7972,7 @@ V_5312_5:SKJEMA4H; (V_5312_5:SKJEMA4G); (V_5212_5:SKJEMA4F); (V_5212_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 845 |
+| Not NA | 845 |
 | NA | 88476 |
 
 
@@ -7454,6 +7983,7 @@ V_5312_6:SKJEMA4H; (V_5312_6:SKJEMA4G); (V_5212_6:SKJEMA4F); (V_5212_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 873 |
+| Not NA | 873 |
 | NA | 88448 |
 
 
@@ -7464,6 +7994,7 @@ V_5312_7:SKJEMA4H; (V_5312_7:SKJEMA4G); (V_5212_7:SKJEMA4F); (V_5212_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1051 |
+| Not NA | 1051 |
 | NA | 88270 |
 
 
@@ -7480,6 +8011,7 @@ V_5312_8:SKJEMA4H; (V_5312_8:SKJEMA4G); (V_5212_8:SKJEMA4F); (V_5212_8:SKJEMA4B)
 | 3rd Qu. | 180 |
 | Max. | 998 |
 | NA's | 88370 |
+| Not NA | 951 |
 
 
 ### DD513
@@ -7489,6 +8021,7 @@ V_5313_1:SKJEMA4H; (V_5313_1:SKJEMA4G); (V_5213_1:SKJEMA4F); (V_5213_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 71086 |
+| Not NA | 71086 |
 | NA | 18235 |
 
 
@@ -7499,6 +8032,7 @@ V_5313_2:SKJEMA4H; (V_5313_2:SKJEMA4G); (V_5213_2:SKJEMA4F); (V_5213_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2335 |
+| Not NA | 2335 |
 | NA | 86986 |
 
 
@@ -7509,6 +8043,7 @@ V_5313_3:SKJEMA4H; (V_5313_3:SKJEMA4G); (V_5213_3:SKJEMA4F); (V_5213_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 6899 |
+| Not NA | 6899 |
 | NA | 82422 |
 
 
@@ -7519,6 +8054,7 @@ V_5313_5:SKJEMA4H; (V_5313_5:SKJEMA4G); (V_5213_5:SKJEMA4F); (V_5213_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1071 |
+| Not NA | 1071 |
 | NA | 88250 |
 
 
@@ -7529,6 +8065,7 @@ V_5313_6:SKJEMA4H; (V_5313_6:SKJEMA4G); (V_5213_6:SKJEMA4F); (V_5213_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1795 |
+| Not NA | 1795 |
 | NA | 87526 |
 
 
@@ -7539,6 +8076,7 @@ V_5313_7:SKJEMA4H; (V_5313_7:SKJEMA4G); (V_5213_7:SKJEMA4F); (V_5213_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2957 |
+| Not NA | 2957 |
 | NA | 86364 |
 
 
@@ -7555,6 +8093,7 @@ V_5313_8:SKJEMA4H; (V_5313_8:SKJEMA4G); (V_5213_8:SKJEMA4F); (V_5213_8:SKJEMA4B)
 | 3rd Qu. | 60 |
 | Max. | 999 |
 | NA's | 86024 |
+| Not NA | 3297 |
 
 
 ### DD521
@@ -7564,6 +8103,7 @@ V_5314_1:SKJEMA4H; (V_5314_1:SKJEMA4G); (V_5214_1:SKJEMA4F); (V_5214_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 61359 |
+| Not NA | 61359 |
 | NA | 27962 |
 
 
@@ -7574,6 +8114,7 @@ V_5314_2:SKJEMA4H; (V_5314_2:SKJEMA4G); (V_5214_2:SKJEMA4F); (V_5214_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 7535 |
+| Not NA | 7535 |
 | NA | 81786 |
 
 
@@ -7584,6 +8125,7 @@ V_5314_3:SKJEMA4H; (V_5314_3:SKJEMA4G); (V_5214_3:SKJEMA4F); (V_5214_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 22125 |
+| Not NA | 22125 |
 | NA | 67196 |
 
 
@@ -7594,6 +8136,7 @@ V_5314_5:SKJEMA4H; (V_5314_5:SKJEMA4G); (V_5214_5:SKJEMA4F); (V_5214_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3622 |
+| Not NA | 3622 |
 | NA | 85699 |
 
 
@@ -7604,6 +8147,7 @@ V_5314_6:SKJEMA4H; (V_5314_6:SKJEMA4G); (V_5214_6:SKJEMA4F); (V_5214_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 9683 |
+| Not NA | 9683 |
 | NA | 79638 |
 
 
@@ -7614,6 +8158,7 @@ V_5314_7:SKJEMA4H; (V_5314_7:SKJEMA4G); (V_5214_7:SKJEMA4F); (V_5214_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 12062 |
+| Not NA | 12062 |
 | NA | 77259 |
 
 
@@ -7630,6 +8175,7 @@ V_5314_8:SKJEMA4H; (V_5314_8:SKJEMA4G); (V_5214_8:SKJEMA4F); (V_5214_8:SKJEMA4B)
 | 3rd Qu. | 10 |
 | Max. | 999 |
 | NA's | 74818 |
+| Not NA | 14503 |
 
 
 ### DD529
@@ -7639,6 +8185,7 @@ V_5315_1:SKJEMA4H; (V_5315_1:SKJEMA4G); (V_5215_1:SKJEMA4F); (V_5215_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 84077 |
+| Not NA | 84077 |
 | NA | 5244 |
 
 
@@ -7649,6 +8196,7 @@ V_5315_2:SKJEMA4H; (V_5315_2:SKJEMA4G); (V_5215_2:SKJEMA4F); (V_5215_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 577 |
+| Not NA | 577 |
 | NA | 88744 |
 
 
@@ -7659,6 +8207,7 @@ V_5315_3:SKJEMA4H; (V_5315_3:SKJEMA4G); (V_5215_3:SKJEMA4F); (V_5215_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1174 |
+| Not NA | 1174 |
 | NA | 88147 |
 
 
@@ -7669,6 +8218,7 @@ V_5315_5:SKJEMA4H; (V_5315_5:SKJEMA4G); (V_5215_5:SKJEMA4F); (V_5215_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 282 |
+| Not NA | 282 |
 | NA | 89039 |
 
 
@@ -7679,6 +8229,7 @@ V_5315_6:SKJEMA4H; (V_5315_6:SKJEMA4G); (V_5215_6:SKJEMA4F); (V_5215_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 433 |
+| Not NA | 433 |
 | NA | 88888 |
 
 
@@ -7689,6 +8240,7 @@ V_5315_7:SKJEMA4H; (V_5315_7:SKJEMA4G); (V_5215_7:SKJEMA4F); (V_5215_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 401 |
+| Not NA | 401 |
 | NA | 88920 |
 
 
@@ -7705,6 +8257,7 @@ V_5315_8:SKJEMA4H; (V_5315_8:SKJEMA4G); (V_5215_8:SKJEMA4F); (V_5215_8:SKJEMA4B)
 | 3rd Qu. | 10 |
 | Max. | 200 |
 | NA's | 88467 |
+| Not NA | 854 |
 
 
 ### DD537
@@ -7714,6 +8267,7 @@ V_5316_1:SKJEMA4H; (V_5316_1:SKJEMA4G); (V_5216_1:SKJEMA4F); (V_5216_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 81004 |
+| Not NA | 81004 |
 | NA | 8317 |
 
 
@@ -7724,6 +8278,7 @@ V_5316_2:SKJEMA4H; (V_5316_2:SKJEMA4G); (V_5216_2:SKJEMA4F); (V_5216_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1302 |
+| Not NA | 1302 |
 | NA | 88019 |
 
 
@@ -7734,6 +8289,7 @@ V_5316_3:SKJEMA4H; (V_5316_3:SKJEMA4G); (V_5216_3:SKJEMA4F); (V_5216_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4169 |
+| Not NA | 4169 |
 | NA | 85152 |
 
 
@@ -7744,6 +8300,7 @@ V_5316_5:SKJEMA4H; (V_5316_5:SKJEMA4G); (V_5216_5:SKJEMA4F); (V_5216_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 211 |
+| Not NA | 211 |
 | NA | 89110 |
 
 
@@ -7754,6 +8311,7 @@ V_5316_6:SKJEMA4H; (V_5316_6:SKJEMA4G); (V_5216_6:SKJEMA4F); (V_5216_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 564 |
+| Not NA | 564 |
 | NA | 88757 |
 
 
@@ -7764,6 +8322,7 @@ V_5316_7:SKJEMA4H; (V_5316_7:SKJEMA4G); (V_5216_7:SKJEMA4F); (V_5216_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 737 |
+| Not NA | 737 |
 | NA | 88584 |
 
 
@@ -7780,6 +8339,7 @@ V_5316_8:SKJEMA4H; (V_5316_8:SKJEMA4G); (V_5216_8:SKJEMA4F); (V_5216_8:SKJEMA4B)
 | 3rd Qu. | 150 |
 | Max. | 500 |
 | NA's | 88764 |
+| Not NA | 557 |
 
 
 ### DD545
@@ -7789,6 +8349,7 @@ V_5317_1:SKJEMA4H; (V_5317_1:SKJEMA4G); (V_5217_1:SKJEMA4F); (V_5217_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 70111 |
+| Not NA | 70111 |
 | NA | 19210 |
 
 
@@ -7799,6 +8360,7 @@ V_5317_2:SKJEMA4H; (V_5317_2:SKJEMA4G); (V_5217_2:SKJEMA4F); (V_5217_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 117 |
+| Not NA | 117 |
 | NA | 89204 |
 
 
@@ -7809,6 +8371,7 @@ V_5317_3:SKJEMA4H; (V_5317_3:SKJEMA4G); (V_5217_3:SKJEMA4F); (V_5217_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 15873 |
+| Not NA | 15873 |
 | NA | 73448 |
 
 
@@ -7819,6 +8382,7 @@ V_5317_5:SKJEMA4H; (V_5317_5:SKJEMA4G); (V_5217_5:SKJEMA4F); (V_5217_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 72 |
+| Not NA | 72 |
 | NA | 89249 |
 
 
@@ -7829,6 +8393,7 @@ V_5317_6:SKJEMA4H; (V_5317_6:SKJEMA4G); (V_5217_6:SKJEMA4F); (V_5217_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 8211 |
+| Not NA | 8211 |
 | NA | 81110 |
 
 
@@ -7839,6 +8404,7 @@ V_5317_7:SKJEMA4H; (V_5317_7:SKJEMA4G); (V_5217_7:SKJEMA4F); (V_5217_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1781 |
+| Not NA | 1781 |
 | NA | 87540 |
 
 
@@ -7855,6 +8421,7 @@ V_5317_8:SKJEMA4H; (V_5317_8:SKJEMA4G); (V_5217_8:SKJEMA4F); (V_5217_8:SKJEMA4B)
 | 3rd Qu. | 10 |
 | Max. | 999 |
 | NA's | 80925 |
+| Not NA | 8396 |
 
 
 ### DD553
@@ -7864,6 +8431,7 @@ V_5318_1:SKJEMA4H; (V_5318_1:SKJEMA4G); (V_5218_1:SKJEMA4F); (V_5218_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 61911 |
+| Not NA | 61911 |
 | NA | 27410 |
 
 
@@ -7874,6 +8442,7 @@ V_5318_2:SKJEMA4H; (V_5318_2:SKJEMA4G); (V_5218_2:SKJEMA4F); (V_5218_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 818 |
+| Not NA | 818 |
 | NA | 88503 |
 
 
@@ -7884,6 +8453,7 @@ V_5318_3:SKJEMA4H; (V_5318_3:SKJEMA4G); (V_5218_3:SKJEMA4F); (V_5218_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 15634 |
+| Not NA | 15634 |
 | NA | 73687 |
 
 
@@ -7894,6 +8464,7 @@ V_5318_5:SKJEMA4H; (V_5318_5:SKJEMA4G); (V_5218_5:SKJEMA4F); (V_5218_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 353 |
+| Not NA | 353 |
 | NA | 88968 |
 
 
@@ -7904,6 +8475,7 @@ V_5318_6:SKJEMA4H; (V_5318_6:SKJEMA4G); (V_5218_6:SKJEMA4F); (V_5218_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4968 |
+| Not NA | 4968 |
 | NA | 84353 |
 
 
@@ -7914,6 +8486,7 @@ V_5318_7:SKJEMA4H; (V_5318_7:SKJEMA4G); (V_5218_7:SKJEMA4F); (V_5218_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3531 |
+| Not NA | 3531 |
 | NA | 85790 |
 
 
@@ -7930,6 +8503,7 @@ V_5318_8:SKJEMA4H; (V_5318_8:SKJEMA4G); (V_5218_8:SKJEMA4F); (V_5218_8:SKJEMA4B)
 | 3rd Qu. | 5 |
 | Max. | 999 |
 | NA's | 81802 |
+| Not NA | 7519 |
 
 
 ### DD561
@@ -7939,6 +8513,7 @@ V_5319_1:SKJEMA4H; (V_5319_1:SKJEMA4G); (V_5219_1:SKJEMA4F); (V_5219_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 32343 |
+| Not NA | 32343 |
 | NA | 56978 |
 
 
@@ -7949,6 +8524,7 @@ V_5319_2:SKJEMA4H; (V_5319_2:SKJEMA4G); (V_5219_2:SKJEMA4F); (V_5219_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2666 |
+| Not NA | 2666 |
 | NA | 86655 |
 
 
@@ -7959,6 +8535,7 @@ V_5319_3:SKJEMA4H; (V_5319_3:SKJEMA4G); (V_5219_3:SKJEMA4F); (V_5219_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 8479 |
+| Not NA | 8479 |
 | NA | 80842 |
 
 
@@ -7969,6 +8546,7 @@ V_5319_5:SKJEMA4H; (V_5319_5:SKJEMA4G); (V_5219_5:SKJEMA4F); (V_5219_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1217 |
+| Not NA | 1217 |
 | NA | 88104 |
 
 
@@ -7979,6 +8557,7 @@ V_5319_6:SKJEMA4H; (V_5319_6:SKJEMA4G); (V_5219_6:SKJEMA4F); (V_5219_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4147 |
+| Not NA | 4147 |
 | NA | 85174 |
 
 
@@ -7989,6 +8568,7 @@ V_5319_7:SKJEMA4H; (V_5319_7:SKJEMA4G); (V_5219_7:SKJEMA4F); (V_5219_7:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3432 |
+| Not NA | 3432 |
 | NA | 85889 |
 
 
@@ -8005,6 +8585,7 @@ V_5319_8:SKJEMA4H; (V_5319_8:SKJEMA4G); (V_5219_8:SKJEMA4F); (V_5219_8:SKJEMA4B)
 | 3rd Qu. | 21 |
 | Max. | 999 |
 | NA's | 82966 |
+| Not NA | 6355 |
 
 
 ### DD958
@@ -8014,6 +8595,7 @@ S_4212_1:SKJEMA4A; ; 42. Have you had any of the following problems/illnesses si
 | Category | n |
 | -------- | - |
 | 1 | 6994 |
+| Not NA | 6994 |
 | NA | 82327 |
 
 
@@ -8024,6 +8606,7 @@ S_4212_2:SKJEMA4A; ; 42. Have you had any of the following problems/illnesses si
 | Category | n |
 | -------- | - |
 | 1 | 148 |
+| Not NA | 148 |
 | NA | 89173 |
 
 
@@ -8034,6 +8617,7 @@ S_4212_3:SKJEMA4A; ; 42. Have you had any of the following problems/illnesses si
 | Category | n |
 | -------- | - |
 | 1 | 379 |
+| Not NA | 379 |
 | NA | 88942 |
 
 
@@ -8044,6 +8628,7 @@ S_4212_5:SKJEMA4A; ; 42. Have you had any of the following problems/illnesses si
 | Category | n |
 | -------- | - |
 | 1 | 90 |
+| Not NA | 90 |
 | NA | 89231 |
 
 
@@ -8054,6 +8639,7 @@ S_4212_6:SKJEMA4A; ; 42. Have you had any of the following problems/illnesses si
 | Category | n |
 | -------- | - |
 | 1 | 134 |
+| Not NA | 134 |
 | NA | 89187 |
 
 
@@ -8064,6 +8650,7 @@ S_4212_7:SKJEMA4A; ; 42. Have you had any of the following problems/illnesses si
 | Category | n |
 | -------- | - |
 | 1 | 188 |
+| Not NA | 188 |
 | NA | 89133 |
 
 
@@ -8080,6 +8667,7 @@ S_4212_8:SKJEMA4A; ; 42. Have you had any of the following problems/illnesses si
 | 3rd Qu. | 60 |
 | Max. | 365 |
 | NA's | 89115 |
+| Not NA | 206 |
 
 
 ### DD570
@@ -8091,6 +8679,7 @@ V_54:SKJEMA4H; (V_54:SKJEMA4G); (V_53:SKJEMA4F); (V_53:SKJEMA4B); (S_43:SKJEMA4A
 | No | 71406 |
 | Yes | 13327 |
 | More than 1 check box filled in | 20 |
+| Not NA | 84753 |
 | NA | 4568 |
 
 
@@ -8101,6 +8690,7 @@ V_55_1_2:SKJEMA4H; (V_55_1_2:SKJEMA4G); (V_54_1_2:SKJEMA4F); (V_54_1_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4057 |
+| Not NA | 4057 |
 | NA | 85264 |
 
 
@@ -8117,6 +8707,7 @@ V_55_1_3:SKJEMA4H; (V_55_1_3:SKJEMA4G); (V_54_1_3:SKJEMA4F); (V_54_1_3:SKJEMA4B)
 | 3rd Qu. | 20 |
 | Max. | 999 |
 | NA's | 86057 |
+| Not NA | 3264 |
 
 
 ### DD574
@@ -8126,6 +8717,7 @@ V_55_1_4:SKJEMA4H; (V_55_1_4:SKJEMA4G); (V_54_1_4:SKJEMA4F); (V_54_1_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 9725 |
+| Not NA | 9725 |
 | NA | 79596 |
 
 
@@ -8142,6 +8734,7 @@ V_55_1_5:SKJEMA4H; (V_55_1_5:SKJEMA4G); (V_54_1_5:SKJEMA4F); (V_54_1_5:SKJEMA4B)
 | 3rd Qu. | 10 |
 | Max. | 999 |
 | NA's | 79965 |
+| Not NA | 9356 |
 
 
 ### DD576
@@ -8151,6 +8744,7 @@ V_55_1_6:SKJEMA4H; (V_55_1_6:SKJEMA4G); (V_54_1_6:SKJEMA4F); (V_54_1_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 9608 |
+| Not NA | 9608 |
 | NA | 79713 |
 
 
@@ -8167,6 +8761,7 @@ V_55_1_7:SKJEMA4H; (V_55_1_7:SKJEMA4G); (V_54_1_7:SKJEMA4F); (V_54_1_7:SKJEMA4B)
 | 3rd Qu. | 10 |
 | Max. | 999 |
 | NA's | 80035 |
+| Not NA | 9286 |
 
 
 ### DD579
@@ -8176,6 +8771,7 @@ V_55_2_2:SKJEMA4H; (V_55_2_2:SKJEMA4G); (V_54_2_2:SKJEMA4F); (V_54_2_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 694 |
+| Not NA | 694 |
 | NA | 88627 |
 
 
@@ -8192,6 +8788,7 @@ V_55_2_3:SKJEMA4H; (V_55_2_3:SKJEMA4G); (V_55_2_3:SKJEMA4F); (V_54_2_3:SKJEMA4B)
 | 3rd Qu. | 51.25 |
 | Max. | 999 |
 | NA's | 88769 |
+| Not NA | 552 |
 
 
 ### DD581
@@ -8201,6 +8798,7 @@ V_55_2_4:SKJEMA4H; (V_55_2_4:SKJEMA4G); (V_54_2_4:SKJEMA4F); (V_54_2_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2266 |
+| Not NA | 2266 |
 | NA | 87055 |
 
 
@@ -8217,6 +8815,7 @@ V_55_2_5:SKJEMA4H; (V_55_2_5:SKJEMA4G); (V_54_2_5:SKJEMA4F); (V_54_2_5:SKJEMA4B)
 | 3rd Qu. | 15 |
 | Max. | 999 |
 | NA's | 87111 |
+| Not NA | 2210 |
 
 
 ### DD583
@@ -8226,6 +8825,7 @@ V_55_2_6:SKJEMA4H; (V_55_2_6:SKJEMA4G); (V_54_2_6:SKJEMA4F); (V_54_2_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2165 |
+| Not NA | 2165 |
 | NA | 87156 |
 
 
@@ -8242,6 +8842,7 @@ V_55_2_7:SKJEMA4H; (V_55_2_7:SKJEMA4G); (V_54_2_7:SKJEMA4F); (V_54_2_7:SKJEMA4B)
 | 3rd Qu. | 20 |
 | Max. | 999 |
 | NA's | 87215 |
+| Not NA | 2106 |
 
 
 ### DD586
@@ -8251,6 +8852,7 @@ V_55_3_2:SKJEMA4H; (V_55_3_2:SKJEMA4G); (V_54_3_2:SKJEMA4F); (V_54_3_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 221 |
+| Not NA | 221 |
 | NA | 89100 |
 
 
@@ -8267,6 +8869,7 @@ V_55_3_3:SKJEMA4H; (V_55_3_3:SKJEMA4G); (V_54_3_3:SKJEMA4F); (V_54_3_3:SKJEMA4B)
 | 3rd Qu. | 43.5 |
 | Max. | 365 |
 | NA's | 89126 |
+| Not NA | 195 |
 
 
 ### DD588
@@ -8276,6 +8879,7 @@ V_55_3_4:SKJEMA4H; (V_55_3_4:SKJEMA4G); (V_54_3_4:SKJEMA4F); (V_54_3_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 624 |
+| Not NA | 624 |
 | NA | 88697 |
 
 
@@ -8292,6 +8896,7 @@ V_55_3_5:SKJEMA4H; (V_55_3_5:SKJEMA4G); (V_54_3_5:SKJEMA4F); (V_54_3_5:SKJEMA4B)
 | 3rd Qu. | 20 |
 | Max. | 999 |
 | NA's | 88701 |
+| Not NA | 620 |
 
 
 ### DD590
@@ -8301,6 +8906,7 @@ V_55_3_6:SKJEMA4H; (V_55_3_6:SKJEMA4G); (V_54_3_6:SKJEMA4F); (V_54_3_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 535 |
+| Not NA | 535 |
 | NA | 88786 |
 
 
@@ -8317,6 +8923,7 @@ V_55_3_7:SKJEMA4H; (V_55_3_7:SKJEMA4G); (V_54_3_7:SKJEMA4F); (V_54_3_7:SKJEMA4B)
 | 3rd Qu. | 35 |
 | Max. | 999 |
 | NA's | 88808 |
+| Not NA | 513 |
 
 
 ### DD592
@@ -8328,6 +8935,7 @@ V_56:SKJEMA4H; (V_56:SKJEMA4G); (V_55:SKJEMA4F); (V_55:SKJEMA4B); (S_45:SKJEMA4A
 | Yes | 59908 |
 | No | 26627 |
 | More than 1 check box filled in | 19 |
+| Not NA | 86554 |
 | NA | 2767 |
 
 
@@ -8338,6 +8946,7 @@ V_57_1_2:SKJEMA4H; (V_57_1_2:SKJEMA4G); (V_56_1_2:SKJEMA4F); (V_56_1_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 43646 |
+| Not NA | 43646 |
 | NA | 45675 |
 
 
@@ -8348,6 +8957,7 @@ V_57_1_3:SKJEMA4H; (V_57_1_3:SKJEMA4G); (V_56_1_3:SKJEMA4F); (V_56_1_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 45382 |
+| Not NA | 45382 |
 | NA | 43939 |
 
 
@@ -8358,6 +8968,7 @@ V_57_1_4:SKJEMA4H; (V_57_1_4:SKJEMA4G); (V_56_1_4:SKJEMA4F); (V_56_1_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 44413 |
+| Not NA | 44413 |
 | NA | 44908 |
 
 
@@ -8368,6 +8979,7 @@ V_57_1_5:SKJEMA4H; (V_57_1_5:SKJEMA4G); (V_56_1_5:SKJEMA4F); (V_56_1_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 43582 |
+| Not NA | 43582 |
 | NA | 45739 |
 
 
@@ -8378,6 +8990,7 @@ V_57_1_6:SKJEMA4H; (V_57_1_6:SKJEMA4G); (V_56_1_6:SKJEMA4F); (V_56_1_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 14512 |
+| Not NA | 14512 |
 | NA | 74809 |
 
 
@@ -8388,6 +9001,7 @@ V_57_2_2:SKJEMA4H; (V_57_2_2:SKJEMA4G); (V_56_2_2:SKJEMA4F); (V_56_2_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 16695 |
+| Not NA | 16695 |
 | NA | 72626 |
 
 
@@ -8398,6 +9012,7 @@ V_57_2_3:SKJEMA4H; (V_57_2_3:SKJEMA4G); (V_56_2_3:SKJEMA4F); (V_56_2_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 20080 |
+| Not NA | 20080 |
 | NA | 69241 |
 
 
@@ -8408,6 +9023,7 @@ V_57_2_4:SKJEMA4H; (V_57_2_4:SKJEMA4G); (V_56_2_4:SKJEMA4F); (V_56_2_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 21586 |
+| Not NA | 21586 |
 | NA | 67735 |
 
 
@@ -8418,6 +9034,7 @@ V_57_2_5:SKJEMA4H; (V_57_2_5:SKJEMA4G); (V_56_2_5:SKJEMA4F); (V_56_2_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 20464 |
+| Not NA | 20464 |
 | NA | 68857 |
 
 
@@ -8428,6 +9045,7 @@ V_57_2_6:SKJEMA4H; (V_57_2_6:SKJEMA4G); (V_56_2_6:SKJEMA4F); (V_56_2_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 7342 |
+| Not NA | 7342 |
 | NA | 81979 |
 
 
@@ -8438,6 +9056,7 @@ V_57_3_2:SKJEMA4H; (V_57_3_2:SKJEMA4G); (V_56_3_2:SKJEMA4F); (V_56_3_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 5349 |
+| Not NA | 5349 |
 | NA | 83972 |
 
 
@@ -8448,6 +9067,7 @@ V_57_3_3:SKJEMA4H; (V_57_3_3:SKJEMA4G); (V_56_3_3:SKJEMA4F); (V_56_3_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 7045 |
+| Not NA | 7045 |
 | NA | 82276 |
 
 
@@ -8458,6 +9078,7 @@ V_57_3_4:SKJEMA4H; (V_57_3_4:SKJEMA4G); (V_56_3_4:SKJEMA4F); (V_56_3_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 8270 |
+| Not NA | 8270 |
 | NA | 81051 |
 
 
@@ -8468,6 +9089,7 @@ V_57_3_5:SKJEMA4H; (V_57_3_5:SKJEMA4G); (V_56_3_5:SKJEMA4F); (V_56_3_5:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 7823 |
+| Not NA | 7823 |
 | NA | 81498 |
 
 
@@ -8478,6 +9100,7 @@ V_57_3_6:SKJEMA4H; (V_57_3_6:SKJEMA4G); (V_56_3_6:SKJEMA4F); (V_56_3_6:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2838 |
+| Not NA | 2838 |
 | NA | 86483 |
 
 
@@ -8488,6 +9111,7 @@ S_44_4_2:SKJEMA4A; ; 44. If yes, give the name of the medicines and when you too
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 89311 |
 
 
@@ -8503,6 +9127,7 @@ S_44_4_3:SKJEMA4A; ; 44. If yes, give the name of the medicines and when you too
 | 5 | 1 |
 | 14 | 1 |
 | 246 | 1 |
+| Not NA | 7 |
 | NA | 89314 |
 
 
@@ -8513,6 +9138,7 @@ S_44_4_4:SKJEMA4A; ; 44. If yes, give the name of the medicines and when you too
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 89299 |
 
 
@@ -8534,6 +9160,7 @@ S_44_4_5:SKJEMA4A; ; 44. If yes, give the name of the medicines and when you too
 | 15 | 1 |
 | 1 | 1 |
 | 12 | 1 |
+| Not NA | 24 |
 | NA | 89297 |
 
 
@@ -8544,6 +9171,7 @@ S_44_4_6:SKJEMA4A; ; 44. If yes, give the name of the medicines and when you too
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 89299 |
 
 
@@ -8565,6 +9193,7 @@ S_44_4_7:SKJEMA4A; ; 44. If yes, give the name of the medicines and when you too
 | 15 | 1 |
 | 45 | 1 |
 | 12 | 1 |
+| Not NA | 22 |
 | NA | 89299 |
 
 
@@ -8575,6 +9204,7 @@ S_46_4_2:SKJEMA4A; ; 46. If yes, which product, when did you take it and how oft
 | Category | n |
 | -------- | - |
 | 1 | 143 |
+| Not NA | 143 |
 | NA | 89178 |
 
 
@@ -8585,6 +9215,7 @@ S_46_4_3:SKJEMA4A; ; 46. If yes, which product, when did you take it and how oft
 | Category | n |
 | -------- | - |
 | 1 | 166 |
+| Not NA | 166 |
 | NA | 89155 |
 
 
@@ -8595,6 +9226,7 @@ S_46_4_4:SKJEMA4A; ; 46. If yes, which product, when did you take it and how oft
 | Category | n |
 | -------- | - |
 | 1 | 236 |
+| Not NA | 236 |
 | NA | 89085 |
 
 
@@ -8605,6 +9237,7 @@ S_46_4_5:SKJEMA4A; ; 46. If yes, which product, when did you take it and how oft
 | Category | n |
 | -------- | - |
 | 1 | 208 |
+| Not NA | 208 |
 | NA | 89113 |
 
 
@@ -8615,6 +9248,7 @@ S_46_4_6:SKJEMA4A; ; 46. If yes, which product, when did you take it and how oft
 | Category | n |
 | -------- | - |
 | 1 | 96 |
+| Not NA | 96 |
 | NA | 89225 |
 
 
@@ -8631,6 +9265,7 @@ V_72:SKJEMA4H; (V_66:SKJEMA4G); (V_65:SKJEMA4F); (V_65:SKJEMA4B); (S_55:SKJEMA4A
 | 3rd Qu. | 4 |
 | Max. | 70 |
 | NA's | 2393 |
+| Not NA | 86928 |
 
 
 ### DD666
@@ -8642,6 +9277,7 @@ V_73:SKJEMA4H; (V_67:SKJEMA4G); (V_66:SKJEMA4F); (V_66:SKJEMA4B); (S_56:SKJEMA4A
 | Yes | 79507 |
 | No | 7453 |
 | More than 1 check box filled in | 149 |
+| Not NA | 87109 |
 | NA | 2212 |
 
 
@@ -8652,6 +9288,7 @@ V_74_1_1:SKJEMA4H; (V_68_1:SKJEMA4G); (V_67_1:SKJEMA4F); (V_67_1:SKJEMA4B); (S_5
 | Category | n |
 | -------- | - |
 | 1 | 2441 |
+| Not NA | 2441 |
 | NA | 86880 |
 
 
@@ -8662,6 +9299,7 @@ V_74_2_1:SKJEMA4H; (V_68_2_1:SKJEMA4G); (V_67_2_1:SKJEMA4F); (V_67_2_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 849 |
+| Not NA | 849 |
 | NA | 88472 |
 
 
@@ -8672,6 +9310,7 @@ V_74_3_1:SKJEMA4H; (V_68_3_1:SKJEMA4G); (V_67_3_1:SKJEMA4F); (V_67_3_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 6591 |
+| Not NA | 6591 |
 | NA | 82730 |
 
 
@@ -8688,6 +9327,7 @@ V_75_1:SKJEMA4H; (V_69_1:SKJEMA4G); (V_68_1:SKJEMA4F); (V_68_1:SKJEMA4B); (S_58_
 | 3rd Qu. | 90 |
 | Max. | 920 |
 | NA's | 5792 |
+| Not NA | 83529 |
 
 
 ### DD673
@@ -8703,6 +9343,7 @@ V_75_2:SKJEMA4H; (V_69_2:SKJEMA4G); (V_68_2:SKJEMA4F); (V_68_2:SKJEMA4B); (S_58_
 | 3rd Qu. | 75 |
 | Max. | 785 |
 | NA's | 5083 |
+| Not NA | 84238 |
 
 
 ### DD674
@@ -8718,6 +9359,7 @@ V_76:SKJEMA4H; (V_70:SKJEMA4G); (V_69:SKJEMA4F); (V_69:SKJEMA4B); ; 76. Were you
 | No + Yes, partly on sick leave | 8 |
 | No + Yes, competely on sick leave | 8 |
 | No + Yes, partly on sick leave + Yes, competely on sick leave | 1 |
+| Not NA | 77593 |
 | NA | 11728 |
 
 
@@ -8728,6 +9370,7 @@ V_77_1_2:SKJEMA4H; (V_71_1_2:SKJEMA4G); (V_70_1_2:SKJEMA4F); (V_70_1_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 33974 |
+| Not NA | 33974 |
 | NA | 55347 |
 
 
@@ -8738,6 +9381,7 @@ V_77_1_3:SKJEMA4H; (V_71_1_3:SKJEMA4G); (V_70_1_3:SKJEMA4F); (V_70_1_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 33537 |
+| Not NA | 33537 |
 | NA | 55784 |
 
 
@@ -8748,6 +9392,7 @@ V_77_1_4:SKJEMA4H; (V_71_1_4:SKJEMA4G); (V_70_1_4:SKJEMA4F); (V_70_1_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 21273 |
+| Not NA | 21273 |
 | NA | 68048 |
 
 
@@ -8764,6 +9409,7 @@ V_77_1_5:SKJEMA4H; (V_71_1_5:SKJEMA4G); (V_70_1_5:SKJEMA4F); (V_70_1_5:SKJEMA4B)
 | 3rd Qu. | 35 |
 | Max. | 99 |
 | NA's | 61611 |
+| Not NA | 27710 |
 
 
 ### DD680
@@ -8842,6 +9488,7 @@ V_77_1_6:SKJEMA4H; (V_71_1_6:SKJEMA4G); (V_70_1_6:SKJEMA4F); (V_70_1_6:SKJEMA4B)
 | 95 | 2 |
 | Active sick leave | 186 |
 | NA's | 41989 |
+| Not NA | 47332 |
 
 
 ### DD682
@@ -8851,6 +9498,7 @@ V_77_2_2:SKJEMA4H; (V_71_2_2:SKJEMA4G); (V_70_2_2:SKJEMA4F); (V_70_2_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2330 |
+| Not NA | 2330 |
 | NA | 86991 |
 
 
@@ -8861,6 +9509,7 @@ V_77_2_3:SKJEMA4H; (V_71_2_3:SKJEMA4G); (V_70_2_3:SKJEMA4F); (V_70_2_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 12473 |
+| Not NA | 12473 |
 | NA | 76848 |
 
 
@@ -8871,6 +9520,7 @@ V_77_2_4:SKJEMA4H; (V_71_2_4:SKJEMA4G); (V_70_2_4:SKJEMA4F); (V_70_2_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4173 |
+| Not NA | 4173 |
 | NA | 85148 |
 
 
@@ -8887,6 +9537,7 @@ V_77_2_5:SKJEMA4H; (V_71_2_5:SKJEMA4G); (V_70_2_5:SKJEMA4F); (V_70_2_5:SKJEMA4B)
 | 3rd Qu. | 28 |
 | Max. | 99 |
 | NA's | 79548 |
+| Not NA | 9773 |
 
 
 ### DD686
@@ -8942,6 +9593,7 @@ V_77_2_6:SKJEMA4H; (V_71_2_6:SKJEMA4G); (V_70_2_6:SKJEMA4F); (V_70_2_6:SKJEMA4B)
 | 95 | 2 |
 | Active sick leave | 38 |
 | NA's | 74268 |
+| Not NA | 15053 |
 
 
 ### DD688
@@ -8951,6 +9603,7 @@ V_77_3_2:SKJEMA4H; (V_71_3_2:SKJEMA4G); (V_70_3_2:SKJEMA4F); (V_70_3_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 487 |
+| Not NA | 487 |
 | NA | 88834 |
 
 
@@ -8961,6 +9614,7 @@ V_77_3_3:SKJEMA4H; (V_71_3_3:SKJEMA4G); (V_70_3_3:SKJEMA4F); (V_70_3_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1074 |
+| Not NA | 1074 |
 | NA | 88247 |
 
 
@@ -8971,6 +9625,7 @@ V_77_3_4:SKJEMA4H; (V_71_3_4:SKJEMA4G); (V_70_3_4:SKJEMA4F); (V_70_3_4:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4868 |
+| Not NA | 4868 |
 | NA | 84453 |
 
 
@@ -8987,6 +9642,7 @@ V_77_3_5:SKJEMA4H; (V_71_3_5:SKJEMA4G); (V_70_3_5:SKJEMA4F); (V_70_3_5:SKJEMA4B)
 | 3rd Qu. | 28 |
 | Max. | 99 |
 | NA's | 86165 |
+| Not NA | 3156 |
 
 
 ### DD692
@@ -9025,6 +9681,7 @@ V_77_3_6:SKJEMA4H; (V_71_3_6:SKJEMA4G); (V_70_3_6:SKJEMA4F); (V_70_3_6:SKJEMA4B)
 | 90 | 8 |
 | Active sick leave | 15 |
 | NA's | 83754 |
+| Not NA | 5567 |
 
 
 ### DD979
@@ -9036,6 +9693,7 @@ S_59:SKJEMA4A; ; 59.
 | Yes | 5151 |
 | No | 2523 |
 | More than 1 check box filled in | 2 |
+| Not NA | 7676 |
 | NA | 81645 |
 
 
@@ -9052,6 +9710,7 @@ S_60_1:SKJEMA4A; ; 60.
 | 3rd Qu. | 14 |
 | Max. | 95 |
 | NA's | 88701 |
+| Not NA | 620 |
 
 
 ### DD981
@@ -9067,6 +9726,7 @@ S_60_2:SKJEMA4A; ; 60.
 | 3rd Qu. | 16 |
 | Max. | 52 |
 | NA's | 85065 |
+| Not NA | 4256 |
 
 
 ### DD982
@@ -9076,6 +9736,7 @@ S_61_1:SKJEMA4A; ; 61.
 | Category | n |
 | -------- | - |
 | 1 | 999 |
+| Not NA | 999 |
 | NA | 88322 |
 
 
@@ -9086,6 +9747,7 @@ S_61_2:SKJEMA4A; ; 61.
 | Category | n |
 | -------- | - |
 | 1 | 1633 |
+| Not NA | 1633 |
 | NA | 87688 |
 
 
@@ -9096,6 +9758,7 @@ S_61_3:SKJEMA4A; ; 61.
 | Category | n |
 | -------- | - |
 | 1 | 4751 |
+| Not NA | 4751 |
 | NA | 84570 |
 
 
@@ -9109,6 +9772,7 @@ V_71:SKJEMA4B; (S_62:SKJEMA4A); ; 71. Would your current financial situation all
 | Do not know | 2306 |
 | No | 4206 |
 | More than 1 check box filled in | 26 |
+| Not NA | 41097 |
 | NA | 48224 |
 
 
@@ -9123,6 +9787,7 @@ V_79:SKJEMA4H; (V_73:SKJEMA4G); (V_72:SKJEMA4F); (V_72:SKJEMA4B); (S_63:SKJEMA4A
 | Yes, often | 1223 |
 | Yes, sometimes_duplicated_3 | 4090 |
 | More than 1 check box filled in | 11 |
+| Not NA | 87219 |
 | NA | 2102 |
 
 
@@ -9136,6 +9801,7 @@ V_78:SKJEMA4H; (V_72:SKJEMA4G); (V_71:SKJEMA4F); ; 78. Would your current financ
 | Yes | 35945 |
 | Do not know | 2957 |
 | More than 1 check box filled in | 15 |
+| Not NA | 46098 |
 | NA | 43223 |
 
 
@@ -9150,6 +9816,7 @@ V_84_1:SKJEMA4H; (V_78_1:SKJEMA4G); (V_77_1:SKJEMA4F); (V_77_1:SKJEMA4B); Stomac
 | 1-3 times a month | 16157 |
 | 2 times a week | 11741 |
 | Never | 28626 |
+| Not NA | 78710 |
 | NA | 10611 |
 
 
@@ -9164,6 +9831,7 @@ V_84_2:SKJEMA4H; (V_78_2:SKJEMA4G); (V_77_2:SKJEMA4F); (V_77_2:SKJEMA4B); Back m
 | Never | 33553 |
 | 2 times a week | 10663 |
 | 1-3 times a month | 14726 |
+| Not NA | 77898 |
 | NA | 11423 |
 
 
@@ -9178,6 +9846,7 @@ V_84_3:SKJEMA4H; (V_78_3:SKJEMA4G); (V_77_3:SKJEMA4F); (V_77_3:SKJEMA4B); Pelvic
 | Once a week | 13332 |
 | 2 times a week | 11503 |
 | Never | 17803 |
+| Not NA | 79010 |
 | NA | 10311 |
 
 
@@ -9193,6 +9862,7 @@ V_85_1:SKJEMA4H; (V_79_1:SKJEMA4G); (V_78_1:SKJEMA4F); (V_78_1:SKJEMA4B); Walkin
 | Once a week | 7640 |
 | 1-3 times a month | 4297 |
 | More than 1 check box filled in | 48 |
+| Not NA | 78020 |
 | NA | 11301 |
 
 
@@ -9208,6 +9878,7 @@ V_85_2:SKJEMA4H; (V_79_2:SKJEMA4G); (V_78_2:SKJEMA4F); (V_78_2:SKJEMA4B); Brisk 
 | Once a week | 12941 |
 | 1-3 times a month | 10674 |
 | More than 1 check box filled in | 47 |
+| Not NA | 77950 |
 | NA | 11371 |
 
 
@@ -9223,6 +9894,7 @@ V_85_3:SKJEMA4H; (V_79_3:SKJEMA4G); (V_78_3:SKJEMA4F); (V_78_3:SKJEMA4B); Runnin
 | Once a week | 2887 |
 | 3 times or more a week | 1027 |
 | More than 1 check box filled in | 93 |
+| Not NA | 76259 |
 | NA | 13062 |
 
 
@@ -9238,6 +9910,7 @@ V_85_4:SKJEMA4H; (V_79_4:SKJEMA4G); (V_78_4:SKJEMA4F); (V_78_4:SKJEMA4B); Cyclin
 | 2 times a week | 2425 |
 | 3 times or more a week | 1492 |
 | More than 1 check box filled in | 114 |
+| Not NA | 76403 |
 | NA | 12918 |
 
 
@@ -9253,6 +9926,7 @@ V_85_5:SKJEMA4H; (V_79_5:SKJEMA4G); (V_78_5:SKJEMA4F); (V_78_5:SKJEMA4B); Traini
 | 2 times a week | 4820 |
 | 1-3 times a month | 5156 |
 | More than 1 check box filled in | 43 |
+| Not NA | 76489 |
 | NA | 12832 |
 
 
@@ -9268,6 +9942,7 @@ V_85_6:SKJEMA4H; (V_79_6:SKJEMA4G); (V_78_6:SKJEMA4F); (V_78_6:SKJEMA4B); Specia
 | 2 times a week | 224 |
 | 3 times or more a week | 70 |
 | More than 1 check box filled in | 37 |
+| Not NA | 75781 |
 | NA | 13540 |
 
 
@@ -9283,6 +9958,7 @@ V_85_7:SKJEMA4H; (V_79_7:SKJEMA4G); (V_78_7:SKJEMA4F); (V_78_7:SKJEMA4B); Aerobi
 | 2 times a week | 1214 |
 | 3 times or more a week | 353 |
 | More than 1 check box filled in | 24 |
+| Not NA | 75983 |
 | NA | 13338 |
 
 
@@ -9298,6 +9974,7 @@ V_85_8:SKJEMA4H; (V_79_8:SKJEMA4G); (V_78_8:SKJEMA4F); (V_78_8:SKJEMA4B); Aerobi
 | 2 times a week | 1660 |
 | 3 times or more a week | 485 |
 | More than 1 check box filled in | 30 |
+| Not NA | 76183 |
 | NA | 13138 |
 
 
@@ -9313,6 +9990,7 @@ V_85_9:SKJEMA4H; (V_79_9:SKJEMA4G); (V_78_9:SKJEMA4F); (V_78_9:SKJEMA4B); Dancin
 | 2 times a week | 190 |
 | 3 times or more a week | 140 |
 | More than 1 check box filled in | 24 |
+| Not NA | 75941 |
 | NA | 13380 |
 
 
@@ -9328,6 +10006,7 @@ V_8510:SKJEMA4H; (V_7910:SKJEMA4G); (V_7810:SKJEMA4F); (V_7810:SKJEMA4B); Skiing
 | 3 times or more a week | 158 |
 | 2 times a week | 390 |
 | More than 1 check box filled in | 24 |
+| Not NA | 76078 |
 | NA | 13243 |
 
 
@@ -9343,6 +10022,7 @@ V_8511:SKJEMA4H; (V_7911:SKJEMA4G); (V_7811:SKJEMA4F); (V_7811:SKJEMA4B); Ball s
 | 2 times a week | 668 |
 | 3 times or more a week | 212 |
 | More than 1 check box filled in | 49 |
+| Not NA | 76104 |
 | NA | 13217 |
 
 
@@ -9358,6 +10038,7 @@ V_8512:SKJEMA4H; (V_7912:SKJEMA4G); (V_7812:SKJEMA4F); (V_7812:SKJEMA4B); Swimmi
 | 3 times or more a week | 242 |
 | 2 times a week | 430 |
 | More than 1 check box filled in | 25 |
+| Not NA | 76205 |
 | NA | 13116 |
 
 
@@ -9373,6 +10054,7 @@ V_8513:SKJEMA4H; (V_7913:SKJEMA4G); (V_7813:SKJEMA4F); (V_7813:SKJEMA4B); Riding
 | 3 times or more a week | 340 |
 | 2 times a week | 210 |
 | More than 1 check box filled in | 7 |
+| Not NA | 76088 |
 | NA | 13233 |
 
 
@@ -9388,6 +10070,7 @@ V_8514:SKJEMA4H; (V_7914:SKJEMA4G); (V_7814:SKJEMA4F); (V_7814:SKJEMA4B); Other;
 | 3 times or more a week | 1568 |
 | 2 times a week | 1120 |
 | More than 1 check box filled in | 94 |
+| Not NA | 61316 |
 | NA | 28005 |
 
 
@@ -9404,6 +10087,7 @@ V_86_1:SKJEMA4H; (V_80_1:SKJEMA4G); (V_79_1:SKJEMA4F); (V_79_1:SKJEMA4B); Spare 
 | 2 times a week | 18658 |
 | 5 times a week or more | 8136 |
 | More than 1 check box filled in | 495 |
+| Not NA | 78998 |
 | NA | 10323 |
 
 
@@ -9420,6 +10104,7 @@ V_86_2:SKJEMA4H; (V_80_2:SKJEMA4G); (V_79_2:SKJEMA4F); (V_79_2:SKJEMA4B); At wor
 | 2 times a week | 551 |
 | More than 1 check box filled in | 382 |
 | Once a week | 566 |
+| Not NA | 26785 |
 | NA | 62536 |
 
 
@@ -9430,6 +10115,7 @@ S_66_1_1:SKJEMA4A; ; 66. How many times a week do you do exercises for the follo
 | Category | n |
 | -------- | - |
 | 1 | 3981 |
+| Not NA | 3981 |
 | NA | 85340 |
 
 
@@ -9457,6 +10143,7 @@ S_66_1_2:SKJEMA4A; ; 66. How many times a week do you do exercises for the follo
 | 60 | 1 |
 | 21 | 1 |
 | 15 | 1 |
+| Not NA | 3560 |
 | NA | 85761 |
 
 
@@ -9473,6 +10160,7 @@ S_66_1_3:SKJEMA4A; ; 66. How many times a week do you do exercises for the follo
 | 3rd Qu. | 10 |
 | Max. | 90 |
 | NA's | 85995 |
+| Not NA | 3326 |
 
 
 ### DD988
@@ -9482,6 +10170,7 @@ S_66_2_1:SKJEMA4A; ; 66. How many times a week do you do exercises for the follo
 | Category | n |
 | -------- | - |
 | 1 | 4583 |
+| Not NA | 4583 |
 | NA | 84738 |
 
 
@@ -9507,6 +10196,7 @@ S_66_2_2:SKJEMA4A; ; 66. How many times a week do you do exercises for the follo
 | 70 | 1 |
 | 10 | 5 |
 | 12 | 1 |
+| Not NA | 2715 |
 | NA | 86606 |
 
 
@@ -9523,6 +10213,7 @@ S_66_2_3:SKJEMA4A; ; 66. How many times a week do you do exercises for the follo
 | 3rd Qu. | 10 |
 | Max. | 90 |
 | NA's | 86818 |
+| Not NA | 2503 |
 
 
 ### DD991
@@ -9532,6 +10223,7 @@ S_66_3_1:SKJEMA4A; ; 66. How many times a week do you do exercises for the follo
 | Category | n |
 | -------- | - |
 | 1 | 3157 |
+| Not NA | 3157 |
 | NA | 86164 |
 
 
@@ -9548,6 +10240,7 @@ S_66_3_2:SKJEMA4A; ; 66. How many times a week do you do exercises for the follo
 | 3rd Qu. | 6 |
 | Max. | 70 |
 | NA's | 84889 |
+| Not NA | 4432 |
 
 
 ### DD993
@@ -9563,6 +10256,7 @@ S_66_3_3:SKJEMA4A; ; 66. How many times a week do you do exercises for the follo
 | 3rd Qu. | 5 |
 | Max. | 90 |
 | NA's | 85151 |
+| Not NA | 4170 |
 
 
 ### DD994
@@ -9573,6 +10267,7 @@ S_67_1_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | -------- | - |
 | 1-3 times a month | 987 |
 | Never | 243 |
+| Not NA | 1230 |
 | NA | 88091 |
 
 
@@ -9589,6 +10284,7 @@ S_67_1_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 3rd Qu. | 7 |
 | Max. | 30 |
 | NA's | 82868 |
+| Not NA | 6453 |
 
 
 ### DD996
@@ -9604,6 +10300,7 @@ S_67_1_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 3rd Qu. | 60 |
 | Max. | 420 |
 | NA's | 82988 |
+| Not NA | 6333 |
 
 
 ### DD997
@@ -9614,6 +10311,7 @@ S_67_2_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | -------- | - |
 | 1-3 times a month | 1627 |
 | Never | 1787 |
+| Not NA | 3414 |
 | NA | 85907 |
 
 
@@ -9641,6 +10339,7 @@ S_67_2_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 12 | 3 |
 | 27 | 1 |
 | 40 | 1 |
+| Not NA | 3889 |
 | NA | 85432 |
 
 
@@ -9657,6 +10356,7 @@ S_67_2_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 3rd Qu. | 60 |
 | Max. | 300 |
 | NA's | 84961 |
+| Not NA | 4360 |
 
 
 ### DD1000
@@ -9667,6 +10367,7 @@ S_67_3_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | -------- | - |
 | Never | 5836 |
 | 1-3 times a month | 284 |
+| Not NA | 6120 |
 | NA | 83201 |
 
 
@@ -9685,6 +10386,7 @@ S_67_3_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 7 | 5 |
 | 6 | 1 |
 | 12 | 1 |
+| Not NA | 334 |
 | NA | 88987 |
 
 
@@ -9701,6 +10403,7 @@ S_67_3_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 3rd Qu. | 45 |
 | Max. | 120 |
 | NA's | 88886 |
+| Not NA | 435 |
 
 
 ### DD1003
@@ -9711,6 +10414,7 @@ S_67_4_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | -------- | - |
 | Never | 5318 |
 | 1-3 times a month | 770 |
+| Not NA | 6088 |
 | NA | 83233 |
 
 
@@ -9732,6 +10436,7 @@ S_67_4_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 9 | 1 |
 | 14 | 1 |
 | 8 | 1 |
+| Not NA | 547 |
 | NA | 88774 |
 
 
@@ -9748,6 +10453,7 @@ S_67_4_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 3rd Qu. | 45 |
 | Max. | 180 |
 | NA's | 88486 |
+| Not NA | 835 |
 
 
 ### DD1006
@@ -9758,6 +10464,7 @@ S_67_5_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | -------- | - |
 | Never | 5416 |
 | 1-3 times a month | 363 |
+| Not NA | 5779 |
 | NA | 83542 |
 
 
@@ -9776,6 +10483,7 @@ S_67_5_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 5 | 12 |
 | 6 | 5 |
 | 0 | 7 |
+| Not NA | 811 |
 | NA | 88510 |
 
 
@@ -9792,6 +10500,7 @@ S_67_5_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 3rd Qu. | 60 |
 | Max. | 180 |
 | NA's | 88414 |
+| Not NA | 907 |
 
 
 ### DD1009
@@ -9802,6 +10511,7 @@ S_67_6_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | -------- | - |
 | Never | 5215 |
 | 1-3 times a month | 418 |
+| Not NA | 5633 |
 | NA | 83688 |
 
 
@@ -9821,6 +10531,7 @@ S_67_6_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 6 | 2 |
 | 5 | 10 |
 | 60 | 1 |
+| Not NA | 1023 |
 | NA | 88298 |
 
 
@@ -9849,6 +10560,7 @@ S_67_6_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 5 | 1 |
 | 80 | 3 |
 | 25 | 1 |
+| Not NA | 1124 |
 | NA | 88197 |
 
 
@@ -9860,6 +10572,7 @@ S_67_7_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | -------- | - |
 | Never | 5765 |
 | 1-3 times a month | 283 |
+| Not NA | 6048 |
 | NA | 83273 |
 
 
@@ -9881,6 +10594,7 @@ S_67_7_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 13 | 1 |
 | 9 | 1 |
 | 10 | 1 |
+| Not NA | 338 |
 | NA | 88983 |
 
 
@@ -9897,6 +10611,7 @@ S_67_7_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 3rd Qu. | 60 |
 | Max. | 120 |
 | NA's | 88918 |
+| Not NA | 403 |
 
 
 ### DD1015
@@ -9907,6 +10622,7 @@ S_67_8_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | -------- | - |
 | Never | 6005 |
 | 1-3 times a month | 158 |
+| Not NA | 6163 |
 | NA | 83158 |
 
 
@@ -9925,6 +10641,7 @@ S_67_8_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 6 | 1 |
 | 5 | 5 |
 | 60 | 1 |
+| Not NA | 179 |
 | NA | 89142 |
 
 
@@ -9950,6 +10667,7 @@ S_67_8_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 80 | 1 |
 | 66 | 1 |
 | 40 | 2 |
+| Not NA | 204 |
 | NA | 89117 |
 
 
@@ -9962,6 +10680,7 @@ S_67_9_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | Never | 6112 |
 | 1-3 times a month | 208 |
 | More than 1 check box filled in | 2 |
+| Not NA | 6322 |
 | NA | 82999 |
 
 
@@ -9976,6 +10695,7 @@ S_67_9_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 2 | 3 |
 | 0 | 3 |
 | 3 | 3 |
+| Not NA | 50 |
 | NA | 89271 |
 
 
@@ -10000,6 +10720,7 @@ S_67_9_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 3 | 1 |
 | 20 | 2 |
 | 45 | 2 |
+| Not NA | 110 |
 | NA | 89211 |
 
 
@@ -10012,6 +10733,7 @@ S_6710_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | Never | 5959 |
 | 1-3 times a month | 354 |
 | More than 1 check box filled in | 1 |
+| Not NA | 6314 |
 | NA | 83007 |
 
 
@@ -10029,6 +10751,7 @@ S_6710_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 6 | 1 |
 | 3 | 2 |
 | 7 | 1 |
+| Not NA | 54 |
 | NA | 89267 |
 
 
@@ -10053,6 +10776,7 @@ S_6710_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 0 | 1 |
 | 180 | 1 |
 | 360 | 1 |
+| Not NA | 146 |
 | NA | 89175 |
 
 
@@ -10065,6 +10789,7 @@ S_6711_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | 1-3 times a month | 382 |
 | Never | 5929 |
 | More than 1 check box filled in | 2 |
+| Not NA | 6313 |
 | NA | 83008 |
 
 
@@ -10081,6 +10806,7 @@ S_6711_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 5 | 1 |
 | 4 | 4 |
 | 20 | 1 |
+| Not NA | 71 |
 | NA | 89250 |
 
 
@@ -10110,6 +10836,7 @@ S_6711_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 15 | 2 |
 | 150 | 1 |
 | 50 | 1 |
+| Not NA | 184 |
 | NA | 89137 |
 
 
@@ -10122,6 +10849,7 @@ S_6712_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | Never | 6049 |
 | 1-3 times a month | 151 |
 | More than 1 check box filled in | 1 |
+| Not NA | 6201 |
 | NA | 83120 |
 
 
@@ -10136,6 +10864,7 @@ S_6712_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 4 | 3 |
 | 3 | 15 |
 | 0 | 3 |
+| Not NA | 227 |
 | NA | 89094 |
 
 
@@ -10152,6 +10881,7 @@ S_6712_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 3rd Qu. | 90 |
 | Max. | 660 |
 | NA's | 89058 |
+| Not NA | 263 |
 
 
 ### DD1030
@@ -10162,6 +10892,7 @@ S_6713_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | -------- | - |
 | Never | 5168 |
 | 1-3 times a month | 851 |
+| Not NA | 6019 |
 | NA | 83302 |
 
 
@@ -10184,6 +10915,7 @@ S_6713_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 30 | 1 |
 | 20 | 1 |
 | 60 | 1 |
+| Not NA | 598 |
 | NA | 88723 |
 
 
@@ -10211,6 +10943,7 @@ S_6713_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 100 | 1 |
 | 2 | 1 |
 | 180 | 1 |
+| Not NA | 855 |
 | NA | 88466 |
 
 
@@ -10223,6 +10956,7 @@ S_6714_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | Never | 6245 |
 | 1-3 times a month | 53 |
 | More than 1 check box filled in | 1 |
+| Not NA | 6299 |
 | NA | 83022 |
 
 
@@ -10240,6 +10974,7 @@ S_6714_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 0 | 4 |
 | 4 | 4 |
 | 7 | 4 |
+| Not NA | 64 |
 | NA | 89257 |
 
 
@@ -10262,6 +10997,7 @@ S_6714_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 0 | 1 |
 | 240 | 1 |
 | 10 | 1 |
+| Not NA | 79 |
 | NA | 89242 |
 
 
@@ -10273,6 +11009,7 @@ S_6715_1:SKJEMA4A; ; 67. How often are you physically active at present?
 | -------- | - |
 | Never | 3475 |
 | 1-3 times a month | 108 |
+| Not NA | 3583 |
 | NA | 85738 |
 
 
@@ -10296,6 +11033,7 @@ S_6715_2:SKJEMA4A; ; 67. How often are you physically active at present?
 | 17 | 1 |
 | 60 | 1 |
 | 10 | 3 |
+| Not NA | 245 |
 | NA | 89076 |
 
 
@@ -10312,6 +11050,7 @@ S_6715_3:SKJEMA4A; ; 67. How often are you physically active at present?
 | 3rd Qu. | 60 |
 | Max. | 360 |
 | NA's | 89061 |
+| Not NA | 260 |
 
 
 ### DD1039
@@ -10327,6 +11066,7 @@ S_68_1:SKJEMA4A; ; 68. How often are you currently so physically active that you
 | Once a week | 1316 |
 | Approximately every day | 686 |
 | More than 1 check box filled in | 50 |
+| Not NA | 7641 |
 | NA | 81680 |
 
 
@@ -10343,6 +11083,7 @@ S_68_2:SKJEMA4A; ; 68. How often are you currently so physically active that you
 | 4-6 times per week | 46 |
 | More than 1 check box filled in | 34 |
 | Once a week | 60 |
+| Not NA | 2412 |
 | NA | 86909 |
 
 
@@ -10359,6 +11100,7 @@ V_87_1:SKJEMA4H; (V_81_1:SKJEMA4G); (V_80_1:SKJEMA4F); (V_80_1:SKJEMA4B); (S_69_
 | (2+3) Smoked sometimes + Smoked every day | 11 |
 | (1+2) Did not smoke + Smoked sometimes | 15 |
 | (1+3) Did not smoke + Smoked every day | 7 |
+| Not NA | 84724 |
 | NA | 4597 |
 
 
@@ -10375,6 +11117,7 @@ V_87_2:SKJEMA4H; (V_81_2:SKJEMA4G); (V_80_2:SKJEMA4F); (V_80_2:SKJEMA4B); (S_69_
 | (2+3) Smoked sometimes + Smoked every day | 11 |
 | (1+3) Did not smoke + Smoked every day | 6 |
 | (1+2) Did not smoke + Smoked sometimes | 10 |
+| Not NA | 83643 |
 | NA | 5678 |
 
 
@@ -10391,6 +11134,7 @@ V_87_3:SKJEMA4H; (V_81_3:SKJEMA4G); (V_80_3:SKJEMA4F); (V_80_3:SKJEMA4B); (S_69_
 | (1+2+3)  Did not smoke + Smoked sometimes + Smoked every day | 12 |
 | (1+2) Did not smoke + Smoked sometimes | 21 |
 | (1+3) Did not smoke + Smoked every day | 5 |
+| Not NA | 83951 |
 | NA | 5370 |
 
 
@@ -10407,6 +11151,7 @@ V_87_4:SKJEMA4H; (V_81_4:SKJEMA4G); (V_80_4:SKJEMA4F); (V_80_4:SKJEMA4B); (S_70_
 | (1+3) Did not smoke + Smoked every day | 11 |
 | (1+2) Did not smoke + Smoked sometimes | 4 |
 | (2+3) Smoked sometimes + Smoked every day | 6 |
+| Not NA | 83696 |
 | NA | 5625 |
 
 
@@ -10423,6 +11168,7 @@ V_87_5:SKJEMA4H; (V_81_5:SKJEMA4G); (V_80_5:SKJEMA4F); (V_80_5:SKJEMA4B); (S_70_
 | (2+3) Smoked sometimes + Smoked every day | 10 |
 | (1+2) Did not smoke + Smoked sometimes | 9 |
 | (1+3) Did not smoke + Smoked every day | 7 |
+| Not NA | 83247 |
 | NA | 6074 |
 
 
@@ -10439,6 +11185,7 @@ V_87_6:SKJEMA4H; (V_81_6:SKJEMA4G); (V_80_6:SKJEMA4F); (V_80_6:SKJEMA4B); (S_70_
 | (2+3) Smoked sometimes + Smoked every day | 10 |
 | (1+2) Did not smoke + Smoked sometimes | 12 |
 | (1+3) Did not smoke + Smoked every day | 5 |
+| Not NA | 83212 |
 | NA | 6109 |
 
 
@@ -10455,6 +11202,7 @@ V_87_7:SKJEMA4H; (V_81_7:SKJEMA4G); (V_80_7:SKJEMA4F); (V_80_7:SKJEMA4B); (S_69_
 | 3rd Qu. | 10 |
 | Max. | 50 |
 | NA's | 83980 |
+| Not NA | 5341 |
 
 
 ### DD739
@@ -10470,6 +11218,7 @@ V_87_8:SKJEMA4H; (V_81_8:SKJEMA4G); (V_80_8:SKJEMA4F); (V_80_8:SKJEMA4B); (S_69_
 | 3rd Qu. | 10 |
 | Max. | 50 |
 | NA's | 83975 |
+| Not NA | 5346 |
 
 
 ### DD740
@@ -10485,6 +11234,7 @@ V_87_9:SKJEMA4H; (V_81_9:SKJEMA4G); (V_80_9:SKJEMA4F); (V_80_9:SKJEMA4B); (S_69_
 | 3rd Qu. | 10 |
 | Max. | 50 |
 | NA's | 81739 |
+| Not NA | 7582 |
 
 
 ### DD741
@@ -10500,6 +11250,7 @@ V_8710:SKJEMA4H; (V_8110:SKJEMA4G); (V_8010:SKJEMA4F); (V_8010:SKJEMA4B); (S_70_
 | 3rd Qu. | 15 |
 | Max. | 90 |
 | NA's | 75807 |
+| Not NA | 13514 |
 
 
 ### DD742
@@ -10515,6 +11266,7 @@ V_8711:SKJEMA4H; (V_8111:SKJEMA4G); (V_8011:SKJEMA4F); (V_8011:SKJEMA4B); (S_70_
 | 3rd Qu. | 15 |
 | Max. | 70 |
 | NA's | 76333 |
+| Not NA | 12988 |
 
 
 ### DD743
@@ -10530,6 +11282,7 @@ V_8712:SKJEMA4H; (V_8112:SKJEMA4G); (V_8012:SKJEMA4F); (V_8012:SKJEMA4B); (S_70_
 | 3rd Qu. | 15 |
 | Max. | 70 |
 | NA's | 76167 |
+| Not NA | 13154 |
 
 
 ### DD744
@@ -10543,6 +11296,7 @@ V_88_1:SKJEMA4H; (V_82_1:SKJEMA4G); (V_81_1:SKJEMA4F); (V_81_1:SKJEMA4B); (S_71_
 | Yes, daily | 63 |
 | Yes, many times a week | 53 |
 | More than 1 check box filled in | 20 |
+| Not NA | 87265 |
 | NA | 2056 |
 
 
@@ -10568,6 +11322,7 @@ V_88_2:SKJEMA4H; (V_82_2:SKJEMA4G); (V_81_2:SKJEMA4F); (V_81_2:SKJEMA4B); (S_71_
 | 24 | 3 |
 | 15 | 2 |
 | 9 | 1 |
+| Not NA | 1591 |
 | NA | 87730 |
 
 
@@ -10597,6 +11352,7 @@ V_8713:SKJEMA4H; (V_8113:SKJEMA4G); Yourself: If sometimes, number of cigarettes
 | 50 | 3 |
 | 40 | 3 |
 | 21 | 1 |
+| Not NA | 626 |
 | NA | 88695 |
 
 
@@ -10613,6 +11369,7 @@ V_8714:SKJEMA4H; (V_8114:SKJEMA4G); Yourself: If sometimes, number of cigarettes
 | 3rd Qu. | 10 |
 | Max. | 70 |
 | NA's | 88278 |
+| Not NA | 1043 |
 
 
 ### DD1116
@@ -10628,6 +11385,7 @@ V_8715:SKJEMA4H; (V_8115:SKJEMA4G); Yourself: If sometimes, number of cigarettes
 | 3rd Qu. | 7 |
 | Max. | 70 |
 | NA's | 87445 |
+| Not NA | 1876 |
 
 
 ### DD1117
@@ -10643,6 +11401,7 @@ V_8716:SKJEMA4H; (V_8116:SKJEMA4G); Your partner/husband: If sometimes, number o
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 87681 |
+| Not NA | 1640 |
 
 
 ### DD1118
@@ -10658,6 +11417,7 @@ V_8717:SKJEMA4H; (V_8117:SKJEMA4G); Your partner/husband: If sometimes, number o
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 87564 |
+| Not NA | 1757 |
 
 
 ### DD1119
@@ -10673,6 +11433,7 @@ V_8718:SKJEMA4H; (V_8118:SKJEMA4G); Your partner/husband: If sometimes, number o
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 87368 |
+| Not NA | 1953 |
 
 
 ### DD1041
@@ -10685,6 +11446,7 @@ S_69_1:SKJEMA4A; ; 69. What were your and your partner/husband`s smoking habits 
 | Smoked sometimes | 520 |
 | Smoked every day | 765 |
 | 0 | 7 |
+| Not NA | 7528 |
 | NA | 81793 |
 
 
@@ -10698,6 +11460,7 @@ S_69_2:SKJEMA4A; ; 69. What were your and your partner/husband`s smoking habits 
 | Smoked every day | 597 |
 | Smoked sometimes | 306 |
 | 0 | 5 |
+| Not NA | 7482 |
 | NA | 81839 |
 
 
@@ -10714,6 +11477,7 @@ S_69_6:SKJEMA4A; ; 69. What were your and your partner/husband`s smoking habits 
 | 3rd Qu. | 10 |
 | Max. | 40 |
 | NA's | 88406 |
+| Not NA | 915 |
 
 
 ### DD1044
@@ -10740,6 +11504,7 @@ S_69_7:SKJEMA4A; ; 69. What were your and your partner/husband`s smoking habits 
 | 17 | 1 |
 | 9 | 3 |
 | 23 | 1 |
+| Not NA | 735 |
 | NA | 88586 |
 
 
@@ -10753,6 +11518,7 @@ S_70_1:SKJEMA4A; ; 70. What were your and your partner/husband`s smoking habits 
 | Did not smoke | 5221 |
 | Smoked sometimes | 493 |
 | 0 | 3 |
+| Not NA | 7515 |
 | NA | 81806 |
 
 
@@ -10766,6 +11532,7 @@ S_70_2:SKJEMA4A; ; 70. What were your and your partner/husband`s smoking habits 
 | Did not smoke | 5266 |
 | Smoked sometimes | 482 |
 | 0 | 2 |
+| Not NA | 7485 |
 | NA | 81836 |
 
 
@@ -10782,6 +11549,7 @@ S_70_6:SKJEMA4A; ; 70. What were your and your partner/husband`s smoking habits 
 | 3rd Qu. | 15 |
 | Max. | 50 |
 | NA's | 87529 |
+| Not NA | 1792 |
 
 
 ### DD1048
@@ -10797,6 +11565,7 @@ S_70_7:SKJEMA4A; ; 70. What were your and your partner/husband`s smoking habits 
 | 3rd Qu. | 15 |
 | Max. | 40 |
 | NA's | 87588 |
+| Not NA | 1733 |
 
 
 ### DD746
@@ -10806,6 +11575,7 @@ V_89_1_1:SKJEMA4H; (V_83_1_1:SKJEMA4G); (V_82_1_1:SKJEMA4F); (V_82_1_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 86545 |
+| Not NA | 86545 |
 | NA | 2776 |
 
 
@@ -10816,6 +11586,7 @@ V_89_1_2:SKJEMA4H; (V_83_1_2:SKJEMA4G); (V_82_1_2:SKJEMA4F); (V_82_1_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 49 |
+| Not NA | 49 |
 | NA | 89272 |
 
 
@@ -10826,6 +11597,7 @@ V_89_1_3:SKJEMA4H; (V_83_1_3:SKJEMA4G); (V_82_1_3:SKJEMA4F); (V_82_1_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 205 |
+| Not NA | 205 |
 | NA | 89116 |
 
 
@@ -10836,6 +11608,7 @@ V_89_2_1:SKJEMA4H; (V_83_2_1:SKJEMA4G); (V_82_2_1:SKJEMA4F); (V_82_2_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 86637 |
+| Not NA | 86637 |
 | NA | 2684 |
 
 
@@ -10846,6 +11619,7 @@ V_89_2_2:SKJEMA4H; (V_83_2_2:SKJEMA4G); (V_82_2_2:SKJEMA4F); (V_82_2_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 89320 |
 
 
@@ -10856,6 +11630,7 @@ V_89_2_3:SKJEMA4H; (V_83_2_3:SKJEMA4G); (V_82_2_3:SKJEMA4F); (V_82_2_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 89303 |
 
 
@@ -10866,6 +11641,7 @@ V_89_3_1:SKJEMA4H; (V_83_3_1:SKJEMA4G); (V_82_3_1:SKJEMA4F); (V_82_3_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 86644 |
+| Not NA | 86644 |
 | NA | 2677 |
 
 
@@ -10876,6 +11652,7 @@ V_89_3_2:SKJEMA4H; (V_83_3_2:SKJEMA4G); (V_82_3_2:SKJEMA4F); (V_82_3_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 89320 |
 
 
@@ -10886,6 +11663,7 @@ V_89_3_3:SKJEMA4H; (V_83_3_3:SKJEMA4G); (V_82_3_3:SKJEMA4F); (V_82_3_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 89318 |
 
 
@@ -10896,6 +11674,7 @@ V_89_4_1:SKJEMA4H; (V_83_4_1:SKJEMA4G); (V_82_4_1:SKJEMA4F); (V_82_4_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 86586 |
+| Not NA | 86586 |
 | NA | 2735 |
 
 
@@ -10905,6 +11684,7 @@ V_89_4_2:SKJEMA4H; (V_83_4_2:SKJEMA4G); (V_82_4_2:SKJEMA4F); (V_82_4_2:SKJEMA4B)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 89321 |
 
 
@@ -10915,6 +11695,7 @@ V_89_4_3:SKJEMA4H; (V_83_4_3:SKJEMA4G); (V_82_4_3:SKJEMA4F); (V_82_4_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 26 |
+| Not NA | 26 |
 | NA | 89295 |
 
 
@@ -10925,6 +11706,7 @@ V_89_5_1:SKJEMA4H; (V_83_5_1:SKJEMA4G); (V_82_5_1:SKJEMA4F); (V_82_5_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 86188 |
+| Not NA | 86188 |
 | NA | 3133 |
 
 
@@ -10935,6 +11717,7 @@ V_89_5_2:SKJEMA4H; (V_83_5_2:SKJEMA4G); (V_82_5_2:SKJEMA4F); (V_82_5_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 89319 |
 
 
@@ -10944,6 +11727,7 @@ V_89_5_3:SKJEMA4H; (V_83_5_3:SKJEMA4G); (V_82_5_3:SKJEMA4F); (V_82_5_3:SKJEMA4B)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 89321 |
 
 
@@ -10954,6 +11738,7 @@ V_89_6_1:SKJEMA4H; (V_83_6_1:SKJEMA4G); (V_82_6_1:SKJEMA4F); (V_82_6_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 33093 |
+| Not NA | 33093 |
 | NA | 56228 |
 
 
@@ -10964,6 +11749,7 @@ V_89_6_2:SKJEMA4H; (V_83_6_2:SKJEMA4G); (V_82_6_2:SKJEMA4F); (V_82_6_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 44 |
+| Not NA | 44 |
 | NA | 89277 |
 
 
@@ -10974,6 +11760,7 @@ V_89_6_3:SKJEMA4H; (V_83_6_3:SKJEMA4G); (V_82_6_3:SKJEMA4F); (V_82_6_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 299 |
+| Not NA | 299 |
 | NA | 89022 |
 
 
@@ -10984,6 +11771,7 @@ V_90_1_1:SKJEMA4H; (V_84_1_1:SKJEMA4G); (V_83_1_1:SKJEMA4F); (V_83_1_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 79007 |
+| Not NA | 79007 |
 | NA | 10314 |
 
 
@@ -10994,6 +11782,7 @@ V_90_1_2:SKJEMA4H; (V_84_1_2:SKJEMA4G); (V_83_1_2:SKJEMA4F); (V_83_1_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 89317 |
 
 
@@ -11004,6 +11793,7 @@ V_90_1_3:SKJEMA4H; (V_84_1_3:SKJEMA4G); (V_83_1_3:SKJEMA4F); (V_83_1_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 89317 |
 
 
@@ -11014,6 +11804,7 @@ V_90_2_1:SKJEMA4H; (V_84_2_1:SKJEMA4G); (V_83_2_1:SKJEMA4F); (V_83_2_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 78972 |
+| Not NA | 78972 |
 | NA | 10349 |
 
 
@@ -11024,6 +11815,7 @@ V_90_2_2:SKJEMA4H; (V_84_2_2:SKJEMA4G); (V_83_2_2:SKJEMA4F); (V_83_2_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 89320 |
 
 
@@ -11034,6 +11826,7 @@ V_90_2_3:SKJEMA4H; (V_84_2_3:SKJEMA4G); (V_83_2_3:SKJEMA4F); (V_83_2_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 89319 |
 
 
@@ -11044,6 +11837,7 @@ V_90_3_1:SKJEMA4H; (V_84_3_1:SKJEMA4G); (V_83_3_1:SKJEMA4F); (V_83_3_1:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 78738 |
+| Not NA | 78738 |
 | NA | 10583 |
 
 
@@ -11054,6 +11848,7 @@ V_90_3_2:SKJEMA4H; (V_84_3_2:SKJEMA4G); (V_83_3_2:SKJEMA4F); (V_83_3_2:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 89320 |
 
 
@@ -11064,6 +11859,7 @@ V_90_3_3:SKJEMA4H; (V_84_3_3:SKJEMA4G); (V_83_3_3:SKJEMA4F); (V_83_3_3:SKJEMA4B)
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 89316 |
 
 
@@ -11081,6 +11877,7 @@ V_91_1:SKJEMA4H; (V_85_1:SKJEMA4G); (V_84_1:SKJEMA4F); (V_84_1:SKJEMA4B); (S_73_
 | Approximately 2-3 times a week | 119 |
 | Approximately 6-7 times a week | 14 |
 | Approximately 4-5 times a week | 30 |
+| Not NA | 85724 |
 | NA | 3597 |
 
 
@@ -11098,6 +11895,7 @@ V_91_2:SKJEMA4H; (V_85_2:SKJEMA4G); (V_84_2:SKJEMA4F); (V_84_2:SKJEMA4B); (S_73_
 | Approximately 4-5 times a week | 75 |
 | Approximately 6-7 times a week | 16 |
 | More than 1 check box filled in | 37 |
+| Not NA | 81410 |
 | NA | 7911 |
 
 
@@ -11115,6 +11913,7 @@ V_91_3:SKJEMA4H; (V_85_3:SKJEMA4G); (V_84_3:SKJEMA4F); (V_84_3:SKJEMA4B); (S_73_
 | Approximately 2-3 times a week | 2783 |
 | Approximately 6-7 times a week | 39 |
 | More than 1 check box filled in | 57 |
+| Not NA | 84145 |
 | NA | 5176 |
 
 
@@ -11131,6 +11930,7 @@ V_92_1:SKJEMA4H; (V_86_1:SKJEMA4G); (V_85_1:SKJEMA4F); (V_85_1:SKJEMA4B); (S_74_
 | 3-4 | 138 |
 | 7-9 | 19 |
 | 10 or more | 11 |
+| Not NA | 68040 |
 | NA | 21281 |
 
 
@@ -11147,6 +11947,7 @@ V_92_2:SKJEMA4H; (V_86_2:SKJEMA4G); (V_85_2:SKJEMA4F); (V_85_2:SKJEMA4B); (S_74_
 | 5-6 | 1467 |
 | 10 or more | 119 |
 | More than 1 check box filled in | 28 |
+| Not NA | 70219 |
 | NA | 19102 |
 
 
@@ -11163,6 +11964,7 @@ V_92_3:SKJEMA4H; (V_86_3:SKJEMA4G); (V_85_3:SKJEMA4F); (V_85_3:SKJEMA4B); (S_74_
 | 5-6 | 4196 |
 | 10 or more | 338 |
 | More than 1 check box filled in | 127 |
+| Not NA | 76226 |
 | NA | 13095 |
 
 
@@ -11180,6 +11982,7 @@ S_73_1:SKJEMA4A; ; 73. How often did you drink alcohol during the last 3 months 
 | More than 1 check box filled in | 6 |
 | Approximately 2-3 times a week | 28 |
 | Approximately 4-5 times a week | 5 |
+| Not NA | 7559 |
 | NA | 81762 |
 
 
@@ -11197,6 +12000,7 @@ S_73_2:SKJEMA4A; ; 73. How often did you drink alcohol during the last 3 months 
 | Approximately 4-5 times a week | 4 |
 | Approximately 2-3 times a week | 14 |
 | More than 1 check box filled in | 3 |
+| Not NA | 7488 |
 | NA | 81833 |
 
 
@@ -11213,6 +12017,7 @@ S_74_1:SKJEMA4A; ; 74. How many units of alcohol do you usually drink when you c
 | 7-9 | 24 |
 | 10 or more | 12 |
 | More than 1 check box filled in | 3 |
+| Not NA | 6182 |
 | NA | 83139 |
 
 
@@ -11228,6 +12033,7 @@ S_74_2:SKJEMA4A; ; 74. How many units of alcohol do you usually drink when you c
 | 5-6 | 1 |
 | More than 1 check box filled in | 2 |
 | 7-9 | 1 |
+| Not NA | 6095 |
 | NA | 83226 |
 
 
@@ -11240,6 +12046,7 @@ V_93:SKJEMA4H; (V_87:SKJEMA4G); (V_86:SKJEMA4F); (V_86:SKJEMA4B); (S_75:SKJEMA4A
 | Yes | 84695 |
 | No | 1839 |
 | More than 1 check box filled in | 8 |
+| Not NA | 86542 |
 | NA | 2779 |
 
 
@@ -11256,6 +12063,7 @@ V_94_1:SKJEMA4H; (V_88_1:SKJEMA4G); (V_87_1:SKJEMA4F); (V_87_1:SKJEMA4B); (S_76_
 | Disagree somewhat | 1457 |
 | Disagree | 776 |
 | More than 1 check box filled in | 43 |
+| Not NA | 85106 |
 | NA | 4215 |
 
 
@@ -11272,6 +12080,7 @@ V_94_2:SKJEMA4H; (V_88_2:SKJEMA4G); (V_87_2:SKJEMA4F); (V_87_2:SKJEMA4B); (S_76_
 | Disagree | 28839 |
 | Agree | 2342 |
 | More than 1 check box filled in | 103 |
+| Not NA | 84917 |
 | NA | 4404 |
 
 
@@ -11288,6 +12097,7 @@ V_94_3:SKJEMA4H; (V_88_3:SKJEMA4G); (V_87_3:SKJEMA4F); (V_87_3:SKJEMA4B); (S_76_
 | Agree somewhat | 7759 |
 | Strongly disagree | 430 |
 | More than 1 check box filled in | 28 |
+| Not NA | 85019 |
 | NA | 4302 |
 
 
@@ -11304,6 +12114,7 @@ V_94_4:SKJEMA4H; (V_88_4:SKJEMA4G); (V_87_4:SKJEMA4F); (V_87_4:SKJEMA4B); (S_76_
 | Agree somewhat | 8822 |
 | Disagree | 1235 |
 | More than 1 check box filled in | 572 |
+| Not NA | 85009 |
 | NA | 4312 |
 
 
@@ -11320,6 +12131,7 @@ V_94_5:SKJEMA4H; (V_88_5:SKJEMA4G); (V_87_5:SKJEMA4F); (V_87_5:SKJEMA4B); (S_76_
 | Agree somewhat | 2371 |
 | Agree | 778 |
 | More than 1 check box filled in | 119 |
+| Not NA | 84451 |
 | NA | 4870 |
 
 
@@ -11336,6 +12148,7 @@ V_94_6:SKJEMA4H; (V_88_6:SKJEMA4G); (V_87_6:SKJEMA4F); (V_87_6:SKJEMA4B); (S_76_
 | Disagree somewhat | 3538 |
 | Disagree | 1738 |
 | More than 1 check box filled in | 259 |
+| Not NA | 84753 |
 | NA | 4568 |
 
 
@@ -11352,6 +12165,7 @@ V_94_7:SKJEMA4H; (V_88_7:SKJEMA4G); (V_87_7:SKJEMA4F); (V_87_7:SKJEMA4B); (S_76_
 | Strongly agree | 1314 |
 | Agree somewhat | 7173 |
 | More than 1 check box filled in | 42 |
+| Not NA | 84476 |
 | NA | 4845 |
 
 
@@ -11368,6 +12182,7 @@ V_94_8:SKJEMA4H; (V_88_8:SKJEMA4G); (V_87_8:SKJEMA4F); (V_87_8:SKJEMA4B); (S_76_
 | Disagree somewhat | 1457 |
 | Strongly disagree | 322 |
 | More than 1 check box filled in | 61 |
+| Not NA | 84673 |
 | NA | 4648 |
 
 
@@ -11384,6 +12199,7 @@ V_94_9:SKJEMA4H; (V_88_9:SKJEMA4G); (V_87_9:SKJEMA4F); (V_87_9:SKJEMA4B); (S_76_
 | Disagree | 835 |
 | Strongly disagree | 422 |
 | More than 1 check box filled in | 34 |
+| Not NA | 85010 |
 | NA | 4311 |
 
 
@@ -11400,6 +12216,7 @@ V_9410:SKJEMA4H; (V_8810:SKJEMA4G); (V_8710:SKJEMA4F); (V_8710:SKJEMA4B); (S_76_
 | Disagree | 951 |
 | Strongly disagree | 302 |
 | More than 1 check box filled in | 13 |
+| Not NA | 85008 |
 | NA | 4313 |
 
 
@@ -11415,6 +12232,7 @@ V_95_1:SKJEMA4H; (V_89_1:SKJEMA4G); (V_88_1:SKJEMA4F); (V_88_1:SKJEMA4B); Feel p
 | Seldom | 473 |
 | Seldom/never | 85 |
 | More than 1 check box filled in | 9 |
+| Not NA | 79222 |
 | NA | 10099 |
 
 
@@ -11430,6 +12248,7 @@ V_95_2:SKJEMA4H; (V_89_2:SKJEMA4G); (V_88_2:SKJEMA4F); (V_88_2:SKJEMA4B); Feel h
 | Seldom | 2116 |
 | Seldom/never | 366 |
 | More than 1 check box filled in | 20 |
+| Not NA | 79160 |
 | NA | 10161 |
 
 
@@ -11445,6 +12264,7 @@ V_95_3:SKJEMA4H; (V_89_3:SKJEMA4G); (V_88_3:SKJEMA4F); (V_88_3:SKJEMA4B); Feel j
 | Seldom | 7578 |
 | Seldom/never | 1438 |
 | More than 1 check box filled in | 18 |
+| Not NA | 78854 |
 | NA | 10467 |
 
 
@@ -11460,6 +12280,7 @@ V_95_4:SKJEMA4H; (V_89_4:SKJEMA4G); (V_88_4:SKJEMA4F); (V_88_4:SKJEMA4B); Feel t
 | Often | 2311 |
 | Very often | 407 |
 | More than 1 check box filled in | 38 |
+| Not NA | 78874 |
 | NA | 10447 |
 
 
@@ -11475,6 +12296,7 @@ V_95_5:SKJEMA4H; (V_89_5:SKJEMA4G); (V_88_5:SKJEMA4F); (V_88_5:SKJEMA4B); Feel a
 | Often | 7386 |
 | Very often | 894 |
 | More than 1 check box filled in | 28 |
+| Not NA | 79122 |
 | NA | 10199 |
 
 
@@ -11490,6 +12312,7 @@ V_95_6:SKJEMA4H; (V_89_6:SKJEMA4G); (V_88_6:SKJEMA4F); (V_88_6:SKJEMA4B); Feel m
 | Often | 1807 |
 | Very often | 390 |
 | More than 1 check box filled in | 22 |
+| Not NA | 79129 |
 | NA | 10192 |
 
 
@@ -11504,6 +12327,7 @@ S_77_1:SKJEMA4A; ; 77.
 | Completely correct | 4714 |
 | Partly correct | 923 |
 | More than 1 check box filled in | 7 |
+| Not NA | 7722 |
 | NA | 81599 |
 
 
@@ -11518,6 +12342,7 @@ S_77_2:SKJEMA4A; ; 77.
 | Completely correct | 2281 |
 | Partly correct | 1754 |
 | More than 1 check box filled in | 2 |
+| Not NA | 7667 |
 | NA | 81654 |
 
 
@@ -11532,6 +12357,7 @@ S_77_3:SKJEMA4A; ; 77.
 | Almost correct | 3015 |
 | Completely correct | 2286 |
 | More than 1 check box filled in | 4 |
+| Not NA | 7672 |
 | NA | 81649 |
 
 
@@ -11546,6 +12372,7 @@ S_77_4:SKJEMA4A; ; 77.
 | Almost correct | 2970 |
 | Completely correct | 1663 |
 | More than 1 check box filled in | 4 |
+| Not NA | 7641 |
 | NA | 81680 |
 
 
@@ -11560,6 +12387,7 @@ S_77_5:SKJEMA4A; ; 77.
 | Completely correct | 3081 |
 | Partly correct | 1418 |
 | More than 1 check box filled in | 2 |
+| Not NA | 7684 |
 | NA | 81637 |
 
 
@@ -11577,6 +12405,7 @@ V_96_1:SKJEMA4H; (V_90_1:SKJEMA4G); (V_89_1:SKJEMA4F); (V_89_1:SKJEMA4B); (S_78_
 | Neither agree nor disagree | 8062 |
 | Disagree somewhat | 4191 |
 | More than 1 check box filled in | 16 |
+| Not NA | 86685 |
 | NA | 2636 |
 
 
@@ -11594,6 +12423,7 @@ V_96_2:SKJEMA4H; (V_90_2:SKJEMA4G); (V_89_2:SKJEMA4F); (V_89_2:SKJEMA4B); (S_78_
 | Disagree completely | 481 |
 | Disagree | 814 |
 | More than 1 check box filled in | 10 |
+| Not NA | 86667 |
 | NA | 2654 |
 
 
@@ -11611,6 +12441,7 @@ V_96_3:SKJEMA4H; (V_90_3:SKJEMA4G); (V_89_3:SKJEMA4F); (V_89_3:SKJEMA4B); (S_78_
 | Disagree completely | 473 |
 | Disagree | 872 |
 | More than 1 check box filled in | 24 |
+| Not NA | 86768 |
 | NA | 2553 |
 
 
@@ -11628,6 +12459,7 @@ V_96_4:SKJEMA4H; (V_90_4:SKJEMA4G); (V_89_4:SKJEMA4F); (V_89_4:SKJEMA4B); (S_78_
 | Disagree completely | 455 |
 | Disagree | 957 |
 | More than 1 check box filled in | 20 |
+| Not NA | 86695 |
 | NA | 2626 |
 
 
@@ -11645,6 +12477,7 @@ V_96_5:SKJEMA4H; (V_90_5:SKJEMA4G); (V_89_5:SKJEMA4F); (V_89_5:SKJEMA4B); (S_78_
 | Disagree somewhat | 7196 |
 | Disagree completely | 1442 |
 | More than 1 check box filled in | 31 |
+| Not NA | 86701 |
 | NA | 2620 |
 
 
@@ -11657,6 +12490,7 @@ V_97_1_1:SKJEMA4H; (V_91_1_1:SKJEMA4G); (V_90_1_1:SKJEMA4F); (V_90_1_1:SKJEMA4B)
 | No | 78545 |
 | Yes | 7403 |
 | More than 1 check box filled in | 1 |
+| Not NA | 85949 |
 | NA | 3372 |
 
 
@@ -11670,6 +12504,7 @@ V_97_1_2:SKJEMA4H; (V_91_1_2:SKJEMA4G); (V_90_1_2:SKJEMA4F); (V_90_1_2:SKJEMA4B)
 | Painful/difficult | 2744 |
 | Very painful/difficult | 934 |
 | More than 1 check box filled in | 2 |
+| Not NA | 7921 |
 | NA | 81400 |
 
 
@@ -11682,6 +12517,7 @@ V_97_2_1:SKJEMA4H; (V_91_2_1:SKJEMA4G); (V_90_2_1:SKJEMA4F); (V_90_2_1:SKJEMA4B)
 | Yes | 11260 |
 | No | 74214 |
 | More than 1 check box filled in | 2 |
+| Not NA | 85476 |
 | NA | 3845 |
 
 
@@ -11695,6 +12531,7 @@ V_97_2_2:SKJEMA4H; (V_91_2_2:SKJEMA4G); (V_90_2_2:SKJEMA4F); (V_90_2_2:SKJEMA4B)
 | Painful/difficult | 2717 |
 | Very painful/difficult | 1003 |
 | More than 1 check box filled in | 3 |
+| Not NA | 11866 |
 | NA | 77455 |
 
 
@@ -11707,6 +12544,7 @@ V_97_3_1:SKJEMA4H; (V_91_3_1:SKJEMA4G); (V_90_3_1:SKJEMA4F); (V_90_3_1:SKJEMA4B)
 | No | 85449 |
 | Yes | 1251 |
 | More than 1 check box filled in | 2 |
+| Not NA | 86702 |
 | NA | 2619 |
 
 
@@ -11720,6 +12558,7 @@ V_97_3_2:SKJEMA4H; (V_91_3_2:SKJEMA4G); (V_90_3_2:SKJEMA4F); (V_90_3_2:SKJEMA4B)
 | Not too bad | 263 |
 | Painful/difficult | 411 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1224 |
 | NA | 88097 |
 
 
@@ -11732,6 +12571,7 @@ V_97_4_1:SKJEMA4H; (V_91_4_1:SKJEMA4G); (V_90_4_1:SKJEMA4F); (V_90_4_1:SKJEMA4B)
 | Yes | 13876 |
 | No | 72077 |
 | More than 1 check box filled in | 5 |
+| Not NA | 85958 |
 | NA | 3363 |
 
 
@@ -11745,6 +12585,7 @@ V_97_4_2:SKJEMA4H; (V_91_4_2:SKJEMA4G); (V_90_4_2:SKJEMA4F); (V_90_4_2:SKJEMA4B)
 | Very painful/difficult | 2059 |
 | Painful/difficult | 5694 |
 | More than 1 check box filled in | 6 |
+| Not NA | 13996 |
 | NA | 75325 |
 
 
@@ -11757,6 +12598,7 @@ V_97_5_1:SKJEMA4H; (V_91_5_1:SKJEMA4G); (V_90_5_1:SKJEMA4F); (V_90_5_1:SKJEMA4B)
 | No | 72086 |
 | Yes | 13845 |
 | More than 1 check box filled in | 4 |
+| Not NA | 85935 |
 | NA | 3386 |
 
 
@@ -11771,6 +12613,7 @@ V_97_5_2:SKJEMA4H; (V_91_5_2:SKJEMA4G); (V_90_5_2:SKJEMA4F); (V_90_5_2:SKJEMA4B)
 | Painful/difficult | 4782 |
 | More than 1 check box filled in | 13 |
 | 4 | 1 |
+| Not NA | 13677 |
 | NA | 75644 |
 
 
@@ -11783,6 +12626,7 @@ V_97_6_1:SKJEMA4H; (V_91_6_1:SKJEMA4G); (V_90_6_1:SKJEMA4F); (V_90_6_1:SKJEMA4B)
 | No | 83712 |
 | Yes | 2725 |
 | More than 1 check box filled in | 6 |
+| Not NA | 86443 |
 | NA | 2878 |
 
 
@@ -11796,6 +12640,7 @@ V_97_6_2:SKJEMA4H; (V_91_6_2:SKJEMA4G); (V_90_6_2:SKJEMA4F); (V_90_6_2:SKJEMA4B)
 | Not too bad | 828 |
 | Very painful/difficult | 783 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2756 |
 | NA | 86565 |
 
 
@@ -11808,6 +12653,7 @@ V_97_7_1:SKJEMA4H; (V_91_7_1:SKJEMA4G); (V_90_7_1:SKJEMA4F); (V_90_7_1:SKJEMA4B)
 | No | 74892 |
 | Yes | 11515 |
 | More than 1 check box filled in | 3 |
+| Not NA | 86410 |
 | NA | 2911 |
 
 
@@ -11821,6 +12667,7 @@ V_97_7_2:SKJEMA4H; (V_91_7_2:SKJEMA4G); (V_90_7_2:SKJEMA4F); (V_90_7_2:SKJEMA4B)
 | Very painful/difficult | 3305 |
 | Not too bad | 2485 |
 | More than 1 check box filled in | 11 |
+| Not NA | 10876 |
 | NA | 78445 |
 
 
@@ -11833,6 +12680,7 @@ V_97_8_1:SKJEMA4H; (V_91_8_1:SKJEMA4G); (V_90_8_1:SKJEMA4F); (V_90_8_1:SKJEMA4B)
 | No | 86072 |
 | Yes | 593 |
 | More than 1 check box filled in | 3 |
+| Not NA | 86668 |
 | NA | 2653 |
 
 
@@ -11845,6 +12693,7 @@ V_97_8_2:SKJEMA4H; (V_91_8_2:SKJEMA4G); (V_90_8_2:SKJEMA4F); (V_90_8_2:SKJEMA4B)
 | Not too bad | 284 |
 | Painful/difficult | 211 |
 | Very painful/difficult | 111 |
+| Not NA | 606 |
 | NA | 88715 |
 
 
@@ -11857,6 +12706,7 @@ V_97_9_1:SKJEMA4H; (V_91_9_1:SKJEMA4G); (V_90_9_1:SKJEMA4F); (V_90_9_1:SKJEMA4B)
 | No | 78544 |
 | Yes | 8052 |
 | More than 1 check box filled in | 3 |
+| Not NA | 86599 |
 | NA | 2722 |
 
 
@@ -11870,6 +12720,7 @@ V_97_9_2:SKJEMA4H; (V_91_9_2:SKJEMA4G); (V_90_9_2:SKJEMA4F); (V_90_9_2:SKJEMA4B)
 | Painful/difficult | 3047 |
 | Not too bad | 1672 |
 | More than 1 check box filled in | 9 |
+| Not NA | 7311 |
 | NA | 82010 |
 
 
@@ -11882,6 +12733,7 @@ V_9710_1:SKJEMA4H; (V_9110_1:SKJEMA4G); (V_9010_1:SKJEMA4F); (V_9010_1:SKJEMA4B)
 | No | 86161 |
 | Yes | 580 |
 | More than 1 check box filled in | 3 |
+| Not NA | 86744 |
 | NA | 2577 |
 
 
@@ -11894,6 +12746,7 @@ V_9710_2:SKJEMA4H; (V_9110_2:SKJEMA4G); (V_9010_2:SKJEMA4F); (V_9010_2:SKJEMA4B)
 | Not too bad | 240 |
 | Painful/difficult | 187 |
 | Very painful/difficult | 165 |
+| Not NA | 592 |
 | NA | 88729 |
 
 
@@ -11906,6 +12759,7 @@ V_9711_1:SKJEMA4H; (V_9111_1:SKJEMA4G); (V_9011_1:SKJEMA4F); (V_9011_1:SKJEMA4B)
 | No | 51919 |
 | Yes | 1305 |
 | More than 1 check box filled in | 3 |
+| Not NA | 53227 |
 | NA | 36094 |
 
 
@@ -11919,6 +12773,7 @@ V_9711_2:SKJEMA4H; (V_9111_2:SKJEMA4G); (V_9011_2:SKJEMA4F); (V_9011_2:SKJEMA4B)
 | Painful/difficult | 697 |
 | Very painful/difficult | 621 |
 | More than 1 check box filled in | 5 |
+| Not NA | 1506 |
 | NA | 87815 |
 
 
@@ -11933,6 +12788,7 @@ V_98_1:SKJEMA4H; (V_92_1:SKJEMA4G); (V_91_1:SKJEMA4F); (V_91_1:SKJEMA4B); (S_80_
 | Yes, almost all the time | 1054 |
 | Yes, sometimes | 11180 |
 | More than 1 check box filled in | 18 |
+| Not NA | 87222 |
 | NA | 2099 |
 
 
@@ -11947,6 +12803,7 @@ V_98_2:SKJEMA4H; (V_92_2:SKJEMA4G); (V_91_2:SKJEMA4F); (V_91_2:SKJEMA4B); (S_80_
 | Not very often | 26950 |
 | Yes, almost all the time | 1290 |
 | More than 1 check box filled in | 35 |
+| Not NA | 87429 |
 | NA | 1892 |
 
 
@@ -11961,6 +12818,7 @@ V_98_3:SKJEMA4H; (V_92_3:SKJEMA4G); (V_91_3:SKJEMA4F); (V_91_3:SKJEMA4B); (S_80_
 | Yes, sometimes | 4236 |
 | Yes, almost all the time | 486 |
 | More than 1 check box filled in | 20 |
+| Not NA | 87362 |
 | NA | 1959 |
 
 
@@ -11975,6 +12833,7 @@ V_98_4:SKJEMA4H; (V_92_4:SKJEMA4G); (V_91_4:SKJEMA4F); (V_91_4:SKJEMA4B); (S_80_
 | Yes, sometimes | 4993 |
 | Yes, almost all the time | 621 |
 | More than 1 check box filled in | 24 |
+| Not NA | 87207 |
 | NA | 2114 |
 
 
@@ -11989,6 +12848,7 @@ V_98_5:SKJEMA4H; (V_92_5:SKJEMA4G); (V_91_5:SKJEMA4F); (V_91_5:SKJEMA4B); (S_80_
 | Yes, almost all the time | 1144 |
 | Yes, sometimes | 14405 |
 | More than 1 check box filled in | 33 |
+| Not NA | 87338 |
 | NA | 1983 |
 
 
@@ -12003,6 +12863,7 @@ V_98_6:SKJEMA4H; (V_92_6:SKJEMA4G); (V_91_6:SKJEMA4F); (V_91_6:SKJEMA4B); (S_80_
 | Not very often | 20238 |
 | Yes, almost all the time | 664 |
 | More than 1 check box filled in | 16 |
+| Not NA | 87311 |
 | NA | 2010 |
 
 
@@ -12017,6 +12878,7 @@ V_99_1:SKJEMA4H; (V_93_1:SKJEMA4G); (V_92_1:SKJEMA4F); (V_92_1:SKJEMA4B); (S_81_
 | Disagree | 6106 |
 | Strongly disagree | 706 |
 | More than 1 check box filled in | 53 |
+| Not NA | 87367 |
 | NA | 1954 |
 
 
@@ -12031,6 +12893,7 @@ V_99_2:SKJEMA4H; (V_93_2:SKJEMA4G); (V_92_2:SKJEMA4F); (V_92_2:SKJEMA4B); (S_81_
 | Agree | 13470 |
 | Strongly agree | 1740 |
 | More than 1 check box filled in | 31 |
+| Not NA | 87244 |
 | NA | 2077 |
 
 
@@ -12045,6 +12908,7 @@ V_99_3:SKJEMA4H; (V_93_3:SKJEMA4G); (V_92_3:SKJEMA4F); (V_92_3:SKJEMA4B); (S_81_
 | Strongly agree | 1739 |
 | Agree | 3884 |
 | More than 1 check box filled in | 57 |
+| Not NA | 87217 |
 | NA | 2104 |
 
 
@@ -12059,6 +12923,7 @@ V_99_4:SKJEMA4H; (V_93_4:SKJEMA4G); (V_92_4:SKJEMA4F); (V_92_4:SKJEMA4B); (S_81_
 | Strongly disagree | 1009 |
 | Disagree | 2523 |
 | More than 1 check box filled in | 49 |
+| Not NA | 87324 |
 | NA | 1997 |
 
 
@@ -12073,6 +12938,7 @@ V100_1:SKJEMA4H; (V_94_1:SKJEMA4G); (V_93_1:SKJEMA4F); (V_93_1:SKJEMA4B); (S_82_
 | Quite bothered | 1099 |
 | Very bothered | 339 |
 | More than 1 check box filled in | 3 |
+| Not NA | 87385 |
 | NA | 1936 |
 
 
@@ -12087,6 +12953,7 @@ V100_2:SKJEMA4H; (V_94_2:SKJEMA4G); (V_93_2:SKJEMA4F); (V_93_2:SKJEMA4B); (S_82_
 | A little bothered | 15309 |
 | Quite bothered | 1811 |
 | More than 1 check box filled in | 10 |
+| Not NA | 87374 |
 | NA | 1947 |
 
 
@@ -12101,6 +12968,7 @@ V100_3:SKJEMA4H; (V_94_3:SKJEMA4G); (V_93_3:SKJEMA4F); (V_93_3:SKJEMA4B); (S_82_
 | More than 1 check box filled in | 29 |
 | A little bothered | 13608 |
 | Quite bothered | 1836 |
+| Not NA | 87375 |
 | NA | 1946 |
 
 
@@ -12115,6 +12983,7 @@ V100_4:SKJEMA4H; (V_94_4:SKJEMA4G); (V_93_4:SKJEMA4F); (V_93_4:SKJEMA4B); (S_82_
 | A little bothered | 17292 |
 | Quite bothered | 2137 |
 | More than 1 check box filled in | 32 |
+| Not NA | 87295 |
 | NA | 2026 |
 
 
@@ -12129,6 +12998,7 @@ V100_5:SKJEMA4H; (V_94_5:SKJEMA4G); (V_93_5:SKJEMA4F); (V_93_5:SKJEMA4B); (S_82_
 | A little bothered | 20608 |
 | Quite bothered | 2472 |
 | More than 1 check box filled in | 40 |
+| Not NA | 87308 |
 | NA | 2013 |
 
 
@@ -12143,6 +13013,7 @@ V100_6:SKJEMA4H; (V_94_6:SKJEMA4G); (V_93_6:SKJEMA4F); (V_93_6:SKJEMA4B); Feelin
 | A little bothered | 25692 |
 | Very bothered | 862 |
 | More than 1 check box filled in | 32 |
+| Not NA | 79612 |
 | NA | 9709 |
 
 
@@ -12157,6 +13028,7 @@ V100_7:SKJEMA4H; (V_94_7:SKJEMA4G); (V_93_7:SKJEMA4F); (V_93_7:SKJEMA4B); Feelin
 | Quite bothered | 1943 |
 | Very bothered | 426 |
 | More than 1 check box filled in | 11 |
+| Not NA | 79584 |
 | NA | 9737 |
 
 
@@ -12171,6 +13043,7 @@ V100_8:SKJEMA4H; (V_94_8:SKJEMA4G); (V_93_8:SKJEMA4F); (V_93_8:SKJEMA4B); Sudden
 | A little bothered | 3666 |
 | Very bothered | 194 |
 | More than 1 check box filled in | 5 |
+| Not NA | 79592 |
 | NA | 9729 |
 
 
@@ -12186,6 +13059,7 @@ ALDERUTSENDT:SKJEMA4H; (ALDERUTSENDT:SKJEMA4B); Childs age when questionnaire wa
 | Mean | 188.08948623504 |
 | 3rd Qu. | 188 |
 | Max. | 623 |
+| Not NA | 89321 |
 
 
 ### ALDERUTFYLT_S4
@@ -12201,6 +13075,7 @@ ALDERUTFYLT:SKJEMA4H; (ALDERUTFYLT:SKJEMA4B); Childs age when questionnaire was 
 | 3rd Qu. | 199 |
 | Max. | 22108 |
 | NA's | 2374 |
+| Not NA | 86947 |
 
 
 ### ALDERRETUR_S4
@@ -12215,6 +13090,7 @@ ALDERRETUR:SKJEMA4H; (ALDERRETUR:SKJEMA4B); Childs age when questionnaire was re
 | Mean | 209.157208271291 |
 | 3rd Qu. | 215 |
 | Max. | 3244 |
+| Not NA | 89321 |
 
 
 ### Q4P1
@@ -12229,6 +13105,7 @@ Q4P1:SKJEMA4H; (Q4P1:SKJEMA4G); (Q4P1:SKJEMA4F); (Q4P1:SKJEMA4B); (Q4P1:SKJEMA4A
 | Mean | 10.1235319801614 |
 | 3rd Qu. | 10 |
 | Max. | 35 |
+| Not NA | 89321 |
 
 
 ### Q4P2
@@ -12243,6 +13120,7 @@ Q4P2:SKJEMA4H; (Q4P2:SKJEMA4G); (Q4P2:SKJEMA4F); (Q4P2:SKJEMA4B); (Q4P2:SKJEMA4A
 | Mean | 24.3875460418043 |
 | 3rd Qu. | 27 |
 | Max. | 48 |
+| Not NA | 89321 |
 
 
 ### Q4P3
@@ -12257,6 +13135,7 @@ Q4P3:SKJEMA4H; (Q4P3:SKJEMA4G); (Q4P3:SKJEMA4F); (Q4P3:SKJEMA4B); (Q4P3:SKJEMA4A
 | Mean | 25.2207319667267 |
 | 3rd Qu. | 29 |
 | Max. | 43 |
+| Not NA | 89321 |
 
 
 ### Q4P4
@@ -12271,6 +13150,7 @@ Q4P4:SKJEMA4H; (Q4P4:SKJEMA4G); (Q4P4:SKJEMA4F); (Q4P4:SKJEMA4B); (Q4P4:SKJEMA4A
 | Mean | 14.5701234871979 |
 | 3rd Qu. | 21 |
 | Max. | 86 |
+| Not NA | 89321 |
 
 
 ### Q4P5
@@ -12285,6 +13165,7 @@ Q4P5:SKJEMA4H; (Q4P5:SKJEMA4G); (Q4P5:SKJEMA4F); (Q4P5:SKJEMA4B); (Q4P5:SKJEMA4A
 | Mean | 38.8544687139642 |
 | 3rd Qu. | 45 |
 | Max. | 75 |
+| Not NA | 89321 |
 
 
 ### Q4P6
@@ -12299,6 +13180,7 @@ Q4P6:SKJEMA4H; (Q4P6:SKJEMA4G); (Q4P6:SKJEMA4F); (Q4P6:SKJEMA4B); (Q4P6:SKJEMA4A
 | Mean | 20.7598213186149 |
 | 3rd Qu. | 23 |
 | Max. | 66 |
+| Not NA | 89321 |
 
 
 ### Q4P7
@@ -12313,6 +13195,7 @@ Q4P7:SKJEMA4H; (Q4P7:SKJEMA4G); (Q4P7:SKJEMA4F); (Q4P7:SKJEMA4B); (Q4P7:SKJEMA4A
 | Mean | 18.9712385665185 |
 | 3rd Qu. | 20 |
 | Max. | 34 |
+| Not NA | 89321 |
 
 
 ### Q4P8
@@ -12327,6 +13210,7 @@ Q4P8:SKJEMA4H; (Q4P8:SKJEMA4G); (Q4P8:SKJEMA4F); (Q4P8:SKJEMA4B); (Q4P8:SKJEMA4A
 | Mean | 18.7511447475957 |
 | 3rd Qu. | 19 |
 | Max. | 54 |
+| Not NA | 89321 |
 
 
 ### Q4P9
@@ -12341,6 +13225,7 @@ Q4P9:SKJEMA4H; (Q4P9:SKJEMA4G); (Q4P9:SKJEMA4F); (Q4P9:SKJEMA4B); (Q4P9:SKJEMA4A
 | Mean | 16.8824576527356 |
 | 3rd Qu. | 19 |
 | Max. | 57 |
+| Not NA | 89321 |
 
 
 ### Q4P10
@@ -12355,6 +13240,7 @@ Q4P10:SKJEMA4H; (Q4P10:SKJEMA4G); (Q4P10:SKJEMA4F); (Q4P10:SKJEMA4B); (Q4P10:SKJ
 | Mean | 18.4988412579349 |
 | 3rd Qu. | 23 |
 | Max. | 64 |
+| Not NA | 89321 |
 
 
 ### Q4P11
@@ -12369,6 +13255,7 @@ Q4P11:SKJEMA4H; (Q4P11:SKJEMA4G); (Q4P11:SKJEMA4F); (Q4P11:SKJEMA4B); (Q4P11:SKJ
 | Mean | 15.8773412747282 |
 | 3rd Qu. | 19 |
 | Max. | 50 |
+| Not NA | 89321 |
 
 
 ### Q4P12
@@ -12383,6 +13270,7 @@ Q4P12:SKJEMA4H; (Q4P12:SKJEMA4G); (Q4P12:SKJEMA4F); (Q4P12:SKJEMA4B); (Q4P12:SKJ
 | Mean | 15.0831159525755 |
 | 3rd Qu. | 18 |
 | Max. | 36 |
+| Not NA | 89321 |
 
 
 ### Q4P13
@@ -12397,6 +13285,7 @@ Q4P13:SKJEMA4H; (Q4P13:SKJEMA4G); (Q4P13:SKJEMA4F); (Q4P13:SKJEMA4B); (Q4P13:SKJ
 | Mean | 27.1656385396491 |
 | 3rd Qu. | 29 |
 | Max. | 42 |
+| Not NA | 89321 |
 
 
 ### Q4P14
@@ -12416,6 +13305,7 @@ Q4P14:SKJEMA4H; (Q4P14:SKJEMA4G); (Q4P14:SKJEMA4F); (Q4P14:SKJEMA4B); (Q4P14:SKJ
 | 1 | 956 |
 | 4 | 292 |
 | 3 | 199 |
+| Not NA | 89321 |
 | NA | 0 |
 
 
@@ -12432,6 +13322,7 @@ Q4P15:SKJEMA4H; (Q4P15:SKJEMA4G); (Q4P15:SKJEMA4F); (Q4P15:SKJEMA4B); (Q4P15:SKJ
 | 3rd Qu. | 33 |
 | Max. | 43 |
 | NA's | 7906 |
+| Not NA | 81415 |
 
 
 ### Q4P16
@@ -12459,6 +13350,7 @@ Q4P16:SKJEMA4H; (Q4P16:SKJEMA4G); (Q4P16:SKJEMA4F); (Q4P16:SKJEMA4B); (Q4P16:SKJ
 | 7 | 5 |
 | 2 | 9 |
 | 5 | 7 |
+| Not NA | 81415 |
 | NA | 7906 |
 
 

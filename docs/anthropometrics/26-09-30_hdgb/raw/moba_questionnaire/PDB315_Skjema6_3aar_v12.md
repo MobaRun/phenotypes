@@ -613,6 +613,7 @@
 | 1 | 57783 |
 | 2 | 848 |
 | 3 | 10 |
+| Not NA | 58641 |
 | NA | 0 |
 
 
@@ -627,6 +628,7 @@
 | SKJEMA6B | 6972 |
 | SKJEMA6A | 1234 |
 | SKJEMA62 | 734 |
+| Not NA | 58641 |
 | NA | 0 |
 
 
@@ -651,6 +653,7 @@ R__0_3:SKJEMA6W; (R__0_3:SKJEMA6D); (R__0_3:SKJEMA6C); (R__0_3:SKJEMA6B); (R__0_
 | 2002 | 18 |
 | 2001 | 8 |
 | 2014 | 1 |
+| Not NA | 56583 |
 | NA | 2058 |
 
 
@@ -667,6 +670,7 @@ R__1_3_4:SKJEMA6W; (R__1_3_4:SKJEMA6D); (R__1_3_4:SKJEMA6C); (R__1_1_4:SKJEMA6B)
 | 3rd Qu. | 83 |
 | Max. | 840 |
 | NA's | 20355 |
+| Not NA | 38286 |
 
 
 ### GG16
@@ -682,6 +686,7 @@ R__1_3_5:SKJEMA6W; (R__1_3_5:SKJEMA6D); (R__1_3_5:SKJEMA6C); (R__1_1_5:SKJEMA6B)
 | 3rd Qu. | 11.7 |
 | Max. | 99.5 |
 | NA's | 20171 |
+| Not NA | 38470 |
 
 
 ### GG20
@@ -697,6 +702,7 @@ R__1_2_4:SKJEMA6W; (R__1_2_4:SKJEMA6D); (R__1_2_4:SKJEMA6C); (R__1_2_4:SKJEMA6B)
 | 3rd Qu. | 91 |
 | Max. | 950 |
 | NA's | 23080 |
+| Not NA | 35561 |
 
 
 ### GG21
@@ -712,6 +718,7 @@ R__1_2_5:SKJEMA6W; (R__1_2_5:SKJEMA6D); (R__1_2_5:SKJEMA6C); (R__1_2_5:SKJEMA6B)
 | 3rd Qu. | 14 |
 | Max. | 99.25 |
 | NA's | 23268 |
+| Not NA | 35373 |
 
 
 ### GG25
@@ -727,6 +734,7 @@ R__1_1_4:SKJEMA6W; (R__1_1_4:SKJEMA6D); (R__1_1_4:SKJEMA6C); (R__1_3_4:SKJEMA6B)
 | 3rd Qu. | 99 |
 | Max. | 930 |
 | NA's | 10091 |
+| Not NA | 48550 |
 
 
 ### GG26
@@ -742,6 +750,7 @@ F__1_1_5:SKJEMA6W; (R__1_1_5:SKJEMA6D); (R__1_1_5:SKJEMA6C); (R__1_3_5:SKJEMA6B)
 | 3rd Qu. | 16 |
 | Max. | 98 |
 | NA's | 8365 |
+| Not NA | 50276 |
 
 
 ### GG664
@@ -752,6 +761,7 @@ R__1_1_6:SKJEMA6W; (R__1_1_6:SKJEMA6D); (R__1_1_6:SKJEMA6C); Own measurement, ca
 | -------- | - |
 | 1 | 36409 |
 | 0 | 858 |
+| Not NA | 37267 |
 | NA | 21374 |
 
 
@@ -763,6 +773,7 @@ R__1_2_6:SKJEMA6W; (R__1_2_6:SKJEMA6D); (R__1_2_6:SKJEMA6C); Own measurement, ca
 | -------- | - |
 | 1 | 3663 |
 | 0 | 1848 |
+| Not NA | 5511 |
 | NA | 53130 |
 
 
@@ -774,6 +785,7 @@ R__1_3_6:SKJEMA6W; (R__1_3_6:SKJEMA6D); (R__1_3_6:SKJEMA6C); Own measurement, ca
 | -------- | - |
 | 0 | 1951 |
 | 1 | 1380 |
+| Not NA | 3331 |
 | NA | 55310 |
 
 
@@ -786,6 +798,7 @@ R__1_6:SKJEMA62; Measured at baby well clinic; 1. Please fill in the childs leng
 | Own measurement | 563 |
 | Measured at child health centre | 73 |
 | More than 1 check box filled in | 2 |
+| Not NA | 638 |
 | NA | 58003 |
 
 
@@ -802,6 +815,7 @@ Q6_AGE_18_M:SKJEMA6D; (Q6_AGE_18_M:SKJEMA6C); (Q6_AGE_18_M:SKJEMA6B); (Q6_AGE_18
 | 3rd Qu. | 526 |
 | Max. | 3027 |
 | NA's | 20646 |
+| Not NA | 37995 |
 
 
 ### Q6_AGE_2_Y
@@ -817,6 +831,7 @@ Q6_AGE_2_Y:SKJEMA6D; (Q6_AGE_2_Y:SKJEMA6C); (Q6_AGE_2_Y:SKJEMA6B); (Q6_AGE_2_Y:S
 | 3rd Qu. | 806 |
 | Max. | 3339 |
 | NA's | 23563 |
+| Not NA | 35078 |
 
 
 ### Q6_AGE_3_Y
@@ -832,6 +847,7 @@ Q6_AGE_3_Y:SKJEMA6D; (Q6_AGE_3_Y:SKJEMA6C); (Q6_AGE_3_Y:SKJEMA6B); (Q6_AGE_3_Y:S
 | 3rd Qu. | 1119 |
 | Max. | 4777 |
 | NA's | 8962 |
+| Not NA | 49679 |
 
 
 ### GG27
@@ -847,6 +863,7 @@ R__2_1:SKJEMA6W; (R__2_1:SKJEMA6D); (R__2_1:SKJEMA6C); (R__2_1:SKJEMA6B); (R__2_
 | 3rd Qu. | 14 |
 | Max. | 48 |
 | NA's | 2241 |
+| Not NA | 56400 |
 
 
 ### GG28
@@ -857,6 +874,7 @@ R__2_2:SKJEMA6W; (R__2_2:SKJEMA6D); (R__2_2:SKJEMA6C); (R__2_2:SKJEMA6B); (R__2_
 | -------- | - |
 | 0 | 2000 |
 | 1 | 106 |
+| Not NA | 2106 |
 | NA | 56535 |
 
 
@@ -867,6 +885,7 @@ R__3_1_1:SKJEMA6W; (R__3_1_1:SKJEMA6D); (R__3_1_1:SKJEMA6C); (R__3_1_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 55503 |
+| Not NA | 55503 |
 | NA | 3138 |
 
 
@@ -877,6 +896,7 @@ R__3_1_2:SKJEMA6W; (R__3_1_2:SKJEMA6D); (R__3_1_2:SKJEMA6C); (R__3_1_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 753 |
+| Not NA | 753 |
 | NA | 57888 |
 
 
@@ -887,6 +907,7 @@ R__3_1_3:SKJEMA6W; (R__3_1_3:SKJEMA6D); (R__3_1_3:SKJEMA6C); (R__3_1_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1720 |
+| Not NA | 1720 |
 | NA | 56921 |
 
 
@@ -898,6 +919,7 @@ R__3_1_4:SKJEMA6W; (R__3_1_4:SKJEMA6D); (R__3_1_4:SKJEMA6C); (R__3_1_4:SKJEMA6B)
 | -------- | - |
 | No | 205 |
 | Yes | 2157 |
+| Not NA | 2362 |
 | NA | 56279 |
 
 
@@ -908,6 +930,7 @@ R__3_2_1:SKJEMA6W; (R__3_2_1:SKJEMA6D); (R__3_2_1:SKJEMA6C); (R__3_2_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 56980 |
+| Not NA | 56980 |
 | NA | 1661 |
 
 
@@ -918,6 +941,7 @@ R__3_2_2:SKJEMA6W; (R__3_2_2:SKJEMA6D); (R__3_2_2:SKJEMA6C); (R__3_2_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 876 |
+| Not NA | 876 |
 | NA | 57765 |
 
 
@@ -928,6 +952,7 @@ R__3_2_3:SKJEMA6W; (R__3_2_3:SKJEMA6D); (R__3_2_3:SKJEMA6C); (R__3_2_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 136 |
+| Not NA | 136 |
 | NA | 58505 |
 
 
@@ -939,6 +964,7 @@ R__3_2_4:SKJEMA6W; (R__3_2_4:SKJEMA6D); (R__3_2_4:SKJEMA6C); (R__3_2_4:SKJEMA6B)
 | -------- | - |
 | Yes | 927 |
 | No | 84 |
+| Not NA | 1011 |
 | NA | 57630 |
 
 
@@ -949,6 +975,7 @@ R__3_3_1:SKJEMA6W; (R__3_3_1:SKJEMA6D); (R__3_3_1:SKJEMA6C); (R__3_3_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 56634 |
+| Not NA | 56634 |
 | NA | 2007 |
 
 
@@ -959,6 +986,7 @@ R__3_3_2:SKJEMA6W; (R__3_3_2:SKJEMA6D); (R__3_3_2:SKJEMA6C); (R__3_3_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 423 |
+| Not NA | 423 |
 | NA | 58218 |
 
 
@@ -969,6 +997,7 @@ R__3_3_3:SKJEMA6W; (R__3_3_3:SKJEMA6D); (R__3_3_3:SKJEMA6C); (R__3_3_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 944 |
+| Not NA | 944 |
 | NA | 57697 |
 
 
@@ -980,6 +1009,7 @@ R__3_3_4:SKJEMA6W; (R__3_3_4:SKJEMA6D); (R__3_3_4:SKJEMA6C); (R__3_3_4:SKJEMA6B)
 | -------- | - |
 | No | 384 |
 | Yes | 748 |
+| Not NA | 1132 |
 | NA | 57509 |
 
 
@@ -990,6 +1020,7 @@ R__3_4_1:SKJEMA6W; (R__3_4_1:SKJEMA6D); (R__3_4_1:SKJEMA6C); (R__3_4_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 57851 |
+| Not NA | 57851 |
 | NA | 790 |
 
 
@@ -1000,6 +1031,7 @@ R__3_4_2:SKJEMA6W; (R__3_4_2:SKJEMA6D); (R__3_4_2:SKJEMA6C); (R__3_4_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 89 |
+| Not NA | 89 |
 | NA | 58552 |
 
 
@@ -1010,6 +1042,7 @@ R__3_4_3:SKJEMA6W; (R__3_4_3:SKJEMA6D); (R__3_4_3:SKJEMA6C); (R__3_4_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 58628 |
 
 
@@ -1021,6 +1054,7 @@ R__3_4_4:SKJEMA6W; (R__3_4_4:SKJEMA6D); (R__3_4_4:SKJEMA6C); (R__3_4_4:SKJEMA6B)
 | -------- | - |
 | No | 68 |
 | Yes | 75 |
+| Not NA | 143 |
 | NA | 58498 |
 
 
@@ -1031,6 +1065,7 @@ R__3_5_1:SKJEMA6W; (R__3_5_1:SKJEMA6D); (R__3_5_1:SKJEMA6C); (R__3_5_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 56895 |
+| Not NA | 56895 |
 | NA | 1746 |
 
 
@@ -1041,6 +1076,7 @@ R__3_5_2:SKJEMA6W; (R__3_5_2:SKJEMA6D); (R__3_5_2:SKJEMA6C); (R__3_5_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 183 |
+| Not NA | 183 |
 | NA | 58458 |
 
 
@@ -1051,6 +1087,7 @@ R__3_5_3:SKJEMA6W; (R__3_5_3:SKJEMA6D); (R__3_5_3:SKJEMA6C); (R__3_5_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 148 |
+| Not NA | 148 |
 | NA | 58493 |
 
 
@@ -1062,6 +1099,7 @@ R__3_5_4:SKJEMA6W; (R__3_5_4:SKJEMA6D); (R__3_5_4:SKJEMA6C); (R__3_5_4:SKJEMA6B)
 | -------- | - |
 | No | 103 |
 | Yes | 242 |
+| Not NA | 345 |
 | NA | 58296 |
 
 
@@ -1072,6 +1110,7 @@ R__3_6_1:SKJEMA6W; (R__3_6_1:SKJEMA6D); (R__3_6_1:SKJEMA6C); (R__3_6_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 57176 |
+| Not NA | 57176 |
 | NA | 1465 |
 
 
@@ -1082,6 +1121,7 @@ R__3_6_2:SKJEMA6W; (R__3_6_2:SKJEMA6D); (R__3_6_2:SKJEMA6C); (R__3_6_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 33 |
+| Not NA | 33 |
 | NA | 58608 |
 
 
@@ -1092,6 +1132,7 @@ R__3_6_3:SKJEMA6W; (R__3_6_3:SKJEMA6D); (R__3_6_3:SKJEMA6C); (R__3_6_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 58636 |
 
 
@@ -1103,6 +1144,7 @@ R__3_6_4:SKJEMA6W; (R__3_6_4:SKJEMA6D); (R__3_6_4:SKJEMA6C); (R__3_6_4:SKJEMA6B)
 | -------- | - |
 | No | 67 |
 | Yes | 32 |
+| Not NA | 99 |
 | NA | 58542 |
 
 
@@ -1113,6 +1155,7 @@ R__3_7_1:SKJEMA6W; (R__3_7_1:SKJEMA6D); (R__3_7_1:SKJEMA6C); (R__3_7_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 55336 |
+| Not NA | 55336 |
 | NA | 3305 |
 
 
@@ -1123,6 +1166,7 @@ R__3_7_2:SKJEMA6W; (R__3_7_2:SKJEMA6D); (R__3_7_2:SKJEMA6C); (R__3_7_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 547 |
+| Not NA | 547 |
 | NA | 58094 |
 
 
@@ -1133,6 +1177,7 @@ R__3_7_3:SKJEMA6W; (R__3_7_3:SKJEMA6D); (R__3_7_3:SKJEMA6C); (R__3_7_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1352 |
+| Not NA | 1352 |
 | NA | 57289 |
 
 
@@ -1144,6 +1189,7 @@ R__3_7_4:SKJEMA6W; (R__3_7_4:SKJEMA6D); (R__3_7_4:SKJEMA6C); (R__3_7_4:SKJEMA6B)
 | -------- | - |
 | Yes | 701 |
 | No | 774 |
+| Not NA | 1475 |
 | NA | 57166 |
 
 
@@ -1154,6 +1200,7 @@ R__3_8_1:SKJEMA6W; (R__3_8_1:SKJEMA6D); (R__3_8_1:SKJEMA6C); (R__3_8_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 57017 |
+| Not NA | 57017 |
 | NA | 1624 |
 
 
@@ -1164,6 +1211,7 @@ R__3_8_2:SKJEMA6W; (R__3_8_2:SKJEMA6D); (R__3_8_2:SKJEMA6C); (R__3_8_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 45 |
+| Not NA | 45 |
 | NA | 58596 |
 
 
@@ -1174,6 +1222,7 @@ R__3_8_3:SKJEMA6W; (R__3_8_3:SKJEMA6D); (R__3_8_3:SKJEMA6C); (R__3_8_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 121 |
+| Not NA | 121 |
 | NA | 58520 |
 
 
@@ -1185,6 +1234,7 @@ R__3_8_4:SKJEMA6W; (R__3_8_4:SKJEMA6D); (R__3_8_4:SKJEMA6C); (R__3_8_4:SKJEMA6B)
 | -------- | - |
 | Yes | 20 |
 | No | 158 |
+| Not NA | 178 |
 | NA | 58463 |
 
 
@@ -1195,6 +1245,7 @@ R__3_9_1:SKJEMA6W; (R__3_9_1:SKJEMA6D); (R__3_9_1:SKJEMA6C); (R__3_9_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 56454 |
+| Not NA | 56454 |
 | NA | 2187 |
 
 
@@ -1205,6 +1256,7 @@ R__3_9_2:SKJEMA6W; (R__3_9_2:SKJEMA6D); (R__3_9_2:SKJEMA6C); (R__3_9_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 373 |
+| Not NA | 373 |
 | NA | 58268 |
 
 
@@ -1215,6 +1267,7 @@ R__3_9_3:SKJEMA6W; (R__3_9_3:SKJEMA6D); (R__3_9_3:SKJEMA6C); (R__3_9_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 416 |
+| Not NA | 416 |
 | NA | 58225 |
 
 
@@ -1226,6 +1279,7 @@ R__3_9_4:SKJEMA6W; (R__3_9_4:SKJEMA6D); (R__3_9_4:SKJEMA6C); (R__3_9_4:SKJEMA6B)
 | -------- | - |
 | Yes | 645 |
 | No | 94 |
+| Not NA | 739 |
 | NA | 57902 |
 
 
@@ -1236,6 +1290,7 @@ R__310_1:SKJEMA6W; (R__310_1:SKJEMA6D); (R__310_1:SKJEMA6C); (R__310_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 55025 |
+| Not NA | 55025 |
 | NA | 3616 |
 
 
@@ -1246,6 +1301,7 @@ R__310_2:SKJEMA6W; (R__310_2:SKJEMA6D); (R__310_2:SKJEMA6C); (R__310_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 372 |
+| Not NA | 372 |
 | NA | 58269 |
 
 
@@ -1256,6 +1312,7 @@ R__310_3:SKJEMA6W; (R__310_3:SKJEMA6D); (R__310_3:SKJEMA6C); (R__310_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 632 |
+| Not NA | 632 |
 | NA | 58009 |
 
 
@@ -1267,6 +1324,7 @@ R__310_4:SKJEMA6W; (R__310_4:SKJEMA6D); (R__310_4:SKJEMA6C); (R__310_4:SKJEMA6B)
 | -------- | - |
 | No | 310 |
 | Yes | 523 |
+| Not NA | 833 |
 | NA | 57808 |
 
 
@@ -1277,6 +1335,7 @@ R__311_1:SKJEMA6W; (R__311_1:SKJEMA6D); (R__311_1:SKJEMA6C); (R__311_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 51904 |
+| Not NA | 51904 |
 | NA | 6737 |
 
 
@@ -1287,6 +1346,7 @@ R__311_2:SKJEMA6W; (R__311_2:SKJEMA6D); (R__311_2:SKJEMA6C); (R__311_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 3798 |
+| Not NA | 3798 |
 | NA | 54843 |
 
 
@@ -1297,6 +1357,7 @@ R__311_3:SKJEMA6W; (R__311_3:SKJEMA6D); (R__311_3:SKJEMA6C); (R__311_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1782 |
+| Not NA | 1782 |
 | NA | 56859 |
 
 
@@ -1309,6 +1370,7 @@ R__311_4:SKJEMA6W; (R__311_4:SKJEMA6D); (R__311_4:SKJEMA6C); (R__311_4:SKJEMA6B)
 | Yes | 3276 |
 | No | 1228 |
 | More than 1 check box filled in | 2 |
+| Not NA | 4506 |
 | NA | 54135 |
 
 
@@ -1319,6 +1381,7 @@ R__312_1:SKJEMA6W; (R__312_1:SKJEMA6D); (R__312_1:SKJEMA6C); (R__312_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 55015 |
+| Not NA | 55015 |
 | NA | 3626 |
 
 
@@ -1329,6 +1392,7 @@ R__312_2:SKJEMA6W; (R__312_2:SKJEMA6D); (R__312_2:SKJEMA6C); (R__312_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1517 |
+| Not NA | 1517 |
 | NA | 57124 |
 
 
@@ -1339,6 +1403,7 @@ R__312_3:SKJEMA6W; (R__312_3:SKJEMA6D); (R__312_3:SKJEMA6C); (R__312_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 597 |
+| Not NA | 597 |
 | NA | 58044 |
 
 
@@ -1351,6 +1416,7 @@ R__312_4:SKJEMA6W; (R__312_4:SKJEMA6D); (R__312_4:SKJEMA6C); (R__312_4:SKJEMA6B)
 | No | 884 |
 | Yes | 766 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1652 |
 | NA | 56989 |
 
 
@@ -1361,6 +1427,7 @@ R__313_1:SKJEMA6W; (R__313_1:SKJEMA6D); (R__313_1:SKJEMA6C); (R__313_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 45791 |
+| Not NA | 45791 |
 | NA | 12850 |
 
 
@@ -1371,6 +1438,7 @@ R__313_2:SKJEMA6W; (R__313_2:SKJEMA6D); (R__313_2:SKJEMA6C); (R__313_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 7040 |
+| Not NA | 7040 |
 | NA | 51601 |
 
 
@@ -1381,6 +1449,7 @@ R__313_3:SKJEMA6W; (R__313_3:SKJEMA6D); (R__313_3:SKJEMA6C); (R__313_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 5107 |
+| Not NA | 5107 |
 | NA | 53534 |
 
 
@@ -1393,6 +1462,7 @@ R__313_4:SKJEMA6W; (R__313_4:SKJEMA6D); (R__313_4:SKJEMA6C); (R__313_4:SKJEMA6B)
 | Yes | 2766 |
 | No | 5609 |
 | More than 1 check box filled in | 1 |
+| Not NA | 8376 |
 | NA | 50265 |
 
 
@@ -1403,6 +1473,7 @@ R__314_1:SKJEMA6W; (R__314_1:SKJEMA6D); (R__314_1:SKJEMA6C); (R__314_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 53906 |
+| Not NA | 53906 |
 | NA | 4735 |
 
 
@@ -1413,6 +1484,7 @@ R__314_2:SKJEMA6W; (R__314_2:SKJEMA6D); (R__314_2:SKJEMA6C); (R__314_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1632 |
+| Not NA | 1632 |
 | NA | 57009 |
 
 
@@ -1423,6 +1495,7 @@ R__314_3:SKJEMA6W; (R__314_3:SKJEMA6D); (R__314_3:SKJEMA6C); (R__314_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1352 |
+| Not NA | 1352 |
 | NA | 57289 |
 
 
@@ -1434,6 +1507,7 @@ R__314_4:SKJEMA6W; (R__314_4:SKJEMA6D); (R__314_4:SKJEMA6C); (R__314_4:SKJEMA6B)
 | -------- | - |
 | No | 1662 |
 | Yes | 484 |
+| Not NA | 2146 |
 | NA | 56495 |
 
 
@@ -1444,6 +1518,7 @@ R__317_1:SKJEMA6W; (R__317_1:SKJEMA6D); (R__317_1:SKJEMA6C); (R__317_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 53239 |
+| Not NA | 53239 |
 | NA | 5402 |
 
 
@@ -1454,6 +1529,7 @@ R__317_2:SKJEMA6W; (R__317_2:SKJEMA6D); (R__317_2:SKJEMA6C); (R__317_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 2860 |
+| Not NA | 2860 |
 | NA | 55781 |
 
 
@@ -1464,6 +1540,7 @@ R__317_3:SKJEMA6W; (R__317_3:SKJEMA6D); (R__317_3:SKJEMA6C); (R__317_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1328 |
+| Not NA | 1328 |
 | NA | 57313 |
 
 
@@ -1476,6 +1553,7 @@ R__317_4:SKJEMA6W; (R__317_4:SKJEMA6D); (R__317_4:SKJEMA6C); (R__317_4:SKJEMA6B)
 | No | 1216 |
 | Yes | 1863 |
 | More than 1 check box filled in | 2 |
+| Not NA | 3081 |
 | NA | 55560 |
 
 
@@ -1486,6 +1564,7 @@ R__316_1:SKJEMA6A; Gastrointestinal problems, No; 3. Has your child suffered any
 | Category | n |
 | -------- | - |
 | 1 | 1154 |
+| Not NA | 1154 |
 | NA | 57487 |
 
 
@@ -1496,6 +1575,7 @@ R__316_2:SKJEMA6A; Gastrointestinal problems, Yes now; 3. Has your child suffere
 | Category | n |
 | -------- | - |
 | 1 | 38 |
+| Not NA | 38 |
 | NA | 58603 |
 
 
@@ -1506,6 +1586,7 @@ R__316_3:SKJEMA6A; Gastrointestinal problems, Yes used to have; 3. Has your chil
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 58618 |
 
 
@@ -1517,6 +1598,7 @@ R__316_4:SKJEMA6A; Gastrointestinal problems, If yes has he/she been referred to
 | -------- | - |
 | No | 20 |
 | Yes | 26 |
+| Not NA | 46 |
 | NA | 58595 |
 
 
@@ -1527,6 +1609,7 @@ R__319_1:SKJEMA6W; (R__319_1:SKJEMA6D); (R__319_1:SKJEMA6C); (R__319_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 55632 |
+| Not NA | 55632 |
 | NA | 3009 |
 
 
@@ -1537,6 +1620,7 @@ R__319_2:SKJEMA6W; (R__319_2:SKJEMA6D); (R__319_2:SKJEMA6C); (R__319_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1523 |
+| Not NA | 1523 |
 | NA | 57118 |
 
 
@@ -1547,6 +1631,7 @@ R__319_3:SKJEMA6W; (R__319_3:SKJEMA6D); (R__319_3:SKJEMA6C); (R__319_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 850 |
+| Not NA | 850 |
 | NA | 57791 |
 
 
@@ -1558,6 +1643,7 @@ R__319_4:SKJEMA6W; (R__319_4:SKJEMA6D); (R__319_4:SKJEMA6C); (R__319_4:SKJEMA6B)
 | -------- | - |
 | No | 873 |
 | Yes | 908 |
+| Not NA | 1781 |
 | NA | 56860 |
 
 
@@ -1568,6 +1654,7 @@ R__320_1:SKJEMA6W; (R__320_1:SKJEMA6D); (R__320_1:SKJEMA6C); (R__320_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 55220 |
+| Not NA | 55220 |
 | NA | 3421 |
 
 
@@ -1578,6 +1665,7 @@ R__320_2:SKJEMA6W; (R__320_2:SKJEMA6D); (R__320_2:SKJEMA6C); (R__320_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1074 |
+| Not NA | 1074 |
 | NA | 57567 |
 
 
@@ -1588,6 +1676,7 @@ R__320_3:SKJEMA6W; (R__320_3:SKJEMA6D); (R__320_3:SKJEMA6C); (R__320_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1817 |
+| Not NA | 1817 |
 | NA | 56824 |
 
 
@@ -1600,6 +1689,7 @@ R__320_4:SKJEMA6W; (R__320_4:SKJEMA6D); (R__320_4:SKJEMA6C); (R__320_4:SKJEMA6B)
 | No | 1468 |
 | Yes | 357 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1826 |
 | NA | 56815 |
 
 
@@ -1610,6 +1700,7 @@ R__319_1:SKJEMA6A; Autistic traits / trouble relating to others, No; 3. Has your
 | Category | n |
 | -------- | - |
 | 1 | 1213 |
+| Not NA | 1213 |
 | NA | 57428 |
 
 
@@ -1620,6 +1711,7 @@ R__319_2:SKJEMA6A; Autistic traits /  trouble relating to others, Yes now; 3. Ha
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 58640 |
 
 
@@ -1629,6 +1721,7 @@ R__319_3:SKJEMA6A; Autistic traits /  trouble relating to others, Yes used to ha
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 58641 |
 
 
@@ -1640,6 +1733,7 @@ R__319_4:SKJEMA6A; Autistic traits /  trouble relating to others, If yes has he/
 | -------- | - |
 | No | 2 |
 | Yes | 1 |
+| Not NA | 3 |
 | NA | 58638 |
 
 
@@ -1650,6 +1744,7 @@ R__322_1:SKJEMA6W; (R__322_1:SKJEMA6D); (R__322_1:SKJEMA6C); (R__322_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 57632 |
+| Not NA | 57632 |
 | NA | 1009 |
 
 
@@ -1660,6 +1755,7 @@ R__322_2:SKJEMA6W; (R__322_2:SKJEMA6D); (R__322_2:SKJEMA6C); (R__322_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 242 |
+| Not NA | 242 |
 | NA | 58399 |
 
 
@@ -1670,6 +1766,7 @@ R__322_3:SKJEMA6W; (R__322_3:SKJEMA6D); (R__322_3:SKJEMA6C); (R__322_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 75 |
+| Not NA | 75 |
 | NA | 58566 |
 
 
@@ -1681,6 +1778,7 @@ R__322_4:SKJEMA6W; (R__322_4:SKJEMA6D); (R__322_4:SKJEMA6C); (R__322_4:SKJEMA6B)
 | -------- | - |
 | No | 184 |
 | Yes | 66 |
+| Not NA | 250 |
 | NA | 58391 |
 
 
@@ -1691,6 +1789,7 @@ R__324_1:SKJEMA6W; (R__324_1:SKJEMA6D); (R__324_1:SKJEMA6C); (R__324_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 57616 |
+| Not NA | 57616 |
 | NA | 1025 |
 
 
@@ -1701,6 +1800,7 @@ R__324_2:SKJEMA6W; (R__324_2:SKJEMA6D); (R__324_2:SKJEMA6C); (R__324_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 192 |
+| Not NA | 192 |
 | NA | 58449 |
 
 
@@ -1711,6 +1811,7 @@ R__324_3:SKJEMA6W; (R__324_3:SKJEMA6D); (R__324_3:SKJEMA6C); (R__324_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 68 |
+| Not NA | 68 |
 | NA | 58573 |
 
 
@@ -1722,6 +1823,7 @@ R__324_4:SKJEMA6W; (R__324_4:SKJEMA6D); (R__324_4:SKJEMA6C); (R__324_4:SKJEMA6B)
 | -------- | - |
 | No | 121 |
 | Yes | 111 |
+| Not NA | 232 |
 | NA | 58409 |
 
 
@@ -1732,6 +1834,7 @@ R__325_1:SKJEMA6W; (R__325_1:SKJEMA6D); (R__325_1:SKJEMA6C); (R__325_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 54713 |
+| Not NA | 54713 |
 | NA | 3928 |
 
 
@@ -1742,6 +1845,7 @@ R__325_2:SKJEMA6W; (R__325_2:SKJEMA6D); (R__325_2:SKJEMA6C); (R__325_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1804 |
+| Not NA | 1804 |
 | NA | 56837 |
 
 
@@ -1752,6 +1856,7 @@ R__325_3:SKJEMA6W; (R__325_3:SKJEMA6D); (R__325_3:SKJEMA6C); (R__325_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 1139 |
+| Not NA | 1139 |
 | NA | 57502 |
 
 
@@ -1764,6 +1869,7 @@ R__325_4:SKJEMA6W; (R__325_4:SKJEMA6D); (R__325_4:SKJEMA6C); (R__325_4:SKJEMA6B)
 | No | 265 |
 | Yes | 1612 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1878 |
 | NA | 56763 |
 
 
@@ -1780,6 +1886,7 @@ R__4_1:SKJEMA6W; (R__4_1:SKJEMA6D); (R__4_1:SKJEMA6C); (R__4_1:SKJEMA6B); (R__4_
 | (1+3) Everything was fine + Has not been for any investigation yet | 31 |
 | (2+3) Still some doubts / further investigations needed + Has not been for any investigation yet | 36 |
 | (1+2+3) Everything was fine + Still some doubts / further investigations needed + Has not been for any investigation yet | 4 |
+| Not NA | 16908 |
 | NA | 41733 |
 
 
@@ -1791,6 +1898,7 @@ R__4_2_1:SKJEMA6W; (R__4_2_1:SKJEMA6D); (R__4_2_1:SKJEMA6C); (R__4_2_1:SKJEMA6B)
 | -------- | - |
 | 1 | 9014 |
 | 0 | 1622 |
+| Not NA | 10636 |
 | NA | 48005 |
 
 
@@ -1802,6 +1910,7 @@ R__4_3_1:SKJEMA6W; (R__4_3_1:SKJEMA6D); (R__4_3_1:SKJEMA6C); (R__4_3_1:SKJEMA6B)
 | -------- | - |
 | 0 | 1923 |
 | 1 | 2045 |
+| Not NA | 3968 |
 | NA | 54673 |
 
 
@@ -1813,6 +1922,7 @@ R__4_4_1:SKJEMA6W; (R__4_4_1:SKJEMA6D); (R__4_4_1:SKJEMA6C); (R__4_4_1:SKJEMA6B)
 | -------- | - |
 | 0 | 1976 |
 | 1 | 488 |
+| Not NA | 2464 |
 | NA | 56177 |
 
 
@@ -1824,6 +1934,7 @@ R__315_1:SKJEMA6W; (R__315_1:SKJEMA6D); (R__315_1:SKJEMA6C); (R__315_1:SKJEMA6B)
 | -------- | - |
 | 1 | 53211 |
 | 0 | 152 |
+| Not NA | 53363 |
 | NA | 5278 |
 
 
@@ -1835,6 +1946,7 @@ R__315_2:SKJEMA6W; (R__315_2:SKJEMA6D); (R__315_2:SKJEMA6C); (R__315_2:SKJEMA6B)
 | -------- | - |
 | 0 | 1973 |
 | 1 | 1112 |
+| Not NA | 3085 |
 | NA | 55556 |
 
 
@@ -1846,6 +1958,7 @@ R__315_3:SKJEMA6W; (R__315_3:SKJEMA6D); (R__315_3:SKJEMA6C); (R__315_3:SKJEMA6B)
 | -------- | - |
 | 1 | 1820 |
 | 0 | 1898 |
+| Not NA | 3718 |
 | NA | 54923 |
 
 
@@ -1858,6 +1971,7 @@ R__315_4:SKJEMA6W; (R__315_4:SKJEMA6D); (R__315_4:SKJEMA6C); (R__315_4:SKJEMA6B)
 | Yes | 763 |
 | No | 1280 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2044 |
 | NA | 56597 |
 
 
@@ -1869,6 +1983,7 @@ R__316_1:SKJEMA6W; (R__316_1:SKJEMA6D); (R__316_1:SKJEMA6C); (R__316_1:SKJEMA6B)
 | -------- | - |
 | 1 | 53302 |
 | 0 | 143 |
+| Not NA | 53445 |
 | NA | 5196 |
 
 
@@ -1880,6 +1995,7 @@ R__316_2:SKJEMA6W; (R__316_2:SKJEMA6D); (R__316_2:SKJEMA6C); (R__316_2:SKJEMA6B)
 | -------- | - |
 | 1 | 1566 |
 | 0 | 1942 |
+| Not NA | 3508 |
 | NA | 55133 |
 
 
@@ -1891,6 +2007,7 @@ R__316_3:SKJEMA6W; (R__316_3:SKJEMA6D); (R__316_3:SKJEMA6C); (R__316_3:SKJEMA6B)
 | -------- | - |
 | 1 | 1190 |
 | 0 | 1941 |
+| Not NA | 3131 |
 | NA | 55510 |
 
 
@@ -1902,6 +2019,7 @@ R__316_4:SKJEMA6W; (R__316_4:SKJEMA6D); (R__316_4:SKJEMA6C); (R__316_4:SKJEMA6B)
 | -------- | - |
 | No | 1144 |
 | Yes | 723 |
+| Not NA | 1867 |
 | NA | 56774 |
 
 
@@ -1913,6 +2031,7 @@ R__318_1:SKJEMA6W; (R__318_1:SKJEMA6D); (R__318_1:SKJEMA6C); (R__318_1:SKJEMA6B)
 | -------- | - |
 | 1 | 53856 |
 | 0 | 102 |
+| Not NA | 53958 |
 | NA | 4683 |
 
 
@@ -1924,6 +2043,7 @@ R__318_2:SKJEMA6W; (R__318_2:SKJEMA6D); (R__318_2:SKJEMA6C); (R__318_2:SKJEMA6B)
 | -------- | - |
 | 0 | 1949 |
 | 1 | 1250 |
+| Not NA | 3199 |
 | NA | 55442 |
 
 
@@ -1935,6 +2055,7 @@ R__318_3:SKJEMA6W; (R__318_3:SKJEMA6D); (R__318_3:SKJEMA6C); (R__318_3:SKJEMA6B)
 | -------- | - |
 | 0 | 1968 |
 | 1 | 935 |
+| Not NA | 2903 |
 | NA | 55738 |
 
 
@@ -1946,6 +2067,7 @@ R__318_4:SKJEMA6W; (R__318_4:SKJEMA6D); (R__318_4:SKJEMA6C); (R__318_4:SKJEMA6B)
 | -------- | - |
 | Yes | 752 |
 | No | 840 |
+| Not NA | 1592 |
 | NA | 57049 |
 
 
@@ -1957,6 +2079,7 @@ R__321_1:SKJEMA6W; (R__321_1:SKJEMA6D); (R__321_1:SKJEMA6C); (R__321_1:SKJEMA6B)
 | -------- | - |
 | 1 | 56495 |
 | 0 | 27 |
+| Not NA | 56522 |
 | NA | 2119 |
 
 
@@ -1968,6 +2091,7 @@ R__321_2:SKJEMA6W; (R__321_2:SKJEMA6D); (R__321_2:SKJEMA6C); (R__321_2:SKJEMA6B)
 | -------- | - |
 | 0 | 1997 |
 | 1 | 180 |
+| Not NA | 2177 |
 | NA | 56464 |
 
 
@@ -1979,6 +2103,7 @@ R__321_3:SKJEMA6W; (R__321_3:SKJEMA6D); (R__321_3:SKJEMA6C); (R__321_3:SKJEMA6B)
 | -------- | - |
 | 0 | 1997 |
 | 1 | 63 |
+| Not NA | 2060 |
 | NA | 56581 |
 
 
@@ -1990,6 +2115,7 @@ R__321_4:SKJEMA6W; (R__321_4:SKJEMA6D); (R__321_4:SKJEMA6C); (R__321_4:SKJEMA6B)
 | -------- | - |
 | No | 99 |
 | Yes | 102 |
+| Not NA | 201 |
 | NA | 58440 |
 
 
@@ -2001,6 +2127,7 @@ R__323_1:SKJEMA6W; (R__323_1:SKJEMA6D); (R__323_1:SKJEMA6C); (R__323_1:SKJEMA6B)
 | -------- | - |
 | 1 | 56618 |
 | 0 | 28 |
+| Not NA | 56646 |
 | NA | 1995 |
 
 
@@ -2012,6 +2139,7 @@ R__323_2:SKJEMA6W; (R__323_2:SKJEMA6D); (R__323_2:SKJEMA6C); (R__323_2:SKJEMA6B)
 | -------- | - |
 | 0 | 1998 |
 | 1 | 86 |
+| Not NA | 2084 |
 | NA | 56557 |
 
 
@@ -2023,6 +2151,7 @@ R__323_3:SKJEMA6W; (R__323_3:SKJEMA6D); (R__323_3:SKJEMA6C); (R__323_3:SKJEMA6B)
 | -------- | - |
 | 0 | 1999 |
 | 1 | 13 |
+| Not NA | 2012 |
 | NA | 56629 |
 
 
@@ -2034,6 +2163,7 @@ R__323_4:SKJEMA6W; (R__323_4:SKJEMA6D); (R__323_4:SKJEMA6C); (R__323_4:SKJEMA6B)
 | -------- | - |
 | No | 60 |
 | Yes | 60 |
+| Not NA | 120 |
 | NA | 58521 |
 
 
@@ -2046,6 +2176,7 @@ R__6:SKJEMA6W; (R__6:SKJEMA6D); (R__6:SKJEMA6C); (R__6:SKJEMA6B); (R__6:SKJEMA6A
 | No | 54470 |
 | Yes | 2540 |
 | More than 1 check box filled in | 14 |
+| Not NA | 57024 |
 | NA | 1617 |
 
 
@@ -2058,6 +2189,7 @@ R__8:SKJEMA6W; (R__8:SKJEMA6D); (R__8:SKJEMA6C); (R__8:SKJEMA6B); (R__8:SKJEMA6A
 | No | 8234 |
 | Yes | 874 |
 | More than 1 check box filled in | 12 |
+| Not NA | 9120 |
 | NA | 49521 |
 
 
@@ -2070,6 +2202,7 @@ R__9_1_1:SKJEMA6W; (R__9_1_1:SKJEMA6D); (R__9_1_1:SKJEMA6C); (R__9_1_1:SKJEMA6B)
 | Yes | 56291 |
 | No | 1183 |
 | More than 1 check box filled in | 4 |
+| Not NA | 57478 |
 | NA | 1163 |
 
 
@@ -2086,6 +2219,7 @@ R__9_1_2:SKJEMA6W; (R__9_1_2:SKJEMA6D); (R__9_1_2:SKJEMA6C); (R__9_1_2:SKJEMA6B)
 | 3rd Qu. | 6 |
 | Max. | 99 |
 | NA's | 8372 |
+| Not NA | 50269 |
 
 
 ### GG130
@@ -2097,6 +2231,7 @@ R__9_1_3:SKJEMA6W; (R__9_1_3:SKJEMA6D); (R__9_1_3:SKJEMA6C); (R__9_1_3:SKJEMA6B)
 | No | 44589 |
 | Yes | 1442 |
 | More than 1 check box filled in | 7 |
+| Not NA | 46038 |
 | NA | 12603 |
 
 
@@ -2109,6 +2244,7 @@ R__9_2_1:SKJEMA6W; (R__9_2_1:SKJEMA6D); (R__9_2_1:SKJEMA6C); (R__9_2_1:SKJEMA6B)
 | No | 50980 |
 | Yes | 5798 |
 | More than 1 check box filled in | 2 |
+| Not NA | 56780 |
 | NA | 1861 |
 
 
@@ -2137,6 +2273,7 @@ R__9_2_2:SKJEMA6W; (R__9_2_2:SKJEMA6D); (R__9_2_2:SKJEMA6C); (R__9_2_2:SKJEMA6B)
 | 14 | 3 |
 | 15 | 2 |
 | 11 | 1 |
+| Not NA | 5646 |
 | NA | 52995 |
 
 
@@ -2149,6 +2286,7 @@ R__9_2_3:SKJEMA6W; (R__9_2_3:SKJEMA6D); (R__9_2_3:SKJEMA6C); (R__9_2_3:SKJEMA6B)
 | No | 5620 |
 | Yes | 594 |
 | More than 1 check box filled in | 3 |
+| Not NA | 6217 |
 | NA | 52424 |
 
 
@@ -2161,6 +2299,7 @@ R__9_3_1:SKJEMA6W; (R__9_3_1:SKJEMA6D); (R__9_3_1:SKJEMA6C); (R__9_3_1:SKJEMA6B)
 | No | 46645 |
 | Yes | 10075 |
 | More than 1 check box filled in | 3 |
+| Not NA | 56723 |
 | NA | 1918 |
 
 
@@ -2190,6 +2329,7 @@ R__9_3_2:SKJEMA6W; (R__9_3_2:SKJEMA6D); (R__9_3_2:SKJEMA6C); (R__9_3_2:SKJEMA6B)
 | 24 | 2 |
 | 18 | 1 |
 | 19 | 1 |
+| Not NA | 9121 |
 | NA | 49520 |
 
 
@@ -2201,6 +2341,7 @@ R__9_3_3:SKJEMA6W; (R__9_3_3:SKJEMA6D); (R__9_3_3:SKJEMA6C); (R__9_3_3:SKJEMA6B)
 | -------- | - |
 | No | 8031 |
 | Yes | 797 |
+| Not NA | 8828 |
 | NA | 49813 |
 
 
@@ -2213,6 +2354,7 @@ R__9_4_1:SKJEMA6W; (R__9_4_1:SKJEMA6D); (R__9_4_1:SKJEMA6C); (R__9_4_1:SKJEMA6B)
 | Yes | 20048 |
 | No | 37002 |
 | More than 1 check box filled in | 4 |
+| Not NA | 57054 |
 | NA | 1587 |
 
 
@@ -2229,6 +2371,7 @@ R__9_4_2:SKJEMA6W; (R__9_4_2:SKJEMA6D); (R__9_4_2:SKJEMA6C); (R__9_4_2:SKJEMA6B)
 | 3rd Qu. | 2 |
 | Max. | 99 |
 | NA's | 39729 |
+| Not NA | 18912 |
 
 
 ### GG139
@@ -2240,6 +2383,7 @@ R__9_4_3:SKJEMA6W; (R__9_4_3:SKJEMA6D); (R__9_4_3:SKJEMA6C); (R__9_4_3:SKJEMA6B)
 | No | 14254 |
 | Yes | 2551 |
 | More than 1 check box filled in | 5 |
+| Not NA | 16810 |
 | NA | 41831 |
 
 
@@ -2251,6 +2395,7 @@ R__9_5_1:SKJEMA6W; (R__9_5_1:SKJEMA6D); (R__9_5_1:SKJEMA6C); (R__9_5_1:SKJEMA6B)
 | -------- | - |
 | No | 48826 |
 | Yes | 8311 |
+| Not NA | 57137 |
 | NA | 1504 |
 
 
@@ -2267,6 +2412,7 @@ R__9_5_2:SKJEMA6W; (R__9_5_2:SKJEMA6D); (R__9_5_2:SKJEMA6C); (R__9_5_2:SKJEMA6B)
 | 3rd Qu. | 3 |
 | Max. | 30 |
 | NA's | 50736 |
+| Not NA | 7905 |
 
 
 ### GG142
@@ -2278,6 +2424,7 @@ R__9_5_3:SKJEMA6W; (R__9_5_3:SKJEMA6D); (R__9_5_3:SKJEMA6C); (R__9_5_3:SKJEMA6B)
 | No | 6565 |
 | Yes | 1332 |
 | More than 1 check box filled in | 3 |
+| Not NA | 7900 |
 | NA | 50741 |
 
 
@@ -2290,6 +2437,7 @@ R__9_6_1:SKJEMA6W; (R__9_6_1:SKJEMA6D); (R__9_6_1:SKJEMA6C); (R__9_6_1:SKJEMA6B)
 | No | 52371 |
 | Yes | 4610 |
 | More than 1 check box filled in | 3 |
+| Not NA | 56984 |
 | NA | 1657 |
 
 
@@ -2316,6 +2464,7 @@ R__9_6_2:SKJEMA6W; (R__9_6_2:SKJEMA6D); (R__9_6_2:SKJEMA6C); (R__9_6_2:SKJEMA6B)
 | 9 | 1 |
 | 18 | 1 |
 | 16 | 1 |
+| Not NA | 4320 |
 | NA | 54321 |
 
 
@@ -2327,6 +2476,7 @@ R__9_6_3:SKJEMA6W; (R__9_6_3:SKJEMA6D); (R__9_6_3:SKJEMA6C); (R__9_6_3:SKJEMA6B)
 | -------- | - |
 | Yes | 545 |
 | No | 4150 |
+| Not NA | 4695 |
 | NA | 53946 |
 
 
@@ -2339,6 +2489,7 @@ R__9_7_1:SKJEMA6W; (R__9_7_1:SKJEMA6D); (R__9_7_1:SKJEMA6C); (R__9_7_1:SKJEMA6B)
 | No | 53316 |
 | Yes | 3775 |
 | More than 1 check box filled in | 4 |
+| Not NA | 57095 |
 | NA | 1546 |
 
 
@@ -2363,6 +2514,7 @@ R__9_7_2:SKJEMA6W; (R__9_7_2:SKJEMA6D); (R__9_7_2:SKJEMA6C); (R__9_7_2:SKJEMA6B)
 | 15 | 1 |
 | 9 | 1 |
 | 12 | 1 |
+| Not NA | 3624 |
 | NA | 55017 |
 
 
@@ -2375,6 +2527,7 @@ R__9_7_3:SKJEMA6W; (R__9_7_3:SKJEMA6D); (R__9_7_3:SKJEMA6C); (R__9_7_3:SKJEMA6B)
 | No | 3065 |
 | Yes | 1270 |
 | More than 1 check box filled in | 4 |
+| Not NA | 4339 |
 | NA | 54302 |
 
 
@@ -2387,6 +2540,7 @@ R__9_8_1:SKJEMA6W; (R__9_8_1:SKJEMA6D); (R__9_8_1:SKJEMA6C); (R__9_8_1:SKJEMA6B)
 | Yes | 42146 |
 | No | 14654 |
 | More than 1 check box filled in | 12 |
+| Not NA | 56812 |
 | NA | 1829 |
 
 
@@ -2403,6 +2557,7 @@ R__9_8_2:SKJEMA6W; (R__9_8_2:SKJEMA6D); (R__9_8_2:SKJEMA6C); (R__9_8_2:SKJEMA6B)
 | 3rd Qu. | 2 |
 | Max. | 99 |
 | NA's | 18798 |
+| Not NA | 39843 |
 
 
 ### GG151
@@ -2414,6 +2569,7 @@ R__9_8_3:SKJEMA6W; (R__9_8_3:SKJEMA6D); (R__9_8_3:SKJEMA6C); (R__9_8_3:SKJEMA6B)
 | Yes | 1183 |
 | No | 30837 |
 | More than 1 check box filled in | 3 |
+| Not NA | 32023 |
 | NA | 26618 |
 
 
@@ -2426,6 +2582,7 @@ R__9_9_1:SKJEMA6W; (R__9_9_1:SKJEMA6D); (R__9_9_1:SKJEMA6C); (R__9_9_1:SKJEMA6B)
 | No | 54296 |
 | Yes | 2665 |
 | More than 1 check box filled in | 3 |
+| Not NA | 56964 |
 | NA | 1677 |
 
 
@@ -2449,6 +2606,7 @@ R__9_9_2:SKJEMA6W; (R__9_9_2:SKJEMA6D); (R__9_9_2:SKJEMA6C); (R__9_9_2:SKJEMA6B)
 | 10 | 4 |
 | 9 | 1 |
 | 12 | 2 |
+| Not NA | 2564 |
 | NA | 56077 |
 
 
@@ -2461,6 +2619,7 @@ R__9_9_3:SKJEMA6W; (R__9_9_3:SKJEMA6D); (R__9_9_3:SKJEMA6C); (R__9_9_3:SKJEMA6B)
 | Yes | 604 |
 | No | 2606 |
 | More than 1 check box filled in | 3 |
+| Not NA | 3213 |
 | NA | 55428 |
 
 
@@ -2472,6 +2631,7 @@ R__910_1:SKJEMA6W; (R__910_1:SKJEMA6D); (R__910_1:SKJEMA6C); (R__910_1:SKJEMA6B)
 | -------- | - |
 | No | 57103 |
 | Yes | 112 |
+| Not NA | 57215 |
 | NA | 1426 |
 
 
@@ -2483,6 +2643,7 @@ R__910_2:SKJEMA6W; (R__910_2:SKJEMA6D); (R__910_2:SKJEMA6C); (R__910_2:SKJEMA6B)
 | -------- | - |
 | 0 | 53 |
 | 1 | 21 |
+| Not NA | 74 |
 | NA | 58567 |
 
 
@@ -2494,6 +2655,7 @@ R__910_3:SKJEMA6W; (R__910_3:SKJEMA6D); (R__910_3:SKJEMA6C); (R__910_3:SKJEMA6B)
 | -------- | - |
 | No | 1094 |
 | Yes | 20 |
+| Not NA | 1114 |
 | NA | 57527 |
 
 
@@ -2506,6 +2668,7 @@ R__911_1:SKJEMA6W; (R__911_1:SKJEMA6D); (R__911_1:SKJEMA6C); (R__911_1:SKJEMA6B)
 | No | 55246 |
 | Yes | 1953 |
 | More than 1 check box filled in | 1 |
+| Not NA | 57200 |
 | NA | 1441 |
 
 
@@ -2534,6 +2697,7 @@ R__911_2:SKJEMA6W; (R__911_2:SKJEMA6D); (R__911_2:SKJEMA6C); (R__911_2:SKJEMA6B)
 | 8 | 4 |
 | 16 | 1 |
 | 32 | 1 |
+| Not NA | 1819 |
 | NA | 56822 |
 
 
@@ -2546,6 +2710,7 @@ R__911_3:SKJEMA6W; (R__911_3:SKJEMA6D); (R__911_3:SKJEMA6C); (R__911_3:SKJEMA6B)
 | No | 1783 |
 | Yes | 872 |
 | More than 1 check box filled in | 3 |
+| Not NA | 2658 |
 | NA | 55983 |
 
 
@@ -2557,6 +2722,7 @@ R__912_1:SKJEMA6W; (R__912_1:SKJEMA6D); (R__912_1:SKJEMA6C); (R__912_1:SKJEMA6B)
 | -------- | - |
 | Yes | 382 |
 | No | 56764 |
+| Not NA | 57146 |
 | NA | 1495 |
 
 
@@ -2573,6 +2739,7 @@ R__912_2:SKJEMA6W; (R__912_2:SKJEMA6D); (R__912_2:SKJEMA6C); (R__912_2:SKJEMA6B)
 | 3rd Qu. | 4 |
 | Max. | 99 |
 | NA's | 58338 |
+| Not NA | 303 |
 
 
 ### GG163
@@ -2583,6 +2750,7 @@ R__912_3:SKJEMA6W; (R__912_3:SKJEMA6D); (R__912_3:SKJEMA6C); (R__912_3:SKJEMA6B)
 | -------- | - |
 | Yes | 187 |
 | No | 1159 |
+| Not NA | 1346 |
 | NA | 57295 |
 
 
@@ -2595,6 +2763,7 @@ R__913_1:SKJEMA6W; (R__913_1:SKJEMA6D); (R__913_1:SKJEMA6C); (R__913_1:SKJEMA6B)
 | No | 51690 |
 | Yes | 5249 |
 | More than 1 check box filled in | 3 |
+| Not NA | 56942 |
 | NA | 1699 |
 
 
@@ -2617,6 +2786,7 @@ R__913_2:SKJEMA6W; (R__913_2:SKJEMA6D); (R__913_2:SKJEMA6C); (R__913_2:SKJEMA6B)
 | 7 | 2 |
 | 42 | 1 |
 | 35 | 1 |
+| Not NA | 4832 |
 | NA | 53809 |
 
 
@@ -2629,6 +2799,7 @@ R__913_3:SKJEMA6W; (R__913_3:SKJEMA6D); (R__913_3:SKJEMA6C); (R__913_3:SKJEMA6B)
 | Yes | 2788 |
 | No | 2971 |
 | More than 1 check box filled in | 5 |
+| Not NA | 5764 |
 | NA | 52877 |
 
 
@@ -2641,6 +2812,7 @@ R__914_1:SKJEMA6W; (R__914_1:SKJEMA6D); (R__914_1:SKJEMA6C); (R__914_1:SKJEMA6B)
 | No | 29660 |
 | Yes | 4970 |
 | More than 1 check box filled in | 5 |
+| Not NA | 34635 |
 | NA | 24006 |
 
 
@@ -2657,6 +2829,7 @@ R__914_2:SKJEMA6W; (R__914_2:SKJEMA6D); (R__914_2:SKJEMA6C); (R__914_2:SKJEMA6B)
 | 3rd Qu. | 2 |
 | Max. | 99 |
 | NA's | 54360 |
+| Not NA | 4281 |
 
 
 ### GG169
@@ -2668,6 +2841,7 @@ R__914_3:SKJEMA6W; (R__914_3:SKJEMA6D); (R__914_3:SKJEMA6C); (R__914_3:SKJEMA6B)
 | No | 3474 |
 | Yes | 1760 |
 | More than 1 check box filled in | 5 |
+| Not NA | 5239 |
 | NA | 53402 |
 
 
@@ -2679,6 +2853,7 @@ R_11_1:SKJEMA6W; (R_11_1:SKJEMA6D); (R_11_1:SKJEMA6C); (R_11_1:SKJEMA6B); (R_11_
 | -------- | - |
 | No | 52600 |
 | Yes | 455 |
+| Not NA | 53055 |
 | NA | 5586 |
 
 
@@ -2691,6 +2866,7 @@ R_11_2:SKJEMA6W; (R_11_2:SKJEMA6D); (R_11_2:SKJEMA6C); (R_11_2:SKJEMA6B); (R_11_
 | No | 52108 |
 | Yes | 1251 |
 | More than 1 check box filled in | 1 |
+| Not NA | 53360 |
 | NA | 5281 |
 
 
@@ -2703,6 +2879,7 @@ R_11_3:SKJEMA6W; (R_11_3:SKJEMA6D); (R_11_3:SKJEMA6C); (R_11_3:SKJEMA6B); (R_11_
 | No | 52524 |
 | Yes | 380 |
 | More than 1 check box filled in | 1 |
+| Not NA | 52905 |
 | NA | 5736 |
 
 
@@ -2714,6 +2891,7 @@ R_20_4:SKJEMA62; Pediatric ward at hospital; 20. Has your child been referred to
 | -------- | - |
 | No | 572 |
 | Yes | 121 |
+| Not NA | 693 |
 | NA | 57948 |
 
 
@@ -2726,6 +2904,7 @@ R_12:SKJEMA6W; (R_12:SKJEMA6D); (R_12:SKJEMA6C); (R_12:SKJEMA6B); (R_12:SKJEMA6A
 | Yes | 48207 |
 | No | 9179 |
 | More than 1 check box filled in | 7 |
+| Not NA | 57393 |
 | NA | 1248 |
 
 
@@ -2736,6 +2915,7 @@ R_13_1_2:SKJEMA6A; Duration of use 0-2 weeks; 13. If yes, give the name of the m
 | Category | n |
 | -------- | - |
 | 1 | 844 |
+| Not NA | 844 |
 | NA | 57797 |
 
 
@@ -2746,6 +2926,7 @@ R_13_1_3:SKJEMA6A; Duration of use 3-4 weeks; 13. If yes, give the name of the m
 | Category | n |
 | -------- | - |
 | 1 | 30 |
+| Not NA | 30 |
 | NA | 58611 |
 
 
@@ -2756,6 +2937,7 @@ R_13_1_4:SKJEMA6A; Duration of use 1-2 months; 13. If yes, give the name of the 
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 58627 |
 
 
@@ -2766,6 +2948,7 @@ R_13_1_5:SKJEMA6A; Duration of use 3-6 months; 13. If yes, give the name of the 
 | Category | n |
 | -------- | - |
 | 1 | 25 |
+| Not NA | 25 |
 | NA | 58616 |
 
 
@@ -2776,6 +2959,7 @@ R_13_1_6:SKJEMA6A; Duration of use 7-12 months; 13. If yes, give the name of the
 | Category | n |
 | -------- | - |
 | 1 | 57 |
+| Not NA | 57 |
 | NA | 58584 |
 
 
@@ -2788,6 +2972,7 @@ R_13_1_3:SKJEMA6W; (R_13_1_3:SKJEMA6D); (R_13_1_3:SKJEMA6C); (R_13_1_3:SKJEMA6B)
 | No | 39494 |
 | Yes | 4432 |
 | More than 1 check box filled in | 13 |
+| Not NA | 43939 |
 | NA | 14702 |
 
 
@@ -2798,6 +2983,7 @@ R_13_2_2:SKJEMA6A; Duration of use 0-2 weeks; 13. If yes, give the name of the m
 | Category | n |
 | -------- | - |
 | 1 | 349 |
+| Not NA | 349 |
 | NA | 58292 |
 
 
@@ -2808,6 +2994,7 @@ R_13_2_3:SKJEMA6A; Duration of use 3-4 weeks; 13. If yes, give the name of the m
 | Category | n |
 | -------- | - |
 | 1 | 41 |
+| Not NA | 41 |
 | NA | 58600 |
 
 
@@ -2818,6 +3005,7 @@ R_13_2_4:SKJEMA6A; Duration of use 1-2 months; 13. If yes, give the name of the 
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 58622 |
 
 
@@ -2828,6 +3016,7 @@ R_13_2_5:SKJEMA6A; Duration of use 3-6 months; 13. If yes, give the name of the 
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 58620 |
 
 
@@ -2838,6 +3027,7 @@ R_13_2_6:SKJEMA6A; Duration of use 7-12 months; 13. If yes, give the name of the
 | Category | n |
 | -------- | - |
 | 1 | 40 |
+| Not NA | 40 |
 | NA | 58601 |
 
 
@@ -2850,6 +3040,7 @@ R_13_2_3:SKJEMA6W; (R_13_2_3:SKJEMA6D); (R_13_2_3:SKJEMA6C); (R_13_2_3:SKJEMA6B)
 | No | 16706 |
 | Yes | 3930 |
 | More than 1 check box filled in | 11 |
+| Not NA | 20647 |
 | NA | 37994 |
 
 
@@ -2860,6 +3051,7 @@ R_13_3_2:SKJEMA6A; Duration of use 0-2 weeks; 13. If yes, give the name of the m
 | Category | n |
 | -------- | - |
 | 1 | 148 |
+| Not NA | 148 |
 | NA | 58493 |
 
 
@@ -2870,6 +3062,7 @@ R_13_3_3:SKJEMA6A; Duration of use 3-4 weeks; 13. If yes, give the name of the m
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 58622 |
 
 
@@ -2880,6 +3073,7 @@ R_13_3_4:SKJEMA6A; Duration of use 1-2 months; 13. If yes, give the name of the 
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 58630 |
 
 
@@ -2890,6 +3084,7 @@ R_13_3_5:SKJEMA6A; Duration of use 3-6 months; 13. If yes, give the name of the 
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 58630 |
 
 
@@ -2900,6 +3095,7 @@ R_13_3_6:SKJEMA6A; Duration of use 7-12 months; 13. If yes, give the name of the
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 58630 |
 
 
@@ -2912,6 +3108,7 @@ R_13_3_3:SKJEMA6W; (R_13_3_3:SKJEMA6D); (R_13_3_3:SKJEMA6C); (R_13_3_3:SKJEMA6B)
 | No | 7051 |
 | Yes | 1915 |
 | More than 1 check box filled in | 7 |
+| Not NA | 8973 |
 | NA | 49668 |
 
 
@@ -2922,6 +3119,7 @@ R_13_4_2:SKJEMA6A; Duration of use 0-2 weeks; 13. If yes, give the name of the m
 | Category | n |
 | -------- | - |
 | 1 | 48 |
+| Not NA | 48 |
 | NA | 58593 |
 
 
@@ -2932,6 +3130,7 @@ R_13_4_3:SKJEMA6A; Duration of use 3-4 weeks; 13. If yes, give the name of the m
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 58637 |
 
 
@@ -2942,6 +3141,7 @@ R_13_4_4:SKJEMA6A; Duration of use 1-2 months; 13. If yes, give the name of the 
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 58633 |
 
 
@@ -2952,6 +3152,7 @@ R_13_4_5:SKJEMA6A; Duration of use 3-6 months; 13. If yes, give the name of the 
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 58635 |
 
 
@@ -2962,6 +3163,7 @@ R_13_4_6:SKJEMA6A; Duration of use 7-12 months; 13. If yes, give the name of the
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 58636 |
 
 
@@ -2974,6 +3176,7 @@ R_13_4_3:SKJEMA6W; (R_13_4_3:SKJEMA6D); (R_13_4_3:SKJEMA6C); (R_13_4_3:SKJEMA6B)
 | No | 2830 |
 | Yes | 774 |
 | More than 1 check box filled in | 3 |
+| Not NA | 3607 |
 | NA | 55034 |
 
 
@@ -2989,6 +3192,7 @@ R_13_1_2:SKJEMA6W; (R_13_1_2:SKJEMA6D); (R_13_1_2:SKJEMA6C); (R_13_1_2:SKJEMA6B)
 | 1-2 months | 839 |
 | 3-6 months | 1007 |
 | More than 1 check box filled in | 69 |
+| Not NA | 44518 |
 | NA | 14123 |
 
 
@@ -3004,6 +3208,7 @@ R_13_2_2:SKJEMA6W; (R_13_2_2:SKJEMA6D); (R_13_2_2:SKJEMA6C); (R_13_2_2:SKJEMA6B)
 | 7-12 months | 2249 |
 | 1-2 months | 930 |
 | More than 1 check box filled in | 29 |
+| Not NA | 21857 |
 | NA | 36784 |
 
 
@@ -3019,6 +3224,7 @@ R_13_3_2:SKJEMA6W; (R_13_3_2:SKJEMA6D); (R_13_3_2:SKJEMA6C); (R_13_3_2:SKJEMA6B)
 | 3-4 weeks | 728 |
 | 3-6 months | 515 |
 | More than 1 check box filled in | 10 |
+| Not NA | 9463 |
 | NA | 49178 |
 
 
@@ -3034,6 +3240,7 @@ R_13_4_2:SKJEMA6W; (R_13_4_2:SKJEMA6D); (R_13_4_2:SKJEMA6C); (R_13_4_2:SKJEMA6B)
 | 7-12 months | 339 |
 | 3-6 months | 240 |
 | More than 1 check box filled in | 4 |
+| Not NA | 3726 |
 | NA | 54915 |
 
 
@@ -3046,6 +3253,7 @@ R_14:SKJEMA6W; (R_14:SKJEMA6D); (R_14:SKJEMA6C); (R_14:SKJEMA6B); (R_14:SKJEMA6A
 | No | 28847 |
 | Yes | 16492 |
 | More than 1 check box filled in | 10 |
+| Not NA | 45349 |
 | NA | 13292 |
 
 
@@ -3062,6 +3270,7 @@ Q6_VAC1_AGE:SKJEMA6D; (Q6_VAC1_AGE:SKJEMA6C); (Q6_VAC1_AGE:SKJEMA6B); (Q6_VAC1_A
 | 3rd Qu. | 692 |
 | Max. | 4454 |
 | NA's | 41186 |
+| Not NA | 17455 |
 
 
 ### Q6_VAC2_AGE
@@ -3077,6 +3286,7 @@ Q6_VAC2_AGE:SKJEMA6D; (Q6_VAC2_AGE:SKJEMA6C); (Q6_VAC2_AGE:SKJEMA6B); (Q6_VAC2_A
 | 3rd Qu. | 666.75 |
 | Max. | 2991 |
 | NA's | 52615 |
+| Not NA | 6026 |
 
 
 ### Q6_VAC3_AGE
@@ -3092,6 +3302,7 @@ Q6_VAC3_AGE:SKJEMA6D; (Q6_VAC3_AGE:SKJEMA6C); (Q6_VAC3_AGE:SKJEMA6B); Age in day
 | 3rd Qu. | 739 |
 | Max. | 4621 |
 | NA's | 58084 |
+| Not NA | 557 |
 
 
 ### GG214
@@ -3104,6 +3315,7 @@ R_16_1:SKJEMA6W; (R_16_1:SKJEMA6D); (R_16_1:SKJEMA6C); (R_16_1:SKJEMA6B); (R_16_
 | No | 21576 |
 | Sometimes | 16895 |
 | More than 1 check box filled in | 28 |
+| Not NA | 53517 |
 | NA | 5124 |
 
 
@@ -3117,6 +3329,7 @@ R_16_2:SKJEMA6W; (R_16_2:SKJEMA6D); (R_16_2:SKJEMA6C); (R_16_2:SKJEMA6B); (R_16_
 | No | 9474 |
 | Sometimes | 6699 |
 | More than 1 check box filled in | 31 |
+| Not NA | 54928 |
 | NA | 3713 |
 
 
@@ -3130,6 +3343,7 @@ R_16_3_1:SKJEMA6W; (R_16_3_1:SKJEMA6D); (R_16_3_1:SKJEMA6C); (R_16_3_1:SKJEMA6B)
 | No | 29437 |
 | Sometimes | 10417 |
 | More than 1 check box filled in | 31 |
+| Not NA | 51783 |
 | NA | 6858 |
 
 
@@ -3143,6 +3357,7 @@ R_16_4_1:SKJEMA6W; (R_16_4_1:SKJEMA6D); (R_16_4_1:SKJEMA6C); (R_16_4_1:SKJEMA6B)
 | Yes, daily | 529 |
 | Sometimes | 456 |
 | More than 1 check box filled in | 9 |
+| Not NA | 45289 |
 | NA | 13352 |
 
 
@@ -3156,6 +3371,7 @@ R_16_5_1:SKJEMA6W; (R_16_5_1:SKJEMA6D); (R_16_5_1:SKJEMA6C); (R_16_5_1:SKJEMA6B)
 | Sometimes | 3455 |
 | Yes, daily | 3870 |
 | More than 1 check box filled in | 21 |
+| Not NA | 47460 |
 | NA | 11181 |
 
 
@@ -3169,6 +3385,7 @@ R_17_1:SKJEMA6W; (R_17_1:SKJEMA6D); (R_17_1:SKJEMA6C); (R_17_1:SKJEMA6B); (R_17_
 | Not Yet | 192 |
 | Sometimes | 572 |
 | More than 1 check box filled in | 1 |
+| Not NA | 58273 |
 | NA | 368 |
 
 
@@ -3182,6 +3399,7 @@ R_17_2:SKJEMA6W; (R_17_2:SKJEMA6D); (R_17_2:SKJEMA6C); (R_17_2:SKJEMA6B); (R_17_
 | Sometimes | 10833 |
 | Not Yet | 1562 |
 | More than 1 check box filled in | 21 |
+| Not NA | 57809 |
 | NA | 832 |
 
 
@@ -3195,6 +3413,7 @@ R_17_3:SKJEMA6W; (R_17_3:SKJEMA6D); (R_17_3:SKJEMA6C); (R_17_3:SKJEMA6B); (R_17_
 | Sometimes | 12629 |
 | Not Yet | 6693 |
 | More than 1 check box filled in | 31 |
+| Not NA | 56907 |
 | NA | 1734 |
 
 
@@ -3208,6 +3427,7 @@ R_17_4:SKJEMA6W; (R_17_4:SKJEMA6D); (R_17_4:SKJEMA6C); (R_17_4:SKJEMA6B); (R_17_
 | Sometimes | 13854 |
 | Not Yet | 6398 |
 | More than 1 check box filled in | 12 |
+| Not NA | 57495 |
 | NA | 1146 |
 
 
@@ -3220,6 +3440,7 @@ R_21_1:SKJEMA6W; (R_21_1:SKJEMA6D); (R_21_1:SKJEMA6C); (R_21_1:SKJEMA6B); (R_21_
 | Yes | 57641 |
 | Sometimes | 646 |
 | Not Yet | 108 |
+| Not NA | 58395 |
 | NA | 246 |
 
 
@@ -3233,6 +3454,7 @@ R_21_2:SKJEMA6W; (R_21_2:SKJEMA6D); (R_21_2:SKJEMA6C); (R_21_2:SKJEMA6B); (R_21_
 | Sometimes | 689 |
 | Not Yet | 211 |
 | More than 1 check box filled in | 1 |
+| Not NA | 58160 |
 | NA | 481 |
 
 
@@ -3246,6 +3468,7 @@ R_21_3:SKJEMA6W; (R_21_3:SKJEMA6D); (R_21_3:SKJEMA6C); (R_21_3:SKJEMA6B); (R_21_
 | Sometimes | 924 |
 | Not Yet | 560 |
 | More than 1 check box filled in | 9 |
+| Not NA | 58340 |
 | NA | 301 |
 
 
@@ -3259,6 +3482,7 @@ R_21_4:SKJEMA6W; (R_21_4:SKJEMA6D); (R_21_4:SKJEMA6C); (R_21_4:SKJEMA6B); (R_21_
 | Sometimes | 3049 |
 | Not Yet | 225 |
 | More than 1 check box filled in | 14 |
+| Not NA | 58245 |
 | NA | 396 |
 
 
@@ -3272,6 +3496,7 @@ R_21_5:SKJEMA6W; (R_21_5:SKJEMA6D); (R_21_5:SKJEMA6C); (R_21_5:SKJEMA6B); (R_21_
 | Sometimes | 2972 |
 | Not Yet | 504 |
 | More than 1 check box filled in | 4 |
+| Not NA | 58252 |
 | NA | 389 |
 
 
@@ -3285,6 +3510,7 @@ R_21_6:SKJEMA6W; (R_21_6:SKJEMA6D); (R_21_6:SKJEMA6C); (R_21_6:SKJEMA6B); (R_21_
 | Sometimes | 16716 |
 | Not Yet | 5413 |
 | More than 1 check box filled in | 32 |
+| Not NA | 57304 |
 | NA | 1337 |
 
 
@@ -3357,6 +3583,7 @@ R_18:SKJEMA6W; (R_18:SKJEMA6D); (R_18:SKJEMA6C); (R_18:SKJEMA6B); (R_18:SKJEMA6A
 | (2+3+4+5+6) | 2 |
 | (1+2+3+4+5+6) | 4 |
 | NA's | 340 |
+| Not NA | 58301 |
 
 
 ### GG227
@@ -3369,6 +3596,7 @@ R_19_1:SKJEMA6W; (R_19_1:SKJEMA6D); (R_19_1:SKJEMA6C); (R_19_1:SKJEMA6B); (R_19_
 | Very seldom | 190 |
 | Not Yet | 94 |
 | More than 1 check box filled in | 3 |
+| Not NA | 58342 |
 | NA | 299 |
 
 
@@ -3382,6 +3610,7 @@ R_19_2:SKJEMA6W; (R_19_2:SKJEMA6D); (R_19_2:SKJEMA6C); (R_19_2:SKJEMA6B); (R_19_
 | Very seldom | 249 |
 | Not Yet | 80 |
 | More than 1 check box filled in | 5 |
+| Not NA | 58303 |
 | NA | 338 |
 
 
@@ -3395,6 +3624,7 @@ R_19_3:SKJEMA6W; (R_19_3:SKJEMA6D); (R_19_3:SKJEMA6C); (R_19_3:SKJEMA6B); (R_19_
 | Very seldom | 536 |
 | More than 1 check box filled in | 5 |
 | Not Yet | 57 |
+| Not NA | 58210 |
 | NA | 431 |
 
 
@@ -3408,6 +3638,7 @@ R_19_4:SKJEMA6W; (R_19_4:SKJEMA6D); (R_19_4:SKJEMA6C); (R_19_4:SKJEMA6B); (R_19_
 | Very seldom | 568 |
 | Not Yet | 62 |
 | More than 1 check box filled in | 5 |
+| Not NA | 58209 |
 | NA | 432 |
 
 
@@ -3421,6 +3652,7 @@ R_20_1:SKJEMA6W; (R_20_1:SKJEMA6D); (R_20_1:SKJEMA6C); (R_20_1:SKJEMA6B); (R_20_
 | Partially agree | 26044 |
 | Disagree | 1336 |
 | More than 1 check box filled in | 46 |
+| Not NA | 58428 |
 | NA | 213 |
 
 
@@ -3434,6 +3666,7 @@ R_20_2:SKJEMA6W; (R_20_2:SKJEMA6D); (R_20_2:SKJEMA6C); (R_20_2:SKJEMA6B); (R_20_
 | Partially agree | 11280 |
 | Disagree | 1197 |
 | More than 1 check box filled in | 18 |
+| Not NA | 58392 |
 | NA | 249 |
 
 
@@ -3447,6 +3680,7 @@ R_20_3:SKJEMA6W; (R_20_3:SKJEMA6D); (R_20_3:SKJEMA6C); (R_20_3:SKJEMA6B); (R_20_
 | Totally agree | 36863 |
 | Disagree | 1307 |
 | More than 1 check box filled in | 36 |
+| Not NA | 58349 |
 | NA | 292 |
 
 
@@ -3460,6 +3694,7 @@ R_20_4:SKJEMA6W; (R_20_4:SKJEMA6D); (R_20_4:SKJEMA6C); (R_20_4:SKJEMA6B); (R_20_
 | Partially agree | 10918 |
 | Disagree | 1029 |
 | More than 1 check box filled in | 32 |
+| Not NA | 58359 |
 | NA | 282 |
 
 
@@ -3473,6 +3708,7 @@ R_20_5:SKJEMA6W; (R_20_5:SKJEMA6D); (R_20_5:SKJEMA6C); (R_20_5:SKJEMA6B); (R_20_
 | Totally agree | 37463 |
 | Disagree | 1744 |
 | More than 1 check box filled in | 21 |
+| Not NA | 58333 |
 | NA | 308 |
 
 
@@ -3486,6 +3722,7 @@ R_20_6:SKJEMA6W; (R_20_6:SKJEMA6D); (R_20_6:SKJEMA6C); (R_20_6:SKJEMA6B); (R_20_
 | Totally agree | 36427 |
 | Disagree | 1166 |
 | More than 1 check box filled in | 56 |
+| Not NA | 58358 |
 | NA | 283 |
 
 
@@ -3498,6 +3735,7 @@ R_22_1:SKJEMA6W; (R_22_1:SKJEMA6D); (R_22_1:SKJEMA6C); (R_22_1:SKJEMA6B); (R_22_
 | Yes | 58034 |
 | No | 341 |
 | More than 1 check box filled in | 10 |
+| Not NA | 58385 |
 | NA | 256 |
 
 
@@ -3510,6 +3748,7 @@ R_22_2:SKJEMA6W; (R_22_2:SKJEMA6D); (R_22_2:SKJEMA6C); (R_22_2:SKJEMA6B); (R_22_
 | Yes | 58327 |
 | No | 124 |
 | More than 1 check box filled in | 1 |
+| Not NA | 58452 |
 | NA | 189 |
 
 
@@ -3522,6 +3761,7 @@ R_22_3:SKJEMA6W; (R_22_3:SKJEMA6D); (R_22_3:SKJEMA6C); (R_22_3:SKJEMA6B); (R_22_
 | Yes | 56664 |
 | No | 1538 |
 | More than 1 check box filled in | 16 |
+| Not NA | 58218 |
 | NA | 423 |
 
 
@@ -3534,6 +3774,7 @@ R_22_4:SKJEMA6W; (R_22_4:SKJEMA6D); (R_22_4:SKJEMA6C); (R_22_4:SKJEMA6B); (R_22_
 | Yes | 57391 |
 | No | 901 |
 | More than 1 check box filled in | 4 |
+| Not NA | 58296 |
 | NA | 345 |
 
 
@@ -3546,6 +3787,7 @@ R_22_5:SKJEMA6W; (R_22_5:SKJEMA6D); (R_22_5:SKJEMA6C); (R_22_5:SKJEMA6B); (R_22_
 | Yes | 58307 |
 | No | 135 |
 | More than 1 check box filled in | 11 |
+| Not NA | 58453 |
 | NA | 188 |
 
 
@@ -3558,6 +3800,7 @@ R_22_6:SKJEMA6W; (R_22_6:SKJEMA6D); (R_22_6:SKJEMA6C); (R_22_6:SKJEMA6B); (R_22_
 | Yes | 57647 |
 | No | 628 |
 | More than 1 check box filled in | 10 |
+| Not NA | 58285 |
 | NA | 356 |
 
 
@@ -3570,6 +3813,7 @@ R_22_7:SKJEMA6W; (R_22_7:SKJEMA6D); (R_22_7:SKJEMA6C); (R_22_7:SKJEMA6B); (R_22_
 | Yes | 57974 |
 | No | 424 |
 | More than 1 check box filled in | 21 |
+| Not NA | 58419 |
 | NA | 222 |
 
 
@@ -3582,6 +3826,7 @@ R_22_8:SKJEMA6W; (R_22_8:SKJEMA6D); (R_22_8:SKJEMA6C); (R_22_8:SKJEMA6B); (R_22_
 | Yes | 57974 |
 | No | 394 |
 | More than 1 check box filled in | 21 |
+| Not NA | 58389 |
 | NA | 252 |
 
 
@@ -3594,6 +3839,7 @@ R_22_9:SKJEMA6W; (R_22_9:SKJEMA6D); (R_22_9:SKJEMA6C); (R_22_9:SKJEMA6B); (R_22_
 | No | 40145 |
 | Yes | 18073 |
 | More than 1 check box filled in | 66 |
+| Not NA | 58284 |
 | NA | 357 |
 
 
@@ -3606,6 +3852,7 @@ R_2210:SKJEMA6A; When your child has been left alone for some time, does he/she 
 | Yes | 1197 |
 | No | 30 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1228 |
 | NA | 57413 |
 
 
@@ -3618,6 +3865,7 @@ R_2211:SKJEMA6W; (R_2211:SKJEMA6D); (R_2211:SKJEMA6C); (R_2211:SKJEMA6B); (R_221
 | Yes | 57855 |
 | No | 549 |
 | More than 1 check box filled in | 4 |
+| Not NA | 58408 |
 | NA | 233 |
 
 
@@ -3630,6 +3878,7 @@ R_2212:SKJEMA6W; (R_2212:SKJEMA6D); (R_2212:SKJEMA6C); (R_2212:SKJEMA6B); (R_221
 | No | 31903 |
 | Yes | 25855 |
 | More than 1 check box filled in | 246 |
+| Not NA | 58004 |
 | NA | 637 |
 
 
@@ -3642,6 +3891,7 @@ R_2210:SKJEMA6W; (R_2210:SKJEMA6D); (R_2210:SKJEMA6C); (R_2210:SKJEMA6B); (R__81
 | No | 47390 |
 | Yes | 9355 |
 | More than 1 check box filled in | 60 |
+| Not NA | 56805 |
 | NA | 1836 |
 
 
@@ -3654,6 +3904,7 @@ R_23_1:SKJEMA6W; (R_23_1:SKJEMA6D); (R_23_1:SKJEMA6C); (R_23_1:SKJEMA6B); (R_23_
 | Yes | 57713 |
 | No | 607 |
 | More than 1 check box filled in | 4 |
+| Not NA | 58324 |
 | NA | 317 |
 
 
@@ -3666,6 +3917,7 @@ R_2520:SKJEMA6W; (R_2520:SKJEMA6D); (R_2520:SKJEMA6C); (R_2520:SKJEMA6B); (R_23_
 | Yes | 56158 |
 | No | 1933 |
 | More than 1 check box filled in | 6 |
+| Not NA | 58097 |
 | NA | 544 |
 
 
@@ -3678,6 +3930,7 @@ R_23_2:SKJEMA6W; (R_23_2:SKJEMA6D); (R_23_2:SKJEMA6C); (R_23_2:SKJEMA6B); (R_23_
 | Yes | 56350 |
 | No | 1816 |
 | More than 1 check box filled in | 21 |
+| Not NA | 58187 |
 | NA | 454 |
 
 
@@ -3690,6 +3943,7 @@ R_23_3:SKJEMA6W; (R_23_3:SKJEMA6D); (R_23_3:SKJEMA6C); (R_23_3:SKJEMA6B); (R_23_
 | No | 21969 |
 | Yes | 35409 |
 | More than 1 check box filled in | 32 |
+| Not NA | 57410 |
 | NA | 1231 |
 
 
@@ -3702,6 +3956,7 @@ R_23_4:SKJEMA6W; (R_23_4:SKJEMA6D); (R_23_4:SKJEMA6C); (R_23_4:SKJEMA6B); (R_23_
 | No | 35775 |
 | Yes | 22033 |
 | More than 1 check box filled in | 21 |
+| Not NA | 57829 |
 | NA | 812 |
 
 
@@ -3714,6 +3969,7 @@ R_23_5:SKJEMA6W; (R_23_5:SKJEMA6D); (R_23_5:SKJEMA6C); (R_23_5:SKJEMA6B); (R_23_
 | No | 35988 |
 | Yes | 21658 |
 | More than 1 check box filled in | 20 |
+| Not NA | 57666 |
 | NA | 975 |
 
 
@@ -3726,6 +3982,7 @@ R_23_6:SKJEMA6W; (R_23_6:SKJEMA6D); (R_23_6:SKJEMA6C); (R_23_6:SKJEMA6B); (R_23_
 | No | 40688 |
 | Yes | 16804 |
 | More than 1 check box filled in | 32 |
+| Not NA | 57524 |
 | NA | 1117 |
 
 
@@ -3738,6 +3995,7 @@ R_23_7:SKJEMA6W; (R_23_7:SKJEMA6D); (R_23_7:SKJEMA6C); (R_23_7:SKJEMA6B); (R_23_
 | No | 37388 |
 | Yes | 20256 |
 | More than 1 check box filled in | 24 |
+| Not NA | 57668 |
 | NA | 973 |
 
 
@@ -3750,6 +4008,7 @@ R_23_8:SKJEMA6W; (R_23_8:SKJEMA6D); (R_23_8:SKJEMA6C); (R_23_8:SKJEMA6B); (R_23_
 | No | 37961 |
 | Yes | 19833 |
 | More than 1 check box filled in | 31 |
+| Not NA | 57825 |
 | NA | 816 |
 
 
@@ -3762,6 +4021,7 @@ R_24_9:SKJEMA6W; (R_24_9:SKJEMA6D); (R_24_9:SKJEMA6C); (R_24_9:SKJEMA6B); (R_24_
 | Yes | 57980 |
 | More than 1 check box filled in | 6 |
 | No | 207 |
+| Not NA | 58193 |
 | NA | 448 |
 
 
@@ -3774,6 +4034,7 @@ R_2410:SKJEMA6W; (R_2410:SKJEMA6D); (R_2410:SKJEMA6C); (R_2410:SKJEMA6B); (R_24_
 | No | 34945 |
 | Yes | 22922 |
 | More than 1 check box filled in | 19 |
+| Not NA | 57886 |
 | NA | 755 |
 
 
@@ -3786,6 +4047,7 @@ R_2411:SKJEMA6W; (R_2411:SKJEMA6D); (R_2411:SKJEMA6C); (R_2411:SKJEMA6B); (R_24_
 | No | 47649 |
 | Yes | 10173 |
 | More than 1 check box filled in | 7 |
+| Not NA | 57829 |
 | NA | 812 |
 
 
@@ -3798,6 +4060,7 @@ R_2412:SKJEMA6W; (R_2412:SKJEMA6D); (R_2412:SKJEMA6C); (R_2412:SKJEMA6B); (R_24_
 | No | 38054 |
 | Yes | 19778 |
 | More than 1 check box filled in | 30 |
+| Not NA | 57862 |
 | NA | 779 |
 
 
@@ -3810,6 +4073,7 @@ R_2413:SKJEMA6W; (R_2413:SKJEMA6D); (R_2413:SKJEMA6C); (R_2413:SKJEMA6B); (R_24_
 | No | 45358 |
 | Yes | 12590 |
 | More than 1 check box filled in | 16 |
+| Not NA | 57964 |
 | NA | 677 |
 
 
@@ -3822,6 +4086,7 @@ R_2414:SKJEMA6W; (R_2414:SKJEMA6D); (R_2414:SKJEMA6C); (R_2414:SKJEMA6B); (R_24_
 | No | 52884 |
 | Yes | 5044 |
 | More than 1 check box filled in | 9 |
+| Not NA | 57937 |
 | NA | 704 |
 
 
@@ -3834,6 +4099,7 @@ R_2415:SKJEMA6W; (R_2415:SKJEMA6D); (R_2415:SKJEMA6C); (R_2415:SKJEMA6B); (R_24_
 | No | 55705 |
 | Yes | 2266 |
 | More than 1 check box filled in | 4 |
+| Not NA | 57975 |
 | NA | 666 |
 
 
@@ -3846,6 +4112,7 @@ R_2416:SKJEMA6W; (R_2416:SKJEMA6D); (R_2416:SKJEMA6C); (R_2416:SKJEMA6B); (R_24_
 | Yes | 43917 |
 | No | 13851 |
 | More than 1 check box filled in | 15 |
+| Not NA | 57783 |
 | NA | 858 |
 
 
@@ -3858,6 +4125,7 @@ R_2417:SKJEMA6W; (R_2417:SKJEMA6D); (R_2417:SKJEMA6C); (R_2417:SKJEMA6B); (R_24_
 | No | 53814 |
 | Yes | 4273 |
 | More than 1 check box filled in | 10 |
+| Not NA | 58097 |
 | NA | 544 |
 
 
@@ -3870,6 +4138,7 @@ R_2418:SKJEMA6W; (R_2418:SKJEMA6D); (R_2418:SKJEMA6C); (R_2418:SKJEMA6B); (R_241
 | No | 43073 |
 | Yes | 14758 |
 | More than 1 check box filled in | 17 |
+| Not NA | 57848 |
 | NA | 793 |
 
 
@@ -3882,6 +4151,7 @@ R_2519:SKJEMA6W; (R_2519:SKJEMA6D); (R_2519:SKJEMA6C); (R_2519:SKJEMA6B); (R_25_
 | Yes | 35458 |
 | No | 22516 |
 | More than 1 check box filled in | 49 |
+| Not NA | 58023 |
 | NA | 618 |
 
 
@@ -3894,6 +4164,7 @@ R_2521:SKJEMA6W; (R_2521:SKJEMA6D); (R_2521:SKJEMA6C); (R_2521:SKJEMA6B); (R_25_
 | Yes | 54939 |
 | No | 3119 |
 | More than 1 check box filled in | 7 |
+| Not NA | 58065 |
 | NA | 576 |
 
 
@@ -3906,6 +4177,7 @@ R_2522:SKJEMA6W; (R_2522:SKJEMA6D); (R_2522:SKJEMA6C); (R_2522:SKJEMA6B); (R_25_
 | Yes | 55962 |
 | No | 2107 |
 | More than 1 check box filled in | 4 |
+| Not NA | 58073 |
 | NA | 568 |
 
 
@@ -3918,6 +4190,7 @@ R_2523:SKJEMA6W; (R_2523:SKJEMA6D); (R_2523:SKJEMA6C); (R_2523:SKJEMA6B); (R_25_
 | No | 15461 |
 | Yes | 41409 |
 | More than 1 check box filled in | 16 |
+| Not NA | 56886 |
 | NA | 1755 |
 
 
@@ -3930,6 +4203,7 @@ R_2524:SKJEMA6W; (R_2524:SKJEMA6D); (R_2524:SKJEMA6C); (R_2524:SKJEMA6B); (R_25_
 | Yes | 53274 |
 | No | 4655 |
 | More than 1 check box filled in | 53 |
+| Not NA | 57982 |
 | NA | 659 |
 
 
@@ -3942,6 +4216,7 @@ R_2525:SKJEMA6W; (R_2525:SKJEMA6D); (R_2525:SKJEMA6C); (R_2525:SKJEMA6B); (R_25_
 | Yes | 50870 |
 | No | 6980 |
 | More than 1 check box filled in | 73 |
+| Not NA | 57923 |
 | NA | 718 |
 
 
@@ -3954,6 +4229,7 @@ R_2526:SKJEMA6W; (R_2526:SKJEMA6D); (R_2526:SKJEMA6C); (R_2526:SKJEMA6B); (R_25_
 | Yes | 56963 |
 | No | 1055 |
 | More than 1 check box filled in | 37 |
+| Not NA | 58055 |
 | NA | 586 |
 
 
@@ -3966,6 +4242,7 @@ R_2527:SKJEMA6W; (R_2527:SKJEMA6D); (R_2527:SKJEMA6C); (R_2527:SKJEMA6B); (R_25_
 | Yes | 57491 |
 | No | 573 |
 | More than 1 check box filled in | 108 |
+| Not NA | 58172 |
 | NA | 469 |
 
 
@@ -3978,6 +4255,7 @@ R_2528:SKJEMA6W; (R_2528:SKJEMA6D); (R_2528:SKJEMA6C); (R_2528:SKJEMA6B); (R_25_
 | Yes | 57434 |
 | No | 674 |
 | More than 1 check box filled in | 4 |
+| Not NA | 58112 |
 | NA | 529 |
 
 
@@ -3990,6 +4268,7 @@ R_2529:SKJEMA6W; (R_2529:SKJEMA6D); (R_2529:SKJEMA6C); (R_2529:SKJEMA6B); (R_251
 | Yes | 56570 |
 | No | 1617 |
 | More than 1 check box filled in | 5 |
+| Not NA | 58192 |
 | NA | 449 |
 
 
@@ -4002,6 +4281,7 @@ R_2530:SKJEMA6W; (R_2530:SKJEMA6D); (R_2530:SKJEMA6C); (R_2530:SKJEMA6B); (R_251
 | Yes | 57603 |
 | No | 524 |
 | More than 1 check box filled in | 4 |
+| Not NA | 58131 |
 | NA | 510 |
 
 
@@ -4014,6 +4294,7 @@ R_2531:SKJEMA6W; (R_2531:SKJEMA6D); (R_2531:SKJEMA6C); (R_2531:SKJEMA6B); (R_251
 | Yes | 56415 |
 | No | 1703 |
 | More than 1 check box filled in | 7 |
+| Not NA | 58125 |
 | NA | 516 |
 
 
@@ -4026,6 +4307,7 @@ R_2532:SKJEMA6W; (R_2532:SKJEMA6D); (R_2532:SKJEMA6C); (R_2532:SKJEMA6B); (R_251
 | Yes | 55715 |
 | More than 1 check box filled in | 12 |
 | No | 2112 |
+| Not NA | 57839 |
 | NA | 802 |
 
 
@@ -4038,6 +4320,7 @@ R_2533:SKJEMA6W; (R_2533:SKJEMA6D); (R_2533:SKJEMA6C); (R_2533:SKJEMA6B); (R_251
 | Yes | 58056 |
 | No | 102 |
 | More than 1 check box filled in | 3 |
+| Not NA | 58161 |
 | NA | 480 |
 
 
@@ -4050,6 +4333,7 @@ R_2534:SKJEMA6W; (R_2534:SKJEMA6D); (R_2534:SKJEMA6C); (R_2534:SKJEMA6B); (R_251
 | Yes | 55437 |
 | No | 2565 |
 | More than 1 check box filled in | 10 |
+| Not NA | 58012 |
 | NA | 629 |
 
 
@@ -4062,6 +4346,7 @@ R_2535:SKJEMA6W; (R_2535:SKJEMA6D); (R_2535:SKJEMA6C); (R_2535:SKJEMA6B); (R_251
 | Yes | 55195 |
 | No | 2834 |
 | More than 1 check box filled in | 10 |
+| Not NA | 58039 |
 | NA | 602 |
 
 
@@ -4074,6 +4359,7 @@ R_2536:SKJEMA6W; (R_2536:SKJEMA6D); (R_2536:SKJEMA6C); (R_2536:SKJEMA6B); (R_251
 | Yes | 56617 |
 | No | 1525 |
 | More than 1 check box filled in | 48 |
+| Not NA | 58190 |
 | NA | 451 |
 
 
@@ -4086,6 +4372,7 @@ R_2537:SKJEMA6W; (R_2537:SKJEMA6D); (R_2537:SKJEMA6C); (R_2537:SKJEMA6B); (R_251
 | Yes | 56098 |
 | No | 1502 |
 | More than 1 check box filled in | 281 |
+| Not NA | 57881 |
 | NA | 760 |
 
 
@@ -4098,6 +4385,7 @@ R_2538:SKJEMA6W; (R_2538:SKJEMA6D); (R_2538:SKJEMA6C); (R_2538:SKJEMA6B); (R_251
 | Yes | 56170 |
 | No | 1657 |
 | More than 1 check box filled in | 74 |
+| Not NA | 57901 |
 | NA | 740 |
 
 
@@ -4110,6 +4398,7 @@ R_2539:SKJEMA6W; (R_2539:SKJEMA6D); (R_2539:SKJEMA6C); (R_2539:SKJEMA6B); (R_252
 | Yes | 48005 |
 | No | 9130 |
 | More than 1 check box filled in | 31 |
+| Not NA | 57166 |
 | NA | 1475 |
 
 
@@ -4122,6 +4411,7 @@ R_2540:SKJEMA6W; (R_2540:SKJEMA6D); (R_2540:SKJEMA6C); (R_2540:SKJEMA6B); (R_252
 | Yes | 52958 |
 | No | 4799 |
 | More than 1 check box filled in | 33 |
+| Not NA | 57790 |
 | NA | 851 |
 
 
@@ -4135,6 +4425,7 @@ R_26_1:SKJEMA6W; (R_26_1:SKJEMA6D); (R_26_1:SKJEMA6C); (R_26_1:SKJEMA6B); (R_26_
 | Not sure | 1725 |
 | Yes | 890 |
 | More than 1 check box filled in | 16 |
+| Not NA | 58341 |
 | NA | 300 |
 
 
@@ -4148,6 +4439,7 @@ R_26_2:SKJEMA6W; (R_26_2:SKJEMA6D); (R_26_2:SKJEMA6C); (R_26_2:SKJEMA6B); (R_26_
 | Not sure | 328 |
 | Yes | 313 |
 | More than 1 check box filled in | 1 |
+| Not NA | 58334 |
 | NA | 307 |
 
 
@@ -4161,6 +4453,7 @@ R_26_3:SKJEMA6W; (R_26_3:SKJEMA6D); (R_26_3:SKJEMA6C); (R_26_3:SKJEMA6B); (R_26_
 | Not sure | 541 |
 | Yes | 348 |
 | More than 1 check box filled in | 7 |
+| Not NA | 58329 |
 | NA | 312 |
 
 
@@ -4174,6 +4467,7 @@ R_26_4:SKJEMA6W; (R_26_4:SKJEMA6D); (R_26_4:SKJEMA6C); (R_26_4:SKJEMA6B); (R_26_
 | Yes | 209 |
 | Not sure | 161 |
 | More than 1 check box filled in | 1 |
+| Not NA | 58314 |
 | NA | 327 |
 
 
@@ -4189,6 +4483,7 @@ R_27_1:SKJEMA6W; (R_27_1:SKJEMA6D); (R_27_1:SKJEMA6C); (R_27_1:SKJEMA6B); (R_27_
 | Quite typical | 4802 |
 | Very typical | 1259 |
 | More than 1 check box filled in | 9 |
+| Not NA | 58241 |
 | NA | 400 |
 
 
@@ -4204,6 +4499,7 @@ R_27_2:SKJEMA6W; (R_27_2:SKJEMA6D); (R_27_2:SKJEMA6C); (R_27_2:SKJEMA6B); (R_27_
 | Not at all typical | 561 |
 | Not so typical | 2850 |
 | More than 1 check box filled in | 21 |
+| Not NA | 58305 |
 | NA | 336 |
 
 
@@ -4219,6 +4515,7 @@ R_27_3:SKJEMA6W; (R_27_3:SKJEMA6D); (R_27_3:SKJEMA6C); (R_27_3:SKJEMA6B); (R_27_
 | Quite typical | 15788 |
 | Very typical | 8204 |
 | More than 1 check box filled in | 31 |
+| Not NA | 58289 |
 | NA | 352 |
 
 
@@ -4234,6 +4531,7 @@ R_27_4:SKJEMA6W; (R_27_4:SKJEMA6D); (R_27_4:SKJEMA6C); (R_27_4:SKJEMA6B); (R_27_
 | Not so typical | 8287 |
 | Not at all typical | 1818 |
 | More than 1 check box filled in | 20 |
+| Not NA | 58263 |
 | NA | 378 |
 
 
@@ -4249,6 +4547,7 @@ R_27_5:SKJEMA6W; (R_27_5:SKJEMA6D); (R_27_5:SKJEMA6C); (R_27_5:SKJEMA6B); (R_27_
 | Not so typical | 840 |
 | Not at all typical | 146 |
 | More than 1 check box filled in | 74 |
+| Not NA | 58317 |
 | NA | 324 |
 
 
@@ -4264,6 +4563,7 @@ R_27_6:SKJEMA6W; (R_27_6:SKJEMA6D); (R_27_6:SKJEMA6C); (R_27_6:SKJEMA6B); (R_27_
 | Quite typical | 5067 |
 | Very typical | 1172 |
 | More than 1 check box filled in | 43 |
+| Not NA | 58291 |
 | NA | 350 |
 
 
@@ -4279,6 +4579,7 @@ R_27_7:SKJEMA6W; (R_27_7:SKJEMA6D); (R_27_7:SKJEMA6C); (R_27_7:SKJEMA6B); (R_27_
 | Quite typical | 9016 |
 | Very typical | 2301 |
 | More than 1 check box filled in | 31 |
+| Not NA | 58191 |
 | NA | 450 |
 
 
@@ -4294,6 +4595,7 @@ R_27_8:SKJEMA6W; (R_27_8:SKJEMA6D); (R_27_8:SKJEMA6C); (R_27_8:SKJEMA6B); (R_27_
 | Quite typical | 2191 |
 | Very typical | 409 |
 | More than 1 check box filled in | 25 |
+| Not NA | 58236 |
 | NA | 405 |
 
 
@@ -4309,6 +4611,7 @@ R_27_9:SKJEMA6W; (R_27_9:SKJEMA6D); (R_27_9:SKJEMA6C); (R_27_9:SKJEMA6B); (R_27_
 | More than 1 check box filled in | 66 |
 | Not so typical | 162 |
 | Not at all typical | 84 |
+| Not NA | 58294 |
 | NA | 347 |
 
 
@@ -4324,6 +4627,7 @@ R_2710:SKJEMA6W; (R_2710:SKJEMA6D); (R_2710:SKJEMA6C); (R_2710:SKJEMA6B); (R_271
 | Not at all typical | 3971 |
 | Very typical | 6645 |
 | More than 1 check box filled in | 34 |
+| Not NA | 58065 |
 | NA | 576 |
 
 
@@ -4339,6 +4643,7 @@ R_2711:SKJEMA6W; (R_2711:SKJEMA6D); (R_2711:SKJEMA6C); (R_2711:SKJEMA6B); (R_271
 | Quite typical | 23179 |
 | Not at all typical | 1402 |
 | More than 1 check box filled in | 26 |
+| Not NA | 58236 |
 | NA | 405 |
 
 
@@ -4354,6 +4659,7 @@ R_2712:SKJEMA6W; (R_2712:SKJEMA6D); (R_2712:SKJEMA6C); (R_2712:SKJEMA6B); (R_271
 | Very typical | 3177 |
 | Not at all typical | 2355 |
 | More than 1 check box filled in | 22 |
+| Not NA | 57785 |
 | NA | 856 |
 
 
@@ -4369,6 +4675,7 @@ R_2713:SKJEMA6W; (R_2713:SKJEMA6D); (R_2713:SKJEMA6C); (R_2713:SKJEMA6B); (R_271
 | Neither/nor | 12574 |
 | Very typical | 2396 |
 | More than 1 check box filled in | 25 |
+| Not NA | 58256 |
 | NA | 385 |
 
 
@@ -4384,6 +4691,7 @@ R_2714:SKJEMA6W; (R_2714:SKJEMA6D); (R_2714:SKJEMA6C); (R_2714:SKJEMA6B); (R_271
 | Quite typical | 10852 |
 | Very typical | 5379 |
 | More than 1 check box filled in | 22 |
+| Not NA | 58319 |
 | NA | 322 |
 
 
@@ -4397,6 +4705,7 @@ R_28_1:SKJEMA6W; (R_28_1:SKJEMA6D); (R_28_1:SKJEMA6C); (R_28_1:SKJEMA6B); (R_28_
 | Not true | 28862 |
 | Very true or often true | 1950 |
 | More than 1 check box filled in | 12 |
+| Not NA | 58118 |
 | NA | 523 |
 
 
@@ -4410,6 +4719,7 @@ R_28_2:SKJEMA6W; (R_28_2:SKJEMA6D); (R_28_2:SKJEMA6C); (R_28_2:SKJEMA6B); (R_28_
 | Somewhat or sometimes true | 18449 |
 | Very true or often true | 1613 |
 | More than 1 check box filled in | 6 |
+| Not NA | 58141 |
 | NA | 500 |
 
 
@@ -4423,6 +4733,7 @@ R_28_3:SKJEMA6W; (R_28_3:SKJEMA6D); (R_28_3:SKJEMA6C); (R_28_3:SKJEMA6B); (R_28_
 | Somewhat or sometimes true | 14034 |
 | Very true or often true | 1636 |
 | More than 1 check box filled in | 19 |
+| Not NA | 58178 |
 | NA | 463 |
 
 
@@ -4436,6 +4747,7 @@ R_28_4:SKJEMA6W; (R_28_4:SKJEMA6D); (R_28_4:SKJEMA6C); (R_28_4:SKJEMA6B); (R_28_
 | Not true | 20249 |
 | Very true or often true | 5800 |
 | More than 1 check box filled in | 26 |
+| Not NA | 58154 |
 | NA | 487 |
 
 
@@ -4449,6 +4761,7 @@ R_28_5:SKJEMA6W; (R_28_5:SKJEMA6D); (R_28_5:SKJEMA6C); (R_28_5:SKJEMA6B); (R_28_
 | Somewhat or sometimes true | 21124 |
 | Very true or often true | 2181 |
 | More than 1 check box filled in | 20 |
+| Not NA | 58093 |
 | NA | 548 |
 
 
@@ -4462,6 +4775,7 @@ R_28_6:SKJEMA6W; (R_28_6:SKJEMA6D); (R_28_6:SKJEMA6C); (R_28_6:SKJEMA6B); (R_28_
 | Not true | 48912 |
 | Very true or often true | 2571 |
 | More than 1 check box filled in | 27 |
+| Not NA | 58165 |
 | NA | 476 |
 
 
@@ -4475,6 +4789,7 @@ R_28_7:SKJEMA6W; (R_28_7:SKJEMA6D); (R_28_7:SKJEMA6C); (R_28_7:SKJEMA6B); (R_28_
 | Very true or often true | 11516 |
 | Not true | 9927 |
 | More than 1 check box filled in | 36 |
+| Not NA | 58086 |
 | NA | 555 |
 
 
@@ -4488,6 +4803,7 @@ R_28_8:SKJEMA6W; (R_28_8:SKJEMA6D); (R_28_8:SKJEMA6C); (R_28_8:SKJEMA6B); (R_28_
 | Not true | 17195 |
 | Very true or often true | 6810 |
 | More than 1 check box filled in | 22 |
+| Not NA | 58076 |
 | NA | 565 |
 
 
@@ -4501,6 +4817,7 @@ R_28_9:SKJEMA6W; (R_28_9:SKJEMA6D); (R_28_9:SKJEMA6C); (R_28_9:SKJEMA6B); (R_28_
 | Somewhat or sometimes true | 11509 |
 | Very true or often true | 1288 |
 | More than 1 check box filled in | 17 |
+| Not NA | 58110 |
 | NA | 531 |
 
 
@@ -4514,6 +4831,7 @@ R_2810:SKJEMA6W; (R_2810:SKJEMA6D); (R_2810:SKJEMA6C); (R_2810:SKJEMA6B); (R_281
 | Very true or often true | 4412 |
 | Somewhat or sometimes true | 13486 |
 | More than 1 check box filled in | 32 |
+| Not NA | 58154 |
 | NA | 487 |
 
 
@@ -4527,6 +4845,7 @@ R_2811:SKJEMA6W; (R_2811:SKJEMA6D); (R_2811:SKJEMA6C); (R_2811:SKJEMA6B); (R_281
 | Not true | 36222 |
 | Very true or often true | 2832 |
 | More than 1 check box filled in | 23 |
+| Not NA | 58155 |
 | NA | 486 |
 
 
@@ -4540,6 +4859,7 @@ R_2812:SKJEMA6W; (R_2812:SKJEMA6D); (R_2812:SKJEMA6C); (R_2812:SKJEMA6B); (R_281
 | Somewhat or sometimes true | 13008 |
 | Very true or often true | 2467 |
 | More than 1 check box filled in | 9 |
+| Not NA | 57932 |
 | NA | 709 |
 
 
@@ -4553,6 +4873,7 @@ R_2813:SKJEMA6W; (R_2813:SKJEMA6D); (R_2813:SKJEMA6C); (R_2813:SKJEMA6B); (R_281
 | Somewhat or sometimes true | 6153 |
 | Very true or often true | 983 |
 | More than 1 check box filled in | 7 |
+| Not NA | 58026 |
 | NA | 615 |
 
 
@@ -4566,6 +4887,7 @@ R_2814:SKJEMA6W; (R_2814:SKJEMA6D); (R_2814:SKJEMA6C); (R_2814:SKJEMA6B); (R_281
 | Somewhat or sometimes true | 16631 |
 | Very true or often true | 1338 |
 | More than 1 check box filled in | 19 |
+| Not NA | 58111 |
 | NA | 530 |
 
 
@@ -4579,6 +4901,7 @@ R_2815:SKJEMA6W; (R_2815:SKJEMA6D); (R_2815:SKJEMA6C); (R_2815:SKJEMA6B); (R_281
 | Somewhat or sometimes true | 17066 |
 | Very true or often true | 2731 |
 | More than 1 check box filled in | 19 |
+| Not NA | 57972 |
 | NA | 669 |
 
 
@@ -4592,6 +4915,7 @@ R_2816:SKJEMA6W; (R_2816:SKJEMA6D); (R_2816:SKJEMA6C); (R_2816:SKJEMA6B); (R_281
 | Somewhat or sometimes true | 8920 |
 | Very true or often true | 629 |
 | More than 1 check box filled in | 16 |
+| Not NA | 58097 |
 | NA | 544 |
 
 
@@ -4605,6 +4929,7 @@ R_2817:SKJEMA6W; (R_2817:SKJEMA6D); (R_2817:SKJEMA6C); (R_2817:SKJEMA6B); (R_281
 | Somewhat or sometimes true | 20343 |
 | Very true or often true | 901 |
 | More than 1 check box filled in | 31 |
+| Not NA | 58140 |
 | NA | 501 |
 
 
@@ -4618,6 +4943,7 @@ R_2818:SKJEMA6W; (R_2818:SKJEMA6D); (R_2818:SKJEMA6C); (R_2818:SKJEMA6B); (R_281
 | Somewhat or sometimes true | 3656 |
 | Very true or often true | 582 |
 | More than 1 check box filled in | 10 |
+| Not NA | 58122 |
 | NA | 519 |
 
 
@@ -4631,6 +4957,7 @@ R_2819:SKJEMA6W; (R_2819:SKJEMA6D); (R_2819:SKJEMA6C); (R_2819:SKJEMA6B); (R_281
 | Somewhat or sometimes true | 15242 |
 | Very true or often true | 1959 |
 | More than 1 check box filled in | 25 |
+| Not NA | 57944 |
 | NA | 697 |
 
 
@@ -4644,6 +4971,7 @@ R_2820:SKJEMA6W; (R_2820:SKJEMA6D); (R_2820:SKJEMA6C); (R_2820:SKJEMA6B); (R_282
 | Very true or often true | 7807 |
 | Not true | 18173 |
 | More than 1 check box filled in | 25 |
+| Not NA | 58013 |
 | NA | 628 |
 
 
@@ -4657,6 +4985,7 @@ R_2821:SKJEMA6W; (R_2821:SKJEMA6D); (R_2821:SKJEMA6C); (R_2821:SKJEMA6B); (R_282
 | Somewhat or sometimes true | 19158 |
 | Very true or often true | 2877 |
 | More than 1 check box filled in | 31 |
+| Not NA | 58127 |
 | NA | 514 |
 
 
@@ -4670,6 +4999,7 @@ R_2822:SKJEMA6W; (R_2822:SKJEMA6D); (R_2822:SKJEMA6C); (R_2822:SKJEMA6B); (R_282
 | Not true | 49564 |
 | Very true or often true | 928 |
 | More than 1 check box filled in | 14 |
+| Not NA | 58103 |
 | NA | 538 |
 
 
@@ -4683,6 +5013,7 @@ R_2823:SKJEMA6W; (R_2823:SKJEMA6D); (R_2823:SKJEMA6C); (R_2823:SKJEMA6B); (R_282
 | Very true or often true | 3339 |
 | Somewhat or sometimes true | 17783 |
 | More than 1 check box filled in | 19 |
+| Not NA | 58065 |
 | NA | 576 |
 
 
@@ -4696,6 +5027,7 @@ R_2824:SKJEMA6W; (R_2824:SKJEMA6D); (R_2824:SKJEMA6C); (R_2824:SKJEMA6B); (R_282
 | Somewhat or sometimes true | 6429 |
 | Very true or often true | 441 |
 | More than 1 check box filled in | 11 |
+| Not NA | 58104 |
 | NA | 537 |
 
 
@@ -4709,6 +5041,7 @@ R_2825:SKJEMA6W; (R_2825:SKJEMA6D); (R_2825:SKJEMA6C); (R_2825:SKJEMA6B); (R_282
 | Somewhat or sometimes true | 996 |
 | Very true or often true | 186 |
 | More than 1 check box filled in | 6 |
+| Not NA | 58163 |
 | NA | 478 |
 
 
@@ -4722,6 +5055,7 @@ R_2826:SKJEMA6W; (R_2826:SKJEMA6D); (R_2826:SKJEMA6C); (R_2826:SKJEMA6B); (R_282
 | Somewhat or sometimes true | 8587 |
 | Very true or often true | 1099 |
 | More than 1 check box filled in | 19 |
+| Not NA | 58142 |
 | NA | 499 |
 
 
@@ -4735,6 +5069,7 @@ R_29_1:SKJEMA6W; (R_29_1:SKJEMA6D); (R_29_1:SKJEMA6C); (R_29_1:SKJEMA6B); (R_29_
 | Very true or often true | 9278 |
 | Not true | 9161 |
 | More than 1 check box filled in | 13 |
+| Not NA | 57860 |
 | NA | 781 |
 
 
@@ -4748,6 +5083,7 @@ R_29_2:SKJEMA6W; (R_29_2:SKJEMA6D); (R_29_2:SKJEMA6C); (R_29_2:SKJEMA6B); (R_29_
 | Somewhat or sometimes true | 31342 |
 | Very true or often true | 3485 |
 | More than 1 check box filled in | 28 |
+| Not NA | 58092 |
 | NA | 549 |
 
 
@@ -4761,6 +5097,7 @@ R_29_3:SKJEMA6W; (R_29_3:SKJEMA6D); (R_29_3:SKJEMA6C); (R_29_3:SKJEMA6B); (R_29_
 | Not true | 38372 |
 | Very true or often true | 1050 |
 | More than 1 check box filled in | 14 |
+| Not NA | 57985 |
 | NA | 656 |
 
 
@@ -4774,6 +5111,7 @@ R_29_4:SKJEMA6W; (R_29_4:SKJEMA6D); (R_29_4:SKJEMA6C); (R_29_4:SKJEMA6B); (R_29_
 | Not true | 31353 |
 | Very true or often true | 5494 |
 | More than 1 check box filled in | 20 |
+| Not NA | 58008 |
 | NA | 633 |
 
 
@@ -4787,6 +5125,7 @@ R_29_5:SKJEMA6W; (R_29_5:SKJEMA6D); (R_29_5:SKJEMA6C); (R_29_5:SKJEMA6B); (R_29_
 | Somewhat or sometimes true | 12935 |
 | Very true or often true | 4180 |
 | More than 1 check box filled in | 17 |
+| Not NA | 57864 |
 | NA | 777 |
 
 
@@ -4800,6 +5139,7 @@ R_29_6:SKJEMA6W; (R_29_6:SKJEMA6D); (R_29_6:SKJEMA6C); (R_29_6:SKJEMA6B); (R_29_
 | Somewhat or sometimes true | 3572 |
 | Very true or often true | 647 |
 | More than 1 check box filled in | 9 |
+| Not NA | 58009 |
 | NA | 632 |
 
 
@@ -4813,6 +5153,7 @@ R_29_7:SKJEMA6W; (R_29_7:SKJEMA6D); (R_29_7:SKJEMA6C); (R_29_7:SKJEMA6B); (R_29_
 | Not true | 34600 |
 | Very true or often true | 1606 |
 | More than 1 check box filled in | 28 |
+| Not NA | 58060 |
 | NA | 581 |
 
 
@@ -4826,6 +5167,7 @@ R_29_8:SKJEMA6W; (R_29_8:SKJEMA6D); (R_29_8:SKJEMA6C); (R_29_8:SKJEMA6B); (R_29_
 | Somewhat or sometimes true | 3002 |
 | Very true or often true | 624 |
 | More than 1 check box filled in | 3 |
+| Not NA | 58031 |
 | NA | 610 |
 
 
@@ -4839,6 +5181,7 @@ R_29_9:SKJEMA6W; (R_29_9:SKJEMA6D); (R_29_9:SKJEMA6C); (R_29_9:SKJEMA6B); (R_29_
 | Not true | 46930 |
 | Very true or often true | 1092 |
 | More than 1 check box filled in | 13 |
+| Not NA | 57998 |
 | NA | 643 |
 
 
@@ -4852,6 +5195,7 @@ R_2910:SKJEMA6W; (R_2910:SKJEMA6D); (R_2910:SKJEMA6C); (R_2910:SKJEMA6B); (R_291
 | Somewhat or sometimes true | 2695 |
 | Very true or often true | 240 |
 | More than 1 check box filled in | 11 |
+| Not NA | 58088 |
 | NA | 553 |
 
 
@@ -4865,6 +5209,7 @@ R_2911:SKJEMA6W; (R_2911:SKJEMA6D); (R_2911:SKJEMA6C); (R_2911:SKJEMA6B); (R_291
 | Somewhat or sometimes true | 10269 |
 | Very true or often true | 823 |
 | More than 1 check box filled in | 14 |
+| Not NA | 57965 |
 | NA | 676 |
 
 
@@ -4878,6 +5223,7 @@ R_2912:SKJEMA6W; (R_2912:SKJEMA6D); (R_2912:SKJEMA6C); (R_2912:SKJEMA6B); (R_291
 | Not true | 31453 |
 | Very true or often true | 3806 |
 | More than 1 check box filled in | 42 |
+| Not NA | 57996 |
 | NA | 645 |
 
 
@@ -4891,6 +5237,7 @@ R_2913:SKJEMA6W; (R_2913:SKJEMA6D); (R_2913:SKJEMA6C); (R_2913:SKJEMA6B); (R_291
 | Somewhat or sometimes true | 288 |
 | Very true or often true | 102 |
 | More than 1 check box filled in | 6 |
+| Not NA | 58067 |
 | NA | 574 |
 
 
@@ -4904,6 +5251,7 @@ R_2914:SKJEMA6W; (R_2914:SKJEMA6D); (R_2914:SKJEMA6C); (R_2914:SKJEMA6B); (R_291
 | Somewhat or sometimes true | 9113 |
 | Very true or often true | 386 |
 | More than 1 check box filled in | 21 |
+| Not NA | 58014 |
 | NA | 627 |
 
 
@@ -4917,6 +5265,7 @@ R_2915:SKJEMA6W; (R_2915:SKJEMA6D); (R_2915:SKJEMA6C); (R_2915:SKJEMA6B); (R_291
 | Somewhat or sometimes true | 6928 |
 | Very true or often true | 631 |
 | More than 1 check box filled in | 13 |
+| Not NA | 58066 |
 | NA | 575 |
 
 
@@ -4930,6 +5279,7 @@ R_2916:SKJEMA6W; (R_2916:SKJEMA6D); (R_2916:SKJEMA6C); (R_2916:SKJEMA6B); (R_291
 | Somewhat or sometimes true | 21944 |
 | Very true or often true | 3656 |
 | More than 1 check box filled in | 41 |
+| Not NA | 58010 |
 | NA | 631 |
 
 
@@ -4943,6 +5293,7 @@ R_2917:SKJEMA6W; (R_2917:SKJEMA6D); (R_2917:SKJEMA6C); (R_2917:SKJEMA6B); (R_291
 | Somewhat or sometimes true | 7789 |
 | Very true or often true | 1625 |
 | More than 1 check box filled in | 14 |
+| Not NA | 58010 |
 | NA | 631 |
 
 
@@ -4956,6 +5307,7 @@ R_2918:SKJEMA6W; (R_2918:SKJEMA6D); (R_2918:SKJEMA6C); (R_2918:SKJEMA6B); (R_291
 | Not true | 39310 |
 | Very true or often true | 2903 |
 | More than 1 check box filled in | 33 |
+| Not NA | 58066 |
 | NA | 575 |
 
 
@@ -4969,6 +5321,7 @@ R_2919:SKJEMA6W; (R_2919:SKJEMA6D); (R_2919:SKJEMA6C); (R_2919:SKJEMA6B); (R_291
 | Somewhat or sometimes true | 10655 |
 | More than 1 check box filled in | 46 |
 | Very true or often true | 998 |
+| Not NA | 58058 |
 | NA | 583 |
 
 
@@ -4982,6 +5335,7 @@ R_2920:SKJEMA6W; (R_2920:SKJEMA6D); (R_2920:SKJEMA6C); (R_2920:SKJEMA6B); (R_292
 | Somewhat or sometimes true | 24663 |
 | Very true or often true | 1718 |
 | More than 1 check box filled in | 21 |
+| Not NA | 58079 |
 | NA | 562 |
 
 
@@ -4995,6 +5349,7 @@ R_2921:SKJEMA6W; (R_2921:SKJEMA6D); (R_2921:SKJEMA6C); (R_2921:SKJEMA6B); (R_292
 | Somewhat or sometimes true | 1342 |
 | Very true or often true | 200 |
 | More than 1 check box filled in | 8 |
+| Not NA | 58098 |
 | NA | 543 |
 
 
@@ -5008,6 +5363,7 @@ R_2922:SKJEMA6W; (R_2922:SKJEMA6D); (R_2922:SKJEMA6C); (R_2922:SKJEMA6B); (R_292
 | Not true | 44671 |
 | Very true or often true | 1127 |
 | More than 1 check box filled in | 31 |
+| Not NA | 58102 |
 | NA | 539 |
 
 
@@ -5021,6 +5377,7 @@ R_2923:SKJEMA6W; (R_2923:SKJEMA6D); (R_2923:SKJEMA6C); (R_2923:SKJEMA6B); (R_292
 | Not true | 19781 |
 | Very true or often true | 3278 |
 | More than 1 check box filled in | 75 |
+| Not NA | 58032 |
 | NA | 609 |
 
 
@@ -5034,6 +5391,7 @@ R_2924:SKJEMA6W; (R_2924:SKJEMA6D); (R_2924:SKJEMA6C); (R_2924:SKJEMA6B); (R_292
 | Somewhat or sometimes true | 10858 |
 | Not true | 3258 |
 | More than 1 check box filled in | 39 |
+| Not NA | 57944 |
 | NA | 697 |
 
 
@@ -5047,6 +5405,7 @@ R_2925:SKJEMA6W; (R_2925:SKJEMA6D); (R_2925:SKJEMA6C); (R_2925:SKJEMA6B); (R_292
 | Somewhat or sometimes true | 12174 |
 | Very true or often true | 1170 |
 | More than 1 check box filled in | 24 |
+| Not NA | 57889 |
 | NA | 752 |
 
 
@@ -5060,6 +5419,7 @@ R_2926:SKJEMA6W; (R_2926:SKJEMA6D); (R_2926:SKJEMA6C); (R_2926:SKJEMA6B); (R_292
 | Somewhat or sometimes true | 2594 |
 | Very true or often true | 380 |
 | More than 1 check box filled in | 8 |
+| Not NA | 58041 |
 | NA | 600 |
 
 
@@ -5073,6 +5433,7 @@ R_2927:SKJEMA6W; (R_2927:SKJEMA6D); (R_2927:SKJEMA6C); (R_2927:SKJEMA6B); (R_292
 | Somewhat or sometimes true | 18169 |
 | Very true or often true | 6192 |
 | More than 1 check box filled in | 25 |
+| Not NA | 58062 |
 | NA | 579 |
 
 
@@ -5086,6 +5447,7 @@ R_2928:SKJEMA6W; (R_2928:SKJEMA6D); (R_2928:SKJEMA6C); (R_2928:SKJEMA6B); (R_292
 | Somewhat or sometimes true | 1247 |
 | Very true or often true | 84 |
 | More than 1 check box filled in | 5 |
+| Not NA | 58088 |
 | NA | 553 |
 
 
@@ -5099,6 +5461,7 @@ R_2929:SKJEMA6W; (R_2929:SKJEMA6D); (R_2929:SKJEMA6C); (R_2929:SKJEMA6B); (R_292
 | Very true or often true | 2300 |
 | Somewhat or sometimes true | 14221 |
 | More than 1 check box filled in | 34 |
+| Not NA | 58059 |
 | NA | 582 |
 
 
@@ -5114,6 +5477,7 @@ R_30_1:SKJEMA6W; (R_30_1:SKJEMA6D); (R_30_1:SKJEMA6C); (R_30_1:SKJEMA6B); (R_30_
 | Slightly disagree | 4969 |
 | Neither/nor | 10643 |
 | More than 1 check box filled in | 25 |
+| Not NA | 57185 |
 | NA | 1456 |
 
 
@@ -5129,6 +5493,7 @@ R_30_2:SKJEMA6W; (R_30_2:SKJEMA6D); (R_30_2:SKJEMA6C); (R_30_2:SKJEMA6B); (R_30_
 | Totally agree | 5775 |
 | Slightly agree | 9684 |
 | More than 1 check box filled in | 24 |
+| Not NA | 57113 |
 | NA | 1528 |
 
 
@@ -5144,6 +5509,7 @@ R_30_3:SKJEMA6W; (R_30_3:SKJEMA6D); (R_30_3:SKJEMA6C); (R_30_3:SKJEMA6B); (R_30_
 | Slightly agree | 5800 |
 | Totally agree | 1639 |
 | More than 1 check box filled in | 48 |
+| Not NA | 56931 |
 | NA | 1710 |
 
 
@@ -5159,6 +5525,7 @@ R_30_4:SKJEMA6W; (R_30_4:SKJEMA6D); (R_30_4:SKJEMA6C); (R_30_4:SKJEMA6B); (R_30_
 | Neither/nor | 7361 |
 | Totally agree | 10419 |
 | More than 1 check box filled in | 78 |
+| Not NA | 56947 |
 | NA | 1694 |
 
 
@@ -5174,6 +5541,7 @@ R_30_5:SKJEMA6W; (R_30_5:SKJEMA6D); (R_30_5:SKJEMA6C); (R_30_5:SKJEMA6B); (R_30_
 | Slightly disagree | 11031 |
 | Totally agree | 549 |
 | More than 1 check box filled in | 22 |
+| Not NA | 57079 |
 | NA | 1562 |
 
 
@@ -5189,6 +5557,7 @@ R_30_6:SKJEMA6W; (R_30_6:SKJEMA6D); (R_30_6:SKJEMA6C); (R_30_6:SKJEMA6B); (R_30_
 | Slightly agree | 4311 |
 | Totally agree | 824 |
 | More than 1 check box filled in | 18 |
+| Not NA | 57115 |
 | NA | 1526 |
 
 
@@ -5204,6 +5573,7 @@ R_30_7:SKJEMA6W; (R_30_7:SKJEMA6D); (R_30_7:SKJEMA6C); (R_30_7:SKJEMA6B); (R_30_
 | Slightly agree | 9871 |
 | Totally agree | 5152 |
 | More than 1 check box filled in | 36 |
+| Not NA | 56938 |
 | NA | 1703 |
 
 
@@ -5219,6 +5589,7 @@ R_30_8:SKJEMA6W; (R_30_8:SKJEMA6D); (R_30_8:SKJEMA6C); (R_30_8:SKJEMA6B); (R_30_
 | Slightly disagree | 10809 |
 | Slightly agree | 8598 |
 | More than 1 check box filled in | 47 |
+| Not NA | 56499 |
 | NA | 2142 |
 
 
@@ -5234,6 +5605,7 @@ R_30_9:SKJEMA6W; (R_30_9:SKJEMA6D); (R_30_9:SKJEMA6C); (R_30_9:SKJEMA6B); (R_30_
 | Slightly agree | 5281 |
 | Totally agree | 1283 |
 | More than 1 check box filled in | 21 |
+| Not NA | 56961 |
 | NA | 1680 |
 
 
@@ -5249,6 +5621,7 @@ R_3010:SKJEMA6W; (R_3010:SKJEMA6D); (R_3010:SKJEMA6C); (R_3010:SKJEMA6B); (R_301
 | Slightly disagree | 11519 |
 | Totally agree | 3225 |
 | More than 1 check box filled in | 16 |
+| Not NA | 57136 |
 | NA | 1505 |
 
 
@@ -5264,6 +5637,7 @@ R_3011:SKJEMA6W; (R_3011:SKJEMA6D); (R_3011:SKJEMA6C); (R_3011:SKJEMA6B); (R_301
 | Slightly agree | 15889 |
 | Slightly disagree | 7363 |
 | More than 1 check box filled in | 26 |
+| Not NA | 57278 |
 | NA | 1363 |
 
 
@@ -5279,6 +5653,7 @@ R_3012:SKJEMA6W; (R_3012:SKJEMA6D); (R_3012:SKJEMA6C); (R_3012:SKJEMA6B); (R_301
 | Totally agree | 3968 |
 | Slightly disagree | 10986 |
 | More than 1 check box filled in | 13 |
+| Not NA | 57177 |
 | NA | 1464 |
 
 
@@ -5291,6 +5666,7 @@ R_31_1:SKJEMA6W; (R_31_1:SKJEMA6D); (R_31_1:SKJEMA6C); (R_31_1:SKJEMA6B); (R_31_
 | No | 55453 |
 | Yes | 2611 |
 | More than 1 check box filled in | 26 |
+| Not NA | 58090 |
 | NA | 551 |
 
 
@@ -5303,6 +5679,7 @@ R_31_2:SKJEMA6W; (R_31_2:SKJEMA6D); (R_31_2:SKJEMA6C); (R_31_2:SKJEMA6B); (R_31_
 | No | 52305 |
 | Yes | 5832 |
 | More than 1 check box filled in | 9 |
+| Not NA | 58146 |
 | NA | 495 |
 
 
@@ -5315,6 +5692,7 @@ R_31_3:SKJEMA6W; (R_31_3:SKJEMA6D); (R_31_3:SKJEMA6C); (R_31_3:SKJEMA6B); (R_31_
 | No | 55926 |
 | Yes | 2172 |
 | More than 1 check box filled in | 9 |
+| Not NA | 58107 |
 | NA | 534 |
 
 
@@ -5327,6 +5705,7 @@ R_31_4:SKJEMA6W; (R_31_4:SKJEMA6D); (R_31_4:SKJEMA6C); (R_31_4:SKJEMA6B); (R_16_
 | No | 56281 |
 | Yes | 600 |
 | More than 1 check box filled in | 8 |
+| Not NA | 56889 |
 | NA | 1752 |
 
 
@@ -5339,6 +5718,7 @@ R_31_5:SKJEMA6W; (R_31_5:SKJEMA6D); (R_31_5:SKJEMA6C); (R_31_5:SKJEMA6B); (R_16_
 | No | 51305 |
 | Yes | 5026 |
 | More than 1 check box filled in | 16 |
+| Not NA | 56347 |
 | NA | 2294 |
 
 
@@ -5351,6 +5731,7 @@ R_32:SKJEMA6W; (R_32:SKJEMA6D); (R_32:SKJEMA6C); (R_32:SKJEMA6B); (R_32:SKJEMA6A
 | Yes | 54293 |
 | No | 3276 |
 | More than 1 check box filled in | 3 |
+| Not NA | 57572 |
 | NA | 1069 |
 
 
@@ -5367,6 +5748,7 @@ R_33_1:SKJEMA6W; (R_33_1:SKJEMA6D); (R_33_1:SKJEMA6C); (R_33_1:SKJEMA6B); (R_33_
 | At least once a week | 25 |
 | Less often than once a month | 5 |
 | At least once a month | 13 |
+| Not NA | 4226 |
 | NA | 54415 |
 
 
@@ -5383,6 +5765,7 @@ R_33_2:SKJEMA6W; (R_33_2:SKJEMA6D); (R_33_2:SKJEMA6C); (R_33_2:SKJEMA6B); (R_33_
 | Never | 402 |
 | Less often than once a month | 221 |
 | More than 1 check box filled in | 76 |
+| Not NA | 4255 |
 | NA | 54386 |
 
 
@@ -5398,6 +5781,7 @@ R_36_1:SKJEMA6W; (R_36_1:SKJEMA6D); (R_36_1:SKJEMA6C); (R_36_1:SKJEMA6B); (R_36_
 | Yes, daily | 179 |
 | Do not know | 362 |
 | More than 1 check box filled in | 13 |
+| Not NA | 57556 |
 | NA | 1085 |
 
 
@@ -5419,6 +5803,7 @@ R_36_2:SKJEMA6W; (R_36_2:SKJEMA6D); (R_36_2:SKJEMA6C); (R_36_2:SKJEMA6B); (R_36_
 | 10 | 6 |
 | 9 | 1 |
 | 7 | 4 |
+| Not NA | 789 |
 | NA | 57852 |
 
 
@@ -5435,6 +5820,7 @@ R_37:SKJEMA6W; (R_37:SKJEMA6D); (R_37:SKJEMA6C); (R_37:SKJEMA6B); (R_37:SKJEMA6A
 | (3+4) 1-3 hours a day on average + More than 3 hours a day | 210 |
 | Seldom | 124 |
 | (1+2) Seldom + Frequently, but less than one hour a day on average | 2 |
+| Not NA | 57396 |
 | NA | 1245 |
 
 
@@ -5450,6 +5836,7 @@ R_38:SKJEMA6W; (R_38:SKJEMA6D); (R_38:SKJEMA6C); (R_38:SKJEMA6B); (R_38:SKJEMA6A
 | Seldom/never | 2747 |
 | 4 hours or more | 117 |
 | More than 1 check box filled in | 1 |
+| Not NA | 57353 |
 | NA | 1288 |
 
 
@@ -5467,6 +5854,7 @@ R_41_1:SKJEMA6W; (R_41_1:SKJEMA6D); (R_41_1:SKJEMA6C); (R_41_1:SKJEMA6B); (R_40_
 | 4-6 times a week | 965 |
 | 4 or more times in 24 hours | 422 |
 | More than 1 check box filled in | 87 |
+| Not NA | 56273 |
 | NA | 2368 |
 
 
@@ -5484,6 +5872,7 @@ R_41_2:SKJEMA6W; (R_41_2:SKJEMA6D); (R_41_2:SKJEMA6C); (R_41_2:SKJEMA6B); (R_40_
 | 4-6 times a week | 4640 |
 | 4 or more times in 24 hours | 2557 |
 | More than 1 check box filled in | 89 |
+| Not NA | 56789 |
 | NA | 1852 |
 
 
@@ -5501,6 +5890,7 @@ R_41_4:SKJEMA6W; (R_41_4:SKJEMA6D); (R_41_4:SKJEMA6C); (R_41_4:SKJEMA6B); (R_40_
 | 4 or more times in 24 hours | 76 |
 | 3 times in 24 hours | 95 |
 | More than 1 check box filled in | 62 |
+| Not NA | 56634 |
 | NA | 2007 |
 
 
@@ -5518,6 +5908,7 @@ R_41_5:SKJEMA6W; (R_41_5:SKJEMA6D); (R_41_5:SKJEMA6C); (R_41_5:SKJEMA6B); (R_40_
 | Twice in 24 hours | 1869 |
 | More than 1 check box filled in | 136 |
 | 4 or more times in 24 hours | 128 |
+| Not NA | 56637 |
 | NA | 2004 |
 
 
@@ -5535,6 +5926,7 @@ R_41_6:SKJEMA6W; (R_41_6:SKJEMA6D); (R_41_6:SKJEMA6C); (R_41_6:SKJEMA6B); (R_40_
 | 3 times in 24 hours | 1160 |
 | 4 or more times in 24 hours | 336 |
 | More than 1 check box filled in | 61 |
+| Not NA | 57093 |
 | NA | 1548 |
 
 
@@ -5552,6 +5944,7 @@ R_41_7:SKJEMA6W; (R_41_7:SKJEMA6D); (R_41_7:SKJEMA6C); (R_41_7:SKJEMA6B); (R_40_
 | 3 times in 24 hours | 494 |
 | Once in 24 hours | 3628 |
 | More than 1 check box filled in | 45 |
+| Not NA | 56859 |
 | NA | 1782 |
 
 
@@ -5569,6 +5962,7 @@ R_41_8:SKJEMA6W; (R_41_8:SKJEMA6D); (R_41_8:SKJEMA6C); (R_41_8:SKJEMA6B); (R_40_
 | More than 1 check box filled in | 122 |
 | 4 or more times in 24 hours | 221 |
 | 3 times in 24 hours | 375 |
+| Not NA | 56451 |
 | NA | 2190 |
 
 
@@ -5586,6 +5980,7 @@ R_41_9:SKJEMA6W; (R_41_9:SKJEMA6D); (R_41_9:SKJEMA6C); (R_41_9:SKJEMA6B); (R_40_
 | Seldom/less than once a week | 3005 |
 | 3 times in 24 hours | 1827 |
 | More than 1 check box filled in | 56 |
+| Not NA | 57166 |
 | NA | 1475 |
 
 
@@ -5603,6 +5998,7 @@ R_4110:SKJEMA6W; (R_4110:SKJEMA6D); (R_4110:SKJEMA6C); (R_4110:SKJEMA6B); (R_40_
 | 3 times in 24 hours | 512 |
 | 4 or more times in 24 hours | 78 |
 | More than 1 check box filled in | 82 |
+| Not NA | 57058 |
 | NA | 1583 |
 
 
@@ -5620,6 +6016,7 @@ R_4111:SKJEMA6W; (R_4111:SKJEMA6D); (R_4111:SKJEMA6C); (R_4111:SKJEMA6B); (R_401
 | Twice in 24 hours | 4726 |
 | 3 times in 24 hours | 763 |
 | More than 1 check box filled in | 107 |
+| Not NA | 57129 |
 | NA | 1512 |
 
 
@@ -5637,6 +6034,7 @@ R_4112:SKJEMA6W; (R_4112:SKJEMA6D); (R_4112:SKJEMA6C); (R_4112:SKJEMA6B); (R_401
 | Twice in 24 hours | 3982 |
 | 3 times in 24 hours | 598 |
 | More than 1 check box filled in | 179 |
+| Not NA | 57083 |
 | NA | 1558 |
 
 
@@ -5654,6 +6052,7 @@ R_4113:SKJEMA6W; (R_4113:SKJEMA6D); (R_4113:SKJEMA6C); (R_4113:SKJEMA6B); (R_401
 | 3 times in 24 hours | 143 |
 | 4 or more times in 24 hours | 27 |
 | More than 1 check box filled in | 39 |
+| Not NA | 56879 |
 | NA | 1762 |
 
 
@@ -5671,6 +6070,7 @@ R_4114:SKJEMA6W; (R_4114:SKJEMA6D); (R_4114:SKJEMA6C); (R_4114:SKJEMA6B); (R_401
 | More than 1 check box filled in | 14 |
 | 4 or more times in 24 hours | 8 |
 | 3 times in 24 hours | 14 |
+| Not NA | 57092 |
 | NA | 1549 |
 
 
@@ -5688,6 +6088,7 @@ R_4115:SKJEMA6W; (R_4115:SKJEMA6D); (R_4115:SKJEMA6C); (R_4115:SKJEMA6B); (R_401
 | Twice in 24 hours | 712 |
 | 3 times in 24 hours | 175 |
 | 4 or more times in 24 hours | 60 |
+| Not NA | 18972 |
 | NA | 39669 |
 
 
@@ -5705,6 +6106,7 @@ R_4116:SKJEMA6W; (R_4116:SKJEMA6D); (R_4116:SKJEMA6C); (R_4116:SKJEMA6B); (R_401
 | 4 or more times in 24 hours | 600 |
 | Seldom/less than once a week | 537 |
 | More than 1 check box filled in | 96 |
+| Not NA | 57149 |
 | NA | 1492 |
 
 
@@ -5722,6 +6124,7 @@ R_4117:SKJEMA6W; (R_4117:SKJEMA6D); (R_4117:SKJEMA6C); (R_4117:SKJEMA6B); (R_401
 | More than 1 check box filled in | 41 |
 | 4 or more times in 24 hours | 14 |
 | 3 times in 24 hours | 22 |
+| Not NA | 57073 |
 | NA | 1568 |
 
 
@@ -5739,6 +6142,7 @@ R_4118:SKJEMA6W; (R_4118:SKJEMA6D); (R_4118:SKJEMA6C); (R_4118:SKJEMA6B); (R_401
 | More than 1 check box filled in | 21 |
 | 4 or more times in 24 hours | 4 |
 | 3 times in 24 hours | 6 |
+| Not NA | 57132 |
 | NA | 1509 |
 
 
@@ -5756,6 +6160,7 @@ R_4119:SKJEMA6W; (R_4119:SKJEMA6D); (R_4119:SKJEMA6C); (R_4119:SKJEMA6B); (R_401
 | More than 1 check box filled in | 19 |
 | 3 times in 24 hours | 7 |
 | Twice in 24 hours | 26 |
+| Not NA | 56997 |
 | NA | 1644 |
 
 
@@ -5773,6 +6178,7 @@ R_4120:SKJEMA6W; (R_4120:SKJEMA6D); (R_4120:SKJEMA6C); (R_4120:SKJEMA6B); (R_401
 | 3 times in 24 hours | 5 |
 | 4 or more times in 24 hours | 5 |
 | Twice in 24 hours | 42 |
+| Not NA | 57125 |
 | NA | 1516 |
 
 
@@ -5790,6 +6196,7 @@ R_4121:SKJEMA6W; (R_4121:SKJEMA6D); (R_4121:SKJEMA6C); (R_4121:SKJEMA6B); (R_402
 | More than 1 check box filled in | 18 |
 | 4 or more times in 24 hours | 2 |
 | 3 times in 24 hours | 4 |
+| Not NA | 57211 |
 | NA | 1430 |
 
 
@@ -5807,6 +6214,7 @@ R_4122:SKJEMA6W; (R_4122:SKJEMA6D); (R_4122:SKJEMA6C); (R_4122:SKJEMA6B); (R_402
 | More than 1 check box filled in | 34 |
 | Twice in 24 hours | 9 |
 | 3 times in 24 hours | 1 |
+| Not NA | 57183 |
 | NA | 1458 |
 
 
@@ -5824,6 +6232,7 @@ R_4123:SKJEMA6W; (R_4123:SKJEMA6D); (R_4123:SKJEMA6C); (R_4123:SKJEMA6B); (R_402
 | 4 or more times in 24 hours | 2 |
 | 3 times in 24 hours | 1 |
 | Twice in 24 hours | 6 |
+| Not NA | 57147 |
 | NA | 1494 |
 
 
@@ -5841,6 +6250,7 @@ R_4124:SKJEMA6W; (R_4124:SKJEMA6D); (R_4124:SKJEMA6C); (R_4124:SKJEMA6B); (R_402
 | More than 1 check box filled in | 15 |
 | Twice in 24 hours | 5 |
 | 4 or more times in 24 hours | 1 |
+| Not NA | 57181 |
 | NA | 1460 |
 
 
@@ -5857,6 +6267,7 @@ R_42_1:SKJEMA6W; (R_42_1:SKJEMA6D); (R_42_1:SKJEMA6C); (R_42_1:SKJEMA6B); (R_41:
 | 3rd Qu. | 4 |
 | Max. | 40 |
 | NA's | 2236 |
+| Not NA | 56405 |
 
 
 ### GG423
@@ -5873,6 +6284,7 @@ R_43_1:SKJEMA6W; (R_43_1:SKJEMA6D); (R_43_1:SKJEMA6C); (R_43_1:SKJEMA6B); (R_42_
 | Once a month or less often | 808 |
 | 5 or more times a week | 1686 |
 | More than 1 check box filled in | 30 |
+| Not NA | 56316 |
 | NA | 2325 |
 
 
@@ -5890,6 +6302,7 @@ R_43_2:SKJEMA6W; (R_43_2:SKJEMA6D); (R_43_2:SKJEMA6C); (R_43_2:SKJEMA6B); (R_42_
 | 3 times a week | 462 |
 | 5 or more times a week | 48 |
 | More than 1 check box filled in | 47 |
+| Not NA | 56784 |
 | NA | 1857 |
 
 
@@ -5907,6 +6320,7 @@ R_43_3:SKJEMA6W; (R_43_3:SKJEMA6D); (R_43_3:SKJEMA6C); (R_43_3:SKJEMA6B); (R_42_
 | 3 times a week | 428 |
 | 4 times a week | 40 |
 | More than 1 check box filled in | 43 |
+| Not NA | 56509 |
 | NA | 2132 |
 
 
@@ -5924,6 +6338,7 @@ R_43_4:SKJEMA6W; (R_43_4:SKJEMA6D); (R_43_4:SKJEMA6C); (R_43_4:SKJEMA6B); (R_42_
 | 3 times a week | 826 |
 | 4 times a week | 135 |
 | More than 1 check box filled in | 35 |
+| Not NA | 56826 |
 | NA | 1815 |
 
 
@@ -5941,6 +6356,7 @@ R_43_5:SKJEMA6W; (R_43_5:SKJEMA6D); (R_43_5:SKJEMA6C); (R_43_5:SKJEMA6B); (R_42_
 | 5 or more times a week | 61 |
 | 4 times a week | 63 |
 | More than 1 check box filled in | 33 |
+| Not NA | 56741 |
 | NA | 1900 |
 
 
@@ -5958,6 +6374,7 @@ R_43_6:SKJEMA6W; (R_43_6:SKJEMA6D); (R_43_6:SKJEMA6C); (R_43_6:SKJEMA6B); (R_42_
 | 4 times a week | 28 |
 | 3 times a week | 78 |
 | 5 or more times a week | 13 |
+| Not NA | 57038 |
 | NA | 1603 |
 
 
@@ -5975,6 +6392,7 @@ R_43_7:SKJEMA6W; (R_43_7:SKJEMA6D); (R_43_7:SKJEMA6C); (R_43_7:SKJEMA6B); (R_42_
 | 4 times a week | 8992 |
 | 5 or more times a week | 3872 |
 | More than 1 check box filled in | 121 |
+| Not NA | 56931 |
 | NA | 1710 |
 
 
@@ -5992,6 +6410,7 @@ R_43_8:SKJEMA6W; (R_43_8:SKJEMA6D); (R_43_8:SKJEMA6C); (R_43_8:SKJEMA6B); (R_42_
 | 5 or more times a week | 454 |
 | 4 times a week | 2019 |
 | More than 1 check box filled in | 54 |
+| Not NA | 56874 |
 | NA | 1767 |
 
 
@@ -6009,6 +6428,7 @@ R_43_9:SKJEMA6W; (R_43_9:SKJEMA6D); (R_43_9:SKJEMA6C); (R_43_9:SKJEMA6B); (R_42_
 | 5 or more times a week | 12 |
 | More than 1 check box filled in | 155 |
 | 4 times a week | 16 |
+| Not NA | 56931 |
 | NA | 1710 |
 
 
@@ -6026,6 +6446,7 @@ R_4310:SKJEMA6W; (R_4310:SKJEMA6D); (R_4310:SKJEMA6C); (R_4310:SKJEMA6B); (R_421
 | Once a month or less often | 5345 |
 | More than 1 check box filled in | 126 |
 | 5 or more times a week | 312 |
+| Not NA | 56981 |
 | NA | 1660 |
 
 
@@ -6043,6 +6464,7 @@ R_4311:SKJEMA6W; (R_4311:SKJEMA6D); (R_4311:SKJEMA6C); (R_4311:SKJEMA6B); (R_421
 | Once per week | 4803 |
 | 3 times a week | 12883 |
 | More than 1 check box filled in | 48 |
+| Not NA | 57030 |
 | NA | 1611 |
 
 
@@ -6060,6 +6482,7 @@ R_4312:SKJEMA6W; (R_4312:SKJEMA6D); (R_4312:SKJEMA6C); (R_4312:SKJEMA6B); (R_421
 | 4 times a week | 6546 |
 | Once per week | 8453 |
 | More than 1 check box filled in | 33 |
+| Not NA | 57121 |
 | NA | 1520 |
 
 
@@ -6077,6 +6500,7 @@ R_41_3:SKJEMA6W; (R_41_3:SKJEMA6D); (R_41_3:SKJEMA6C); (R_41_3:SKJEMA6B); Yogurt
 | More than 1 check box filled in | 89 |
 | 3 times in 24 hours | 44 |
 | 4 or more times in 24 hours | 30 |
+| Not NA | 54702 |
 | NA | 3939 |
 
 
@@ -6103,6 +6527,7 @@ R_42_2:SKJEMA6W; (R_42_2:SKJEMA6D); (R_42_2:SKJEMA6C); (R_42_2:SKJEMA6B); How ma
 | 14 | 1 |
 | 15 | 1 |
 | 20 | 1 |
+| Not NA | 52038 |
 | NA | 6603 |
 
 
@@ -6119,6 +6544,7 @@ R_44:SKJEMA6W; (R_44:SKJEMA6D); (R_44:SKJEMA6C); (R_44:SKJEMA6B); (R_43:SKJEMA6A
 | Other | 260 |
 | Separated/divorced | 805 |
 | Widow  | 80 |
+| Not NA | 56893 |
 | NA | 1748 |
 
 
@@ -6131,6 +6557,7 @@ R_45_1:SKJEMA6W; (R_45_1:SKJEMA6D); (R_45_1:SKJEMA6C); (R_45_1:SKJEMA6B); (R_44_
 | Yes | 44560 |
 | No | 11649 |
 | More than 1 check box filled in | 27 |
+| Not NA | 56236 |
 | NA | 2405 |
 
 
@@ -6147,6 +6574,7 @@ R_45_2:SKJEMA6W; (R_45_2:SKJEMA6D); (R_45_2:SKJEMA6C); (R_45_2:SKJEMA6B); (R_44_
 | 3rd Qu. | 37.5 |
 | Max. | 99.9 |
 | NA's | 17844 |
+| Not NA | 40797 |
 
 
 ### GG438
@@ -6156,6 +6584,7 @@ R_46_1:SKJEMA6W; (R_46_1:SKJEMA6D); (R_46_1:SKJEMA6C); (R_46_1:SKJEMA6B); (R_45_
 | Category | n |
 | -------- | - |
 | 1 | 33329 |
+| Not NA | 33329 |
 | NA | 25312 |
 
 
@@ -6166,6 +6595,7 @@ R_46_2:SKJEMA6W; (R_46_2:SKJEMA6D); (R_46_2:SKJEMA6C); (R_46_2:SKJEMA6B); (R_45_
 | Category | n |
 | -------- | - |
 | 1 | 8531 |
+| Not NA | 8531 |
 | NA | 50110 |
 
 
@@ -6176,6 +6606,7 @@ R_46_3:SKJEMA6W; (R_46_3:SKJEMA6D); (R_46_3:SKJEMA6C); (R_46_3:SKJEMA6B); (R_45_
 | Category | n |
 | -------- | - |
 | 1 | 1415 |
+| Not NA | 1415 |
 | NA | 57226 |
 
 
@@ -6186,6 +6617,7 @@ R_46_4:SKJEMA6W; (R_46_4:SKJEMA6D); (R_46_4:SKJEMA6C); (R_46_4:SKJEMA6B); (R_45_
 | Category | n |
 | -------- | - |
 | 1 | 2155 |
+| Not NA | 2155 |
 | NA | 56486 |
 
 
@@ -6196,6 +6628,7 @@ R_46_5:SKJEMA6W; (R_46_5:SKJEMA6D); (R_46_5:SKJEMA6C); (R_46_5:SKJEMA6B); (R_45_
 | Category | n |
 | -------- | - |
 | 1 | 1105 |
+| Not NA | 1105 |
 | NA | 57536 |
 
 
@@ -6212,6 +6645,7 @@ R_47:SKJEMA6W; (R_47:SKJEMA6D); (R_47:SKJEMA6C); (R_47:SKJEMA6B); (R_46:SKJEMA6A
 | 3rd Qu. | 20 |
 | Max. | 999 |
 | NA's | 15934 |
+| Not NA | 42707 |
 
 
 ### GG444
@@ -6221,6 +6655,7 @@ R_48_1:SKJEMA6W; (R_48_1:SKJEMA6D); (R_48_1:SKJEMA6C); (R_48_1:SKJEMA6B); (R_47_
 | Category | n |
 | -------- | - |
 | 1 | 11067 |
+| Not NA | 11067 |
 | NA | 47574 |
 
 
@@ -6231,6 +6666,7 @@ R_48_2_1:SKJEMA6W; (R_48_2_1:SKJEMA6D); (R_48_2_1:SKJEMA6C); (R_48_2_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 25464 |
+| Not NA | 25464 |
 | NA | 33177 |
 
 
@@ -6241,6 +6677,7 @@ R_48_3:SKJEMA6W; (R_48_3:SKJEMA6D); (R_48_3:SKJEMA6C); (R_48_3:SKJEMA6B); (R_47_
 | Category | n |
 | -------- | - |
 | 1 | 29060 |
+| Not NA | 29060 |
 | NA | 29581 |
 
 
@@ -6251,6 +6688,7 @@ R_48_4:SKJEMA6W; (R_48_4:SKJEMA6D); (R_48_4:SKJEMA6C); (R_48_4:SKJEMA6B); (R_47_
 | Category | n |
 | -------- | - |
 | 1 | 3276 |
+| Not NA | 3276 |
 | NA | 55365 |
 
 
@@ -6266,6 +6704,7 @@ R_49:SKJEMA6W; (R_49:SKJEMA6D); (R_49:SKJEMA6C); (R_49:SKJEMA6B); (R_48:SKJEMA6A
 | Usually | 672 |
 | Almost always | 234 |
 | More than 1 check box filled in | 15 |
+| Not NA | 55947 |
 | NA | 2694 |
 
 
@@ -6279,6 +6718,7 @@ R_50:SKJEMA6W; (R_50:SKJEMA6D); (R_50:SKJEMA6C); (R_50:SKJEMA6B); (R_49:SKJEMA6A
 | Yes, 1-2 people | 19959 |
 | No | 1767 |
 | More than 1 check box filled in | 9 |
+| Not NA | 55899 |
 | NA | 2742 |
 
 
@@ -6292,6 +6732,7 @@ R_51:SKJEMA6W; (R_51:SKJEMA6D); (R_51:SKJEMA6C); (R_51:SKJEMA6B); (R_50:SKJEMA6A
 | 2-8 times a month | 12098 |
 | Once a month or less | 657 |
 | More than 1 check box filled in | 15 |
+| Not NA | 55547 |
 | NA | 3094 |
 
 
@@ -6306,6 +6747,7 @@ R_51_1:SKJEMA6A; Felt depressed, sad, or down?; 51. Have you ever since you beca
 | Yes, during the last 2 years | 214 |
 | Yes, during the first year after childbirth | 100 |
 | More than 1 check box filled in | 16 |
+| Not NA | 1206 |
 | NA | 57435 |
 
 
@@ -6320,6 +6762,7 @@ R_51_2:SKJEMA6A; Had problems with you appetite or eaten too much?; 51. Have you
 | More than 1 check box filled in | 16 |
 | Yes, during pregnancy | 64 |
 | Yes, during the first year after childbirth | 46 |
+| Not NA | 1207 |
 | NA | 57434 |
 
 
@@ -6334,6 +6777,7 @@ R_51_3:SKJEMA6A; Been feeling powerless or felt lack of surplus energy; 51. Have
 | More than 1 check box filled in | 17 |
 | Yes, during the first year after childbirth | 125 |
 | Yes, during pregnancy | 69 |
+| Not NA | 1206 |
 | NA | 57435 |
 
 
@@ -6348,6 +6792,7 @@ R_51_4:SKJEMA6A; Blamed yourself and felt valueless?; 51. Have you ever since yo
 | Yes, during pregnancy | 13 |
 | Yes, during the first year after childbirth | 34 |
 | More than 1 check box filled in | 3 |
+| Not NA | 1203 |
 | NA | 57438 |
 
 
@@ -6362,6 +6807,7 @@ R_51_5:SKJEMA6A; Had problems to concentrate or to make decisions?; 51. Have you
 | More than 1 check box filled in | 5 |
 | Yes, during the first year after childbirth | 40 |
 | Yes, during pregnancy | 13 |
+| Not NA | 1203 |
 | NA | 57438 |
 
 
@@ -6376,6 +6822,7 @@ R_51_6:SKJEMA6A; Had at least 3 of the problems mentioned above at the same time
 | Yes, during pregnancy | 10 |
 | More than 1 check box filled in | 5 |
 | Yes, during the first year after childbirth | 41 |
+| Not NA | 1201 |
 | NA | 57440 |
 
 
@@ -6386,6 +6833,7 @@ R_52_1_1:SKJEMA6W; (R_52_1_1:SKJEMA6D); (R_52_1_1:SKJEMA6C); (R_52_1_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 38112 |
+| Not NA | 38112 |
 | NA | 20529 |
 
 
@@ -6396,6 +6844,7 @@ R_52_1_2:SKJEMA6W; (R_52_1_2:SKJEMA6D); (R_52_1_2:SKJEMA6C); (R_52_1_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 2740 |
+| Not NA | 2740 |
 | NA | 55901 |
 
 
@@ -6406,6 +6855,7 @@ R_52_1_3:SKJEMA6W; (R_52_1_3:SKJEMA6D); (R_52_1_3:SKJEMA6C); (R_52_1_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 6327 |
+| Not NA | 6327 |
 | NA | 52314 |
 
 
@@ -6416,6 +6866,7 @@ R_52_1_4:SKJEMA6W; (R_52_1_4:SKJEMA6D); (R_52_1_4:SKJEMA6C); (R_52_1_4:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 11037 |
+| Not NA | 11037 |
 | NA | 47604 |
 
 
@@ -6426,6 +6877,7 @@ R_52_2_1:SKJEMA6W; (R_52_2_1:SKJEMA6D); (R_52_2_1:SKJEMA6C); (R_52_2_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 42468 |
+| Not NA | 42468 |
 | NA | 16173 |
 
 
@@ -6436,6 +6888,7 @@ R_52_2_2:SKJEMA6W; (R_52_2_2:SKJEMA6D); (R_52_2_2:SKJEMA6C); (R_52_2_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 3033 |
+| Not NA | 3033 |
 | NA | 55608 |
 
 
@@ -6446,6 +6899,7 @@ R_52_2_3:SKJEMA6W; (R_52_2_3:SKJEMA6D); (R_52_2_3:SKJEMA6C); (R_52_2_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 3112 |
+| Not NA | 3112 |
 | NA | 55529 |
 
 
@@ -6456,6 +6910,7 @@ R_52_2_4:SKJEMA6W; (R_52_2_4:SKJEMA6D); (R_52_2_4:SKJEMA6C); (R_52_2_4:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 8001 |
+| Not NA | 8001 |
 | NA | 50640 |
 
 
@@ -6466,6 +6921,7 @@ R_52_3_1:SKJEMA6W; (R_52_3_1:SKJEMA6D); (R_52_3_1:SKJEMA6C); (R_52_3_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 28400 |
+| Not NA | 28400 |
 | NA | 30241 |
 
 
@@ -6476,6 +6932,7 @@ R_52_3_2:SKJEMA6W; (R_52_3_2:SKJEMA6D); (R_52_3_2:SKJEMA6C); (R_52_3_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 4703 |
+| Not NA | 4703 |
 | NA | 53938 |
 
 
@@ -6486,6 +6943,7 @@ R_52_3_3:SKJEMA6W; (R_52_3_3:SKJEMA6D); (R_52_3_3:SKJEMA6C); (R_52_3_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 7155 |
+| Not NA | 7155 |
 | NA | 51486 |
 
 
@@ -6496,6 +6954,7 @@ R_52_3_4:SKJEMA6W; (R_52_3_4:SKJEMA6D); (R_52_3_4:SKJEMA6C); (R_52_3_4:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 17975 |
+| Not NA | 17975 |
 | NA | 40666 |
 
 
@@ -6506,6 +6965,7 @@ R_52_4_1:SKJEMA6W; (R_52_4_1:SKJEMA6D); (R_52_4_1:SKJEMA6C); (R_52_4_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 47171 |
+| Not NA | 47171 |
 | NA | 11470 |
 
 
@@ -6516,6 +6976,7 @@ R_52_4_2:SKJEMA6W; (R_52_4_2:SKJEMA6D); (R_52_4_2:SKJEMA6C); (R_52_4_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 631 |
+| Not NA | 631 |
 | NA | 58010 |
 
 
@@ -6526,6 +6987,7 @@ R_52_4_3:SKJEMA6W; (R_52_4_3:SKJEMA6D); (R_52_4_3:SKJEMA6C); (R_52_4_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 2438 |
+| Not NA | 2438 |
 | NA | 56203 |
 
 
@@ -6536,6 +6998,7 @@ R_52_4_4:SKJEMA6W; (R_52_4_4:SKJEMA6D); (R_52_4_4:SKJEMA6C); (R_52_4_4:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 5654 |
+| Not NA | 5654 |
 | NA | 52987 |
 
 
@@ -6546,6 +7009,7 @@ R_52_5_1:SKJEMA6W; (R_52_5_1:SKJEMA6D); (R_52_5_1:SKJEMA6C); (R_52_5_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 44705 |
+| Not NA | 44705 |
 | NA | 13936 |
 
 
@@ -6556,6 +7020,7 @@ R_52_5_2:SKJEMA6W; (R_52_5_2:SKJEMA6D); (R_52_5_2:SKJEMA6C); (R_52_5_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 864 |
+| Not NA | 864 |
 | NA | 57777 |
 
 
@@ -6566,6 +7031,7 @@ R_52_5_3:SKJEMA6W; (R_52_5_3:SKJEMA6D); (R_52_5_3:SKJEMA6C); (R_52_5_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 2836 |
+| Not NA | 2836 |
 | NA | 55805 |
 
 
@@ -6576,6 +7042,7 @@ R_52_5_4:SKJEMA6W; (R_52_5_4:SKJEMA6D); (R_52_5_4:SKJEMA6C); (R_52_5_4:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 7832 |
+| Not NA | 7832 |
 | NA | 50809 |
 
 
@@ -6586,6 +7053,7 @@ R_52_6_1:SKJEMA6W; (R_52_6_1:SKJEMA6D); (R_52_6_1:SKJEMA6C); (R_52_6_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 46034 |
+| Not NA | 46034 |
 | NA | 12607 |
 
 
@@ -6596,6 +7064,7 @@ R_52_6_2:SKJEMA6W; (R_52_6_2:SKJEMA6D); (R_52_6_2:SKJEMA6C); (R_52_6_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 646 |
+| Not NA | 646 |
 | NA | 57995 |
 
 
@@ -6606,6 +7075,7 @@ R_52_6_3:SKJEMA6W; (R_52_6_3:SKJEMA6D); (R_52_6_3:SKJEMA6C); (R_52_6_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 2261 |
+| Not NA | 2261 |
 | NA | 56380 |
 
 
@@ -6616,6 +7086,7 @@ R_52_6_4:SKJEMA6W; (R_52_6_4:SKJEMA6D); (R_52_6_4:SKJEMA6C); (R_52_6_4:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 6910 |
+| Not NA | 6910 |
 | NA | 51731 |
 
 
@@ -6628,6 +7099,7 @@ R_53:SKJEMA6W; (R_53:SKJEMA6D); (R_53:SKJEMA6C); (R_53:SKJEMA6B); (R_52:SKJEMA6A
 | No | 49901 |
 | Yes | 6417 |
 | More than 1 check box filled in | 4 |
+| Not NA | 56322 |
 | NA | 2319 |
 
 
@@ -6641,6 +7113,7 @@ R_53_1:SKJEMA6A; Physical problems; 53. Have you had any long lasting illnesses 
 | Yes, now | 114 |
 | More than 1 check box filled in | 43 |
 | Yes, used to have | 109 |
+| Not NA | 1177 |
 | NA | 57464 |
 
 
@@ -6654,6 +7127,7 @@ R_53_4:SKJEMA6A; Psychical problems; 53. Have you had any long lasting illnesses
 | Yes, used to have | 63 |
 | Yes, now | 26 |
 | More than 1 check box filled in | 8 |
+| Not NA | 1076 |
 | NA | 57565 |
 
 
@@ -6666,6 +7140,7 @@ R_55_1:SKJEMA6W; (R_55_1:SKJEMA6D); (R_55_1:SKJEMA6C); (R_55_1:SKJEMA6B); (R_54_
 | Yes | 21094 |
 | No | 34632 |
 | More than 1 check box filled in | 12 |
+| Not NA | 55738 |
 | NA | 2903 |
 
 
@@ -6682,6 +7157,7 @@ R_56_1_1:SKJEMA6W; (R_56_1_1:SKJEMA6C); (R_56_1_1:SKJEMA6B); (R_55_1_1:SKJEMA6A)
 | Once a day | 755 |
 | Never + 1-4 times a month | 5 |
 | Once a day + More than once a day | 1 |
+| Not NA | 45384 |
 | NA | 13257 |
 
 
@@ -6697,6 +7173,7 @@ R_56_1_2:SKJEMA6W; (R_56_1_2:SKJEMA6C); (R_56_1_2:SKJEMA6B); (R_55_1_2:SKJEMA6A)
 | (1+2) Drops + Small gushes | 32 |
 | (1+2+3) Drops + Small gushes + Large amounts | 1 |
 | (2+3) Small gushes + Large amounts | 3 |
+| Not NA | 15901 |
 | NA | 42740 |
 
 
@@ -6713,6 +7190,7 @@ R_56_2_1:SKJEMA6W; (R_56_2_1:SKJEMA6C); (R_56_2_1:SKJEMA6B); (R_55_2_1:SKJEMA6A)
 | More than once a day | 501 |
 | Never + 1-4 times a month | 3 |
 | More than 1 check box filled in | 1 |
+| Not NA | 45313 |
 | NA | 13328 |
 
 
@@ -6728,6 +7206,7 @@ R_56_2_2:SKJEMA6W; (R_56_2_2:SKJEMA6C); (R_56_2_2:SKJEMA6B); (R_55_2_2:SKJEMA6A)
 | (1+2) Drops + Small gushes | 24 |
 | (2+3) Small gushes + Large amounts | 7 |
 | (1+2+3) Drops + Small gushes + Large amounts | 1 |
+| Not NA | 12722 |
 | NA | 45919 |
 
 
@@ -6744,6 +7223,7 @@ R_56_3_1:SKJEMA6W; (R_56_3_1:SKJEMA6C); (R_56_3_1:SKJEMA6B); (R_55_3_1:SKJEMA6A)
 | More than once a day | 352 |
 | Never + 1-4 times a month | 3 |
 | 1-4 times a month + 1-6 times a week | 1 |
+| Not NA | 45313 |
 | NA | 13328 |
 
 
@@ -6759,6 +7239,7 @@ R_56_3_2:SKJEMA6W; (R_56_3_2:SKJEMA6C); (R_56_3_2:SKJEMA6B); (R_55_3_2:SKJEMA6A)
 | (1+2) Drops + Small gushes | 14 |
 | (2+3) Small gushes + Large amounts | 8 |
 | (1+2+3) Drops + Small gushes + Large amounts | 1 |
+| Not NA | 10036 |
 | NA | 48605 |
 
 
@@ -6775,6 +7256,7 @@ R_56_4:SKJEMA6W; (R_56_4:SKJEMA6C); (R_56_4:SKJEMA6B); (R_55_4:SKJEMA6A); Proble
 | More than once a day | 49 |
 | Never + 1-4 times a month | 3 |
 | More than 1 check box filled in | 1 |
+| Not NA | 45538 |
 | NA | 13103 |
 
 
@@ -6792,6 +7274,7 @@ R_56_5:SKJEMA6W; (R_56_5:SKJEMA6C); (R_56_5:SKJEMA6B); (R_55_5:SKJEMA6A); Proble
 | Once a day + More than once a day | 3 |
 | Never + 1-4 times a month | 5 |
 | 1-6 times a week + Once a day | 1 |
+| Not NA | 45513 |
 | NA | 13128 |
 
 
@@ -6808,6 +7291,7 @@ R_57_1:SKJEMA6W; (R_57_1:SKJEMA6D); (R_57_1:SKJEMA6C); (R_57_1:SKJEMA6B); (R_56_
 | Less than once per week | 9523 |
 | 3-4 times a week | 8041 |
 | More than 1 check box filled in | 37 |
+| Not NA | 46428 |
 | NA | 12213 |
 
 
@@ -6824,6 +7308,7 @@ R_57_2:SKJEMA6W; (R_57_2:SKJEMA6D); (R_57_2:SKJEMA6C); (R_57_2:SKJEMA6B); (R_56_
 | Less than once per week | 10161 |
 | 3-4 times a week | 7201 |
 | More than 1 check box filled in | 108 |
+| Not NA | 51771 |
 | NA | 6870 |
 
 
@@ -6840,6 +7325,7 @@ R_57_3:SKJEMA6W; (R_57_3:SKJEMA6D); (R_57_3:SKJEMA6C); (R_57_3:SKJEMA6B); (R_56_
 | Twice a week | 4597 |
 | Never | 17053 |
 | More than 1 check box filled in | 78 |
+| Not NA | 47513 |
 | NA | 11128 |
 
 
@@ -6856,6 +7342,7 @@ R_58:SKJEMA6W; (R_58:SKJEMA6D); (R_58:SKJEMA6C); (R_58:SKJEMA6B); (R_57:SKJEMA6A
 | Very poor | 381 |
 | (1+2) Very good + good | 12 |
 | (3+4) Poor + Very poor | 1 |
+| Not NA | 56403 |
 | NA | 2238 |
 
 
@@ -6866,6 +7353,7 @@ R_54_1_1:SKJEMA6W; (R_54_1_1:SKJEMA6D); (R_54_1_1:SKJEMA6C); (R_54_1_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 41725 |
+| Not NA | 41725 |
 | NA | 16916 |
 
 
@@ -6876,6 +7364,7 @@ R_54_1_2:SKJEMA6W; (R_54_1_2:SKJEMA6D); (R_54_1_2:SKJEMA6C); (R_54_1_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 7219 |
+| Not NA | 7219 |
 | NA | 51422 |
 
 
@@ -6886,6 +7375,7 @@ R_54_1_3:SKJEMA6W; (R_54_1_3:SKJEMA6D); (R_54_1_3:SKJEMA6C); (R_54_1_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 7595 |
+| Not NA | 7595 |
 | NA | 51046 |
 
 
@@ -6896,6 +7386,7 @@ R_54_4_1:SKJEMA6W; (R_54_4_1:SKJEMA6D); (R_54_4_1:SKJEMA6C); (R_54_4_1:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 44064 |
+| Not NA | 44064 |
 | NA | 14577 |
 
 
@@ -6906,6 +7397,7 @@ R_54_4_2:SKJEMA6W; (R_54_4_2:SKJEMA6D); (R_54_4_2:SKJEMA6C); (R_54_4_2:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 3264 |
+| Not NA | 3264 |
 | NA | 55377 |
 
 
@@ -6916,6 +7408,7 @@ R_54_4_3:SKJEMA6W; (R_54_4_3:SKJEMA6D); (R_54_4_3:SKJEMA6C); (R_54_4_3:SKJEMA6B)
 | Category | n |
 | -------- | - |
 | 1 | 2320 |
+| Not NA | 2320 |
 | NA | 56321 |
 
 
@@ -6928,6 +7421,7 @@ R_56_1:SKJEMA6D; ; 56.
 | Yes | 3524 |
 | No | 7225 |
 | More than 1 check box filled in | 3 |
+| Not NA | 10752 |
 | NA | 47889 |
 
 
@@ -6939,6 +7433,7 @@ R_56_2:SKJEMA6D; ; 56.
 | -------- | - |
 | No | 9070 |
 | Yes | 1616 |
+| Not NA | 10686 |
 | NA | 47955 |
 
 
@@ -6954,6 +7449,7 @@ R_56_3:SKJEMA6D; ; 56.
 | Every day and/or every night | 180 |
 | Less than once a month | 2678 |
 | More than 1 check box filled in | 6 |
+| Not NA | 10417 |
 | NA | 48224 |
 
 
@@ -6968,6 +7464,7 @@ R_56_4:SKJEMA6D; ; 56.
 | Drops/small amounts | 4256 |
 | Small dashes | 1040 |
 | More than 1 check box filled in | 32 |
+| Not NA | 10241 |
 | NA | 48400 |
 
 
@@ -6982,6 +7479,7 @@ R_59_1:SKJEMA6W; (R_59_1:SKJEMA6D); (R_59_1:SKJEMA6C); (R_59_1:SKJEMA6B); (R_58_
 | Smoke daily | 4415 |
 | 1+2 (Do not smoke + Smoke sometimes) | 3 |
 | 2+3 (Smoke sometimes + Smoke daily) | 20 |
+| Not NA | 56329 |
 | NA | 2312 |
 
 
@@ -6998,6 +7496,7 @@ R_59_2:SKJEMA6W; (R_59_2:SKJEMA6D); (R_59_2:SKJEMA6C); (R_59_2:SKJEMA6B); (R_58_
 | 3rd Qu. | 10 |
 | Max. | 80 |
 | NA's | 55291 |
+| Not NA | 3350 |
 
 
 ### GG481
@@ -7013,6 +7512,7 @@ R_59_3:SKJEMA6W; (R_59_3:SKJEMA6D); (R_59_3:SKJEMA6C); (R_59_3:SKJEMA6B); (R_58_
 | 3rd Qu. | 12 |
 | Max. | 70 |
 | NA's | 54152 |
+| Not NA | 4489 |
 
 
 ### GG482
@@ -7023,6 +7523,7 @@ R_60_1:SKJEMA6W; (R_60_1:SKJEMA6D); (R_60_1:SKJEMA6C); (R_60_1:SKJEMA6B); (R_59_
 | -------- | - |
 | 0 | 1922 |
 | 1 | 939 |
+| Not NA | 2861 |
 | NA | 55780 |
 
 
@@ -7034,6 +7535,7 @@ R_60_2:SKJEMA6W; (R_60_2:SKJEMA6D); (R_60_2:SKJEMA6C); (R_60_2:SKJEMA6B); (R_59_
 | -------- | - |
 | 0 | 1963 |
 | 1 | 230 |
+| Not NA | 2193 |
 | NA | 56448 |
 
 
@@ -7045,6 +7547,7 @@ R_60_3:SKJEMA6W; (R_60_3:SKJEMA6D); (R_60_3:SKJEMA6C); (R_60_3:SKJEMA6B); (R_59_
 | -------- | - |
 | 0 | 1971 |
 | 1 | 70 |
+| Not NA | 2041 |
 | NA | 56600 |
 
 
@@ -7056,6 +7559,7 @@ R_60_4:SKJEMA6W; (R_60_4:SKJEMA6D); (R_60_4:SKJEMA6C); (R_60_4:SKJEMA6B); (R_59_
 | -------- | - |
 | 0 | 1972 |
 | 1 | 57 |
+| Not NA | 2029 |
 | NA | 56612 |
 
 
@@ -7072,6 +7576,7 @@ R_61:SKJEMA6W; (R_61:SKJEMA6D); (R_61:SKJEMA6C); (R_61:SKJEMA6B); (R_60:SKJEMA6A
 | (7) Never | 13262 |
 | Approximately 4-5 times a week | 527 |
 | Approximately 6-7 times a week | 91 |
+| Not NA | 56257 |
 | NA | 2384 |
 
 
@@ -7088,6 +7593,7 @@ R_62_1:SKJEMA6W; (R_62_1:SKJEMA6D); (R_62_1:SKJEMA6C); (R_62_1:SKJEMA6B); (R_61_
 | 7-9 | 1614 |
 | 10 or more | 353 |
 | More than 1 check box filled in | 21 |
+| Not NA | 51067 |
 | NA | 7574 |
 
 
@@ -7104,6 +7610,7 @@ R_62_2:SKJEMA6W; (R_62_2:SKJEMA6D); (R_62_2:SKJEMA6C); (R_62_2:SKJEMA6B); (R_61_
 | 7-9 | 9 |
 | 5-6 | 31 |
 | 10 or more | 2 |
+| Not NA | 30073 |
 | NA | 28568 |
 
 
@@ -7115,6 +7622,7 @@ R_63_1:SKJEMA6W; (R_63_1:SKJEMA6D); (R_63_1:SKJEMA6C); (R_63_1:SKJEMA6B); (R_62_
 | -------- | - |
 | No | 55415 |
 | Yes | 959 |
+| Not NA | 56374 |
 | NA | 2267 |
 
 
@@ -7127,6 +7635,7 @@ R_63_2:SKJEMA6W; (R_63_2:SKJEMA6D); (R_63_2:SKJEMA6C); (R_63_2:SKJEMA6B); (R_62_
 | No | 55785 |
 | Yes | 462 |
 | More than 1 check box filled in | 2 |
+| Not NA | 56249 |
 | NA | 2392 |
 
 
@@ -7139,6 +7648,7 @@ R_64_1:SKJEMA6W; (R_64_1:SKJEMA6D); (R_64_1:SKJEMA6C); (R_64_1:SKJEMA6B); (R_63_
 | Yes | 37778 |
 | No | 18511 |
 | More than 1 check box filled in | 9 |
+| Not NA | 56298 |
 | NA | 2343 |
 
 
@@ -7151,6 +7661,7 @@ R_64_2:SKJEMA6W; (R_64_2:SKJEMA6D); (R_64_2:SKJEMA6C); (R_64_2:SKJEMA6B); (R_63_
 | No | 35352 |
 | Yes | 20843 |
 | More than 1 check box filled in | 8 |
+| Not NA | 56203 |
 | NA | 2438 |
 
 
@@ -7163,6 +7674,7 @@ R_64_3:SKJEMA6W; (R_64_3:SKJEMA6D); (R_64_3:SKJEMA6C); (R_64_3:SKJEMA6B); (R_63_
 | No | 52710 |
 | Yes | 3469 |
 | More than 1 check box filled in | 7 |
+| Not NA | 56186 |
 | NA | 2455 |
 
 
@@ -7175,6 +7687,7 @@ R_64_4:SKJEMA6W; (R_64_4:SKJEMA6D); (R_64_4:SKJEMA6C); (R_64_4:SKJEMA6B); (R_63_
 | No | 31967 |
 | Yes | 24066 |
 | More than 1 check box filled in | 41 |
+| Not NA | 56074 |
 | NA | 2567 |
 
 
@@ -7190,6 +7703,7 @@ R_65_1:SKJEMA6W; (R_65_1:SKJEMA6D); (R_65_1:SKJEMA6C); (R_65_1:SKJEMA6B); (R_64_
 | (2+3) 1-4 times a month + Seldom/never | 2 |
 | (1+2) At least twice a week + 1-4 times a month | 2 |
 | (1+3) At least twice a week + Seldom/never | 1 |
+| Not NA | 56483 |
 | NA | 2158 |
 
 
@@ -7203,6 +7717,7 @@ R_65_2:SKJEMA6W; (R_65_2:SKJEMA6D); (R_65_2:SKJEMA6C); (R_65_2:SKJEMA6B); (R_64_
 | 1-4 times a month | 571 |
 | At least twice a week | 304 |
 | (2+3) 1-4 times a month + Seldom/never | 1 |
+| Not NA | 56500 |
 | NA | 2141 |
 
 
@@ -7215,6 +7730,7 @@ R_65_3:SKJEMA6W; (R_65_3:SKJEMA6D); (R_65_3:SKJEMA6C); (R_65_3:SKJEMA6B); (R_64_
 | Seldom/never | 56085 |
 | 1-4 times a month | 232 |
 | At least twice a week | 161 |
+| Not NA | 56478 |
 | NA | 2163 |
 
 
@@ -7228,6 +7744,7 @@ R_65_4:SKJEMA6W; (R_65_4:SKJEMA6D); (R_65_4:SKJEMA6C); (R_65_4:SKJEMA6B); (R_64_
 | 1-4 times a month | 1042 |
 | At least twice a week | 360 |
 | (2+3) 1-4 times a month + Seldom/never | 2 |
+| Not NA | 56475 |
 | NA | 2166 |
 
 
@@ -7242,6 +7759,7 @@ R_65_5:SKJEMA6W; (R_65_5:SKJEMA6D); (R_65_5:SKJEMA6C); (R_65_5:SKJEMA6B); (R_64_
 | 1-4 times a month | 4512 |
 | (2+3) 1-4 times a month + Seldom/never | 7 |
 | (1+2) At least twice a week + 1-4 times a month | 6 |
+| Not NA | 56432 |
 | NA | 2209 |
 
 
@@ -7254,6 +7772,7 @@ R_66:SKJEMA6W; (R_66:SKJEMA6D); (R_66:SKJEMA6C); (R_66:SKJEMA6B); (R_65:SKJEMA6A
 | No | 54717 |
 | Yes | 710 |
 | More than 1 check box filled in | 3 |
+| Not NA | 55430 |
 | NA | 3211 |
 
 
@@ -7270,6 +7789,7 @@ R_67_1:SKJEMA6W; (R_67_1:SKJEMA6D); (R_67_1:SKJEMA6C); (R_67_1:SKJEMA6B); (R_66_
 | 3rd Qu. | 76 |
 | Max. | 680 |
 | NA's | 3104 |
+| Not NA | 55537 |
 
 
 ### GG502
@@ -7285,6 +7805,7 @@ R_67_2:SKJEMA6W; (R_67_2:SKJEMA6D); (R_67_2:SKJEMA6C); (R_67_2:SKJEMA6B); (R_66_
 | 3rd Qu. | 172 |
 | Max. | 192 |
 | NA's | 2463 |
+| Not NA | 56178 |
 
 
 ### GG503
@@ -7299,6 +7820,7 @@ R_68_1:SKJEMA6W; (R_68_1:SKJEMA6D); (R_68_1:SKJEMA6C); (R_68_1:SKJEMA6B); (R_67_
 | Sometimes | 14972 |
 | Very often | 501 |
 | More than 1 check box filled in | 10 |
+| Not NA | 56311 |
 | NA | 2330 |
 
 
@@ -7314,6 +7836,7 @@ R_68_2:SKJEMA6W; (R_68_2:SKJEMA6D); (R_68_2:SKJEMA6C); (R_68_2:SKJEMA6B); (R_67_
 | Often | 1052 |
 | More than 1 check box filled in | 5 |
 | Very often | 152 |
+| Not NA | 56314 |
 | NA | 2327 |
 
 
@@ -7329,6 +7852,7 @@ R_68_3:SKJEMA6W; (R_68_3:SKJEMA6D); (R_68_3:SKJEMA6C); (R_68_3:SKJEMA6B); (R_67_
 | Often | 5654 |
 | Very often | 791 |
 | More than 1 check box filled in | 13 |
+| Not NA | 56319 |
 | NA | 2322 |
 
 
@@ -7344,6 +7868,7 @@ R_68_4:SKJEMA6W; (R_68_4:SKJEMA6D); (R_68_4:SKJEMA6C); (R_68_4:SKJEMA6B); (R_67_
 | Often | 1822 |
 | Sometimes | 11005 |
 | More than 1 check box filled in | 27 |
+| Not NA | 56326 |
 | NA | 2315 |
 
 
@@ -7359,6 +7884,7 @@ R_68_5:SKJEMA6W; (R_68_5:SKJEMA6D); (R_68_5:SKJEMA6C); (R_68_5:SKJEMA6B); (R_67_
 | Often | 4880 |
 | Very often | 1026 |
 | More than 1 check box filled in | 18 |
+| Not NA | 56318 |
 | NA | 2323 |
 
 
@@ -7374,6 +7900,7 @@ R_68_6:SKJEMA6W; (R_68_6:SKJEMA6D); (R_68_6:SKJEMA6C); (R_68_6:SKJEMA6B); (R_67_
 | Often | 3017 |
 | More than 1 check box filled in | 20 |
 | Very often | 739 |
+| Not NA | 56331 |
 | NA | 2310 |
 
 
@@ -7390,6 +7917,7 @@ R_69_1:SKJEMA6W; (R_69_1:SKJEMA6D); (R_69_1:SKJEMA6C); (R_69_1:SKJEMA6B); (R_68_
 | Disagree somewhat | 4704 |
 | Agree | 2033 |
 | More than 1 check box filled in | 11 |
+| Not NA | 54376 |
 | NA | 4265 |
 
 
@@ -7406,6 +7934,7 @@ R_69_2:SKJEMA6W; (R_69_2:SKJEMA6D); (R_69_2:SKJEMA6C); (R_69_2:SKJEMA6B); (R_68_
 | Disagree somewhat | 3035 |
 | More than 1 check box filled in | 16 |
 | Strongly disagree | 687 |
+| Not NA | 54382 |
 | NA | 4259 |
 
 
@@ -7422,6 +7951,7 @@ R_69_3:SKJEMA6W; (R_69_3:SKJEMA6D); (R_69_3:SKJEMA6C); (R_69_3:SKJEMA6B); (R_68_
 | Disagree somewhat | 2564 |
 | Strongly disagree | 421 |
 | More than 1 check box filled in | 7 |
+| Not NA | 54396 |
 | NA | 4245 |
 
 
@@ -7438,6 +7968,7 @@ R_69_4:SKJEMA6W; (R_69_4:SKJEMA6D); (R_69_4:SKJEMA6C); (R_69_4:SKJEMA6B); (R_68_
 | Disagree somewhat | 2712 |
 | Strongly disagree | 624 |
 | More than 1 check box filled in | 7 |
+| Not NA | 54391 |
 | NA | 4250 |
 
 
@@ -7454,6 +7985,7 @@ R_69_5:SKJEMA6W; (R_69_5:SKJEMA6D); (R_69_5:SKJEMA6C); (R_69_5:SKJEMA6B); (R_68_
 | Strongly disagree | 332 |
 | Disagree | 715 |
 | More than 1 check box filled in | 27 |
+| Not NA | 54423 |
 | NA | 4218 |
 
 
@@ -7468,6 +8000,7 @@ R_70_1:SKJEMA6W; (R_70_1:SKJEMA6D); (R_70_1:SKJEMA6C); (R_70_1:SKJEMA6B); (R_69_
 | Quite bothered | 841 |
 | Very bothered | 248 |
 | More than 1 check box filled in | 6 |
+| Not NA | 56585 |
 | NA | 2056 |
 
 
@@ -7482,6 +8015,7 @@ R_70_2:SKJEMA6W; (R_70_2:SKJEMA6D); (R_70_2:SKJEMA6C); (R_70_2:SKJEMA6B); (R_69_
 | Quite bothered | 1659 |
 | Very bothered | 422 |
 | More than 1 check box filled in | 8 |
+| Not NA | 56576 |
 | NA | 2065 |
 
 
@@ -7496,6 +8030,7 @@ R_70_3:SKJEMA6W; (R_70_3:SKJEMA6D); (R_70_3:SKJEMA6C); (R_70_3:SKJEMA6B); (R_69_
 | Quite bothered | 1583 |
 | Very bothered | 469 |
 | More than 1 check box filled in | 14 |
+| Not NA | 56560 |
 | NA | 2081 |
 
 
@@ -7510,6 +8045,7 @@ R_70_4:SKJEMA6W; (R_70_4:SKJEMA6D); (R_70_4:SKJEMA6C); (R_70_4:SKJEMA6B); (R_69_
 | Quite bothered | 1715 |
 | Very bothered | 465 |
 | More than 1 check box filled in | 13 |
+| Not NA | 56550 |
 | NA | 2091 |
 
 
@@ -7524,6 +8060,7 @@ R_70_5:SKJEMA6W; (R_70_5:SKJEMA6D); (R_70_5:SKJEMA6C); (R_70_5:SKJEMA6B); (R_69_
 | Quite bothered | 2238 |
 | Very bothered | 550 |
 | More than 1 check box filled in | 10 |
+| Not NA | 56516 |
 | NA | 2125 |
 
 
@@ -7538,6 +8075,7 @@ R_70_6:SKJEMA6W; (R_70_6:SKJEMA6D); (R_70_6:SKJEMA6C); (R_70_6:SKJEMA6B); (R_69_
 | Very bothered | 910 |
 | Quite bothered | 3432 |
 | More than 1 check box filled in | 9 |
+| Not NA | 56535 |
 | NA | 2106 |
 
 
@@ -7552,6 +8090,7 @@ R_70_7:SKJEMA6W; (R_70_7:SKJEMA6D); (R_70_7:SKJEMA6C); (R_70_7:SKJEMA6B); (R_69_
 | Quite bothered | 2155 |
 | Very bothered | 494 |
 | More than 1 check box filled in | 8 |
+| Not NA | 56528 |
 | NA | 2113 |
 
 
@@ -7566,6 +8105,7 @@ R_70_8:SKJEMA6W; (R_70_8:SKJEMA6D); (R_70_8:SKJEMA6C); (R_70_8:SKJEMA6B); (R_69_
 | Quite bothered | 423 |
 | Very bothered | 147 |
 | More than 1 check box filled in | 3 |
+| Not NA | 56548 |
 | NA | 2093 |
 
 
@@ -7578,6 +8118,7 @@ R_71_1_1:SKJEMA6W; (R_71_1_1:SKJEMA6D); (R_71_1_1:SKJEMA6C); (R_71_1_1:SKJEMA6B)
 | No | 45187 |
 | Yes | 7938 |
 | More than 1 check box filled in | 3 |
+| Not NA | 53128 |
 | NA | 5513 |
 
 
@@ -7591,6 +8132,7 @@ R_71_1_2:SKJEMA6W; (R_71_1_2:SKJEMA6D); (R_71_1_2:SKJEMA6C); (R_71_1_2:SKJEMA6B)
 | Very painful/difficult | 1002 |
 | Painful/difficult | 3067 |
 | More than 1 check box filled in | 2 |
+| Not NA | 9848 |
 | NA | 48793 |
 
 
@@ -7603,6 +8145,7 @@ R_71_2_1:SKJEMA6W; (R_71_2_1:SKJEMA6D); (R_71_2_1:SKJEMA6C); (R_71_2_1:SKJEMA6B)
 | No | 46568 |
 | Yes | 6670 |
 | More than 1 check box filled in | 1 |
+| Not NA | 53239 |
 | NA | 5402 |
 
 
@@ -7616,6 +8159,7 @@ R_71_2_2:SKJEMA6W; (R_71_2_2:SKJEMA6D); (R_71_2_2:SKJEMA6C); (R_71_2_2:SKJEMA6B)
 | Painful/difficult | 1762 |
 | Very painful/difficult | 637 |
 | More than 1 check box filled in | 1 |
+| Not NA | 8495 |
 | NA | 50146 |
 
 
@@ -7628,6 +8172,7 @@ R_71_3_1:SKJEMA6W; (R_71_3_1:SKJEMA6D); (R_71_3_1:SKJEMA6C); (R_71_3_1:SKJEMA6B)
 | No | 54556 |
 | Yes | 1808 |
 | More than 1 check box filled in | 1 |
+| Not NA | 56365 |
 | NA | 2276 |
 
 
@@ -7640,6 +8185,7 @@ R_71_3_2:SKJEMA6W; (R_71_3_2:SKJEMA6D); (R_71_3_2:SKJEMA6C); (R_71_3_2:SKJEMA6B)
 | Not so bad | 332 |
 | Very painful/difficult | 586 |
 | Painful/difficult | 479 |
+| Not NA | 1397 |
 | NA | 57244 |
 
 
@@ -7652,6 +8198,7 @@ R_71_4_1:SKJEMA6W; (R_71_4_1:SKJEMA6D); (R_71_4_1:SKJEMA6C); (R_71_4_1:SKJEMA6B)
 | No | 46455 |
 | Yes | 7942 |
 | More than 1 check box filled in | 4 |
+| Not NA | 54401 |
 | NA | 4240 |
 
 
@@ -7665,6 +8212,7 @@ R_71_4_2:SKJEMA6W; (R_71_4_2:SKJEMA6D); (R_71_4_2:SKJEMA6C); (R_71_4_2:SKJEMA6B)
 | Painful/difficult | 3187 |
 | Very painful/difficult | 1196 |
 | More than 1 check box filled in | 4 |
+| Not NA | 8304 |
 | NA | 50337 |
 
 
@@ -7676,6 +8224,7 @@ R_71_5_1:SKJEMA6W; (R_71_5_1:SKJEMA6D); (R_71_5_1:SKJEMA6C); (R_71_5_1:SKJEMA6B)
 | -------- | - |
 | Yes | 3694 |
 | No | 51686 |
+| Not NA | 55380 |
 | NA | 3261 |
 
 
@@ -7689,6 +8238,7 @@ R_71_5_2:SKJEMA6W; (R_71_5_2:SKJEMA6D); (R_71_5_2:SKJEMA6C); (R_71_5_2:SKJEMA6B)
 | Painful/difficult | 1153 |
 | Very painful/difficult | 640 |
 | More than 1 check box filled in | 2 |
+| Not NA | 3697 |
 | NA | 54944 |
 
 
@@ -7701,6 +8251,7 @@ R_71_6_1:SKJEMA6W; (R_71_6_1:SKJEMA6D); (R_71_6_1:SKJEMA6C); (R_71_6_1:SKJEMA6B)
 | No | 53631 |
 | Yes | 2337 |
 | More than 1 check box filled in | 2 |
+| Not NA | 55970 |
 | NA | 2671 |
 
 
@@ -7714,6 +8265,7 @@ R_71_6_2:SKJEMA6W; (R_71_6_2:SKJEMA6D); (R_71_6_2:SKJEMA6C); (R_71_6_2:SKJEMA6B)
 | Painful/difficult | 909 |
 | Not so bad | 865 |
 | More than 1 check box filled in | 2 |
+| Not NA | 2276 |
 | NA | 56365 |
 
 
@@ -7726,6 +8278,7 @@ R_71_7_1:SKJEMA6W; (R_71_7_1:SKJEMA6D); (R_71_7_1:SKJEMA6C); (R_71_7_1:SKJEMA6B)
 | Yes | 9141 |
 | No | 46425 |
 | More than 1 check box filled in | 1 |
+| Not NA | 55567 |
 | NA | 3074 |
 
 
@@ -7739,6 +8292,7 @@ R_71_7_2:SKJEMA6W; (R_71_7_2:SKJEMA6D); (R_71_7_2:SKJEMA6C); (R_71_7_2:SKJEMA6B)
 | Very painful/difficult | 1995 |
 | Not so bad | 1665 |
 | More than 1 check box filled in | 3 |
+| Not NA | 6814 |
 | NA | 51827 |
 
 
@@ -7750,6 +8304,7 @@ R_71_8_1:SKJEMA6W; (R_71_8_1:SKJEMA6D); (R_71_8_1:SKJEMA6C); (R_71_8_1:SKJEMA6B)
 | -------- | - |
 | No | 56038 |
 | Yes | 440 |
+| Not NA | 56478 |
 | NA | 2163 |
 
 
@@ -7762,6 +8317,7 @@ R_71_8_2:SKJEMA6W; (R_71_8_2:SKJEMA6D); (R_71_8_2:SKJEMA6C); (R_71_8_2:SKJEMA6B)
 | Painful/difficult | 117 |
 | Not so bad | 188 |
 | Very painful/difficult | 57 |
+| Not NA | 362 |
 | NA | 58279 |
 
 
@@ -7774,6 +8330,7 @@ R_71_9_1:SKJEMA6W; (R_71_9_1:SKJEMA6D); (R_71_9_1:SKJEMA6C); (R_71_9_1:SKJEMA6B)
 | Yes | 7095 |
 | No | 48980 |
 | More than 1 check box filled in | 5 |
+| Not NA | 56080 |
 | NA | 2561 |
 
 
@@ -7787,6 +8344,7 @@ R_71_9_2:SKJEMA6W; (R_71_9_2:SKJEMA6D); (R_71_9_2:SKJEMA6C); (R_71_9_2:SKJEMA6B)
 | Painful/difficult | 2125 |
 | Not so bad | 1193 |
 | More than 1 check box filled in | 4 |
+| Not NA | 5000 |
 | NA | 53641 |
 
 
@@ -7799,6 +8357,7 @@ R_7110_1:SKJEMA6W; (R_7110_1:SKJEMA6D); (R_7110_1:SKJEMA6C); (R_7110_1:SKJEMA6B)
 | No | 38239 |
 | Yes | 1523 |
 | More than 1 check box filled in | 1 |
+| Not NA | 39763 |
 | NA | 18878 |
 
 
@@ -7812,6 +8371,7 @@ R_7110_2:SKJEMA6W; (R_7110_2:SKJEMA6D); (R_7110_2:SKJEMA6C); (R_7110_2:SKJEMA6B)
 | Painful/difficult | 837 |
 | Not so bad | 237 |
 | More than 1 check box filled in | 4 |
+| Not NA | 1714 |
 | NA | 56927 |
 
 
@@ -7827,6 +8387,7 @@ R_72_1:SKJEMA6W; (R_72_1:SKJEMA6D); (R_72_1:SKJEMA6C); (R_72_1:SKJEMA6B); Feel g
 | Seldom | 511 |
 | Seldom/never | 63 |
 | More than 1 check box filled in | 13 |
+| Not NA | 55387 |
 | NA | 3254 |
 
 
@@ -7842,6 +8403,7 @@ R_72_2:SKJEMA6W; (R_72_2:SKJEMA6D); (R_72_2:SKJEMA6C); (R_72_2:SKJEMA6B); Feel h
 | Seldom | 2254 |
 | Seldom/never | 323 |
 | More than 1 check box filled in | 10 |
+| Not NA | 55367 |
 | NA | 3274 |
 
 
@@ -7857,6 +8419,7 @@ R_72_3:SKJEMA6W; (R_72_3:SKJEMA6D); (R_72_3:SKJEMA6C); (R_72_3:SKJEMA6B); Feel j
 | Seldom | 7768 |
 | Seldom/never | 1445 |
 | More than 1 check box filled in | 14 |
+| Not NA | 55236 |
 | NA | 3405 |
 
 
@@ -7872,6 +8435,7 @@ R_72_4:SKJEMA6W; (R_72_4:SKJEMA6D); (R_72_4:SKJEMA6C); (R_72_4:SKJEMA6B); Feel l
 | Often | 1939 |
 | Very often | 341 |
 | More than 1 check box filled in | 21 |
+| Not NA | 55233 |
 | NA | 3408 |
 
 
@@ -7887,6 +8451,7 @@ R_72_5:SKJEMA6W; (R_72_5:SKJEMA6D); (R_72_5:SKJEMA6C); (R_72_5:SKJEMA6B); Feel a
 | Seldom/never | 4556 |
 | Very often | 759 |
 | More than 1 check box filled in | 12 |
+| Not NA | 55351 |
 | NA | 3290 |
 
 
@@ -7902,6 +8467,7 @@ R_72_6:SKJEMA6W; (R_72_6:SKJEMA6D); (R_72_6:SKJEMA6C); (R_72_6:SKJEMA6B); Feel m
 | Very often | 360 |
 | Often | 1513 |
 | More than 1 check box filled in | 13 |
+| Not NA | 55346 |
 | NA | 3295 |
 
 
@@ -7919,6 +8485,7 @@ R_73_1:SKJEMA6W; (R_73_1:SKJEMA6D); (R_73_1:SKJEMA6C); (R_73_1:SKJEMA6B); My lif
 | Disagree | 2711 |
 | Disagree completely | 982 |
 | More than 1 check box filled in | 17 |
+| Not NA | 55285 |
 | NA | 3356 |
 
 
@@ -7936,6 +8503,7 @@ R_73_2:SKJEMA6W; (R_73_2:SKJEMA6D); (R_73_2:SKJEMA6C); (R_73_2:SKJEMA6B); My lif
 | Disagree | 856 |
 | More than 1 check box filled in | 16 |
 | Disagree completely | 384 |
+| Not NA | 55256 |
 | NA | 3385 |
 
 
@@ -7953,6 +8521,7 @@ R_73_3:SKJEMA6W; (R_73_3:SKJEMA6D); (R_73_3:SKJEMA6C); (R_73_3:SKJEMA6B); I am s
 | Disagree | 1068 |
 | Disagree completely | 386 |
 | More than 1 check box filled in | 27 |
+| Not NA | 55330 |
 | NA | 3311 |
 
 
@@ -7970,6 +8539,7 @@ R_73_4:SKJEMA6W; (R_73_4:SKJEMA6D); (R_73_4:SKJEMA6C); (R_73_4:SKJEMA6B); I have
 | Disagree | 925 |
 | Disagree completely | 342 |
 | More than 1 check box filled in | 21 |
+| Not NA | 55263 |
 | NA | 3378 |
 
 
@@ -7987,6 +8557,7 @@ R_73_5:SKJEMA6W; (R_73_5:SKJEMA6D); (R_73_5:SKJEMA6C); (R_73_5:SKJEMA6B); If I c
 | Agree | 20352 |
 | Disagree completely | 1201 |
 | More than 1 check box filled in | 13 |
+| Not NA | 55273 |
 | NA | 3368 |
 
 
@@ -8004,6 +8575,7 @@ R_73_6:SKJEMA6W; (R_73_6:SKJEMA6D); (R_73_6:SKJEMA6C); (R_73_6:SKJEMA6B); I real
 | Neither agree nor disagree | 4349 |
 | Disagree | 1454 |
 | More than 1 check box filled in | 15 |
+| Not NA | 54555 |
 | NA | 4086 |
 
 
@@ -8018,6 +8590,7 @@ R_74_1:SKJEMA6W; (R_74_1:SKJEMA6D); (R_74_1:SKJEMA6C); (R_74_1:SKJEMA6B); I have
 | Disagree | 5280 |
 | Strongly disagree | 665 |
 | More than 1 check box filled in | 37 |
+| Not NA | 55277 |
 | NA | 3364 |
 
 
@@ -8032,6 +8605,7 @@ R_74_2:SKJEMA6W; (R_74_2:SKJEMA6D); (R_74_2:SKJEMA6C); (R_74_2:SKJEMA6B); I feel
 | Agree | 9582 |
 | Strongly agree | 1229 |
 | More than 1 check box filled in | 28 |
+| Not NA | 55271 |
 | NA | 3370 |
 
 
@@ -8046,6 +8620,7 @@ R_74_3:SKJEMA6W; (R_74_3:SKJEMA6D); (R_74_3:SKJEMA6C); (R_74_3:SKJEMA6B); I feel
 | Strongly agree | 959 |
 | Agree | 2650 |
 | More than 1 check box filled in | 34 |
+| Not NA | 55265 |
 | NA | 3376 |
 
 
@@ -8060,6 +8635,7 @@ R_74_4:SKJEMA6W; (R_74_4:SKJEMA6D); (R_74_4:SKJEMA6C); (R_74_4:SKJEMA6B); I feel
 | Strongly disagree | 667 |
 | Disagree | 2155 |
 | More than 1 check box filled in | 34 |
+| Not NA | 55260 |
 | NA | 3381 |
 
 
@@ -8075,6 +8651,7 @@ R_75_1:SKJEMA6W; (R_75_1:SKJEMA6D); (R_75_1:SKJEMA6C); (R_75_1:SKJEMA6B); What I
 | Totally agree | 2075 |
 | Neither/nor | 2357 |
 | More than 1 check box filled in | 3 |
+| Not NA | 55205 |
 | NA | 3436 |
 
 
@@ -8090,6 +8667,7 @@ R_75_2:SKJEMA6W; (R_75_2:SKJEMA6D); (R_75_2:SKJEMA6C); (R_75_2:SKJEMA6B); My chi
 | Neither/nor | 1551 |
 | Partially agree | 309 |
 | More than 1 check box filled in | 194 |
+| Not NA | 55318 |
 | NA | 3323 |
 
 
@@ -8105,6 +8683,7 @@ R_75_3:SKJEMA6W; (R_75_3:SKJEMA6D); (R_75_3:SKJEMA6C); (R_75_3:SKJEMA6B); Cuddle
 | Partially agree | 1205 |
 | Neither/nor | 205 |
 | More than 1 check box filled in | 23 |
+| Not NA | 55226 |
 | NA | 3415 |
 
 
@@ -8120,6 +8699,7 @@ R_75_4:SKJEMA6W; (R_75_4:SKJEMA6D); (R_75_4:SKJEMA6C); (R_75_4:SKJEMA6B); If my 
 | Disagree completely | 1479 |
 | Totally agree | 6762 |
 | More than 1 check box filled in | 18 |
+| Not NA | 54923 |
 | NA | 3718 |
 
 
@@ -8135,6 +8715,7 @@ R_75_5:SKJEMA6W; (R_75_5:SKJEMA6D); (R_75_5:SKJEMA6C); (R_75_5:SKJEMA6B); My lif
 | Partially agree | 5990 |
 | Totally agree | 1093 |
 | More than 1 check box filled in | 58 |
+| Not NA | 55081 |
 | NA | 3560 |
 
 
@@ -8150,6 +8731,7 @@ R_75_6:SKJEMA6W; (R_75_6:SKJEMA6D); (R_75_6:SKJEMA6C); (R_75_6:SKJEMA6B); I thin
 | Partially disagree | 835 |
 | Disagree completely | 1437 |
 | More than 1 check box filled in | 42 |
+| Not NA | 55281 |
 | NA | 3360 |
 
 
@@ -8165,6 +8747,7 @@ R_75_7:SKJEMA6W; (R_75_7:SKJEMA6D); (R_75_7:SKJEMA6C); (R_75_7:SKJEMA6B); It is 
 | Partially agree | 5649 |
 | Totally agree | 793 |
 | More than 1 check box filled in | 14 |
+| Not NA | 55238 |
 | NA | 3403 |
 
 
@@ -8180,6 +8763,7 @@ R_75_8:SKJEMA6W; (R_75_8:SKJEMA6D); (R_75_8:SKJEMA6C); (R_75_8:SKJEMA6B); Someti
 | Partially disagree | 15753 |
 | Totally agree | 1545 |
 | More than 1 check box filled in | 15 |
+| Not NA | 55311 |
 | NA | 3330 |
 
 
@@ -8195,6 +8779,7 @@ R_75_9:SKJEMA6W; (R_75_9:SKJEMA6D); (R_75_9:SKJEMA6C); (R_75_9:SKJEMA6B); It is 
 | Partially agree | 5717 |
 | Totally agree | 1057 |
 | More than 1 check box filled in | 34 |
+| Not NA | 55105 |
 | NA | 3536 |
 
 
@@ -8210,6 +8795,7 @@ ALDERUTSENDT:SKJEMA6C; (ALDERUTSENDT:SKJEMA6B); (ALDERUTSENDT:SKJEMA6A); (ALDERU
 | Mean | 1102.44772428847 |
 | 3rd Qu. | 1101 |
 | Max. | 3971 |
+| Not NA | 58641 |
 
 
 ### ALDERUTFYLT_S6
@@ -8225,6 +8811,7 @@ ALDERUTFYLT:SKJEMA6C; (ALDERUTFYLT:SKJEMA6B); (ALDERUTFYLT:SKJEMA6A); (ALDERUTFY
 | 3rd Qu. | 1127 |
 | Max. | 3958 |
 | NA's | 2199 |
+| Not NA | 56442 |
 
 
 ### ALDERRETUR_S6
@@ -8239,6 +8826,7 @@ ALDERRETUR:SKJEMA6C; (ALDERRETUR:SKJEMA6B); (ALDERRETUR:SKJEMA6A); (ALDERRETUR:S
 | Mean | 1133.63714807046 |
 | 3rd Qu. | 1141 |
 | Max. | 4040 |
+| Not NA | 58641 |
 
 
 ### Q6P1
@@ -8253,6 +8841,7 @@ Q6P1:SKJEMA6W; (Q6P1:SKJEMA6D); (Q6P1:SKJEMA6C); (Q6P1:SKJEMA6B); (Q6P1:SKJEMA6A
 | Mean | 16.196347265565 |
 | 3rd Qu. | 20 |
 | Max. | 33 |
+| Not NA | 58641 |
 
 
 ### Q6P2
@@ -8267,6 +8856,7 @@ Q6P2:SKJEMA6W; (Q6P2:SKJEMA6D); (Q6P2:SKJEMA6C); (Q6P2:SKJEMA6B); (Q6P2:SKJEMA6A
 | Mean | 27.4280281714159 |
 | 3rd Qu. | 28 |
 | Max. | 54 |
+| Not NA | 58641 |
 
 
 ### Q6P3
@@ -8281,6 +8871,7 @@ Q6P3:SKJEMA6W; (Q6P3:SKJEMA6D); (Q6P3:SKJEMA6C); (Q6P3:SKJEMA6B); (Q6P3:SKJEMA6A
 | Mean | 22.6661380262956 |
 | 3rd Qu. | 24 |
 | Max. | 48 |
+| Not NA | 58641 |
 
 
 ### Q6P4
@@ -8295,6 +8886,7 @@ Q6P4:SKJEMA6W; (Q6P4:SKJEMA6D); (Q6P4:SKJEMA6C); (Q6P4:SKJEMA6B); (Q6P4:SKJEMA6A
 | Mean | 16.7930458211831 |
 | 3rd Qu. | 20 |
 | Max. | 37 |
+| Not NA | 58641 |
 
 
 ### Q6P5
@@ -8309,6 +8901,7 @@ Q6P5:SKJEMA6W; (Q6P5:SKJEMA6D); (Q6P5:SKJEMA6C); (Q6P5:SKJEMA6B); (Q6P5:SKJEMA6A
 | Mean | 28.0201224399311 |
 | 3rd Qu. | 28 |
 | Max. | 44 |
+| Not NA | 58641 |
 
 
 ### Q6P6
@@ -8323,6 +8916,7 @@ Q6P6:SKJEMA6W; (Q6P6:SKJEMA6D); (Q6P6:SKJEMA6C); (Q6P6:SKJEMA6B); (Q6P6:SKJEMA6A
 | Mean | 27.4967173138248 |
 | 3rd Qu. | 28 |
 | Max. | 29 |
+| Not NA | 58641 |
 
 
 ### Q6P7
@@ -8338,6 +8932,7 @@ Q6P7:SKJEMA6W; (Q6P7:SKJEMA6D); (Q6P7:SKJEMA6C); (Q6P7:SKJEMA6B); (Q6P7:SKJEMA6A
 | 3rd Qu. | 30 |
 | Max. | 30 |
 | NA's | 734 |
+| Not NA | 57907 |
 
 
 ### Q6P8
@@ -8353,6 +8948,7 @@ Q6P8:SKJEMA6W; (Q6P8:SKJEMA6D); (Q6P8:SKJEMA6C); (Q6P8:SKJEMA6B); (Q6P8:SKJEMA6A
 | 3rd Qu. | 45 |
 | Max. | 45 |
 | NA's | 734 |
+| Not NA | 57907 |
 
 
 ### Q6P9
@@ -8368,6 +8964,7 @@ Q6P9:SKJEMA6W; (Q6P9:SKJEMA6D); (Q6P9:SKJEMA6C); (Q6P9:SKJEMA6B); (Q6P9:SKJEMA6A
 | 3rd Qu. | 30 |
 | Max. | 33 |
 | NA's | 734 |
+| Not NA | 57907 |
 
 
 ### Q6P10
@@ -8383,6 +8980,7 @@ Q6P10:SKJEMA6W; (Q6P10:SKJEMA6D); (Q6P10:SKJEMA6C); (Q6P10:SKJEMA6B); (Q6P10:SKJ
 | 3rd Qu. | 31 |
 | Max. | 39 |
 | NA's | 734 |
+| Not NA | 57907 |
 
 
 ### Q6P11
@@ -8398,6 +8996,7 @@ Q6P11:SKJEMA6W; (Q6P11:SKJEMA6D); (Q6P11:SKJEMA6C); (Q6P11:SKJEMA6B); (Q6P11:SKJ
 | 3rd Qu. | 28 |
 | Max. | 40 |
 | NA's | 734 |
+| Not NA | 57907 |
 
 
 ### Q6P12
@@ -8413,6 +9012,7 @@ Q6P12:SKJEMA6W; (Q6P12:SKJEMA6D); (Q6P12:SKJEMA6C); (Q6P12:SKJEMA6B); (Q6P12:SKJ
 | 3rd Qu. | 17 |
 | Max. | 25 |
 | NA's | 734 |
+| Not NA | 57907 |
 
 
 ### Q6P13
@@ -8428,6 +9028,7 @@ Q6P13:SKJEMA6W; (Q6P13:SKJEMA6D); (Q6P13:SKJEMA6C); (Q6P13:SKJEMA6B); (Q6P13:SKJ
 | 3rd Qu. | 22 |
 | Max. | 22 |
 | NA's | 734 |
+| Not NA | 57907 |
 
 
 ### Q6P14
@@ -8443,6 +9044,7 @@ Q6P14:SKJEMA6W; (Q6P14:SKJEMA6D); (Q6P14:SKJEMA6C); (Q6P14:SKJEMA6B); (Q6P14:SKJ
 | 3rd Qu. | 30 |
 | Max. | 39 |
 | NA's | 734 |
+| Not NA | 57907 |
 
 
 ### Q6P15
@@ -8471,6 +9073,7 @@ Q6P15:SKJEMA6W; (Q6P15:SKJEMA6D); (Q6P15:SKJEMA6C); (Q6P15:SKJEMA6B); (Q6P15:SKJ
 | 2 | 2 |
 | 5 | 2 |
 | 3 | 4 |
+| Not NA | 56673 |
 | NA | 1968 |
 
 
@@ -8480,6 +9083,7 @@ Q6P16:SKJEMA6W; (Q6P16:SKJEMA6D); (Q6P16:SKJEMA6C); (Q6P16:SKJEMA6B); (Q6P16:SKJ
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 58641 |
 
 

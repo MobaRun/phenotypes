@@ -392,6 +392,7 @@
 | 1 | 42888 |
 | 2 | 595 |
 | 3 | 4 |
+| Not NA | 43487 |
 | NA | 0 |
 
 
@@ -404,6 +405,7 @@
 | SKJEMA_8AAR | 4025 |
 | SKJEMA_8AARB | 3790 |
 | SKJEMA_8AARKORT | 229 |
+| Not NA | 43487 |
 | NA | 0 |
 
 
@@ -432,6 +434,7 @@ N__0_3:SKJEMA_8AARKORT; (N__0_3:SKJEMA_8AARC); (N__0_3:SKJEMA_8AARB); (N__0_3:SK
 | 2001 | 5 |
 | 2008 | 29 |
 | 2009 | 7 |
+| Not NA | 43063 |
 | NA | 424 |
 
 
@@ -445,6 +448,7 @@ N__1:SKJEMA_8AARKORT; (N__1:SKJEMA_8AARC); (N__1:SKJEMA_8AARB); (N__1:SKJEMA_8AA
 | Third grade | 25806 |
 | Fourth grade | 126 |
 | More than 1 check box filled in | 59 |
+| Not NA | 42962 |
 | NA | 525 |
 
 
@@ -461,6 +465,7 @@ N__2_1:SKJEMA_8AARKORT; (N__2_1:SKJEMA_8AARC); (N__2_1:SKJEMA_8AARB); (N__2_1:SK
 | 3-4 hours a week | 11551 |
 | Less than 1 hour a week | 583 |
 | More than 1 check box filled in | 18 |
+| Not NA | 43096 |
 | NA | 391 |
 
 
@@ -477,6 +482,7 @@ N__2_2:SKJEMA_8AARKORT; (N__2_2:SKJEMA_8AARC); (N__2_2:SKJEMA_8AARB); (N__2_2:SK
 | 11 hours a week or more | 2925 |
 | Less than 1 hour a week | 595 |
 | More than 1 check box filled in | 13 |
+| Not NA | 43042 |
 | NA | 445 |
 
 
@@ -491,6 +497,7 @@ N__3:SKJEMA_8AARKORT; (N__3:SKJEMA_8AARC); (N__3:SKJEMA_8AARB); (N__3:SKJEMA_8AA
 | 2-3 friends | 15667 |
 | None | 475 |
 | More than 1 check box filled in | 8 |
+| Not NA | 43256 |
 | NA | 231 |
 
 
@@ -506,6 +513,7 @@ N__4_1:SKJEMA_8AARKORT; (N__4_1:SKJEMA_8AARC); (N__4_1:SKJEMA_8AARB); (N__4_1:SK
 | Never / seldom | 2298 |
 | 6-7 days | 59 |
 | More than 1 check box filled in | 3 |
+| Not NA | 43372 |
 | NA | 115 |
 
 
@@ -521,6 +529,7 @@ N__4_2:SKJEMA_8AARKORT; (N__4_2:SKJEMA_8AARC); (N__4_2:SKJEMA_8AARB); (N__4_2:SK
 | 1 day | 6763 |
 | Never / seldom | 842 |
 | More than 1 check box filled in | 4 |
+| Not NA | 42852 |
 | NA | 635 |
 
 
@@ -536,6 +545,7 @@ N__5_1:SKJEMA_8AARKORT; (N__5_1:SKJEMA_8AARC); (N__5_1:SKJEMA_8AARB); (N__5_1:SK
 | 3-4 hours | 1919 |
 | 5 hours or more | 56 |
 | More than 1 check box filled in | 2 |
+| Not NA | 43333 |
 | NA | 154 |
 
 
@@ -551,6 +561,7 @@ N__5_2:SKJEMA_8AARKORT; (N__5_2:SKJEMA_8AARC); (N__5_2:SKJEMA_8AARB); (N__5_2:SK
 | 3-4 hours | 770 |
 | More than 1 check box filled in | 3 |
 | 5 hours or more | 37 |
+| Not NA | 43134 |
 | NA | 353 |
 
 
@@ -567,6 +578,7 @@ N__7_1:SKJEMA_8AARKORT; (N__7_1:SKJEMA_8AARC); (N__7_1:SKJEMA_8AARB); (N__7_1:SK
 | 3rd Qu. | 136 |
 | Max. | 181 |
 | NA's | 4418 |
+| Not NA | 39069 |
 
 
 ### NN25
@@ -582,6 +594,7 @@ N__7_2:SKJEMA_8AARKORT; (N__7_2:SKJEMA_8AARC); (N__7_2:SKJEMA_8AARB); (N__7_2:SK
 | 3rd Qu. | 31 |
 | Max. | 83.1 |
 | NA's | 5695 |
+| Not NA | 37792 |
 
 
 ### NN26
@@ -591,6 +604,7 @@ N__8_1:SKJEMA_8AARKORT; (N__8_1:SKJEMA_8AARC); (N__8_1:SKJEMA_8AARB); (N__8_1:SK
 | Category | n |
 | -------- | - |
 | 1 | 99 |
+| Not NA | 99 |
 | NA | 43388 |
 
 
@@ -601,6 +615,7 @@ N__8_2:SKJEMA_8AARKORT; (N__8_2:SKJEMA_8AARC); (N__8_2:SKJEMA_8AARB); (N__8_2:SK
 | Category | n |
 | -------- | - |
 | 1 | 128 |
+| Not NA | 128 |
 | NA | 43359 |
 
 
@@ -611,6 +626,7 @@ N__8_3:SKJEMA_8AARKORT; (N__8_3:SKJEMA_8AARC); (N__8_3:SKJEMA_8AARB); (N__8_3:SK
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 43481 |
 
 
@@ -621,6 +637,7 @@ N__8_4:SKJEMA_8AARKORT; (N__8_4:SKJEMA_8AARC); (N__8_4:SKJEMA_8AARB); (N__8_4:SK
 | Category | n |
 | -------- | - |
 | 1 | 242 |
+| Not NA | 242 |
 | NA | 43245 |
 
 
@@ -631,6 +648,7 @@ N__8_5:SKJEMA_8AARKORT; (N__8_5:SKJEMA_8AARC); (N__8_5:SKJEMA_8AARB); (N__8_5:SK
 | Category | n |
 | -------- | - |
 | 1 | 43 |
+| Not NA | 43 |
 | NA | 43444 |
 
 
@@ -641,6 +659,7 @@ N__8_6:SKJEMA_8AARKORT; (N__8_6:SKJEMA_8AARC); (N__8_6:SKJEMA_8AARB); (N__8_6:SK
 | Category | n |
 | -------- | - |
 | 1 | 409 |
+| Not NA | 409 |
 | NA | 43078 |
 
 
@@ -651,6 +670,7 @@ N__8_7:SKJEMA_8AARKORT; (N__8_7:SKJEMA_8AARC); (N__8_7:SKJEMA_8AARB); (N__8_7:SK
 | Category | n |
 | -------- | - |
 | 1 | 2494 |
+| Not NA | 2494 |
 | NA | 40993 |
 
 
@@ -661,6 +681,7 @@ N__8_8:SKJEMA_8AARKORT; (N__8_8:SKJEMA_8AARC); (N__8_8:SKJEMA_8AARB); (N__8_8:SK
 | Category | n |
 | -------- | - |
 | 1 | 84 |
+| Not NA | 84 |
 | NA | 43403 |
 
 
@@ -671,6 +692,7 @@ N__8_9_1:SKJEMA_8AARKORT; (N__8_9_1:SKJEMA_8AARC); (N__8_9_1:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 3369 |
+| Not NA | 3369 |
 | NA | 40118 |
 
 
@@ -681,6 +703,7 @@ N__9_1_1:SKJEMA_8AARKORT; (N__9_1_1:SKJEMA_8AARC); (N__9_1_1:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 40989 |
+| Not NA | 40989 |
 | NA | 2498 |
 
 
@@ -691,6 +714,7 @@ N__9_1_2:SKJEMA_8AARKORT; (N__9_1_2:SKJEMA_8AARC); (N__9_1_2:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 344 |
+| Not NA | 344 |
 | NA | 43143 |
 
 
@@ -701,6 +725,7 @@ N__9_1_3:SKJEMA_8AARKORT; (N__9_1_3:SKJEMA_8AARC); (N__9_1_3:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 496 |
+| Not NA | 496 |
 | NA | 42991 |
 
 
@@ -712,6 +737,7 @@ N__9_1_4:SKJEMA_8AARKORT; (N__9_1_4:SKJEMA_8AARC); (N__9_1_4:SKJEMA_8AARB); (N__
 | -------- | - |
 | Yes | 501 |
 | No | 493 |
+| Not NA | 994 |
 | NA | 42493 |
 
 
@@ -722,6 +748,7 @@ N__9_2_1:SKJEMA_8AARKORT; (N__9_2_1:SKJEMA_8AARC); (N__9_2_1:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 38770 |
+| Not NA | 38770 |
 | NA | 4717 |
 
 
@@ -732,6 +759,7 @@ N__9_2_2:SKJEMA_8AARKORT; (N__9_2_2:SKJEMA_8AARC); (N__9_2_2:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 1019 |
+| Not NA | 1019 |
 | NA | 42468 |
 
 
@@ -742,6 +770,7 @@ N__9_2_3:SKJEMA_8AARKORT; (N__9_2_3:SKJEMA_8AARC); (N__9_2_3:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 2346 |
+| Not NA | 2346 |
 | NA | 41141 |
 
 
@@ -753,6 +782,7 @@ N__9_2_4:SKJEMA_8AARKORT; (N__9_2_4:SKJEMA_8AARC); (N__9_2_4:SKJEMA_8AARB); (N__
 | -------- | - |
 | No | 895 |
 | Yes | 1852 |
+| Not NA | 2747 |
 | NA | 40740 |
 
 
@@ -763,6 +793,7 @@ N__9_3_1:SKJEMA_8AARKORT; (N__9_3_1:SKJEMA_8AARC); (N__9_3_1:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 40886 |
+| Not NA | 40886 |
 | NA | 2601 |
 
 
@@ -773,6 +804,7 @@ N__9_3_2:SKJEMA_8AARKORT; (N__9_3_2:SKJEMA_8AARC); (N__9_3_2:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 709 |
+| Not NA | 709 |
 | NA | 42778 |
 
 
@@ -783,6 +815,7 @@ N__9_3_3:SKJEMA_8AARKORT; (N__9_3_3:SKJEMA_8AARC); (N__9_3_3:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 313 |
+| Not NA | 313 |
 | NA | 43174 |
 
 
@@ -794,6 +827,7 @@ N__9_3_4:SKJEMA_8AARKORT; (N__9_3_4:SKJEMA_8AARC); (N__9_3_4:SKJEMA_8AARB); (N__
 | -------- | - |
 | No | 587 |
 | Yes | 555 |
+| Not NA | 1142 |
 | NA | 42345 |
 
 
@@ -804,6 +838,7 @@ N__9_4_1:SKJEMA_8AARKORT; (N__9_4_1:SKJEMA_8AARC); (N__9_4_1:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 38324 |
+| Not NA | 38324 |
 | NA | 5163 |
 
 
@@ -814,6 +849,7 @@ N__9_4_2:SKJEMA_8AARKORT; (N__9_4_2:SKJEMA_8AARC); (N__9_4_2:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 2929 |
+| Not NA | 2929 |
 | NA | 40558 |
 
 
@@ -824,6 +860,7 @@ N__9_4_3:SKJEMA_8AARKORT; (N__9_4_3:SKJEMA_8AARC); (N__9_4_3:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 975 |
+| Not NA | 975 |
 | NA | 42512 |
 
 
@@ -835,6 +872,7 @@ N__9_4_4:SKJEMA_8AARKORT; (N__9_4_4:SKJEMA_8AARC); (N__9_4_4:SKJEMA_8AARB); (N__
 | -------- | - |
 | Yes | 1479 |
 | No | 1432 |
+| Not NA | 2911 |
 | NA | 40576 |
 
 
@@ -845,6 +883,7 @@ N__9_5_1:SKJEMA_8AARKORT; (N__9_5_1:SKJEMA_8AARC); (N__9_5_1:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 41402 |
+| Not NA | 41402 |
 | NA | 2085 |
 
 
@@ -855,6 +894,7 @@ N__9_5_2:SKJEMA_8AARKORT; (N__9_5_2:SKJEMA_8AARC); (N__9_5_2:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 325 |
+| Not NA | 325 |
 | NA | 43162 |
 
 
@@ -865,6 +905,7 @@ N__9_5_3:SKJEMA_8AARKORT; (N__9_5_3:SKJEMA_8AARC); (N__9_5_3:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 148 |
+| Not NA | 148 |
 | NA | 43339 |
 
 
@@ -876,6 +917,7 @@ N__9_5_4:SKJEMA_8AARKORT; (N__9_5_4:SKJEMA_8AARC); (N__9_5_4:SKJEMA_8AARB); (N__
 | -------- | - |
 | No | 425 |
 | Yes | 318 |
+| Not NA | 743 |
 | NA | 42744 |
 
 
@@ -886,6 +928,7 @@ N__9_6_1:SKJEMA_8AARKORT; (N__9_6_1:SKJEMA_8AARC); (N__9_6_1:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 39535 |
+| Not NA | 39535 |
 | NA | 3952 |
 
 
@@ -896,6 +939,7 @@ N__9_6_2:SKJEMA_8AARKORT; (N__9_6_2:SKJEMA_8AARC); (N__9_6_2:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 1459 |
+| Not NA | 1459 |
 | NA | 42028 |
 
 
@@ -906,6 +950,7 @@ N__9_6_3:SKJEMA_8AARKORT; (N__9_6_3:SKJEMA_8AARC); (N__9_6_3:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 1112 |
+| Not NA | 1112 |
 | NA | 42375 |
 
 
@@ -918,6 +963,7 @@ N__9_6_4:SKJEMA_8AARKORT; (N__9_6_4:SKJEMA_8AARC); (N__9_6_4:SKJEMA_8AARB); (N__
 | No | 1130 |
 | Yes | 861 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1992 |
 | NA | 41495 |
 
 
@@ -928,6 +974,7 @@ N__9_7_1:SKJEMA_8AARKORT; (N__9_7_1:SKJEMA_8AARC); (N__9_7_1:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 38571 |
+| Not NA | 38571 |
 | NA | 4916 |
 
 
@@ -938,6 +985,7 @@ N__9_7_2:SKJEMA_8AARKORT; (N__9_7_2:SKJEMA_8AARC); (N__9_7_2:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 1744 |
+| Not NA | 1744 |
 | NA | 41743 |
 
 
@@ -948,6 +996,7 @@ N__9_7_3:SKJEMA_8AARKORT; (N__9_7_3:SKJEMA_8AARC); (N__9_7_3:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 1774 |
+| Not NA | 1774 |
 | NA | 41713 |
 
 
@@ -959,6 +1008,7 @@ N__9_7_4:SKJEMA_8AARKORT; (N__9_7_4:SKJEMA_8AARC); (N__9_7_4:SKJEMA_8AARB); (N__
 | -------- | - |
 | Yes | 775 |
 | No | 1713 |
+| Not NA | 2488 |
 | NA | 40999 |
 
 
@@ -969,6 +1019,7 @@ N__9_8_1:SKJEMA_8AARKORT; (N__9_8_1:SKJEMA_8AARC); (N__9_8_1:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 16073 |
+| Not NA | 16073 |
 | NA | 27414 |
 
 
@@ -979,6 +1030,7 @@ N__9_8_2:SKJEMA_8AARKORT; (N__9_8_2:SKJEMA_8AARC); (N__9_8_2:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 975 |
+| Not NA | 975 |
 | NA | 42512 |
 
 
@@ -989,6 +1041,7 @@ N__9_8_3:SKJEMA_8AARKORT; (N__9_8_3:SKJEMA_8AARC); (N__9_8_3:SKJEMA_8AARB); (N__
 | Category | n |
 | -------- | - |
 | 1 | 529 |
+| Not NA | 529 |
 | NA | 42958 |
 
 
@@ -1001,6 +1054,7 @@ N__9_8_4:SKJEMA_8AARKORT; (N__9_8_4:SKJEMA_8AARC); (N__9_8_4:SKJEMA_8AARB); (N__
 | No | 507 |
 | Yes | 784 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1293 |
 | NA | 42194 |
 
 
@@ -1014,6 +1068,7 @@ N_10_1:SKJEMA_8AARKORT; (N_10_1:SKJEMA_8AARC); (N_10_1:SKJEMA_8AARB); (N_10_1:SK
 | Sometimes correct | 18359 |
 | Correct | 669 |
 | More than 1 check box filled in | 9 |
+| Not NA | 43137 |
 | NA | 350 |
 
 
@@ -1027,6 +1082,7 @@ N_10_2:SKJEMA_8AARKORT; (N_10_2:SKJEMA_8AARC); (N_10_2:SKJEMA_8AARB); (N_10_2:SK
 | Disagree | 38796 |
 | Correct | 236 |
 | More than 1 check box filled in | 9 |
+| Not NA | 43268 |
 | NA | 219 |
 
 
@@ -1040,6 +1096,7 @@ N_10_3:SKJEMA_8AARKORT; (N_10_3:SKJEMA_8AARC); (N_10_3:SKJEMA_8AARB); (N_10_3:SK
 | Sometimes correct | 8605 |
 | Correct | 814 |
 | More than 1 check box filled in | 15 |
+| Not NA | 43244 |
 | NA | 243 |
 
 
@@ -1053,6 +1110,7 @@ N_10_4:SKJEMA_8AARKORT; (N_10_4:SKJEMA_8AARC); (N_10_4:SKJEMA_8AARB); (N_10_4:SK
 | Sometimes correct | 4008 |
 | Correct | 305 |
 | More than 1 check box filled in | 6 |
+| Not NA | 43235 |
 | NA | 252 |
 
 
@@ -1066,6 +1124,7 @@ N_10_5:SKJEMA_8AARKORT; (N_10_5:SKJEMA_8AARC); (N_10_5:SKJEMA_8AARB); (N_10_5:SK
 | Correct | 164 |
 | Sometimes correct | 3854 |
 | More than 1 check box filled in | 6 |
+| Not NA | 43214 |
 | NA | 273 |
 
 
@@ -1079,6 +1138,7 @@ N_10_6:SKJEMA_8AARKORT; (N_10_6:SKJEMA_8AARC); (N_10_6:SKJEMA_8AARB); (N_10_6:SK
 | Sometimes correct | 3630 |
 | Correct | 142 |
 | More than 1 check box filled in | 6 |
+| Not NA | 43271 |
 | NA | 216 |
 
 
@@ -1092,6 +1152,7 @@ N_10_7:SKJEMA_8AARKORT; (N_10_7:SKJEMA_8AARC); (N_10_7:SKJEMA_8AARB); (N_10_7:SK
 | Sometimes correct | 2111 |
 | Correct | 78 |
 | More than 1 check box filled in | 6 |
+| Not NA | 43239 |
 | NA | 248 |
 
 
@@ -1105,6 +1166,7 @@ N_10_8:SKJEMA_8AARKORT; (N_10_8:SKJEMA_8AARC); (N_10_8:SKJEMA_8AARB); (N_10_8:SK
 | Sometimes correct | 5100 |
 | Correct | 219 |
 | More than 1 check box filled in | 9 |
+| Not NA | 43222 |
 | NA | 265 |
 
 
@@ -1118,6 +1180,7 @@ N_10_9:SKJEMA_8AARKORT; (N_10_9:SKJEMA_8AARC); (N_10_9:SKJEMA_8AARB); (N_10_9:SK
 | Sometimes correct | 4465 |
 | Correct | 154 |
 | More than 1 check box filled in | 3 |
+| Not NA | 43211 |
 | NA | 276 |
 
 
@@ -1131,6 +1194,7 @@ N_1010:SKJEMA_8AARKORT; (N_1010:SKJEMA_8AARC); (N_1010:SKJEMA_8AARB); (N_1010:SK
 | Sometimes correct | 2382 |
 | Correct | 81 |
 | More than 1 check box filled in | 4 |
+| Not NA | 43223 |
 | NA | 264 |
 
 
@@ -1144,6 +1208,7 @@ N_1011:SKJEMA_8AARKORT; (N_1011:SKJEMA_8AARC); (N_1011:SKJEMA_8AARB); (N_1011:SK
 | Sometimes correct | 2292 |
 | More than 1 check box filled in | 7 |
 | Correct | 54 |
+| Not NA | 43212 |
 | NA | 275 |
 
 
@@ -1157,6 +1222,7 @@ N_1012:SKJEMA_8AARKORT; (N_1012:SKJEMA_8AARC); (N_1012:SKJEMA_8AARB); (N_1012:SK
 | Sometimes correct | 6447 |
 | Correct | 138 |
 | More than 1 check box filled in | 8 |
+| Not NA | 43191 |
 | NA | 296 |
 
 
@@ -1170,6 +1236,7 @@ N_1013:SKJEMA_8AARKORT; (N_1013:SKJEMA_8AARC); (N_1013:SKJEMA_8AARB); (N_1013:SK
 | Sometimes correct | 7767 |
 | Correct | 738 |
 | More than 1 check box filled in | 18 |
+| Not NA | 43185 |
 | NA | 302 |
 
 
@@ -1184,6 +1251,7 @@ N_11_1:SKJEMA_8AARKORT; (N_11_1:SKJEMA_8AAR); ; 11. Think back over the last yea
 | Typical | 23 |
 | Quite typical | 120 |
 | Very typical | 6 |
+| Not NA | 4237 |
 | NA | 39250 |
 
 
@@ -1199,6 +1267,7 @@ N_11_2:SKJEMA_8AARKORT; (N_11_2:SKJEMA_8AAR); ; 11. Think back over the last yea
 | Not very typical | 817 |
 | Very typical | 171 |
 | More than 1 check box filled in | 3 |
+| Not NA | 4193 |
 | NA | 39294 |
 
 
@@ -1214,6 +1283,7 @@ N_11_3:SKJEMA_8AARKORT; (N_11_3:SKJEMA_8AARC); (N_11_3:SKJEMA_8AARB); (N_11_3:SK
 | Very typical | 4499 |
 | Not typical | 793 |
 | More than 1 check box filled in | 29 |
+| Not NA | 43133 |
 | NA | 354 |
 
 
@@ -1229,6 +1299,7 @@ N_11_4:SKJEMA_8AARKORT; (N_11_4:SKJEMA_8AARC); (N_11_4:SKJEMA_8AARB); (N_11_4:SK
 | Typical | 7782 |
 | Very typical | 1141 |
 | More than 1 check box filled in | 25 |
+| Not NA | 43181 |
 | NA | 306 |
 
 
@@ -1244,6 +1315,7 @@ N_11_5:SKJEMA_8AARKORT; (N_11_5:SKJEMA_8AARC); (N_11_5:SKJEMA_8AARB); (N_11_5:SK
 | Not typical | 6317 |
 | Very typical | 477 |
 | More than 1 check box filled in | 28 |
+| Not NA | 43112 |
 | NA | 375 |
 
 
@@ -1259,6 +1331,7 @@ N_11_6:SKJEMA_8AARKORT; (N_11_6:SKJEMA_8AARC); (N_11_6:SKJEMA_8AARB); (N_11_6:SK
 | Quite typical | 9174 |
 | Very typical | 982 |
 | More than 1 check box filled in | 20 |
+| Not NA | 43233 |
 | NA | 254 |
 
 
@@ -1274,6 +1347,7 @@ N_11_7:SKJEMA_8AARKORT; (N_11_7:SKJEMA_8AARC); (N_11_7:SKJEMA_8AARB); (N_11_7:SK
 | Typical | 2956 |
 | Very typical | 611 |
 | More than 1 check box filled in | 45 |
+| Not NA | 43262 |
 | NA | 225 |
 
 
@@ -1289,6 +1363,7 @@ N_11_8:SKJEMA_8AARKORT; (N_11_8:SKJEMA_8AAR); ; 11. Think back over the last yea
 | Not typical | 118 |
 | Not very typical | 327 |
 | More than 1 check box filled in | 4 |
+| Not NA | 4229 |
 | NA | 39258 |
 
 
@@ -1304,6 +1379,7 @@ N_11_9:SKJEMA_8AARKORT; (N_11_9:SKJEMA_8AARC); (N_11_9:SKJEMA_8AARB); (N_11_9:SK
 | Not typical | 9489 |
 | Very typical | 607 |
 | More than 1 check box filled in | 34 |
+| Not NA | 43198 |
 | NA | 289 |
 
 
@@ -1319,6 +1395,7 @@ N_1110:SKJEMA_8AARKORT; (N_1110:SKJEMA_8AAR); ; 11. Think back over the last yea
 | Very typical | 535 |
 | Not very typical | 526 |
 | More than 1 check box filled in | 3 |
+| Not NA | 4211 |
 | NA | 39276 |
 
 
@@ -1334,6 +1411,7 @@ N_1111:SKJEMA_8AARKORT; (N_1111:SKJEMA_8AARC); (N_1111:SKJEMA_8AARB); (N_1111:SK
 | Not typical | 8517 |
 | Very typical | 819 |
 | More than 1 check box filled in | 40 |
+| Not NA | 43218 |
 | NA | 269 |
 
 
@@ -1349,6 +1427,7 @@ N_1112:SKJEMA_8AARKORT; (N_1112:SKJEMA_8AARC); (N_1112:SKJEMA_8AARB); (N_1112:SK
 | Quite typical | 7316 |
 | Not very typical | 1765 |
 | More than 1 check box filled in | 31 |
+| Not NA | 43254 |
 | NA | 233 |
 
 
@@ -1364,6 +1443,7 @@ N_1113:SKJEMA_8AARKORT; (N_1113:SKJEMA_8AARC); (N_1113:SKJEMA_8AARB); (N_1113:SK
 | Not typical | 8943 |
 | Very typical | 287 |
 | More than 1 check box filled in | 11 |
+| Not NA | 43131 |
 | NA | 356 |
 
 
@@ -1379,6 +1459,7 @@ N_1114:SKJEMA_8AARKORT; (N_1114:SKJEMA_8AARC); (N_1114:SKJEMA_8AARB); (N_1114:SK
 | Typical | 2322 |
 | More than 1 check box filled in | 59 |
 | Very typical | 280 |
+| Not NA | 43214 |
 | NA | 273 |
 
 
@@ -1394,6 +1475,7 @@ N_1115:SKJEMA_8AARKORT; (N_1115:SKJEMA_8AARC); (N_1115:SKJEMA_8AARB); (N_1115:SK
 | Not very typical | 2362 |
 | Very typical | 5273 |
 | Not typical | 398 |
+| Not NA | 43168 |
 | NA | 319 |
 
 
@@ -1409,6 +1491,7 @@ N_1116:SKJEMA_8AARKORT; (N_1116:SKJEMA_8AARC); (N_1116:SKJEMA_8AARB); (N_1116:SK
 | Typical | 2229 |
 | Very typical | 358 |
 | More than 1 check box filled in | 22 |
+| Not NA | 43118 |
 | NA | 369 |
 
 
@@ -1424,6 +1507,7 @@ N_1117:SKJEMA_8AARKORT; (N_1117:SKJEMA_8AARC); (N_1117:SKJEMA_8AARB); (N_1117:SK
 | Not typical | 6096 |
 | Not very typical | 15931 |
 | More than 1 check box filled in | 30 |
+| Not NA | 43190 |
 | NA | 297 |
 
 
@@ -1439,6 +1523,7 @@ N_1118:SKJEMA_8AARKORT; (N_1118:SKJEMA_8AARC); (N_1118:SKJEMA_8AARB); (N_1118:SK
 | Quite typical | 12769 |
 | Not typical | 1556 |
 | More than 1 check box filled in | 32 |
+| Not NA | 43238 |
 | NA | 249 |
 
 
@@ -1454,6 +1539,7 @@ N_1119:SKJEMA_8AARKORT; (N_1119:SKJEMA_8AARC); (N_1119:SKJEMA_8AARB); (N_1119:SK
 | Quite typical | 9153 |
 | Not typical | 135 |
 | More than 1 check box filled in | 22 |
+| Not NA | 43211 |
 | NA | 276 |
 
 
@@ -1469,6 +1555,7 @@ N_1120:SKJEMA_8AARKORT; (N_1120:SKJEMA_8AARC); (N_1120:SKJEMA_8AARB); (N_1120:SK
 | Not typical | 250 |
 | Not very typical | 983 |
 | More than 1 check box filled in | 51 |
+| Not NA | 43247 |
 | NA | 240 |
 
 
@@ -1484,6 +1571,7 @@ N_1121:SKJEMA_8AARKORT; (N_1121:SKJEMA_8AARC); (N_1121:SKJEMA_8AARB); (N_1121:SK
 | Very typical | 2027 |
 | Not typical | 6513 |
 | More than 1 check box filled in | 16 |
+| Not NA | 43192 |
 | NA | 295 |
 
 
@@ -1499,6 +1587,7 @@ N_1122:SKJEMA_8AARKORT; (N_1122:SKJEMA_8AARC); (N_1122:SKJEMA_8AARB); (N_1122:SK
 | Very typical | 762 |
 | Not typical | 9448 |
 | More than 1 check box filled in | 34 |
+| Not NA | 43184 |
 | NA | 303 |
 
 
@@ -1514,6 +1603,7 @@ N_1123:SKJEMA_8AARKORT; (N_1123:SKJEMA_8AARC); (N_1123:SKJEMA_8AARB); (N_1123:SK
 | Very typical | 12977 |
 | Not typical | 394 |
 | More than 1 check box filled in | 27 |
+| Not NA | 43241 |
 | NA | 246 |
 
 
@@ -1529,6 +1619,7 @@ N_1124:SKJEMA_8AARKORT; (N_1124:SKJEMA_8AARC); (N_1124:SKJEMA_8AARB); (N_1124:SK
 | Not very typical | 2146 |
 | Not typical | 370 |
 | More than 1 check box filled in | 17 |
+| Not NA | 43146 |
 | NA | 341 |
 
 
@@ -1544,6 +1635,7 @@ N_1125:SKJEMA_8AARKORT; (N_1125:SKJEMA_8AARC); (N_1125:SKJEMA_8AARB); (N_1125:SK
 | Very typical | 6589 |
 | Not typical | 1173 |
 | More than 1 check box filled in | 24 |
+| Not NA | 43202 |
 | NA | 285 |
 
 
@@ -1559,6 +1651,7 @@ N_1126:SKJEMA_8AARKORT; (N_1126:SKJEMA_8AARC); (N_1126:SKJEMA_8AARB); (N_1126:SK
 | Not typical | 1028 |
 | Very typical | 4651 |
 | More than 1 check box filled in | 32 |
+| Not NA | 43217 |
 | NA | 270 |
 
 
@@ -1574,6 +1667,7 @@ N_1127:SKJEMA_8AARKORT; (N_1127:SKJEMA_8AAR); Has confidence in own abilities; 1
 | Not very typical | 110 |
 | Not typical | 11 |
 | More than 1 check box filled in | 1 |
+| Not NA | 4238 |
 | NA | 39249 |
 
 
@@ -1589,6 +1683,7 @@ N_1128:SKJEMA_8AARKORT; (N_1128:SKJEMA_8AARC); (N_1128:SKJEMA_8AARB); (N_1128:SK
 | Not very typical | 1221 |
 | Not typical | 167 |
 | More than 1 check box filled in | 19 |
+| Not NA | 43184 |
 | NA | 303 |
 
 
@@ -1604,6 +1699,7 @@ N_1129:SKJEMA_8AARKORT; (N_1129:SKJEMA_8AARC); (N_1129:SKJEMA_8AARB); (N_1129:SK
 | Not typical | 290 |
 | Not very typical | 2165 |
 | More than 1 check box filled in | 13 |
+| Not NA | 43228 |
 | NA | 259 |
 
 
@@ -1619,6 +1715,7 @@ N_1130:SKJEMA_8AARKORT; (N_1130:SKJEMA_8AARC); (N_1130:SKJEMA_8AARB); (N_1130:SK
 | Very typical | 13704 |
 | Not typical | 468 |
 | More than 1 check box filled in | 14 |
+| Not NA | 43263 |
 | NA | 224 |
 
 
@@ -1634,6 +1731,7 @@ N_11_1:SKJEMA_8AARC; (N_11_1:SKJEMA_8AARB); Is easily caught up in problems (*Ph
 | Typical | 943 |
 | Very typical | 138 |
 | More than 1 check box filled in | 17 |
+| Not NA | 38864 |
 | NA | 4623 |
 
 
@@ -1649,6 +1747,7 @@ N_11_2:SKJEMA_8AARC; (N_11_2:SKJEMA_8AARB); Has a broad range of interests; 11. 
 | Not very typical | 2168 |
 | Not typical | 531 |
 | More than 1 check box filled in | 19 |
+| Not NA | 39009 |
 | NA | 4478 |
 
 
@@ -1664,6 +1763,7 @@ N_11_8:SKJEMA_8AARC; (N_11_8:SKJEMA_8AARB); Is constantly on the move; 11. Think
 | Not typical | 2789 |
 | Very typical | 4605 |
 | More than 1 check box filled in | 20 |
+| Not NA | 38994 |
 | NA | 4493 |
 
 
@@ -1679,6 +1779,7 @@ N_1110:SKJEMA_8AARC; (N_1110:SKJEMA_8AARB); Talks to people easily; 11. Think ba
 | Very typical | 9043 |
 | Not typical | 1020 |
 | More than 1 check box filled in | 31 |
+| Not NA | 39031 |
 | NA | 4456 |
 
 
@@ -1694,6 +1795,7 @@ N_1127:SKJEMA_8AARC; (N_1127:SKJEMA_8AARB); Has confidence in own abilities; 11.
 | Not very typical | 2374 |
 | Not typical | 285 |
 | More than 1 check box filled in | 25 |
+| Not NA | 38992 |
 | NA | 4495 |
 
 
@@ -1708,6 +1810,7 @@ N_12_1:SKJEMA_8AARKORT; (N_12_1:SKJEMA_8AARC); (N_12_1:SKJEMA_8AARB); (N_12_1:SK
 | Seldom | 6520 |
 | More than 1 check box filled in | 17 |
 | Often | 86 |
+| Not NA | 43285 |
 | NA | 202 |
 
 
@@ -1722,6 +1825,7 @@ N_12_2:SKJEMA_8AARKORT; (N_12_2:SKJEMA_8AARC); (N_12_2:SKJEMA_8AARB); (N_12_2:SK
 | Sometimes | 714 |
 | Often | 35 |
 | More than 1 check box filled in | 7 |
+| Not NA | 43292 |
 | NA | 195 |
 
 
@@ -1736,6 +1840,7 @@ N_12_3:SKJEMA_8AARKORT; (N_12_3:SKJEMA_8AARC); (N_12_3:SKJEMA_8AARB); (N_12_3:SK
 | Sometimes | 1769 |
 | More than 1 check box filled in | 19 |
 | Often | 102 |
+| Not NA | 43278 |
 | NA | 209 |
 
 
@@ -1750,6 +1855,7 @@ N_12_4:SKJEMA_8AARKORT; (N_12_4:SKJEMA_8AARC); (N_12_4:SKJEMA_8AARB); (N_12_4:SK
 | Sometimes | 105 |
 | Often | 4 |
 | More than 1 check box filled in | 1 |
+| Not NA | 43353 |
 | NA | 134 |
 
 
@@ -1763,6 +1869,7 @@ N_12_5:SKJEMA_8AARKORT; (N_12_5:SKJEMA_8AARC); (N_12_5:SKJEMA_8AARB); (N_12_5:SK
 | Seldom | 904 |
 | Sometimes | 143 |
 | Often | 6 |
+| Not NA | 43325 |
 | NA | 162 |
 
 
@@ -1777,6 +1884,7 @@ N_12_6:SKJEMA_8AARKORT; (N_12_6:SKJEMA_8AARC); (N_12_6:SKJEMA_8AARB); (N_12_6:SK
 | Sometimes | 229 |
 | Often | 7 |
 | More than 1 check box filled in | 1 |
+| Not NA | 43332 |
 | NA | 155 |
 
 
@@ -1790,6 +1898,7 @@ N_12_7:SKJEMA_8AARKORT; (N_12_7:SKJEMA_8AARC); (N_12_7:SKJEMA_8AARB); (N_12_7:SK
 | Seldom | 357 |
 | Sometimes | 50 |
 | Often | 9 |
+| Not NA | 43274 |
 | NA | 213 |
 
 
@@ -1804,6 +1913,7 @@ N_12_8:SKJEMA_8AARKORT; (N_12_8:SKJEMA_8AARC); (N_12_8:SKJEMA_8AARB); (N_12_8:SK
 | Sometimes | 211 |
 | More than 1 check box filled in | 3 |
 | Often | 5 |
+| Not NA | 43315 |
 | NA | 172 |
 
 
@@ -1818,6 +1928,7 @@ N_13_1:SKJEMA_8AARKORT; (N_13_1:SKJEMA_8AARC); (N_13_1:SKJEMA_8AARB); (N_13_1:SK
 | Often | 3320 |
 | Very often | 725 |
 | More than 1 check box filled in | 18 |
+| Not NA | 43292 |
 | NA | 195 |
 
 
@@ -1832,6 +1943,7 @@ N_13_2:SKJEMA_8AARKORT; (N_13_2:SKJEMA_8AARC); (N_13_2:SKJEMA_8AARB); (N_13_2:SK
 | Often | 1932 |
 | Very often | 575 |
 | More than 1 check box filled in | 11 |
+| Not NA | 43271 |
 | NA | 216 |
 
 
@@ -1846,6 +1958,7 @@ N_13_3:SKJEMA_8AARKORT; (N_13_3:SKJEMA_8AARC); (N_13_3:SKJEMA_8AARB); (N_13_3:SK
 | Never / seldom | 20520 |
 | Very often | 666 |
 | More than 1 check box filled in | 15 |
+| Not NA | 43223 |
 | NA | 264 |
 
 
@@ -1860,6 +1973,7 @@ N_13_4:SKJEMA_8AARKORT; (N_13_4:SKJEMA_8AARC); (N_13_4:SKJEMA_8AARB); (N_13_4:SK
 | Often | 1195 |
 | Very often | 425 |
 | More than 1 check box filled in | 2 |
+| Not NA | 43289 |
 | NA | 198 |
 
 
@@ -1874,6 +1988,7 @@ N_13_5:SKJEMA_8AARKORT; (N_13_5:SKJEMA_8AARC); (N_13_5:SKJEMA_8AARB); (N_13_5:SK
 | Often | 1258 |
 | Very often | 451 |
 | More than 1 check box filled in | 6 |
+| Not NA | 43218 |
 | NA | 269 |
 
 
@@ -1888,6 +2003,7 @@ N_13_6:SKJEMA_8AARKORT; (N_13_6:SKJEMA_8AARC); (N_13_6:SKJEMA_8AARB); (N_13_6:SK
 | Often | 3313 |
 | Very often | 1005 |
 | More than 1 check box filled in | 14 |
+| Not NA | 43289 |
 | NA | 198 |
 
 
@@ -1902,6 +2018,7 @@ N_13_7:SKJEMA_8AARKORT; (N_13_7:SKJEMA_8AARC); (N_13_7:SKJEMA_8AARB); (N_13_7:SK
 | Often | 1189 |
 | Very often | 346 |
 | More than 1 check box filled in | 8 |
+| Not NA | 43306 |
 | NA | 181 |
 
 
@@ -1916,6 +2033,7 @@ N_13_8:SKJEMA_8AARKORT; (N_13_8:SKJEMA_8AARC); (N_13_8:SKJEMA_8AARB); (N_13_8:SK
 | Very often | 2040 |
 | Never / seldom | 9200 |
 | More than 1 check box filled in | 13 |
+| Not NA | 43269 |
 | NA | 218 |
 
 
@@ -1930,6 +2048,7 @@ N_13_9:SKJEMA_8AARKORT; (N_13_9:SKJEMA_8AARC); (N_13_9:SKJEMA_8AARB); (N_13_9:SK
 | Often | 3522 |
 | Very often | 705 |
 | More than 1 check box filled in | 8 |
+| Not NA | 43177 |
 | NA | 310 |
 
 
@@ -1944,6 +2063,7 @@ N_1310:SKJEMA_8AARKORT; (N_1310:SKJEMA_8AARC); (N_1310:SKJEMA_8AARB); (N_1310:SK
 | Often | 4823 |
 | Very often | 2085 |
 | More than 1 check box filled in | 19 |
+| Not NA | 43271 |
 | NA | 216 |
 
 
@@ -1958,6 +2078,7 @@ N_1311:SKJEMA_8AARKORT; (N_1311:SKJEMA_8AARC); (N_1311:SKJEMA_8AARB); (N_1311:SK
 | Often | 2903 |
 | Very often | 982 |
 | More than 1 check box filled in | 15 |
+| Not NA | 43283 |
 | NA | 204 |
 
 
@@ -1972,6 +2093,7 @@ N_1312:SKJEMA_8AARKORT; (N_1312:SKJEMA_8AARC); (N_1312:SKJEMA_8AARB); (N_1312:SK
 | Sometimes | 6578 |
 | Very often | 290 |
 | More than 1 check box filled in | 8 |
+| Not NA | 43292 |
 | NA | 195 |
 
 
@@ -1986,6 +2108,7 @@ N_1313:SKJEMA_8AARKORT; (N_1313:SKJEMA_8AARC); (N_1313:SKJEMA_8AARB); (N_1313:SK
 | Very often | 183 |
 | Often | 719 |
 | More than 1 check box filled in | 9 |
+| Not NA | 43279 |
 | NA | 208 |
 
 
@@ -2000,6 +2123,7 @@ N_1314:SKJEMA_8AARKORT; (N_1314:SKJEMA_8AARC); (N_1314:SKJEMA_8AARB); (N_1314:SK
 | Sometimes | 9689 |
 | Very often | 654 |
 | More than 1 check box filled in | 14 |
+| Not NA | 43244 |
 | NA | 243 |
 
 
@@ -2014,6 +2138,7 @@ N_1315:SKJEMA_8AARKORT; (N_1315:SKJEMA_8AARC); (N_1315:SKJEMA_8AARB); (N_1315:SK
 | Sometimes | 12162 |
 | More than 1 check box filled in | 21 |
 | Very often | 729 |
+| Not NA | 43289 |
 | NA | 198 |
 
 
@@ -2028,6 +2153,7 @@ N_1316:SKJEMA_8AARKORT; (N_1316:SKJEMA_8AARC); (N_1316:SKJEMA_8AARB); (N_1316:SK
 | Often | 1368 |
 | Very often | 307 |
 | More than 1 check box filled in | 14 |
+| Not NA | 43254 |
 | NA | 233 |
 
 
@@ -2042,6 +2168,7 @@ N_1317:SKJEMA_8AARKORT; (N_1317:SKJEMA_8AARC); (N_1317:SKJEMA_8AARB); (N_1317:SK
 | Often | 1355 |
 | Very often | 356 |
 | More than 1 check box filled in | 21 |
+| Not NA | 43277 |
 | NA | 210 |
 
 
@@ -2056,6 +2183,7 @@ N_1318:SKJEMA_8AARKORT; (N_1318:SKJEMA_8AARC); (N_1318:SKJEMA_8AARB); (N_1318:SK
 | Often | 1585 |
 | Very often | 324 |
 | More than 1 check box filled in | 22 |
+| Not NA | 43257 |
 | NA | 230 |
 
 
@@ -2070,6 +2198,7 @@ N_1319:SKJEMA_8AARKORT; (N_1319:SKJEMA_8AARC); (N_1319:SKJEMA_8AARB); (N_1319:SK
 | Often | 1445 |
 | Very often | 331 |
 | More than 1 check box filled in | 22 |
+| Not NA | 43290 |
 | NA | 197 |
 
 
@@ -2084,6 +2213,7 @@ N_1320:SKJEMA_8AARKORT; (N_1320:SKJEMA_8AARC); (N_1320:SKJEMA_8AARB); (N_1320:SK
 | Often | 1642 |
 | Very often | 271 |
 | More than 1 check box filled in | 37 |
+| Not NA | 43264 |
 | NA | 223 |
 
 
@@ -2098,6 +2228,7 @@ N_1321:SKJEMA_8AARKORT; (N_1321:SKJEMA_8AARC); (N_1321:SKJEMA_8AARB); (N_1321:SK
 | Often | 1422 |
 | Very often | 267 |
 | More than 1 check box filled in | 27 |
+| Not NA | 43250 |
 | NA | 237 |
 
 
@@ -2112,6 +2243,7 @@ N_1322:SKJEMA_8AARKORT; (N_1322:SKJEMA_8AARC); (N_1322:SKJEMA_8AARB); (N_1322:SK
 | Often | 1340 |
 | Very often | 190 |
 | More than 1 check box filled in | 23 |
+| Not NA | 43281 |
 | NA | 206 |
 
 
@@ -2126,6 +2258,7 @@ N_1323:SKJEMA_8AARKORT; (N_1323:SKJEMA_8AARC); (N_1323:SKJEMA_8AARB); (N_1323:SK
 | Often | 1904 |
 | Very often | 300 |
 | More than 1 check box filled in | 27 |
+| Not NA | 43240 |
 | NA | 247 |
 
 
@@ -2140,6 +2273,7 @@ N_1324:SKJEMA_8AARKORT; (N_1324:SKJEMA_8AARC); (N_1324:SKJEMA_8AARB); (N_1324:SK
 | Often | 3981 |
 | Very often | 717 |
 | More than 1 check box filled in | 16 |
+| Not NA | 43277 |
 | NA | 210 |
 
 
@@ -2154,6 +2288,7 @@ N_1325:SKJEMA_8AARKORT; (N_1325:SKJEMA_8AARC); (N_1325:SKJEMA_8AARB); (N_1325:SK
 | Often | 1492 |
 | Very often | 217 |
 | More than 1 check box filled in | 17 |
+| Not NA | 43270 |
 | NA | 217 |
 
 
@@ -2168,6 +2303,7 @@ N_1326:SKJEMA_8AARKORT; (N_1326:SKJEMA_8AARC); (N_1326:SKJEMA_8AARB); (N_1326:SK
 | Often | 124 |
 | Very often | 15 |
 | More than 1 check box filled in | 5 |
+| Not NA | 43261 |
 | NA | 226 |
 
 
@@ -2181,6 +2317,7 @@ N_14_1:SKJEMA_8AARKORT; (N_14_1:SKJEMA_8AARC); (N_14_1:SKJEMA_8AARB); (N_14_1:SK
 | Sometimes correct | 4706 |
 | Often true | 347 |
 | More than 1 check box filled in | 2 |
+| Not NA | 43344 |
 | NA | 143 |
 
 
@@ -2194,6 +2331,7 @@ N_14_2:SKJEMA_8AARKORT; (N_14_2:SKJEMA_8AARC); (N_14_2:SKJEMA_8AARB); (N_14_2:SK
 | Sometimes correct | 11376 |
 | Often true | 2648 |
 | More than 1 check box filled in | 4 |
+| Not NA | 43273 |
 | NA | 214 |
 
 
@@ -2207,6 +2345,7 @@ N_14_3:SKJEMA_8AARKORT; (N_14_3:SKJEMA_8AARC); (N_14_3:SKJEMA_8AARB); (N_14_3:SK
 | Sometimes correct | 2133 |
 | Often true | 189 |
 | More than 1 check box filled in | 3 |
+| Not NA | 43287 |
 | NA | 200 |
 
 
@@ -2220,6 +2359,7 @@ N_14_4:SKJEMA_8AARKORT; (N_14_4:SKJEMA_8AARC); (N_14_4:SKJEMA_8AARB); (N_14_4:SK
 | Sometimes correct | 965 |
 | Often true | 76 |
 | More than 1 check box filled in | 2 |
+| Not NA | 43326 |
 | NA | 161 |
 
 
@@ -2233,6 +2373,7 @@ N_14_5:SKJEMA_8AARKORT; (N_14_5:SKJEMA_8AARC); (N_14_5:SKJEMA_8AARB); (N_14_5:SK
 | Sometimes correct | 16035 |
 | Often true | 1434 |
 | More than 1 check box filled in | 29 |
+| Not NA | 43331 |
 | NA | 156 |
 
 
@@ -2245,6 +2386,7 @@ N_15_1:SKJEMA_8AARKORT; (N_15_1:SKJEMA_8AARC); (N_15_1:SKJEMA_8AARB); (N_15_1:SK
 | Yes | 42909 |
 | No | 314 |
 | More than 1 check box filled in | 3 |
+| Not NA | 43226 |
 | NA | 261 |
 
 
@@ -2257,6 +2399,7 @@ N_15_2:SKJEMA_8AARKORT; (N_15_2:SKJEMA_8AARC); (N_15_2:SKJEMA_8AARB); (N_15_2:SK
 | Yes | 43040 |
 | No | 250 |
 | More than 1 check box filled in | 6 |
+| Not NA | 43296 |
 | NA | 191 |
 
 
@@ -2269,6 +2412,7 @@ N_15_3:SKJEMA_8AARKORT; (N_15_3:SKJEMA_8AARC); (N_15_3:SKJEMA_8AARB); (N_15_3:SK
 | No | 39008 |
 | Yes | 4154 |
 | More than 1 check box filled in | 11 |
+| Not NA | 43173 |
 | NA | 314 |
 
 
@@ -2281,6 +2425,7 @@ N_15_4:SKJEMA_8AARKORT; (N_15_4:SKJEMA_8AARC); (N_15_4:SKJEMA_8AARB); (N_15_4:SK
 | No | 36783 |
 | Yes | 6403 |
 | More than 1 check box filled in | 20 |
+| Not NA | 43206 |
 | NA | 281 |
 
 
@@ -2293,6 +2438,7 @@ N_15_5:SKJEMA_8AARKORT; (N_15_5:SKJEMA_8AARC); (N_15_5:SKJEMA_8AARB); (N_15_5:SK
 | No | 41867 |
 | Yes | 1421 |
 | More than 1 check box filled in | 4 |
+| Not NA | 43292 |
 | NA | 195 |
 
 
@@ -2305,6 +2451,7 @@ N_15_6:SKJEMA_8AARKORT; (N_15_6:SKJEMA_8AARC); (N_15_6:SKJEMA_8AARB); (N_15_6:SK
 | No | 37269 |
 | Yes | 5933 |
 | More than 1 check box filled in | 14 |
+| Not NA | 43216 |
 | NA | 271 |
 
 
@@ -2317,6 +2464,7 @@ N_15_7:SKJEMA_8AARKORT; (N_15_7:SKJEMA_8AARC); (N_15_7:SKJEMA_8AARB); (N_15_7:SK
 | No | 41784 |
 | Yes | 1444 |
 | More than 1 check box filled in | 4 |
+| Not NA | 43232 |
 | NA | 255 |
 
 
@@ -2329,6 +2477,7 @@ N_16_8:SKJEMA_8AARKORT; (N_16_8:SKJEMA_8AARC); (N_16_8:SKJEMA_8AARB); (N_16_8:SK
 | No | 39723 |
 | Yes | 3572 |
 | More than 1 check box filled in | 1 |
+| Not NA | 43296 |
 | NA | 191 |
 
 
@@ -2341,6 +2490,7 @@ N_16_9:SKJEMA_8AARKORT; (N_16_9:SKJEMA_8AARC); (N_16_9:SKJEMA_8AARB); (N_16_9:SK
 | Yes | 41707 |
 | No | 1570 |
 | More than 1 check box filled in | 7 |
+| Not NA | 43284 |
 | NA | 203 |
 
 
@@ -2353,6 +2503,7 @@ N_1610:SKJEMA_8AARKORT; (N_1610:SKJEMA_8AARC); (N_1610:SKJEMA_8AARB); (N_1610:SK
 | No | 42493 |
 | Yes | 818 |
 | More than 1 check box filled in | 3 |
+| Not NA | 43314 |
 | NA | 173 |
 
 
@@ -2364,6 +2515,7 @@ N_1611:SKJEMA_8AARKORT; (N_1611:SKJEMA_8AARC); (N_1611:SKJEMA_8AARB); (N_1611:SK
 | -------- | - |
 | No | 42562 |
 | Yes | 742 |
+| Not NA | 43304 |
 | NA | 183 |
 
 
@@ -2376,6 +2528,7 @@ N_1612:SKJEMA_8AARKORT; (N_1612:SKJEMA_8AARC); (N_1612:SKJEMA_8AARB); (N_1612:SK
 | No | 42055 |
 | Yes | 1232 |
 | More than 1 check box filled in | 2 |
+| Not NA | 43289 |
 | NA | 198 |
 
 
@@ -2388,6 +2541,7 @@ N_1613:SKJEMA_8AARKORT; (N_1613:SKJEMA_8AARC); (N_1613:SKJEMA_8AARB); (N_1613:SK
 | No | 39767 |
 | Yes | 3280 |
 | More than 1 check box filled in | 5 |
+| Not NA | 43052 |
 | NA | 435 |
 
 
@@ -2400,6 +2554,7 @@ N_1614:SKJEMA_8AARKORT; (N_1614:SKJEMA_8AARC); (N_1614:SKJEMA_8AARB); (N_1614:SK
 | No | 42260 |
 | Yes | 839 |
 | More than 1 check box filled in | 4 |
+| Not NA | 43103 |
 | NA | 384 |
 
 
@@ -2411,6 +2566,7 @@ N_1615:SKJEMA_8AARKORT; (N_1615:SKJEMA_8AARC); (N_1615:SKJEMA_8AARB); (N_1615:SK
 | -------- | - |
 | No | 42303 |
 | Yes | 731 |
+| Not NA | 43034 |
 | NA | 453 |
 
 
@@ -2423,6 +2579,7 @@ N_1616:SKJEMA_8AARKORT; (N_1616:SKJEMA_8AARC); (N_1616:SKJEMA_8AARB); (N_1616:SK
 | No | 37812 |
 | Yes | 5093 |
 | More than 1 check box filled in | 12 |
+| Not NA | 42917 |
 | NA | 570 |
 
 
@@ -2434,6 +2591,7 @@ N_1617:SKJEMA_8AARKORT; (N_1617:SKJEMA_8AARC); (N_1617:SKJEMA_8AARB); (N_1617:SK
 | -------- | - |
 | No | 42327 |
 | Yes | 752 |
+| Not NA | 43079 |
 | NA | 408 |
 
 
@@ -2446,6 +2604,7 @@ N_1618:SKJEMA_8AARKORT; (N_1618:SKJEMA_8AARC); (N_1618:SKJEMA_8AARB); (N_1618:SK
 | No | 42508 |
 | Yes | 525 |
 | More than 1 check box filled in | 1 |
+| Not NA | 43034 |
 | NA | 453 |
 
 
@@ -2458,6 +2617,7 @@ N_1719:SKJEMA_8AARKORT; (N_1719:SKJEMA_8AARC); (N_1719:SKJEMA_8AARB); (N_1719:SK
 | Yes | 34817 |
 | No | 8133 |
 | More than 1 check box filled in | 12 |
+| Not NA | 42962 |
 | NA | 525 |
 
 
@@ -2470,6 +2630,7 @@ N_1720:SKJEMA_8AARKORT; (N_1720:SKJEMA_8AARC); (N_1720:SKJEMA_8AARB); (N_1720:SK
 | Yes | 39040 |
 | No | 3885 |
 | More than 1 check box filled in | 17 |
+| Not NA | 42942 |
 | NA | 545 |
 
 
@@ -2482,6 +2643,7 @@ N_1721:SKJEMA_8AARKORT; (N_1721:SKJEMA_8AARC); (N_1721:SKJEMA_8AARB); (N_1721:SK
 | Yes | 24922 |
 | No | 17604 |
 | More than 1 check box filled in | 22 |
+| Not NA | 42548 |
 | NA | 939 |
 
 
@@ -2494,6 +2656,7 @@ N_1722:SKJEMA_8AARKORT; (N_1722:SKJEMA_8AARC); (N_1722:SKJEMA_8AARB); (N_1722:SK
 | Yes | 33762 |
 | No | 9046 |
 | More than 1 check box filled in | 12 |
+| Not NA | 42820 |
 | NA | 667 |
 
 
@@ -2506,6 +2669,7 @@ N_1723:SKJEMA_8AARKORT; (N_1723:SKJEMA_8AARC); (N_1723:SKJEMA_8AARB); (N_1723:SK
 | Yes | 23924 |
 | No | 18434 |
 | More than 1 check box filled in | 20 |
+| Not NA | 42378 |
 | NA | 1109 |
 
 
@@ -2518,6 +2682,7 @@ N_1724:SKJEMA_8AARKORT; (N_1724:SKJEMA_8AARC); (N_1724:SKJEMA_8AARB); (N_1724:SK
 | No | 6689 |
 | Yes | 35981 |
 | More than 1 check box filled in | 102 |
+| Not NA | 42772 |
 | NA | 715 |
 
 
@@ -2530,6 +2695,7 @@ N_1725:SKJEMA_8AARKORT; (N_1725:SKJEMA_8AARC); (N_1725:SKJEMA_8AARB); (N_1725:SK
 | No | 7892 |
 | Yes | 34716 |
 | More than 1 check box filled in | 93 |
+| Not NA | 42701 |
 | NA | 786 |
 
 
@@ -2542,6 +2708,7 @@ N_1726:SKJEMA_8AARKORT; (N_1726:SKJEMA_8AARC); (N_1726:SKJEMA_8AARB); (N_1726:SK
 | Yes | 41870 |
 | No | 1080 |
 | More than 1 check box filled in | 28 |
+| Not NA | 42978 |
 | NA | 509 |
 
 
@@ -2554,6 +2721,7 @@ N_1727:SKJEMA_8AARKORT; (N_1727:SKJEMA_8AARC); (N_1727:SKJEMA_8AARB); (N_1727:SK
 | Yes | 42696 |
 | No | 304 |
 | More than 1 check box filled in | 31 |
+| Not NA | 43031 |
 | NA | 456 |
 
 
@@ -2566,6 +2734,7 @@ N_1728:SKJEMA_8AARKORT; (N_1728:SKJEMA_8AARC); (N_1728:SKJEMA_8AARB); (N_1728:SK
 | Yes | 42181 |
 | No | 776 |
 | More than 1 check box filled in | 5 |
+| Not NA | 42962 |
 | NA | 525 |
 
 
@@ -2578,6 +2747,7 @@ N_1729:SKJEMA_8AARKORT; (N_1729:SKJEMA_8AARC); (N_1729:SKJEMA_8AARB); (N_1729:SK
 | Yes | 40286 |
 | No | 2515 |
 | More than 1 check box filled in | 5 |
+| Not NA | 42806 |
 | NA | 681 |
 
 
@@ -2589,6 +2759,7 @@ N_1730:SKJEMA_8AARKORT; (N_1730:SKJEMA_8AARC); (N_1730:SKJEMA_8AARB); (N_1730:SK
 | -------- | - |
 | Yes | 42663 |
 | No | 316 |
+| Not NA | 42979 |
 | NA | 508 |
 
 
@@ -2601,6 +2772,7 @@ N_1731:SKJEMA_8AARKORT; (N_1731:SKJEMA_8AARC); (N_1731:SKJEMA_8AARB); (N_1731:SK
 | Yes | 41627 |
 | No | 1309 |
 | More than 1 check box filled in | 10 |
+| Not NA | 42946 |
 | NA | 541 |
 
 
@@ -2613,6 +2785,7 @@ N_1732:SKJEMA_8AARKORT; (N_1732:SKJEMA_8AARC); (N_1732:SKJEMA_8AARB); (N_1732:SK
 | Yes | 34900 |
 | No | 7411 |
 | More than 1 check box filled in | 32 |
+| Not NA | 42343 |
 | NA | 1144 |
 
 
@@ -2625,6 +2798,7 @@ N_1733:SKJEMA_8AARKORT; (N_1733:SKJEMA_8AARC); (N_1733:SKJEMA_8AARB); (N_1733:SK
 | Yes | 42857 |
 | No | 189 |
 | More than 1 check box filled in | 5 |
+| Not NA | 43051 |
 | NA | 436 |
 
 
@@ -2637,6 +2811,7 @@ N_1734:SKJEMA_8AARKORT; (N_1734:SKJEMA_8AARC); (N_1734:SKJEMA_8AARB); (N_1734:SK
 | Yes | 32343 |
 | No | 9720 |
 | More than 1 check box filled in | 26 |
+| Not NA | 42089 |
 | NA | 1398 |
 
 
@@ -2649,6 +2824,7 @@ N_1735:SKJEMA_8AARKORT; (N_1735:SKJEMA_8AARC); (N_1735:SKJEMA_8AARB); (N_1735:SK
 | No | 4632 |
 | Yes | 38101 |
 | More than 1 check box filled in | 16 |
+| Not NA | 42749 |
 | NA | 738 |
 
 
@@ -2661,6 +2837,7 @@ N_1736:SKJEMA_8AARKORT; (N_1736:SKJEMA_8AARC); (N_1736:SKJEMA_8AARB); (N_1736:SK
 | Yes | 41283 |
 | No | 1623 |
 | More than 1 check box filled in | 33 |
+| Not NA | 42939 |
 | NA | 548 |
 
 
@@ -2673,6 +2850,7 @@ N_1737:SKJEMA_8AARKORT; (N_1737:SKJEMA_8AARC); (N_1737:SKJEMA_8AARB); (N_1737:SK
 | Yes | 42407 |
 | No | 477 |
 | More than 1 check box filled in | 57 |
+| Not NA | 42941 |
 | NA | 546 |
 
 
@@ -2685,6 +2863,7 @@ N_1738:SKJEMA_8AARKORT; (N_1738:SKJEMA_8AARC); (N_1738:SKJEMA_8AARB); (N_1738:SK
 | Yes | 40902 |
 | No | 1884 |
 | More than 1 check box filled in | 48 |
+| Not NA | 42834 |
 | NA | 653 |
 
 
@@ -2697,6 +2876,7 @@ N_1739:SKJEMA_8AARKORT; (N_1739:SKJEMA_8AARC); (N_1739:SKJEMA_8AARB); (N_1739:SK
 | Yes | 39012 |
 | No | 3618 |
 | More than 1 check box filled in | 15 |
+| Not NA | 42645 |
 | NA | 842 |
 
 
@@ -2709,6 +2889,7 @@ N_1740:SKJEMA_8AARKORT; (N_1740:SKJEMA_8AARC); (N_1740:SKJEMA_8AARB); (N_1740:SK
 | Yes | 42615 |
 | No | 329 |
 | More than 1 check box filled in | 2 |
+| Not NA | 42946 |
 | NA | 541 |
 
 
@@ -2724,6 +2905,7 @@ N_18_1:SKJEMA_8AARKORT; (N_18_1:SKJEMA_8AARC); (N_18_1:SKJEMA_8AARB); (N_18_1:SK
 | Never | 1205 |
 | Always | 4297 |
 | More than 1 check box filled in | 5 |
+| Not NA | 43221 |
 | NA | 266 |
 
 
@@ -2739,6 +2921,7 @@ N_18_2:SKJEMA_8AARKORT; (N_18_2:SKJEMA_8AARC); (N_18_2:SKJEMA_8AARB); (N_18_2:SK
 | Always | 1125 |
 | Never | 374 |
 | More than 1 check box filled in | 15 |
+| Not NA | 43148 |
 | NA | 339 |
 
 
@@ -2754,6 +2937,7 @@ N_18_3:SKJEMA_8AARKORT; (N_18_3:SKJEMA_8AARC); (N_18_3:SKJEMA_8AARB); (N_18_3:SK
 | Never | 5629 |
 | Always | 816 |
 | More than 1 check box filled in | 22 |
+| Not NA | 42172 |
 | NA | 1315 |
 
 
@@ -2769,6 +2953,7 @@ N_18_4:SKJEMA_8AARKORT; (N_18_4:SKJEMA_8AARC); (N_18_4:SKJEMA_8AARB); (N_18_4:SK
 | Sometimes | 3131 |
 | Always | 214 |
 | More than 1 check box filled in | 33 |
+| Not NA | 43098 |
 | NA | 389 |
 
 
@@ -2784,6 +2969,7 @@ N_18_5:SKJEMA_8AARKORT; (N_18_5:SKJEMA_8AARC); (N_18_5:SKJEMA_8AARB); (N_18_5:SK
 | Often | 7119 |
 | Never | 2967 |
 | More than 1 check box filled in | 15 |
+| Not NA | 43128 |
 | NA | 359 |
 
 
@@ -2799,6 +2985,7 @@ N_18_6:SKJEMA_8AARKORT; (N_18_6:SKJEMA_8AARC); (N_18_6:SKJEMA_8AARB); (N_18_6:SK
 | Often | 98 |
 | Always | 33 |
 | More than 1 check box filled in | 19 |
+| Not NA | 42449 |
 | NA | 1038 |
 
 
@@ -2814,6 +3001,7 @@ N_18_7:SKJEMA_8AARKORT; (N_18_7:SKJEMA_8AARC); (N_18_7:SKJEMA_8AARB); (N_18_7:SK
 | Seldom | 14724 |
 | Often | 1919 |
 | More than 1 check box filled in | 36 |
+| Not NA | 43112 |
 | NA | 375 |
 
 
@@ -2829,6 +3017,7 @@ N_18_8:SKJEMA_8AARKORT; (N_18_8:SKJEMA_8AARC); (N_18_8:SKJEMA_8AARB); (N_18_8:SK
 | Seldom | 9379 |
 | Always | 948 |
 | More than 1 check box filled in | 28 |
+| Not NA | 43039 |
 | NA | 448 |
 
 
@@ -2844,6 +3033,7 @@ N_18_9:SKJEMA_8AARKORT; (N_18_9:SKJEMA_8AARC); (N_18_9:SKJEMA_8AARB); (N_18_9:SK
 | Often | 17965 |
 | Sometimes | 10056 |
 | More than 1 check box filled in | 16 |
+| Not NA | 43067 |
 | NA | 420 |
 
 
@@ -2859,6 +3049,7 @@ N_1810:SKJEMA_8AARKORT; (N_1810:SKJEMA_8AARC); (N_1810:SKJEMA_8AARB); (N_1810:SK
 | Never | 1814 |
 | Often | 12035 |
 | More than 1 check box filled in | 18 |
+| Not NA | 43104 |
 | NA | 383 |
 
 
@@ -2874,6 +3065,7 @@ N_1811:SKJEMA_8AARKORT; (N_1811:SKJEMA_8AARC); (N_1811:SKJEMA_8AARB); (N_1811:SK
 | Sometimes | 1748 |
 | Always | 126 |
 | More than 1 check box filled in | 10 |
+| Not NA | 43047 |
 | NA | 440 |
 
 
@@ -2889,6 +3081,7 @@ N_1812:SKJEMA_8AARKORT; (N_1812:SKJEMA_8AARC); (N_1812:SKJEMA_8AARB); (N_1812:SK
 | Sometimes | 1227 |
 | Often | 73 |
 | Always | 21 |
+| Not NA | 42485 |
 | NA | 1002 |
 
 
@@ -2904,6 +3097,7 @@ N_1813:SKJEMA_8AARKORT; (N_1813:SKJEMA_8AARC); (N_1813:SKJEMA_8AARB); (N_1813:SK
 | Often | 1565 |
 | Always | 282 |
 | More than 1 check box filled in | 14 |
+| Not NA | 43120 |
 | NA | 367 |
 
 
@@ -2919,6 +3113,7 @@ N_1814:SKJEMA_8AARKORT; (N_1814:SKJEMA_8AARC); (N_1814:SKJEMA_8AARB); (N_1814:SK
 | Often | 3609 |
 | Always | 806 |
 | More than 1 check box filled in | 36 |
+| Not NA | 42142 |
 | NA | 1345 |
 
 
@@ -2934,6 +3129,7 @@ N_1815:SKJEMA_8AARKORT; (N_1815:SKJEMA_8AARC); (N_1815:SKJEMA_8AARB); (N_1815:SK
 | Never | 757 |
 | Always | 794 |
 | More than 1 check box filled in | 20 |
+| Not NA | 43108 |
 | NA | 379 |
 
 
@@ -2949,6 +3145,7 @@ N_1816:SKJEMA_8AARKORT; (N_1816:SKJEMA_8AARC); (N_1816:SKJEMA_8AARB); (N_1816:SK
 | Never | 13627 |
 | Always | 890 |
 | More than 1 check box filled in | 10 |
+| Not NA | 42164 |
 | NA | 1323 |
 
 
@@ -2964,6 +3161,7 @@ N_1817:SKJEMA_8AARKORT; (N_1817:SKJEMA_8AARC); (N_1817:SKJEMA_8AARB); (N_1817:SK
 | Often | 3437 |
 | More than 1 check box filled in | 8 |
 | Always | 231 |
+| Not NA | 42787 |
 | NA | 700 |
 
 
@@ -2979,6 +3177,7 @@ N_1818:SKJEMA_8AARKORT; (N_1818:SKJEMA_8AARC); (N_1818:SKJEMA_8AARB); (N_1818:SK
 | Often | 97 |
 | Always | 49 |
 | More than 1 check box filled in | 11 |
+| Not NA | 42292 |
 | NA | 1195 |
 
 
@@ -2994,6 +3193,7 @@ N_1819:SKJEMA_8AARC; The child decides that he/she does not like the food, befor
 | Always | 628 |
 | Never | 4638 |
 | More than 1 check box filled in | 20 |
+| Not NA | 35106 |
 | NA | 8381 |
 
 
@@ -3006,6 +3206,7 @@ N_19_1:SKJEMA_8AARKORT; (N_19_1:SKJEMA_8AARC); (N_19_1:SKJEMA_8AARB); (N_19_1:SK
 | Yes | 13627 |
 | No | 29456 |
 | More than 1 check box filled in | 1 |
+| Not NA | 43084 |
 | NA | 403 |
 
 
@@ -3018,6 +3219,7 @@ N_19_2:SKJEMA_8AARKORT; (N_19_2:SKJEMA_8AARC); (N_19_2:SKJEMA_8AARB); (N_19_2:SK
 | No | 41101 |
 | Yes | 1872 |
 | More than 1 check box filled in | 2 |
+| Not NA | 42975 |
 | NA | 512 |
 
 
@@ -3032,6 +3234,7 @@ N_19_3:SKJEMA_8AARKORT; (N_19_3:SKJEMA_8AARC); (N_19_3:SKJEMA_8AARB); (N_19_3:SK
 | 2 times a week or more | 194 |
 | Once per week | 374 |
 | More than 1 check box filled in | 20 |
+| Not NA | 42440 |
 | NA | 1047 |
 
 
@@ -3046,6 +3249,7 @@ N_20_1:SKJEMA_8AARKORT; (N_20_1:SKJEMA_8AARC); (N_20_1:SKJEMA_8AARB); (N_20_1:SK
 | Regularily | 486 |
 | Often/ Always | 106 |
 | More than 1 check box filled in | 3 |
+| Not NA | 43168 |
 | NA | 319 |
 
 
@@ -3060,6 +3264,7 @@ N_20_2:SKJEMA_8AARKORT; (N_20_2:SKJEMA_8AARC); (N_20_2:SKJEMA_8AARB); (N_20_2:SK
 | Regularily | 1291 |
 | Often/ Always | 207 |
 | More than 1 check box filled in | 4 |
+| Not NA | 43081 |
 | NA | 406 |
 
 
@@ -3074,6 +3279,7 @@ N_20_3:SKJEMA_8AARKORT; (N_20_3:SKJEMA_8AARC); (N_20_3:SKJEMA_8AARB); (N_20_3:SK
 | Often/ Always | 293 |
 | Regularily | 915 |
 | More than 1 check box filled in | 11 |
+| Not NA | 43073 |
 | NA | 414 |
 
 
@@ -3088,6 +3294,7 @@ N_20_4:SKJEMA_8AARKORT; (N_20_4:SKJEMA_8AARC); (N_20_4:SKJEMA_8AARB); (N_20_4:SK
 | Regularily | 273 |
 | Often/ Always | 66 |
 | More than 1 check box filled in | 10 |
+| Not NA | 43132 |
 | NA | 355 |
 
 
@@ -3102,6 +3309,7 @@ N_20_5:SKJEMA_8AARKORT; (N_20_5:SKJEMA_8AARC); (N_20_5:SKJEMA_8AARB); (N_20_5:SK
 | Regularily | 176 |
 | Often/ Always | 70 |
 | More than 1 check box filled in | 2 |
+| Not NA | 43160 |
 | NA | 327 |
 
 
@@ -3116,6 +3324,7 @@ N_20_6:SKJEMA_8AARKORT; (N_20_6:SKJEMA_8AARC); (N_20_6:SKJEMA_8AARB); (N_20_6:SK
 | Regularily | 239 |
 | Often/ Always | 66 |
 | More than 1 check box filled in | 4 |
+| Not NA | 43121 |
 | NA | 366 |
 
 
@@ -3130,6 +3339,7 @@ N_20_7:SKJEMA_8AARKORT; (N_20_7:SKJEMA_8AARC); (N_20_7:SKJEMA_8AARB); (N_20_7:SK
 | Regularily | 379 |
 | Often/ Always | 62 |
 | More than 1 check box filled in | 6 |
+| Not NA | 43098 |
 | NA | 389 |
 
 
@@ -3144,6 +3354,7 @@ N_20_8:SKJEMA_8AARKORT; (N_20_8:SKJEMA_8AARC); (N_20_8:SKJEMA_8AARB); (N_20_8:SK
 | Often/ Always | 114 |
 | Regularily | 771 |
 | More than 1 check box filled in | 5 |
+| Not NA | 43053 |
 | NA | 434 |
 
 
@@ -3158,6 +3369,7 @@ N_20_9:SKJEMA_8AARKORT; (N_20_9:SKJEMA_8AARC); (N_20_9:SKJEMA_8AARB); (N_20_9:SK
 | Often/ Always | 93 |
 | Regularily | 270 |
 | More than 1 check box filled in | 6 |
+| Not NA | 43088 |
 | NA | 399 |
 
 
@@ -3172,6 +3384,7 @@ N_2010:SKJEMA_8AARKORT; (N_2010:SKJEMA_8AARC); (N_2010:SKJEMA_8AARB); (N_2010:SK
 | Sometimes | 5880 |
 | Seldom or never | 2049 |
 | More than 1 check box filled in | 33 |
+| Not NA | 43113 |
 | NA | 374 |
 
 
@@ -3186,6 +3399,7 @@ N_2011:SKJEMA_8AARKORT; (N_2011:SKJEMA_8AARC); (N_2011:SKJEMA_8AARB); (N_2011:SK
 | Sometimes | 1067 |
 | Seldom or never | 512 |
 | More than 1 check box filled in | 28 |
+| Not NA | 43149 |
 | NA | 338 |
 
 
@@ -3200,6 +3414,7 @@ N_2012:SKJEMA_8AARKORT; (N_2012:SKJEMA_8AARC); (N_2012:SKJEMA_8AARB); (N_2012:SK
 | Sometimes | 988 |
 | Seldom or never | 885 |
 | More than 1 check box filled in | 19 |
+| Not NA | 43114 |
 | NA | 373 |
 
 
@@ -3214,6 +3429,7 @@ N_2013:SKJEMA_8AARKORT; (N_2013:SKJEMA_8AARC); (N_2013:SKJEMA_8AARB); (N_2013:SK
 | Sometimes | 4636 |
 | Seldom or never | 4785 |
 | More than 1 check box filled in | 26 |
+| Not NA | 42928 |
 | NA | 559 |
 
 
@@ -3228,6 +3444,7 @@ N_2014:SKJEMA_8AARKORT; (N_2014:SKJEMA_8AARC); (N_2014:SKJEMA_8AARB); (N_2014:SK
 | Regularily | 6302 |
 | Seldom or never | 911 |
 | More than 1 check box filled in | 21 |
+| Not NA | 43119 |
 | NA | 368 |
 
 
@@ -3242,6 +3459,7 @@ N_2015:SKJEMA_8AARKORT; (N_2015:SKJEMA_8AARC); (N_2015:SKJEMA_8AARB); (N_2015:SK
 | Sometimes | 1303 |
 | Seldom or never | 505 |
 | More than 1 check box filled in | 16 |
+| Not NA | 43066 |
 | NA | 421 |
 
 
@@ -3256,6 +3474,7 @@ N_2016:SKJEMA_8AARKORT; (N_2016:SKJEMA_8AARC); (N_2016:SKJEMA_8AARB); (N_2016:SK
 | Often/ Always | 23303 |
 | Seldom or never | 535 |
 | More than 1 check box filled in | 21 |
+| Not NA | 43027 |
 | NA | 460 |
 
 
@@ -3271,6 +3490,7 @@ N_21_1:SKJEMA_8AARKORT; (N_21_1:SKJEMA_8AARC); (N_21_1:SKJEMA_8AARB); (N_21_1:SK
 | (4) | 375 |
 | Completely correct (5) | 430 |
 | More than 1 check box filled in | 4 |
+| Not NA | 43113 |
 | NA | 374 |
 
 
@@ -3286,6 +3506,7 @@ N_21_2:SKJEMA_8AARKORT; (N_21_2:SKJEMA_8AARC); (N_21_2:SKJEMA_8AARB); (N_21_2:SK
 | Both right and wrong (3) | 830 |
 | Completely correct (5) | 72 |
 | More than 1 check box filled in | 6 |
+| Not NA | 43151 |
 | NA | 336 |
 
 
@@ -3301,6 +3522,7 @@ N_21_3:SKJEMA_8AARKORT; (N_21_3:SKJEMA_8AARC); (N_21_3:SKJEMA_8AARB); (N_21_3:SK
 | (4) | 483 |
 | Completely correct (5) | 331 |
 | More than 1 check box filled in | 4 |
+| Not NA | 43147 |
 | NA | 340 |
 
 
@@ -3316,6 +3538,7 @@ N_21_4:SKJEMA_8AARKORT; (N_21_4:SKJEMA_8AARC); (N_21_4:SKJEMA_8AARB); (N_21_4:SK
 | Completely correct (5) | 253 |
 | (4) | 516 |
 | More than 1 check box filled in | 5 |
+| Not NA | 43147 |
 | NA | 340 |
 
 
@@ -3331,6 +3554,7 @@ N_21_5:SKJEMA_8AARKORT; (N_21_5:SKJEMA_8AARC); (N_21_5:SKJEMA_8AARB); (N_21_5:SK
 | (4) | 311 |
 | Completely correct (5) | 249 |
 | More than 1 check box filled in | 16 |
+| Not NA | 43086 |
 | NA | 401 |
 
 
@@ -3346,6 +3570,7 @@ N_21_6:SKJEMA_8AARKORT; (N_21_6:SKJEMA_8AARC); (N_21_6:SKJEMA_8AARB); (N_21_6:SK
 | (2) | 9066 |
 | (4) | 1454 |
 | More than 1 check box filled in | 18 |
+| Not NA | 43095 |
 | NA | 392 |
 
 
@@ -3361,6 +3586,7 @@ N_21_7:SKJEMA_8AARKORT; (N_21_7:SKJEMA_8AARC); (N_21_7:SKJEMA_8AARB); (N_21_7:SK
 | (4) | 604 |
 | Completely correct (5) | 309 |
 | More than 1 check box filled in | 10 |
+| Not NA | 43098 |
 | NA | 389 |
 
 
@@ -3376,6 +3602,7 @@ N_21_8:SKJEMA_8AARC; Forgets words s/he knows the meaning of; 21. Mark each stat
 | (4) | 355 |
 | Completely correct (5) | 134 |
 | More than 1 check box filled in | 1 |
+| Not NA | 35045 |
 | NA | 8442 |
 
 
@@ -3390,6 +3617,7 @@ N_25_1:SKJEMA_8AARKORT; (N_25_1:SKJEMA_8AARC); (N_25_1:SKJEMA_8AARB); (N_25_1:SK
 | The teacher is worried | 1435 |
 | Don’t know / have not talked to the teacher about it | 759 |
 | More than 1 check box filled in | 19 |
+| Not NA | 42962 |
 | NA | 525 |
 
 
@@ -3404,6 +3632,7 @@ N_25_2:SKJEMA_8AARKORT; (N_25_2:SKJEMA_8AARC); (N_25_2:SKJEMA_8AARB); (N_25_2:SK
 | Don’t know / have not talked to the teacher about it | 1232 |
 | The teacher is worried | 1478 |
 | More than 1 check box filled in | 36 |
+| Not NA | 42888 |
 | NA | 599 |
 
 
@@ -3418,6 +3647,7 @@ N_25_3:SKJEMA_8AARKORT; (N_25_3:SKJEMA_8AARC); (N_25_3:SKJEMA_8AARB); (N_25_3:SK
 | Don’t know / have not talked to the teacher about it | 1320 |
 | The teacher is worried | 813 |
 | More than 1 check box filled in | 20 |
+| Not NA | 42589 |
 | NA | 898 |
 
 
@@ -3430,6 +3660,7 @@ N_26_1_1:SKJEMA_8AARKORT; (N_26_1_1:SKJEMA_8AARC); (N_26_1_1:SKJEMA_8AARB); (N_2
 | No | 41266 |
 | Yes | 1799 |
 | More than 1 check box filled in | 1 |
+| Not NA | 43066 |
 | NA | 421 |
 
 
@@ -3452,6 +3683,7 @@ N_26_1_2:SKJEMA_8AARKORT; (N_26_1_2:SKJEMA_8AARB); (N_26_1_2:SKJEMA_8AAR); In No
 | 14 | 1 |
 | 7 | 2 |
 | 20 | 1 |
+| Not NA | 290 |
 | NA | 43197 |
 
 
@@ -3463,6 +3695,7 @@ N_26_2_1:SKJEMA_8AARKORT; (N_26_2_1:SKJEMA_8AARC); (N_26_2_1:SKJEMA_8AARB); (N_2
 | -------- | - |
 | No | 42038 |
 | Yes | 1018 |
+| Not NA | 43056 |
 | NA | 431 |
 
 
@@ -3483,6 +3716,7 @@ N_26_2_2:SKJEMA_8AARKORT; (N_26_2_2:SKJEMA_8AARB); (N_26_2_2:SKJEMA_8AAR); In ar
 | 7 | 2 |
 | 9 | 1 |
 | 20 | 1 |
+| Not NA | 119 |
 | NA | 43368 |
 
 
@@ -3494,6 +3728,7 @@ N_26_3_1:SKJEMA_8AARKORT; (N_26_3_1:SKJEMA_8AARC); (N_26_3_1:SKJEMA_8AARB); (N_2
 | -------- | - |
 | No | 42321 |
 | Yes | 535 |
+| Not NA | 42856 |
 | NA | 631 |
 
 
@@ -3514,6 +3749,7 @@ N_26_3_2:SKJEMA_8AARKORT; (N_26_3_2:SKJEMA_8AARB); (N_26_3_2:SKJEMA_8AAR); In ot
 | 5 | 1 |
 | 15 | 1 |
 | 20 | 1 |
+| Not NA | 60 |
 | NA | 43427 |
 
 
@@ -3526,6 +3762,7 @@ N_26_4_1:SKJEMA_8AARKORT; (N_26_4_1:SKJEMA_8AARC); (N_26_4_1:SKJEMA_8AARB); (N_2
 | No | 41041 |
 | Yes | 1614 |
 | More than 1 check box filled in | 2 |
+| Not NA | 42657 |
 | NA | 830 |
 
 
@@ -3542,6 +3779,7 @@ N_26_4_2:SKJEMA_8AARKORT; (N_26_4_2:SKJEMA_8AARB); (N_26_4_2:SKJEMA_8AAR); Does 
 | 3rd Qu. | 5 |
 | Max. | 40 |
 | NA's | 43222 |
+| Not NA | 265 |
 
 
 ### NN250
@@ -3553,6 +3791,7 @@ N_26_5:SKJEMA_8AARKORT; (N_26_5_1:SKJEMA_8AARC); (N_26_5:SKJEMA_8AARB); (N_26_5:
 | No | 41824 |
 | Yes | 1129 |
 | More than 1 check box filled in | 1 |
+| Not NA | 42954 |
 | NA | 533 |
 
 
@@ -3565,6 +3804,7 @@ N_26_1_2:SKJEMA_8AARC; In Norwegian language? If yes, how much help has been all
 | Some (3-5h/week) | 443 |
 | Minimal (Less than 3h/week) | 722 |
 | A lot (6h/week) | 186 |
+| Not NA | 1351 |
 | NA | 42136 |
 
 
@@ -3577,6 +3817,7 @@ N_26_2_2:SKJEMA_8AARC; In arithmetic? If yes, how much help has been allocated?;
 | Some (3-5h/week) | 240 |
 | Minimal (Less than 3h/week) | 390 |
 | A lot (6h/week) | 140 |
+| Not NA | 770 |
 | NA | 42717 |
 
 
@@ -3589,6 +3830,7 @@ N_26_3_2:SKJEMA_8AARC; In other subjects? If yes, how much help has been allocat
 | Some (3-5h/week) | 109 |
 | Minimal (Less than 3h/week) | 128 |
 | A lot (6h/week) | 127 |
+| Not NA | 364 |
 | NA | 43123 |
 
 
@@ -3602,6 +3844,7 @@ N_26_4_2:SKJEMA_8AARC; Does your child receive any other educational support? If
 | A lot (6h/week) | 190 |
 | Some (3-5h/week) | 243 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1230 |
 | NA | 42257 |
 
 
@@ -3614,6 +3857,7 @@ N_26_5_2:SKJEMA_8AARC; Does your child get extra help (e.g., an assistant) at sc
 | Minimal (Less than 3h/week) | 205 |
 | A lot (6h/week) | 399 |
 | Some (3-5h/week) | 189 |
+| Not NA | 793 |
 | NA | 42694 |
 
 
@@ -3635,6 +3879,7 @@ N_27_1:SKJEMA_8AARKORT; (N_27_1:SKJEMA_8AARC); (N_27_1:SKJEMA_8AARB); (N_27_1:SK
 | More than 1 check box filled in | 5 |
 | (5+6) | 3 |
 | (1+2) | 1 |
+| Not NA | 43122 |
 | NA | 365 |
 
 
@@ -3655,6 +3900,7 @@ N_27_2:SKJEMA_8AARKORT; (N_27_2:SKJEMA_8AARC); (N_27_2:SKJEMA_8AARB); (N_27_2:SK
 | (3+4) | 22 |
 | (1+2) | 8 |
 | (4+5) | 4 |
+| Not NA | 42235 |
 | NA | 1252 |
 
 
@@ -3674,6 +3920,7 @@ N_27_3:SKJEMA_8AARKORT; (N_27_3:SKJEMA_8AARC); (N_27_3:SKJEMA_8AARB); (N_27_3:SK
 | (2+3) | 12 |
 | More than 1 check box filled in | 7 |
 | (3+4) | 2 |
+| Not NA | 42452 |
 | NA | 1035 |
 
 
@@ -3686,6 +3933,7 @@ N_28_1:SKJEMA_8AARKORT; (N_28_1:SKJEMA_8AARB); (N_28_1:SKJEMA_8AAR); Reads simpl
 | Yes | 7976 |
 | No | 41 |
 | More than 1 check box filled in | 1 |
+| Not NA | 8018 |
 | NA | 35469 |
 
 
@@ -3699,6 +3947,7 @@ N_28_2:SKJEMA_8AARKORT; (N_28_2:SKJEMA_8AARB); (N_28_2:SKJEMA_8AAR); Identifies 
 | No | 80 |
 | Do not know | 1 |
 | More than 1 check box filled in | 1 |
+| Not NA | 8019 |
 | NA | 35468 |
 
 
@@ -3711,6 +3960,7 @@ N_28_3:SKJEMA_8AARKORT; (N_28_3:SKJEMA_8AARB); (N_28_3:SKJEMA_8AAR); Reads (alou
 | Yes | 7959 |
 | No | 52 |
 | Do not know | 4 |
+| Not NA | 8015 |
 | NA | 35472 |
 
 
@@ -3724,6 +3974,7 @@ N_28_4:SKJEMA_8AARKORT; (N_28_4:SKJEMA_8AARB); (N_28_4:SKJEMA_8AAR); Writes simp
 | Do not know | 14 |
 | No | 140 |
 | More than 1 check box filled in | 1 |
+| Not NA | 8018 |
 | NA | 35469 |
 
 
@@ -3737,6 +3988,7 @@ N_28_1:SKJEMA_8AARC; Reads simple stories aloud, with ease, when asked.; 28. Ent
 | Partly | 6133 |
 | Not Yet | 1639 |
 | More than 1 check box filled in | 11 |
+| Not NA | 35225 |
 | NA | 8262 |
 
 
@@ -3750,6 +4002,7 @@ N_28_2:SKJEMA_8AARC; Identifies all lowercase printed letters (i.e. a,b,c) and u
 | Partly | 872 |
 | Not Yet | 110 |
 | More than 1 check box filled in | 1 |
+| Not NA | 35241 |
 | NA | 8246 |
 
 
@@ -3763,6 +4016,7 @@ N_28_3:SKJEMA_8AARC; Reads (aloud or covertly) and understands texts suitable fo
 | Not Yet | 592 |
 | Partly | 2777 |
 | More than 1 check box filled in | 8 |
+| Not NA | 35231 |
 | NA | 8256 |
 
 
@@ -3776,6 +4030,7 @@ N_28_4:SKJEMA_8AARC; Writes simple information/messages at least three sentences
 | Yes | 30414 |
 | Not Yet | 1372 |
 | More than 1 check box filled in | 4 |
+| Not NA | 35203 |
 | NA | 8284 |
 
 
@@ -3789,6 +4044,7 @@ N_28_5:SKJEMA_8AARC; Writes reports, papers, or essays at least one page long; m
 | Yes | 16971 |
 | Not Yet | 8235 |
 | More than 1 check box filled in | 25 |
+| Not NA | 35186 |
 | NA | 8301 |
 
 
@@ -3804,6 +4060,7 @@ N_29_1:SKJEMA_8AARKORT; (N_29_1:SKJEMA_8AARC); (N_29_1:SKJEMA_8AARB); (N_29_1:SK
 | 3 | 186 |
 | Very difficult (1) | 40 |
 | More than 1 check box filled in | 8 |
+| Not NA | 43243 |
 | NA | 244 |
 
 
@@ -3819,6 +4076,7 @@ N_29_2:SKJEMA_8AARKORT; (N_29_2:SKJEMA_8AARC); (N_29_2:SKJEMA_8AARB); (N_29_2:SK
 | Very difficult (1) | 84 |
 | (2) | 168 |
 | More than 1 check box filled in | 8 |
+| Not NA | 43242 |
 | NA | 245 |
 
 
@@ -3837,6 +4095,7 @@ N_29_3:SKJEMA_8AARKORT; (N_29_3:SKJEMA_8AARC); (N_29_3:SKJEMA_8AARB); (N_29_3:SK
 | (4+5) | 4 |
 | (2+3) | 3 |
 | More than 1 check box filled in | 1 |
+| Not NA | 43227 |
 | NA | 260 |
 
 
@@ -3855,6 +4114,7 @@ N_29_4:SKJEMA_8AARKORT; (N_29_4:SKJEMA_8AARC); (N_29_4:SKJEMA_8AARB); (N_29_4:SK
 | (2+3) | 2 |
 | (4+5) | 5 |
 | More than 1 check box filled in | 2 |
+| Not NA | 43191 |
 | NA | 296 |
 
 
@@ -3870,6 +4130,7 @@ N_30:SKJEMA_8AARKORT; (N_30:SKJEMA_8AARC); (N_30:SKJEMA_8AARB); (N_30:SKJEMA_8AA
 | 3-4 times a week | 10886 |
 | Never | 2990 |
 | More than 1 check box filled in | 87 |
+| Not NA | 42904 |
 | NA | 583 |
 
 
@@ -3889,6 +4150,7 @@ N_31:SKJEMA_8AARKORT; (N_31:SKJEMA_8AARB); (N_31:SKJEMA_8AAR); ; 31. How long do
 | (3+4) | 11 |
 | (4+5) | 14 |
 | (1+2) | 1 |
+| Not NA | 7992 |
 | NA | 35495 |
 
 
@@ -3909,6 +4171,7 @@ N_32:SKJEMA_8AARKORT; (N_32:SKJEMA_8AARB); (N_32:SKJEMA_8AAR); ; 32. How long do
 | (2+3) | 1 |
 | More than 1 check box filled in | 4 |
 | (1+2) | 1 |
+| Not NA | 8007 |
 | NA | 35480 |
 
 
@@ -3935,6 +4198,7 @@ N_33:SKJEMA_8AARKORT; (N_31_3:SKJEMA_8AARC); (N_33:SKJEMA_8AARB); (N_33:SKJEMA_8
 | 1 + 4 | 3 |
 | 3 + 5 | 2 |
 | 4 + 5 | 3 |
+| Not NA | 43143 |
 | NA | 344 |
 
 
@@ -3952,6 +4216,7 @@ N_31_1:SKJEMA_8AARC; ; 31. How long does your child like to sit still and be rea
 | 4+5 | 24 |
 | 3+4 | 25 |
 | More than 1 check box filled in | 5 |
+| Not NA | 35185 |
 | NA | 8302 |
 
 
@@ -3971,6 +4236,7 @@ N_31_2:SKJEMA_8AARC; ; 31. How long does your child sit still and read by him/he
 | 4+5 | 8 |
 | 1+2 | 4 |
 | More than 1 check box filled in | 2 |
+| Not NA | 35217 |
 | NA | 8270 |
 
 
@@ -3990,6 +4256,7 @@ N_33:SKJEMA_8AARC; ; 33. About how many hours a does your child usually sleep on
 | 11 hours + 12 hours or more | 14 |
 | More than 1 check box filled in | 5 |
 | 8 hours or less + 9 hours | 5 |
+| Not NA | 35163 |
 | NA | 8324 |
 
 
@@ -4002,6 +4269,7 @@ N_34_1_1:SKJEMA_8AARC; Concentration; 34. On the whole, do you think the child c
 | No | 30817 |
 | Yes | 4323 |
 | More than 1 check box filled in | 32 |
+| Not NA | 35172 |
 | NA | 8315 |
 
 
@@ -4014,6 +4282,7 @@ N_34_1_2:SKJEMA_8AARC; Behavior; 34. On the whole, do you think the child curren
 | No | 32361 |
 | Yes | 2768 |
 | More than 1 check box filled in | 28 |
+| Not NA | 35157 |
 | NA | 8330 |
 
 
@@ -4026,6 +4295,7 @@ N_34_1_3:SKJEMA_8AARC; Emotions; 34. On the whole, do you think the child curren
 | No | 31488 |
 | Yes | 3624 |
 | More than 1 check box filled in | 24 |
+| Not NA | 35136 |
 | NA | 8351 |
 
 
@@ -4038,6 +4308,7 @@ N_34_1_4:SKJEMA_8AARC; Getting along with others; 34. On the whole, do you think
 | No | 33766 |
 | Yes | 1363 |
 | More than 1 check box filled in | 21 |
+| Not NA | 35150 |
 | NA | 8337 |
 
 
@@ -4050,6 +4321,7 @@ N_34_1_5:SKJEMA_8AARC; Language; 34. On the whole, do you think the child curren
 | No | 34168 |
 | Yes | 925 |
 | More than 1 check box filled in | 12 |
+| Not NA | 35105 |
 | NA | 8382 |
 
 
@@ -4063,6 +4335,7 @@ N_34_2_1:SKJEMA_8AARC; If yes, is the child disturbed or bothered by these probl
 | No | 5187 |
 | Yes, a lot | 646 |
 | More than 1 check box filled in | 6 |
+| Not NA | 11151 |
 | NA | 32336 |
 
 
@@ -4076,6 +4349,7 @@ N_34_2_2:SKJEMA_8AARC; Do these problems affect the child`s daily life in any of
 | No | 4810 |
 | Yes, a little | 4467 |
 | More than 1 check box filled in | 5 |
+| Not NA | 10183 |
 | NA | 33304 |
 
 
@@ -4088,6 +4362,7 @@ N_34_2_3:SKJEMA_8AARC; Do these problems affect the child`s daily life in any of
 | Yes, a little | 2777 |
 | No | 6896 |
 | Yes, a lot | 455 |
+| Not NA | 10128 |
 | NA | 33359 |
 
 
@@ -4101,6 +4376,7 @@ N_34_2_4:SKJEMA_8AARC; Do these problems affect the child`s daily life in any of
 | Yes, a lot | 962 |
 | No | 5887 |
 | More than 1 check box filled in | 4 |
+| Not NA | 10146 |
 | NA | 33341 |
 
 
@@ -4115,6 +4391,7 @@ N_35:SKJEMA_8AARC; (N_35:SKJEMA_8AARB); (N_35:SKJEMA_8AAR); ; 35. Are you curren
 | Yes, but currently partly on sick leave | 1530 |
 | Yes, but currently on sick leave | 1128 |
 | More than 1 check box filled in | 30 |
+| Not NA | 42708 |
 | NA | 779 |
 
 
@@ -4130,6 +4407,7 @@ N_36:SKJEMA_8AARC; (N_36:SKJEMA_8AARB); (N_36:SKJEMA_8AAR); ; 36. What is your h
 | Further education 3 years - (general studies, sixth form) | 3260 |
 | 9-year elementary education | 303 |
 | 1-2 years in high school | 958 |
+| Not NA | 42577 |
 | NA | 910 |
 
 
@@ -4153,6 +4431,7 @@ N_37:SKJEMA_8AARC; (N_37:SKJEMA_8AARB); (N_37:SKJEMA_8AAR); Number of children; 
 | 13 | 1 |
 | 20 | 2 |
 | 10 | 2 |
+| Not NA | 42705 |
 | NA | 782 |
 
 
@@ -4163,6 +4442,7 @@ N_38_1:SKJEMA_8AARC; (N_38_1:SKJEMA_8AARB); (N_38_1:SKJEMA_8AAR); Spouse; 38. Wh
 | Category | n |
 | -------- | - |
 | 1 | 29524 |
+| Not NA | 29524 |
 | NA | 13963 |
 
 
@@ -4173,6 +4453,7 @@ N_38_2:SKJEMA_8AARC; (N_38_2:SKJEMA_8AARB); (N_38_2:SKJEMA_8AAR); Partner; 38. W
 | Category | n |
 | -------- | - |
 | 1 | 9451 |
+| Not NA | 9451 |
 | NA | 34036 |
 
 
@@ -4183,6 +4464,7 @@ N_38_3:SKJEMA_8AARC; (N_38_3:SKJEMA_8AARB); (N_38_3:SKJEMA_8AAR); Other children
 | Category | n |
 | -------- | - |
 | 1 | 673 |
+| Not NA | 673 |
 | NA | 42814 |
 
 
@@ -4193,6 +4475,7 @@ N_38_4:SKJEMA_8AARC; (N_38_4:SKJEMA_8AARB); (N_38_4:SKJEMA_8AAR); Other people; 
 | Category | n |
 | -------- | - |
 | 1 | 190 |
+| Not NA | 190 |
 | NA | 43297 |
 
 
@@ -4203,6 +4486,7 @@ N_38_5:SKJEMA_8AARC; (N_38_5:SKJEMA_8AARB); (N_38_5:SKJEMA_8AAR); No one; 38. Wh
 | Category | n |
 | -------- | - |
 | 1 | 3661 |
+| Not NA | 3661 |
 | NA | 39826 |
 
 
@@ -4216,6 +4500,7 @@ N_39_1:SKJEMA_8AARC; (N_39_1:SKJEMA_8AARB); (N_39_1:SKJEMA_8AAR); ; 39. Do you l
 | No, we have moved apart | 5105 |
 | No, I have never lived with the child’s father | 481 |
 | More than 1 check box filled in | 6 |
+| Not NA | 42587 |
 | NA | 900 |
 
 
@@ -4236,6 +4521,7 @@ N_39_2:SKJEMA_8AARC; (N_39_2:SKJEMA_8AARB); (N_39_2:SKJEMA_8AAR); If you have se
 | 8 | 191 |
 | 9 | 3 |
 | 20 | 1 |
+| Not NA | 5182 |
 | NA | 38305 |
 
 
@@ -4252,6 +4538,7 @@ N_40_1:SKJEMA_8AARC; (N_40_1:SKJEMA_8AARB); (N_40_1:SKJEMA_8AAR); Duration of ac
 | Twice a week | 6153 |
 | Less than once per week | 5321 |
 | More than 1 check box filled in | 23 |
+| Not NA | 29960 |
 | NA | 13527 |
 
 
@@ -4268,6 +4555,7 @@ N_40_2:SKJEMA_8AARC; (N_40_2:SKJEMA_8AARB); (N_40_2:SKJEMA_8AAR); Duration of ac
 | Less than once per week | 5027 |
 | 5 times or more a week | 1983 |
 | More than 1 check box filled in | 25 |
+| Not NA | 37567 |
 | NA | 5920 |
 
 
@@ -4284,6 +4572,7 @@ N_40_3:SKJEMA_8AARC; (N_40_3:SKJEMA_8AARB); (N_40_3:SKJEMA_8AAR); Duration of ac
 | Once per week | 6613 |
 | 3-4 times a week | 2906 |
 | More than 1 check box filled in | 16 |
+| Not NA | 31616 |
 | NA | 11871 |
 
 
@@ -4300,6 +4589,7 @@ N_41_1:SKJEMA_8AARC; (N_41_1:SKJEMA_8AARB); (N_41_1:SKJEMA_8AAR); Height, cm; 41
 | 3rd Qu. | 172 |
 | Max. | 197 |
 | NA's | 1033 |
+| Not NA | 42454 |
 
 
 ### NN284
@@ -4315,6 +4605,7 @@ N_41_2:SKJEMA_8AARC; (N_41_2:SKJEMA_8AARB); (N_41_2:SKJEMA_8AAR); Weight, kg; 41
 | 3rd Qu. | 76 |
 | Max. | 970 |
 | NA's | 1537 |
+| Not NA | 41950 |
 
 
 ### NN285
@@ -4326,6 +4617,7 @@ N_42_1_1:SKJEMA_8AARC; (N_42_1_1:SKJEMA_8AARB); (N_42_1_1:SKJEMA_8AAR); ; 42. Ha
 | No | 34657 |
 | Yes | 7385 |
 | More than 1 check box filled in | 14 |
+| Not NA | 42056 |
 | NA | 1431 |
 
 
@@ -4342,6 +4634,7 @@ N_42_1_2:SKJEMA_8AARC; (N_42_1_2:SKJEMA_8AARB); (N_42_1_2:SKJEMA_8AAR); Yes, yea
 | 3rd Qu. | 30 |
 | Max. | 99 |
 | NA's | 35993 |
+| Not NA | 7494 |
 
 
 ### NN287
@@ -4357,6 +4650,7 @@ N_42_1_3:SKJEMA_8AARC; (N_42_1_3:SKJEMA_8AARB); (N_42_1_3:SKJEMA_8AAR); Yes, kg;
 | 3rd Qu. | 57 |
 | Max. | 176 |
 | NA's | 36092 |
+| Not NA | 7395 |
 
 
 ### NN288
@@ -4372,6 +4666,7 @@ N_42_1_4:SKJEMA_8AARC; (N_42_1_4:SKJEMA_8AARB); (N_42_1_4:SKJEMA_8AAR); Yes, cm;
 | 3rd Qu. | 172 |
 | Max. | 190 |
 | NA's | 36083 |
+| Not NA | 7404 |
 
 
 ### NN289
@@ -4384,6 +4679,7 @@ N_42_2:SKJEMA_8AARC; (N_42_2:SKJEMA_8AARB); (N_42_2:SKJEMA_8AAR); During that ti
 | Very much | 833 |
 | Not at all | 5748 |
 | More than 1 check box filled in | 3 |
+| Not NA | 8196 |
 | NA | 35291 |
 
 
@@ -4397,6 +4693,7 @@ N_42_3:SKJEMA_8AARC; (N_42_3:SKJEMA_8AARB); (N_42_3:SKJEMA_8AAR); During that ti
 | Not at all | 4565 |
 | A little | 1872 |
 | More than 1 check box filled in | 3 |
+| Not NA | 8073 |
 | NA | 35414 |
 
 
@@ -4413,6 +4710,7 @@ N_42_4_1:SKJEMA_8AARC; (N_42_4_1:SKJEMA_8AARB); (N_42_4_1:SKJEMA_8AAR); When was
 | 3rd Qu. | 29 |
 | Max. | 56 |
 | NA's | 40032 |
+| Not NA | 3455 |
 
 
 ### NN292
@@ -4424,6 +4722,7 @@ N_42_4_2:SKJEMA_8AARC; (N_42_4_2:SKJEMA_8AARB); (N_42_4_2:SKJEMA_8AAR); When was
 | Yes | 678 |
 | No | 3962 |
 | More than 1 check box filled in | 6 |
+| Not NA | 4646 |
 | NA | 38841 |
 
 
@@ -4435,6 +4734,7 @@ N_43_1:SKJEMA_8AAR; ; 43. During the last year, have you ever had eating binges 
 | -------- | - |
 | No | 3600 |
 | Yes | 342 |
+| Not NA | 3942 |
 | NA | 39545 |
 
 
@@ -4447,6 +4747,7 @@ N_43_3:SKJEMA_8AARC; (N_43_2:SKJEMA_8AARB); (N_43_2:SKJEMA_8AAR); Did you feel t
 | Yes, somewhat out of control | 1800 |
 | No | 1446 |
 | Yes, absolutely out of control | 220 |
+| Not NA | 3466 |
 | NA | 40021 |
 
 
@@ -4459,6 +4760,7 @@ N_43_4:SKJEMA_8AARC; (N_43_3:SKJEMA_8AARB); (N_43_3:SKJEMA_8AAR); How upset or d
 | Very much | 795 |
 | Some | 1535 |
 | Not at all | 559 |
+| Not NA | 2889 |
 | NA | 40598 |
 
 
@@ -4473,6 +4775,7 @@ N_44_1:SKJEMA_8AARC; (N_44_1:SKJEMA_8AARB); (N_44_1:SKJEMA_8AAR); Make yourself 
 | Weekly | 79 |
 | Several times a week | 61 |
 | More than 1 check box filled in | 1 |
+| Not NA | 41717 |
 | NA | 1770 |
 
 
@@ -4486,6 +4789,7 @@ N_44_2:SKJEMA_8AARC; (N_44_2:SKJEMA_8AARB); (N_44_2:SKJEMA_8AAR); Use laxatives 
 | A few times | 501 |
 | Several times a week | 24 |
 | Weekly | 22 |
+| Not NA | 41702 |
 | NA | 1785 |
 
 
@@ -4500,6 +4804,7 @@ N_44_3:SKJEMA_8AARC; (N_44_3:SKJEMA_8AARB); (N_44_3:SKJEMA_8AAR); Fast or not ea
 | Weekly | 81 |
 | Several times a week | 33 |
 | More than 1 check box filled in | 3 |
+| Not NA | 41709 |
 | NA | 1778 |
 
 
@@ -4514,6 +4819,7 @@ N_44_4:SKJEMA_8AARC; (N_44_4:SKJEMA_8AARB); (N_44_4:SKJEMA_8AAR); Use diet pills
 | Weekly | 83 |
 | Several times a week | 113 |
 | More than 1 check box filled in | 2 |
+| Not NA | 41692 |
 | NA | 1795 |
 
 
@@ -4528,6 +4834,7 @@ N_44_5:SKJEMA_8AARC; (N_44_5:SKJEMA_8AARB); (N_44_5:SKJEMA_8AAR); Exercise more 
 | Weekly | 382 |
 | Several times a week | 173 |
 | More than 1 check box filled in | 4 |
+| Not NA | 41663 |
 | NA | 1824 |
 
 
@@ -4543,6 +4850,7 @@ N_45:SKJEMA_8AARC; (N_45:SKJEMA_8AARB); (N_45:SKJEMA_8AAR); ; 45. In general, ho
 | (2) | 4543 |
 | Not important at all (1) | 1067 |
 | More than 1 check box filled in | 31 |
+| Not NA | 41875 |
 | NA | 1612 |
 
 
@@ -4556,6 +4864,7 @@ N_43_1:SKJEMA_8AARB; ; 43. During the last year, have you ever had eating binges
 | Yes, but less often | 261 |
 | Yes, at least once a week | 63 |
 | More than 1 check box filled in | 1 |
+| Not NA | 3684 |
 | NA | 39803 |
 
 
@@ -4567,6 +4876,7 @@ N_43_1:SKJEMA_8AARC; ; 43. During the last year, have you ever had eating binges
 | -------- | - |
 | No, go on to question 44 | 32481 |
 | Yes | 2092 |
+| Not NA | 34573 |
 | NA | 8914 |
 
 
@@ -4583,6 +4893,7 @@ N_43_2:SKJEMA_8AARC; In the period when you had the most number of eating binges
 | 3rd Qu. | 8 |
 | Max. | 90 |
 | NA's | 41664 |
+| Not NA | 1823 |
 
 
 ### NN302
@@ -4593,6 +4904,7 @@ N_46:SKJEMA_8AARC; (N_46:SKJEMA_8AARB); (N_46:SKJEMA_8AAR); ; 46. Are you pregna
 | -------- | - |
 | No | 41248 |
 | Yes | 1092 |
+| Not NA | 42340 |
 | NA | 1147 |
 
 
@@ -4604,6 +4916,7 @@ N_47:SKJEMA_8AARC; (N_47:SKJEMA_8AARB); (N_47:SKJEMA_8AAR); ; 47. Have you given
 | -------- | - |
 | No | 40547 |
 | Yes | 1707 |
+| Not NA | 42254 |
 | NA | 1233 |
 
 
@@ -4617,6 +4930,7 @@ N_48_1_1:SKJEMA_8AARC; (N_48_1_1:SKJEMA_8AARB); (N_48_1_1:SKJEMA_8AAR); ADHD; 48
 | Not now, but earlier | 62 |
 | Yes, nowadays | 178 |
 | More than 1 check box filled in | 1 |
+| Not NA | 42251 |
 | NA | 1236 |
 
 
@@ -4629,6 +4943,7 @@ N_48_1_2:SKJEMA_8AARC; (N_48_1_2:SKJEMA_8AARB); (N_48_1_2:SKJEMA_8AAR); ADHD;Hav
 | Yes | 149 |
 | No | 138 |
 | More than 1 check box filled in | 1 |
+| Not NA | 288 |
 | NA | 43199 |
 
 
@@ -4642,6 +4957,7 @@ N_48_2_1:SKJEMA_8AARC; (N_48_2_1:SKJEMA_8AARB); (N_48_2_1:SKJEMA_8AAR); Reading 
 | No, never | 39795 |
 | Yes, nowadays | 808 |
 | More than 1 check box filled in | 30 |
+| Not NA | 42204 |
 | NA | 1283 |
 
 
@@ -4654,6 +4970,7 @@ N_48_2_2:SKJEMA_8AARC; (N_48_2_2:SKJEMA_8AARB); (N_48_2_2:SKJEMA_8AAR); Reading 
 | Yes | 492 |
 | No | 755 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1249 |
 | NA | 42238 |
 
 
@@ -4667,6 +4984,7 @@ N_48_3_1:SKJEMA_8AARC; (N_48_3_1:SKJEMA_8AARB); (N_48_3_1:SKJEMA_8AAR); Anorexia
 | Not now, but earlier | 1225 |
 | Yes, nowadays | 21 |
 | More than 1 check box filled in | 3 |
+| Not NA | 42229 |
 | NA | 1258 |
 
 
@@ -4678,6 +4996,7 @@ N_48_3_2:SKJEMA_8AARC; (N_48_3_2:SKJEMA_8AARB); (N_48_3_2:SKJEMA_8AAR); Anorexia
 | -------- | - |
 | No | 499 |
 | Yes | 343 |
+| Not NA | 842 |
 | NA | 42645 |
 
 
@@ -4691,6 +5010,7 @@ N_48_4_1:SKJEMA_8AARC; (N_48_4_1:SKJEMA_8AARB); (N_48_4_1:SKJEMA_8AAR); Bulimia;
 | Not now, but earlier | 1378 |
 | Yes, nowadays | 119 |
 | More than 1 check box filled in | 6 |
+| Not NA | 42119 |
 | NA | 1368 |
 
 
@@ -4703,6 +5023,7 @@ N_48_4_2:SKJEMA_8AARC; (N_48_4_2:SKJEMA_8AARB); (N_48_4_2:SKJEMA_8AAR); Bulimia;
 | No | 681 |
 | Yes | 364 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1046 |
 | NA | 42441 |
 
 
@@ -4715,6 +5036,7 @@ N_48_5_1:SKJEMA_8AARC; (N_48_5_1:SKJEMA_8AARB); (N_48_5_1:SKJEMA_8AAR); Do you h
 | Yes | 7277 |
 | No | 33587 |
 | More than 1 check box filled in | 16 |
+| Not NA | 40880 |
 | NA | 2607 |
 
 
@@ -4726,6 +5048,7 @@ NX48_5_2:SKJEMA_8AARC; (NX48_5_2:SKJEMA_8AARB); (NX48_5_2:SKJEMA_8AAR); If yes, 
 | -------- | - |
 | 1 | 7454 |
 | 0 | 35804 |
+| Not NA | 43258 |
 | NA | 229 |
 
 
@@ -4743,6 +5066,7 @@ N_50_1:SKJEMA_8AARC; (N_50_1:SKJEMA_8AARB); (N_50_1:SKJEMA_8AAR); In most ways m
 | Disagree completely | 552 |
 | Disagree somewhat | 2577 |
 | More than 1 check box filled in | 11 |
+| Not NA | 42307 |
 | NA | 1180 |
 
 
@@ -4760,6 +5084,7 @@ N_50_2:SKJEMA_8AARC; (N_50_2:SKJEMA_8AARB); (N_50_2:SKJEMA_8AAR); The conditions
 | Disagree | 559 |
 | Disagree completely | 266 |
 | More than 1 check box filled in | 9 |
+| Not NA | 42310 |
 | NA | 1177 |
 
 
@@ -4777,6 +5102,7 @@ N_50_3:SKJEMA_8AARC; (N_50_3:SKJEMA_8AARB); (N_50_3:SKJEMA_8AAR); I am satisfied
 | Neither agree nor disagree | 1495 |
 | Disagree completely | 284 |
 | More than 1 check box filled in | 28 |
+| Not NA | 42329 |
 | NA | 1158 |
 
 
@@ -4794,6 +5120,7 @@ N_50_4:SKJEMA_8AARC; (N_50_4:SKJEMA_8AARB); (N_50_4:SKJEMA_8AAR); So far I have 
 | Agree completely | 10923 |
 | Disagree completely | 230 |
 | More than 1 check box filled in | 7 |
+| Not NA | 42291 |
 | NA | 1196 |
 
 
@@ -4811,6 +5138,7 @@ N_50_5:SKJEMA_8AARC; (N_50_5:SKJEMA_8AARB); (N_50_5:SKJEMA_8AAR); If I could liv
 | Agree completely | 6174 |
 | Disagree completely | 743 |
 | More than 1 check box filled in | 14 |
+| Not NA | 42290 |
 | NA | 1197 |
 
 
@@ -4823,6 +5151,7 @@ N_51_1:SKJEMA_8AARC; (N_51_1:SKJEMA_8AARB); (N_51_1:SKJEMA_8AAR); A spell or att
 | No | 34731 |
 | Yes | 7488 |
 | More than 1 check box filled in | 1 |
+| Not NA | 42220 |
 | NA | 1267 |
 
 
@@ -4835,6 +5164,7 @@ N_51_2:SKJEMA_8AARC; (N_51_2:SKJEMA_8AARB); (N_51_2:SKJEMA_8AAR); Spells or atta
 | No | 37349 |
 | Yes | 4854 |
 | More than 1 check box filled in | 1 |
+| Not NA | 42204 |
 | NA | 1283 |
 
 
@@ -4847,6 +5177,7 @@ N_51_3:SKJEMA_8AARC; (N_51_3:SKJEMA_8AARB); (N_51_3:SKJEMA_8AAR); If you have ha
 | Yes | 6182 |
 | No | 16782 |
 | More than 1 check box filled in | 9 |
+| Not NA | 22973 |
 | NA | 20514 |
 
 
@@ -4861,6 +5192,7 @@ N_52_1:SKJEMA_8AARC; (N_52_1:SKJEMA_8AARB); (N_52_1:SKJEMA_8AAR); Constantly fea
 | Quite bothered | 509 |
 | Very bothered | 140 |
 | More than 1 check box filled in | 4 |
+| Not NA | 42306 |
 | NA | 1181 |
 
 
@@ -4875,6 +5207,7 @@ N_52_2:SKJEMA_8AARC; (N_52_2:SKJEMA_8AARB); (N_52_2:SKJEMA_8AAR); Nervousness or
 | Very bothered | 305 |
 | Quite bothered | 1326 |
 | More than 1 check box filled in | 6 |
+| Not NA | 42300 |
 | NA | 1187 |
 
 
@@ -4889,6 +5222,7 @@ N_52_3:SKJEMA_8AARC; (N_52_3:SKJEMA_8AARB); (N_52_3:SKJEMA_8AAR); Feeling hopele
 | Very bothered | 322 |
 | Quite bothered | 1175 |
 | More than 1 check box filled in | 8 |
+| Not NA | 42302 |
 | NA | 1185 |
 
 
@@ -4903,6 +5237,7 @@ N_52_4:SKJEMA_8AARC; (N_52_4:SKJEMA_8AARB); (N_52_4:SKJEMA_8AAR); Feeling blue; 
 | Very bothered | 331 |
 | Quite bothered | 1375 |
 | More than 1 check box filled in | 14 |
+| Not NA | 42311 |
 | NA | 1176 |
 
 
@@ -4917,6 +5252,7 @@ N_52_5:SKJEMA_8AARC; (N_52_5:SKJEMA_8AARB); (N_52_5:SKJEMA_8AAR); Worrying too m
 | Quite bothered | 1776 |
 | Very bothered | 375 |
 | More than 1 check box filled in | 10 |
+| Not NA | 42284 |
 | NA | 1203 |
 
 
@@ -4931,6 +5267,7 @@ N_52_6:SKJEMA_8AARC; (N_52_6:SKJEMA_8AARB); (N_52_6:SKJEMA_8AAR); Feeling that e
 | Not bothered | 25077 |
 | Very bothered | 667 |
 | More than 1 check box filled in | 14 |
+| Not NA | 42300 |
 | NA | 1187 |
 
 
@@ -4945,6 +5282,7 @@ N_52_7:SKJEMA_8AARC; (N_52_7:SKJEMA_8AARB); (N_52_7:SKJEMA_8AAR); Feeling tense 
 | Not bothered | 28330 |
 | Very bothered | 359 |
 | More than 1 check box filled in | 8 |
+| Not NA | 42278 |
 | NA | 1209 |
 
 
@@ -4959,6 +5297,7 @@ N_52_8:SKJEMA_8AARC; (N_52_8:SKJEMA_8AARB); (N_52_8:SKJEMA_8AAR); Suddenly scare
 | A little bothered | 2138 |
 | Very bothered | 107 |
 | More than 1 check box filled in | 4 |
+| Not NA | 42257 |
 | NA | 1230 |
 
 
@@ -4972,6 +5311,7 @@ N_53:SKJEMA_8AARC; (N_53:SKJEMA_8AARB); (N_53:SKJEMA_8AAR); ; 53. Do you have an
 | Yes, more than 2 people | 22392 |
 | No | 2303 |
 | More than 1 check box filled in | 12 |
+| Not NA | 42311 |
 | NA | 1176 |
 
 
@@ -4986,6 +5326,7 @@ N_54:SKJEMA_8AARC; (N_54:SKJEMA_8AARB); (N_54:SKJEMA_8AAR); ; 54. How often do y
 | Less often | 1170 |
 | More than 1 check box filled in | 28 |
 | Never | 10 |
+| Not NA | 42128 |
 | NA | 1359 |
 
 
@@ -5001,6 +5342,7 @@ N_55_1:SKJEMA_8AARC; (N_55_1:SKJEMA_8AARB); (N_55_1:SKJEMA_8AAR); You let your c
 | Almost never | 17 |
 | More than 1 check box filled in | 24 |
 | Never | 4 |
+| Not NA | 42361 |
 | NA | 1126 |
 
 
@@ -5016,6 +5358,7 @@ N_55_2:SKJEMA_8AARC; (N_55_2:SKJEMA_8AARB); (N_55_2:SKJEMA_8AAR); You threaten t
 | Often | 896 |
 | Always | 98 |
 | More than 1 check box filled in | 11 |
+| Not NA | 42279 |
 | NA | 1208 |
 
 
@@ -5031,6 +5374,7 @@ N_55_3:SKJEMA_8AARC; (N_55_3:SKJEMA_8AARB); (N_55_3:SKJEMA_8AAR); Your child fai
 | Often | 334 |
 | Always | 205 |
 | More than 1 check box filled in | 14 |
+| Not NA | 42252 |
 | NA | 1235 |
 
 
@@ -5046,6 +5390,7 @@ N_55_4:SKJEMA_8AARC; (N_55_4:SKJEMA_8AARB); (N_55_4:SKJEMA_8AAR); Your child tal
 | More than 1 check box filled in | 14 |
 | Often | 809 |
 | Always | 57 |
+| Not NA | 42115 |
 | NA | 1372 |
 
 
@@ -5061,6 +5406,7 @@ N_55_5:SKJEMA_8AARC; (N_55_5:SKJEMA_8AARB); (N_55_5:SKJEMA_8AAR); Your child sta
 | Always | 57 |
 | Often | 43 |
 | More than 1 check box filled in | 21 |
+| Not NA | 42237 |
 | NA | 1250 |
 
 
@@ -5076,6 +5422,7 @@ N_55_6:SKJEMA_8AARC; (N_55_6:SKJEMA_8AARB); (N_55_6:SKJEMA_8AAR); You compliment
 | Almost never | 7 |
 | More than 1 check box filled in | 32 |
 | Never | 26 |
+| Not NA | 42324 |
 | NA | 1163 |
 
 
@@ -5091,6 +5438,7 @@ N_55_7:SKJEMA_8AARC; (N_55_7:SKJEMA_8AARB); (N_55_7:SKJEMA_8AAR); You praise you
 | Almost never | 92 |
 | Never | 31 |
 | More than 1 check box filled in | 30 |
+| Not NA | 42288 |
 | NA | 1199 |
 
 
@@ -5106,6 +5454,7 @@ N_55_8:SKJEMA_8AARC; (N_55_8:SKJEMA_8AARB); (N_55_8:SKJEMA_8AAR); Your child is 
 | More than 1 check box filled in | 22 |
 | Often | 53 |
 | Always | 48 |
+| Not NA | 42319 |
 | NA | 1168 |
 
 
@@ -5121,6 +5470,7 @@ N_55_9:SKJEMA_8AARC; (N_55_9:SKJEMA_8AARB); (N_55_9:SKJEMA_8AAR); You let your c
 | Often | 964 |
 | Always | 90 |
 | More than 1 check box filled in | 14 |
+| Not NA | 41574 |
 | NA | 1913 |
 
 
@@ -5135,6 +5485,7 @@ N_56_1:SKJEMA_8AARC; (N_56_1:SKJEMA_8AARB); (N_56_1:SKJEMA_8AAR); ; 56. Do you s
 | Smoke sometimes | 2131 |
 | 2+3 (Smoke sometimes + Smoke daily) | 15 |
 | 1+2 (Do not smoke + Smoke sometimes) | 2 |
+| Not NA | 42421 |
 | NA | 1066 |
 
 
@@ -5151,6 +5502,7 @@ N_56_2:SKJEMA_8AARC; (N_56_2:SKJEMA_8AARB); (N_56_2:SKJEMA_8AAR); Smokes sometim
 | 3rd Qu. | 10 |
 | Max. | 70 |
 | NA's | 41225 |
+| Not NA | 2262 |
 
 
 ### NN346
@@ -5166,6 +5518,7 @@ N_56_3:SKJEMA_8AARC; (N_56_3:SKJEMA_8AARB); (N_56_3:SKJEMA_8AAR); Smoke daily, n
 | 3rd Qu. | 12 |
 | Max. | 48 |
 | NA's | 41017 |
+| Not NA | 2470 |
 
 
 ### NN347
@@ -5178,6 +5531,7 @@ N_57_1:SKJEMA_8AARC; (N_57_1:SKJEMA_8AARB); (N_57_1:SKJEMA_8AAR); ; 57. Does the
 | Smoke daily | 3126 |
 | Smoke sometimes | 1718 |
 | 2+3 (Smoke sometimes + Smoke daily) | 12 |
+| Not NA | 41747 |
 | NA | 1740 |
 
 
@@ -5194,6 +5548,7 @@ N_57_2:SKJEMA_8AARC; (N_57_2:SKJEMA_8AARB); (N_57_2:SKJEMA_8AAR); Smokes sometim
 | 3rd Qu. | 10 |
 | Max. | 90 |
 | NA's | 41787 |
+| Not NA | 1700 |
 
 
 ### NN349
@@ -5209,6 +5564,7 @@ N_57_3:SKJEMA_8AARC; (N_57_3:SKJEMA_8AARB); (N_57_3:SKJEMA_8AAR); Smoke daily, n
 | 3rd Qu. | 15 |
 | Max. | 99 |
 | NA's | 40480 |
+| Not NA | 3007 |
 
 
 ### NN350
@@ -5229,6 +5585,7 @@ N_58:SKJEMA_8AARC; (N_58:SKJEMA_8AARB); (N_58:SKJEMA_8AAR); ; 58. How often do y
 | 2+3 | 5 |
 | 5+6 | 18 |
 | 4+5 | 3 |
+| Not NA | 42723 |
 | NA | 764 |
 
 
@@ -5254,6 +5611,7 @@ N_59:SKJEMA_8AARC; (N_59:SKJEMA_8AARB); (N_59:SKJEMA_8AAR); ; 59. How many alcoh
 | 4+6 | 1 |
 | 3+6 | 1 |
 | 1+2 | 1 |
+| Not NA | 40603 |
 | NA | 2884 |
 
 
@@ -5269,6 +5627,7 @@ N_60_1:SKJEMA_8AARC; (N_60_1:SKJEMA_8AARB); (N_60_1:SKJEMA_8AAR); ....have you h
 | Weekly | 86 |
 | More than 1 check box filled in | 16 |
 | Daily/almost daily | 4 |
+| Not NA | 42510 |
 | NA | 977 |
 
 
@@ -5284,6 +5643,7 @@ N_60_2:SKJEMA_8AARC; (N_60_2:SKJEMA_8AARB); (N_60_2:SKJEMA_8AAR); ....have you f
 | Daily/almost daily | 99 |
 | Weekly | 26 |
 | More than 1 check box filled in | 2 |
+| Not NA | 42318 |
 | NA | 1169 |
 
 
@@ -5298,6 +5658,7 @@ N_60_3:SKJEMA_8AARC; (N_60_3:SKJEMA_8AARB); (N_60_3:SKJEMA_8AAR); ....have you f
 | Monthly | 52 |
 | Weekly | 13 |
 | Daily/almost daily | 7 |
+| Not NA | 42373 |
 | NA | 1114 |
 
 
@@ -5313,6 +5674,7 @@ N_60_4:SKJEMA_8AARC; (N_60_4:SKJEMA_8AARB); (N_60_4:SKJEMA_8AAR); ....have you n
 | Weekly | 1 |
 | Monthly | 1 |
 | More than 1 check box filled in | 2 |
+| Not NA | 42416 |
 | NA | 1071 |
 
 
@@ -5328,6 +5690,7 @@ N_60_5:SKJEMA_8AARC; (N_60_5:SKJEMA_8AARB); (N_60_5:SKJEMA_8AAR); ....have you h
 | Daily/almost daily | 23 |
 | Weekly | 60 |
 | More than 1 check box filled in | 3 |
+| Not NA | 42390 |
 | NA | 1097 |
 
 
@@ -5343,6 +5706,7 @@ N_60_6:SKJEMA_8AARC; (N_60_6:SKJEMA_8AARB); (N_60_6:SKJEMA_8AAR); ....have you b
 | Daily/almost daily | 10 |
 | More than 1 check box filled in | 3 |
 | Weekly | 4 |
+| Not NA | 42366 |
 | NA | 1121 |
 
 
@@ -5355,6 +5719,7 @@ N_60_7:SKJEMA_8AARC; (N_60_7:SKJEMA_8AARB); (N_60_7:SKJEMA_8AAR); Have you or so
 | No | 41965 |
 | Yes, but not in the last year | 404 |
 | Yes, during the last year | 67 |
+| Not NA | 42436 |
 | NA | 1051 |
 
 
@@ -5368,6 +5733,7 @@ N_60_8:SKJEMA_8AARC; (N_60_8:SKJEMA_8AARB); (N_60_8:SKJEMA_8AAR); Has a relative
 | Yes, but not in the last year | 136 |
 | Yes, during the last year | 128 |
 | More than 1 check box filled in | 1 |
+| Not NA | 42341 |
 | NA | 1146 |
 
 
@@ -5393,6 +5759,7 @@ AGE_SENT_MTHS_Q8AAR:SKJEMA_8AARKORT; (AGE_SENT_MTHS_Q8AAR:SKJEMA_8AARC); (AGE_SE
 | 111 | 1 |
 | 109 | 1 |
 | 112 | 1 |
+| Not NA | 43487 |
 | NA | 0 |
 
 
@@ -5409,6 +5776,7 @@ AGE_MTHS_Q8AAR:SKJEMA_8AARKORT; (AGE_MTHS_Q8AAR:SKJEMA_8AARC); (AGE_MTHS_Q8AAR:S
 | 3rd Qu. | 98 |
 | Max. | 159 |
 | NA's | 501 |
+| Not NA | 42986 |
 
 
 ### AGE_RETURN_MTHS_Q8AAR
@@ -5423,6 +5791,7 @@ AGE_RETURN_MTHS_Q8AAR:SKJEMA_8AARKORT; (AGE_RETURN_MTHS_Q8AAR:SKJEMA_8AARC); (AG
 | Mean | 98.197668268678 |
 | 3rd Qu. | 99 |
 | Max. | 158 |
+| Not NA | 43487 |
 
 
 ### Q8AARP1
@@ -5445,6 +5814,7 @@ Q8AARP1:SKJEMA_8AARKORT; (Q8AARP1:SKJEMA_8AARC); (Q8AARP1:SKJEMA_8AARB); (Q8AARP
 | 4 | 1 |
 | 2 | 1 |
 | 7 | 1 |
+| Not NA | 43487 |
 | NA | 0 |
 
 
@@ -5460,6 +5830,7 @@ Q8AARP2:SKJEMA_8AARKORT; (Q8AARP2:SKJEMA_8AARC); (Q8AARP2:SKJEMA_8AARB); (Q8AARP
 | Mean | 22.3433209924805 |
 | 3rd Qu. | 23 |
 | Max. | 37 |
+| Not NA | 43487 |
 
 
 ### Q8AARP3
@@ -5474,6 +5845,7 @@ Q8AARP3:SKJEMA_8AARKORT; (Q8AARP3:SKJEMA_8AARC); (Q8AARP3:SKJEMA_8AARB); (Q8AARP
 | Mean | 32.7872237680226 |
 | 3rd Qu. | 33 |
 | Max. | 33 |
+| Not NA | 43487 |
 
 
 ### Q8AARP4
@@ -5488,6 +5860,7 @@ Q8AARP4:SKJEMA_8AARKORT; (Q8AARP4:SKJEMA_8AARC); (Q8AARP4:SKJEMA_8AARB); (Q8AARP
 | Mean | 30.8485754363373 |
 | 3rd Qu. | 31 |
 | Max. | 31 |
+| Not NA | 43487 |
 
 
 ### Q8AARP5
@@ -5512,6 +5885,7 @@ Q8AARP5:SKJEMA_8AARKORT; (Q8AARP5:SKJEMA_8AARC); (Q8AARP5:SKJEMA_8AARB); (Q8AARP
 | 3 | 2 |
 | 9 | 2 |
 | 8 | 1 |
+| Not NA | 43487 |
 | NA | 0 |
 
 
@@ -5527,6 +5901,7 @@ Q8AARP6:SKJEMA_8AARKORT; (Q8AARP6:SKJEMA_8AARC); (Q8AARP6:SKJEMA_8AARB); (Q8AARP
 | Mean | 27.5848414468692 |
 | 3rd Qu. | 28 |
 | Max. | 29 |
+| Not NA | 43487 |
 
 
 ### Q8AARP7
@@ -5541,6 +5916,7 @@ Q8AARP7:SKJEMA_8AARKORT; (Q8AARP7:SKJEMA_8AARC); (Q8AARP7:SKJEMA_8AARB); (Q8AARP
 | Mean | 25.4499505599375 |
 | 3rd Qu. | 26 |
 | Max. | 26 |
+| Not NA | 43487 |
 
 
 ### Q8AARP8
@@ -5555,6 +5931,7 @@ Q8AARP8:SKJEMA_8AARKORT; (Q8AARP8:SKJEMA_8AARC); (Q8AARP8:SKJEMA_8AARB); (Q8AARP
 | Mean | 20.6245314691747 |
 | 3rd Qu. | 21 |
 | Max. | 21 |
+| Not NA | 43487 |
 
 
 ### Q8AARP9
@@ -5569,6 +5946,7 @@ Q8AARP9:SKJEMA_8AARKORT; (Q8AARP9:SKJEMA_8AARC); (Q8AARP9:SKJEMA_8AARB); (Q8AARP
 | Mean | 19.4061903557385 |
 | 3rd Qu. | 20 |
 | Max. | 25 |
+| Not NA | 43487 |
 
 
 ### Q8AARP10
@@ -5583,6 +5961,7 @@ Q8AARP10:SKJEMA_8AARKORT; (Q8AARP10:SKJEMA_8AARC); (Q8AARP10:SKJEMA_8AARB); (Q8A
 | Mean | 17.713546577138 |
 | 3rd Qu. | 19 |
 | Max. | 22 |
+| Not NA | 43487 |
 
 
 ### Q8AARP11
@@ -5598,6 +5977,7 @@ Q8AARP11:SKJEMA_8AARC; (Q8AARP11:SKJEMA_8AARB); (Q8AARP11:SKJEMA_8AAR); ; .
 | 3rd Qu. | 11 |
 | Max. | 20 |
 | NA's | 229 |
+| Not NA | 43258 |
 
 
 ### Q8AARP12
@@ -5613,6 +5993,7 @@ Q8AARP12:SKJEMA_8AARC; (Q8AARP12:SKJEMA_8AARB); (Q8AARP12:SKJEMA_8AAR); ; .
 | 3rd Qu. | 17 |
 | Max. | 24 |
 | NA's | 229 |
+| Not NA | 43258 |
 
 
 ### Q8AARP13
@@ -5628,6 +6009,7 @@ Q8AARP13:SKJEMA_8AARC; (Q8AARP13:SKJEMA_8AARB); (Q8AARP13:SKJEMA_8AAR); ; .
 | 3rd Qu. | 27 |
 | Max. | 27 |
 | NA's | 229 |
+| Not NA | 43258 |
 
 
 ### Q8AARP14
@@ -5653,6 +6035,7 @@ Q8AARP14:SKJEMA_8AARC; (Q8AARP14:SKJEMA_8AARB); (Q8AARP14:SKJEMA_8AAR); ; .
 | 7 | 30 |
 | 1 | 11 |
 | 16 | 5 |
+| Not NA | 43258 |
 | NA | 229 |
 
 

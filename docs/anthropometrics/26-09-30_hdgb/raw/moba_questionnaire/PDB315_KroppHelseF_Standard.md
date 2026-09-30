@@ -95,6 +95,7 @@
 | 9 | 22697 |
 | 6 | 3 |
 | 8 | 38687 |
+| Not NA | 61387 |
 | NA | 0 |
 
 
@@ -105,6 +106,7 @@
 | -------- | - |
 | KROPPHELSEF_B | 60602 |
 | KROPPHELSEF_A | 785 |
+| Not NA | 61387 |
 | NA | 0 |
 
 
@@ -119,6 +121,7 @@ M1_QKHF_1_1:KROPPHELSEF_B; (M1_QKHF_1_1:KROPPHELSEF_A); Jeg elsker mat.; 1. Venn
 | Enig | 30084 |
 | Hverken enig eller uenig | 12713 |
 | Svært uenig | 428 |
+| Not NA | 61252 |
 | NA | 135 |
 
 
@@ -133,6 +136,7 @@ M1_QKHF_1_2:KROPPHELSEF_B; (M1_QKHF_1_2:KROPPHELSEF_A); Jeg liker å spise.; 1. 
 | Enig | 35569 |
 | Svært uenig | 231 |
 | Uenig | 796 |
+| Not NA | 61207 |
 | NA | 180 |
 
 
@@ -147,6 +151,7 @@ M1_QKHF_1_3:KROPPHELSEF_B; (M1_QKHF_1_3:KROPPHELSEF_A); Jeg gleder meg til målt
 | Uenig | 1325 |
 | Hverken enig eller uenig | 12544 |
 | Svært uenig | 263 |
+| Not NA | 61206 |
 | NA | 181 |
 
 
@@ -161,6 +166,7 @@ M1_QKHF_1_4:KROPPHELSEF_B; (M1_QKHF_1_4:KROPPHELSEF_A); Jeg blir irritert hvis j
 | Uenig | 19802 |
 | Svært uenig | 4285 |
 | Svært enig | 3097 |
+| Not NA | 61262 |
 | NA | 125 |
 
 
@@ -175,6 +181,7 @@ M1_QKHF_1_5:KROPPHELSEF_B; (M1_QKHF_1_5:KROPPHELSEF_A); Jeg spiser mer når jeg 
 | Svært enig | 2117 |
 | Hverken enig eller uenig | 17605 |
 | Svært uenig | 7309 |
+| Not NA | 61257 |
 | NA | 130 |
 
 
@@ -189,6 +196,7 @@ M1_QKHF_1_6:KROPPHELSEF_B; (M1_QKHF_1_6:KROPPHELSEF_A); Jeg lar det ofte ligge i
 | Hverken enig eller uenig | 9105 |
 | Enig | 3781 |
 | Svært enig | 821 |
+| Not NA | 61269 |
 | NA | 118 |
 
 
@@ -203,6 +211,7 @@ M1_QKHF_1_7:KROPPHELSEF_B; (M1_QKHF_1_7:KROPPHELSEF_A); Jeg liker å smake på n
 | Enig | 30337 |
 | Uenig | 3392 |
 | Svært uenig | 774 |
+| Not NA | 61239 |
 | NA | 148 |
 
 
@@ -217,6 +226,7 @@ M1_QKHF_1_8:KROPPHELSEF_B; (M1_QKHF_1_8:KROPPHELSEF_A); Jeg føler meg ofte sult
 | Hverken enig eller uenig | 27047 |
 | Svært uenig | 3157 |
 | Svært enig | 1305 |
+| Not NA | 61278 |
 | NA | 109 |
 
 
@@ -231,6 +241,7 @@ M2_QKHF_2_1:KROPPHELSEF_B; (M2_QKHF_2_1:KROPPHELSEF_A); Jeg spiser mer når jeg 
 | Enig | 6631 |
 | Hverken enig eller uenig | 15784 |
 | Svært enig | 1349 |
+| Not NA | 61254 |
 | NA | 133 |
 
 
@@ -245,6 +256,7 @@ M2_QKHF_2_2:KROPPHELSEF_B; (M2_QKHF_2_2:KROPPHELSEF_A); Hvis jeg kunne velge, vi
 | Hverken enig eller uenig | 5025 |
 | Svært enig | 790 |
 | Enig | 3641 |
+| Not NA | 61279 |
 | NA | 108 |
 
 
@@ -259,6 +271,7 @@ M2_QKHF_2_3:KROPPHELSEF_B; (M2_QKHF_2_3:KROPPHELSEF_A); Jeg spiser mindre når j
 | Enig | 13160 |
 | Svært uenig | 3973 |
 | Svært enig | 1523 |
+| Not NA | 61262 |
 | NA | 125 |
 
 
@@ -273,6 +286,7 @@ M2_QKHF_2_4:KROPPHELSEF_B; (M2_QKHF_2_4:KROPPHELSEF_A); Jeg er interessert i å 
 | Enig | 31649 |
 | Uenig | 3799 |
 | Svært uenig | 1176 |
+| Not NA | 61220 |
 | NA | 167 |
 
 
@@ -287,6 +301,7 @@ M2_QKHF_2_5:KROPPHELSEF_B; (M2_QKHF_2_5:KROPPHELSEF_A); Jeg spiser mindre når j
 | Hverken enig eller uenig | 25003 |
 | Svært uenig | 3761 |
 | Enig | 15369 |
+| Not NA | 61214 |
 | NA | 173 |
 
 
@@ -301,6 +316,7 @@ M2_QKHF_2_6:KROPPHELSEF_B; (M2_QKHF_2_6:KROPPHELSEF_A); Jeg spiser mer når jeg 
 | Svært uenig | 7269 |
 | Svært enig | 411 |
 | Enig | 2688 |
+| Not NA | 61212 |
 | NA | 175 |
 
 
@@ -315,6 +331,7 @@ M2_QKHF_2_7:KROPPHELSEF_B; (M2_QKHF_2_7:KROPPHELSEF_A); Jeg tenker alltid på ma
 | Svært uenig | 18066 |
 | Enig | 3043 |
 | Svært enig | 504 |
+| Not NA | 61249 |
 | NA | 138 |
 
 
@@ -329,6 +346,7 @@ M2_QKHF_2_8:KROPPHELSEF_B; (M2_QKHF_2_8:KROPPHELSEF_A); Jeg blir ofte mett før 
 | Uenig | 26476 |
 | Enig | 11174 |
 | Svært enig | 1124 |
+| Not NA | 61268 |
 | NA | 119 |
 
 
@@ -343,6 +361,7 @@ M3_QKHF_3_1:KROPPHELSEF_B; (M3_QKHF_3_1:KROPPHELSEF_A); Jeg liker mye forskjelli
 | Enig | 33799 |
 | Svært uenig | 504 |
 | Uenig | 2119 |
+| Not NA | 61208 |
 | NA | 179 |
 
 
@@ -357,6 +376,7 @@ M3_QKHF_3_2:KROPPHELSEF_B; (M3_QKHF_3_2:KROPPHELSEF_A); Jeg er ofte den som er s
 | Enig | 10975 |
 | Svært uenig | 5193 |
 | Svært enig | 3245 |
+| Not NA | 61252 |
 | NA | 135 |
 
 
@@ -371,6 +391,7 @@ M3_QKHF_3_3:KROPPHELSEF_B; (M3_QKHF_3_3:KROPPHELSEF_A); Jeg spiser stadig sakter
 | Enig | 9141 |
 | Svært uenig | 4014 |
 | Svært enig | 723 |
+| Not NA | 61251 |
 | NA | 136 |
 
 
@@ -385,6 +406,7 @@ M3_QKHF_3_4:KROPPHELSEF_B; (M3_QKHF_3_4:KROPPHELSEF_A); Jeg føler meg ofte så 
 | Enig | 12191 |
 | Svært uenig | 4956 |
 | Svært enig | 1251 |
+| Not NA | 61244 |
 | NA | 143 |
 
 
@@ -399,6 +421,7 @@ M3_QKHF_3_5:KROPPHELSEF_B; (M3_QKHF_3_5:KROPPHELSEF_A); Jeg spiser sakte.; 3. Ve
 | Enig | 9175 |
 | Svært uenig | 6307 |
 | Svært enig | 2170 |
+| Not NA | 61206 |
 | NA | 181 |
 
 
@@ -413,6 +436,7 @@ M3_QKHF_3_6:KROPPHELSEF_B; (M3_QKHF_3_6:KROPPHELSEF_A); Jeg blir fort mett.; 3. 
 | Enig | 10083 |
 | Svært uenig | 2013 |
 | Svært enig | 764 |
+| Not NA | 61251 |
 | NA | 136 |
 
 
@@ -427,6 +451,7 @@ M3_QKHF_3_7:KROPPHELSEF_B; (M3_QKHF_3_7:KROPPHELSEF_A); Jeg føler meg ofte sult
 | Hverken enig eller uenig | 21482 |
 | Svært uenig | 2445 |
 | Svært enig | 915 |
+| Not NA | 61236 |
 | NA | 151 |
 
 
@@ -441,6 +466,7 @@ M3_QKHF_3_8:KROPPHELSEF_B; (M3_QKHF_3_8:KROPPHELSEF_A); Jeg spiser mindre når j
 | Svært enig | 1692 |
 | Svært uenig | 3760 |
 | Enig | 13545 |
+| Not NA | 61220 |
 | NA | 167 |
 
 
@@ -451,6 +477,7 @@ QKHF_4_1:KROPPHELSEF_B; (QKHF_4_1:KROPPHELSEF_A); Vegetarisk kosthold.; 4. Tenk 
 | Category | n |
 | -------- | - |
 | 1 | 2094 |
+| Not NA | 2094 |
 | NA | 59293 |
 
 
@@ -461,6 +488,7 @@ QKHF_4_2:KROPPHELSEF_B; (QKHF_4_2:KROPPHELSEF_A); Vegansk kosthold (kun planteba
 | Category | n |
 | -------- | - |
 | 1 | 396 |
+| Not NA | 396 |
 | NA | 60991 |
 
 
@@ -471,6 +499,7 @@ QKHF_4_3:KROPPHELSEF_B; (QKHF_4_3:KROPPHELSEF_A); Pescetarisk kosthold (planteba
 | Category | n |
 | -------- | - |
 | 1 | 1980 |
+| Not NA | 1980 |
 | NA | 59407 |
 
 
@@ -481,6 +510,7 @@ QKHF_4_4:KROPPHELSEF_B; (QKHF_4_4:KROPPHELSEF_A); «Fleksitariansk» kosthold (s
 | Category | n |
 | -------- | - |
 | 1 | 4176 |
+| Not NA | 4176 |
 | NA | 57211 |
 
 
@@ -491,6 +521,7 @@ QKHF_4_5:KROPPHELSEF_B; (QKHF_4_5:KROPPHELSEF_A); Faste/periodisk faste (f.eks. 
 | Category | n |
 | -------- | - |
 | 1 | 5515 |
+| Not NA | 5515 |
 | NA | 55872 |
 
 
@@ -501,6 +532,7 @@ QKHF_4_6:KROPPHELSEF_B; (QKHF_4_6:KROPPHELSEF_A); Kaloriredusert kosthold (f.eks
 | Category | n |
 | -------- | - |
 | 1 | 2510 |
+| Not NA | 2510 |
 | NA | 58877 |
 
 
@@ -511,6 +543,7 @@ QKHF_4_7:KROPPHELSEF_B; (QKHF_4_7:KROPPHELSEF_A); Lavkarbo kosthold.; 4. Tenk p�
 | Category | n |
 | -------- | - |
 | 1 | 3413 |
+| Not NA | 3413 |
 | NA | 57974 |
 
 
@@ -521,6 +554,7 @@ QKHF_4_8:KROPPHELSEF_B; (QKHF_4_8:KROPPHELSEF_A); Keto-diett.; 4. Tenk på de si
 | Category | n |
 | -------- | - |
 | 1 | 725 |
+| Not NA | 725 |
 | NA | 60662 |
 
 
@@ -531,6 +565,7 @@ QKHF_4_9:KROPPHELSEF_B; (QKHF_4_9:KROPPHELSEF_A); Carnivore diett.; 4. Tenk på 
 | Category | n |
 | -------- | - |
 | 1 | 429 |
+| Not NA | 429 |
 | NA | 60958 |
 
 
@@ -541,6 +576,7 @@ QKHF_4_10:KROPPHELSEF_B; (QKHF_4_10:KROPPHELSEF_A); Paelo diett/steinalder diett
 | Category | n |
 | -------- | - |
 | 1 | 180 |
+| Not NA | 180 |
 | NA | 61207 |
 
 
@@ -551,6 +587,7 @@ QKHF_4_11:KROPPHELSEF_B; (QKHF_4_11:KROPPHELSEF_A); Blodtypediett.; 4. Tenk på 
 | Category | n |
 | -------- | - |
 | 1 | 92 |
+| Not NA | 92 |
 | NA | 61295 |
 
 
@@ -561,6 +598,7 @@ QKHF_4_12:KROPPHELSEF_B; (QKHF_4_12:KROPPHELSEF_A); Raw food diett.; 4. Tenk på
 | Category | n |
 | -------- | - |
 | 1 | 69 |
+| Not NA | 69 |
 | NA | 61318 |
 
 
@@ -571,6 +609,7 @@ QKHF_4_13:KROPPHELSEF_B; (QKHF_4_13:KROPPHELSEF_A); Middelhavsdiett.; 4. Tenk p�
 | Category | n |
 | -------- | - |
 | 1 | 2006 |
+| Not NA | 2006 |
 | NA | 59381 |
 
 
@@ -581,6 +620,7 @@ QKHF_4_14:KROPPHELSEF_B; (QKHF_4_14:KROPPHELSEF_A); Makrobiotisk kosthold.; 4. T
 | Category | n |
 | -------- | - |
 | 1 | 68 |
+| Not NA | 68 |
 | NA | 61319 |
 
 
@@ -591,6 +631,7 @@ QKHF_4_15:KROPPHELSEF_B; (QKHF_4_15:KROPPHELSEF_A); FODMAP-diett (og evt. andre 
 | Category | n |
 | -------- | - |
 | 1 | 1842 |
+| Not NA | 1842 |
 | NA | 59545 |
 
 
@@ -601,6 +642,7 @@ QKHF_4_16:KROPPHELSEF_B; (QKHF_4_16:KROPPHELSEF_A); Gravid.; 4. Tenk på de sist
 | Category | n |
 | -------- | - |
 | 1 | 32 |
+| Not NA | 32 |
 | NA | 61355 |
 
 
@@ -611,6 +653,7 @@ QKHF_4_17:KROPPHELSEF_B; (QKHF_4_17:KROPPHELSEF_A); Ammende.; 4. Tenk på de sis
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 61348 |
 
 
@@ -621,6 +664,7 @@ QKHF_4_18:KROPPHELSEF_B; (QKHF_4_18:KROPPHELSEF_A); Annet.; 4. Tenk på de siste
 | Category | n |
 | -------- | - |
 | 1 | 2344 |
+| Not NA | 2344 |
 | NA | 59043 |
 
 
@@ -631,6 +675,7 @@ QKHF_4_19:KROPPHELSEF_B; (QKHF_4_19:KROPPHELSEF_A); Ingen av disse.; 4. Tenk på
 | Category | n |
 | -------- | - |
 | 1 | 42872 |
+| Not NA | 42872 |
 | NA | 18515 |
 
 
@@ -645,6 +690,7 @@ QKHF_5:KROPPHELSEF_B; (QKHF_5:KROPPHELSEF_A); ; 5. Hvor ofte spiser du sammen me
 | 5-6 ganger i uken | 9379 |
 | 1-2 ganger i uken | 1976 |
 | Aldri eller nesten aldri | 613 |
+| Not NA | 61265 |
 | NA | 122 |
 
 
@@ -661,6 +707,7 @@ QKHF_6:KROPPHELSEF_B; (QKHF_6:KROPPHELSEF_A); Svar i ant porsjoner,én porsjon t
 | Mindre enn én gang i uken | 425 |
 | 1 gang i uken | 978 |
 | Aldri | 57 |
+| Not NA | 61283 |
 | NA | 104 |
 
 
@@ -677,6 +724,7 @@ QKHF_7:KROPPHELSEF_B; (QKHF_7:KROPPHELSEF_A); Svar i antall porsjoner der én po
 | Hver dag | 15782 |
 | Flere ganger daglig | 4917 |
 | Aldri | 272 |
+| Not NA | 61293 |
 | NA | 94 |
 
 
@@ -693,6 +741,7 @@ QKHF_8:KROPPHELSEF_B; (QKHF_8:KROPPHELSEF_A); Svar i antall kjøkkenglass (1 gla
 | 1 glass per uke | 10784 |
 | 1 glass per dag | 7170 |
 | Mer enn 3 glass per dag | 75 |
+| Not NA | 61287 |
 | NA | 100 |
 
 
@@ -709,6 +758,7 @@ QKHF_9:KROPPHELSEF_B; (QKHF_9:KROPPHELSEF_A); Her mener vi grovere brød enn van
 | Flere ganger daglig | 8302 |
 | Aldri | 966 |
 | Mindre enn én gang i uken | 2526 |
+| Not NA | 61273 |
 | NA | 114 |
 
 
@@ -725,6 +775,7 @@ QKHF_10:KROPPHELSEF_B; (QKHF_10:KROPPHELSEF_A); Svar i antall kjøkkenglass (1 g
 | 1 glass per dag | 2000 |
 | 2-3 glass per dag | 1041 |
 | Mer enn 3 glass per dag | 385 |
+| Not NA | 61247 |
 | NA | 140 |
 
 
@@ -741,6 +792,7 @@ QKHF_11:KROPPHELSEF_B; (QKHF_11:KROPPHELSEF_A); Svar i antall kjøkkenglass (1 g
 | 0 glass per måned | 14101 |
 | 1 glass per uke | 5722 |
 | Mer enn 3 glass per dag | 3952 |
+| Not NA | 61281 |
 | NA | 106 |
 
 
@@ -757,6 +809,7 @@ QKHF_12:KROPPHELSEF_B; (QKHF_12:KROPPHELSEF_A); Med eller uten kullsyre. Svar i 
 | 1 glass per dag | 7397 |
 | 1 glass per uke | 732 |
 | 0 glass per måned | 228 |
+| Not NA | 61265 |
 | NA | 122 |
 
 
@@ -773,6 +826,7 @@ QKHF_13:KROPPHELSEF_B; (QKHF_13:KROPPHELSEF_A); Ikke regn med fisk som pålegg.;
 | Aldri | 1281 |
 | 4-6 ganger i uken | 867 |
 | Flere ganger daglig | 7 |
+| Not NA | 61281 |
 | NA | 106 |
 
 
@@ -789,6 +843,7 @@ QKHF_14:KROPPHELSEF_B; (QKHF_14:KROPPHELSEF_A); Rødt kjøtt er kjøtt fra svin,
 | Hver dag | 303 |
 | Aldri | 1154 |
 | Flere ganger daglig | 45 |
+| Not NA | 61292 |
 | NA | 95 |
 
 
@@ -805,6 +860,7 @@ QKHF_15:KROPPHELSEF_B; (QKHF_15:KROPPHELSEF_A); Her menes vanlig melk, syrnet me
 | 2-6 glass per uke | 11747 |
 | 1 glass per dag | 12620 |
 | Mer enn 3 glass per dag | 860 |
+| Not NA | 61289 |
 | NA | 98 |
 
 
@@ -818,6 +874,7 @@ QKHF_15_1:KROPPHELSEF_A; Hva slags kumelkvariant drikker du mest av?(Hvis ja, dr
 | Lettmelk, inkl. vitamin D beriket lettmelk (0,5-1,8 % fett) | 441 |
 | Helmelk (minst 3,5 % fett) | 54 |
 | Vet ikke | 13 |
+| Not NA | 598 |
 | NA | 60789 |
 
 
@@ -831,6 +888,7 @@ QKHF_15_1:KROPPHELSEF_B; (QKHF_15_1:KROPPHELSEF_A); Hva slags kumelkvariant drik
 | Helmelk (minst 3,5 % fett) | 3995 |
 | Vet ikke | 639 |
 | Skummet melk (mindre enn 0,5 % fett) | 6994 |
+| Not NA | 43913 |
 | NA | 17474 |
 
 
@@ -847,6 +905,7 @@ QKHF_16:KROPPHELSEF_B; (QKHF_16:KROPPHELSEF_A); ; 16. Hvor ofte spiser du yoghur
 | 4-6 ganger i uken | 6977 |
 | Hver dag | 4297 |
 | Flere ganger daglig | 195 |
+| Not NA | 61287 |
 | NA | 100 |
 
 
@@ -863,6 +922,7 @@ QKHF_17:KROPPHELSEF_B; (QKHF_17:KROPPHELSEF_A); ; 17. Hvor ofte spiser du kaker/
 | 4-6 ganger i uken | 1858 |
 | Flere ganger daglig | 17 |
 | Hver dag | 411 |
+| Not NA | 61281 |
 | NA | 106 |
 
 
@@ -879,6 +939,7 @@ QKHF_18:KROPPHELSEF_B; (QKHF_18:KROPPHELSEF_A); ; 18. Hvor ofte spiser du potetg
 | Aldri | 1746 |
 | Flere ganger daglig | 16 |
 | Hver dag | 251 |
+| Not NA | 61287 |
 | NA | 100 |
 
 
@@ -895,6 +956,7 @@ QKHF_19:KROPPHELSEF_B; (QKHF_19:KROPPHELSEF_A); ; 19. Hvor ofte spiser du hurtig
 | 4-6 ganger i uken | 75 |
 | Hver dag | 9 |
 | Flere ganger daglig | 1 |
+| Not NA | 61296 |
 | NA | 91 |
 
 
@@ -911,6 +973,7 @@ QKHF_20:KROPPHELSEF_B; (QKHF_20:KROPPHELSEF_A); ; 20. Hvor ofte drikker du en bo
 | 1 gang per dag | 377 |
 | 2-3 ganger per dag | 92 |
 | Mer enn tre ganger per dag | 7 |
+| Not NA | 61301 |
 | NA | 86 |
 
 
@@ -926,6 +989,7 @@ QKHF_20_1:KROPPHELSEF_B; (QKHF_20_1:KROPPHELSEF_A); Energidrikker er enten søte
 | <25 % | 1505 |
 | 25-49 % | 486 |
 | 75-99 % | 342 |
+| Not NA | 7711 |
 | NA | 53676 |
 
 
@@ -939,6 +1003,7 @@ QKHF_21:KROPPHELSEF_B; (QKHF_21:KROPPHELSEF_A); ; 21. Når du tenker tilbake på
 | Aldri/sjelden | 22414 |
 | Ofte | 9565 |
 | Veldig ofte | 6269 |
+| Not NA | 61289 |
 | NA | 98 |
 
 
@@ -952,6 +1017,7 @@ QKHF_22:KROPPHELSEF_B; (QKHF_22:KROPPHELSEF_A); ; 22. I de siste 4 ukene, hvor 
 | Noen ganger | 20407 |
 | Ofte | 8743 |
 | Veldig ofte | 5680 |
+| Not NA | 61280 |
 | NA | 107 |
 
 
@@ -965,6 +1031,7 @@ QKHF_23:KROPPHELSEF_B; (QKHF_23:KROPPHELSEF_A); ; 23. I de siste 4 ukene, hvor 
 | Noen ganger | 6484 |
 | Ofte | 1856 |
 | Veldig ofte | 1240 |
+| Not NA | 61273 |
 | NA | 114 |
 
 
@@ -978,6 +1045,7 @@ QKHF_24:KROPPHELSEF_B; (QKHF_24:KROPPHELSEF_A); ; 24. I de siste 4 ukene, har t
 | Noen ganger | 4776 |
 | Ofte | 964 |
 | Veldig ofte | 500 |
+| Not NA | 61256 |
 | NA | 131 |
 
 
@@ -991,6 +1059,7 @@ QKHF_25:KROPPHELSEF_B; (QKHF_25:KROPPHELSEF_A); ; 25. I de siste 4 ukene, har d
 | Noen ganger | 6720 |
 | Ofte | 632 |
 | Veldig ofte | 288 |
+| Not NA | 61273 |
 | NA | 114 |
 
 
@@ -1004,6 +1073,7 @@ QKHF_26:KROPPHELSEF_B; (QKHF_26:KROPPHELSEF_A); ; 26. I de siste 4 ukene, har d
 | Noen ganger | 417 |
 | Ofte | 63 |
 | Veldig ofte | 42 |
+| Not NA | 61295 |
 | NA | 92 |
 
 
@@ -1017,6 +1087,7 @@ QKHF_27:KROPPHELSEF_B; (QKHF_27:KROPPHELSEF_A); ; 27. I de siste 4 ukene, har d
 | Noen ganger | 657 |
 | Ofte | 309 |
 | Veldig ofte | 360 |
+| Not NA | 61260 |
 | NA | 127 |
 
 
@@ -1030,6 +1101,7 @@ QKHF_28:KROPPHELSEF_B; (QKHF_28:KROPPHELSEF_A); ; 28. Hvor misfornøyd er du med
 | Ikke i det hele tatt | 14594 |
 | Mye | 7193 |
 | Veldig mye | 3197 |
+| Not NA | 61303 |
 | NA | 84 |
 
 
@@ -1043,6 +1115,7 @@ QKHF_29:KROPPHELSEF_B; (QKHF_29:KROPPHELSEF_A); ; 29. Hvor ubehagelig synes du d
 | Ikke i det hele tatt | 33623 |
 | Mye | 4323 |
 | Veldig mye | 2359 |
+| Not NA | 61287 |
 | NA | 100 |
 
 
@@ -1056,6 +1129,7 @@ QKHF_30:KROPPHELSEF_B; (QKHF_30:KROPPHELSEF_A); ; 30. Hvor ubehagelig synes du d
 | Ikke i det hele tatt | 24358 |
 | Mye | 6300 |
 | Veldig mye | 3704 |
+| Not NA | 61273 |
 | NA | 114 |
 
 
@@ -1070,6 +1144,7 @@ QKHF_31:KROPPHELSEF_B; (QKHF_31:KROPPHELSEF_A); ; 31. Hvordan vurderer du din eg
 | PASSE | 20674 |
 | FOR TYNN | 154 |
 | LITT FOR TYNN | 1221 |
+| Not NA | 61325 |
 | NA | 62 |
 
 
@@ -1086,6 +1161,7 @@ QKHF_32:KROPPHELSEF_B; (QKHF_32:KROPPHELSEF_A); ; 32. Noen mennesker overspiser,
 | 1 gang i uken | 1832 |
 | Hver dag | 205 |
 | Vet ikke | 1134 |
+| Not NA | 61272 |
 | NA | 115 |
 
 
@@ -1099,6 +1175,7 @@ M4_QKHF_32_1_1:KROPPHELSEF_B; (M4_QKHF_32_1_1:KROPPHELSEF_A); Følte du at du ik
 | Ofte | 1794 |
 | Noen ganger | 7726 |
 | Alltid | 1057 |
+| Not NA | 22848 |
 | NA | 38539 |
 
 
@@ -1112,6 +1189,7 @@ M4_QKHF_32_1_2:KROPPHELSEF_B; (M4_QKHF_32_1_2:KROPPHELSEF_A); Spiste du til du f
 | Noen ganger | 6713 |
 | Ofte | 745 |
 | Alltid | 192 |
+| Not NA | 22845 |
 | NA | 38542 |
 
 
@@ -1125,6 +1203,7 @@ M4_QKHF_32_1_3:KROPPHELSEF_B; (M4_QKHF_32_1_3:KROPPHELSEF_A); Fikk du dårlig sa
 | Aldri | 6909 |
 | Alltid | 2995 |
 | Ofte | 2954 |
+| Not NA | 22860 |
 | NA | 38527 |
 
 
@@ -1145,6 +1224,7 @@ QKHF_36:KROPPHELSEF_B; (QKHF_36:KROPPHELSEF_A); ; 36. Nedenfor er det en skala f
 | 3 | 1168 |
 | 1 | 176 |
 | 0 - Verst mulig liv | 81 |
+| Not NA | 60868 |
 | NA | 519 |
 
 
@@ -1161,6 +1241,7 @@ QKHF_37:KROPPHELSEF_B; (QKHF_37:KROPPHELSEF_A); Oppgi i centimeter.; 37. Hvor h�
 | 3rd Qu. | 180 |
 | Max. | 249 |
 | NA's | 210 |
+| Not NA | 61177 |
 
 
 ### KHF146
@@ -1176,6 +1257,7 @@ QKHF_38:KROPPHELSEF_B; (QKHF_38:KROPPHELSEF_A); Oppgi i hele kilo.; 38. HVOR MYE
 | 3rd Qu. | 90 |
 | Max. | 500 |
 | NA's | 591 |
+| Not NA | 60796 |
 
 
 ### KHF147
@@ -1189,6 +1271,7 @@ QKHF_39:KROPPHELSEF_B; (QKHF_39:KROPPHELSEF_A); ; 39. Tenk tilbake til da du var
 | Omtrent gjennomsnittlig | 29757 |
 | Vet ikke | 710 |
 | Ønsker ikke å svare | 72 |
+| Not NA | 61216 |
 | NA | 171 |
 
 
@@ -1201,6 +1284,7 @@ QKHF_40:KROPPHELSEF_B; ; 40. Hvilken hånd foretrekker du å bruke i det daglige
 | Høyre | 54631 |
 | Venstre | 5260 |
 | INGEN PREFERANSE | 614 |
+| Not NA | 60505 |
 | NA | 882 |
 
 
@@ -1216,6 +1300,7 @@ AGE_YRS_KHF; KROPPHELSU; DELTAKERS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT;
 | Mean | 51.5807581409745 |
 | 3rd Qu. | 55 |
 | Max. | 86 |
+| Not NA | 61387 |
 
 
 ### P_ID
@@ -1226,5 +1311,6 @@ AGE_YRS_KHF; KROPPHELSU; DELTAKERS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT;
 | Length | 61387 |
 | Class | character |
 | Mode | character |
+| Not NA | 61387 |
 
 

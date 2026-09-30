@@ -226,6 +226,7 @@
 | -------- | - |
 | Mor | 770 |
 | Far | 666 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -235,6 +236,7 @@
 | Category | n |
 | -------- | - |
 | SKJEMAHUMANMBB | 1436 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -246,6 +248,7 @@ H__0_4:SKJEMAHUMANMBB; ; 0. Mor og far bor sammen
 | -------- | - |
 | Ja | 1265 |
 | Nei | 146 |
+| Not NA | 1411 |
 | NA | 25 |
 
 
@@ -258,6 +261,7 @@ H__0_5:SKJEMAHUMANMBB; ; 0. Jeg som fyller ut dette skjemaet er ...
 | Mor | 756 |
 | Far | 630 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1387 |
 | NA | 49 |
 
 
@@ -271,6 +275,7 @@ H__0_6:SKJEMAHUMANMBB; ; 0.
 | Barnet bor for det meste hos den andre forelderen | 13 |
 | Barnet bor for det meste hos meg | 68 |
 | Barnet bor omtrent like mye hos meg som hos sin andre forelder | 65 |
+| Not NA | 1387 |
 | NA | 49 |
 
 
@@ -287,6 +292,7 @@ H__1_1:SKJEMAHUMANMBB; (Årstall); 1. Ca. hvilket år ble boligen du bor i bygge
 | 3rd Qu. | 2000 |
 | Max. | 2016 |
 | NA's | 332 |
+| Not NA | 1104 |
 
 
 ### H__1_2
@@ -296,6 +302,7 @@ H__1_2:SKJEMAHUMANMBB; Vet ikke; 1. Ca. hvilket år ble boligen du bor i bygget?
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 1416 |
 
 
@@ -312,6 +319,7 @@ H__1_3:SKJEMAHUMANMBB; Oppgi hvor lenge du har bodd i denne boligen (år); 1. Ca
 | 3rd Qu. | 13 |
 | Max. | 61 |
 | NA's | 323 |
+| Not NA | 1113 |
 
 
 ### H__2
@@ -327,6 +335,7 @@ H__2:SKJEMAHUMANMBB; (m2); 2. Ca. hvor mange kvadratmeter boflate har boligen di
 | 3rd Qu. | 223 |
 | Max. | 600 |
 | NA's | 344 |
+| Not NA | 1092 |
 
 
 ### H__3_1
@@ -340,6 +349,7 @@ H__3_1:SKJEMAHUMANMBB; ; 3. Hvordan vil du beskrive boligen din?
 | Rekkehus, tomannsbolig, kjedet bolig o.l. | 217 |
 | Annet | 12 |
 | Mer enn ett kryss | 2 |
+| Not NA | 1119 |
 | NA | 317 |
 
 
@@ -351,6 +361,7 @@ H__3_2:SKJEMAHUMANMBB; Annet, spesifiser (tekst); 3. Hvordan vil du beskrive bol
 | -------- | - |
 | 0 | 1422 |
 | ANNET | 14 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -362,6 +373,7 @@ H__4_1:SKJEMAHUMANMBB; ; 4. Bor du i Oslo, Bergen, Stavanger, Trondheim, Sandnes
 | -------- | - |
 | Nei | 797 |
 | Ja | 314 |
+| Not NA | 1111 |
 | NA | 325 |
 
 
@@ -376,6 +388,7 @@ H__4_2:SKJEMAHUMANMBB; Hvis ja, i hva slags område ligger leiligheten/huset dit
 | Sentrum av byen | 6 |
 | Vet ikke | 3 |
 | I industriområde | 2 |
+| Not NA | 385 |
 | NA | 1051 |
 
 
@@ -386,6 +399,7 @@ H__5_1:SKJEMAHUMANMBB; Metallbearbeidingsvirksomhet; 5. Finnes det noe av følge
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 1432 |
 
 
@@ -396,6 +410,7 @@ H__5_2:SKJEMAHUMANMBB; Søppelfylling/gjenvinningsstasjon; 5. Finnes det noe av 
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 1427 |
 
 
@@ -405,6 +420,7 @@ H__5_3:SKJEMAHUMANMBB; Avfallsforbrenningsanlegg; 5. Finnes det noe av følgende
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 1436 |
 
 
@@ -414,6 +430,7 @@ H__5_4:SKJEMAHUMANMBB; Løsemiddelbedrift (f.eks. en malevirksomhet); 5. Finnes 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 1436 |
 
 
@@ -454,6 +471,7 @@ H__6:SKJEMAHUMANMBB; ; 6. Hvilken varmekilde er hovedsakelig brukt i boligen din
 | Elektrisk varmeovn,Vannbåren gulvvarme,Radiatorer,Ved | 1 |
 | Elektrisk gulvvarme,Vannbåren gulvvarme,Radiatorer,Fjernvarme (ingen varmtvannsbereder i bygningen),Ved | 2 |
 | NA's | 364 |
+| Not NA | 1072 |
 
 
 ### H__7
@@ -464,6 +482,7 @@ H__7:SKJEMAHUMANMBB; ; 7. Finnes det andre varmekilder i hjemmet ditt som brukes
 | -------- | - |
 | Ja | 806 |
 | Nei | 281 |
+| Not NA | 1087 |
 | NA | 349 |
 
 
@@ -474,6 +493,7 @@ H__8_1:SKJEMAHUMANMBB; Elektrisk; 8. Hvilken energikilde bruker du vanligvis ved
 | Category | n |
 | -------- | - |
 | 1 | 1094 |
+| Not NA | 1094 |
 | NA | 342 |
 
 
@@ -484,6 +504,7 @@ H__8_2:SKJEMAHUMANMBB; Gass; 8. Hvilken energikilde bruker du vanligvis ved matl
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 1400 |
 
 
@@ -494,6 +515,7 @@ H__8_3:SKJEMAHUMANMBB; Ved; 8. Hvilken energikilde bruker du vanligvis ved matla
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 1426 |
 
 
@@ -504,6 +526,7 @@ H__8_4:SKJEMAHUMANMBB; Annet, for eksempel mikrobølgeovn; 8. Hvilken energikild
 | Category | n |
 | -------- | - |
 | 1 | 61 |
+| Not NA | 61 |
 | NA | 1375 |
 
 
@@ -530,6 +553,7 @@ H__9_1:SKJEMAHUMANMBB; Elektrisk grill; 9. Oppgi hvor mange dager i året du bru
 | 40 | 1 |
 | 15 | 2 |
 | 12 | 2 |
+| Not NA | 393 |
 | NA | 1043 |
 
 
@@ -546,6 +570,7 @@ H__9_2:SKJEMAHUMANMBB; Gass; 9. Oppgi hvor mange dager i året du bruker utegril
 | 3rd Qu. | 20 |
 | Max. | 100 |
 | NA's | 557 |
+| Not NA | 879 |
 
 
 ### H__9_3
@@ -568,6 +593,7 @@ H__9_3:SKJEMAHUMANMBB; Engangsgrill; 9. Oppgi hvor mange dager i året du bruker
 | 25 | 1 |
 | 8 | 2 |
 | 9 | 1 |
+| Not NA | 598 |
 | NA | 838 |
 
 
@@ -584,6 +610,7 @@ H__9_4:SKJEMAHUMANMBB; Kull; 9. Oppgi hvor mange dager i året du bruker utegril
 | 3rd Qu. | 10 |
 | Max. | 50 |
 | NA's | 710 |
+| Not NA | 726 |
 
 
 ### H_10_1
@@ -594,6 +621,7 @@ H_10_1:SKJEMAHUMANMBB; ; 10. Har hele eller deler av boligen din (stue eller sov
 | -------- | - |
 | Nei | 732 |
 | Ja | 365 |
+| Not NA | 1097 |
 | NA | 339 |
 
 
@@ -610,6 +638,7 @@ H_10_2:SKJEMAHUMANMBB; Hvis ja, oppgi hvor mange måneder det er siden; 10. Har 
 | 3rd Qu. | 10 |
 | Max. | 72 |
 | NA's | 1080 |
+| Not NA | 356 |
 
 
 ### H_11_1
@@ -621,6 +650,7 @@ H_11_1:SKJEMAHUMANMBB; ; 11. Har du vinyl (PVC) gulvbelegg i boligen din?
 | Nei | 798 |
 | Ja | 225 |
 | Vet ikke | 71 |
+| Not NA | 1094 |
 | NA | 342 |
 
 
@@ -637,6 +667,7 @@ H_11_2:SKJEMAHUMANMBB; Hvis ja, oppgi ca. hvor mange m2; 11. Har du vinyl (PVC) 
 | 3rd Qu. | 30 |
 | Max. | 180 |
 | NA's | 1202 |
+| Not NA | 234 |
 
 
 ### H_12_1
@@ -649,6 +680,7 @@ H_12_1:SKJEMAHUMANMBB; ; 12. Har du værelser med vinyl (PVC) tapet i boligen di
 | Vet ikke | 92 |
 | Ja | 78 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1098 |
 | NA | 338 |
 
 
@@ -666,6 +698,7 @@ H_12_2:SKJEMAHUMANMBB; Hvis ja, oppgi hvor mange rom; 12. Har du værelser med v
 | 4 | 5 |
 | 30 | 1 |
 | 0 | 1 |
+| Not NA | 81 |
 | NA | 1355 |
 
 
@@ -680,6 +713,7 @@ H_13:SKJEMAHUMANMBB; ; 13. I hvilken grad plages du av luftforurensing dersom du
 | Plaget en sjelden gang | 84 |
 | Plaget noen ganger | 40 |
 | Ofte plaget | 8 |
+| Not NA | 1108 |
 | NA | 328 |
 
 
@@ -692,6 +726,7 @@ H_14:SKJEMAHUMANMBB; ; 14. Har du kjæledyr i hjemmet ditt som hovedsakelig bor 
 | Nei | 625 |
 | Ja | 484 |
 | Mer enn ett kryss | 2 |
+| Not NA | 1111 |
 | NA | 325 |
 
 
@@ -707,6 +742,7 @@ H_15_1:SKJEMAHUMANMBB; Katter; 15. Hvis ja, oppgi antall av følgende kjæledyr:
 | 4 | 6 |
 | 3 | 10 |
 | 7 | 2 |
+| Not NA | 308 |
 | NA | 1128 |
 
 
@@ -721,6 +757,7 @@ H_15_2:SKJEMAHUMANMBB; Hunder; 15. Hvis ja, oppgi antall av følgende kjæledyr:
 | 2 | 24 |
 | 3 | 3 |
 | 4 | 1 |
+| Not NA | 239 |
 | NA | 1197 |
 
 
@@ -733,6 +770,7 @@ H_15_3:SKJEMAHUMANMBB; Fugler; 15. Hvis ja, oppgi antall av følgende kjæledyr:
 | 0 | 52 |
 | 1 | 12 |
 | 2 | 2 |
+| Not NA | 66 |
 | NA | 1370 |
 
 
@@ -752,6 +790,7 @@ H_15_4_1:SKJEMAHUMANMBB; Andre; 15. Hvis ja, oppgi antall av følgende kjæledyr
 | 6 | 1 |
 | 7 | 1 |
 | 4 | 1 |
+| Not NA | 103 |
 | NA | 1333 |
 
 
@@ -763,6 +802,7 @@ H_15_4_2:SKJEMAHUMANMBB; Andre: Spesifiser (tekst); 15. Hvis ja, oppgi antall av
 | -------- | - |
 | 0 | 1344 |
 | ANNET | 92 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -775,6 +815,7 @@ H_16_1:SKJEMAHUMANMBB; Klorin; 16. Hvilke av følgende rengjøringsprodukter bli
 | Sjeldnere enn en gang per uke | 759 |
 | Ca. en gang per uke | 210 |
 | Oftere enn en gang per uke | 30 |
+| Not NA | 999 |
 | NA | 437 |
 
 
@@ -788,6 +829,7 @@ H_16_2:SKJEMAHUMANMBB; Salmiakk; 16. Hvilke av følgende rengjøringsprodukter b
 | Ca. en gang per uke | 46 |
 | Oftere enn en gang per uke | 5 |
 | Mer enn ett kryss | 1 |
+| Not NA | 906 |
 | NA | 530 |
 
 
@@ -800,6 +842,7 @@ H_16_3:SKJEMAHUMANMBB; Flekkmiddel (løsemiddelbasert); 16. Hvilke av følgende 
 | Sjeldnere enn en gang per uke | 708 |
 | Ca. en gang per uke | 27 |
 | Oftere enn en gang per uke | 12 |
+| Not NA | 747 |
 | NA | 689 |
 
 
@@ -811,6 +854,7 @@ H_16_4:SKJEMAHUMANMBB; Møbelrens; 16. Hvilke av følgende rengjøringsprodukter
 | -------- | - |
 | Sjeldnere enn en gang per uke | 733 |
 | Mer enn ett kryss | 1 |
+| Not NA | 734 |
 | NA | 702 |
 
 
@@ -823,6 +867,7 @@ H_16_5:SKJEMAHUMANMBB; Vindusvask; 16. Hvilke av følgende rengjøringsprodukter
 | Sjeldnere enn en gang per uke | 839 |
 | Ca. en gang per uke | 78 |
 | Oftere enn en gang per uke | 7 |
+| Not NA | 924 |
 | NA | 512 |
 
 
@@ -835,6 +880,7 @@ H_16_6:SKJEMAHUMANMBB; Rengjøringsspray til gulv; 16. Hvilke av følgende rengj
 | Sjeldnere enn en gang per uke | 656 |
 | Ca. en gang per uke | 89 |
 | Oftere enn en gang per uke | 7 |
+| Not NA | 752 |
 | NA | 684 |
 
 
@@ -846,6 +892,7 @@ H_16_7:SKJEMAHUMANMBB; Ovnsrens; 16. Hvilke av følgende rengjøringsprodukter b
 | -------- | - |
 | Sjeldnere enn en gang per uke | 782 |
 | Ca. en gang per uke | 11 |
+| Not NA | 793 |
 | NA | 643 |
 
 
@@ -858,6 +905,7 @@ H_16_8:SKJEMAHUMANMBB; Luftrenser (plug-in, forstøver, spray); 16. Hvilke av f�
 | Sjeldnere enn en gang per uke | 645 |
 | Ca. en gang per uke | 21 |
 | Oftere enn en gang per uke | 15 |
+| Not NA | 681 |
 | NA | 755 |
 
 
@@ -871,6 +919,7 @@ H_16_9:SKJEMAHUMANMBB; Universal rengjøringsspray; 16. Hvilke av følgende reng
 | Oftere enn en gang per uke | 164 |
 | Ca. en gang per uke | 363 |
 | Mer enn ett kryss | 2 |
+| Not NA | 920 |
 | NA | 516 |
 
 
@@ -883,6 +932,7 @@ H_1610:SKJEMAHUMANMBB; Annet flytende rengjøringsmiddel (grønnsåpe, Ajax etc.
 | Sjeldnere enn en gang per uke | 373 |
 | Ca. en gang per uke | 539 |
 | Oftere enn en gang per uke | 135 |
+| Not NA | 1047 |
 | NA | 389 |
 
 
@@ -894,6 +944,7 @@ H_1611:SKJEMAHUMANMBB; Møllkuler; 16. Hvilke av følgende rengjøringsprodukter
 | -------- | - |
 | Oftere enn en gang per uke | 1 |
 | Sjeldnere enn en gang per uke | 665 |
+| Not NA | 666 |
 | NA | 770 |
 
 
@@ -906,6 +957,7 @@ H_1612:SKJEMAHUMANMBB; Spray til å fjerne fettflekker; 16. Hvilke av følgende 
 | Sjeldnere enn en gang per uke | 576 |
 | Ca. en gang per uke | 103 |
 | Oftere enn en gang per uke | 65 |
+| Not NA | 744 |
 | NA | 692 |
 
 
@@ -919,6 +971,7 @@ H_1613_1:SKJEMAHUMANMBB; Andre rengjøringsmidler; 16. Hvilke av følgende rengj
 | Sjeldnere enn en gang per uke | 366 |
 | Oftere enn en gang per uke | 149 |
 | Mer enn ett kryss | 2 |
+| Not NA | 687 |
 | NA | 749 |
 
 
@@ -930,6 +983,7 @@ H_1613_2:SKJEMAHUMANMBB; Andre rengjøringsmidler: Spesifiser (tekst); 16. Hvilk
 | -------- | - |
 | 0 | 1181 |
 | ANNET | 255 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -941,6 +995,7 @@ H_17:SKJEMAHUMANMBB; ; 17. Har du støvsuger?
 | -------- | - |
 | Ja | 1055 |
 | Nei | 48 |
+| Not NA | 1103 |
 | NA | 333 |
 
 
@@ -953,6 +1008,7 @@ H_18:SKJEMAHUMANMBB; ; 18. Har støvsugeren din et hepafilter eller lignende fil
 | Ja | 591 |
 | Vet ikke | 296 |
 | Nei | 136 |
+| Not NA | 1023 |
 | NA | 413 |
 
 
@@ -964,6 +1020,7 @@ H_19:SKJEMAHUMANMBB; ; 19. Har du sentralstøvsuger?
 | -------- | - |
 | Nei | 689 |
 | Ja | 419 |
+| Not NA | 1108 |
 | NA | 328 |
 
 
@@ -977,6 +1034,7 @@ H_20:SKJEMAHUMANMBB; ; 20. Hvor ofte blir huset ditt støvsuget?
 | Oftere enn en gang per uke | 462 |
 | Sjeldnere enn en gang per uke | 138 |
 | Mer enn ett kryss | 2 |
+| Not NA | 1107 |
 | NA | 329 |
 
 
@@ -989,6 +1047,7 @@ H_21:SKJEMAHUMANMBB; ; 21. Hva er hovedkilden til vann i matlagingen?
 | Offentlig vannforsyning | 1307 |
 | Egen brønn/privat vannforsyning | 127 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1435 |
 | NA | 1 |
 
 
@@ -1001,6 +1060,7 @@ H_22:SKJEMAHUMANMBB; ; 22. Hva er hovedkilden til drikkevannet ditt, dvs vannet 
 | Offentlig vannforsyning | 1252 |
 | Egen brønn/privat vannforsyning | 118 |
 | Kommersielle produsenter (flaskevann, boks etc.) | 3 |
+| Not NA | 1373 |
 | NA | 63 |
 
 
@@ -1017,6 +1077,7 @@ H_23_1:SKJEMAHUMANMBB; Biola/Cultura/Activia og andre probiotiske produkter; 23.
 | Mer enn ett kryss | 2 |
 | 5+ ganger per dag | 2 |
 | 3-4 ganger per dag | 1 |
+| Not NA | 1402 |
 | NA | 34 |
 
 
@@ -1033,6 +1094,7 @@ H_23_2:SKJEMAHUMANMBB; Vann; 23. Hvor ofte drikker du følgende?
 | 1-3 ganger per uke | 28 |
 | 4-6 ganger per uke | 43 |
 | Mer enn ett kryss | 2 |
+| Not NA | 1433 |
 | NA | 3 |
 
 
@@ -1049,6 +1111,7 @@ H_23_3:SKJEMAHUMANMBB; Juice/smoothie; 23. Hvor ofte drikker du følgende?
 | 3-4 ganger per dag | 11 |
 | 5+ ganger per dag | 3 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1427 |
 | NA | 9 |
 
 
@@ -1064,6 +1127,7 @@ H_23_4:SKJEMAHUMANMBB; Søtet Cola-drikk (f.eks. Coca-Cola, Pepsi, energidrikker
 | 3-4 ganger per dag | 5 |
 | 1-2 ganger per dag | 17 |
 | 5+ ganger per dag | 4 |
+| Not NA | 1416 |
 | NA | 20 |
 
 
@@ -1079,6 +1143,7 @@ H_23_5:SKJEMAHUMANMBB; Annen søtet drikk (f.eks. Fanta, saft, nektar); 23. Hvor
 | 1-2 ganger per dag | 21 |
 | Mer enn ett kryss | 1 |
 | 3-4 ganger per dag | 2 |
+| Not NA | 1412 |
 | NA | 24 |
 
 
@@ -1095,6 +1160,7 @@ H_23_6:SKJEMAHUMANMBB; Kunstig søtet Cola-drikk (f.eks. Cola Zero, Pepsi Max); 
 | 3-4 ganger per dag | 31 |
 | 1-2 ganger per dag | 48 |
 | 5+ ganger per dag | 24 |
+| Not NA | 1401 |
 | NA | 35 |
 
 
@@ -1111,6 +1177,7 @@ H_23_7:SKJEMAHUMANMBB; Kaffe (alle typer); 23. Hvor ofte drikker du følgende?
 | 3-4 ganger per dag | 510 |
 | 4-6 ganger per uke | 75 |
 | Mer enn ett kryss | 3 |
+| Not NA | 1414 |
 | NA | 22 |
 
 
@@ -1126,6 +1193,7 @@ H_23_8:SKJEMAHUMANMBB; Te (alle typer); 23. Hvor ofte drikker du følgende?
 | 1-2 ganger per dag | 219 |
 | 3-4 ganger per dag | 71 |
 | 5+ ganger per dag | 14 |
+| Not NA | 1420 |
 | NA | 16 |
 
 
@@ -1142,6 +1210,7 @@ H_23_9:SKJEMAHUMANMBB; Melk (hel, lett, ekstra lett, skummet); 23. Hvor ofte dri
 | 3-4 ganger per dag | 79 |
 | 5+ ganger per dag | 21 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1425 |
 | NA | 11 |
 
 
@@ -1158,6 +1227,7 @@ H_24_1:SKJEMAHUMANMBB; Drikk: Øl, cider, rusbrus; 24. Oppgi hvor ofte du drikke
 | Noen ganger i måneden | 341 |
 | 5-6 ganger per uke | 12 |
 | >1 glass hver dag | 5 |
+| Not NA | 1434 |
 | NA | 2 |
 
 
@@ -1174,6 +1244,7 @@ H_24_2:SKJEMAHUMANMBB; Drikk: Vin, fruktvin, musserende, hetvin; 24. Oppgi hvor 
 | Ca. en gang i uken | 256 |
 | 5-6 ganger per uke | 7 |
 | >1 glass hver dag | 5 |
+| Not NA | 1425 |
 | NA | 11 |
 
 
@@ -1189,6 +1260,7 @@ H_24_3:SKJEMAHUMANMBB; Drikk: Brennevin; 24. Oppgi hvor ofte du drikker alkohol:
 | 2-4 ganger per uke | 13 |
 | Ca. en gang i uken | 26 |
 | Mer enn ett kryss | 2 |
+| Not NA | 1418 |
 | NA | 18 |
 
 
@@ -1204,6 +1276,7 @@ H_25:SKJEMAHUMANMBB; ; 25. Hvor mange alkoholenheter drikker du vanligvis når d
 | 7-9 | 26 |
 | 10 eller flere | 5 |
 | 0 | 5 |
+| Not NA | 1346 |
 | NA | 90 |
 
 
@@ -1219,6 +1292,7 @@ H_26_1:SKJEMAHUMANMBB; Gulrot, kålrot, sellerirot; 26. Hvor ofte har du spist f
 | 1 gang per dag | 97 |
 | Sjelden/aldri | 23 |
 | 2+ ganger per dag | 13 |
+| Not NA | 1429 |
 | NA | 7 |
 
 
@@ -1233,6 +1307,7 @@ H_26_2:SKJEMAHUMANMBB; Poteter; 26. Hvor ofte har du spist følgende matvarer de
 | 4-7 ganger per uke | 304 |
 | Sjelden/aldri | 25 |
 | 1 gang per dag | 20 |
+| Not NA | 1433 |
 | NA | 3 |
 
 
@@ -1249,6 +1324,7 @@ H_26_3:SKJEMAHUMANMBB; Hodekål, blomkål, brokkoli, rosenkål; 26. Hvor ofte ha
 | 1 gang per dag | 25 |
 | 2+ ganger per dag | 1 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1431 |
 | NA | 5 |
 
 
@@ -1265,6 +1341,7 @@ H_26_4:SKJEMAHUMANMBB; Løk, purre, hvitløk; 26. Hvor ofte har du spist følgen
 | Sjelden/aldri | 30 |
 | 2+ ganger per dag | 3 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1430 |
 | NA | 6 |
 
 
@@ -1281,6 +1358,7 @@ H_26_5:SKJEMAHUMANMBB; Andre grønnsaker (f.eks. erter, spinat, salat, tomat); 2
 | 2+ ganger per dag | 32 |
 | Sjelden/aldri | 13 |
 | Mer enn ett kryss | 3 |
+| Not NA | 1431 |
 | NA | 5 |
 
 
@@ -1296,6 +1374,7 @@ H_26_6:SKJEMAHUMANMBB; Epler, pærer, plommer; 26. Hvor ofte har du spist følge
 | 2-3 ganger siste måned | 315 |
 | 1 gang per dag | 123 |
 | 2+ ganger per dag | 34 |
+| Not NA | 1431 |
 | NA | 5 |
 
 
@@ -1312,6 +1391,7 @@ H_26_7:SKJEMAHUMANMBB; Annen frukt (f.eks. banan, appelsin, druer); 26. Hvor oft
 | 4-7 ganger per uke | 356 |
 | 2+ ganger per dag | 32 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1433 |
 | NA | 3 |
 
 
@@ -1327,6 +1407,7 @@ H_26_8:SKJEMAHUMANMBB; Bær (f.eks. jordbær, bringebær, blåbær); 26. Hvor of
 | 4-7 ganger per uke | 117 |
 | 1 gang per dag | 41 |
 | 2+ ganger per dag | 7 |
+| Not NA | 1432 |
 | NA | 4 |
 
 
@@ -1342,6 +1423,7 @@ H_26_9:SKJEMAHUMANMBB; Egg (kokt, stekt, røre); 26. Hvor ofte har du spist føl
 | 2-3 ganger siste måned | 320 |
 | Sjelden/aldri | 53 |
 | 2+ ganger per dag | 6 |
+| Not NA | 1432 |
 | NA | 4 |
 
 
@@ -1355,6 +1437,7 @@ H_2610:SKJEMAHUMANMBB; Måsegg; 26. Hvor ofte har du spist følgende matvarer de
 | 2-3 ganger siste måned | 3 |
 | 4-7 ganger per uke | 1 |
 | Mer enn ett kryss | 2 |
+| Not NA | 1424 |
 | NA | 12 |
 
 
@@ -1370,6 +1453,7 @@ H_2611:SKJEMAHUMANMBB; Fisk og fiskeprodukter, både til middag og som pålegg; 
 | 2+ ganger per dag | 8 |
 | Sjelden/aldri | 18 |
 | 1 gang per dag | 34 |
+| Not NA | 1430 |
 | NA | 6 |
 
 
@@ -1384,6 +1468,7 @@ H_2612:SKJEMAHUMANMBB; Skalldyr (f.eks. reker, krabbe, blåskjell); 26. Hvor oft
 | 1-3 ganger per uke | 87 |
 | Mer enn ett kryss | 1 |
 | 4-7 ganger per uke | 4 |
+| Not NA | 1432 |
 | NA | 4 |
 
 
@@ -1399,6 +1484,7 @@ H_2613:SKJEMAHUMANMBB; Kylling/kalkun; 26. Hvor ofte har du spist følgende matv
 | Sjelden/aldri | 65 |
 | 1 gang per dag | 5 |
 | 2+ ganger per dag | 1 |
+| Not NA | 1433 |
 | NA | 3 |
 
 
@@ -1414,6 +1500,7 @@ H_2614:SKJEMAHUMANMBB; Rent kjøtt av okse, gris og lam (stek, koteletter, filet
 | 4-7 ganger per uke | 35 |
 | 1 gang per dag | 3 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1430 |
 | NA | 6 |
 
 
@@ -1428,6 +1515,7 @@ H_2615:SKJEMAHUMANMBB; Bearbeidede kjøttprodukter (pølser, hamburger, kjøttka
 | Sjelden/aldri | 42 |
 | 4-7 ganger per uke | 48 |
 | 1 gang per dag | 1 |
+| Not NA | 1429 |
 | NA | 7 |
 
 
@@ -1441,6 +1529,7 @@ H_2616:SKJEMAHUMANMBB; Vilt (elg, hjort, rådyr, villfugl, hare o.l.); 26. Hvor 
 | 2-3 ganger siste måned | 420 |
 | 1-3 ganger per uke | 89 |
 | 4-7 ganger per uke | 8 |
+| Not NA | 1430 |
 | NA | 6 |
 
 
@@ -1455,6 +1544,7 @@ H_2617:SKJEMAHUMANMBB; Innmat (lever, nyrer, innmatpudding o.l.); 26. Hvor ofte 
 | 1-3 ganger per uke | 22 |
 | 1 gang per dag | 2 |
 | 4-7 ganger per uke | 5 |
+| Not NA | 1433 |
 | NA | 3 |
 
 
@@ -1471,6 +1561,7 @@ H_2618:SKJEMAHUMANMBB; Linser, bønner, kikerter; 26. Hvor ofte har du spist fø
 | 1 gang per dag | 8 |
 | Mer enn ett kryss | 3 |
 | 2+ ganger per dag | 1 |
+| Not NA | 1433 |
 | NA | 3 |
 
 
@@ -1487,6 +1578,7 @@ H_2619:SKJEMAHUMANMBB; Olivenolje/rapsolje (til salat og matlaging); 26. Hvor of
 | 1 gang per dag | 188 |
 | 2-3 ganger siste måned | 206 |
 | Mer enn ett kryss | 3 |
+| Not NA | 1432 |
 | NA | 4 |
 
 
@@ -1503,6 +1595,7 @@ H_2620:SKJEMAHUMANMBB; Grove kornprodukter (grovbrød, knekkebrød, usøtet müs
 | Sjelden/aldri | 27 |
 | 2-3 ganger siste måned | 37 |
 | Mer enn ett kryss | 4 |
+| Not NA | 1431 |
 | NA | 5 |
 
 
@@ -1519,6 +1612,7 @@ H_2621:SKJEMAHUMANMBB; Frokostblanding (søtet), havregrøt; 26. Hvor ofte har d
 | 4-7 ganger per uke | 108 |
 | Mer enn ett kryss | 3 |
 | 2+ ganger per dag | 3 |
+| Not NA | 1430 |
 | NA | 6 |
 
 
@@ -1535,6 +1629,7 @@ H_2622:SKJEMAHUMANMBB; Yoghurt/skyr o.l.; 26. Hvor ofte har du spist følgende m
 | 1 gang per dag | 75 |
 | 2+ ganger per dag | 2 |
 | Mer enn ett kryss | 4 |
+| Not NA | 1431 |
 | NA | 5 |
 
 
@@ -1550,6 +1645,7 @@ H_2623:SKJEMAHUMANMBB; Ost (alle typer); 26. Hvor ofte har du spist følgende ma
 | 4-7 ganger per uke | 439 |
 | 2+ ganger per dag | 236 |
 | 2-3 ganger siste måned | 59 |
+| Not NA | 1429 |
 | NA | 7 |
 
 
@@ -1565,6 +1661,7 @@ H_2624:SKJEMAHUMANMBB; Ris/pasta; 26. Hvor ofte har du spist følgende matvarer 
 | Mer enn ett kryss | 1 |
 | Sjelden/aldri | 23 |
 | 1 gang per dag | 8 |
+| Not NA | 1432 |
 | NA | 4 |
 
 
@@ -1581,6 +1678,7 @@ H_2625:SKJEMAHUMANMBB; Kaker, sjokolade, iskrem, smågodt; 26. Hvor ofte har du 
 | 1 gang per dag | 49 |
 | 2+ ganger per dag | 6 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1433 |
 | NA | 3 |
 
 
@@ -1596,6 +1694,7 @@ H_2626:SKJEMAHUMANMBB; Salte snacks (f.eks. potetchips, peanøtter); 26. Hvor of
 | 1 gang per dag | 7 |
 | 4-7 ganger per uke | 39 |
 | 2+ ganger per dag | 1 |
+| Not NA | 1432 |
 | NA | 4 |
 
 
@@ -1611,6 +1710,7 @@ H_2627:SKJEMAHUMANMBB; Nøtter (valnøtter, hasselnøtter, mandler o.l.); 26. Hv
 | 4-7 ganger per uke | 146 |
 | 1 gang per dag | 71 |
 | 2+ ganger per dag | 13 |
+| Not NA | 1434 |
 | NA | 2 |
 
 
@@ -1622,6 +1722,7 @@ H_27_1_1:SKJEMAHUMANMBB; Multivitamin-/ mineraltilskudd: Oppgi navn på produkt 
 | -------- | - |
 | 0 | 1196 |
 | ANNET | 240 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -1640,6 +1741,7 @@ H_27_1_2:SKJEMAHUMANMBB; Multivitamin-/ mineraltilskudd: Antall ganger per uke (
 | 2 | 32 |
 | 1 | 20 |
 | 9 | 3 |
+| Not NA | 779 |
 | NA | 657 |
 
 
@@ -1665,6 +1767,7 @@ H_27_1_3:SKJEMAHUMANMBB; Multivitamin-/ mineraltilskudd: Antall måneder siste �
 | 20 | 1 |
 | 7 | 9 |
 | 24 | 1 |
+| Not NA | 525 |
 | NA | 911 |
 
 
@@ -1676,6 +1779,7 @@ H_27_1_4:SKJEMAHUMANMBB; Multivitamin-/ mineraltilskudd: Tar kosttilskuddet nå?
 | -------- | - |
 | Nei | 650 |
 | Ja | 267 |
+| Not NA | 917 |
 | NA | 519 |
 
 
@@ -1687,6 +1791,7 @@ H_27_2_1:SKJEMAHUMANMBB; Kosttilskudd med mineraler (f.eks. jern): Oppgi navn p�
 | -------- | - |
 | 0 | 1280 |
 | ANNET | 156 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -1705,6 +1810,7 @@ H_27_2_2:SKJEMAHUMANMBB; Kosttilskudd med mineraler (f.eks. jern): Antall ganger
 | 3 | 25 |
 | 4 | 15 |
 | 9 | 1 |
+| Not NA | 679 |
 | NA | 757 |
 
 
@@ -1730,6 +1836,7 @@ H_27_2_3:SKJEMAHUMANMBB; Kosttilskudd med mineraler (f.eks. jern): Antall måned
 | 20 | 2 |
 | 24 | 1 |
 | 11 | 3 |
+| Not NA | 444 |
 | NA | 992 |
 
 
@@ -1741,6 +1848,7 @@ H_27_2_4:SKJEMAHUMANMBB; Kosttilskudd med mineraler (f.eks. jern): Tar kosttilsk
 | -------- | - |
 | Nei | 644 |
 | Ja | 176 |
+| Not NA | 820 |
 | NA | 616 |
 
 
@@ -1752,6 +1860,7 @@ H_27_3_1:SKJEMAHUMANMBB; Tran eller annet omega-3 tilskudd: Oppgi navn på produ
 | -------- | - |
 | 0 | 1140 |
 | ANNET | 296 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -1770,6 +1879,7 @@ H_27_3_2:SKJEMAHUMANMBB; Tran eller annet omega-3 tilskudd: Antall ganger per uk
 | 3 | 80 |
 | 1 | 48 |
 | 9 | 5 |
+| Not NA | 942 |
 | NA | 494 |
 
 
@@ -1798,6 +1908,7 @@ H_27_3_3:SKJEMAHUMANMBB; Tran eller annet omega-3 tilskudd: Antall måneder sist
 | 24 | 1 |
 | 30 | 1 |
 | 16 | 1 |
+| Not NA | 724 |
 | NA | 712 |
 
 
@@ -1809,6 +1920,7 @@ H_27_3_4:SKJEMAHUMANMBB; Tran eller annet omega-3 tilskudd: Tar kosttilskuddet n
 | -------- | - |
 | Nei | 577 |
 | Ja | 464 |
+| Not NA | 1041 |
 | NA | 395 |
 
 
@@ -1820,6 +1932,7 @@ H_27_4_1:SKJEMAHUMANMBB; Proteintilskudd: Oppgi navn på produkt (tekst); 27. Hv
 | -------- | - |
 | 0 | 1416 |
 | ANNET | 20 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -1838,6 +1951,7 @@ H_27_4_2:SKJEMAHUMANMBB; Proteintilskudd: Antall ganger per uke  («9» betyr he
 | 1 | 10 |
 | 9 | 1 |
 | 4 | 5 |
+| Not NA | 547 |
 | NA | 889 |
 
 
@@ -1862,6 +1976,7 @@ H_27_4_3:SKJEMAHUMANMBB; Proteintilskudd: Antall måneder siste året; 27. Hvor 
 | 10 | 2 |
 | 7 | 1 |
 | 11 | 1 |
+| Not NA | 289 |
 | NA | 1147 |
 
 
@@ -1873,6 +1988,7 @@ H_27_4_4:SKJEMAHUMANMBB; Proteintilskudd: Tar kosttilskuddet nå?; 27. Hvor ofte
 | -------- | - |
 | Nei | 649 |
 | Ja | 40 |
+| Not NA | 689 |
 | NA | 747 |
 
 
@@ -1884,6 +2000,7 @@ H_27_5_1:SKJEMAHUMANMBB; Annet: Oppgi navn på produkt (tekst); 27. Hvor ofte ha
 | -------- | - |
 | 0 | 1242 |
 | ANNET | 194 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -1902,6 +2019,7 @@ H_27_5_2:SKJEMAHUMANMBB; Annet: Antall ganger per uke  («9» betyr her «9 elle
 | 1 | 5 |
 | 3 | 10 |
 | 9 | 2 |
+| Not NA | 556 |
 | NA | 880 |
 
 
@@ -1924,6 +2042,7 @@ H_27_5_3:SKJEMAHUMANMBB; Annet: Antall måneder siste året; 27. Hvor ofte har d
 | 2 | 11 |
 | 9 | 7 |
 | 8 | 7 |
+| Not NA | 347 |
 | NA | 1089 |
 
 
@@ -1935,6 +2054,7 @@ H_27_5_4:SKJEMAHUMANMBB; Annet: Tar kosttilskuddet nå?; 27. Hvor ofte har du br
 | -------- | - |
 | Nei | 559 |
 | Ja | 155 |
+| Not NA | 714 |
 | NA | 722 |
 
 
@@ -1950,6 +2070,7 @@ H_28_1:SKJEMAHUMANMBB; Ferdigretter (frysepizza, Fjordland-middager o.l.); 28. A
 | 2-4 ganger per uke | 25 |
 | 5-6 ganger per uke | 2 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1431 |
 | NA | 5 |
 
 
@@ -1965,6 +2086,7 @@ H_28_2:SKJEMAHUMANMBB; Matretter i kantine; 28. Andre detaljer om maten. Oppgi h
 | Noen ganger i måneden | 206 |
 | 5-6 ganger per uke | 57 |
 | Hver dag | 16 |
+| Not NA | 1426 |
 | NA | 10 |
 
 
@@ -1979,6 +2101,7 @@ H_28_3:SKJEMAHUMANMBB; Fastfood (f.eks. McDonalds, kiosk, bensinstasjon); 28. An
 | Ca. en gang i uken | 43 |
 | 2-4 ganger per uke | 5 |
 | Mer enn ett kryss | 3 |
+| Not NA | 1433 |
 | NA | 3 |
 
 
@@ -1994,6 +2117,7 @@ H_28_4:SKJEMAHUMANMBB; Tyggegummi; 28. Andre detaljer om maten. Oppgi hvor ofte 
 | 5-6 ganger per uke | 125 |
 | Hver dag | 136 |
 | Ca. en gang i uken | 129 |
+| Not NA | 1430 |
 | NA | 6 |
 
 
@@ -2009,6 +2133,7 @@ H_28_5:SKJEMAHUMANMBB; Frukt/grønnsaker fra egen/slekts/venners hage eller går
 | 2-4 ganger per uke | 100 |
 | 5-6 ganger per uke | 27 |
 | Hver dag | 18 |
+| Not NA | 1429 |
 | NA | 7 |
 
 
@@ -2024,6 +2149,7 @@ H_28_6:SKJEMAHUMANMBB; Økologisk melk eller ost; 28. Andre detaljer om maten. O
 | 5-6 ganger per uke | 36 |
 | Hver dag | 39 |
 | 2-4 ganger per uke | 61 |
+| Not NA | 1429 |
 | NA | 7 |
 
 
@@ -2039,6 +2165,7 @@ H_28_7:SKJEMAHUMANMBB; Økologisk brød eller frokostblanding; 28. Andre detalje
 | Ca. en gang i uken | 44 |
 | 2-4 ganger per uke | 42 |
 | 5-6 ganger per uke | 27 |
+| Not NA | 1427 |
 | NA | 9 |
 
 
@@ -2054,6 +2181,7 @@ H_28_8:SKJEMAHUMANMBB; Økologiske egg; 28. Andre detaljer om maten. Oppgi hvor 
 | Hver dag | 7 |
 | 2-4 ganger per uke | 115 |
 | 5-6 ganger per uke | 24 |
+| Not NA | 1430 |
 | NA | 6 |
 
 
@@ -2069,6 +2197,7 @@ H_28_9:SKJEMAHUMANMBB; Økologisk dyrket frukt og grønt; 28. Andre detaljer om 
 | 5-6 ganger per uke | 39 |
 | 2-4 ganger per uke | 94 |
 | Hver dag | 32 |
+| Not NA | 1428 |
 | NA | 8 |
 
 
@@ -2090,6 +2219,7 @@ H_29:SKJEMAHUMANMBB; (ganger per uke); 29. Hvor mange ganger per uke lager du ma
 | 8 | 4 |
 | 16 | 1 |
 | 9 | 1 |
+| Not NA | 1382 |
 | NA | 54 |
 
 
@@ -2102,6 +2232,7 @@ H_51_1:SKJEMAHUMANMBB; ; 51. Hvilket språk snakker du mest hjemme?
 | 1 | 1394 |
 | 0 | 5 |
 | 2 | 33 |
+| Not NA | 1432 |
 | NA | 4 |
 
 
@@ -2113,6 +2244,7 @@ H_51_2:SKJEMAHUMANMBB; Annet språk: Hvilket (tekst); 51. Hvilket språk snakker
 | -------- | - |
 | 0 | 1385 |
 | ANNET | 51 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -2128,6 +2260,7 @@ H_52_1:SKJEMAHUMANMBB; Antall personer 18 år eller over; 52. Hvor mange persone
 | 4 | 12 |
 | 5 | 2 |
 | 0 | 3 |
+| Not NA | 1433 |
 | NA | 3 |
 
 
@@ -2145,6 +2278,7 @@ H_52_2:SKJEMAHUMANMBB; Antall personer under 18 år; 52. Hvor mange personer er 
 | 0 | 4 |
 | 9 | 2 |
 | 6 | 1 |
+| Not NA | 1428 |
 | NA | 8 |
 
 
@@ -2161,6 +2295,7 @@ H_53_1:SKJEMAHUMANMBB; Høyden din (cm); 53. Hvor høy er du og hvor mye veier d
 | 3rd Qu. | 181 |
 | Max. | 200 |
 | NA's | 5 |
+| Not NA | 1431 |
 
 
 ### H_53_2
@@ -2176,6 +2311,7 @@ H_53_2:SKJEMAHUMANMBB; Vekten din (kg); 53. Hvor høy er du og hvor mye veier du
 | 3rd Qu. | 86 |
 | Max. | 937 |
 | NA's | 11 |
+| Not NA | 1425 |
 
 
 ### H_53_3
@@ -2191,6 +2327,7 @@ H_53_3:SKJEMAHUMANMBB; Midjemålet ditt (cm); 53. Hvor høy er du og hvor mye ve
 | 3rd Qu. | 97 |
 | Max. | 195 |
 | NA's | 81 |
+| Not NA | 1355 |
 
 
 ### H_54
@@ -2206,6 +2343,7 @@ H_54:SKJEMAHUMANMBB; ; 54. Hvilket nummer i søskenflokken er barnet som deltar 
 | Femte | 9 |
 | Høyere | 1 |
 | Sjette | 1 |
+| Not NA | 1066 |
 | NA | 370 |
 
 
@@ -2224,6 +2362,7 @@ H_55:SKJEMAHUMANMBB; (år); 55. Oppgi barnets alder
 | 14 | 12 |
 | 9 | 77 |
 | 1 | 1 |
+| Not NA | 1059 |
 | NA | 377 |
 
 
@@ -2240,6 +2379,7 @@ H_56_1:SKJEMAHUMANMBB; Høyden til barnet ditt (cm); 56. Hvor høyt er barnet di
 | 3rd Qu. | 155 |
 | Max. | 177 |
 | NA's | 427 |
+| Not NA | 1009 |
 
 
 ### H_56_2
@@ -2255,6 +2395,7 @@ H_56_2:SKJEMAHUMANMBB; Vekten til barnet ditt (kg); 56. Hvor høyt er barnet dit
 | 3rd Qu. | 45 |
 | Max. | 477 |
 | NA's | 448 |
+| Not NA | 988 |
 
 
 ### H_56_3
@@ -2270,6 +2411,7 @@ H_56_3:SKJEMAHUMANMBB; Midjemålet til barnet ditt (cm); 56. Hvor høyt er barne
 | 3rd Qu. | 68 |
 | Max. | 165 |
 | NA's | 485 |
+| Not NA | 951 |
 
 
 ### H_57
@@ -2282,6 +2424,7 @@ H_57:SKJEMAHUMANMBB; ; 57. Har barnet ditt sitt eget soverom?
 | Nei, deler med søsken | 89 |
 | Nei, deler med foreldre/forsørger | 8 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1051 |
 | NA | 385 |
 
 
@@ -2292,6 +2435,7 @@ H_58_1:SKJEMAHUMANMBB; Ser ut på gate eller vei; 58. Hvilken utsikt er det fra 
 | Category | n |
 | -------- | - |
 | 1 | 210 |
+| Not NA | 210 |
 | NA | 1226 |
 
 
@@ -2302,6 +2446,7 @@ H_58_2:SKJEMAHUMANMBB; Ser ut på hage/gårdsplass/terrasse; 58. Hvilken utsikt 
 | Category | n |
 | -------- | - |
 | 1 | 850 |
+| Not NA | 850 |
 | NA | 586 |
 
 
@@ -2312,6 +2457,7 @@ H_58_3:SKJEMAHUMANMBB; Ser ut på trikk/tog/bane; 58. Hvilken utsikt er det fra 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 1434 |
 
 
@@ -2322,6 +2468,7 @@ H_58_4_1:SKJEMAHUMANMBB; Annet; 58. Hvilken utsikt er det fra barnets soverom? (
 | Category | n |
 | -------- | - |
 | 1 | 124 |
+| Not NA | 124 |
 | NA | 1312 |
 
 
@@ -2333,6 +2480,7 @@ H_58_4_2:SKJEMAHUMANMBB; Annet: Spesifiser (tekst); 58. Hvilken utsikt er det fr
 | -------- | - |
 | 0 | 1309 |
 | ANNET | 127 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -2345,6 +2493,7 @@ H_59:SKJEMAHUMANMBB; ; 59. Sover det kjæledyr på barnets rom?
 | Nei | 780 |
 | Av og til | 176 |
 | Ja | 43 |
+| Not NA | 999 |
 | NA | 437 |
 
 
@@ -2359,6 +2508,7 @@ H_60:SKJEMAHUMANMBB; ; 60. Hvor ofte har barnet ditt lekt med leker som innehold
 | Vet ikke | 87 |
 | Daglig | 54 |
 | Mer enn ett kryss | 2 |
+| Not NA | 969 |
 | NA | 467 |
 
 
@@ -2384,6 +2534,7 @@ H_61_1_1:SKJEMAHUMANMBB; Sommertid (timer); 61. Hvor mye tid per dag bruker barn
 | 30 | 1 |
 | 13 | 1 |
 | 17 | 1 |
+| Not NA | 949 |
 | NA | 487 |
 
 
@@ -2403,6 +2554,7 @@ H_61_1_2:SKJEMAHUMANMBB; Sommertid (minutter); 61. Hvor mye tid per dag bruker b
 | 60 | 1 |
 | 50 | 1 |
 | 10 | 1 |
+| Not NA | 61 |
 | NA | 1375 |
 
 
@@ -2423,6 +2575,7 @@ H_61_2_1:SKJEMAHUMANMBB; Vintertid (timer); 61. Hvor mye tid per dag bruker barn
 | 8 | 2 |
 | 18 | 1 |
 | 7 | 1 |
+| Not NA | 911 |
 | NA | 525 |
 
 
@@ -2444,6 +2597,7 @@ H_61_2_2:SKJEMAHUMANMBB; Vintertid (minutter); 61. Hvor mye tid per dag bruker b
 | 40 | 1 |
 | 70 | 1 |
 | 2 | 1 |
+| Not NA | 118 |
 | NA | 1318 |
 
 
@@ -2454,6 +2608,7 @@ H_62:SKJEMAHUMANMBB; ; 62. Røyker barnet ditt?
 | Category | n |
 | -------- | - |
 | Nei | 997 |
+| Not NA | 997 |
 | NA | 439 |
 
 
@@ -2464,6 +2619,7 @@ H_63:SKJEMAHUMANMBB; ; 63. Snuser barnet ditt?
 | Category | n |
 | -------- | - |
 | Nei | 986 |
+| Not NA | 986 |
 | NA | 450 |
 
 
@@ -2477,6 +2633,7 @@ H_64_1:SKJEMAHUMANMBB; Sminke på hud; 64. Hvor ofte bruker barnet ditt følgend
 | Noen ganger i uken | 36 |
 | En gang i uken | 39 |
 | Hver dag | 12 |
+| Not NA | 1038 |
 | NA | 398 |
 
 
@@ -2490,6 +2647,7 @@ H_64_2:SKJEMAHUMANMBB; Øyesminke; 64. Hvor ofte bruker barnet ditt følgende pr
 | Noen ganger i uken | 39 |
 | Hver dag | 16 |
 | En gang i uken | 43 |
+| Not NA | 1037 |
 | NA | 399 |
 
 
@@ -2504,6 +2662,7 @@ H_64_3:SKJEMAHUMANMBB; Hårsjampo; 64. Hvor ofte bruker barnet ditt følgende pr
 | Hver dag | 40 |
 | Sjelden/aldri | 18 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1040 |
 | NA | 396 |
 
 
@@ -2517,6 +2676,7 @@ H_64_4:SKJEMAHUMANMBB; Balsam; 64. Hvor ofte bruker barnet ditt følgende produk
 | Noen ganger i uken | 383 |
 | En gang i uken | 150 |
 | Hver dag | 17 |
+| Not NA | 1033 |
 | NA | 403 |
 
 
@@ -2531,6 +2691,7 @@ H_64_5:SKJEMAHUMANMBB; Hårstylingsprodukter; 64. Hvor ofte bruker barnet ditt f
 | En gang i uken | 128 |
 | Hver dag | 92 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1038 |
 | NA | 398 |
 
 
@@ -2544,6 +2705,7 @@ H_64_6:SKJEMAHUMANMBB; Bodylotion (f.eks. håndkrem, leppepomade); 64. Hvor ofte
 | Noen ganger i uken | 232 |
 | En gang i uken | 212 |
 | Hver dag | 67 |
+| Not NA | 1035 |
 | NA | 401 |
 
 
@@ -2558,6 +2720,7 @@ H_64_7:SKJEMAHUMANMBB; Dufter (f.eks. parfyme, eau de toilette); 64. Hvor ofte b
 | Noen ganger i uken | 78 |
 | En gang i uken | 100 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1035 |
 | NA | 401 |
 
 
@@ -2571,6 +2734,7 @@ H_64_8:SKJEMAHUMANMBB; Deodorant; 64. Hvor ofte bruker barnet ditt følgende pro
 | En gang i uken | 95 |
 | Hver dag | 144 |
 | Noen ganger i uken | 236 |
+| Not NA | 1033 |
 | NA | 403 |
 
 
@@ -2584,6 +2748,7 @@ H_64_9:SKJEMAHUMANMBB; Massasjeolje; 64. Hvor ofte bruker barnet ditt følgende 
 | Noen ganger i uken | 2 |
 | En gang i uken | 5 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1037 |
 | NA | 399 |
 
 
@@ -2598,6 +2763,7 @@ H_6410:SKJEMAHUMANMBB; Neglelakk; 64. Hvor ofte bruker barnet ditt følgende pro
 | Noen ganger i uken | 37 |
 | Hver dag | 7 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1037 |
 | NA | 399 |
 
 
@@ -2613,6 +2779,7 @@ H_65_1:SKJEMAHUMANMBB; Biola/Cultura/Activia og andre probiotiske produkter; 65.
 | 1-2 ganger per dag | 31 |
 | 3-4 ganger per dag | 4 |
 | 5+ ganger per dag | 1 |
+| Not NA | 1023 |
 | NA | 413 |
 
 
@@ -2628,6 +2795,7 @@ H_65_2:SKJEMAHUMANMBB; Vann; 65. Hvor ofte drikker barnet ditt følgende?
 | 4-6 ganger per uke | 48 |
 | 1-3 ganger per uke | 10 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1032 |
 | NA | 404 |
 
 
@@ -2643,6 +2811,7 @@ H_65_3:SKJEMAHUMANMBB; Juice/smoothie; 65. Hvor ofte drikker barnet ditt følgen
 | Sjeldnere enn ukentlig | 176 |
 | 3-4 ganger per dag | 14 |
 | 5+ ganger per dag | 2 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -2657,6 +2826,7 @@ H_65_4:SKJEMAHUMANMBB; Søtet Cola-drikk (f.eks. Coca-Cola, Pepsi, energidrikker
 | 4-6 ganger per uke | 17 |
 | 3-4 ganger per dag | 1 |
 | 1-2 ganger per dag | 4 |
+| Not NA | 1028 |
 | NA | 408 |
 
 
@@ -2672,6 +2842,7 @@ H_65_5:SKJEMAHUMANMBB; Annen søtet drikk (f.eks. Fanta, saft, nektar); 65. Hvor
 | 3-4 ganger per dag | 5 |
 | 1-2 ganger per dag | 31 |
 | 5+ ganger per dag | 1 |
+| Not NA | 1028 |
 | NA | 408 |
 
 
@@ -2687,6 +2858,7 @@ H_65_6:SKJEMAHUMANMBB; Kunstig søtet Cola-drikk (f.eks. Cola Zero, Pepsi Max); 
 | 4-6 ganger per uke | 19 |
 | 3-4 ganger per dag | 5 |
 | 5+ ganger per dag | 1 |
+| Not NA | 1025 |
 | NA | 411 |
 
 
@@ -2699,6 +2871,7 @@ H_65_7:SKJEMAHUMANMBB; Kaffe (alle typer); 65. Hvor ofte drikker barnet ditt fø
 | Sjeldnere enn ukentlig | 995 |
 | 1-2 ganger per dag | 1 |
 | 1-3 ganger per uke | 14 |
+| Not NA | 1010 |
 | NA | 426 |
 
 
@@ -2713,6 +2886,7 @@ H_65_8:SKJEMAHUMANMBB; Te (alle typer); 65. Hvor ofte drikker barnet ditt følge
 | 4-6 ganger per uke | 19 |
 | 1-2 ganger per dag | 8 |
 | 3-4 ganger per dag | 1 |
+| Not NA | 1015 |
 | NA | 421 |
 
 
@@ -2729,6 +2903,7 @@ H_65_9:SKJEMAHUMANMBB; Melk (hel, lett, ekstra lett, skummet); 65. Hvor ofte dri
 | 4-6 ganger per uke | 161 |
 | 3-4 ganger per dag | 150 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1031 |
 | NA | 405 |
 
 
@@ -2745,6 +2920,7 @@ H_66_1:SKJEMAHUMANMBB; Gulrot, kålrot, sellerirot; 66. Hvor ofte har barnet dit
 | Sjelden/aldri | 76 |
 | Mer enn ett kryss | 1 |
 | 2+ ganger per dag | 10 |
+| Not NA | 1027 |
 | NA | 409 |
 
 
@@ -2759,6 +2935,7 @@ H_66_2:SKJEMAHUMANMBB; Poteter; 66. Hvor ofte har barnet ditt spist følgende ma
 | 4-7 ganger per uke | 196 |
 | Sjelden/aldri | 33 |
 | 1 gang per dag | 11 |
+| Not NA | 1028 |
 | NA | 408 |
 
 
@@ -2774,6 +2951,7 @@ H_66_3:SKJEMAHUMANMBB; Hodekål, blomkål, brokkoli, rosenkål; 66. Hvor ofte ha
 | Sjelden/aldri | 182 |
 | Mer enn ett kryss | 1 |
 | 1 gang per dag | 15 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -2788,6 +2966,7 @@ H_66_4:SKJEMAHUMANMBB; Løk, purre, hvitløk; 66. Hvor ofte har barnet ditt spis
 | 4-7 ganger per uke | 144 |
 | 1-3 ganger per uke | 401 |
 | 1 gang per dag | 18 |
+| Not NA | 1028 |
 | NA | 408 |
 
 
@@ -2804,6 +2983,7 @@ H_66_5:SKJEMAHUMANMBB; Andre grønnsaker (f.eks. erter, spinat, salat, tomat); 6
 | Sjelden/aldri | 185 |
 | 2+ ganger per dag | 5 |
 | Mer enn ett kryss | 2 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -2820,6 +3000,7 @@ H_66_6:SKJEMAHUMANMBB; Epler, pærer, plommer; 66. Hvor ofte har barnet ditt spi
 | 1 gang per dag | 131 |
 | 2+ ganger per dag | 35 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1031 |
 | NA | 405 |
 
 
@@ -2835,6 +3016,7 @@ H_66_7:SKJEMAHUMANMBB; Annen frukt (f.eks. banan, appelsin, druer); 66. Hvor oft
 | 1 gang per dag | 105 |
 | 2-3 ganger siste måned | 168 |
 | 2+ ganger per dag | 16 |
+| Not NA | 1031 |
 | NA | 405 |
 
 
@@ -2851,6 +3033,7 @@ H_66_8:SKJEMAHUMANMBB; Bær (f.eks. jordbær, bringebær, blåbær); 66. Hvor of
 | 2+ ganger per dag | 4 |
 | 1 gang per dag | 33 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1029 |
 | NA | 407 |
 
 
@@ -2865,6 +3048,7 @@ H_66_9:SKJEMAHUMANMBB; Egg (kokt, stekt, røre); 66. Hvor ofte har barnet ditt s
 | 1 gang per dag | 6 |
 | Sjelden/aldri | 191 |
 | 4-7 ganger per uke | 51 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -2878,6 +3062,7 @@ H_6610:SKJEMAHUMANMBB; Måsegg; 66. Hvor ofte har barnet ditt spist følgende ma
 | 1-3 ganger per uke | 1 |
 | 4-7 ganger per uke | 1 |
 | 2-3 ganger siste måned | 2 |
+| Not NA | 1025 |
 | NA | 411 |
 
 
@@ -2894,6 +3079,7 @@ H_6611:SKJEMAHUMANMBB; Fisk og fiskeprodukter, både til middag og som pålegg; 
 | 1 gang per dag | 7 |
 | Mer enn ett kryss | 1 |
 | 2+ ganger per dag | 2 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -2908,6 +3094,7 @@ H_6612:SKJEMAHUMANMBB; Skalldyr (f.eks. reker, krabbe, blåskjell); 66. Hvor oft
 | 2-3 ganger siste måned | 191 |
 | Mer enn ett kryss | 3 |
 | 4-7 ganger per uke | 1 |
+| Not NA | 1029 |
 | NA | 407 |
 
 
@@ -2923,6 +3110,7 @@ H_6613:SKJEMAHUMANMBB; Kylling/kalkun; 66. Hvor ofte har barnet ditt spist følg
 | 4-7 ganger per uke | 34 |
 | Mer enn ett kryss | 2 |
 | 1 gang per dag | 1 |
+| Not NA | 1029 |
 | NA | 407 |
 
 
@@ -2937,6 +3125,7 @@ H_6614:SKJEMAHUMANMBB; Rent kjøtt av okse, gris og lam (stek, koteletter, filet
 | Sjelden/aldri | 88 |
 | 4-7 ganger per uke | 16 |
 | 1 gang per dag | 2 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -2951,6 +3140,7 @@ H_6615:SKJEMAHUMANMBB; Bearbeidede kjøttprodukter (pølser, hamburger, kjøttka
 | 2-3 ganger siste måned | 245 |
 | Sjelden/aldri | 26 |
 | 1 gang per dag | 3 |
+| Not NA | 1028 |
 | NA | 408 |
 
 
@@ -2964,6 +3154,7 @@ H_6616:SKJEMAHUMANMBB; Vilt (elg, hjort, rådyr, villfugl, hare o.l.); 66. Hvor 
 | 2-3 ganger siste måned | 227 |
 | 1-3 ganger per uke | 65 |
 | 4-7 ganger per uke | 8 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -2979,6 +3170,7 @@ H_6617:SKJEMAHUMANMBB; Innmat (lever, nyrer, innmatpudding o.l.); 66. Hvor ofte 
 | 4-7 ganger per uke | 8 |
 | 2+ ganger per dag | 1 |
 | 1 gang per dag | 2 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -2993,6 +3185,7 @@ H_6618:SKJEMAHUMANMBB; Linser, bønner, kikerter; 66. Hvor ofte har barnet ditt 
 | 1-3 ganger per uke | 68 |
 | 4-7 ganger per uke | 7 |
 | 1 gang per dag | 1 |
+| Not NA | 1029 |
 | NA | 407 |
 
 
@@ -3008,6 +3201,7 @@ H_6619:SKJEMAHUMANMBB; Olivenolje/rapsolje (til salat og matlaging); 66. Hvor of
 | 1 gang per dag | 105 |
 | 2-3 ganger siste måned | 148 |
 | 2+ ganger per dag | 8 |
+| Not NA | 1028 |
 | NA | 408 |
 
 
@@ -3024,6 +3218,7 @@ H_6620:SKJEMAHUMANMBB; Grove kornprodukter (grovbrød, knekkebrød, usøtet müs
 | Sjelden/aldri | 20 |
 | 2-3 ganger siste måned | 47 |
 | Mer enn ett kryss | 2 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -3039,6 +3234,7 @@ H_6621:SKJEMAHUMANMBB; Frokostblanding (søtet), havregrøt; 66. Hvor ofte har b
 | Sjelden/aldri | 198 |
 | 1 gang per dag | 132 |
 | 2+ ganger per dag | 18 |
+| Not NA | 1027 |
 | NA | 409 |
 
 
@@ -3055,6 +3251,7 @@ H_6622:SKJEMAHUMANMBB; Yoghurt/skyr o.l.; 66. Hvor ofte har barnet ditt spist f�
 | 2-3 ganger siste måned | 200 |
 | 2+ ganger per dag | 8 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1029 |
 | NA | 407 |
 
 
@@ -3071,6 +3268,7 @@ H_6623:SKJEMAHUMANMBB; Ost (alle typer); 66. Hvor ofte har barnet ditt spist fø
 | 2+ ganger per dag | 70 |
 | 2-3 ganger siste måned | 68 |
 | Mer enn ett kryss | 2 |
+| Not NA | 1028 |
 | NA | 408 |
 
 
@@ -3085,6 +3283,7 @@ H_6624:SKJEMAHUMANMBB; Ris/pasta; 66. Hvor ofte har barnet ditt spist følgende 
 | 1 gang per dag | 11 |
 | 2-3 ganger siste måned | 75 |
 | Sjelden/aldri | 9 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -3099,6 +3298,7 @@ H_6625:SKJEMAHUMANMBB; Kaker, sjokolade, iskrem, smågodt; 66. Hvor ofte har bar
 | 4-7 ganger per uke | 63 |
 | Sjelden/aldri | 13 |
 | 1 gang per dag | 13 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -3113,6 +3313,7 @@ H_6626:SKJEMAHUMANMBB; Salte snacks (f.eks. potetchips, peanøtter); 66. Hvor of
 | Sjelden/aldri | 57 |
 | 4-7 ganger per uke | 9 |
 | 1 gang per dag | 2 |
+| Not NA | 1029 |
 | NA | 407 |
 
 
@@ -3128,6 +3329,7 @@ H_6627:SKJEMAHUMANMBB; Nøtter (valnøtter, hasselnøtter, mandler o.l.); 66. Hv
 | 4-7 ganger per uke | 27 |
 | 1 gang per dag | 8 |
 | 2+ ganger per dag | 1 |
+| Not NA | 1031 |
 | NA | 405 |
 
 
@@ -3141,6 +3343,7 @@ H_67_1:SKJEMAHUMANMBB; Ferdigretter (frysepizza, Fjordland-middager o.l.); 67. O
 | Ca. en gang i uken | 141 |
 | Sjelden/aldri | 392 |
 | 2-4 ganger per uke | 23 |
+| Not NA | 1031 |
 | NA | 405 |
 
 
@@ -3156,6 +3359,7 @@ H_67_2:SKJEMAHUMANMBB; Matretter i kantine; 67. Oppgi hvor ofte barnet ditt har 
 | Hver dag | 2 |
 | Noen ganger i måneden | 40 |
 | 5-6 ganger per uke | 6 |
+| Not NA | 1032 |
 | NA | 404 |
 
 
@@ -3170,6 +3374,7 @@ H_67_3:SKJEMAHUMANMBB; Fastfood (f.eks. McDonalds, kiosk, bensinstasjon); 67. Op
 | Ca. en gang i uken | 27 |
 | Mer enn ett kryss | 2 |
 | 2-4 ganger per uke | 1 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -3185,6 +3390,7 @@ H_67_4:SKJEMAHUMANMBB; Tyggegummi; 67. Oppgi hvor ofte barnet ditt har spist fø
 | 2-4 ganger per uke | 163 |
 | Hver dag | 27 |
 | 5-6 ganger per uke | 38 |
+| Not NA | 1027 |
 | NA | 409 |
 
 
@@ -3201,6 +3407,7 @@ H_67_5:SKJEMAHUMANMBB; Frukt/grønnsaker fra egen/slekts/venners hage eller går
 | 5-6 ganger per uke | 19 |
 | Hver dag | 8 |
 | Mer enn ett kryss | 1 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -3216,6 +3423,7 @@ H_67_6:SKJEMAHUMANMBB; Økologisk melk eller ost; 67. Oppgi hvor ofte barnet dit
 | Hver dag | 32 |
 | Ca. en gang i uken | 54 |
 | 2-4 ganger per uke | 50 |
+| Not NA | 1028 |
 | NA | 408 |
 
 
@@ -3231,6 +3439,7 @@ H_67_7:SKJEMAHUMANMBB; Økologisk brød eller frokostblanding; 67. Oppgi hvor of
 | Ca. en gang i uken | 48 |
 | 2-4 ganger per uke | 40 |
 | 5-6 ganger per uke | 16 |
+| Not NA | 1030 |
 | NA | 406 |
 
 
@@ -3246,6 +3455,7 @@ H_67_8:SKJEMAHUMANMBB; Økologiske egg; 67. Oppgi hvor ofte barnet ditt har spis
 | Ca. en gang i uken | 95 |
 | 5-6 ganger per uke | 10 |
 | Hver dag | 2 |
+| Not NA | 1031 |
 | NA | 405 |
 
 
@@ -3261,6 +3471,7 @@ H_67_9:SKJEMAHUMANMBB; Økologisk dyrket frukt og grønt; 67. Oppgi hvor ofte ba
 | Ca. en gang i uken | 77 |
 | 2-4 ganger per uke | 79 |
 | Hver dag | 20 |
+| Not NA | 1032 |
 | NA | 404 |
 
 
@@ -3273,6 +3484,7 @@ H_68_1:SKJEMAHUMANMBB; ; 68. Har barnet ditt tenner med amalgamfylling?
 | Nei | 1022 |
 | Ja | 6 |
 | Vet ikke | 7 |
+| Not NA | 1035 |
 | NA | 401 |
 
 
@@ -3286,6 +3498,7 @@ H_68_2:SKJEMAHUMANMBB; Oppgi hvor mange; 68. Har barnet ditt tenner med amalgamf
 | 0 | 3 |
 | 3 | 1 |
 | 2 | 1 |
+| Not NA | 9 |
 | NA | 1427 |
 
 
@@ -3299,6 +3512,7 @@ H_69_1:SKJEMAHUMANMBB; (timer); 69. Hvor mye tid bruker barnet ditt i bil i gjen
 | 1 | 79 |
 | 2 | 10 |
 | 4 | 1 |
+| Not NA | 280 |
 | NA | 1156 |
 
 
@@ -3327,6 +3541,7 @@ H_69_2:SKJEMAHUMANMBB; (minutter); 69. Hvor mye tid bruker barnet ditt i bil i g
 | 6 | 1 |
 | 12 | 1 |
 | 8 | 2 |
+| Not NA | 916 |
 | NA | 520 |
 
 
@@ -3355,6 +3570,7 @@ SKJEMAHUMANMBB;BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA; 0.
 | -33 | 1 |
 | -44 | 2 |
 | -35 | 1 |
+| Not NA | 1417 |
 | NA | 19 |
 
 
@@ -3372,6 +3588,7 @@ SKJEMAHUMANMBB; BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA; 0.
 | 12 | 281 |
 | 9 | 121 |
 | 14 | 13 |
+| Not NA | 1436 |
 | NA | 0 |
 
 
@@ -3389,6 +3606,7 @@ SKJEMAHUMANMBB; BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA; 0.
 | 12 | 260 |
 | 9 | 135 |
 | 14 | 10 |
+| Not NA | 1436 |
 | NA | 0 |
 
 

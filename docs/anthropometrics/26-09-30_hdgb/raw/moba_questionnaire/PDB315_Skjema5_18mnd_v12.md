@@ -868,6 +868,7 @@
 | 1 | 74902 |
 | 2 | 1202 |
 | 3 | 12 |
+| Not NA | 76116 |
 | NA | 0 |
 
 
@@ -881,6 +882,7 @@
 | SKJEMA5B | 12909 |
 | SKJEMA5A | 4974 |
 | SKJEMA5C | 23523 |
+| Not NA | 76116 |
 | NA | 0 |
 
 
@@ -905,6 +907,7 @@ Z__0_3:SKJEMA5E; (Z__0_3:SKJEMA5D); (Z__0_3:SKJEMA5C); (Z__0_3:SKJEMA5B); (Z__0_
 | 2011 | 60 |
 | 2021 | 1 |
 | 2000 | 9 |
+| Not NA | 75160 |
 | NA | 956 |
 
 
@@ -915,6 +918,7 @@ Z__1_1_1:SKJEMA5E; (Z__1_1_1:SKJEMA5D); (Z__1_1_1:SKJEMA5C); (Z__1_1_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 55066 |
+| Not NA | 55066 |
 | NA | 21050 |
 
 
@@ -925,6 +929,7 @@ Z__1_1_2:SKJEMA5E; (Z__1_1_2:SKJEMA5D); (Z__1_1_2:SKJEMA5C); (Z__1_1_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 45340 |
+| Not NA | 45340 |
 | NA | 30776 |
 
 
@@ -935,6 +940,7 @@ Z__1_1_3:SKJEMA5E; (Z__1_1_3:SKJEMA5D); (Z__1_1_3:SKJEMA5C); (Z__1_1_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 27891 |
+| Not NA | 27891 |
 | NA | 48225 |
 
 
@@ -945,6 +951,7 @@ Z__1_1_4:SKJEMA5E; (Z__1_1_4:SKJEMA5D); (Z__1_1_4:SKJEMA5C); (Z__1_1_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 12635 |
+| Not NA | 12635 |
 | NA | 63481 |
 
 
@@ -955,6 +962,7 @@ Z__1_2_1:SKJEMA5E; (Z__1_2_1:SKJEMA5D); (Z__1_2_1:SKJEMA5C); (Z__1_2_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 25994 |
+| Not NA | 25994 |
 | NA | 50122 |
 
 
@@ -965,6 +973,7 @@ Z__1_2_2:SKJEMA5E; (Z__1_2_2:SKJEMA5D); (Z__1_2_2:SKJEMA5C); (Z__1_2_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 34915 |
+| Not NA | 34915 |
 | NA | 41201 |
 
 
@@ -975,6 +984,7 @@ Z__1_2_3:SKJEMA5E; (Z__1_2_3:SKJEMA5D); (Z__1_2_3:SKJEMA5C); (Z__1_2_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 18554 |
+| Not NA | 18554 |
 | NA | 57562 |
 
 
@@ -985,6 +995,7 @@ Z__1_2_4:SKJEMA5E; (Z__1_2_4:SKJEMA5D); (Z__1_2_4:SKJEMA5C); (Z__1_2_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 4605 |
+| Not NA | 4605 |
 | NA | 71511 |
 
 
@@ -995,6 +1006,7 @@ Z__1_3_1:SKJEMA5E; (Z__1_3_1:SKJEMA5D); (Z__1_3_1:SKJEMA5C); (Z__1_3_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1051 |
+| Not NA | 1051 |
 | NA | 75065 |
 
 
@@ -1005,6 +1017,7 @@ Z__1_3_2:SKJEMA5E; (Z__1_3_2:SKJEMA5D); (Z__1_3_2:SKJEMA5C); (Z__1_3_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1489 |
+| Not NA | 1489 |
 | NA | 74627 |
 
 
@@ -1015,6 +1028,7 @@ Z__1_3_3:SKJEMA5E; (Z__1_3_3:SKJEMA5D); (Z__1_3_3:SKJEMA5C); (Z__1_3_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 2095 |
+| Not NA | 2095 |
 | NA | 74021 |
 
 
@@ -1025,6 +1039,7 @@ Z__1_3_4:SKJEMA5E; (Z__1_3_4:SKJEMA5D); (Z__1_3_4:SKJEMA5C); (Z__1_3_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1863 |
+| Not NA | 1863 |
 | NA | 74253 |
 
 
@@ -1035,6 +1050,7 @@ Z__1_4_1:SKJEMA5E; (Z__1_4_1:SKJEMA5D); (Z__1_4_1:SKJEMA5C); (Z__1_4_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 705 |
+| Not NA | 705 |
 | NA | 75411 |
 
 
@@ -1045,6 +1061,7 @@ Z__1_4_2:SKJEMA5E; (Z__1_4_2:SKJEMA5D); (Z__1_4_2:SKJEMA5C); (Z__1_4_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3715 |
+| Not NA | 3715 |
 | NA | 72401 |
 
 
@@ -1055,6 +1072,7 @@ Z__1_4_3:SKJEMA5E; (Z__1_4_3:SKJEMA5D); (Z__1_4_3:SKJEMA5C); (Z__1_4_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 17897 |
+| Not NA | 17897 |
 | NA | 58219 |
 
 
@@ -1065,6 +1083,7 @@ Z__1_4_4:SKJEMA5E; (Z__1_4_4:SKJEMA5D); (Z__1_4_4:SKJEMA5C); (Z__1_4_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 17991 |
+| Not NA | 17991 |
 | NA | 58125 |
 
 
@@ -1075,6 +1094,7 @@ Z__1_5_1:SKJEMA5E; (Z__1_5_1:SKJEMA5D); (Z__1_5_1:SKJEMA5C); (Z__1_5_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1039 |
+| Not NA | 1039 |
 | NA | 75077 |
 
 
@@ -1085,6 +1105,7 @@ Z__1_5_2:SKJEMA5E; (Z__1_5_2:SKJEMA5D); (Z__1_5_2:SKJEMA5C); (Z__1_5_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 6273 |
+| Not NA | 6273 |
 | NA | 69843 |
 
 
@@ -1095,6 +1116,7 @@ Z__1_5_3:SKJEMA5E; (Z__1_5_3:SKJEMA5D); (Z__1_5_3:SKJEMA5C); (Z__1_5_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 39249 |
+| Not NA | 39249 |
 | NA | 36867 |
 
 
@@ -1105,6 +1127,7 @@ Z__1_5_4:SKJEMA5E; (Z__1_5_4:SKJEMA5D); (Z__1_5_4:SKJEMA5C); (Z__1_5_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 45998 |
+| Not NA | 45998 |
 | NA | 30118 |
 
 
@@ -1115,6 +1138,7 @@ Z__1_6_1:SKJEMA5E; (Z__1_6_1:SKJEMA5D); (Z__1_6_1:SKJEMA5C); (Z__1_6_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 309 |
+| Not NA | 309 |
 | NA | 75807 |
 
 
@@ -1125,6 +1149,7 @@ Z__1_6_2:SKJEMA5E; (Z__1_6_2:SKJEMA5D); (Z__1_6_2:SKJEMA5C); (Z__1_6_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1784 |
+| Not NA | 1784 |
 | NA | 74332 |
 
 
@@ -1135,6 +1160,7 @@ Z__1_6_3:SKJEMA5E; (Z__1_6_3:SKJEMA5D); (Z__1_6_3:SKJEMA5C); (Z__1_6_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 14022 |
+| Not NA | 14022 |
 | NA | 62094 |
 
 
@@ -1145,6 +1171,7 @@ Z__1_6_4:SKJEMA5E; (Z__1_6_4:SKJEMA5D); (Z__1_6_4:SKJEMA5C); (Z__1_6_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 17222 |
+| Not NA | 17222 |
 | NA | 58894 |
 
 
@@ -1155,6 +1182,7 @@ Z__1_7_1:SKJEMA5E; (Z__1_7_1:SKJEMA5D); (Z__1_7_1:SKJEMA5C); (Z__1_7_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 141 |
+| Not NA | 141 |
 | NA | 75975 |
 
 
@@ -1165,6 +1193,7 @@ Z__1_7_2:SKJEMA5E; (Z__1_7_2:SKJEMA5D); (Z__1_7_2:SKJEMA5C); (Z__1_7_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 758 |
+| Not NA | 758 |
 | NA | 75358 |
 
 
@@ -1175,6 +1204,7 @@ Z__1_7_3:SKJEMA5E; (Z__1_7_3:SKJEMA5D); (Z__1_7_3:SKJEMA5C); (Z__1_7_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 5399 |
+| Not NA | 5399 |
 | NA | 70717 |
 
 
@@ -1185,6 +1215,7 @@ Z__1_7_4:SKJEMA5E; (Z__1_7_4:SKJEMA5D); (Z__1_7_4:SKJEMA5C); (Z__1_7_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 7122 |
+| Not NA | 7122 |
 | NA | 68994 |
 
 
@@ -1195,6 +1226,7 @@ Z__1_8_1:SKJEMA5E; (Z__1_8_1:SKJEMA5D); (Z__1_8_1:SKJEMA5C); (Z__1_8_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 650 |
+| Not NA | 650 |
 | NA | 75466 |
 
 
@@ -1205,6 +1237,7 @@ Z__1_8_2:SKJEMA5E; (Z__1_8_2:SKJEMA5D); (Z__1_8_2:SKJEMA5C); (Z__1_8_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3468 |
+| Not NA | 3468 |
 | NA | 72648 |
 
 
@@ -1215,6 +1248,7 @@ Z__1_8_3:SKJEMA5E; (Z__1_8_3:SKJEMA5D); (Z__1_8_3:SKJEMA5C); (Z__1_8_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 15926 |
+| Not NA | 15926 |
 | NA | 60190 |
 
 
@@ -1225,6 +1259,7 @@ Z__1_8_4:SKJEMA5E; (Z__1_8_4:SKJEMA5D); (Z__1_8_4:SKJEMA5C); (Z__1_8_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 23758 |
+| Not NA | 23758 |
 | NA | 52358 |
 
 
@@ -1235,6 +1270,7 @@ Z__1_9_1:SKJEMA5E; (Z__1_9_1:SKJEMA5D); (Z__1_9_1:SKJEMA5C); (Z__1_9_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 4862 |
+| Not NA | 4862 |
 | NA | 71254 |
 
 
@@ -1245,6 +1281,7 @@ Z__1_9_2:SKJEMA5E; (Z__1_9_2:SKJEMA5D); (Z__1_9_2:SKJEMA5C); (Z__1_9_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 18699 |
+| Not NA | 18699 |
 | NA | 57417 |
 
 
@@ -1255,6 +1292,7 @@ Z__1_9_3:SKJEMA5E; (Z__1_9_3:SKJEMA5D); (Z__1_9_3:SKJEMA5C); (Z__1_9_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 48878 |
+| Not NA | 48878 |
 | NA | 27238 |
 
 
@@ -1265,6 +1303,7 @@ Z__1_9_4:SKJEMA5E; (Z__1_9_4:SKJEMA5D); (Z__1_9_4:SKJEMA5C); (Z__1_9_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 56719 |
+| Not NA | 56719 |
 | NA | 19397 |
 
 
@@ -1275,6 +1314,7 @@ Z__110_1:SKJEMA5E; (Z__110_1:SKJEMA5D); (Z__110_1:SKJEMA5C); (Z__110_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 145 |
+| Not NA | 145 |
 | NA | 75971 |
 
 
@@ -1285,6 +1325,7 @@ Z__110_2:SKJEMA5E; (Z__110_2:SKJEMA5D); (Z__110_2:SKJEMA5C); (Z__110_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 717 |
+| Not NA | 717 |
 | NA | 75399 |
 
 
@@ -1295,6 +1336,7 @@ Z__110_3:SKJEMA5E; (Z__110_3:SKJEMA5D); (Z__110_3:SKJEMA5C); (Z__110_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3465 |
+| Not NA | 3465 |
 | NA | 72651 |
 
 
@@ -1305,6 +1347,7 @@ Z__110_4:SKJEMA5E; (Z__110_4:SKJEMA5D); (Z__110_4:SKJEMA5C); (Z__110_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 5441 |
+| Not NA | 5441 |
 | NA | 70675 |
 
 
@@ -1319,6 +1362,7 @@ Z__2_1:SKJEMA5A; Breast milk; 2. How often do you give your child the following 
 | 1-3 times a week | 27 |
 | 4-6 times a week | 40 |
 | More than 1 check box filled in | 3 |
+| Not NA | 4746 |
 | NA | 71370 |
 
 
@@ -1333,6 +1377,7 @@ Z__2_2:SKJEMA5A; Formula; 2. How often do you give your child the following to d
 | More than 1 check box filled in | 9 |
 | 1-3 times a week | 14 |
 | 4-6 times a week | 17 |
+| Not NA | 4596 |
 | NA | 71520 |
 
 
@@ -1347,6 +1392,7 @@ Z__2_3:SKJEMA5A; Full-cream milk; 2. How often do you give your child the follow
 | 4-6 times a week | 178 |
 | 1-3 times a week | 393 |
 | More than 1 check box filled in | 29 |
+| Not NA | 4650 |
 | NA | 71466 |
 
 
@@ -1361,6 +1407,7 @@ Z__2_4:SKJEMA5A; Semi-Skimmed Skimmed milk; 2. How often do you give your child 
 | At least once a day | 1986 |
 | 4-6 times a week | 347 |
 | More than 1 check box filled in | 16 |
+| Not NA | 4574 |
 | NA | 71542 |
 
 
@@ -1375,6 +1422,7 @@ Z__2_5:SKJEMA5A; Biola - all kinds; 2. How often do you give your child the foll
 | 1-3 times a week | 200 |
 | 4-6 times a week | 70 |
 | More than 1 check box filled in | 15 |
+| Not NA | 4296 |
 | NA | 71820 |
 
 
@@ -1389,6 +1437,7 @@ Z__2_6:SKJEMA5A; Other kinds of yogurt; 2. How often do you give your child the 
 | Never / seldom | 468 |
 | At least once a day | 876 |
 | More than 1 check box filled in | 13 |
+| Not NA | 4755 |
 | NA | 71361 |
 
 
@@ -1403,6 +1452,7 @@ Z__2_7:SKJEMA5A; Other kinds of cultured milk; 2. How often do you give your chi
 | 1-3 times a week | 224 |
 | 4-6 times a week | 71 |
 | More than 1 check box filled in | 6 |
+| Not NA | 4264 |
 | NA | 71852 |
 
 
@@ -1417,6 +1467,7 @@ Z__2_8:SKJEMA5A; Tap water; 2. How often do you give your child the following to
 | 1-3 times a week | 291 |
 | Never / seldom | 143 |
 | More than 1 check box filled in | 7 |
+| Not NA | 4813 |
 | NA | 71303 |
 
 
@@ -1431,6 +1482,7 @@ Z__2_9:SKJEMA5A; Bottled water; 2. How often do you give your child the followin
 | At least once a day | 77 |
 | 4-6 times a week | 81 |
 | More than 1 check box filled in | 9 |
+| Not NA | 4464 |
 | NA | 71652 |
 
 
@@ -1445,6 +1497,7 @@ Z__210:SKJEMA5A; Juice; 2. How often do you give your child the following to dri
 | 1-3 times a week | 1694 |
 | At least once a day | 897 |
 | More than 1 check box filled in | 11 |
+| Not NA | 4749 |
 | NA | 71367 |
 
 
@@ -1459,6 +1512,7 @@ Z__211:SKJEMA5A; Cordial, with sugar; 2. How often do you give your child the fo
 | 4-6 times a week | 882 |
 | At least once a day | 867 |
 | More than 1 check box filled in | 8 |
+| Not NA | 4748 |
 | NA | 71368 |
 
 
@@ -1473,6 +1527,7 @@ Z__212:SKJEMA5A; Cordial with artificial sweeteners; 2. How often do you give yo
 | At least once a day | 189 |
 | 4-6 times a week | 191 |
 | More than 1 check box filled in | 4 |
+| Not NA | 4458 |
 | NA | 71658 |
 
 
@@ -1487,6 +1542,7 @@ Z__213:SKJEMA5A; Soda pops; 2. How often do you give your child the following to
 | 4-6 times a week | 38 |
 | At least once a day | 7 |
 | More than 1 check box filled in | 6 |
+| Not NA | 4708 |
 | NA | 71408 |
 
 
@@ -1501,6 +1557,7 @@ Z__214:SKJEMA5A; Soda pops with artificial sweeteners; 2. How often do you give 
 | 4-6 times a week | 17 |
 | More than 1 check box filled in | 4 |
 | At least once a day | 3 |
+| Not NA | 4539 |
 | NA | 71577 |
 
 
@@ -1515,6 +1572,7 @@ Z__215:SKJEMA5A; Other; 2. How often do you give your child the following to dri
 | At least once a day | 247 |
 | 4-6 times a week | 57 |
 | 1-3 times a week | 108 |
+| Not NA | 1333 |
 | NA | 74783 |
 
 
@@ -1528,6 +1586,7 @@ Z__3_1:SKJEMA5E; (Z__3_1:SKJEMA5D); (Z__3_1:SKJEMA5C); (Z__3_1:SKJEMA5B); (Z__3_
 | Yes, most nights | 8429 |
 | Sometimes | 22150 |
 | More than 1 check box filled in | 70 |
+| Not NA | 74447 |
 | NA | 1669 |
 
 
@@ -1541,6 +1600,7 @@ Z__3_2:SKJEMA5E; (Z__3_2:SKJEMA5D); (Z__3_2:SKJEMA5C); (Z__3_2:SKJEMA5B); (Z__3_
 | Sometimes | 966 |
 | Yes, most nights | 169 |
 | More than 1 check box filled in | 12 |
+| Not NA | 71930 |
 | NA | 4186 |
 
 
@@ -1554,6 +1614,7 @@ Z__3_3:SKJEMA5E; (Z__3_3:SKJEMA5D); (Z__3_3:SKJEMA5C); (Z__3_3:SKJEMA5B); (Z__3_
 | Sometimes | 4674 |
 | Yes, most nights | 2180 |
 | More than 1 check box filled in | 12 |
+| Not NA | 73226 |
 | NA | 2890 |
 
 
@@ -1567,6 +1628,7 @@ Z__3_4:SKJEMA5E; (Z__3_4:SKJEMA5D); (Z__3_4:SKJEMA5C); (Z__3_4:SKJEMA5B); (Z__3_
 | Yes, most nights | 2309 |
 | Sometimes | 2241 |
 | More than 1 check box filled in | 6 |
+| Not NA | 72480 |
 | NA | 3636 |
 
 
@@ -1584,6 +1646,7 @@ Z__2_1:SKJEMA5E; (Z__2_1:SKJEMA5D); (Z__2_1:SKJEMA5C); (Z__2_1:SKJEMA5B); Breast
 | Less than once a week | 312 |
 | 1-3 times a week | 360 |
 | More than 1 check box filled in | 24 |
+| Not NA | 68197 |
 | NA | 7919 |
 
 
@@ -1601,6 +1664,7 @@ Z__2_2:SKJEMA5E; (Z__2_2:SKJEMA5D); (Z__2_2:SKJEMA5C); (Z__2_2:SKJEMA5B); Formul
 | 4-6 times a week | 410 |
 | 5 times or  more  in 24 hours | 74 |
 | More than 1 check box filled in | 81 |
+| Not NA | 66654 |
 | NA | 9462 |
 
 
@@ -1618,6 +1682,7 @@ Z__2_3:SKJEMA5E; (Z__2_3:SKJEMA5D); (Z__2_3:SKJEMA5C); (Z__2_3:SKJEMA5B); Whole 
 | 1-2 times in 24 hours | 5610 |
 | More than 1 check box filled in | 340 |
 | 5 times or  more  in 24 hours | 432 |
+| Not NA | 66521 |
 | NA | 9595 |
 
 
@@ -1635,6 +1700,7 @@ Z__2_4:SKJEMA5E; (Z__2_4:SKJEMA5D); (Z__2_4:SKJEMA5C); (Z__2_4:SKJEMA5B); Low-fa
 | 1-2 times in 24 hours | 20056 |
 | Less than once a week | 6912 |
 | More than 1 check box filled in | 191 |
+| Not NA | 67235 |
 | NA | 8881 |
 
 
@@ -1652,6 +1718,7 @@ Z__2_5:SKJEMA5E; (Z__2_5:SKJEMA5D); (Z__2_5:SKJEMA5C); (Z__2_5:SKJEMA5B); Extra 
 | 4-6 times a week | 2335 |
 | 5 times or  more  in 24 hours | 232 |
 | More than 1 check box filled in | 102 |
+| Not NA | 63193 |
 | NA | 12923 |
 
 
@@ -1669,6 +1736,7 @@ Z__2_6:SKJEMA5E; (Z__2_6:SKJEMA5D); (Z__2_6:SKJEMA5C); (Z__2_6:SKJEMA5B); Skimme
 | 3-4 times in 24 hours | 897 |
 | 5 times or  more  in 24 hours | 83 |
 | More than 1 check box filled in | 61 |
+| Not NA | 62681 |
 | NA | 13435 |
 
 
@@ -1686,6 +1754,7 @@ Z__2_7:SKJEMA5E; (Z__2_7:SKJEMA5D); (Z__2_7:SKJEMA5C); (Z__2_7:SKJEMA5B); Yogurt
 | 4-6 times a week | 4083 |
 | More than 1 check box filled in | 45 |
 | 5 times or  more  in 24 hours | 85 |
+| Not NA | 64651 |
 | NA | 11465 |
 
 
@@ -1703,6 +1772,7 @@ Z__2_8:SKJEMA5B; Other kinds of yogurt; 2. How often do you give your child the 
 | 5 times or  more  in 24 hours | 51 |
 | More than 1 check box filled in | 18 |
 | 3-4 times in 24 hours | 40 |
+| Not NA | 12307 |
 | NA | 63809 |
 
 
@@ -1720,6 +1790,7 @@ Z__210:SKJEMA5E; (Z__210:SKJEMA5D); (Z__210:SKJEMA5C); (Z__2_9:SKJEMA5B); Other 
 | 5 times or  more  in 24 hours | 70 |
 | 3-4 times in 24 hours | 145 |
 | More than 1 check box filled in | 374 |
+| Not NA | 62102 |
 | NA | 14014 |
 
 
@@ -1737,6 +1808,7 @@ Z__211:SKJEMA5E; (Z__211:SKJEMA5D); (Z__211:SKJEMA5C); (Z__210:SKJEMA5B); Tap wa
 | Less than once a week | 464 |
 | More than 1 check box filled in | 128 |
 | Never | 444 |
+| Not NA | 69381 |
 | NA | 6735 |
 
 
@@ -1754,6 +1826,7 @@ Z__212:SKJEMA5E; (Z__212:SKJEMA5D); (Z__212:SKJEMA5C); (Z__211:SKJEMA5B); Bottle
 | 1-2 times in 24 hours | 639 |
 | 3-4 times in 24 hours | 345 |
 | More than 1 check box filled in | 100 |
+| Not NA | 64796 |
 | NA | 11320 |
 
 
@@ -1771,6 +1844,7 @@ Z__213:SKJEMA5E; (Z__213:SKJEMA5D); (Z__213:SKJEMA5C); (Z__212:SKJEMA5B); Cordia
 | 4-6 times a week | 4983 |
 | 5 times or  more  in 24 hours | 127 |
 | More than 1 check box filled in | 72 |
+| Not NA | 67104 |
 | NA | 9012 |
 
 
@@ -1788,6 +1862,7 @@ Z__214:SKJEMA5E; (Z__214:SKJEMA5D); (Z__214:SKJEMA5C); (Z__213:SKJEMA5B); Cordia
 | 5 times or  more  in 24 hours | 140 |
 | 3-4 times in 24 hours | 526 |
 | More than 1 check box filled in | 136 |
+| Not NA | 66101 |
 | NA | 10015 |
 
 
@@ -1805,6 +1880,7 @@ Z__215:SKJEMA5E; (Z__215:SKJEMA5D); (Z__215:SKJEMA5C); (Z__214:SKJEMA5B); Juice;
 | 3-4 times in 24 hours | 1134 |
 | 5 times or  more  in 24 hours | 200 |
 | More than 1 check box filled in | 63 |
+| Not NA | 68374 |
 | NA | 7742 |
 
 
@@ -1821,6 +1897,7 @@ Z__216:SKJEMA5E; (Z__216:SKJEMA5D); (Z__216:SKJEMA5C); (Z__215:SKJEMA5B); Fizzy 
 | 1-2 times in 24 hours | 61 |
 | More than 1 check box filled in | 67 |
 | 3-4 times in 24 hours | 10 |
+| Not NA | 67172 |
 | NA | 8944 |
 
 
@@ -1838,6 +1915,7 @@ Z__217:SKJEMA5E; (Z__217:SKJEMA5D); (Z__217:SKJEMA5C); (Z__216:SKJEMA5B); Diet f
 | More than 1 check box filled in | 26 |
 | 3-4 times in 24 hours | 3 |
 | 5 times or  more  in 24 hours | 4 |
+| Not NA | 66536 |
 | NA | 9580 |
 
 
@@ -1855,6 +1933,7 @@ Z__218:SKJEMA5E; (Z__218:SKJEMA5D); (Z__218:SKJEMA5C); (Z__217:SKJEMA5B); Other:
 | 5 times or  more  in 24 hours | 207 |
 | 3-4 times in 24 hours | 671 |
 | More than 1 check box filled in | 14 |
+| Not NA | 16599 |
 | NA | 59517 |
 
 
@@ -1872,6 +1951,7 @@ Z__2_8:SKJEMA5E; (Z__2_8:SKJEMA5D); (Z__2_8:SKJEMA5C); Yogurt, natural; 2. How o
 | 3-4 times in 24 hours | 34 |
 | More than 1 check box filled in | 109 |
 | 5 times or  more  in 24 hours | 24 |
+| Not NA | 51962 |
 | NA | 24154 |
 
 
@@ -1889,6 +1969,7 @@ Z__2_9:SKJEMA5E; (Z__2_9:SKJEMA5D); (Z__2_9:SKJEMA5C); Yogurt with fruit; 2. How
 | 3-4 times in 24 hours | 198 |
 | 5 times or  more  in 24 hours | 183 |
 | More than 1 check box filled in | 59 |
+| Not NA | 56150 |
 | NA | 19966 |
 
 
@@ -1903,6 +1984,7 @@ Z__4_1:SKJEMA5A; Bread with liver paste; 4. How often do you give your child the
 | At least once a day | 1171 |
 | 4-6 times a week | 1663 |
 | More than 1 check box filled in | 2 |
+| Not NA | 4883 |
 | NA | 71233 |
 
 
@@ -1917,6 +1999,7 @@ Z__4_2:SKJEMA5A; Bread with meat; 4. How often do you give your child the follow
 | 4-6 times a week | 875 |
 | More than 1 check box filled in | 4 |
 | At least once a day | 300 |
+| Not NA | 4809 |
 | NA | 71307 |
 
 
@@ -1931,6 +2014,7 @@ Z__4_3:SKJEMA5A; Bread with fish products; 4. How often do you give your child t
 | 1-3 times a week | 1160 |
 | At least once a day | 105 |
 | More than 1 check box filled in | 17 |
+| Not NA | 4781 |
 | NA | 71335 |
 
 
@@ -1945,6 +2029,7 @@ Z__4_4:SKJEMA5A; Bread with cheese; 4. How often do you give your child the foll
 | At least once a day | 860 |
 | 4-6 times a week | 1540 |
 | More than 1 check box filled in | 6 |
+| Not NA | 4831 |
 | NA | 71285 |
 
 
@@ -1959,6 +2044,7 @@ Z__4_5:SKJEMA5A; Bread with jam/honey; 4. How often do you give your child the f
 | 4-6 times a week | 695 |
 | At least once a day | 237 |
 | More than 1 check box filled in | 14 |
+| Not NA | 4818 |
 | NA | 71298 |
 
 
@@ -1973,6 +2059,7 @@ Z__4_6:SKJEMA5A; Bread with other spread; 4. How often do you give your child th
 | Never / seldom | 930 |
 | At least once a day | 877 |
 | More than 1 check box filled in | 4 |
+| Not NA | 4643 |
 | NA | 71473 |
 
 
@@ -1987,6 +2074,7 @@ Z__4_7:SKJEMA5A; Baby cereal with iron; 4. How often do you give your child the 
 | At least once a day | 626 |
 | Never / seldom | 3346 |
 | More than 1 check box filled in | 4 |
+| Not NA | 4786 |
 | NA | 71330 |
 
 
@@ -2001,6 +2089,7 @@ Z__4_8:SKJEMA5A; Other baby cereal; 4. How often do you give your child the foll
 | 4-6 times a week | 291 |
 | At least once a day | 233 |
 | More than 1 check box filled in | 8 |
+| Not NA | 4756 |
 | NA | 71360 |
 
 
@@ -2015,6 +2104,7 @@ Z__4_9:SKJEMA5A; Meat, sausage, meatballs etc.; 4. How often do you give your ch
 | 4-6 times a week | 1201 |
 | At least once a day | 85 |
 | More than 1 check box filled in | 1 |
+| Not NA | 4856 |
 | NA | 71260 |
 
 
@@ -2029,6 +2119,7 @@ Z__410:SKJEMA5A; Fish, fish balls etc.; 4. How often do you give your child the 
 | At least once a day | 27 |
 | Never / seldom | 271 |
 | More than 1 check box filled in | 4 |
+| Not NA | 4865 |
 | NA | 71251 |
 
 
@@ -2043,6 +2134,7 @@ Z__411:SKJEMA5A; Potatoes; 4. How often do you give your child the following to 
 | Never / seldom | 154 |
 | At least once a day | 374 |
 | More than 1 check box filled in | 11 |
+| Not NA | 4887 |
 | NA | 71229 |
 
 
@@ -2057,6 +2149,7 @@ Z__412:SKJEMA5A; Pasta; 4. How often do you give your child the following to eat
 | 4-6 times a week | 493 |
 | At least once a day | 25 |
 | More than 1 check box filled in | 1 |
+| Not NA | 4876 |
 | NA | 71240 |
 
 
@@ -2071,6 +2164,7 @@ Z__413:SKJEMA5A; Rice; 4. How often do you give your child the following to eat 
 | Never / seldom | 928 |
 | At least once a day | 19 |
 | More than 1 check box filled in | 3 |
+| Not NA | 4858 |
 | NA | 71258 |
 
 
@@ -2085,6 +2179,7 @@ Z__414:SKJEMA5A; Peas, beans; 4. How often do you give your child the following 
 | At least once a day | 24 |
 | 4-6 times a week | 172 |
 | More than 1 check box filled in | 22 |
+| Not NA | 4777 |
 | NA | 71339 |
 
 
@@ -2099,6 +2194,7 @@ Z__415:SKJEMA5A; Other boiled vegetables; 4. How often do you give your child th
 | At least once a day | 889 |
 | Never / seldom | 195 |
 | More than 1 check box filled in | 13 |
+| Not NA | 4868 |
 | NA | 71248 |
 
 
@@ -2113,6 +2209,7 @@ Z__416:SKJEMA5A; Raw vegetables; 4. How often do you give your child the followi
 | Never / seldom | 1921 |
 | 4-6 times a week | 546 |
 | At least once a day | 208 |
+| Not NA | 4827 |
 | NA | 71289 |
 
 
@@ -2127,6 +2224,7 @@ Z__417:SKJEMA5A; Fruit; 4. How often do you give your child the following to eat
 | 1-3 times a week | 491 |
 | Never / seldom | 46 |
 | More than 1 check box filled in | 15 |
+| Not NA | 4870 |
 | NA | 71246 |
 
 
@@ -2141,6 +2239,7 @@ Z__418:SKJEMA5A; Yogurt/other kinds of cultured milk with fruit/berries; 4. How 
 | 1-3 times a week | 1634 |
 | At least once a day | 1167 |
 | More than 1 check box filled in | 10 |
+| Not NA | 4857 |
 | NA | 71259 |
 
 
@@ -2155,6 +2254,7 @@ Z__419:SKJEMA5A; Cakes/desserts; 4. How often do you give your child the followi
 | 4-6 times a week | 140 |
 | At least once a day | 20 |
 | More than 1 check box filled in | 3 |
+| Not NA | 4854 |
 | NA | 71262 |
 
 
@@ -2169,6 +2269,7 @@ Z__420:SKJEMA5A; Chocolate/sweets; 4. How often do you give your child the follo
 | 4-6 times a week | 91 |
 | More than 1 check box filled in | 6 |
 | At least once a day | 10 |
+| Not NA | 4889 |
 | NA | 71227 |
 
 
@@ -2184,6 +2285,7 @@ Z__5:SKJEMA5E; (Z__5:SKJEMA5D); (Z__5:SKJEMA5C); (Z__5:SKJEMA5B); (Z__5:SKJEMA5A
 | Mostly commercially produced | 2707 |
 | Only commercially produced | 275 |
 | More than 1 check box filled in | 77 |
+| Not NA | 75318 |
 | NA | 798 |
 
 
@@ -2197,6 +2299,7 @@ Z__6:SKJEMA5A; ; 6. Do you give your child organic food/drink?
 | Yes | 868 |
 | Do not know | 373 |
 | More than 1 check box filled in | 31 |
+| Not NA | 4864 |
 | NA | 71252 |
 
 
@@ -2211,6 +2314,7 @@ Z__6_1:SKJEMA5E; (Z__6_1:SKJEMA5D); (Z__6_1:SKJEMA5C); (Z__6_1:SKJEMA5B); (Z__7_
 | Almost always | 2147 |
 | Often | 2394 |
 | More than 1 check box filled in | 8 |
+| Not NA | 71447 |
 | NA | 4669 |
 
 
@@ -2225,6 +2329,7 @@ Z__6_2:SKJEMA5E; (Z__6_2:SKJEMA5D); (Z__6_2:SKJEMA5C); (Z__6_2:SKJEMA5B); (Z__7_
 | Often | 1681 |
 | Almost always | 778 |
 | More than 1 check box filled in | 11 |
+| Not NA | 71319 |
 | NA | 4797 |
 
 
@@ -2239,6 +2344,7 @@ Z__6_3:SKJEMA5E; (Z__6_3:SKJEMA5D); (Z__6_3:SKJEMA5C); (Z__6_3:SKJEMA5B); (Z__7_
 | Often | 5401 |
 | Almost always | 1270 |
 | More than 1 check box filled in | 32 |
+| Not NA | 71736 |
 | NA | 4380 |
 
 
@@ -2253,6 +2359,7 @@ Z__6_4:SKJEMA5E; (Z__6_4:SKJEMA5D); (Z__6_4:SKJEMA5C); (Z__6_4:SKJEMA5B); (Z__7_
 | Often | 3255 |
 | Almost always | 1477 |
 | More than 1 check box filled in | 10 |
+| Not NA | 71555 |
 | NA | 4561 |
 
 
@@ -2267,6 +2374,7 @@ Z__6_5:SKJEMA5E; (Z__6_5:SKJEMA5D); (Z__6_5:SKJEMA5C); (Z__6_5:SKJEMA5B); (Z__7_
 | Often | 1549 |
 | Almost always | 662 |
 | More than 1 check box filled in | 11 |
+| Not NA | 71457 |
 | NA | 4659 |
 
 
@@ -2283,6 +2391,7 @@ Z__4_1:SKJEMA5E; (Z__4_1:SKJEMA5D); (Z__4_1:SKJEMA5C); (Z__4_1:SKJEMA5B); Liver 
 | 1-3 times a week | 20533 |
 | 3 times or more in 24 hours | 978 |
 | More than 1 check box filled in | 86 |
+| Not NA | 70387 |
 | NA | 5729 |
 
 
@@ -2299,6 +2408,7 @@ Z__4_2:SKJEMA5E; (Z__4_2:SKJEMA5D); (Z__4_2:SKJEMA5C); (Z__4_2:SKJEMA5B); Meat s
 | Never | 10236 |
 | 3 times or more in 24 hours | 170 |
 | More than 1 check box filled in | 63 |
+| Not NA | 69449 |
 | NA | 6667 |
 
 
@@ -2315,6 +2425,7 @@ Z__4_3:SKJEMA5E; (Z__4_3:SKJEMA5D); (Z__4_3:SKJEMA5C); (Z__4_3:SKJEMA5B); Fish s
 | 1-3 times a week | 14735 |
 | More than 1 check box filled in | 392 |
 | 3 times or more in 24 hours | 166 |
+| Not NA | 69443 |
 | NA | 6673 |
 
 
@@ -2331,6 +2442,7 @@ Z__4_4:SKJEMA5E; (Z__4_4:SKJEMA5D); (Z__4_4:SKJEMA5C); (Z__4_4:SKJEMA5B); Cheese
 | 1-2 times in 24 hours | 11280 |
 | 3 times or more in 24 hours | 578 |
 | More than 1 check box filled in | 118 |
+| Not NA | 69660 |
 | NA | 6456 |
 
 
@@ -2347,6 +2459,7 @@ Z__4_5:SKJEMA5E; (Z__4_5:SKJEMA5D); (Z__4_5:SKJEMA5C); (Z__4_5:SKJEMA5B); Jam/ho
 | 1-2 times in 24 hours | 2435 |
 | More than 1 check box filled in | 290 |
 | 3 times or more in 24 hours | 121 |
+| Not NA | 69555 |
 | NA | 6561 |
 
 
@@ -2363,6 +2476,7 @@ Z__4_6:SKJEMA5E; (Z__4_6:SKJEMA5D); (Z__4_6:SKJEMA5C); (Z__4_6:SKJEMA5B); Sandwi
 | Less than once a week | 11349 |
 | 3 times or more in 24 hours | 1581 |
 | More than 1 check box filled in | 74 |
+| Not NA | 66082 |
 | NA | 10034 |
 
 
@@ -2379,6 +2493,7 @@ Z__4_7:SKJEMA5E; (Z__4_7:SKJEMA5D); (Z__4_7:SKJEMA5C); (Z__4_7:SKJEMA5B); Baby p
 | 1-3 times a week | 5836 |
 | 3 times or more in 24 hours | 232 |
 | More than 1 check box filled in | 56 |
+| Not NA | 69440 |
 | NA | 6676 |
 
 
@@ -2395,6 +2510,7 @@ Z__4_8:SKJEMA5E; (Z__4_8:SKJEMA5D); (Z__4_8:SKJEMA5C); (Z__4_8:SKJEMA5B); Home-m
 | 1-2 times in 24 hours | 2807 |
 | More than 1 check box filled in | 104 |
 | 3 times or more in 24 hours | 71 |
+| Not NA | 69386 |
 | NA | 6730 |
 
 
@@ -2411,6 +2527,7 @@ Z__4_9:SKJEMA5E; (Z__4_9:SKJEMA5D); (Z__4_9:SKJEMA5C); (Z__4_9:SKJEMA5B); Meat, 
 | Never | 595 |
 | More than 1 check box filled in | 48 |
 | 3 times or more in 24 hours | 88 |
+| Not NA | 69855 |
 | NA | 6261 |
 
 
@@ -2427,6 +2544,7 @@ Z__410:SKJEMA5E; (Z__410:SKJEMA5D); (Z__410:SKJEMA5C); (Z__410:SKJEMA5B); Fish, 
 | 1-2 times in 24 hours | 245 |
 | 3 times or more in 24 hours | 61 |
 | More than 1 check box filled in | 40 |
+| Not NA | 70042 |
 | NA | 6074 |
 
 
@@ -2443,6 +2561,7 @@ Z__411:SKJEMA5E; (Z__411:SKJEMA5D); (Z__411:SKJEMA5C); (Z__411:SKJEMA5B); Pancak
 | 4-6 times a week | 144 |
 | 1-2 times in 24 hours | 27 |
 | 3 times or more in 24 hours | 7 |
+| Not NA | 69924 |
 | NA | 6192 |
 
 
@@ -2459,6 +2578,7 @@ Z__412:SKJEMA5E; (Z__412:SKJEMA5D); (Z__412:SKJEMA5C); (Z__412:SKJEMA5B); Potato
 | Never | 1083 |
 | More than 1 check box filled in | 65 |
 | 3 times or more in 24 hours | 114 |
+| Not NA | 70417 |
 | NA | 5699 |
 
 
@@ -2475,6 +2595,7 @@ Z__413:SKJEMA5E; (Z__413:SKJEMA5D); (Z__413:SKJEMA5C); (Z__413:SKJEMA5B); Pasta;
 | 1-2 times in 24 hours | 262 |
 | 3 times or more in 24 hours | 46 |
 | More than 1 check box filled in | 41 |
+| Not NA | 70336 |
 | NA | 5780 |
 
 
@@ -2491,6 +2612,7 @@ Z__414:SKJEMA5E; (Z__414:SKJEMA5D); (Z__414:SKJEMA5C); (Z__414:SKJEMA5B); Rice; 
 | 1-2 times in 24 hours | 305 |
 | 3 times or more in 24 hours | 61 |
 | More than 1 check box filled in | 66 |
+| Not NA | 70209 |
 | NA | 5907 |
 
 
@@ -2507,6 +2629,7 @@ Z__415:SKJEMA5E; (Z__415:SKJEMA5D); (Z__415:SKJEMA5C); (Z__415:SKJEMA5B); Peas, 
 | 1-2 times in 24 hours | 183 |
 | More than 1 check box filled in | 324 |
 | 3 times or more in 24 hours | 25 |
+| Not NA | 69545 |
 | NA | 6571 |
 
 
@@ -2523,6 +2646,7 @@ Z__416:SKJEMA5E; (Z__416:SKJEMA5D); (Z__416:SKJEMA5C); (Z__416:SKJEMA5B); Other 
 | Never | 808 |
 | More than 1 check box filled in | 93 |
 | 3 times or more in 24 hours | 178 |
+| Not NA | 70137 |
 | NA | 5979 |
 
 
@@ -2539,6 +2663,7 @@ Z__417:SKJEMA5E; (Z__417:SKJEMA5D); (Z__417:SKJEMA5C); (Z__417:SKJEMA5B); Raw ve
 | Never | 8953 |
 | More than 1 check box filled in | 190 |
 | 3 times or more in 24 hours | 178 |
+| Not NA | 69544 |
 | NA | 6572 |
 
 
@@ -2555,6 +2680,7 @@ Z__418:SKJEMA5E; (Z__418:SKJEMA5D); (Z__418:SKJEMA5C); (Z__418:SKJEMA5B); Fruit;
 | Less than once a week | 733 |
 | Never | 168 |
 | More than 1 check box filled in | 146 |
+| Not NA | 70070 |
 | NA | 6046 |
 
 
@@ -2571,6 +2697,7 @@ Z__419:SKJEMA5E; (Z__419:SKJEMA5D); (Z__419:SKJEMA5C); (Z__419:SKJEMA5B); Cakes 
 | 3 times or more in 24 hours | 45 |
 | Never | 2326 |
 | More than 1 check box filled in | 103 |
+| Not NA | 69972 |
 | NA | 6144 |
 
 
@@ -2587,6 +2714,7 @@ Z__420:SKJEMA5E; (Z__420:SKJEMA5D); (Z__420:SKJEMA5C); (Z__420:SKJEMA5B); Desser
 | More than 1 check box filled in | 38 |
 | 1-2 times in 24 hours | 121 |
 | 3 times or more in 24 hours | 9 |
+| Not NA | 70144 |
 | NA | 5972 |
 
 
@@ -2603,6 +2731,7 @@ Z__421:SKJEMA5E; (Z__421:SKJEMA5D); (Z__421:SKJEMA5C); (Z__421:SKJEMA5B); Chocol
 | More than 1 check box filled in | 35 |
 | 1-2 times in 24 hours | 42 |
 | 3 times or more in 24 hours | 6 |
+| Not NA | 70270 |
 | NA | 5846 |
 
 
@@ -2619,6 +2748,7 @@ Z__422:SKJEMA5E; (Z__422:SKJEMA5D); (Z__422:SKJEMA5C); (Z__422:SKJEMA5B); Other 
 | More than 1 check box filled in | 32 |
 | 3 times or more in 24 hours | 5 |
 | 1-2 times in 24 hours | 17 |
+| Not NA | 70238 |
 | NA | 5878 |
 
 
@@ -2632,6 +2762,7 @@ Z__7:SKJEMA5E; (Z__7:SKJEMA5D); (Z__7:SKJEMA5C); (Z__7:SKJEMA5B); (Z__8:SKJEMA5A
 | Yes | 8845 |
 | Do not know | 7879 |
 | More than 1 check box filled in | 187 |
+| Not NA | 75630 |
 | NA | 486 |
 
 
@@ -2642,6 +2773,7 @@ Z__8_1:SKJEMA5E; (Z__8_1:SKJEMA5D); (Z__8_1:SKJEMA5C); (Z__8_1:SKJEMA5B); (Z__9_
 | Category | n |
 | -------- | - |
 | 1 | 2957 |
+| Not NA | 2957 |
 | NA | 73159 |
 
 
@@ -2652,6 +2784,7 @@ Z__8_2:SKJEMA5E; (Z__8_2:SKJEMA5D); (Z__8_2:SKJEMA5C); (Z__8_2:SKJEMA5B); (Z__9_
 | Category | n |
 | -------- | - |
 | 1 | 2957 |
+| Not NA | 2957 |
 | NA | 73159 |
 
 
@@ -2662,6 +2795,7 @@ Z__8_3:SKJEMA5E; (Z__8_3:SKJEMA5D); (Z__8_3:SKJEMA5C); (Z__8_3:SKJEMA5B); (Z__9_
 | Category | n |
 | -------- | - |
 | 1 | 2117 |
+| Not NA | 2117 |
 | NA | 73999 |
 
 
@@ -2672,6 +2806,7 @@ Z__8_4:SKJEMA5E; (Z__8_4:SKJEMA5D); (Z__8_4:SKJEMA5C); (Z__8_4:SKJEMA5B); (Z__9_
 | Category | n |
 | -------- | - |
 | 1 | 1918 |
+| Not NA | 1918 |
 | NA | 74198 |
 
 
@@ -2682,6 +2817,7 @@ Z__8_5:SKJEMA5E; (Z__8_5:SKJEMA5D); (Z__8_5:SKJEMA5C); (Z__8_5:SKJEMA5B); (Z__9_
 | Category | n |
 | -------- | - |
 | 1 | 1934 |
+| Not NA | 1934 |
 | NA | 74182 |
 
 
@@ -2692,6 +2828,7 @@ Z__8_6:SKJEMA5E; (Z__8_6:SKJEMA5D); (Z__8_6:SKJEMA5C); (Z__8_6:SKJEMA5B); (Z__9_
 | Category | n |
 | -------- | - |
 | 1 | 1360 |
+| Not NA | 1360 |
 | NA | 74756 |
 
 
@@ -2702,6 +2839,7 @@ Z__8_7:SKJEMA5E; (Z__8_7:SKJEMA5D); (Z__8_7:SKJEMA5C); (Z__8_7:SKJEMA5B); (Z__9_
 | Category | n |
 | -------- | - |
 | 1 | 1644 |
+| Not NA | 1644 |
 | NA | 74472 |
 
 
@@ -2712,6 +2850,7 @@ Z__8_8:SKJEMA5E; (Z__8_8:SKJEMA5D); (Z__8_8:SKJEMA5C); (Z__8_8:SKJEMA5B); (Z__9_
 | Category | n |
 | -------- | - |
 | 1 | 1736 |
+| Not NA | 1736 |
 | NA | 74380 |
 
 
@@ -2722,6 +2861,7 @@ Z__8_9:SKJEMA5E; (Z__8_9:SKJEMA5D); (Z__8_9:SKJEMA5C); (Z__8_9:SKJEMA5B); (Z__9_
 | Category | n |
 | -------- | - |
 | 1 | 514 |
+| Not NA | 514 |
 | NA | 75602 |
 
 
@@ -2732,6 +2872,7 @@ Z__810:SKJEMA5E; (Z__810:SKJEMA5D); (Z__810:SKJEMA5C); (Z__810:SKJEMA5B); (Z__91
 | Category | n |
 | -------- | - |
 | 1 | 392 |
+| Not NA | 392 |
 | NA | 75724 |
 
 
@@ -2742,6 +2883,7 @@ Z__811:SKJEMA5E; (Z__811:SKJEMA5D); (Z__811:SKJEMA5C); (Z__811:SKJEMA5B); (Z__91
 | Category | n |
 | -------- | - |
 | 1 | 302 |
+| Not NA | 302 |
 | NA | 75814 |
 
 
@@ -2752,6 +2894,7 @@ Z__812:SKJEMA5E; (Z__812:SKJEMA5D); (Z__812:SKJEMA5C); (Z__812:SKJEMA5B); (Z__91
 | Category | n |
 | -------- | - |
 | 1 | 1145 |
+| Not NA | 1145 |
 | NA | 74971 |
 
 
@@ -2762,6 +2905,7 @@ Z__813:SKJEMA5E; (Z__813:SKJEMA5D); (Z__813:SKJEMA5C); (Z__813:SKJEMA5B); (Z__91
 | Category | n |
 | -------- | - |
 | 1 | 204 |
+| Not NA | 204 |
 | NA | 75912 |
 
 
@@ -2772,6 +2916,7 @@ Z__814:SKJEMA5E; (Z__814:SKJEMA5D); (Z__814:SKJEMA5C); (Z__814:SKJEMA5B); (Z__91
 | Category | n |
 | -------- | - |
 | 1 | 2426 |
+| Not NA | 2426 |
 | NA | 73690 |
 
 
@@ -2782,6 +2927,7 @@ Z__815:SKJEMA5E; (Z__815:SKJEMA5D); (Z__815:SKJEMA5C); (Z__815:SKJEMA5B); (Z__91
 | Category | n |
 | -------- | - |
 | 1 | 302 |
+| Not NA | 302 |
 | NA | 75814 |
 
 
@@ -2792,6 +2938,7 @@ Z__816:SKJEMA5E; (Z__816:SKJEMA5D); (Z__816:SKJEMA5C); (Z__816:SKJEMA5B); (Z__91
 | Category | n |
 | -------- | - |
 | 1 | 1056 |
+| Not NA | 1056 |
 | NA | 75060 |
 
 
@@ -2802,6 +2949,7 @@ Z__817:SKJEMA5E; (Z__817:SKJEMA5D); (Z__817:SKJEMA5C); (Z__817:SKJEMA5B); (Z__91
 | Category | n |
 | -------- | - |
 | 1 | 342 |
+| Not NA | 342 |
 | NA | 75774 |
 
 
@@ -2812,6 +2960,7 @@ Z__818:SKJEMA5E; (Z__818:SKJEMA5D); (Z__818:SKJEMA5C); (Z__818:SKJEMA5B); (Z__91
 | Category | n |
 | -------- | - |
 | 1 | 304 |
+| Not NA | 304 |
 | NA | 75812 |
 
 
@@ -2822,6 +2971,7 @@ Z__819:SKJEMA5E; (Z__819:SKJEMA5D); (Z__819:SKJEMA5C); (Z__819:SKJEMA5B); (Z__91
 | Category | n |
 | -------- | - |
 | 1 | 2266 |
+| Not NA | 2266 |
 | NA | 73850 |
 
 
@@ -2834,6 +2984,7 @@ Z__9:SKJEMA5E; (Z__9:SKJEMA5D); (Z__9:SKJEMA5C); (Z__9:SKJEMA5B); (Z_10:SKJEMA5A
 | No | 44573 |
 | Yes | 30548 |
 | More than 1 check box filled in | 21 |
+| Not NA | 75142 |
 | NA | 974 |
 
 
@@ -2849,6 +3000,7 @@ Z_10_1:SKJEMA5E; (Z_10_1:SKJEMA5D); (Z_10_1:SKJEMA5C); (Z_10_1:SKJEMA5B); (Z_11_
 | (1+2) Somewhat reduced ... + Not used by itself ... | 28 |
 | (1+3) Somewhat reduced ... + Avoid all use ... | 1 |
 | (2+3) Not used by itself ... + Avoid all use ... | 4 |
+| Not NA | 5589 |
 | NA | 70527 |
 
 
@@ -2864,6 +3016,7 @@ Z_10_2:SKJEMA5E; (Z_10_2:SKJEMA5D); (Z_10_2:SKJEMA5C); (Z_10_2:SKJEMA5B); (Z_11_
 | (1+2) Somewhat reduced ... + Not used by itself ... | 16 |
 | (1+3) Somewhat reduced ... + Avoid all use ... | 3 |
 | (2+3) Not used by itself ... + Avoid all use ... | 1 |
+| Not NA | 4360 |
 | NA | 71756 |
 
 
@@ -2879,6 +3032,7 @@ Z_10_3:SKJEMA5E; (Z_10_3:SKJEMA5D); (Z_10_3:SKJEMA5C); (Z_10_3:SKJEMA5B); (Z_11_
 | (1+2) Somewhat reduced ... + Not used by itself ... | 2 |
 | (1+3) Somewhat reduced ... + Avoid all use ... | 2 |
 | (2+3) Not used by itself ... + Avoid all use ... | 1 |
+| Not NA | 1224 |
 | NA | 74892 |
 
 
@@ -2892,6 +3046,7 @@ Z_10_4:SKJEMA5E; (Z_10_4:SKJEMA5D); (Z_10_4:SKJEMA5C); (Z_10_4:SKJEMA5B); (Z_11_
 | Somewhat reduced use compared to ordinary diet | 513 |
 | Avoid all use (incl. hidden in other dishes) | 177 |
 | (1+2) Somewhat reduced ... + Not used by itself ... | 6 |
+| Not NA | 841 |
 | NA | 75275 |
 
 
@@ -2906,6 +3061,7 @@ Z_10_5:SKJEMA5E; (Z_10_5:SKJEMA5D); (Z_10_5:SKJEMA5C); (Z_10_5:SKJEMA5B); (Z_11_
 | Avoid all use (incl. hidden in other dishes) | 232 |
 | (1+2) Somewhat reduced ... + Not used by itself ... | 4 |
 | (2+3) Not used by itself ... + Avoid all use ... | 1 |
+| Not NA | 3255 |
 | NA | 72861 |
 
 
@@ -2922,6 +3078,7 @@ Z_10_6:SKJEMA5E; (Z_10_6:SKJEMA5D); (Z_10_6:SKJEMA5C); (Z_10_6:SKJEMA5B); (Z_11_
 | (2+3) Not used by itself ... + Avoid all use ... | 11 |
 | (1+2+3) Somewhat reduced ... + Not used by itself ... + Avoid all use ... | 1 |
 | (1+3) Somewhat reduced ... + Avoid all use ... | 5 |
+| Not NA | 18511 |
 | NA | 57605 |
 
 
@@ -2937,6 +3094,7 @@ Z_10_7:SKJEMA5E; (Z_10_7:SKJEMA5D); (Z_10_7:SKJEMA5C); (Z_10_7:SKJEMA5B); (Z_11_
 | (2+3) Not used by itself ... + Avoid all use ... | 25 |
 | (1+2) Somewhat reduced ... + Not used by itself ... | 25 |
 | (1+3) Somewhat reduced ... + Avoid all use ... | 6 |
+| Not NA | 9372 |
 | NA | 66744 |
 
 
@@ -2949,6 +3107,7 @@ Z_11:SKJEMA5E; (Z_11:SKJEMA5D); (Z_11:SKJEMA5C); (Z_11:SKJEMA5B); (Z_12:SKJEMA5A
 | Yes | 61209 |
 | No | 14266 |
 | More than 1 check box filled in | 73 |
+| Not NA | 75548 |
 | NA | 568 |
 
 
@@ -2961,6 +3120,7 @@ Z_12_1_1:SKJEMA5E; (Z_12_1_1:SKJEMA5D); (Z_12_1_1:SKJEMA5C); (Z_12_1_1:SKJEMA5B)
 | Every day | 25120 |
 | Sometimes | 17529 |
 | More than 1 check box filled in | 44 |
+| Not NA | 42693 |
 | NA | 33423 |
 
 
@@ -2977,6 +3137,7 @@ Z_12_1_2:SKJEMA5E; (Z_12_1_2:SKJEMA5D); (Z_12_1_2:SKJEMA5C); (Z_12_1_2:SKJEMA5B)
 | 3rd Qu. | 6 |
 | Max. | 30 |
 | NA's | 34793 |
+| Not NA | 41323 |
 
 
 ### EE135
@@ -2988,6 +3149,7 @@ Z_12_2_1:SKJEMA5E; (Z_12_2_1:SKJEMA5D); (Z_12_2_1:SKJEMA5C); (Z_12_2_1:SKJEMA5B)
 | Sometimes | 3641 |
 | Every day | 3719 |
 | More than 1 check box filled in | 3 |
+| Not NA | 7363 |
 | NA | 68753 |
 
 
@@ -3004,6 +3166,7 @@ Z_12_2_2:SKJEMA5E; (Z_12_2_2:SKJEMA5D); (Z_12_2_2:SKJEMA5C); (Z_12_2_2:SKJEMA5B)
 | 3rd Qu. | 12 |
 | Max. | 24 |
 | NA's | 69234 |
+| Not NA | 6882 |
 
 
 ### EE137
@@ -3015,6 +3178,7 @@ Z_12_3_1:SKJEMA5E; (Z_12_3_1:SKJEMA5D); (Z_12_3_1:SKJEMA5C); (Z_12_3_1:SKJEMA5B)
 | Every day | 12756 |
 | Sometimes | 11182 |
 | More than 1 check box filled in | 10 |
+| Not NA | 23948 |
 | NA | 52168 |
 
 
@@ -3031,6 +3195,7 @@ Z_12_3_2:SKJEMA5E; (Z_12_3_2:SKJEMA5D); (Z_12_3_2:SKJEMA5C); (Z_12_3_2:SKJEMA5B)
 | 3rd Qu. | 12 |
 | Max. | 24 |
 | NA's | 53595 |
+| Not NA | 22521 |
 
 
 ### EE139
@@ -3042,6 +3207,7 @@ Z_12_4_1:SKJEMA5E; (Z_12_4_1:SKJEMA5D); (Z_12_4_1:SKJEMA5C); (Z_12_4_1:SKJEMA5B)
 | Every day | 1619 |
 | Sometimes | 1058 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2678 |
 | NA | 73438 |
 
 
@@ -3058,6 +3224,7 @@ Z_12_4_2:SKJEMA5E; (Z_12_4_2:SKJEMA5D); (Z_12_4_2:SKJEMA5C); (Z_12_4_2:SKJEMA5B)
 | 3rd Qu. | 12 |
 | Max. | 60 |
 | NA's | 73680 |
+| Not NA | 2436 |
 
 
 ### EE141
@@ -3069,6 +3236,7 @@ Z_12_5_1:SKJEMA5E; (Z_12_5_1:SKJEMA5D); (Z_12_5_1:SKJEMA5C); (Z_12_5_1:SKJEMA5B)
 | Every day | 25441 |
 | Sometimes | 3945 |
 | More than 1 check box filled in | 2 |
+| Not NA | 29388 |
 | NA | 46728 |
 
 
@@ -3085,6 +3253,7 @@ Z_12_5_2:SKJEMA5E; (Z_12_5_2:SKJEMA5D); (Z_12_5_2:SKJEMA5C); (Z_12_5_2:SKJEMA5B)
 | 3rd Qu. | 15 |
 | Max. | 30 |
 | NA's | 48649 |
+| Not NA | 27467 |
 
 
 ### EE143
@@ -3095,6 +3264,7 @@ Z_12_6_1:SKJEMA5E; (Z_12_6_1:SKJEMA5D); (Z_12_6_1:SKJEMA5C); (Z_12_6_1:SKJEMA5B)
 | -------- | - |
 | Every day | 612 |
 | Sometimes | 433 |
+| Not NA | 1045 |
 | NA | 75071 |
 
 
@@ -3124,6 +3294,7 @@ Z_12_6_2:SKJEMA5E; (Z_12_6_2:SKJEMA5D); (Z_12_6_2:SKJEMA5C); (Z_12_6_2:SKJEMA5B)
 | 19 | 5 |
 | 5 | 5 |
 | 3 | 17 |
+| Not NA | 1091 |
 | NA | 75025 |
 
 
@@ -3136,6 +3307,7 @@ Z_12_7_1:SKJEMA5E; (Z_12_7_1:SKJEMA5D); (Z_12_7_1:SKJEMA5C); (Z_12_7_1:SKJEMA5B)
 | Sometimes | 2772 |
 | Every day | 5957 |
 | More than 1 check box filled in | 13 |
+| Not NA | 8742 |
 | NA | 67374 |
 
 
@@ -3170,6 +3342,7 @@ Z_12_7_2:SKJEMA5E; (Z_12_7_2:SKJEMA5D); (Z_12_7_2:SKJEMA5C); (Z_12_7_2:SKJEMA5B)
 | 9 | 102 |
 | More than one number for months of consumption given since child has taken more than one product | 1 |
 | NA's | 67503 |
+| Not NA | 8613 |
 
 
 ### EE149
@@ -3182,6 +3355,7 @@ Z_13:SKJEMA5E; (Z_13:SKJEMA5D); (Z_13:SKJEMA5C); (Z_13:SKJEMA5B); (Z_14:SKJEMA5A
 | 5-10 | 36565 |
 | 16 or more | 7100 |
 | 0-4 | 768 |
+| Not NA | 71343 |
 | NA | 4773 |
 
 
@@ -3195,6 +3369,7 @@ Z_14:SKJEMA5E; (Z_14:SKJEMA5D); (Z_14:SKJEMA5C); (Z_14:SKJEMA5B); (Z_15:SKJEMA5A
 | Yes, some vaccinations | 2317 |
 | No, no vaccinations | 270 |
 | More than 1 check box filled in | 15 |
+| Not NA | 74681 |
 | NA | 1435 |
 
 
@@ -3207,6 +3382,7 @@ Z_15_1_2:SKJEMA5E; (Z_15_1_2:SKJEMA5D); (Z_15_1_2:SKJEMA5C); (Z_15_1_2:SKJEMA5B)
 | 3 | 61066 |
 | 2 | 4272 |
 | 1 | 1213 |
+| Not NA | 66551 |
 | NA | 9565 |
 
 
@@ -3219,6 +3395,7 @@ Z_15_1_3:SKJEMA5E; (Z_15_1_3:SKJEMA5D); (Z_15_1_3:SKJEMA5C); (Z_15_1_3:SKJEMA5B)
 | No | 62635 |
 | Yes | 1021 |
 | More than 1 check box filled in | 2 |
+| Not NA | 63658 |
 | NA | 12458 |
 
 
@@ -3231,6 +3408,7 @@ Z_15_1_4:SKJEMA5E; (Z_15_1_4:SKJEMA5D); (Z_15_1_4:SKJEMA5C); (Z_15_1_4:SKJEMA5B)
 | No | 57581 |
 | Yes | 117 |
 | More than 1 check box filled in | 1 |
+| Not NA | 57699 |
 | NA | 18417 |
 
 
@@ -3243,6 +3421,7 @@ Z_15_5_2:SKJEMA5E; (Z_15_5_2:SKJEMA5D); (Z_15_5_2:SKJEMA5C); (Z_15_5_2:SKJEMA5B)
 | 1 | 881 |
 | 3 | 2056 |
 | 2 | 326 |
+| Not NA | 3263 |
 | NA | 72853 |
 
 
@@ -3254,6 +3433,7 @@ Z_15_5_3:SKJEMA5E; (Z_15_5_3:SKJEMA5D); (Z_15_5_3:SKJEMA5C); (Z_15_5_3:SKJEMA5B)
 | -------- | - |
 | No | 5472 |
 | Yes | 45 |
+| Not NA | 5517 |
 | NA | 70599 |
 
 
@@ -3265,6 +3445,7 @@ Z_15_5_4:SKJEMA5E; (Z_15_5_4:SKJEMA5D); (Z_15_5_4:SKJEMA5C); (Z_15_5_4:SKJEMA5B)
 | -------- | - |
 | No | 4798 |
 | Yes | 4 |
+| Not NA | 4802 |
 | NA | 71314 |
 
 
@@ -3278,6 +3459,7 @@ Z_16_3_1:SKJEMA5A; Polio - Hib (Act-Hib polio), how many times?; 16. Indicate wh
 | 2 | 337 |
 | 1 | 117 |
 | More than 1 check box filled in | 132 |
+| Not NA | 4524 |
 | NA | 71592 |
 
 
@@ -3289,6 +3471,7 @@ Z_16_3_2:SKJEMA5A; Polio - Hib (Act-Hib polio), Side effect leading to contact w
 | -------- | - |
 | No | 4036 |
 | Yes | 45 |
+| Not NA | 4081 |
 | NA | 72035 |
 
 
@@ -3300,6 +3483,7 @@ Z_16_3_3:SKJEMA5A; Polio - Hib (Act-Hib polio), Side effect leading to examinati
 | -------- | - |
 | No | 3491 |
 | Yes | 3 |
+| Not NA | 3494 |
 | NA | 72622 |
 
 
@@ -3312,6 +3496,7 @@ Z_15_4_2:SKJEMA5E; (Z_15_4_2:SKJEMA5D); (Z_15_4_2:SKJEMA5C); (Z_15_4_2:SKJEMA5B)
 | 1 | 57211 |
 | 3 | 685 |
 | 2 | 694 |
+| Not NA | 58590 |
 | NA | 17526 |
 
 
@@ -3324,6 +3509,7 @@ Z_15_4_3:SKJEMA5E; (Z_15_4_3:SKJEMA5D); (Z_15_4_3:SKJEMA5C); (Z_15_4_3:SKJEMA5B)
 | No | 51327 |
 | Yes | 1605 |
 | More than 1 check box filled in | 5 |
+| Not NA | 52937 |
 | NA | 23179 |
 
 
@@ -3336,6 +3522,7 @@ Z_15_4_4:SKJEMA5E; (Z_15_4_4:SKJEMA5D); (Z_15_4_4:SKJEMA5C); (Z_15_4_4:SKJEMA5B)
 | No | 47783 |
 | Yes | 136 |
 | More than 1 check box filled in | 3 |
+| Not NA | 47922 |
 | NA | 28194 |
 
 
@@ -3348,6 +3535,7 @@ Z_15_6_2:SKJEMA5E; (Z_15_6_2:SKJEMA5D); (Z_15_6_2:SKJEMA5C); (Z_15_6_2:SKJEMA5B)
 | 3 | 2303 |
 | 1 | 598 |
 | 2 | 409 |
+| Not NA | 3310 |
 | NA | 72806 |
 
 
@@ -3359,6 +3547,7 @@ Z_15_6_3:SKJEMA5E; (Z_15_6_3:SKJEMA5D); (Z_15_6_3:SKJEMA5C); (Z_15_6_3:SKJEMA5B)
 | -------- | - |
 | No | 5333 |
 | Yes | 28 |
+| Not NA | 5361 |
 | NA | 70755 |
 
 
@@ -3370,6 +3559,7 @@ Z_15_6_4:SKJEMA5E; (Z_15_6_4:SKJEMA5D); (Z_15_6_4:SKJEMA5C); (Z_15_6_4:SKJEMA5B)
 | -------- | - |
 | No | 4783 |
 | Yes | 4 |
+| Not NA | 4787 |
 | NA | 71329 |
 
 
@@ -3382,6 +3572,7 @@ Z_15_7_2:SKJEMA5E; (Z_15_7_2:SKJEMA5D); (Z_15_7_2:SKJEMA5C); (Z_15_7_2:SKJEMA5B)
 | 2 | 85 |
 | 1 | 2274 |
 | 3 | 118 |
+| Not NA | 2477 |
 | NA | 73639 |
 
 
@@ -3393,6 +3584,7 @@ Z_15_7_3:SKJEMA5E; (Z_15_7_3:SKJEMA5D); (Z_15_7_3:SKJEMA5C); (Z_15_7_3:SKJEMA5B)
 | -------- | - |
 | No | 4539 |
 | Yes | 42 |
+| Not NA | 4581 |
 | NA | 71535 |
 
 
@@ -3404,6 +3596,7 @@ Z_15_7_4:SKJEMA5E; (Z_15_7_4:SKJEMA5D); (Z_15_7_4:SKJEMA5C); (Z_15_7_4:SKJEMA5B)
 | -------- | - |
 | No | 4113 |
 | Yes | 11 |
+| Not NA | 4124 |
 | NA | 71992 |
 
 
@@ -3416,6 +3609,7 @@ Z_15_9_2:SKJEMA5E; (Z_15_9_2:SKJEMA5D); (Z_15_8_2:SKJEMA5C); (Z_15_8_2:SKJEMA5B)
 | 3 | 3130 |
 | 2 | 1941 |
 | 1 | 3664 |
+| Not NA | 8735 |
 | NA | 67381 |
 
 
@@ -3428,6 +3622,7 @@ Z_15_9_3:SKJEMA5E; (Z_15_9_3:SKJEMA5D); (Z_15_8_3:SKJEMA5C); (Z_15_8_3:SKJEMA5B)
 | No | 9515 |
 | Yes | 149 |
 | More than 1 check box filled in | 1 |
+| Not NA | 9665 |
 | NA | 66451 |
 
 
@@ -3439,6 +3634,7 @@ Z_15_9_4:SKJEMA5E; (Z_15_9_4:SKJEMA5D); (Z_15_8_4:SKJEMA5C); (Z_15_8_4:SKJEMA5B)
 | -------- | - |
 | No | 8847 |
 | Yes | 13 |
+| Not NA | 8860 |
 | NA | 67256 |
 
 
@@ -3451,6 +3647,7 @@ Z_15_1_1:SKJEMA5E; (Z_15_1_1:SKJEMA5D); (Z_15_1_1:SKJEMA5C); (Z_15_1_1:SKJEMA5B)
 | Yes | 63932 |
 | No | 816 |
 | More than 1 check box filled in | 1 |
+| Not NA | 64749 |
 | NA | 11367 |
 
 
@@ -3463,6 +3660,7 @@ Z_15_2_1:SKJEMA5E; (Z_15_2_1:SKJEMA5D); (Z_15_2_1:SKJEMA5C); (Z_15_2_1:SKJEMA5B)
 | Yes | 60297 |
 | No | 1927 |
 | More than 1 check box filled in | 1 |
+| Not NA | 62225 |
 | NA | 13891 |
 
 
@@ -3475,6 +3673,7 @@ Z_15_3_1:SKJEMA5E; (Z_15_3_1:SKJEMA5D); (Z_15_3_1:SKJEMA5C); (Z_15_3_1:SKJEMA5B)
 | Yes | 57824 |
 | No | 3465 |
 | More than 1 check box filled in | 1 |
+| Not NA | 61290 |
 | NA | 14826 |
 
 
@@ -3487,6 +3686,7 @@ Z_15_4_1:SKJEMA5E; (Z_15_4_1:SKJEMA5D); (Z_15_4_1:SKJEMA5C); (Z_15_4_1:SKJEMA5B)
 | Yes | 55586 |
 | No | 5151 |
 | More than 1 check box filled in | 3 |
+| Not NA | 60740 |
 | NA | 15376 |
 
 
@@ -3499,6 +3699,7 @@ Z_15_5_1:SKJEMA5E; (Z_15_5_1:SKJEMA5D); (Z_15_5_1:SKJEMA5C); (Z_15_5_1:SKJEMA5B)
 | No | 37155 |
 | Yes | 2259 |
 | More than 1 check box filled in | 1 |
+| Not NA | 39415 |
 | NA | 36701 |
 
 
@@ -3511,6 +3712,7 @@ Z_15_6_1:SKJEMA5E; (Z_15_6_1:SKJEMA5D); (Z_15_6_1:SKJEMA5C); (Z_15_6_1:SKJEMA5B)
 | No | 37323 |
 | Yes | 3500 |
 | More than 1 check box filled in | 1 |
+| Not NA | 40824 |
 | NA | 35292 |
 
 
@@ -3523,6 +3725,7 @@ Z_15_7_1:SKJEMA5E; (Z_15_7_1:SKJEMA5D); (Z_15_7_1:SKJEMA5C); (Z_15_7_1:SKJEMA5B)
 | No | 37640 |
 | Yes | 2887 |
 | More than 1 check box filled in | 2 |
+| Not NA | 40529 |
 | NA | 35587 |
 
 
@@ -3535,6 +3738,7 @@ Z_15_9_1:SKJEMA5E; (Z_15_9_1:SKJEMA5D); (Z_15_8_1:SKJEMA5C); (Z_15_8_1:SKJEMA5B)
 | No | 21530 |
 | Yes | 8091 |
 | More than 1 check box filled in | 1 |
+| Not NA | 29622 |
 | NA | 46494 |
 
 
@@ -3547,6 +3751,7 @@ Z_15_2_2:SKJEMA5E; (Z_15_2_2:SKJEMA5D); (Z_15_2_2:SKJEMA5C); (Z_15_2_2:SKJEMA5B)
 | 3 | 55183 |
 | 2 | 3694 |
 | 1 | 1125 |
+| Not NA | 60002 |
 | NA | 16114 |
 
 
@@ -3559,6 +3764,7 @@ Z_15_2_3:SKJEMA5E; (Z_15_2_3:SKJEMA5D); (Z_15_2_3:SKJEMA5C); (Z_15_2_3:SKJEMA5B)
 | No | 56177 |
 | Yes | 777 |
 | More than 1 check box filled in | 1 |
+| Not NA | 56955 |
 | NA | 19161 |
 
 
@@ -3570,6 +3776,7 @@ Z_15_2_4:SKJEMA5E; (Z_15_2_4:SKJEMA5D); (Z_15_2_4:SKJEMA5C); (Z_15_2_4:SKJEMA5B)
 | -------- | - |
 | No | 51533 |
 | Yes | 86 |
+| Not NA | 51619 |
 | NA | 24497 |
 
 
@@ -3582,6 +3789,7 @@ Z_15_3_2:SKJEMA5E; (Z_15_3_2:SKJEMA5D); (Z_15_3_2:SKJEMA5C); (Z_15_3_2:SKJEMA5B)
 | 3 | 52162 |
 | 2 | 3732 |
 | 1 | 1399 |
+| Not NA | 57293 |
 | NA | 18823 |
 
 
@@ -3594,6 +3802,7 @@ Z_15_3_3:SKJEMA5E; (Z_15_3_3:SKJEMA5D); (Z_15_3_3:SKJEMA5C); (Z_15_3_3:SKJEMA5B)
 | No | 53664 |
 | Yes | 698 |
 | More than 1 check box filled in | 1 |
+| Not NA | 54363 |
 | NA | 21753 |
 
 
@@ -3605,6 +3814,7 @@ Z_15_3_4:SKJEMA5E; (Z_15_3_4:SKJEMA5D); (Z_15_3_4:SKJEMA5C); (Z_15_3_4:SKJEMA5B)
 | -------- | - |
 | No | 49140 |
 | Yes | 81 |
+| Not NA | 49221 |
 | NA | 26895 |
 
 
@@ -3617,6 +3827,7 @@ Z_15_8_1:SKJEMA5E; (Z_15_8_1:SKJEMA5D); Pneumococcus (Prevenar); 15. Indicate wh
 | No | 4113 |
 | Yes | 23141 |
 | More than 1 check box filled in | 2 |
+| Not NA | 27256 |
 | NA | 48860 |
 
 
@@ -3629,6 +3840,7 @@ Z_15_8_2:SKJEMA5E; (Z_15_8_2:SKJEMA5D); Pneumococcus (Prevenar), If Yes, how man
 | 3 | 20007 |
 | 1 | 910 |
 | 2 | 1902 |
+| Not NA | 22819 |
 | NA | 53297 |
 
 
@@ -3641,6 +3853,7 @@ Z_15_8_3:SKJEMA5E; (Z_15_8_3:SKJEMA5D); Pneumococcus (Prevenar), Side-effect res
 | No | 20933 |
 | Yes | 386 |
 | More than 1 check box filled in | 6 |
+| Not NA | 21325 |
 | NA | 54791 |
 
 
@@ -3653,6 +3866,7 @@ Z_15_8_4:SKJEMA5E; (Z_15_8_4:SKJEMA5D); Pneumococcus (Prevenar), Side-effect res
 | No | 19343 |
 | Yes | 31 |
 | More than 1 check box filled in | 2 |
+| Not NA | 19376 |
 | NA | 56740 |
 
 
@@ -3664,6 +3878,7 @@ Z_18_1_1:SKJEMA5A; Hips; 18. Does your child have or has he/she had any of the f
 | -------- | - |
 | No | 4409 |
 | Yes | 385 |
+| Not NA | 4794 |
 | NA | 71322 |
 
 
@@ -3677,6 +3892,7 @@ Z_18_1_2:SKJEMA5A; Hips. If yes, has the child been referred to a specialist exa
 | Yes, referred from health centre | 133 |
 | No | 16 |
 | More than 1 check box filled in | 8 |
+| Not NA | 397 |
 | NA | 75719 |
 
 
@@ -3689,6 +3905,7 @@ Z_18_2_1:SKJEMA5A; Hearing.; 18. Does your child have or has he/she had any of t
 | No | 4663 |
 | Yes | 96 |
 | More than 1 check box filled in | 1 |
+| Not NA | 4760 |
 | NA | 71356 |
 
 
@@ -3702,6 +3919,7 @@ Z_18_2_2:SKJEMA5A; Hearing. If yes, has the child been referred to a specialist 
 | Yes, referred from health centre | 31 |
 | No | 17 |
 | More than 1 check box filled in | 1 |
+| Not NA | 98 |
 | NA | 76018 |
 
 
@@ -3713,6 +3931,7 @@ Z_18_3_1:SKJEMA5A; Sight; 18. Does your child have or has he/she had any of the 
 | -------- | - |
 | No | 4599 |
 | Yes | 155 |
+| Not NA | 4754 |
 | NA | 71362 |
 
 
@@ -3726,6 +3945,7 @@ Z_18_3_2:SKJEMA5A; Sight. If yes, has the child been referred to a specialist ex
 | Yes, referred by someone else | 34 |
 | No | 11 |
 | More than 1 check box filled in | 1 |
+| Not NA | 168 |
 | NA | 75948 |
 
 
@@ -3737,6 +3957,7 @@ Z_18_4_1:SKJEMA5A; Delayed motor development (e.g., sits, stands, or walks late)
 | -------- | - |
 | No | 4588 |
 | Yes | 174 |
+| Not NA | 4762 |
 | NA | 71354 |
 
 
@@ -3750,6 +3971,7 @@ Z_18_4_2:SKJEMA5A; Delayed motor development (e.g., sits, stands, or walks late)
 | Yes, referred by someone else | 21 |
 | More than 1 check box filled in | 3 |
 | No | 53 |
+| Not NA | 173 |
 | NA | 75943 |
 
 
@@ -3761,6 +3983,7 @@ Z_18_5_1:SKJEMA5A; Too slow increase in weight.; 18. Does your child have or has
 | -------- | - |
 | No | 4416 |
 | Yes | 344 |
+| Not NA | 4760 |
 | NA | 71356 |
 
 
@@ -3774,6 +3997,7 @@ Z_18_5_2:SKJEMA5A; Too slow increase in weight.  If yes, has the child been refe
 | Yes, referred from health centre | 57 |
 | Yes, referred by someone else | 32 |
 | More than 1 check box filled in | 5 |
+| Not NA | 327 |
 | NA | 75789 |
 
 
@@ -3786,6 +4010,7 @@ Z_18_6_1:SKJEMA5A; Too fast increase in weight.; 18. Does your child have or has
 | No | 4725 |
 | Yes | 18 |
 | More than 1 check box filled in | 1 |
+| Not NA | 4744 |
 | NA | 71372 |
 
 
@@ -3797,6 +4022,7 @@ Z_18_6_2:SKJEMA5A; Too fast increase in weight.  If yes, has the child been refe
 | -------- | - |
 | No | 24 |
 | Yes, referred from health centre | 3 |
+| Not NA | 27 |
 | NA | 76089 |
 
 
@@ -3809,6 +4035,7 @@ Z_18_7_1:SKJEMA5A; Diverging head circumference.; 18. Does your child have or ha
 | No | 4604 |
 | Yes | 145 |
 | More than 1 check box filled in | 1 |
+| Not NA | 4750 |
 | NA | 71366 |
 
 
@@ -3822,6 +4049,7 @@ Z_18_7_2:SKJEMA5A; Diverging head circumference.  If yes, has the child been ref
 | Yes, referred from health centre | 73 |
 | Yes, referred by someone else | 10 |
 | More than 1 check box filled in | 2 |
+| Not NA | 147 |
 | NA | 75969 |
 
 
@@ -3833,6 +4061,7 @@ Z_18_8_1:SKJEMA5A; Cardiac failure.; 18. Does your child have or has he/she had 
 | -------- | - |
 | No | 4636 |
 | Yes | 109 |
+| Not NA | 4745 |
 | NA | 71371 |
 
 
@@ -3846,6 +4075,7 @@ Z_18_8_2:SKJEMA5A; Cardiac failure.  If yes, has the child been referred to a sp
 | Yes, referred by someone else | 55 |
 | No | 9 |
 | More than 1 check box filled in | 2 |
+| Not NA | 118 |
 | NA | 75998 |
 
 
@@ -3857,6 +4087,7 @@ Z_18_9_1:SKJEMA5A; Undescended testes.; 18. Does your child have or has he/she h
 | -------- | - |
 | No | 4611 |
 | Yes | 65 |
+| Not NA | 4676 |
 | NA | 71440 |
 
 
@@ -3870,6 +4101,7 @@ Z_18_9_2:SKJEMA5A; Undescended testes.  If yes, has the child been referred to a
 | No | 33 |
 | Yes, referred by someone else | 9 |
 | More than 1 check box filled in | 2 |
+| Not NA | 69 |
 | NA | 76047 |
 
 
@@ -3881,6 +4113,7 @@ Z_1810_1:SKJEMA5A; Asthma.; 18. Does your child have or has he/she had any of th
 | -------- | - |
 | No | 4440 |
 | Yes | 312 |
+| Not NA | 4752 |
 | NA | 71364 |
 
 
@@ -3894,6 +4127,7 @@ Z_1810_2:SKJEMA5A; Asthma. If yes, has the child been referred to a specialist e
 | Yes, referred from health centre | 45 |
 | More than 1 check box filled in | 7 |
 | No | 71 |
+| Not NA | 308 |
 | NA | 75808 |
 
 
@@ -3906,6 +4140,7 @@ Z_1811_1:SKJEMA5A; Atopic (child) eczema.; 18. Does your child have or has he/sh
 | No | 3790 |
 | Yes | 983 |
 | More than 1 check box filled in | 2 |
+| Not NA | 4775 |
 | NA | 71341 |
 
 
@@ -3919,6 +4154,7 @@ Z_1811_2:SKJEMA5A; Atopic (child) eczema. If yes, has the child been referred to
 | No | 638 |
 | Yes, referred from health centre | 125 |
 | More than 1 check box filled in | 11 |
+| Not NA | 946 |
 | NA | 75170 |
 
 
@@ -3930,6 +4166,7 @@ Z_1812_1:SKJEMA5A; Urticaria.; 18. Does your child have or has he/she had any of
 | -------- | - |
 | No | 4598 |
 | Yes | 125 |
+| Not NA | 4723 |
 | NA | 71393 |
 
 
@@ -3942,6 +4179,7 @@ Z_1812_2:SKJEMA5A; Urticaria. If yes, has the child been referred to a specialis
 | No | 99 |
 | Yes, referred by someone else | 17 |
 | Yes, referred from health centre | 7 |
+| Not NA | 123 |
 | NA | 75993 |
 
 
@@ -3954,6 +4192,7 @@ Z_1813_1:SKJEMA5A; Food allergy/intolerance.; 18. Does your child have or has he
 | Yes | 374 |
 | No | 4367 |
 | More than 1 check box filled in | 2 |
+| Not NA | 4743 |
 | NA | 71373 |
 
 
@@ -3967,6 +4206,7 @@ Z_1813_2:SKJEMA5A; Food allergy/intolerance. If yes, has the child been referred
 | Yes, referred by someone else | 125 |
 | Yes, referred from health centre | 81 |
 | More than 1 check box filled in | 8 |
+| Not NA | 361 |
 | NA | 75755 |
 
 
@@ -3978,6 +4218,7 @@ Z_1814_1:SKJEMA5A; Other malformations.; 18. Does your child have or has he/she 
 | -------- | - |
 | No | 3535 |
 | Yes | 125 |
+| Not NA | 3660 |
 | NA | 72456 |
 
 
@@ -3991,6 +4232,7 @@ Z_1814_2:SKJEMA5A; Other malformations. If yes, has the child been referred to a
 | Yes, referred from health centre | 42 |
 | No | 21 |
 | More than 1 check box filled in | 3 |
+| Not NA | 136 |
 | NA | 75980 |
 
 
@@ -4002,6 +4244,7 @@ Z_1815_1:SKJEMA5A; Other.; 18. Does your child have or has he/she had any of the
 | -------- | - |
 | No | 2781 |
 | Yes | 378 |
+| Not NA | 3159 |
 | NA | 72957 |
 
 
@@ -4015,6 +4258,7 @@ Z_1815_2:SKJEMA5A; Other. If yes, has the child been referred to a specialist ex
 | Yes, referred by someone else | 163 |
 | More than 1 check box filled in | 11 |
 | No | 75 |
+| Not NA | 417 |
 | NA | 75699 |
 
 
@@ -4034,6 +4278,7 @@ Z_17_1:SKJEMA5E; (Z_17_1:SKJEMA5D); (Z_17_1:SKJEMA5C); (Z_17_1:SKJEMA5B); (Z_19_
 | (2+3) Uncertain diagnosis/further investigation + Has not been examined yet | 54 |
 | (2+4,5A) Uncertain diagnosis/further investigation + Have received following diagnosis: | 32 |
 | (1+2+3) Everything was normal + Uncertain diagnosis/further investigation + Has not been examined yet | 7 |
+| Not NA | 14404 |
 | NA | 61712 |
 
 
@@ -4045,6 +4290,7 @@ Z_18_1:SKJEMA5E; (Z_18_1:SKJEMA5D); (Z_18_1:SKJEMA5C); (Z_18_1:SKJEMA5B); (Z_20_
 | -------- | - |
 | No | 66818 |
 | Yes | 1520 |
+| Not NA | 68338 |
 | NA | 7778 |
 
 
@@ -4074,6 +4320,7 @@ Z_18_2:SKJEMA5E; (Z_18_2:SKJEMA5D); (Z_18_2:SKJEMA5C); (Z_18_2:SKJEMA5B); (Z_20_
 | 13 | 2 |
 | 14 | 5 |
 | 17 | 2 |
+| Not NA | 1400 |
 | NA | 74716 |
 
 
@@ -4084,6 +4331,7 @@ Z_16_1_1:SKJEMA5E; (Z_16_1_1:SKJEMA5D); (Z_16_1_1:SKJEMA5C); (Z_16_1_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 68335 |
+| Not NA | 68335 |
 | NA | 7781 |
 
 
@@ -4094,6 +4342,7 @@ Z_16_1_2:SKJEMA5E; (Z_16_1_2:SKJEMA5D); (Z_16_1_2:SKJEMA5C); (Z_16_1_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 161 |
+| Not NA | 161 |
 | NA | 75955 |
 
 
@@ -4104,6 +4353,7 @@ Z_16_1_3:SKJEMA5E; (Z_16_1_3:SKJEMA5D); (Z_16_1_3:SKJEMA5C); (Z_16_1_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1542 |
+| Not NA | 1542 |
 | NA | 74574 |
 
 
@@ -4116,6 +4366,7 @@ Z_16_1_4:SKJEMA5E; (Z_16_1_4:SKJEMA5D); (Z_16_1_4:SKJEMA5C); (Z_16_1_4:SKJEMA5B)
 | Yes | 1679 |
 | No | 125 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1805 |
 | NA | 74311 |
 
 
@@ -4126,6 +4377,7 @@ Z_16_2_1:SKJEMA5E; (Z_16_2_1:SKJEMA5D); (Z_16_2_1:SKJEMA5C); (Z_16_2_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 68701 |
+| Not NA | 68701 |
 | NA | 7415 |
 
 
@@ -4136,6 +4388,7 @@ Z_16_2_2:SKJEMA5E; (Z_16_2_2:SKJEMA5D); (Z_16_2_2:SKJEMA5C); (Z_16_2_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 538 |
+| Not NA | 538 |
 | NA | 75578 |
 
 
@@ -4146,6 +4399,7 @@ Z_16_2_3:SKJEMA5E; (Z_16_2_3:SKJEMA5D); (Z_16_2_3:SKJEMA5C); (Z_16_2_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 669 |
+| Not NA | 669 |
 | NA | 75447 |
 
 
@@ -4157,6 +4411,7 @@ Z_16_2_4:SKJEMA5E; (Z_16_2_4:SKJEMA5D); (Z_16_2_4:SKJEMA5C); (Z_16_2_4:SKJEMA5B)
 | -------- | - |
 | Yes | 1059 |
 | No | 174 |
+| Not NA | 1233 |
 | NA | 74883 |
 
 
@@ -4167,6 +4422,7 @@ Z_16_3_1:SKJEMA5E; (Z_16_3_1:SKJEMA5D); (Z_16_3_1:SKJEMA5C); (Z_16_3_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 69143 |
+| Not NA | 69143 |
 | NA | 6973 |
 
 
@@ -4177,6 +4433,7 @@ Z_16_3_2:SKJEMA5E; (Z_16_3_2:SKJEMA5D); (Z_16_3_2:SKJEMA5C); (Z_16_3_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 491 |
+| Not NA | 491 |
 | NA | 75625 |
 
 
@@ -4187,6 +4444,7 @@ Z_16_3_3:SKJEMA5E; (Z_16_3_3:SKJEMA5D); (Z_16_3_3:SKJEMA5C); (Z_16_3_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 153 |
+| Not NA | 153 |
 | NA | 75963 |
 
 
@@ -4198,6 +4456,7 @@ Z_16_3_4:SKJEMA5E; (Z_16_3_4:SKJEMA5D); (Z_16_3_4:SKJEMA5C); (Z_16_3_4:SKJEMA5B)
 | -------- | - |
 | Yes | 649 |
 | No | 68 |
+| Not NA | 717 |
 | NA | 75399 |
 
 
@@ -4208,6 +4467,7 @@ Z_16_4_1:SKJEMA5E; (Z_16_4_1:SKJEMA5D); (Z_16_4_1:SKJEMA5C); (Z_16_4_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 67557 |
+| Not NA | 67557 |
 | NA | 8559 |
 
 
@@ -4218,6 +4478,7 @@ Z_16_4_2:SKJEMA5E; (Z_16_4_2:SKJEMA5D); (Z_16_4_2:SKJEMA5C); (Z_16_4_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1136 |
+| Not NA | 1136 |
 | NA | 74980 |
 
 
@@ -4228,6 +4489,7 @@ Z_16_4_3:SKJEMA5E; (Z_16_4_3:SKJEMA5D); (Z_16_4_3:SKJEMA5C); (Z_16_4_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1659 |
+| Not NA | 1659 |
 | NA | 74457 |
 
 
@@ -4240,6 +4502,7 @@ Z_16_4_4:SKJEMA5E; (Z_16_4_4:SKJEMA5D); (Z_16_4_4:SKJEMA5C); (Z_16_4_4:SKJEMA5B)
 | Yes | 1556 |
 | No | 943 |
 | More than 1 check box filled in | 4 |
+| Not NA | 2503 |
 | NA | 73613 |
 
 
@@ -4250,6 +4513,7 @@ Z_16_5_1:SKJEMA5E; (Z_16_5_1:SKJEMA5D); (Z_16_5_1:SKJEMA5C); (Z_16_5_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 64619 |
+| Not NA | 64619 |
 | NA | 11497 |
 
 
@@ -4260,6 +4524,7 @@ Z_16_5_2:SKJEMA5E; (Z_16_5_2:SKJEMA5D); (Z_16_5_2:SKJEMA5C); (Z_16_5_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1340 |
+| Not NA | 1340 |
 | NA | 74776 |
 
 
@@ -4270,6 +4535,7 @@ Z_16_5_3:SKJEMA5E; (Z_16_5_3:SKJEMA5D); (Z_16_5_3:SKJEMA5C); (Z_16_5_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 4426 |
+| Not NA | 4426 |
 | NA | 71690 |
 
 
@@ -4282,6 +4548,7 @@ Z_16_5_4:SKJEMA5E; (Z_16_5_4:SKJEMA5D); (Z_16_5_4:SKJEMA5C); (Z_16_5_4:SKJEMA5B)
 | No | 3432 |
 | Yes | 1259 |
 | More than 1 check box filled in | 1 |
+| Not NA | 4692 |
 | NA | 71424 |
 
 
@@ -4292,6 +4559,7 @@ Z_16_6_1:SKJEMA5E; (Z_16_6_1:SKJEMA5D); (Z_16_6_1:SKJEMA5C); (Z_16_6_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 69651 |
+| Not NA | 69651 |
 | NA | 6465 |
 
 
@@ -4302,6 +4570,7 @@ Z_16_6_2:SKJEMA5E; (Z_16_6_2:SKJEMA5D); (Z_16_6_2:SKJEMA5C); (Z_16_6_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 70 |
+| Not NA | 70 |
 | NA | 76046 |
 
 
@@ -4312,6 +4581,7 @@ Z_16_6_3:SKJEMA5E; (Z_16_6_3:SKJEMA5D); (Z_16_6_3:SKJEMA5C); (Z_16_6_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 378 |
+| Not NA | 378 |
 | NA | 75738 |
 
 
@@ -4323,6 +4593,7 @@ Z_16_6_4:SKJEMA5E; (Z_16_6_4:SKJEMA5D); (Z_16_6_4:SKJEMA5C); (Z_16_6_4:SKJEMA5B)
 | -------- | - |
 | Yes | 42 |
 | No | 355 |
+| Not NA | 397 |
 | NA | 75719 |
 
 
@@ -4333,6 +4604,7 @@ Z_16_7_1:SKJEMA5E; (Z_16_7_1:SKJEMA5D); (Z_16_7_1:SKJEMA5C); (Z_16_7_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 68179 |
+| Not NA | 68179 |
 | NA | 7937 |
 
 
@@ -4343,6 +4615,7 @@ Z_16_7_2:SKJEMA5E; (Z_16_7_2:SKJEMA5D); (Z_16_7_2:SKJEMA5C); (Z_16_7_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 359 |
+| Not NA | 359 |
 | NA | 75757 |
 
 
@@ -4353,6 +4626,7 @@ Z_16_7_3:SKJEMA5E; (Z_16_7_3:SKJEMA5D); (Z_16_7_3:SKJEMA5C); (Z_16_7_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1746 |
+| Not NA | 1746 |
 | NA | 74370 |
 
 
@@ -4365,6 +4639,7 @@ Z_16_7_4:SKJEMA5E; (Z_16_7_4:SKJEMA5D); (Z_16_7_4:SKJEMA5C); (Z_16_7_4:SKJEMA5B)
 | No | 980 |
 | Yes | 893 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1874 |
 | NA | 74242 |
 
 
@@ -4375,6 +4650,7 @@ Z_16_8_1:SKJEMA5E; (Z_16_8_1:SKJEMA5D); (Z_16_8_1:SKJEMA5C); (Z_16_8_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 68677 |
+| Not NA | 68677 |
 | NA | 7439 |
 
 
@@ -4385,6 +4661,7 @@ Z_16_8_2:SKJEMA5E; (Z_16_8_2:SKJEMA5D); (Z_16_8_2:SKJEMA5C); (Z_16_8_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 654 |
+| Not NA | 654 |
 | NA | 75462 |
 
 
@@ -4395,6 +4672,7 @@ Z_16_8_3:SKJEMA5E; (Z_16_8_3:SKJEMA5D); (Z_16_8_3:SKJEMA5C); (Z_16_8_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 918 |
+| Not NA | 918 |
 | NA | 75198 |
 
 
@@ -4406,6 +4684,7 @@ Z_16_8_4:SKJEMA5E; (Z_16_8_4:SKJEMA5D); (Z_16_8_4:SKJEMA5C); (Z_16_8_4:SKJEMA5B)
 | -------- | - |
 | Yes | 1391 |
 | No | 113 |
+| Not NA | 1504 |
 | NA | 74612 |
 
 
@@ -4416,6 +4695,7 @@ Z_16_9_1:SKJEMA5E; (Z_16_9_1:SKJEMA5D); (Z_16_9_1:SKJEMA5C); (Z_16_9_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 67586 |
+| Not NA | 67586 |
 | NA | 8530 |
 
 
@@ -4426,6 +4706,7 @@ Z_16_9_2:SKJEMA5E; (Z_16_9_2:SKJEMA5D); (Z_16_9_2:SKJEMA5C); (Z_16_9_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 573 |
+| Not NA | 573 |
 | NA | 75543 |
 
 
@@ -4436,6 +4717,7 @@ Z_16_9_3:SKJEMA5E; (Z_16_9_3:SKJEMA5D); (Z_16_9_3:SKJEMA5C); (Z_16_9_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 682 |
+| Not NA | 682 |
 | NA | 75434 |
 
 
@@ -4447,6 +4729,7 @@ Z_16_9_4:SKJEMA5E; (Z_16_9_4:SKJEMA5D); (Z_16_9_4:SKJEMA5C); (Z_16_9_4:SKJEMA5B)
 | -------- | - |
 | No | 559 |
 | Yes | 477 |
+| Not NA | 1036 |
 | NA | 75080 |
 
 
@@ -4457,6 +4740,7 @@ Z_1610_1:SKJEMA5E; (Z_1610_1:SKJEMA5D); (Z_1610_1:SKJEMA5C); (Z_1610_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 65542 |
+| Not NA | 65542 |
 | NA | 10574 |
 
 
@@ -4467,6 +4751,7 @@ Z_1610_2:SKJEMA5E; (Z_1610_2:SKJEMA5D); (Z_1610_2:SKJEMA5C); (Z_1610_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3631 |
+| Not NA | 3631 |
 | NA | 72485 |
 
 
@@ -4477,6 +4762,7 @@ Z_1610_3:SKJEMA5E; (Z_1610_3:SKJEMA5D); (Z_1610_3:SKJEMA5C); (Z_1610_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1088 |
+| Not NA | 1088 |
 | NA | 75028 |
 
 
@@ -4489,6 +4775,7 @@ Z_1610_4:SKJEMA5E; (Z_1610_4:SKJEMA5D); (Z_1610_4:SKJEMA5C); (Z_1610_4:SKJEMA5B)
 | Yes | 2816 |
 | No | 1293 |
 | More than 1 check box filled in | 2 |
+| Not NA | 4111 |
 | NA | 72005 |
 
 
@@ -4499,6 +4786,7 @@ Z_1611_1:SKJEMA5E; (Z_1611_1:SKJEMA5D); (Z_1611_1:SKJEMA5C); (Z_1611_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 56278 |
+| Not NA | 56278 |
 | NA | 19838 |
 
 
@@ -4509,6 +4797,7 @@ Z_1611_2:SKJEMA5E; (Z_1611_2:SKJEMA5D); (Z_1611_2:SKJEMA5C); (Z_1611_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 9490 |
+| Not NA | 9490 |
 | NA | 66626 |
 
 
@@ -4519,6 +4808,7 @@ Z_1611_3:SKJEMA5E; (Z_1611_3:SKJEMA5D); (Z_1611_3:SKJEMA5C); (Z_1611_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 5251 |
+| Not NA | 5251 |
 | NA | 70865 |
 
 
@@ -4531,6 +4821,7 @@ Z_1611_4:SKJEMA5E; (Z_1611_4:SKJEMA5D); (Z_1611_4:SKJEMA5C); (Z_1611_4:SKJEMA5B)
 | No | 8071 |
 | Yes | 3160 |
 | More than 1 check box filled in | 1 |
+| Not NA | 11232 |
 | NA | 64884 |
 
 
@@ -4541,6 +4832,7 @@ Z_1612_1:SKJEMA5E; (Z_1612_1:SKJEMA5D); (Z_1612_1:SKJEMA5C); (Z_1612_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 67856 |
+| Not NA | 67856 |
 | NA | 8260 |
 
 
@@ -4551,6 +4843,7 @@ Z_1612_2:SKJEMA5E; (Z_1612_2:SKJEMA5D); (Z_1612_2:SKJEMA5C); (Z_1612_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 419 |
+| Not NA | 419 |
 | NA | 75697 |
 
 
@@ -4561,6 +4854,7 @@ Z_1612_3:SKJEMA5E; (Z_1612_3:SKJEMA5D); (Z_1612_3:SKJEMA5C); (Z_1612_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1626 |
+| Not NA | 1626 |
 | NA | 74490 |
 
 
@@ -4573,6 +4867,7 @@ Z_1612_4:SKJEMA5E; (Z_1612_4:SKJEMA5D); (Z_1612_4:SKJEMA5C); (Z_1612_4:SKJEMA5B)
 | No | 1254 |
 | Yes | 385 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1640 |
 | NA | 74476 |
 
 
@@ -4583,6 +4878,7 @@ Z_1613_1:SKJEMA5E; (Z_1613_1:SKJEMA5D); (Z_1613_1:SKJEMA5C); (Z_1613_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 64757 |
+| Not NA | 64757 |
 | NA | 11359 |
 
 
@@ -4593,6 +4889,7 @@ Z_1613_2:SKJEMA5E; (Z_1613_2:SKJEMA5D); (Z_1613_2:SKJEMA5C); (Z_1613_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 4016 |
+| Not NA | 4016 |
 | NA | 72100 |
 
 
@@ -4603,6 +4900,7 @@ Z_1613_3:SKJEMA5E; (Z_1613_3:SKJEMA5D); (Z_1613_3:SKJEMA5C); (Z_1613_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1474 |
+| Not NA | 1474 |
 | NA | 74642 |
 
 
@@ -4615,6 +4913,7 @@ Z_1613_4:SKJEMA5E; (Z_1613_4:SKJEMA5D); (Z_1613_4:SKJEMA5C); (Z_1613_4:SKJEMA5B)
 | No | 1869 |
 | Yes | 2587 |
 | More than 1 check box filled in | 3 |
+| Not NA | 4459 |
 | NA | 71657 |
 
 
@@ -4625,6 +4924,7 @@ Z_1614_1:SKJEMA5E; (Z_1614_1:SKJEMA5D); (Z_1614_1:SKJEMA5C); (Z_1614_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 69259 |
+| Not NA | 69259 |
 | NA | 6857 |
 
 
@@ -4635,6 +4935,7 @@ Z_1614_2:SKJEMA5E; (Z_1614_2:SKJEMA5D); (Z_1614_2:SKJEMA5C); (Z_1614_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 705 |
+| Not NA | 705 |
 | NA | 75411 |
 
 
@@ -4645,6 +4946,7 @@ Z_1614_3:SKJEMA5E; (Z_1614_3:SKJEMA5D); (Z_1614_3:SKJEMA5C); (Z_1614_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 55 |
+| Not NA | 55 |
 | NA | 76061 |
 
 
@@ -4656,6 +4958,7 @@ Z_1614_4:SKJEMA5E; (Z_1614_4:SKJEMA5D); (Z_1614_4:SKJEMA5C); (Z_1614_4:SKJEMA5B)
 | -------- | - |
 | Yes | 265 |
 | No | 355 |
+| Not NA | 620 |
 | NA | 75496 |
 
 
@@ -4666,6 +4969,7 @@ Z_1615_1:SKJEMA5E; (Z_1615_1:SKJEMA5D); (Z_1615_1:SKJEMA5C); (Z_1615_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 65244 |
+| Not NA | 65244 |
 | NA | 10872 |
 
 
@@ -4676,6 +4980,7 @@ Z_1615_2:SKJEMA5E; (Z_1615_2:SKJEMA5D); (Z_1615_2:SKJEMA5C); (Z_1615_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 2123 |
+| Not NA | 2123 |
 | NA | 73993 |
 
 
@@ -4686,6 +4991,7 @@ Z_1615_3:SKJEMA5E; (Z_1615_3:SKJEMA5D); (Z_1615_3:SKJEMA5C); (Z_1615_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3147 |
+| Not NA | 3147 |
 | NA | 72969 |
 
 
@@ -4698,6 +5004,7 @@ Z_1615_4:SKJEMA5E; (Z_1615_4:SKJEMA5D); (Z_1615_4:SKJEMA5C); (Z_1615_4:SKJEMA5B)
 | No | 3079 |
 | Yes | 537 |
 | More than 1 check box filled in | 3 |
+| Not NA | 3619 |
 | NA | 72497 |
 
 
@@ -4708,6 +5015,7 @@ Z_1616_1:SKJEMA5E; (Z_1616_1:SKJEMA5D); (Z_1616_1:SKJEMA5C); (Z_1616_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 70034 |
+| Not NA | 70034 |
 | NA | 6082 |
 
 
@@ -4718,6 +5026,7 @@ Z_1616_2:SKJEMA5E; (Z_1616_2:SKJEMA5D); (Z_1616_2:SKJEMA5C); (Z_1616_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 61 |
+| Not NA | 61 |
 | NA | 76055 |
 
 
@@ -4728,6 +5037,7 @@ Z_1616_3:SKJEMA5E; (Z_1616_3:SKJEMA5D); (Z_1616_3:SKJEMA5C); (Z_1616_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 31 |
+| Not NA | 31 |
 | NA | 76085 |
 
 
@@ -4739,6 +5049,7 @@ Z_1616_4:SKJEMA5E; (Z_1616_4:SKJEMA5D); (Z_1616_4:SKJEMA5C); (Z_1616_4:SKJEMA5B)
 | -------- | - |
 | Yes | 29 |
 | No | 92 |
+| Not NA | 121 |
 | NA | 75995 |
 
 
@@ -4749,6 +5060,7 @@ Z_1618_1:SKJEMA5E; (Z_1618_1:SKJEMA5D); (Z_1618_1:SKJEMA5C); (Z_1617_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 46036 |
+| Not NA | 46036 |
 | NA | 30080 |
 
 
@@ -4759,6 +5071,7 @@ Z_1618_2:SKJEMA5E; (Z_1618_2:SKJEMA5D); (Z_1618_2:SKJEMA5C); (Z_1617_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 915 |
+| Not NA | 915 |
 | NA | 75201 |
 
 
@@ -4769,6 +5082,7 @@ Z_1618_3:SKJEMA5E; (Z_1618_3:SKJEMA5D); (Z_1618_3:SKJEMA5C); (Z_1617_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 590 |
+| Not NA | 590 |
 | NA | 75526 |
 
 
@@ -4780,6 +5094,7 @@ Z_1618_4:SKJEMA5E; (Z_1618_4:SKJEMA5D); (Z_1618_4:SKJEMA5C); (Z_1617_4:SKJEMA5B)
 | -------- | - |
 | Yes | 1231 |
 | No | 185 |
+| Not NA | 1416 |
 | NA | 74700 |
 
 
@@ -4790,6 +5105,7 @@ Z_1619_1:SKJEMA5E; (Z_1619_1:SKJEMA5D); (Z_1619_1:SKJEMA5C); (Z_1618_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 37686 |
+| Not NA | 37686 |
 | NA | 38430 |
 
 
@@ -4800,6 +5116,7 @@ Z_1619_2:SKJEMA5E; (Z_1619_2:SKJEMA5D); (Z_1619_2:SKJEMA5C); (Z_1618_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 2472 |
+| Not NA | 2472 |
 | NA | 73644 |
 
 
@@ -4810,6 +5127,7 @@ Z_1619_3:SKJEMA5E; (Z_1619_3:SKJEMA5D); (Z_1619_3:SKJEMA5C); (Z_1618_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 2453 |
+| Not NA | 2453 |
 | NA | 73663 |
 
 
@@ -4822,6 +5140,7 @@ Z_1619_4:SKJEMA5E; (Z_1619_4:SKJEMA5D); (Z_1619_4:SKJEMA5C); (Z_1618_4:SKJEMA5B)
 | Yes | 3642 |
 | No | 817 |
 | More than 1 check box filled in | 2 |
+| Not NA | 4461 |
 | NA | 71655 |
 
 
@@ -4832,6 +5151,7 @@ Z_17_2_1:SKJEMA5E; (Z_17_2_1:SKJEMA5D); (Z_17_2_1:SKJEMA5C); (Z_17_2_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 6295 |
+| Not NA | 6295 |
 | NA | 69821 |
 
 
@@ -4842,6 +5162,7 @@ Z_17_3_1:SKJEMA5E; (Z_17_3_1:SKJEMA5D); (Z_17_3_1:SKJEMA5C); (Z_17_3_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1520 |
+| Not NA | 1520 |
 | NA | 74596 |
 
 
@@ -4852,6 +5173,7 @@ Z_17_4_1:SKJEMA5E; (Z_17_4_1:SKJEMA5D); (Z_17_4_1:SKJEMA5C); (Z_17_4_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 358 |
+| Not NA | 358 |
 | NA | 75758 |
 
 
@@ -4862,6 +5184,7 @@ Z_1617_1:SKJEMA5E; (Z_1617_1:SKJEMA5D); (Z_1617_1:SKJEMA5C); Social problems: No
 | Category | n |
 | -------- | - |
 | 1 | 57320 |
+| Not NA | 57320 |
 | NA | 18796 |
 
 
@@ -4872,6 +5195,7 @@ Z_1617_2:SKJEMA5E; (Z_1617_2:SKJEMA5D); (Z_1617_2:SKJEMA5C); Social problems: Ye
 | Category | n |
 | -------- | - |
 | 1 | 45 |
+| Not NA | 45 |
 | NA | 76071 |
 
 
@@ -4882,6 +5206,7 @@ Z_1617_3:SKJEMA5E; (Z_1617_3:SKJEMA5D); (Z_1617_3:SKJEMA5C); Social problems: Ye
 | Category | n |
 | -------- | - |
 | 1 | 51 |
+| Not NA | 51 |
 | NA | 76065 |
 
 
@@ -4893,6 +5218,7 @@ Z_1617_4:SKJEMA5E; (Z_1617_4:SKJEMA5D); (Z_1617_4:SKJEMA5C); Social problems: If
 | -------- | - |
 | No | 61 |
 | Yes | 48 |
+| Not NA | 109 |
 | NA | 76007 |
 
 
@@ -4905,6 +5231,7 @@ Z_19_1_1:SKJEMA5E; (Z_19_1_1:SKJEMA5D); (Z_19_1_1:SKJEMA5C); (Z_19_1_1:SKJEMA5B)
 | Yes | 65315 |
 | No | 9166 |
 | More than 1 check box filled in | 16 |
+| Not NA | 74497 |
 | NA | 1619 |
 
 
@@ -4939,6 +5266,7 @@ Z_19_1_2:SKJEMA5E; (Z_19_1_2:SKJEMA5D); (Z_19_1_2:SKJEMA5C); (Z_19_1_2:SKJEMA5B)
 | 9 | 36 |
 | Filled in text or mark instead of number | 11 |
 | NA's | 13606 |
+| Not NA | 62510 |
 
 
 ### EE217
@@ -4950,6 +5278,7 @@ Z_19_1_3:SKJEMA5E; (Z_19_1_3:SKJEMA5D); (Z_19_1_3:SKJEMA5C); (Z_19_1_3:SKJEMA5B)
 | Yes | 69438 |
 | No | 4049 |
 | More than 1 check box filled in | 104 |
+| Not NA | 73591 |
 | NA | 2525 |
 
 
@@ -4988,6 +5317,7 @@ Z_19_1_4:SKJEMA5E; (Z_19_1_4:SKJEMA5D); (Z_19_1_4:SKJEMA5C); (Z_19_1_4:SKJEMA5B)
 | 9 | 70 |
 | Filled in text or mark instead of number | 10 |
 | NA's | 8720 |
+| Not NA | 67396 |
 
 
 ### EE219
@@ -4999,6 +5329,7 @@ Z_19_1_5:SKJEMA5E; (Z_19_1_5:SKJEMA5D); (Z_19_1_5:SKJEMA5C); (Z_19_1_5:SKJEMA5B)
 | No | 68752 |
 | Yes | 868 |
 | More than 1 check box filled in | 8 |
+| Not NA | 69628 |
 | NA | 6488 |
 
 
@@ -5011,6 +5342,7 @@ Z_19_2_1:SKJEMA5B; (Z_21_2_1:SKJEMA5A); Throat infection: At the age of 6-11 mon
 | No | 15680 |
 | Yes | 1370 |
 | More than 1 check box filled in | 2 |
+| Not NA | 17052 |
 | NA | 59064 |
 
 
@@ -5029,6 +5361,7 @@ Z_19_2_2:SKJEMA5B; (Z_21_2_2:SKJEMA5A); Throat infection: Number of times at the
 | 5 | 7 |
 | 4 | 10 |
 | 10 | 2 |
+| Not NA | 1393 |
 | NA | 74723 |
 
 
@@ -5040,6 +5373,7 @@ Z_19_2_3:SKJEMA5B; (Z_21_2_3:SKJEMA5A); Throat infection: At the age of 12-18 mo
 | -------- | - |
 | No | 12168 |
 | Yes | 2343 |
+| Not NA | 14511 |
 | NA | 61605 |
 
 
@@ -5058,6 +5392,7 @@ Z_19_2_4:SKJEMA5B; (Z_21_2_4:SKJEMA5A); Throat infection: Number of times at the
 | 5 | 9 |
 | 10 | 2 |
 | 7 | 3 |
+| Not NA | 2358 |
 | NA | 73758 |
 
 
@@ -5069,6 +5404,7 @@ Z_19_2_5:SKJEMA5B; (Z_21_2_5:SKJEMA5A); Throat infection: Hospitalized?; 19. Has
 | -------- | - |
 | No | 7523 |
 | Yes | 74 |
+| Not NA | 7597 |
 | NA | 68519 |
 
 
@@ -5081,6 +5417,7 @@ Z_19_4_1:SKJEMA5E; (Z_19_4_1:SKJEMA5D); (Z_19_4_1:SKJEMA5C); (Z_19_3_1:SKJEMA5B)
 | No | 61468 |
 | Yes | 11570 |
 | More than 1 check box filled in | 7 |
+| Not NA | 73045 |
 | NA | 3071 |
 
 
@@ -5107,6 +5444,7 @@ Z_19_4_2:SKJEMA5E; (Z_19_4_2:SKJEMA5D); (Z_19_4_2:SKJEMA5C); (Z_19_3_2:SKJEMA5B)
 | Filled in text or mark instead of number | 1 |
 | 15 | 1 |
 | 14 | 1 |
+| Not NA | 11244 |
 | NA | 64872 |
 
 
@@ -5119,6 +5457,7 @@ Z_19_4_3:SKJEMA5E; (Z_19_4_3:SKJEMA5D); (Z_19_4_3:SKJEMA5C); (Z_19_3_3:SKJEMA5B)
 | No | 48187 |
 | Yes | 15817 |
 | More than 1 check box filled in | 6 |
+| Not NA | 64010 |
 | NA | 12106 |
 
 
@@ -5150,6 +5489,7 @@ Z_19_4_4:SKJEMA5E; (Z_19_4_4:SKJEMA5D); (Z_19_4_4:SKJEMA5C); (Z_19_3_4:SKJEMA5B)
 | 9 | 5 |
 | Filled in text or mark instead of number | 1 |
 | NA's | 60372 |
+| Not NA | 15744 |
 
 
 ### EE229
@@ -5161,6 +5501,7 @@ Z_19_4_5:SKJEMA5E; (Z_19_4_5:SKJEMA5D); (Z_19_4_5:SKJEMA5C); (Z_19_3_5:SKJEMA5B)
 | No | 35621 |
 | Yes | 631 |
 | More than 1 check box filled in | 6 |
+| Not NA | 36258 |
 | NA | 39858 |
 
 
@@ -5173,6 +5514,7 @@ Z_19_5_1:SKJEMA5E; (Z_19_5_1:SKJEMA5D); (Z_19_5_1:SKJEMA5C); (Z_19_4_1:SKJEMA5B)
 | No | 69467 |
 | Yes | 4506 |
 | More than 1 check box filled in | 7 |
+| Not NA | 73980 |
 | NA | 2136 |
 
 
@@ -5196,6 +5538,7 @@ Z_19_5_2:SKJEMA5E; (Z_19_5_2:SKJEMA5D); (Z_19_5_2:SKJEMA5C); (Z_19_4_2:SKJEMA5B)
 | 11 | 3 |
 | 30 | 1 |
 | 8 | 7 |
+| Not NA | 4540 |
 | NA | 71576 |
 
 
@@ -5208,6 +5551,7 @@ Z_19_5_3:SKJEMA5E; (Z_19_5_3:SKJEMA5D); (Z_19_5_3:SKJEMA5C); (Z_19_4_3:SKJEMA5B)
 | No | 56964 |
 | Yes | 5045 |
 | More than 1 check box filled in | 5 |
+| Not NA | 62014 |
 | NA | 14102 |
 
 
@@ -5237,6 +5581,7 @@ Z_19_5_4:SKJEMA5E; (Z_19_5_4:SKJEMA5D); (Z_19_5_4:SKJEMA5C); (Z_19_4_4:SKJEMA5B)
 | 30 | 1 |
 | 16 | 1 |
 | 11 | 1 |
+| Not NA | 5237 |
 | NA | 70879 |
 
 
@@ -5249,6 +5594,7 @@ Z_19_5_5:SKJEMA5E; (Z_19_5_5:SKJEMA5D); (Z_19_5_5:SKJEMA5C); (Z_19_4_5:SKJEMA5B)
 | No | 29020 |
 | Yes | 566 |
 | More than 1 check box filled in | 6 |
+| Not NA | 29592 |
 | NA | 46524 |
 
 
@@ -5261,6 +5607,7 @@ Z_19_6_1:SKJEMA5E; (Z_19_6_1:SKJEMA5D); (Z_19_6_1:SKJEMA5C); (Z_19_5_1:SKJEMA5B)
 | No | 68916 |
 | Yes | 4765 |
 | More than 1 check box filled in | 5 |
+| Not NA | 73686 |
 | NA | 2430 |
 
 
@@ -5283,6 +5630,7 @@ Z_19_6_2:SKJEMA5E; (Z_19_6_2:SKJEMA5D); (Z_19_6_2:SKJEMA5C); (Z_19_5_2:SKJEMA5B)
 | 30 | 1 |
 | 8 | 5 |
 | 9 | 1 |
+| Not NA | 4790 |
 | NA | 71326 |
 
 
@@ -5295,6 +5643,7 @@ Z_19_6_3:SKJEMA5E; (Z_19_6_3:SKJEMA5D); (Z_19_6_3:SKJEMA5C); (Z_19_5_3:SKJEMA5B)
 | No | 55823 |
 | Yes | 6084 |
 | More than 1 check box filled in | 2 |
+| Not NA | 61909 |
 | NA | 14207 |
 
 
@@ -5321,6 +5670,7 @@ Z_19_6_4:SKJEMA5E; (Z_19_6_4:SKJEMA5D); (Z_19_6_4:SKJEMA5C); (Z_19_5_4:SKJEMA5B)
 | 12 | 2 |
 | 16 | 1 |
 | 9 | 1 |
+| Not NA | 6220 |
 | NA | 69896 |
 
 
@@ -5333,6 +5683,7 @@ Z_19_6_5:SKJEMA5E; (Z_19_6_5:SKJEMA5D); (Z_19_6_5:SKJEMA5C); (Z_19_5_5:SKJEMA5B)
 | No | 28599 |
 | Yes | 1976 |
 | More than 1 check box filled in | 2 |
+| Not NA | 30577 |
 | NA | 45539 |
 
 
@@ -5345,6 +5696,7 @@ Z_19_7_1:SKJEMA5E; (Z_19_7_1:SKJEMA5D); (Z_19_7_1:SKJEMA5C); (Z_19_6_1:SKJEMA5B)
 | Yes | 22561 |
 | No | 48574 |
 | More than 1 check box filled in | 16 |
+| Not NA | 71151 |
 | NA | 4965 |
 
 
@@ -5361,6 +5713,7 @@ Z_19_7_2:SKJEMA5E; (Z_19_7_2:SKJEMA5D); (Z_19_7_2:SKJEMA5C); (Z_19_6_2:SKJEMA5B)
 | 3rd Qu. | 1 |
 | Max. | 98 |
 | NA's | 54357 |
+| Not NA | 21759 |
 
 
 ### EE242
@@ -5372,6 +5725,7 @@ Z_19_7_3:SKJEMA5E; (Z_19_7_3:SKJEMA5D); (Z_19_7_3:SKJEMA5C); (Z_19_6_3:SKJEMA5B)
 | Yes | 37172 |
 | No | 30326 |
 | More than 1 check box filled in | 62 |
+| Not NA | 67560 |
 | NA | 8556 |
 
 
@@ -5409,6 +5763,7 @@ Z_19_7_4:SKJEMA5E; (Z_19_7_4:SKJEMA5D); (Z_19_7_4:SKJEMA5C); (Z_19_6_4:SKJEMA5B)
 | 98 | 1 |
 | Filled in text or mark instead of number | 6 |
 | NA's | 39304 |
+| Not NA | 36812 |
 
 
 ### EE244
@@ -5420,6 +5775,7 @@ Z_19_7_5:SKJEMA5E; (Z_19_7_5:SKJEMA5D); (Z_19_7_5:SKJEMA5C); (Z_19_6_5:SKJEMA5B)
 | No | 47120 |
 | Yes | 1142 |
 | More than 1 check box filled in | 5 |
+| Not NA | 48267 |
 | NA | 27849 |
 
 
@@ -5432,6 +5788,7 @@ Z_19_8_1:SKJEMA5E; (Z_19_8_1:SKJEMA5D); (Z_19_8_1:SKJEMA5C); (Z_19_7_1:SKJEMA5B)
 | No | 73115 |
 | Yes | 1166 |
 | More than 1 check box filled in | 1 |
+| Not NA | 74282 |
 | NA | 1834 |
 
 
@@ -5452,6 +5809,7 @@ Z_19_8_2:SKJEMA5E; (Z_19_8_2:SKJEMA5D); (Z_19_8_2:SKJEMA5C); (Z_19_7_2:SKJEMA5B)
 | 8 | 3 |
 | 9 | 1 |
 | 7 | 1 |
+| Not NA | 1289 |
 | NA | 74827 |
 
 
@@ -5464,6 +5822,7 @@ Z_19_8_3:SKJEMA5E; (Z_19_8_3:SKJEMA5D); (Z_19_8_3:SKJEMA5C); (Z_19_7_3:SKJEMA5B)
 | No | 59655 |
 | Yes | 1165 |
 | More than 1 check box filled in | 2 |
+| Not NA | 60822 |
 | NA | 15294 |
 
 
@@ -5485,6 +5844,7 @@ Z_19_8_4:SKJEMA5E; (Z_19_8_4:SKJEMA5D); (Z_19_8_4:SKJEMA5C); (Z_19_7_4:SKJEMA5B)
 | 15 | 2 |
 | 18 | 1 |
 | 14 | 1 |
+| Not NA | 1372 |
 | NA | 74744 |
 
 
@@ -5497,6 +5857,7 @@ Z_19_8_5:SKJEMA5E; (Z_19_8_5:SKJEMA5D); (Z_19_8_5:SKJEMA5C); (Z_19_7_5:SKJEMA5B)
 | No | 26216 |
 | Yes | 342 |
 | More than 1 check box filled in | 3 |
+| Not NA | 26561 |
 | NA | 49555 |
 
 
@@ -5509,6 +5870,7 @@ Z_19_9_1:SKJEMA5E; (Z_19_9_1:SKJEMA5D); (Z_19_9_1:SKJEMA5C); (Z_19_8_1:SKJEMA5B)
 | Yes | 18327 |
 | No | 54202 |
 | More than 1 check box filled in | 13 |
+| Not NA | 72542 |
 | NA | 3574 |
 
 
@@ -5538,6 +5900,7 @@ Z_19_9_2:SKJEMA5E; (Z_19_9_2:SKJEMA5D); (Z_19_9_2:SKJEMA5C); (Z_19_8_2:SKJEMA5B)
 | 9 | 3 |
 | 30 | 1 |
 | 15 | 1 |
+| Not NA | 17711 |
 | NA | 58405 |
 
 
@@ -5550,6 +5913,7 @@ Z_19_9_3:SKJEMA5E; (Z_19_9_3:SKJEMA5D); (Z_19_9_3:SKJEMA5C); (Z_19_8_3:SKJEMA5B)
 | No | 41272 |
 | Yes | 24543 |
 | More than 1 check box filled in | 52 |
+| Not NA | 65867 |
 | NA | 10249 |
 
 
@@ -5581,6 +5945,7 @@ Z_19_9_4:SKJEMA5E; (Z_19_9_4:SKJEMA5D); (Z_19_9_4:SKJEMA5C); (Z_19_8_4:SKJEMA5B)
 | 9 | 2 |
 | Filled in text or mark instead of number | 1 |
 | NA's | 51677 |
+| Not NA | 24439 |
 
 
 ### EE254
@@ -5591,6 +5956,7 @@ Z_19_9_5:SKJEMA5E; (Z_19_9_5:SKJEMA5D); (Z_19_9_5:SKJEMA5C); (Z_19_8_5:SKJEMA5B)
 | -------- | - |
 | No | 41112 |
 | Yes | 123 |
+| Not NA | 41235 |
 | NA | 34881 |
 
 
@@ -5603,6 +5969,7 @@ Z_1910_1:SKJEMA5E; (Z_1910_1:SKJEMA5D); (Z_1910_1:SKJEMA5C); (Z_19_9_1:SKJEMA5B)
 | No | 74042 |
 | Yes | 792 |
 | More than 1 check box filled in | 2 |
+| Not NA | 74836 |
 | NA | 1280 |
 
 
@@ -5621,6 +5988,7 @@ Z_1910_2:SKJEMA5E; (Z_1910_2:SKJEMA5D); (Z_1910_2:SKJEMA5C); (Z_19_9_2:SKJEMA5B)
 | 6 | 5 |
 | 8 | 1 |
 | 7 | 3 |
+| Not NA | 1001 |
 | NA | 75115 |
 
 
@@ -5633,6 +6001,7 @@ Z_1910_3:SKJEMA5E; (Z_1910_3:SKJEMA5D); (Z_1910_3:SKJEMA5C); (Z_19_9_3:SKJEMA5B)
 | No | 63110 |
 | Yes | 1644 |
 | More than 1 check box filled in | 2 |
+| Not NA | 64756 |
 | NA | 11360 |
 
 
@@ -5653,6 +6022,7 @@ Z_1910_4:SKJEMA5E; (Z_1910_4:SKJEMA5D); (Z_1910_4:SKJEMA5C); (Z_19_9_4:SKJEMA5B)
 | 4 | 20 |
 | 8 | 3 |
 | 7 | 4 |
+| Not NA | 1855 |
 | NA | 74261 |
 
 
@@ -5664,6 +6034,7 @@ Z_1910_5:SKJEMA5E; (Z_1910_5:SKJEMA5D); (Z_1910_5:SKJEMA5C); (Z_19_9_5:SKJEMA5B)
 | -------- | - |
 | No | 24048 |
 | Yes | 690 |
+| Not NA | 24738 |
 | NA | 51378 |
 
 
@@ -5676,6 +6047,7 @@ Z_1911_1:SKJEMA5E; (Z_1911_1:SKJEMA5D); (Z_1911_1:SKJEMA5C); (Z_1910_1:SKJEMA5B)
 | No | 74815 |
 | Yes | 215 |
 | More than 1 check box filled in | 1 |
+| Not NA | 75031 |
 | NA | 1085 |
 
 
@@ -5707,6 +6079,7 @@ Z_1911_2:SKJEMA5E; (Z_1911_2:SKJEMA5D); (Z_1911_2:SKJEMA5C); (Z_1910_2:SKJEMA5B)
 | 9 | 2 |
 | Filled in text or mark instead of number | 4 |
 | NA's | 75714 |
+| Not NA | 402 |
 
 
 ### EE262
@@ -5717,6 +6090,7 @@ Z_1911_3:SKJEMA5E; (Z_1911_3:SKJEMA5D); (Z_1911_3:SKJEMA5C); (Z_1910_3:SKJEMA5B)
 | -------- | - |
 | No | 64208 |
 | Yes | 230 |
+| Not NA | 64438 |
 | NA | 11678 |
 
 
@@ -5748,6 +6122,7 @@ Z_1911_4:SKJEMA5E; (Z_1911_4:SKJEMA5D); (Z_1911_4:SKJEMA5C); (Z_1910_4:SKJEMA5B)
 | 90 | 1 |
 | Filled in text or mark instead of number | 4 |
 | NA's | 75680 |
+| Not NA | 436 |
 
 
 ### EE264
@@ -5758,6 +6133,7 @@ Z_1911_5:SKJEMA5E; (Z_1911_5:SKJEMA5D); (Z_1911_5:SKJEMA5C); (Z_1910_5:SKJEMA5B)
 | -------- | - |
 | No | 22763 |
 | Yes | 148 |
+| Not NA | 22911 |
 | NA | 53205 |
 
 
@@ -5770,6 +6146,7 @@ Z_1913_1:SKJEMA5E; (Z_1913_1:SKJEMA5D); (Z_1913_1:SKJEMA5C); (Z_1912_1:SKJEMA5B)
 | No | 72019 |
 | Yes | 2152 |
 | More than 1 check box filled in | 5 |
+| Not NA | 74176 |
 | NA | 1940 |
 
 
@@ -5789,6 +6166,7 @@ Z_1913_2:SKJEMA5E; (Z_1913_2:SKJEMA5D); (Z_1913_2:SKJEMA5C); (Z_1912_2:SKJEMA5B)
 | 9 | 1 |
 | 7 | 1 |
 | 6 | 1 |
+| Not NA | 2227 |
 | NA | 73889 |
 
 
@@ -5801,6 +6179,7 @@ Z_1913_3:SKJEMA5E; (Z_1913_3:SKJEMA5D); (Z_1913_3:SKJEMA5C); (Z_1912_3:SKJEMA5B)
 | No | 60792 |
 | Yes | 3937 |
 | More than 1 check box filled in | 10 |
+| Not NA | 64739 |
 | NA | 11377 |
 
 
@@ -5826,6 +6205,7 @@ Z_1913_4:SKJEMA5E; (Z_1913_4:SKJEMA5D); (Z_1913_4:SKJEMA5C); (Z_1912_4:SKJEMA5B)
 | 25 | 1 |
 | 15 | 1 |
 | 14 | 1 |
+| Not NA | 3888 |
 | NA | 72228 |
 
 
@@ -5838,6 +6218,7 @@ Z_1913_5:SKJEMA5E; (Z_1913_5:SKJEMA5D); (Z_1913_5:SKJEMA5C); (Z_1912_5:SKJEMA5B)
 | No | 25258 |
 | Yes | 645 |
 | More than 1 check box filled in | 2 |
+| Not NA | 25905 |
 | NA | 50211 |
 
 
@@ -5850,6 +6231,7 @@ Z_1914_1:SKJEMA5E; (Z_1914_1:SKJEMA5D); (Z_1914_1:SKJEMA5C); (Z_1913_1:SKJEMA5B)
 | No | 43745 |
 | Yes | 2372 |
 | More than 1 check box filled in | 3 |
+| Not NA | 46120 |
 | NA | 29996 |
 
 
@@ -5882,6 +6264,7 @@ Z_1914_2:SKJEMA5E; (Z_1914_2:SKJEMA5D); (Z_1914_2:SKJEMA5C); (Z_1913_2:SKJEMA5B)
 | 90 | 3 |
 | Filled in text or mark instead of number | 8 |
 | NA's | 74020 |
+| Not NA | 2096 |
 
 
 ### EE272
@@ -5893,6 +6276,7 @@ Z_1914_3:SKJEMA5E; (Z_1914_3:SKJEMA5D); (Z_1914_3:SKJEMA5C); (Z_1913_3:SKJEMA5B)
 | No | 39009 |
 | Yes | 4510 |
 | More than 1 check box filled in | 10 |
+| Not NA | 43529 |
 | NA | 32587 |
 
 
@@ -5927,6 +6311,7 @@ Z_1914_4:SKJEMA5E; (Z_1914_4:SKJEMA5D); (Z_1914_4:SKJEMA5C); (Z_1913_4:SKJEMA5B)
 | 90 | 1 |
 | Filled in text or mark instead of number | 9 |
 | NA's | 71992 |
+| Not NA | 4124 |
 
 
 ### EE274
@@ -5938,6 +6323,7 @@ Z_1914_5:SKJEMA5E; (Z_1914_5:SKJEMA5D); (Z_1914_5:SKJEMA5C); (Z_1913_5:SKJEMA5B)
 | No | 19188 |
 | Yes | 1139 |
 | More than 1 check box filled in | 5 |
+| Not NA | 20332 |
 | NA | 55784 |
 
 
@@ -5950,6 +6336,7 @@ Z_1912_1:SKJEMA5E; (Z_1912_1:SKJEMA5D); (Z_1912_1:SKJEMA5C); (Z_1911_1:SKJEMA5B)
 | No | 65633 |
 | Yes | 3717 |
 | More than 1 check box filled in | 9 |
+| Not NA | 69359 |
 | NA | 6757 |
 
 
@@ -5971,6 +6358,7 @@ Z_1912_2:SKJEMA5E; (Z_1912_2:SKJEMA5D); (Z_1912_2:SKJEMA5C); (Z_1911_2:SKJEMA5B)
 | 3 | 1 |
 | 12 | 1 |
 | 11 | 2 |
+| Not NA | 3757 |
 | NA | 72359 |
 
 
@@ -5983,6 +6371,7 @@ Z_1912_3:SKJEMA5E; (Z_1912_3:SKJEMA5D); (Z_1912_3:SKJEMA5C); (Z_1911_3:SKJEMA5B)
 | No | 56109 |
 | Yes | 4910 |
 | More than 1 check box filled in | 6 |
+| Not NA | 61025 |
 | NA | 15091 |
 
 
@@ -6005,6 +6394,7 @@ Z_1912_4:SKJEMA5E; (Z_1912_4:SKJEMA5D); (Z_1912_4:SKJEMA5C); (Z_1911_4:SKJEMA5B)
 | 18 | 3 |
 | 10 | 1 |
 | 7 | 1 |
+| Not NA | 4909 |
 | NA | 71207 |
 
 
@@ -6016,6 +6406,7 @@ Z_1912_5:SKJEMA5E; (Z_1912_5:SKJEMA5D); (Z_1912_5:SKJEMA5C); (Z_1911_5:SKJEMA5B)
 | -------- | - |
 | No | 25155 |
 | Yes | 47 |
+| Not NA | 25202 |
 | NA | 50914 |
 
 
@@ -6028,6 +6419,7 @@ Z_19_2_1:SKJEMA5E; (Z_19_2_1:SKJEMA5D); (Z_19_2_1:SKJEMA5C); Throat infection wi
 | No | 55543 |
 | Yes | 1149 |
 | More than 1 check box filled in | 7 |
+| Not NA | 56699 |
 | NA | 19417 |
 
 
@@ -6048,6 +6440,7 @@ Z_19_2_2:SKJEMA5E; (Z_19_2_2:SKJEMA5D); (Z_19_2_2:SKJEMA5C); Throat infection wi
 | 6 | 1 |
 | 11 | 1 |
 | 10 | 1 |
+| Not NA | 1371 |
 | NA | 74745 |
 
 
@@ -6060,6 +6453,7 @@ Z_19_2_3:SKJEMA5E; (Z_19_2_3:SKJEMA5D); (Z_19_2_3:SKJEMA5C); Throat infection wi
 | No | 44712 |
 | Yes | 2532 |
 | More than 1 check box filled in | 9 |
+| Not NA | 47253 |
 | NA | 28863 |
 
 
@@ -6084,6 +6478,7 @@ Z_19_2_4:SKJEMA5E; (Z_19_2_4:SKJEMA5D); (Z_19_2_4:SKJEMA5C); Throat infection wi
 | 14 | 1 |
 | 8 | 1 |
 | 15 | 1 |
+| Not NA | 2755 |
 | NA | 73361 |
 
 
@@ -6096,6 +6491,7 @@ Z_19_2_5:SKJEMA5E; (Z_19_2_5:SKJEMA5D); (Z_19_2_5:SKJEMA5C); Throat infection wi
 | No | 21759 |
 | Yes | 124 |
 | More than 1 check box filled in | 1 |
+| Not NA | 21884 |
 | NA | 54232 |
 
 
@@ -6108,6 +6504,7 @@ Z_19_3_1:SKJEMA5E; (Z_19_3_1:SKJEMA5D); (Z_19_3_1:SKJEMA5C); Other type of sore 
 | No | 52923 |
 | Yes | 3330 |
 | More than 1 check box filled in | 12 |
+| Not NA | 56265 |
 | NA | 19851 |
 
 
@@ -6129,6 +6526,7 @@ Z_19_3_2:SKJEMA5E; (Z_19_3_2:SKJEMA5D); (Z_19_3_2:SKJEMA5C); Other type of sore 
 | 10 | 4 |
 | 6 | 10 |
 | 9 | 2 |
+| Not NA | 3255 |
 | NA | 72861 |
 
 
@@ -6141,6 +6539,7 @@ Z_19_3_3:SKJEMA5E; (Z_19_3_3:SKJEMA5D); (Z_19_3_3:SKJEMA5C); Other type of sore 
 | No | 41223 |
 | Yes | 6256 |
 | More than 1 check box filled in | 5 |
+| Not NA | 47484 |
 | NA | 28632 |
 
 
@@ -6167,6 +6566,7 @@ Z_19_3_4:SKJEMA5E; (Z_19_3_4:SKJEMA5D); (Z_19_3_4:SKJEMA5C); Other type of sore 
 | 16 | 1 |
 | 11 | 1 |
 | 13 | 3 |
+| Not NA | 6248 |
 | NA | 69868 |
 
 
@@ -6179,6 +6579,7 @@ Z_19_3_5:SKJEMA5E; (Z_19_3_5:SKJEMA5D); (Z_19_3_5:SKJEMA5C); Other type of sore 
 | No | 23082 |
 | Yes | 196 |
 | More than 1 check box filled in | 2 |
+| Not NA | 23280 |
 | NA | 52836 |
 
 
@@ -6191,6 +6592,7 @@ Z_20_1_1:SKJEMA5E; (Z_20_1_1:SKJEMA5D); (Z_20_1_1:SKJEMA5C); (Z_20_1_1:SKJEMA5B)
 | No | 32003 |
 | Yes | 40165 |
 | More than 1 check box filled in | 16 |
+| Not NA | 72184 |
 | NA | 3932 |
 
 
@@ -6218,6 +6620,7 @@ Z_20_1_2:SKJEMA5E; (Z_20_1_2:SKJEMA5D); (Z_20_1_2:SKJEMA5C); (Z_20_1_2:SKJEMA5B)
 | 15 | 8 |
 | 22 | 1 |
 | 30 | 2 |
+| Not NA | 39226 |
 | NA | 36890 |
 
 
@@ -6230,6 +6633,7 @@ Z_20_1_3:SKJEMA5E; (Z_20_1_3:SKJEMA5D); (Z_20_1_3:SKJEMA5C); (Z_20_1_3:SKJEMA5B)
 | Yes | 43612 |
 | No | 25481 |
 | More than 1 check box filled in | 17 |
+| Not NA | 69110 |
 | NA | 7006 |
 
 
@@ -6246,6 +6650,7 @@ Z_20_1_4:SKJEMA5E; (Z_20_1_4:SKJEMA5D); (Z_20_1_4:SKJEMA5C); (Z_20_1_4:SKJEMA5B)
 | 3rd Qu. | 2 |
 | Max. | 52 |
 | NA's | 33014 |
+| Not NA | 43102 |
 
 
 ### EE280
@@ -6257,6 +6662,7 @@ Z_20_2_1:SKJEMA5E; (Z_20_2_1:SKJEMA5D); (Z_20_2_1:SKJEMA5C); (Z_20_2_1:SKJEMA5B)
 | No | 48902 |
 | Yes | 21689 |
 | More than 1 check box filled in | 9 |
+| Not NA | 70600 |
 | NA | 5516 |
 
 
@@ -6282,6 +6688,7 @@ Z_20_2_2:SKJEMA5E; (Z_20_2_2:SKJEMA5D); (Z_20_2_2:SKJEMA5C); (Z_20_2_2:SKJEMA5B)
 | 12 | 3 |
 | 18 | 1 |
 | 20 | 1 |
+| Not NA | 21219 |
 | NA | 54897 |
 
 
@@ -6294,6 +6701,7 @@ Z_20_2_3:SKJEMA5E; (Z_20_2_3:SKJEMA5D); (Z_20_2_3:SKJEMA5C); (Z_20_2_3:SKJEMA5B)
 | No | 39643 |
 | Yes | 26059 |
 | More than 1 check box filled in | 13 |
+| Not NA | 65715 |
 | NA | 10401 |
 
 
@@ -6322,6 +6730,7 @@ Z_20_2_4:SKJEMA5E; (Z_20_2_4:SKJEMA5D); (Z_20_2_4:SKJEMA5C); (Z_20_2_4:SKJEMA5B)
 | 15 | 1 |
 | 17 | 4 |
 | 11 | 1 |
+| Not NA | 25922 |
 | NA | 50194 |
 
 
@@ -6334,6 +6743,7 @@ Z_20_3_1:SKJEMA5E; (Z_20_3_1:SKJEMA5D); (Z_20_3_1:SKJEMA5C); (Z_20_3_1:SKJEMA5B)
 | No | 67137 |
 | Yes | 4372 |
 | More than 1 check box filled in | 3 |
+| Not NA | 71512 |
 | NA | 4604 |
 
 
@@ -6359,6 +6769,7 @@ Z_20_3_2:SKJEMA5E; (Z_20_3_2:SKJEMA5D); (Z_20_3_2:SKJEMA5C); (Z_20_3_2:SKJEMA5B)
 | 15 | 2 |
 | 30 | 1 |
 | 12 | 1 |
+| Not NA | 4409 |
 | NA | 71707 |
 
 
@@ -6371,6 +6782,7 @@ Z_20_3_3:SKJEMA5E; (Z_20_3_3:SKJEMA5D); (Z_20_3_3:SKJEMA5C); (Z_20_3_3:SKJEMA5B)
 | No | 56506 |
 | Yes | 5779 |
 | More than 1 check box filled in | 4 |
+| Not NA | 62289 |
 | NA | 13827 |
 
 
@@ -6398,6 +6810,7 @@ Z_20_3_4:SKJEMA5E; (Z_20_3_4:SKJEMA5D); (Z_20_3_4:SKJEMA5C); (Z_20_3_4:SKJEMA5B)
 | 16 | 1 |
 | 14 | 1 |
 | 12 | 1 |
+| Not NA | 5915 |
 | NA | 70201 |
 
 
@@ -6410,6 +6823,7 @@ Z_20_4_1:SKJEMA5E; (Z_20_4_1:SKJEMA5D); (Z_20_4_1:SKJEMA5C); (Z_20_4_1:SKJEMA5B)
 | No | 62597 |
 | Yes | 9273 |
 | More than 1 check box filled in | 6 |
+| Not NA | 71876 |
 | NA | 4240 |
 
 
@@ -6426,6 +6840,7 @@ Z_20_4_2:SKJEMA5E; (Z_20_4_2:SKJEMA5D); (Z_20_4_2:SKJEMA5C); (Z_20_4_2:SKJEMA5B)
 | 3rd Qu. | 2 |
 | Max. | 50 |
 | NA's | 67150 |
+| Not NA | 8966 |
 
 
 ### EE290
@@ -6437,6 +6852,7 @@ Z_20_4_3:SKJEMA5E; (Z_20_4_3:SKJEMA5D); (Z_20_4_3:SKJEMA5C); (Z_20_4_3:SKJEMA5B)
 | No | 53385 |
 | Yes | 10309 |
 | More than 1 check box filled in | 3 |
+| Not NA | 63697 |
 | NA | 12419 |
 
 
@@ -6453,6 +6869,7 @@ Z_20_4_4:SKJEMA5E; (Z_20_4_4:SKJEMA5D); (Z_20_4_4:SKJEMA5C); (Z_20_4_4:SKJEMA5B)
 | 3rd Qu. | 2 |
 | Max. | 42 |
 | NA's | 65861 |
+| Not NA | 10255 |
 
 
 ### EE292
@@ -6464,6 +6881,7 @@ Z_20_5_1:SKJEMA5E; (Z_20_5_1:SKJEMA5D); (Z_20_5_1:SKJEMA5C); (Z_20_5_1:SKJEMA5B)
 | No | 67738 |
 | Yes | 4347 |
 | More than 1 check box filled in | 6 |
+| Not NA | 72091 |
 | NA | 4025 |
 
 
@@ -6490,6 +6908,7 @@ Z_20_5_2:SKJEMA5E; (Z_20_5_2:SKJEMA5D); (Z_20_5_2:SKJEMA5C); (Z_20_5_2:SKJEMA5B)
 | 15 | 1 |
 | 20 | 1 |
 | 22 | 1 |
+| Not NA | 4328 |
 | NA | 71788 |
 
 
@@ -6502,6 +6921,7 @@ Z_20_5_3:SKJEMA5E; (Z_20_5_3:SKJEMA5D); (Z_20_5_3:SKJEMA5C); (Z_20_5_3:SKJEMA5B)
 | No | 58462 |
 | Yes | 4890 |
 | More than 1 check box filled in | 1 |
+| Not NA | 63353 |
 | NA | 12763 |
 
 
@@ -6526,6 +6946,7 @@ Z_20_5_4:SKJEMA5E; (Z_20_5_4:SKJEMA5D); (Z_20_5_4:SKJEMA5C); (Z_20_5_4:SKJEMA5B)
 | 20 | 1 |
 | 16 | 1 |
 | 22 | 1 |
+| Not NA | 4959 |
 | NA | 71157 |
 
 
@@ -6537,6 +6958,7 @@ Z_21_1:SKJEMA5E; (Z_21_1:SKJEMA5D); (Z_21_1:SKJEMA5C); (Z_21_1:SKJEMA5B); Habili
 | -------- | - |
 | No | 69876 |
 | Yes | 492 |
+| Not NA | 70368 |
 | NA | 5748 |
 
 
@@ -6548,6 +6970,7 @@ Z_21_2:SKJEMA5E; (Z_21_2:SKJEMA5D); (Z_21_2:SKJEMA5C); (Z_21_2:SKJEMA5B); Educat
 | -------- | - |
 | No | 69913 |
 | Yes | 447 |
+| Not NA | 70360 |
 | NA | 5756 |
 
 
@@ -6560,6 +6983,7 @@ Z_21_3:SKJEMA5E; (Z_21_3:SKJEMA5D); (Z_21_3:SKJEMA5C); (Z_21_3:SKJEMA5B); Child 
 | No | 69939 |
 | Yes | 318 |
 | More than 1 check box filled in | 1 |
+| Not NA | 70258 |
 | NA | 5858 |
 
 
@@ -6572,6 +6996,7 @@ Z_23_1_1:SKJEMA5E; (Z_23_1_1:SKJEMA5D); (Z_23_1_1:SKJEMA5C); (Z_23_1_1:SKJEMA5B)
 | No | 53815 |
 | Yes | 20277 |
 | More than 1 check box filled in | 2 |
+| Not NA | 74094 |
 | NA | 2022 |
 
 
@@ -6582,6 +7007,7 @@ Z_23_1_2:SKJEMA5E; (Z_23_1_2:SKJEMA5D); (Z_23_1_2:SKJEMA5C); (Z_23_1_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 7046 |
+| Not NA | 7046 |
 | NA | 69070 |
 
 
@@ -6592,6 +7018,7 @@ Z_23_1_3:SKJEMA5E; (Z_23_1_3:SKJEMA5D); (Z_23_1_3:SKJEMA5C); (Z_23_1_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 9417 |
+| Not NA | 9417 |
 | NA | 66699 |
 
 
@@ -6602,6 +7029,7 @@ Z_23_1_4:SKJEMA5E; (Z_23_1_4:SKJEMA5D); (Z_23_1_4:SKJEMA5C); (Z_23_1_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 11668 |
+| Not NA | 11668 |
 | NA | 64448 |
 
 
@@ -6612,6 +7040,7 @@ Z_23_1_5:SKJEMA5E; (Z_23_1_5:SKJEMA5D); (Z_23_1_5:SKJEMA5C); (Z_23_1_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 11086 |
+| Not NA | 11086 |
 | NA | 65030 |
 
 
@@ -6624,6 +7053,7 @@ Z_23_2_1:SKJEMA5E; (Z_23_2_1:SKJEMA5D); (Z_23_2_1:SKJEMA5C); (Z_23_2_1:SKJEMA5B)
 | Yes | 24515 |
 | No | 49279 |
 | More than 1 check box filled in | 6 |
+| Not NA | 73800 |
 | NA | 2316 |
 
 
@@ -6634,6 +7064,7 @@ Z_23_2_2:SKJEMA5E; (Z_23_2_2:SKJEMA5D); (Z_23_2_2:SKJEMA5C); (Z_23_2_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 7558 |
+| Not NA | 7558 |
 | NA | 68558 |
 
 
@@ -6644,6 +7075,7 @@ Z_23_2_3:SKJEMA5E; (Z_23_2_3:SKJEMA5D); (Z_23_2_3:SKJEMA5C); (Z_23_2_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 10864 |
+| Not NA | 10864 |
 | NA | 65252 |
 
 
@@ -6654,6 +7086,7 @@ Z_23_2_4:SKJEMA5E; (Z_23_2_4:SKJEMA5D); (Z_23_2_4:SKJEMA5C); (Z_23_2_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 14507 |
+| Not NA | 14507 |
 | NA | 61609 |
 
 
@@ -6664,6 +7097,7 @@ Z_23_2_5:SKJEMA5E; (Z_23_2_5:SKJEMA5D); (Z_23_2_5:SKJEMA5C); (Z_23_2_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 13753 |
+| Not NA | 13753 |
 | NA | 62363 |
 
 
@@ -6676,6 +7110,7 @@ Z_23_3_1:SKJEMA5E; (Z_23_3_1:SKJEMA5D); (Z_23_3_1:SKJEMA5C); (Z_23_3_1:SKJEMA5B)
 | Yes | 42460 |
 | No | 31487 |
 | More than 1 check box filled in | 8 |
+| Not NA | 73955 |
 | NA | 2161 |
 
 
@@ -6686,6 +7121,7 @@ Z_23_3_2:SKJEMA5E; (Z_23_3_2:SKJEMA5D); (Z_23_3_2:SKJEMA5C); (Z_23_3_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 9095 |
+| Not NA | 9095 |
 | NA | 67021 |
 
 
@@ -6696,6 +7132,7 @@ Z_23_3_3:SKJEMA5E; (Z_23_3_3:SKJEMA5D); (Z_23_3_3:SKJEMA5C); (Z_23_3_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 16254 |
+| Not NA | 16254 |
 | NA | 59862 |
 
 
@@ -6706,6 +7143,7 @@ Z_23_3_4:SKJEMA5E; (Z_23_3_4:SKJEMA5D); (Z_23_3_4:SKJEMA5C); (Z_23_3_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 25457 |
+| Not NA | 25457 |
 | NA | 50659 |
 
 
@@ -6716,6 +7154,7 @@ Z_23_3_5:SKJEMA5E; (Z_23_3_5:SKJEMA5D); (Z_23_3_5:SKJEMA5C); (Z_23_3_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 28451 |
+| Not NA | 28451 |
 | NA | 47665 |
 
 
@@ -6728,6 +7167,7 @@ Z_23_4_1:SKJEMA5E; (Z_23_4_1:SKJEMA5D); (Z_23_4_1:SKJEMA5C); (Z_23_4_1:SKJEMA5B)
 | Yes | 24427 |
 | No | 48925 |
 | More than 1 check box filled in | 10 |
+| Not NA | 73362 |
 | NA | 2754 |
 
 
@@ -6738,6 +7178,7 @@ Z_23_4_2:SKJEMA5E; (Z_23_4_2:SKJEMA5D); (Z_23_4_2:SKJEMA5C); (Z_23_4_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 5808 |
+| Not NA | 5808 |
 | NA | 70308 |
 
 
@@ -6748,6 +7189,7 @@ Z_23_4_3:SKJEMA5E; (Z_23_4_3:SKJEMA5D); (Z_23_4_3:SKJEMA5C); (Z_23_4_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 10155 |
+| Not NA | 10155 |
 | NA | 65961 |
 
 
@@ -6758,6 +7200,7 @@ Z_23_4_4:SKJEMA5E; (Z_23_4_4:SKJEMA5D); (Z_23_4_4:SKJEMA5C); (Z_23_4_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 17462 |
+| Not NA | 17462 |
 | NA | 58654 |
 
 
@@ -6768,6 +7211,7 @@ Z_23_4_5:SKJEMA5E; (Z_23_4_5:SKJEMA5D); (Z_23_4_5:SKJEMA5C); (Z_23_4_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 17795 |
+| Not NA | 17795 |
 | NA | 58321 |
 
 
@@ -6780,6 +7224,7 @@ Z_23_5_1:SKJEMA5E; (Z_23_5_1:SKJEMA5D); (Z_23_5_1:SKJEMA5C); (Z_23_5_1:SKJEMA5B)
 | No | 66062 |
 | Yes | 7817 |
 | More than 1 check box filled in | 5 |
+| Not NA | 73884 |
 | NA | 2232 |
 
 
@@ -6790,6 +7235,7 @@ Z_23_5_2:SKJEMA5E; (Z_23_5_2:SKJEMA5D); (Z_23_5_2:SKJEMA5C); (Z_23_5_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3703 |
+| Not NA | 3703 |
 | NA | 72413 |
 
 
@@ -6800,6 +7246,7 @@ Z_23_5_3:SKJEMA5E; (Z_23_5_3:SKJEMA5D); (Z_23_5_3:SKJEMA5C); (Z_23_5_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3381 |
+| Not NA | 3381 |
 | NA | 72735 |
 
 
@@ -6810,6 +7257,7 @@ Z_23_5_4:SKJEMA5E; (Z_23_5_4:SKJEMA5D); (Z_23_5_4:SKJEMA5C); (Z_23_5_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3699 |
+| Not NA | 3699 |
 | NA | 72417 |
 
 
@@ -6820,6 +7268,7 @@ Z_23_5_5:SKJEMA5E; (Z_23_5_5:SKJEMA5D); (Z_23_5_5:SKJEMA5C); (Z_23_5_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3213 |
+| Not NA | 3213 |
 | NA | 72903 |
 
 
@@ -6832,6 +7281,7 @@ Z_23_6_1:SKJEMA5E; (Z_23_6_1:SKJEMA5D); (Z_23_6_1:SKJEMA5C); (Z_23_6_1:SKJEMA5B)
 | Yes | 35539 |
 | No | 38409 |
 | More than 1 check box filled in | 15 |
+| Not NA | 73963 |
 | NA | 2153 |
 
 
@@ -6842,6 +7292,7 @@ Z_23_6_2:SKJEMA5E; (Z_23_6_2:SKJEMA5D); (Z_23_6_2:SKJEMA5C); (Z_23_6_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 6259 |
+| Not NA | 6259 |
 | NA | 69857 |
 
 
@@ -6852,6 +7303,7 @@ Z_23_6_3:SKJEMA5E; (Z_23_6_3:SKJEMA5D); (Z_23_6_3:SKJEMA5C); (Z_23_6_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 11482 |
+| Not NA | 11482 |
 | NA | 64634 |
 
 
@@ -6862,6 +7314,7 @@ Z_23_6_4:SKJEMA5E; (Z_23_6_4:SKJEMA5D); (Z_23_6_4:SKJEMA5C); (Z_23_6_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 18829 |
+| Not NA | 18829 |
 | NA | 57287 |
 
 
@@ -6872,6 +7325,7 @@ Z_23_6_5:SKJEMA5E; (Z_23_6_5:SKJEMA5D); (Z_23_6_5:SKJEMA5C); (Z_23_6_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 18961 |
+| Not NA | 18961 |
 | NA | 57155 |
 
 
@@ -6884,6 +7338,7 @@ Z_23_7_1:SKJEMA5E; (Z_23_7_1:SKJEMA5D); (Z_23_7_1:SKJEMA5C); (Z_23_7_1:SKJEMA5B)
 | No | 62871 |
 | Yes | 11007 |
 | More than 1 check box filled in | 5 |
+| Not NA | 73883 |
 | NA | 2233 |
 
 
@@ -6894,6 +7349,7 @@ Z_23_7_2:SKJEMA5E; (Z_23_7_2:SKJEMA5D); (Z_23_7_2:SKJEMA5C); (Z_23_7_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 5266 |
+| Not NA | 5266 |
 | NA | 70850 |
 
 
@@ -6904,6 +7360,7 @@ Z_23_7_3:SKJEMA5E; (Z_23_7_3:SKJEMA5D); (Z_23_7_3:SKJEMA5C); (Z_23_7_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 6189 |
+| Not NA | 6189 |
 | NA | 69927 |
 
 
@@ -6914,6 +7371,7 @@ Z_23_7_4:SKJEMA5E; (Z_23_7_4:SKJEMA5D); (Z_23_7_4:SKJEMA5C); (Z_23_7_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 7709 |
+| Not NA | 7709 |
 | NA | 68407 |
 
 
@@ -6924,6 +7382,7 @@ Z_23_7_5:SKJEMA5E; (Z_23_7_5:SKJEMA5D); (Z_23_7_5:SKJEMA5C); (Z_23_7_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 8426 |
+| Not NA | 8426 |
 | NA | 67690 |
 
 
@@ -6936,6 +7395,7 @@ Z_24:SKJEMA5E; (Z_24:SKJEMA5D); (Z_24:SKJEMA5C); (Z_24:SKJEMA5B); (Z_25:SKJEMA5A
 | No | 67813 |
 | Yes | 8019 |
 | More than 1 check box filled in | 3 |
+| Not NA | 75835 |
 | NA | 281 |
 
 
@@ -6946,6 +7406,7 @@ Z_25_1_1:SKJEMA5E; (Z_25_1_1:SKJEMA5D); (Z_25_1_1:SKJEMA5C); (Z_25_1_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 5495 |
+| Not NA | 5495 |
 | NA | 70621 |
 
 
@@ -6959,6 +7420,7 @@ Z_25_1_2:SKJEMA5E; (Z_25_1_2:SKJEMA5D); (Z_25_1_2:SKJEMA5C); (Z_25_1_2:SKJEMA5B)
 | No | 5328 |
 | Do not know | 305 |
 | More than 1 check box filled in | 6 |
+| Not NA | 6751 |
 | NA | 69365 |
 
 
@@ -6969,6 +7431,7 @@ Z_25_2_1:SKJEMA5E; (Z_25_2_1:SKJEMA5D); (Z_25_2_1:SKJEMA5C); (Z_25_2_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 5079 |
+| Not NA | 5079 |
 | NA | 71037 |
 
 
@@ -6982,6 +7445,7 @@ Z_25_2_2:SKJEMA5E; (Z_25_2_2:SKJEMA5D); (Z_25_2_2:SKJEMA5C); (Z_25_2_2:SKJEMA5B)
 | Yes | 1536 |
 | Do not know | 248 |
 | More than 1 check box filled in | 6 |
+| Not NA | 6324 |
 | NA | 69792 |
 
 
@@ -6992,6 +7456,7 @@ Z_25_3_1:SKJEMA5E; (Z_25_3_1:SKJEMA5D); (Z_25_3_1:SKJEMA5C); (Z_25_3_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3713 |
+| Not NA | 3713 |
 | NA | 72403 |
 
 
@@ -7005,6 +7470,7 @@ Z_25_3_2:SKJEMA5E; (Z_25_3_2:SKJEMA5D); (Z_25_3_2:SKJEMA5C); (Z_25_3_2:SKJEMA5B)
 | Do not know | 256 |
 | Yes | 134 |
 | More than 1 check box filled in | 3 |
+| Not NA | 4992 |
 | NA | 71124 |
 
 
@@ -7015,6 +7481,7 @@ Z_25_4_1:SKJEMA5E; (Z_25_4_1:SKJEMA5D); (Z_25_4_1:SKJEMA5C); (Z_25_4_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 2114 |
+| Not NA | 2114 |
 | NA | 74002 |
 
 
@@ -7028,6 +7495,7 @@ Z_25_4_2:SKJEMA5E; (Z_25_4_2:SKJEMA5D); (Z_25_4_2:SKJEMA5C); (Z_25_4_2:SKJEMA5B)
 | Do not know | 405 |
 | Yes | 48 |
 | More than 1 check box filled in | 5 |
+| Not NA | 3524 |
 | NA | 72592 |
 
 
@@ -7038,6 +7506,7 @@ Z_25_5_1:SKJEMA5E; (Z_25_5_1:SKJEMA5D); (Z_25_5_1:SKJEMA5C); (Z_25_5_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 2415 |
+| Not NA | 2415 |
 | NA | 73701 |
 
 
@@ -7051,6 +7520,7 @@ Z_25_5_2:SKJEMA5E; (Z_25_5_2:SKJEMA5D); (Z_25_5_2:SKJEMA5C); (Z_25_5_2:SKJEMA5B)
 | Do not know | 375 |
 | More than 1 check box filled in | 5 |
 | Yes | 66 |
+| Not NA | 3774 |
 | NA | 72342 |
 
 
@@ -7061,6 +7531,7 @@ Z_25_6_1:SKJEMA5E; (Z_25_6_1:SKJEMA5D); (Z_25_6_1:SKJEMA5C); (Z_25_6_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3682 |
+| Not NA | 3682 |
 | NA | 72434 |
 
 
@@ -7074,6 +7545,7 @@ Z_25_6_2:SKJEMA5E; (Z_25_6_2:SKJEMA5D); (Z_25_6_2:SKJEMA5C); (Z_25_6_2:SKJEMA5B)
 | Do not know | 308 |
 | Yes | 391 |
 | More than 1 check box filled in | 7 |
+| Not NA | 4947 |
 | NA | 71169 |
 
 
@@ -7084,6 +7556,7 @@ Z_25_7_1:SKJEMA5E; (Z_25_7_1:SKJEMA5D); (Z_25_7_1:SKJEMA5C); (Z_25_7_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 2988 |
+| Not NA | 2988 |
 | NA | 73128 |
 
 
@@ -7097,6 +7570,7 @@ Z_25_7_2:SKJEMA5E; (Z_25_7_2:SKJEMA5D); (Z_25_7_2:SKJEMA5C); (Z_25_7_2:SKJEMA5B)
 | Do not know | 384 |
 | Yes | 139 |
 | More than 1 check box filled in | 5 |
+| Not NA | 4285 |
 | NA | 71831 |
 
 
@@ -7107,6 +7581,7 @@ Z_25_8_1:SKJEMA5E; (Z_25_8_1:SKJEMA5D); (Z_25_8_1:SKJEMA5C); (Z_25_8_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1690 |
+| Not NA | 1690 |
 | NA | 74426 |
 
 
@@ -7120,6 +7595,7 @@ Z_25_8_3:SKJEMA5E; (Z_25_8_3:SKJEMA5D); (Z_25_8_3:SKJEMA5C); (Z_25_8_3:SKJEMA5B)
 | Do not know | 186 |
 | Yes | 571 |
 | More than 1 check box filled in | 9 |
+| Not NA | 2387 |
 | NA | 73729 |
 
 
@@ -7132,6 +7608,7 @@ Z_26_1:SKJEMA5E; (Z_26_1:SKJEMA5D); (Z_26_1:SKJEMA5C); (Z_26_1:SKJEMA5B); (Z_27_
 | No | 69956 |
 | Yes | 4313 |
 | More than 1 check box filled in | 2 |
+| Not NA | 74271 |
 | NA | 1845 |
 
 
@@ -7148,6 +7625,7 @@ Z_26_2:SKJEMA5E; (Z_26_2:SKJEMA5D); (Z_26_2:SKJEMA5C); (Z_26_2:SKJEMA5B); (Z_27_
 | 3rd Qu. | 4 |
 | Max. | 50 |
 | NA's | 72019 |
+| Not NA | 4097 |
 
 
 ### EE362
@@ -7159,6 +7637,7 @@ Z_28:SKJEMA5E; (Z_28:SKJEMA5D); (Z_28:SKJEMA5C); (Z_28:SKJEMA5B); (Z_29:SKJEMA5A
 | Yes | 59485 |
 | No | 14584 |
 | More than 1 check box filled in | 24 |
+| Not NA | 74093 |
 | NA | 2023 |
 
 
@@ -7169,6 +7648,7 @@ Z_29_1_2:SKJEMA5E; (Z_29_1_2:SKJEMA5D); (Z_29_1_2:SKJEMA5C); (Z_29_1_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 20061 |
+| Not NA | 20061 |
 | NA | 56055 |
 
 
@@ -7179,6 +7659,7 @@ Z_29_1_3:SKJEMA5E; (Z_29_1_3:SKJEMA5D); (Z_29_1_3:SKJEMA5C); (Z_29_1_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 30511 |
+| Not NA | 30511 |
 | NA | 45605 |
 
 
@@ -7189,6 +7670,7 @@ Z_29_1_4:SKJEMA5E; (Z_29_1_4:SKJEMA5D); (Z_29_1_4:SKJEMA5C); (Z_29_1_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 37633 |
+| Not NA | 37633 |
 | NA | 38483 |
 
 
@@ -7199,6 +7681,7 @@ Z_29_1_5:SKJEMA5E; (Z_29_1_5:SKJEMA5D); (Z_29_1_5:SKJEMA5C); (Z_29_1_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 36170 |
+| Not NA | 36170 |
 | NA | 39946 |
 
 
@@ -7209,6 +7692,7 @@ Z_29_2_2:SKJEMA5E; (Z_29_2_2:SKJEMA5D); (Z_29_2_2:SKJEMA5C); (Z_29_2_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 7890 |
+| Not NA | 7890 |
 | NA | 68226 |
 
 
@@ -7219,6 +7703,7 @@ Z_29_2_3:SKJEMA5E; (Z_29_2_3:SKJEMA5D); (Z_29_2_3:SKJEMA5C); (Z_29_2_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 12930 |
+| Not NA | 12930 |
 | NA | 63186 |
 
 
@@ -7229,6 +7714,7 @@ Z_29_2_4:SKJEMA5E; (Z_29_2_4:SKJEMA5D); (Z_29_2_4:SKJEMA5C); (Z_29_2_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 18631 |
+| Not NA | 18631 |
 | NA | 57485 |
 
 
@@ -7239,6 +7725,7 @@ Z_29_2_5:SKJEMA5E; (Z_29_2_5:SKJEMA5D); (Z_29_2_5:SKJEMA5C); (Z_29_2_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 21418 |
+| Not NA | 21418 |
 | NA | 54698 |
 
 
@@ -7249,6 +7736,7 @@ Z_29_3_2:SKJEMA5E; (Z_29_3_2:SKJEMA5D); (Z_29_3_2:SKJEMA5C); (Z_29_3_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3526 |
+| Not NA | 3526 |
 | NA | 72590 |
 
 
@@ -7259,6 +7747,7 @@ Z_29_3_3:SKJEMA5E; (Z_29_3_3:SKJEMA5D); (Z_29_3_3:SKJEMA5C); (Z_29_3_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 5709 |
+| Not NA | 5709 |
 | NA | 70407 |
 
 
@@ -7269,6 +7758,7 @@ Z_29_3_4:SKJEMA5E; (Z_29_3_4:SKJEMA5D); (Z_29_3_4:SKJEMA5C); (Z_29_3_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 8593 |
+| Not NA | 8593 |
 | NA | 67523 |
 
 
@@ -7279,6 +7769,7 @@ Z_29_3_5:SKJEMA5E; (Z_29_3_5:SKJEMA5D); (Z_29_3_5:SKJEMA5C); (Z_29_3_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 11049 |
+| Not NA | 11049 |
 | NA | 65067 |
 
 
@@ -7289,6 +7780,7 @@ Z_29_4_2:SKJEMA5E; (Z_29_4_2:SKJEMA5D); (Z_29_4_2:SKJEMA5C); (Z_29_4_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 1569 |
+| Not NA | 1569 |
 | NA | 74547 |
 
 
@@ -7299,6 +7791,7 @@ Z_29_4_3:SKJEMA5E; (Z_29_4_3:SKJEMA5D); (Z_29_4_3:SKJEMA5C); (Z_29_4_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 2519 |
+| Not NA | 2519 |
 | NA | 73597 |
 
 
@@ -7309,6 +7802,7 @@ Z_29_4_4:SKJEMA5E; (Z_29_4_4:SKJEMA5D); (Z_29_4_4:SKJEMA5C); (Z_29_4_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 3782 |
+| Not NA | 3782 |
 | NA | 72334 |
 
 
@@ -7319,6 +7813,7 @@ Z_29_4_5:SKJEMA5E; (Z_29_4_5:SKJEMA5D); (Z_29_4_5:SKJEMA5C); (Z_29_4_5:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 5247 |
+| Not NA | 5247 |
 | NA | 70869 |
 
 
@@ -7329,6 +7824,7 @@ Z_29_5_2:SKJEMA5E; (Z_29_5_2:SKJEMA5D); (Z_29_5_2:SKJEMA5C); Age at medication 6
 | Category | n |
 | -------- | - |
 | 1 | 530 |
+| Not NA | 530 |
 | NA | 75586 |
 
 
@@ -7339,6 +7835,7 @@ Z_29_5_3:SKJEMA5E; (Z_29_5_3:SKJEMA5D); (Z_29_5_3:SKJEMA5C); Age at medication 9
 | Category | n |
 | -------- | - |
 | 1 | 878 |
+| Not NA | 878 |
 | NA | 75238 |
 
 
@@ -7349,6 +7846,7 @@ Z_29_5_4:SKJEMA5E; (Z_29_5_4:SKJEMA5D); (Z_29_5_4:SKJEMA5C); Age at medication 1
 | Category | n |
 | -------- | - |
 | 1 | 1332 |
+| Not NA | 1332 |
 | NA | 74784 |
 
 
@@ -7359,6 +7857,7 @@ Z_29_5_5:SKJEMA5E; (Z_29_5_5:SKJEMA5D); (Z_29_5_5:SKJEMA5C); Age at medication 1
 | Category | n |
 | -------- | - |
 | 1 | 1843 |
+| Not NA | 1843 |
 | NA | 74273 |
 
 
@@ -7375,6 +7874,7 @@ Z_30_1_6:SKJEMA5E; (Z_30_1_6:SKJEMA5D); (Z_30_1_4:SKJEMA5C); (Z_30_1_4:SKJEMA5B)
 | 3rd Qu. | 9450 |
 | Max. | 70000 |
 | NA's | 7214 |
+| Not NA | 68902 |
 
 
 ### EE387
@@ -7390,6 +7890,7 @@ Z_30_1_4:SKJEMA5E; (Z_30_1_4:SKJEMA5D); (Z_30_1_5:SKJEMA5C); (Z_30_1_5:SKJEMA5B)
 | 3rd Qu. | 73 |
 | Max. | 89.5 |
 | NA's | 7626 |
+| Not NA | 68490 |
 
 
 ### EE388
@@ -7405,6 +7906,7 @@ Z_30_1_5:SKJEMA5E; (Z_30_1_5:SKJEMA5D); (Z_30_1_6:SKJEMA5C); (Z_30_1_6:SKJEMA5B)
 | 3rd Qu. | 46 |
 | Max. | 78.5 |
 | NA's | 16277 |
+| Not NA | 59839 |
 
 
 ### EE392
@@ -7420,6 +7922,7 @@ Z_30_2_6:SKJEMA5E; (Z_30_2_6:SKJEMA5D); (Z_30_2_4:SKJEMA5C); (Z_30_2_4:SKJEMA5B)
 | 3rd Qu. | 10635 |
 | Max. | 90054 |
 | NA's | 7464 |
+| Not NA | 68652 |
 
 
 ### EE393
@@ -7435,6 +7938,7 @@ Z_30_2_4:SKJEMA5E; (Z_30_2_4:SKJEMA5D); (Z_30_2_5:SKJEMA5C); (Z_30_2_5:SKJEMA5B)
 | 3rd Qu. | 78 |
 | Max. | 96.6 |
 | NA's | 7697 |
+| Not NA | 68419 |
 
 
 ### EE394
@@ -7450,6 +7954,7 @@ Z_30_2_5:SKJEMA5E; (Z_30_2_5:SKJEMA5D); (Z_30_2_6:SKJEMA5C); (Z_30_2_6:SKJEMA5B)
 | 3rd Qu. | 47.8 |
 | Max. | 97 |
 | NA's | 17939 |
+| Not NA | 58177 |
 
 
 ### EE398
@@ -7465,6 +7970,7 @@ Z_30_3_5:SKJEMA5E; (Z_30_3_5:SKJEMA5D); (Z_30_3_4:SKJEMA5C); (Z_30_3_4:SKJEMA5B)
 | 3rd Qu. | 11680 |
 | Max. | 20090 |
 | NA's | 10735 |
+| Not NA | 65381 |
 
 
 ### EE399
@@ -7480,6 +7986,7 @@ Z_30_3_4:SKJEMA5E; (Z_30_3_4:SKJEMA5D); (Z_30_3_5:SKJEMA5C); (Z_30_3_5:SKJEMA5B)
 | 3rd Qu. | 82.5 |
 | Max. | 102.3 |
 | NA's | 11895 |
+| Not NA | 64221 |
 
 
 ### Q5_AGE_8_M
@@ -7495,6 +8002,7 @@ Q5_AGE_8_M:SKJEMA5E; (Q5_AGE_8_M:SKJEMA5D); (Q5_AGE_8_M:SKJEMA5C); (Q5_AGE_8_M:S
 | 3rd Qu. | 261 |
 | Max. | 1724 |
 | NA's | 7519 |
+| Not NA | 68597 |
 
 
 ### Q5_AGE_1_Y
@@ -7510,6 +8018,7 @@ Q5_AGE_1_Y:SKJEMA5E; (Q5_AGE_1_Y:SKJEMA5D); (Q5_AGE_1_Y:SKJEMA5C); (Q5_AGE_1_Y:S
 | 3rd Qu. | 377 |
 | Max. | 13511 |
 | NA's | 7838 |
+| Not NA | 68278 |
 
 
 ### Q5_AGE_15_18_M
@@ -7525,6 +8034,7 @@ Q5_AGE_15_18_M:SKJEMA5E; (Q5_AGE_15_18_M:SKJEMA5D); (Q5_AGE_15_18_M:SKJEMA5C); (
 | 3rd Qu. | 513 |
 | Max. | 5310 |
 | NA's | 11164 |
+| Not NA | 64952 |
 
 
 ### EE400
@@ -7553,6 +8063,7 @@ Z_31_1:SKJEMA5B; (Z_32_1:SKJEMA5A); Age in months; 31. How old was the child whe
 | 27 | 1 |
 | 21 | 1 |
 | 5 | 1 |
+| Not NA | 17508 |
 | NA | 58608 |
 
 
@@ -7563,6 +8074,7 @@ Z_31_2:SKJEMA5B; (Z_32_2:SKJEMA5A); Does not yet walk unsupported; 31. How old w
 | Category | n |
 | -------- | - |
 | 1 | 299 |
+| Not NA | 299 |
 | NA | 75817 |
 
 
@@ -7576,6 +8088,7 @@ Z_32_1:SKJEMA5B; (Z_33_1:SKJEMA5A); When the child wants something, does he/she 
 | Sometimes | 1111 |
 | Not Yet | 108 |
 | More than 1 check box filled in | 7 |
+| Not NA | 17762 |
 | NA | 58354 |
 
 
@@ -7589,6 +8102,7 @@ Z_32_1:SKJEMA5E; (Z_32_1:SKJEMA5D); (Z_32_1:SKJEMA5C); (Z_32_2:SKJEMA5B); (Z_33_
 | Yes | 61821 |
 | Not Yet | 2266 |
 | More than 1 check box filled in | 38 |
+| Not NA | 75524 |
 | NA | 592 |
 
 
@@ -7602,6 +8116,7 @@ Z_32_2:SKJEMA5E; (Z_32_2:SKJEMA5D); (Z_32_2:SKJEMA5C); (Z_32_3:SKJEMA5B); (Z_33_
 | Not Yet | 19678 |
 | Sometimes | 5734 |
 | More than 1 check box filled in | 34 |
+| Not NA | 75315 |
 | NA | 801 |
 
 
@@ -7615,6 +8130,7 @@ Z_32_3:SKJEMA5E; (Z_32_3:SKJEMA5D); (Z_32_3:SKJEMA5C); (Z_32_4:SKJEMA5B); (Z_33_
 | Yes | 47936 |
 | Not Yet | 7098 |
 | More than 1 check box filled in | 23 |
+| Not NA | 75080 |
 | NA | 1036 |
 
 
@@ -7628,6 +8144,7 @@ Z_32_4:SKJEMA5E; (Z_32_4:SKJEMA5D); (Z_32_4:SKJEMA5C); (Z_32_5:SKJEMA5B); (Z_33_
 | Sometimes | 838 |
 | Not Yet | 1110 |
 | More than 1 check box filled in | 5 |
+| Not NA | 75474 |
 | NA | 642 |
 
 
@@ -7641,6 +8158,7 @@ Z_32_5:SKJEMA5E; (Z_32_5:SKJEMA5D); (Z_32_5:SKJEMA5C); (Z_32_6:SKJEMA5B); (Z_33_
 | Sometimes | 1421 |
 | Not Yet | 1707 |
 | More than 1 check box filled in | 14 |
+| Not NA | 75573 |
 | NA | 543 |
 
 
@@ -7654,6 +8172,7 @@ Z_32_6:SKJEMA5E; (Z_32_6:SKJEMA5D); (Z_32_6:SKJEMA5C); (Z_32_7:SKJEMA5B); (Z_33_
 | Sometimes | 6414 |
 | Not Yet | 5597 |
 | More than 1 check box filled in | 25 |
+| Not NA | 75389 |
 | NA | 727 |
 
 
@@ -7667,6 +8186,7 @@ Z_32_7:SKJEMA5E; (Z_32_7:SKJEMA5D); (Z_32_7:SKJEMA5C); (Z_32_8:SKJEMA5B); (Z_33_
 | Sometimes | 6803 |
 | Not Yet | 5906 |
 | More than 1 check box filled in | 17 |
+| Not NA | 74911 |
 | NA | 1205 |
 
 
@@ -7680,6 +8200,7 @@ Z_32_8:SKJEMA5E; (Z_32_8:SKJEMA5D); (Z_32_8:SKJEMA5C); (Z_32_9:SKJEMA5B); (Z_33_
 | Sometimes | 6977 |
 | Not Yet | 2252 |
 | More than 1 check box filled in | 5 |
+| Not NA | 75164 |
 | NA | 952 |
 
 
@@ -7693,6 +8214,7 @@ Z_32_9:SKJEMA5E; (Z_32_9:SKJEMA5D); (Z_32_9:SKJEMA5C); (Z_3210:SKJEMA5B); (Z_331
 | Sometimes | 1302 |
 | Not Yet | 259 |
 | More than 1 check box filled in | 8 |
+| Not NA | 75470 |
 | NA | 646 |
 
 
@@ -7706,6 +8228,7 @@ Z_3210:SKJEMA5E; (Z_3210:SKJEMA5D); (Z_3210:SKJEMA5C); (Z_3211:SKJEMA5B); (Z_331
 | Not Yet | 1962 |
 | Sometimes | 8516 |
 | More than 1 check box filled in | 17 |
+| Not NA | 75268 |
 | NA | 848 |
 
 
@@ -7719,6 +8242,7 @@ Z_3211:SKJEMA5E; (Z_3211:SKJEMA5D); (Z_3211:SKJEMA5C); (Z_3212:SKJEMA5B); (Z_331
 | Sometimes | 5761 |
 | Not Yet | 1955 |
 | More than 1 check box filled in | 10 |
+| Not NA | 75451 |
 | NA | 665 |
 
 
@@ -7732,6 +8256,7 @@ Z_3212:SKJEMA5E; (Z_3212:SKJEMA5D); (Z_3212:SKJEMA5C); (Z_3213:SKJEMA5B); (Z_331
 | Sometimes | 6658 |
 | Not Yet | 1439 |
 | More than 1 check box filled in | 17 |
+| Not NA | 75490 |
 | NA | 626 |
 
 
@@ -7745,6 +8270,7 @@ Z_3213:SKJEMA5E; (Z_3213:SKJEMA5D); (Z_3213:SKJEMA5C); (Z_3214:SKJEMA5B); (Z_331
 | Sometimes | 3298 |
 | Not Yet | 624 |
 | More than 1 check box filled in | 11 |
+| Not NA | 75548 |
 | NA | 568 |
 
 
@@ -7757,6 +8283,7 @@ Z_31_1:SKJEMA5E; (Z_31_1:SKJEMA5D); (Z_31_1:SKJEMA5C); ; 31. Can your child walk
 | Yes | 56572 |
 | No | 1439 |
 | More than 1 check box filled in | 6 |
+| Not NA | 58017 |
 | NA | 18099 |
 
 
@@ -7773,6 +8300,7 @@ Z_31_2:SKJEMA5E; (Z_31_2:SKJEMA5D); (Z_31_2:SKJEMA5C); If yes, how old was your 
 | 3rd Qu. | 14 |
 | Max. | 36 |
 | NA's | 19329 |
+| Not NA | 56787 |
 
 
 ### EE874
@@ -7785,6 +8313,7 @@ Z_33_1:SKJEMA5E; (Z_33_1:SKJEMA5D); (Z_33_1:SKJEMA5C); (Z_33_1:SKJEMA5B); Does y
 | Very seldom | 608 |
 | Not Yet | 211 |
 | More than 1 check box filled in | 1 |
+| Not NA | 70603 |
 | NA | 5513 |
 
 
@@ -7798,6 +8327,7 @@ Z_33_2:SKJEMA5E; (Z_33_2:SKJEMA5D); (Z_33_2:SKJEMA5C); (Z_33_2:SKJEMA5B); When y
 | Very seldom | 1692 |
 | Not Yet | 524 |
 | More than 1 check box filled in | 3 |
+| Not NA | 70190 |
 | NA | 5926 |
 
 
@@ -7811,6 +8341,7 @@ Z_33_3:SKJEMA5E; (Z_33_3:SKJEMA5D); (Z_33_3:SKJEMA5C); (Z_33_3:SKJEMA5B); When y
 | Very seldom | 4343 |
 | Not Yet | 1841 |
 | More than 1 check box filled in | 16 |
+| Not NA | 70206 |
 | NA | 5910 |
 
 
@@ -7824,6 +8355,7 @@ Z_33_4:SKJEMA5E; (Z_33_4:SKJEMA5D); (Z_33_4:SKJEMA5C); Does your child show you 
 | Very seldom | 2717 |
 | Not Yet | 712 |
 | More than 1 check box filled in | 2 |
+| Not NA | 57486 |
 | NA | 18630 |
 
 
@@ -7839,6 +8371,7 @@ Z_34_1:SKJEMA5E; (Z_34_1:SKJEMA5D); (Z_34_1:SKJEMA5C); (Z_34_1:SKJEMA5B); (Z_34_
 | Quite typical | 3805 |
 | Very typical | 1127 |
 | More than 1 check box filled in | 20 |
+| Not NA | 75208 |
 | NA | 908 |
 
 
@@ -7854,6 +8387,7 @@ Z_34_2:SKJEMA5E; (Z_34_2:SKJEMA5D); (Z_34_2:SKJEMA5C); (Z_34_2:SKJEMA5B); (Z_34_
 | Not so typical | 1122 |
 | Not at all typical | 249 |
 | More than 1 check box filled in | 31 |
+| Not NA | 75491 |
 | NA | 625 |
 
 
@@ -7869,6 +8403,7 @@ Z_34_3:SKJEMA5E; (Z_34_3:SKJEMA5D); (Z_34_3:SKJEMA5C); (Z_34_3:SKJEMA5B); (Z_34_
 | Not so typical | 6186 |
 | Not at all typical | 1233 |
 | More than 1 check box filled in | 49 |
+| Not NA | 75368 |
 | NA | 748 |
 
 
@@ -7884,6 +8419,7 @@ Z_34_4:SKJEMA5E; (Z_34_4:SKJEMA5D); (Z_34_4:SKJEMA5C); (Z_34_4:SKJEMA5B); (Z_34_
 | Not at all typical | 847 |
 | Neither/nor | 13956 |
 | More than 1 check box filled in | 30 |
+| Not NA | 75427 |
 | NA | 689 |
 
 
@@ -7899,6 +8435,7 @@ Z_34_5:SKJEMA5E; (Z_34_5:SKJEMA5D); (Z_34_5:SKJEMA5C); (Z_34_5:SKJEMA5B); (Z_34_
 | Not so typical | 410 |
 | More than 1 check box filled in | 152 |
 | Not at all typical | 85 |
+| Not NA | 75511 |
 | NA | 605 |
 
 
@@ -7914,6 +8451,7 @@ Z_34_6:SKJEMA5E; (Z_34_6:SKJEMA5D); (Z_34_6:SKJEMA5C); (Z_34_6:SKJEMA5B); (Z_34_
 | Quite typical | 4762 |
 | Very typical | 1097 |
 | More than 1 check box filled in | 69 |
+| Not NA | 75447 |
 | NA | 669 |
 
 
@@ -7929,6 +8467,7 @@ Z_34_7:SKJEMA5E; (Z_34_7:SKJEMA5D); (Z_34_7:SKJEMA5C); (Z_34_7:SKJEMA5B); (Z_34_
 | Very typical | 2828 |
 | Not at all typical | 8222 |
 | More than 1 check box filled in | 35 |
+| Not NA | 75298 |
 | NA | 818 |
 
 
@@ -7944,6 +8483,7 @@ Z_34_8:SKJEMA5E; (Z_34_8:SKJEMA5D); (Z_34_8:SKJEMA5C); (Z_34_8:SKJEMA5B); (Z_34_
 | Quite typical | 1833 |
 | Very typical | 341 |
 | More than 1 check box filled in | 38 |
+| Not NA | 75300 |
 | NA | 816 |
 
 
@@ -7959,6 +8499,7 @@ Z_34_9:SKJEMA5E; (Z_34_9:SKJEMA5D); (Z_34_9:SKJEMA5C); (Z_34_9:SKJEMA5B); (Z_34_
 | Not so typical | 169 |
 | More than 1 check box filled in | 85 |
 | Not at all typical | 71 |
+| Not NA | 75398 |
 | NA | 718 |
 
 
@@ -7974,6 +8515,7 @@ Z_3410:SKJEMA5E; (Z_3410:SKJEMA5D); (Z_3410:SKJEMA5C); (Z_3410:SKJEMA5B); (Z_341
 | Quite typical | 24390 |
 | Not so typical | 13744 |
 | More than 1 check box filled in | 41 |
+| Not NA | 75008 |
 | NA | 1108 |
 
 
@@ -7989,6 +8531,7 @@ Z_3411:SKJEMA5E; (Z_3411:SKJEMA5D); (Z_3411:SKJEMA5C); (Z_3411:SKJEMA5B); (Z_341
 | Not so typical | 5058 |
 | Not at all typical | 1328 |
 | More than 1 check box filled in | 59 |
+| Not NA | 75379 |
 | NA | 737 |
 
 
@@ -8004,6 +8547,7 @@ Z_3412:SKJEMA5E; (Z_3412:SKJEMA5D); (Z_3412:SKJEMA5C); (Z_3412:SKJEMA5B); Your c
 | Quite typical | 4216 |
 | Very typical | 869 |
 | More than 1 check box filled in | 20 |
+| Not NA | 70298 |
 | NA | 5818 |
 
 
@@ -8019,6 +8563,7 @@ Z_3413:SKJEMA5E; (Z_3413:SKJEMA5D); (Z_3413:SKJEMA5C); (Z_3413:SKJEMA5B); Your c
 | Not at all typical | 14074 |
 | Very typical | 6995 |
 | More than 1 check box filled in | 28 |
+| Not NA | 70537 |
 | NA | 5579 |
 
 
@@ -8030,6 +8575,7 @@ Z_35_1:SKJEMA5A; Does your child enjoy being swung, bounced on your knee, etc; 3
 | -------- | - |
 | Yes | 4911 |
 | No | 37 |
+| Not NA | 4948 |
 | NA | 71168 |
 
 
@@ -8042,6 +8588,7 @@ Z_36_9:SKJEMA5E; (Z_36_9:SKJEMA5D); (Z_36_9:SKJEMA5C); (Z_36_2:SKJEMA5B); (Z_35_
 | Yes | 74611 |
 | No | 941 |
 | More than 1 check box filled in | 2 |
+| Not NA | 75554 |
 | NA | 562 |
 
 
@@ -8054,6 +8601,7 @@ Z_36_3:SKJEMA5E; (Z_36_3:SKJEMA5D); (Z_36_3:SKJEMA5C); (Z_36_3:SKJEMA5B); (Z_35_
 | Yes | 74947 |
 | No | 689 |
 | More than 1 check box filled in | 4 |
+| Not NA | 75640 |
 | NA | 476 |
 
 
@@ -8065,6 +8613,7 @@ Z_35_4:SKJEMA5A; Does your child enjoy playing peek-a-boo/hide-and-seek?; 35. Mo
 | -------- | - |
 | Yes | 4887 |
 | No | 54 |
+| Not NA | 4941 |
 | NA | 71175 |
 
 
@@ -8077,6 +8626,7 @@ Z_36_5:SKJEMA5E; (Z_36_5:SKJEMA5D); (Z_36_5:SKJEMA5C); (Z_36_5:SKJEMA5B); (Z_35_
 | Yes | 72765 |
 | No | 2816 |
 | More than 1 check box filled in | 6 |
+| Not NA | 75587 |
 | NA | 529 |
 
 
@@ -8089,6 +8639,7 @@ Z_36_6:SKJEMA5B; (Z_35_6:SKJEMA5A); Does your child ever use his/her index finge
 | Yes | 17231 |
 | No | 464 |
 | More than 1 check box filled in | 2 |
+| Not NA | 17697 |
 | NA | 58419 |
 
 
@@ -8101,6 +8652,7 @@ Z_36_8:SKJEMA5E; (Z_36_8:SKJEMA5D); (Z_36_8:SKJEMA5C); (Z_36_7:SKJEMA5B); (Z_35_
 | Yes | 74454 |
 | No | 1061 |
 | More than 1 check box filled in | 9 |
+| Not NA | 75524 |
 | NA | 592 |
 
 
@@ -8113,6 +8665,7 @@ Z_36_2:SKJEMA5E; (Z_36_2:SKJEMA5D); (Z_36_2:SKJEMA5C); (Z_36_8:SKJEMA5B); (Z_35_
 | Yes | 75311 |
 | No | 289 |
 | More than 1 check box filled in | 5 |
+| Not NA | 75605 |
 | NA | 511 |
 
 
@@ -8125,6 +8678,7 @@ Z_3613:SKJEMA5E; (Z_3613:SKJEMA5D); (Z_3613:SKJEMA5C); (Z_36_4:SKJEMA5B); Does y
 | Yes | 65831 |
 | No | 4451 |
 | More than 1 check box filled in | 17 |
+| Not NA | 70299 |
 | NA | 5817 |
 
 
@@ -8137,6 +8691,7 @@ Z_3617:SKJEMA5E; (Z_3617:SKJEMA5D); (Z_3617:SKJEMA5C); (Z_36_9:SKJEMA5B); Does y
 | No | 64315 |
 | Yes | 5583 |
 | More than 1 check box filled in | 19 |
+| Not NA | 69917 |
 | NA | 6199 |
 
 
@@ -8149,6 +8704,7 @@ Z_3618:SKJEMA5E; (Z_3618:SKJEMA5D); (Z_3618:SKJEMA5C); (Z_3610:SKJEMA5B); Does y
 | Yes | 68035 |
 | No | 2212 |
 | More than 1 check box filled in | 10 |
+| Not NA | 70257 |
 | NA | 5859 |
 
 
@@ -8161,6 +8717,7 @@ Z_3615:SKJEMA5E; (Z_3615:SKJEMA5D); (Z_3615:SKJEMA5C); (Z_3611:SKJEMA5B); If you
 | Yes | 67690 |
 | No | 2560 |
 | More than 1 check box filled in | 40 |
+| Not NA | 70290 |
 | NA | 5826 |
 
 
@@ -8173,6 +8730,7 @@ Z_3621:SKJEMA5E; (Z_3621:SKJEMA5D); (Z_3621:SKJEMA5C); (Z_3612:SKJEMA5B); Does y
 | No | 59887 |
 | Yes | 10222 |
 | More than 1 check box filled in | 42 |
+| Not NA | 70151 |
 | NA | 5965 |
 
 
@@ -8185,6 +8743,7 @@ Z_3511:SKJEMA5E; (Z_3511:SKJEMA5D); (Z_3511:SKJEMA5C); (Z_3613:SKJEMA5B); Has yo
 | No | 54761 |
 | Yes | 15164 |
 | More than 1 check box filled in | 26 |
+| Not NA | 69951 |
 | NA | 6165 |
 
 
@@ -8197,6 +8756,7 @@ Z_3512:SKJEMA5E; (Z_3512:SKJEMA5D); (Z_3512:SKJEMA5C); (Z_3614:SKJEMA5B); Does y
 | Yes | 62859 |
 | No | 7396 |
 | More than 1 check box filled in | 42 |
+| Not NA | 70297 |
 | NA | 5819 |
 
 
@@ -8209,6 +8769,7 @@ Z_35_1:SKJEMA5E; (Z_35_1:SKJEMA5D); (Z_35_1:SKJEMA5C); (Z_35_1:SKJEMA5B); Is you
 | Yes | 70165 |
 | No | 473 |
 | More than 1 check box filled in | 3 |
+| Not NA | 70641 |
 | NA | 5475 |
 
 
@@ -8221,6 +8782,7 @@ Z_35_2:SKJEMA5B; When your child expresses his/her feelings, for instance by cry
 | Yes | 12784 |
 | No | 34 |
 | More than 1 check box filled in | 2 |
+| Not NA | 12820 |
 | NA | 63296 |
 
 
@@ -8233,6 +8795,7 @@ Z_35_3:SKJEMA5E; (Z_35_3:SKJEMA5D); (Z_35_3:SKJEMA5C); (Z_35_3:SKJEMA5B); Does y
 | Yes | 70506 |
 | No | 135 |
 | More than 1 check box filled in | 3 |
+| Not NA | 70644 |
 | NA | 5472 |
 
 
@@ -8245,6 +8808,7 @@ Z_35_4:SKJEMA5E; (Z_35_4:SKJEMA5D); (Z_35_4:SKJEMA5C); (Z_35_4:SKJEMA5B); Can yo
 | Yes | 70320 |
 | No | 245 |
 | More than 1 check box filled in | 7 |
+| Not NA | 70572 |
 | NA | 5544 |
 
 
@@ -8257,6 +8821,7 @@ Z_35_5:SKJEMA5B; Is it easy to make eye contact with your child?; 35. About your
 | Yes | 12749 |
 | No | 71 |
 | More than 1 check box filled in | 2 |
+| Not NA | 12822 |
 | NA | 63294 |
 
 
@@ -8269,6 +8834,7 @@ Z_35_5:SKJEMA5E; (Z_35_5:SKJEMA5D); (Z_35_5:SKJEMA5C); (Z_35_6:SKJEMA5B); When y
 | Yes | 64562 |
 | No | 5849 |
 | More than 1 check box filled in | 31 |
+| Not NA | 70442 |
 | NA | 5674 |
 
 
@@ -8281,6 +8847,7 @@ Z_35_7:SKJEMA5B; Is the behaviour of your child without stereotyped repetitive m
 | No | 11449 |
 | Yes | 1349 |
 | More than 1 check box filled in | 7 |
+| Not NA | 12805 |
 | NA | 63311 |
 
 
@@ -8292,6 +8859,7 @@ Z_35_8:SKJEMA5B; Does your child, on his/her own accord, ever bring objects over
 | -------- | - |
 | Yes | 12698 |
 | No | 98 |
+| Not NA | 12796 |
 | NA | 63320 |
 
 
@@ -8303,6 +8871,7 @@ Z_35_9:SKJEMA5B; Does your child seem to be interested in other children or adul
 | -------- | - |
 | Yes | 12805 |
 | No | 18 |
+| Not NA | 12823 |
 | NA | 63293 |
 
 
@@ -8315,6 +8884,7 @@ Z_3510:SKJEMA5B; Does your child like to be cuddled?; 35. About your child`s beh
 | Yes | 12615 |
 | No | 191 |
 | More than 1 check box filled in | 12 |
+| Not NA | 12818 |
 | NA | 63298 |
 
 
@@ -8326,6 +8896,7 @@ Z_3511:SKJEMA5B; Does your child ever smile at you or at other people?; 35. Abou
 | -------- | - |
 | Yes | 12815 |
 | No | 3 |
+| Not NA | 12818 |
 | NA | 63298 |
 
 
@@ -8338,6 +8909,7 @@ Z_35_9:SKJEMA5E; (Z_35_9:SKJEMA5D); (Z_35_9:SKJEMA5C); (Z_3512:SKJEMA5B); Does y
 | Yes | 70353 |
 | No | 211 |
 | More than 1 check box filled in | 9 |
+| Not NA | 70573 |
 | NA | 5543 |
 
 
@@ -8350,6 +8922,7 @@ Z_3510:SKJEMA5E; (Z_3510:SKJEMA5D); (Z_3510:SKJEMA5C); (Z_3513:SKJEMA5B); Does y
 | Yes | 51342 |
 | No | 18110 |
 | More than 1 check box filled in | 39 |
+| Not NA | 69491 |
 | NA | 6625 |
 
 
@@ -8362,6 +8935,7 @@ Z_3620:SKJEMA5E; (Z_3620:SKJEMA5D); (Z_3620:SKJEMA5C); (Z_3514:SKJEMA5B); Does y
 | Yes | 69667 |
 | No | 822 |
 | More than 1 check box filled in | 21 |
+| Not NA | 70510 |
 | NA | 5606 |
 
 
@@ -8374,6 +8948,7 @@ Z_3611:SKJEMA5E; (Z_3611:SKJEMA5D); (Z_3611:SKJEMA5C); (Z_3515:SKJEMA5B); Does y
 | No | 61792 |
 | Yes | 8656 |
 | More than 1 check box filled in | 30 |
+| Not NA | 70478 |
 | NA | 5638 |
 
 
@@ -8386,6 +8961,7 @@ Z_3614:SKJEMA5E; (Z_3614:SKJEMA5D); (Z_3614:SKJEMA5C); (Z_3516:SKJEMA5B); Does y
 | Yes | 70317 |
 | No | 313 |
 | More than 1 check box filled in | 13 |
+| Not NA | 70643 |
 | NA | 5473 |
 
 
@@ -8398,6 +8974,7 @@ Z_3622:SKJEMA5E; (Z_3622:SKJEMA5D); (Z_3622:SKJEMA5C); (Z_3517:SKJEMA5B); Does y
 | Yes | 62399 |
 | No | 7300 |
 | More than 1 check box filled in | 55 |
+| Not NA | 69754 |
 | NA | 6362 |
 
 
@@ -8409,6 +8986,7 @@ Z_36_1:SKJEMA5B; Does your child like playing games with others, such as peek-a-
 | -------- | - |
 | Yes | 12794 |
 | No | 30 |
+| Not NA | 12824 |
 | NA | 63292 |
 
 
@@ -8421,6 +8999,7 @@ Z_35_6:SKJEMA5E; (Z_35_6:SKJEMA5D); (Z_35_6:SKJEMA5C); Is your child`s behaviour
 | Yes | 45903 |
 | No | 11416 |
 | More than 1 check box filled in | 13 |
+| Not NA | 57332 |
 | NA | 18784 |
 
 
@@ -8433,6 +9012,7 @@ Z_35_7:SKJEMA5E; (Z_35_7:SKJEMA5D); (Z_35_7:SKJEMA5C); Does your child like to b
 | Yes | 57090 |
 | No | 589 |
 | More than 1 check box filled in | 31 |
+| Not NA | 57710 |
 | NA | 18406 |
 
 
@@ -8445,6 +9025,7 @@ Z_35_8:SKJEMA5E; (Z_35_8:SKJEMA5D); (Z_35_8:SKJEMA5C); Does your child ever laug
 | Yes | 57358 |
 | No | 311 |
 | More than 1 check box filled in | 9 |
+| Not NA | 57678 |
 | NA | 18438 |
 
 
@@ -8457,6 +9038,7 @@ Z_36_4:SKJEMA5E; (Z_36_4:SKJEMA5D); (Z_36_4:SKJEMA5C); Does your child enjoy pla
 | Yes | 57494 |
 | No | 346 |
 | More than 1 check box filled in | 2 |
+| Not NA | 57842 |
 | NA | 18274 |
 
 
@@ -8469,6 +9051,7 @@ Z_36_7:SKJEMA5E; (Z_36_7:SKJEMA5D); (Z_36_7:SKJEMA5C); Does your child ever use 
 | Yes | 55642 |
 | No | 1923 |
 | More than 1 check box filled in | 4 |
+| Not NA | 57569 |
 | NA | 18547 |
 
 
@@ -8481,6 +9064,7 @@ Z_36_6:SKJEMA5E; (Z_36_6:SKJEMA5D); (Z_36_6:SKJEMA5C); Does your child ever use 
 | Yes | 55463 |
 | No | 2268 |
 | More than 1 check box filled in | 6 |
+| Not NA | 57737 |
 | NA | 18379 |
 
 
@@ -8492,6 +9076,7 @@ Z_3612:SKJEMA5E; (Z_3612:SKJEMA5D); (Z_3612:SKJEMA5C); Does your child smile in 
 | -------- | - |
 | Yes | 57661 |
 | No | 110 |
+| Not NA | 57771 |
 | NA | 18345 |
 
 
@@ -8504,6 +9089,7 @@ Z_3616:SKJEMA5E; (Z_3616:SKJEMA5D); (Z_3616:SKJEMA5C); Does your child look at t
 | Yes | 56453 |
 | No | 1145 |
 | More than 1 check box filled in | 21 |
+| Not NA | 57619 |
 | NA | 18497 |
 
 
@@ -8516,6 +9102,7 @@ Z_3619:SKJEMA5E; (Z_3619:SKJEMA5D); (Z_3619:SKJEMA5C); Have you ever wondered if
 | No | 56970 |
 | Yes | 809 |
 | More than 1 check box filled in | 7 |
+| Not NA | 57786 |
 | NA | 18330 |
 
 
@@ -8528,6 +9115,7 @@ Z_35_2:SKJEMA5E; (Z_35_2:SKJEMA5D); (Z_35_2:SKJEMA5C); When your child expresses
 | Yes | 57484 |
 | No | 342 |
 | More than 1 check box filled in | 16 |
+| Not NA | 57842 |
 | NA | 18274 |
 
 
@@ -8540,6 +9128,7 @@ Z_36_1:SKJEMA5E; (Z_36_1:SKJEMA5D); (Z_36_1:SKJEMA5C); Does your child enjoy bei
 | Yes | 57439 |
 | No | 381 |
 | More than 1 check box filled in | 4 |
+| Not NA | 57824 |
 | NA | 18292 |
 
 
@@ -8552,6 +9141,7 @@ Z_3610:SKJEMA5E; (Z_3610:SKJEMA5D); (Z_3610:SKJEMA5C); Does your child look you 
 | Yes | 56379 |
 | No | 1192 |
 | More than 1 check box filled in | 10 |
+| Not NA | 57581 |
 | NA | 18535 |
 
 
@@ -8565,6 +9155,7 @@ Z_37_1:SKJEMA5E; (Z_37_1:SKJEMA5D); (Z_37_1:SKJEMA5C); (Z_37_1:SKJEMA5B); (Z_36_
 | Somewhat or sometimes true | 24548 |
 | Very true or often true | 2673 |
 | More than 1 check box filled in | 17 |
+| Not NA | 75474 |
 | NA | 642 |
 
 
@@ -8578,6 +9169,7 @@ Z_36_2:SKJEMA5A; Your child is easily distracted; 36. More on the childs behavio
 | Very true | 1768 |
 | Not true | 385 |
 | More than 1 check box filled in | 5 |
+| Not NA | 4919 |
 | NA | 71197 |
 
 
@@ -8591,6 +9183,7 @@ Z_36_3:SKJEMA5A; Your child easily loose his/her interest; 36. More on the child
 | Not true | 2176 |
 | Very true | 247 |
 | More than 1 check box filled in | 6 |
+| Not NA | 4889 |
 | NA | 71227 |
 
 
@@ -8604,6 +9197,7 @@ Z_37_6:SKJEMA5E; (Z_37_6:SKJEMA5D); (Z_37_6:SKJEMA5C); (Z_37_6:SKJEMA5B); (Z_36_
 | Somewhat or sometimes true | 35760 |
 | Very true or often true | 2868 |
 | More than 1 check box filled in | 29 |
+| Not NA | 75565 |
 | NA | 551 |
 
 
@@ -8617,6 +9211,7 @@ Z_37_7:SKJEMA5E; (Z_37_7:SKJEMA5D); (Z_37_7:SKJEMA5C); (Z_37_7:SKJEMA5B); (Z_36_
 | Somewhat or sometimes true | 18346 |
 | Very true or often true | 2052 |
 | More than 1 check box filled in | 51 |
+| Not NA | 75302 |
 | NA | 814 |
 
 
@@ -8630,6 +9225,7 @@ Z_3716:SKJEMA5E; (Z_3716:SKJEMA5D); (Z_3716:SKJEMA5C); (Z_3716:SKJEMA5B); (Z_36_
 | Very true or often true | 4388 |
 | Somewhat or sometimes true | 10836 |
 | More than 1 check box filled in | 31 |
+| Not NA | 75568 |
 | NA | 548 |
 
 
@@ -8643,6 +9239,7 @@ Z_36_7:SKJEMA5A; Your child often fights with other children; 36. More on the ch
 | Somewhat true | 1031 |
 | Very true | 108 |
 | More than 1 check box filled in | 5 |
+| Not NA | 4930 |
 | NA | 71186 |
 
 
@@ -8656,6 +9253,7 @@ Z_37_9:SKJEMA5E; (Z_37_9:SKJEMA5D); (Z_37_9:SKJEMA5C); (Z_37_9:SKJEMA5B); (Z_36_
 | Not true | 49069 |
 | Very true or often true | 1342 |
 | More than 1 check box filled in | 41 |
+| Not NA | 75645 |
 | NA | 471 |
 
 
@@ -8669,6 +9267,7 @@ Z_36_9:SKJEMA5A; Your child can be spiteful to others; 36. More on the childs be
 | Somewhat true | 399 |
 | Very true | 60 |
 | More than 1 check box filled in | 6 |
+| Not NA | 4933 |
 | NA | 71183 |
 
 
@@ -8682,6 +9281,7 @@ Z_3610:SKJEMA5A; Your child is comforting when other people are crying or feelin
 | Somewhat true | 2401 |
 | Not true | 754 |
 | More than 1 check box filled in | 5 |
+| Not NA | 4872 |
 | NA | 71244 |
 
 
@@ -8695,6 +9295,7 @@ Z_3611:SKJEMA5A; Your child tries to help children who have been hurt; 36. More 
 | Somewhat true | 2511 |
 | Not true | 1232 |
 | More than 1 check box filled in | 3 |
+| Not NA | 4811 |
 | NA | 71305 |
 
 
@@ -8708,6 +9309,7 @@ Z_3710:SKJEMA5E; (Z_3710:SKJEMA5D); (Z_3710:SKJEMA5C); (Z_3710:SKJEMA5B); (Z_361
 | Not true | 30905 |
 | Very true or often true | 4065 |
 | More than 1 check box filled in | 46 |
+| Not NA | 75463 |
 | NA | 653 |
 
 
@@ -8721,6 +9323,7 @@ Z_3711:SKJEMA5E; (Z_3711:SKJEMA5D); (Z_3711:SKJEMA5C); (Z_3711:SKJEMA5B); (Z_361
 | Very true or often true | 5075 |
 | Not true | 45741 |
 | More than 1 check box filled in | 32 |
+| Not NA | 74993 |
 | NA | 1123 |
 
 
@@ -8734,6 +9337,7 @@ Z_3712:SKJEMA5E; (Z_3712:SKJEMA5D); (Z_3712:SKJEMA5C); (Z_3712:SKJEMA5B); (Z_361
 | Somewhat or sometimes true | 24949 |
 | Very true or often true | 4242 |
 | More than 1 check box filled in | 30 |
+| Not NA | 74985 |
 | NA | 1131 |
 
 
@@ -8747,6 +9351,7 @@ Z_3615:SKJEMA5A; Your child is usually eating well; 36. More on the childs behav
 | Not true | 311 |
 | Somewhat true | 954 |
 | More than 1 check box filled in | 5 |
+| Not NA | 4928 |
 | NA | 71188 |
 
 
@@ -8760,6 +9365,7 @@ Z_3616:SKJEMA5A; Your child is very picky concerning food; 36. More on the child
 | Somewhat true | 1125 |
 | Very true | 355 |
 | More than 1 check box filled in | 5 |
+| Not NA | 4922 |
 | NA | 71194 |
 
 
@@ -8773,6 +9379,7 @@ Z_3617:SKJEMA5A; It is easy to put your child to bed, and he/she usually falls a
 | Very true | 3683 |
 | Not true | 398 |
 | More than 1 check box filled in | 7 |
+| Not NA | 4930 |
 | NA | 71186 |
 
 
@@ -8786,6 +9393,7 @@ Z_3618:SKJEMA5A; Your child does not want to sleep unless mother/father is prese
 | Not true | 3804 |
 | Very true | 583 |
 | More than 1 check box filled in | 4 |
+| Not NA | 4932 |
 | NA | 71184 |
 
 
@@ -8799,6 +9407,7 @@ Z_37_3:SKJEMA5E; (Z_37_3:SKJEMA5D); (Z_37_3:SKJEMA5C); (Z_37_3:SKJEMA5B); Can no
 | Somewhat or sometimes true | 20654 |
 | Very true or often true | 2516 |
 | More than 1 check box filled in | 23 |
+| Not NA | 70551 |
 | NA | 5565 |
 
 
@@ -8812,6 +9421,7 @@ Z_37_4:SKJEMA5E; (Z_37_4:SKJEMA5D); (Z_37_4:SKJEMA5C); (Z_37_4:SKJEMA5B); Gets i
 | Somewhat or sometimes true | 33315 |
 | Very true or often true | 9368 |
 | More than 1 check box filled in | 29 |
+| Not NA | 70238 |
 | NA | 5878 |
 
 
@@ -8825,6 +9435,7 @@ Z_37_5:SKJEMA5E; (Z_37_5:SKJEMA5D); (Z_37_5:SKJEMA5C); (Z_37_5:SKJEMA5B); Is mos
 | Somewhat or sometimes true | 2348 |
 | Not true | 299 |
 | More than 1 check box filled in | 6 |
+| Not NA | 70777 |
 | NA | 5339 |
 
 
@@ -8838,6 +9449,7 @@ Z_3715:SKJEMA5E; (Z_3715:SKJEMA5D); (Z_3715:SKJEMA5C); (Z_3715:SKJEMA5B); Resist
 | Somewhat or sometimes true | 17017 |
 | Very true or often true | 3041 |
 | More than 1 check box filled in | 27 |
+| Not NA | 70552 |
 | NA | 5564 |
 
 
@@ -8851,6 +9463,7 @@ Z_3717:SKJEMA5E; (Z_3717:SKJEMA5D); (Z_3717:SKJEMA5C); (Z_3717:SKJEMA5B); Afraid
 | Somewhat or sometimes true | 11041 |
 | Very true or often true | 895 |
 | More than 1 check box filled in | 18 |
+| Not NA | 70651 |
 | NA | 5465 |
 
 
@@ -8864,6 +9477,7 @@ Z_3718:SKJEMA5E; (Z_3718:SKJEMA5D); (Z_3718:SKJEMA5C); (Z_3718:SKJEMA5B); Distur
 | Somewhat or sometimes true | 8980 |
 | Very true or often true | 483 |
 | More than 1 check box filled in | 12 |
+| Not NA | 70641 |
 | NA | 5475 |
 
 
@@ -8877,6 +9491,7 @@ Z_3719:SKJEMA5E; (Z_3719:SKJEMA5D); (Z_3719:SKJEMA5C); (Z_3719:SKJEMA5B); Too fe
 | Somewhat or sometimes true | 1757 |
 | Very true or often true | 191 |
 | More than 1 check box filled in | 5 |
+| Not NA | 70691 |
 | NA | 5425 |
 
 
@@ -8890,6 +9505,7 @@ Z_37_2:SKJEMA5E; (Z_37_2:SKJEMA5D); (Z_37_2:SKJEMA5C); (Z_37_2:SKJEMA5B); Quickl
 | Very true or often true | 16522 |
 | Not true | 9304 |
 | More than 1 check box filled in | 36 |
+| Not NA | 70553 |
 | NA | 5563 |
 
 
@@ -8903,6 +9519,7 @@ Z_37_8:SKJEMA5E; (Z_37_8:SKJEMA5D); (Z_37_8:SKJEMA5C); (Z_37_8:SKJEMA5B); Gets i
 | Somewhat or sometimes true | 10316 |
 | Very true or often true | 1011 |
 | More than 1 check box filled in | 15 |
+| Not NA | 70659 |
 | NA | 5457 |
 
 
@@ -8916,6 +9533,7 @@ Z_3713:SKJEMA5E; (Z_3713:SKJEMA5D); (Z_3713:SKJEMA5C); (Z_3713:SKJEMA5B); Does n
 | Very true or often true | 2366 |
 | Somewhat or sometimes true | 16295 |
 | More than 1 check box filled in | 77 |
+| Not NA | 70640 |
 | NA | 5476 |
 
 
@@ -8929,6 +9547,7 @@ Z_3714:SKJEMA5E; (Z_3714:SKJEMA5D); (Z_3714:SKJEMA5C); (Z_3714:SKJEMA5B); Likes 
 | Not true | 7738 |
 | Somewhat or sometimes true | 14758 |
 | More than 1 check box filled in | 38 |
+| Not NA | 70546 |
 | NA | 5570 |
 
 
@@ -8946,6 +9565,7 @@ Z_38:SKJEMA5E; (Z_38:SKJEMA5D); (Z_38:SKJEMA5C); (Z_38:SKJEMA5B); (Z_37:SKJEMA5A
 | More than 1 check box filled in | 41 |
 | (1+2) 3 or more times every night + 1-2 times every night | 40 |
 | (3+4) A few times a week + Seldom or never | 52 |
+| Not NA | 75670 |
 | NA | 446 |
 
 
@@ -8963,6 +9583,7 @@ Z_39:SKJEMA5E; (Z_39:SKJEMA5D); (Z_39:SKJEMA5C); (Z_39:SKJEMA5B); (Z_38:SKJEMA5A
 | (3+4) 13-14 hours + 15 hours or more | 126 |
 | (1+2) 10 hours or less + 11-12 hours | 49 |
 | More than 1 check box filled in | 1 |
+| Not NA | 75602 |
 | NA | 514 |
 
 
@@ -8976,6 +9597,7 @@ Z_40_1:SKJEMA5E; (Z_40_1:SKJEMA5D); (Z_40_1:SKJEMA5C); (Z_40_1:SKJEMA5B); Are yo
 | Do not know | 489 |
 | Yes | 966 |
 | More than 1 check box filled in | 6 |
+| Not NA | 70821 |
 | NA | 5295 |
 
 
@@ -8989,6 +9611,7 @@ Z_40_2:SKJEMA5E; (Z_40_2:SKJEMA5D); (Z_40_2:SKJEMA5C); (Z_40_2:SKJEMA5B); Are yo
 | Yes | 737 |
 | Do not know | 974 |
 | More than 1 check box filled in | 8 |
+| Not NA | 70781 |
 | NA | 5335 |
 
 
@@ -9002,6 +9625,7 @@ Z_40_3:SKJEMA5E; (Z_40_3:SKJEMA5D); (Z_40_3:SKJEMA5C); (Z_40_3:SKJEMA5B); Are yo
 | Yes | 1118 |
 | Do not know | 1154 |
 | More than 1 check box filled in | 7 |
+| Not NA | 70766 |
 | NA | 5350 |
 
 
@@ -9014,6 +9638,7 @@ Z_40_4:SKJEMA5B; Have you ever wondered if your child is deaf?; 40. About your w
 | No | 12650 |
 | Yes | 175 |
 | More than 1 check box filled in | 1 |
+| Not NA | 12826 |
 | NA | 63290 |
 
 
@@ -9026,6 +9651,7 @@ Z_40_5_1:SKJEMA5E; (Z_40_5_1:SKJEMA5D); (Z_40_5_1:SKJEMA5C); (Z_40_5_1:SKJEMA5B)
 | No | 63002 |
 | Yes | 6757 |
 | More than 1 check box filled in | 22 |
+| Not NA | 69781 |
 | NA | 6335 |
 
 
@@ -9039,6 +9665,7 @@ Z_40_4:SKJEMA5E; (Z_40_4:SKJEMA5D); (Z_40_4:SKJEMA5C); Are you worried because y
 | Do not know | 208 |
 | Yes | 97 |
 | More than 1 check box filled in | 3 |
+| Not NA | 57951 |
 | NA | 18165 |
 
 
@@ -9049,6 +9676,7 @@ Z_41_1_1:SKJEMA5E; (Z_41_1_1:SKJEMA5D); (Z_41_1_1:SKJEMA5C); (Z_41_1_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 75336 |
+| Not NA | 75336 |
 | NA | 780 |
 
 
@@ -9059,6 +9687,7 @@ Z_41_1_2:SKJEMA5E; (Z_41_1_2:SKJEMA5D); (Z_41_1_2:SKJEMA5C); (Z_41_1_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 165 |
+| Not NA | 165 |
 | NA | 75951 |
 
 
@@ -9069,6 +9698,7 @@ Z_41_1_3:SKJEMA5E; (Z_41_1_3:SKJEMA5D); (Z_41_1_3:SKJEMA5C); (Z_41_1_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 93 |
+| Not NA | 93 |
 | NA | 76023 |
 
 
@@ -9079,6 +9709,7 @@ Z_41_1_4:SKJEMA5E; (Z_41_1_4:SKJEMA5D); (Z_41_1_4:SKJEMA5C); (Z_41_1_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 35 |
+| Not NA | 35 |
 | NA | 76081 |
 
 
@@ -9089,6 +9720,7 @@ Z_41_2_1:SKJEMA5E; (Z_41_2_1:SKJEMA5D); (Z_41_2_1:SKJEMA5C); (Z_41_2_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 74721 |
+| Not NA | 74721 |
 | NA | 1395 |
 
 
@@ -9099,6 +9731,7 @@ Z_41_2_2:SKJEMA5E; (Z_41_2_2:SKJEMA5D); (Z_41_2_2:SKJEMA5C); (Z_41_2_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 515 |
+| Not NA | 515 |
 | NA | 75601 |
 
 
@@ -9109,6 +9742,7 @@ Z_41_2_3:SKJEMA5E; (Z_41_2_3:SKJEMA5D); (Z_41_2_3:SKJEMA5C); (Z_41_2_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 495 |
+| Not NA | 495 |
 | NA | 75621 |
 
 
@@ -9119,6 +9753,7 @@ Z_41_2_4:SKJEMA5E; (Z_41_2_4:SKJEMA5D); (Z_41_2_4:SKJEMA5C); (Z_41_2_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 444 |
+| Not NA | 444 |
 | NA | 75672 |
 
 
@@ -9129,6 +9764,7 @@ Z_41_3_1:SKJEMA5E; (Z_41_3_1:SKJEMA5D); (Z_41_3_1:SKJEMA5C); (Z_41_3_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 66767 |
+| Not NA | 66767 |
 | NA | 9349 |
 
 
@@ -9139,6 +9775,7 @@ Z_41_3_2:SKJEMA5E; (Z_41_3_2:SKJEMA5D); (Z_41_3_2:SKJEMA5C); (Z_41_3_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 2074 |
+| Not NA | 2074 |
 | NA | 74042 |
 
 
@@ -9149,6 +9786,7 @@ Z_41_3_3:SKJEMA5E; (Z_41_3_3:SKJEMA5D); (Z_41_3_3:SKJEMA5C); (Z_41_3_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 4083 |
+| Not NA | 4083 |
 | NA | 72033 |
 
 
@@ -9159,6 +9797,7 @@ Z_41_3_4:SKJEMA5E; (Z_41_3_4:SKJEMA5D); (Z_41_3_4:SKJEMA5C); (Z_41_3_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 6579 |
+| Not NA | 6579 |
 | NA | 69537 |
 
 
@@ -9169,6 +9808,7 @@ Z_41_4_1:SKJEMA5E; (Z_41_4_1:SKJEMA5D); (Z_41_4_1:SKJEMA5C); (Z_41_4_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 35097 |
+| Not NA | 35097 |
 | NA | 41019 |
 
 
@@ -9179,6 +9819,7 @@ Z_41_4_2:SKJEMA5E; (Z_41_4_2:SKJEMA5D); (Z_41_4_2:SKJEMA5C); (Z_41_4_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 5606 |
+| Not NA | 5606 |
 | NA | 70510 |
 
 
@@ -9189,6 +9830,7 @@ Z_41_4_3:SKJEMA5E; (Z_41_4_3:SKJEMA5D); (Z_41_4_3:SKJEMA5C); (Z_41_4_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 14206 |
+| Not NA | 14206 |
 | NA | 61910 |
 
 
@@ -9199,6 +9841,7 @@ Z_41_4_4:SKJEMA5E; (Z_41_4_4:SKJEMA5D); (Z_41_4_4:SKJEMA5C); (Z_41_4_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 27697 |
+| Not NA | 27697 |
 | NA | 48419 |
 
 
@@ -9209,6 +9852,7 @@ Z_41_5_1:SKJEMA5E; (Z_41_5_1:SKJEMA5D); (Z_41_5_1:SKJEMA5C); (Z_41_5_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 24702 |
+| Not NA | 24702 |
 | NA | 51414 |
 
 
@@ -9219,6 +9863,7 @@ Z_41_5_2:SKJEMA5E; (Z_41_5_2:SKJEMA5D); (Z_41_5_2:SKJEMA5C); (Z_41_5_2:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 4482 |
+| Not NA | 4482 |
 | NA | 71634 |
 
 
@@ -9229,6 +9874,7 @@ Z_41_5_3:SKJEMA5E; (Z_41_5_3:SKJEMA5D); (Z_41_5_3:SKJEMA5C); (Z_41_5_3:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 14159 |
+| Not NA | 14159 |
 | NA | 61957 |
 
 
@@ -9239,6 +9885,7 @@ Z_41_5_4:SKJEMA5E; (Z_41_5_4:SKJEMA5D); (Z_41_5_4:SKJEMA5C); (Z_41_5_4:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 39316 |
+| Not NA | 39316 |
 | NA | 36800 |
 
 
@@ -9255,6 +9902,7 @@ Z_42:SKJEMA5E; (Z_42:SKJEMA5D); (Z_42:SKJEMA5C); (Z_42:SKJEMA5B); (Z_41:SKJEMA5A
 | 3rd Qu. | 37 |
 | Max. | 80 |
 | NA's | 7443 |
+| Not NA | 68673 |
 
 
 ### EE487
@@ -9270,6 +9918,7 @@ Z_43:SKJEMA5E; (Z_43:SKJEMA5D); (Z_43:SKJEMA5C); (Z_43:SKJEMA5B); (Z_42:SKJEMA5A
 | 3rd Qu. | 14 |
 | Max. | 99 |
 | NA's | 14583 |
+| Not NA | 61533 |
 
 
 ### EE488
@@ -9281,6 +9930,7 @@ Z_44:SKJEMA5E; (Z_44:SKJEMA5D); (Z_44:SKJEMA5C); (Z_44:SKJEMA5B); (Z_43:SKJEMA5A
 | Yes | 72469 |
 | No | 2809 |
 | More than 1 check box filled in | 9 |
+| Not NA | 75287 |
 | NA | 829 |
 
 
@@ -9296,6 +9946,7 @@ Z_45:SKJEMA5E; (Z_45:SKJEMA5D); (Z_45:SKJEMA5C); (Z_45:SKJEMA5B); (Z_44:SKJEMA5A
 | At least half the time | 454 |
 | At least once a month | 417 |
 | More than 1 check box filled in | 5 |
+| Not NA | 2801 |
 | NA | 73315 |
 
 
@@ -9318,6 +9969,7 @@ Z_46:SKJEMA5E; (Z_46:SKJEMA5D); (Z_46:SKJEMA5C); (Z_46:SKJEMA5B); (Z_45:SKJEMA5A
 | 10 | 1 |
 | 11 | 1 |
 | 99 | 1 |
+| Not NA | 74687 |
 | NA | 1429 |
 
 
@@ -9334,6 +9986,7 @@ Z_47:SKJEMA5E; (Z_47:SKJEMA5D); (Z_47:SKJEMA5C); (Z_47:SKJEMA5B); (Z_46:SKJEMA5A
 | 3rd Qu. | 170 |
 | Max. | 999 |
 | NA's | 2613 |
+| Not NA | 73503 |
 
 
 ### EE492
@@ -9343,6 +9996,7 @@ Z_50_1:SKJEMA5E; (Z_50_1:SKJEMA5D); (Z_50_1:SKJEMA5C); (Z_50_1:SKJEMA5B); (Z_47_
 | Category | n |
 | -------- | - |
 | 1 | 67978 |
+| Not NA | 67978 |
 | NA | 8138 |
 
 
@@ -9353,6 +10007,7 @@ Z_50_2:SKJEMA5E; (Z_50_2:SKJEMA5D); (Z_50_2:SKJEMA5C); (Z_50_2:SKJEMA5B); (Z_47_
 | Category | n |
 | -------- | - |
 | 1 | 4926 |
+| Not NA | 4926 |
 | NA | 71190 |
 
 
@@ -9363,6 +10018,7 @@ Z_50_3:SKJEMA5E; (Z_50_3:SKJEMA5D); (Z_50_3:SKJEMA5C); (Z_50_3:SKJEMA5B); (Z_47_
 | Category | n |
 | -------- | - |
 | 1 | 2939 |
+| Not NA | 2939 |
 | NA | 73177 |
 
 
@@ -9373,6 +10029,7 @@ Z_50_4:SKJEMA5E; (Z_50_4:SKJEMA5D); (Z_50_4:SKJEMA5C); (Z_50_4:SKJEMA5B); (Z_47_
 | Category | n |
 | -------- | - |
 | 1 | 1271 |
+| Not NA | 1271 |
 | NA | 74845 |
 
 
@@ -9385,6 +10042,7 @@ Z_48:SKJEMA5E; (Z_48:SKJEMA5D); (Z_48:SKJEMA5C); (Z_48:SKJEMA5B); ; 48. Are the 
 | No | 18909 |
 | Yes | 51516 |
 | More than 1 check box filled in | 281 |
+| Not NA | 70706 |
 | NA | 5410 |
 
 
@@ -9395,6 +10053,7 @@ Z_49_1:SKJEMA5E; (Z_49_1:SKJEMA5D); (Z_49_1:SKJEMA5C); (Z_49_1:SKJEMA5B); Living
 | Category | n |
 | -------- | - |
 | 1 | 6774 |
+| Not NA | 6774 |
 | NA | 69342 |
 
 
@@ -9405,6 +10064,7 @@ Z_49_2:SKJEMA5E; (Z_49_2:SKJEMA5D); (Z_49_2:SKJEMA5C); (Z_49_2:SKJEMA5B); Kitche
 | Category | n |
 | -------- | - |
 | 1 | 7894 |
+| Not NA | 7894 |
 | NA | 68222 |
 
 
@@ -9415,6 +10075,7 @@ Z_49_3:SKJEMA5E; (Z_49_3:SKJEMA5D); (Z_49_3:SKJEMA5C); (Z_49_3:SKJEMA5B); Child`
 | Category | n |
 | -------- | - |
 | 1 | 2528 |
+| Not NA | 2528 |
 | NA | 73588 |
 
 
@@ -9425,6 +10086,7 @@ Z_49_4:SKJEMA5E; (Z_49_4:SKJEMA5D); (Z_49_4:SKJEMA5C); (Z_49_4:SKJEMA5B); Bedroo
 | Category | n |
 | -------- | - |
 | 1 | 2099 |
+| Not NA | 2099 |
 | NA | 74017 |
 
 
@@ -9435,6 +10097,7 @@ Z_49_5:SKJEMA5E; (Z_49_5:SKJEMA5D); (Z_49_5:SKJEMA5C); (Z_49_5:SKJEMA5B); Hall; 
 | Category | n |
 | -------- | - |
 | 1 | 22413 |
+| Not NA | 22413 |
 | NA | 53703 |
 
 
@@ -9445,6 +10108,7 @@ Z_49_6:SKJEMA5E; (Z_49_6:SKJEMA5D); (Z_49_6:SKJEMA5C); (Z_49_6:SKJEMA5B); Bathro
 | Category | n |
 | -------- | - |
 | 1 | 51294 |
+| Not NA | 51294 |
 | NA | 24822 |
 
 
@@ -9455,6 +10119,7 @@ Z_49_7:SKJEMA5E; (Z_49_7:SKJEMA5D); (Z_49_7:SKJEMA5C); (Z_49_7:SKJEMA5B); Other 
 | Category | n |
 | -------- | - |
 | 1 | 3891 |
+| Not NA | 3891 |
 | NA | 72225 |
 
 
@@ -9465,6 +10130,7 @@ Z_51_1:SKJEMA5E; (Z_51_1:SKJEMA5D); (Z_51_1:SKJEMA5C); (Z_51_1:SKJEMA5B); (Z_48_
 | Category | n |
 | -------- | - |
 | 1 | 68884 |
+| Not NA | 68884 |
 | NA | 7232 |
 
 
@@ -9475,6 +10141,7 @@ Z_51_2:SKJEMA5E; (Z_51_2:SKJEMA5D); (Z_51_2:SKJEMA5C); (Z_51_2:SKJEMA5B); (Z_48_
 | Category | n |
 | -------- | - |
 | 1 | 6460 |
+| Not NA | 6460 |
 | NA | 69656 |
 
 
@@ -9485,6 +10152,7 @@ Z_51_3:SKJEMA5E; (Z_51_3:SKJEMA5D); (Z_51_3:SKJEMA5C); (Z_51_3:SKJEMA5B); (Z_48_
 | Category | n |
 | -------- | - |
 | 1 | 506 |
+| Not NA | 506 |
 | NA | 75610 |
 
 
@@ -9499,6 +10167,7 @@ Z_52:SKJEMA5E; (Z_52:SKJEMA5D); (Z_52:SKJEMA5C); (Z_52:SKJEMA5B); (Z_49:SKJEMA5A
 | Yes, but more than 100 meters away | 7467 |
 | Yes, 50-100 meters away | 3429 |
 | More than 1 check box filled in | 27 |
+| Not NA | 74034 |
 | NA | 2082 |
 
 
@@ -9511,6 +10180,7 @@ Z_50:SKJEMA5A; ; 50. Are there  pets in the child`s home?
 | No | 3533 |
 | Yes | 1420 |
 | More than 1 check box filled in | 5 |
+| Not NA | 4958 |
 | NA | 71158 |
 
 
@@ -9521,6 +10191,7 @@ Z_54_1:SKJEMA5E; (Z_54_1:SKJEMA5D); (Z_54_1:SKJEMA5C); (Z_54_1:SKJEMA5B); (Z_51_
 | Category | n |
 | -------- | - |
 | 1 | 10715 |
+| Not NA | 10715 |
 | NA | 65401 |
 
 
@@ -9531,6 +10202,7 @@ Z_54_2:SKJEMA5E; (Z_54_2:SKJEMA5D); (Z_54_2:SKJEMA5C); (Z_54_2:SKJEMA5B); (Z_51_
 | Category | n |
 | -------- | - |
 | 1 | 14949 |
+| Not NA | 14949 |
 | NA | 61167 |
 
 
@@ -9541,6 +10213,7 @@ Z_54_3:SKJEMA5E; (Z_54_3:SKJEMA5D); (Z_54_3:SKJEMA5C); (Z_54_3:SKJEMA5B); (Z_51_
 | Category | n |
 | -------- | - |
 | 1 | 3292 |
+| Not NA | 3292 |
 | NA | 72824 |
 
 
@@ -9551,6 +10224,7 @@ Z_54_4:SKJEMA5E; (Z_54_4:SKJEMA5D); (Z_54_4:SKJEMA5C); (Z_54_4:SKJEMA5B); (Z_51_
 | Category | n |
 | -------- | - |
 | 1 | 1446 |
+| Not NA | 1446 |
 | NA | 74670 |
 
 
@@ -9561,6 +10235,7 @@ Z_54_5_1:SKJEMA5E; (Z_54_5_1:SKJEMA5D); (Z_54_5_1:SKJEMA5C); (Z_54_5_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 2524 |
+| Not NA | 2524 |
 | NA | 73592 |
 
 
@@ -9576,6 +10251,7 @@ Z_55_1:SKJEMA5E; (Z_55_1:SKJEMA5D); (Z_55_1:SKJEMA5C); (Z_55_1:SKJEMA5B); (Z_52_
 | Yes, every day | 246 |
 | Do not know | 433 |
 | More than 1 check box filled in | 34 |
+| Not NA | 75750 |
 | NA | 366 |
 
 
@@ -9604,6 +10280,7 @@ Z_55_2:SKJEMA5E; (Z_55_2:SKJEMA5D); (Z_55_2:SKJEMA5C); (Z_55_2:SKJEMA5B); (Z_52_
 | 25 | 1 |
 | 14 | 1 |
 | 16 | 1 |
+| Not NA | 649 |
 | NA | 75467 |
 
 
@@ -9614,6 +10291,7 @@ Z_53_1:SKJEMA5E; (Z_53_1:SKJEMA5D); (Z_53_1:SKJEMA5C); (Z_53_1:SKJEMA5B); No; 53
 | Category | n |
 | -------- | - |
 | 1 | 47262 |
+| Not NA | 47262 |
 | NA | 28854 |
 
 
@@ -9624,6 +10302,7 @@ Z_53_2:SKJEMA5E; (Z_53_2:SKJEMA5D); (Z_53_2:SKJEMA5C); (Z_53_2:SKJEMA5B); Yes, a
 | Category | n |
 | -------- | - |
 | 1 | 20486 |
+| Not NA | 20486 |
 | NA | 55630 |
 
 
@@ -9634,6 +10313,7 @@ Z_53_3:SKJEMA5E; (Z_53_3:SKJEMA5D); (Z_53_3:SKJEMA5C); (Z_53_3:SKJEMA5B); Yes, a
 | Category | n |
 | -------- | - |
 | 1 | 5162 |
+| Not NA | 5162 |
 | NA | 70954 |
 
 
@@ -9650,6 +10330,7 @@ Z_57:SKJEMA5E; (Z_57:SKJEMA5D); (Z_56:SKJEMA5C); (Z_56:SKJEMA5B); (Z_53:SKJEMA5A
 | (1+2) Twice a day or more often + Once a day | 150 |
 | (2+3) Once a day + Sometimes | 14 |
 | (3+4) Sometimes + Never | 1 |
+| Not NA | 75825 |
 | NA | 291 |
 
 
@@ -9663,6 +10344,7 @@ Z_58:SKJEMA5E; (Z_58:SKJEMA5D); (Z_57:SKJEMA5C); (Z_57:SKJEMA5B); (Z_54:SKJEMA5A
 | Yes, usually | 68441 |
 | Sometimes | 3724 |
 | More than 1 check box filled in | 17 |
+| Not NA | 75416 |
 | NA | 700 |
 
 
@@ -9679,6 +10361,7 @@ Z_56_1:SKJEMA5E; (Z_56_1:SKJEMA5D); Number of months; 56. How many months old wa
 | 3rd Qu. | 8 |
 | Max. | 43 |
 | NA's | 46828 |
+| Not NA | 29288 |
 
 
 ### EE1013
@@ -9688,6 +10371,7 @@ Z_56_2:SKJEMA5E; (Z_56_2:SKJEMA5D); Do not remember; 56. How many months old was
 | Category | n |
 | -------- | - |
 | 1 | 4009 |
+| Not NA | 4009 |
 | NA | 72107 |
 
 
@@ -9701,6 +10385,7 @@ Z_55:SKJEMA5A; ; 55. How often is your child outside?
 | Seldom | 37 |
 | Often, but on average less than 1 hour a day | 813 |
 | More than 1 check box filled in | 18 |
+| Not NA | 4952 |
 | NA | 71164 |
 
 
@@ -9716,6 +10401,7 @@ Z_60:SKJEMA5E; (Z_60:SKJEMA5D); (Z_59:SKJEMA5C); (Z_59:SKJEMA5B); (Z_56:SKJEMA5A
 | 3 hours | 295 |
 | 4 hours | 80 |
 | More than 1 check box filled in | 1 |
+| Not NA | 75809 |
 | NA | 307 |
 
 
@@ -9728,6 +10414,7 @@ Z_61_1:SKJEMA5E; (Z_61_1:SKJEMA5D); (Z_60_1:SKJEMA5C); (Z_60_1:SKJEMA5B); (Z_57_
 | No | 53265 |
 | Yes | 22419 |
 | More than 1 check box filled in | 2 |
+| Not NA | 75686 |
 | NA | 430 |
 
 
@@ -9744,6 +10431,7 @@ Z_61_2:SKJEMA5E; (Z_61_2:SKJEMA5D); (Z_60_2:SKJEMA5C); (Z_60_2:SKJEMA5B); (Z_57_
 | 3rd Qu. | 12 |
 | Max. | 45 |
 | NA's | 54166 |
+| Not NA | 21950 |
 
 
 ### EE515
@@ -9760,6 +10448,7 @@ Z_62:SKJEMA5E; (Z_62:SKJEMA5D); (Z_61:SKJEMA5C); (Z_61:SKJEMA5B); (Z_58:SKJEMA5A
 | (1+2) | 37 |
 | More than 1 check box filled in | 2 |
 | (3+4) | 8 |
+| Not NA | 75800 |
 | NA | 316 |
 
 
@@ -9777,6 +10466,7 @@ Z_59:SKJEMA5E; (Z_59:SKJEMA5D); (Z_58:SKJEMA5C); (Z_58:SKJEMA5B); ; 59. How ofte
 | (3+4) On average 1-3 hours per day + More than 3 hours a day | 173 |
 | More than 1 check box filled in | 2 |
 | (1+2) Infrequently + Frequently, but less that 1 hour a day | 6 |
+| Not NA | 70765 |
 | NA | 5351 |
 
 
@@ -9793,6 +10483,7 @@ Z_63:SKJEMA5E; (Z_63:SKJEMA5D); (Z_62:SKJEMA5C); (Z_62:SKJEMA5B); (Z_59:SKJEMA5A
 | Widow  | 75 |
 | Other | 233 |
 | More than 1 check box filled in | 30 |
+| Not NA | 74962 |
 | NA | 1154 |
 
 
@@ -9805,6 +10496,7 @@ Z_64_1:SKJEMA5D; (Z_63_1:SKJEMA5C); (Z_63_1:SKJEMA5B); (Z_60_1:SKJEMA5A); ; 64. 
 | No | 49669 |
 | Yes | 8010 |
 | More than 1 check box filled in | 1 |
+| Not NA | 57680 |
 | NA | 18436 |
 
 
@@ -9821,6 +10513,7 @@ Z_64_2_2:SKJEMA5E; (Z_64_2:SKJEMA5D); (Z_63_2:SKJEMA5C); (Z_63_2:SKJEMA5B); (Z_6
 | 3rd Qu. | 29 |
 | Max. | 42 |
 | NA's | 65779 |
+| Not NA | 10337 |
 
 
 ### EE523
@@ -9832,6 +10525,7 @@ Z_65_1:SKJEMA5E; (Z_65_1:SKJEMA5D); (Z_64_1:SKJEMA5C); (Z_64_1:SKJEMA5B); (Z_61_
 | No | 70736 |
 | Yes | 2835 |
 | More than 1 check box filled in | 10 |
+| Not NA | 73581 |
 | NA | 2535 |
 
 
@@ -9844,6 +10538,7 @@ Z_66_1:SKJEMA5E; (Z_66_1:SKJEMA5D); (Z_65_1:SKJEMA5C); (Z_65_1:SKJEMA5B); (Z_62_
 | No | 64764 |
 | Yes | 5646 |
 | More than 1 check box filled in | 2 |
+| Not NA | 70412 |
 | NA | 5704 |
 
 
@@ -9854,6 +10549,7 @@ Z_64_1:SKJEMA5E; No; 64. Have you become pregnant again after the birth about 18
 | Category | n |
 | -------- | - |
 | 1 | 13421 |
+| Not NA | 13421 |
 | NA | 62695 |
 
 
@@ -9864,6 +10560,7 @@ Z_64_2_1:SKJEMA5E; Yes, I`m pregnant at present; 64. Have you become pregnant ag
 | Category | n |
 | -------- | - |
 | 1 | 2591 |
+| Not NA | 2591 |
 | NA | 73525 |
 
 
@@ -9874,6 +10571,7 @@ Z_64_3_1:SKJEMA5E; Yes, I have given birth; 64. Have you become pregnant again a
 | Category | n |
 | -------- | - |
 | 1 | 600 |
+| Not NA | 600 |
 | NA | 75516 |
 
 
@@ -9891,6 +10589,7 @@ Z_64_3_4:SKJEMA5E; Year; 64. Have you become pregnant again after the birth abou
 | 2001 | 1 |
 | 2003 | 1 |
 | 2005 | 1 |
+| Not NA | 602 |
 | NA | 75514 |
 
 
@@ -9901,6 +10600,7 @@ Z_64_4:SKJEMA5E; Yes, I have had one or more miscarriage/abortion; 64. Have you 
 | Category | n |
 | -------- | - |
 | 1 | 645 |
+| Not NA | 645 |
 | NA | 75471 |
 
 
@@ -9913,6 +10613,7 @@ Z_67_1:SKJEMA5E; (Z_67_1:SKJEMA5D); (Z_66_1:SKJEMA5C); (Z_66_1:SKJEMA5B); (Z_63_
 | Yes | 38316 |
 | No | 31931 |
 | More than 1 check box filled in | 9 |
+| Not NA | 70256 |
 | NA | 5860 |
 
 
@@ -9929,6 +10630,7 @@ Z_68:SKJEMA5E; (Z_68:SKJEMA5D); (Z_67:SKJEMA5C); (Z_67:SKJEMA5B); (kg); 68. What
 | 3rd Qu. | 76 |
 | Max. | 730 |
 | NA's | 12331 |
+| Not NA | 63785 |
 
 
 ### EE925
@@ -9941,6 +10643,7 @@ Z_69_1_1:SKJEMA5E; (Z_69_1_1:SKJEMA5D); (Z_68_1_1:SKJEMA5C); (Z_68_1_1:SKJEMA5B)
 | No | 23130 |
 | Maybe | 8559 |
 | More than 1 check box filled in | 10 |
+| Not NA | 69254 |
 | NA | 6862 |
 
 
@@ -9954,6 +10657,7 @@ Z_69_1_2:SKJEMA5E; (Z_69_1_2:SKJEMA5D); (Z_68_1_2:SKJEMA5C); (Z_68_1_2:SKJEMA5B)
 | No | 16770 |
 | Maybe | 9498 |
 | More than 1 check box filled in | 13 |
+| Not NA | 67291 |
 | NA | 8825 |
 
 
@@ -9967,6 +10671,7 @@ Z_69_2_1:SKJEMA5E; (Z_69_2_1:SKJEMA5D); (Z_68_2_1:SKJEMA5C); (Z_68_2_1:SKJEMA5B)
 | Maybe | 11649 |
 | Yes | 19597 |
 | More than 1 check box filled in | 12 |
+| Not NA | 68993 |
 | NA | 7123 |
 
 
@@ -9980,6 +10685,7 @@ Z_69_2_2:SKJEMA5E; (Z_69_2_2:SKJEMA5D); (Z_68_2_2:SKJEMA5C); (Z_68_2_2:SKJEMA5B)
 | Maybe | 12056 |
 | Yes | 23619 |
 | More than 1 check box filled in | 10 |
+| Not NA | 66689 |
 | NA | 9427 |
 
 
@@ -9993,6 +10699,7 @@ Z_69_3_1:SKJEMA5E; (Z_69_3_1:SKJEMA5D); (Z_68_3_1:SKJEMA5C); (Z_68_3_1:SKJEMA5B)
 | Maybe | 2932 |
 | Yes | 2455 |
 | More than 1 check box filled in | 8 |
+| Not NA | 68953 |
 | NA | 7163 |
 
 
@@ -10006,6 +10713,7 @@ Z_69_3_2:SKJEMA5E; (Z_69_3_2:SKJEMA5D); (Z_68_3_2:SKJEMA5C); (Z_68_3_2:SKJEMA5B)
 | Yes | 5763 |
 | Maybe | 4358 |
 | More than 1 check box filled in | 14 |
+| Not NA | 66670 |
 | NA | 9446 |
 
 
@@ -10019,6 +10727,7 @@ Z_69_4_1:SKJEMA5E; (Z_69_4_1:SKJEMA5D); (Z_68_4_1:SKJEMA5C); (Z_68_4_1:SKJEMA5B)
 | Maybe | 14540 |
 | Yes | 20982 |
 | More than 1 check box filled in | 16 |
+| Not NA | 68985 |
 | NA | 7131 |
 
 
@@ -10032,6 +10741,7 @@ Z_69_4_2:SKJEMA5E; (Z_69_4_2:SKJEMA5D); (Z_68_4_2:SKJEMA5C); (Z_68_4_2:SKJEMA5B)
 | Yes | 23495 |
 | Maybe | 14260 |
 | More than 1 check box filled in | 15 |
+| Not NA | 66718 |
 | NA | 9398 |
 
 
@@ -10045,6 +10755,7 @@ Z_70_1_1:SKJEMA5E; (Z_70_1_1:SKJEMA5D); (Z_69_1_1:SKJEMA5C); (Z_69_1_1:SKJEMA5B)
 | 1-4 times a month | 5682 |
 | At least 2 times a week | 3029 |
 | More than 1 check box filled in | 5 |
+| Not NA | 68163 |
 | NA | 7953 |
 
 
@@ -10058,6 +10769,7 @@ Z_70_1_2:SKJEMA5E; (Z_70_1_2:SKJEMA5D); (Z_69_1_2:SKJEMA5C); (Z_69_1_2:SKJEMA5B)
 | At least 2 times a week | 4329 |
 | 1-4 times a month | 6654 |
 | More than 1 check box filled in | 9 |
+| Not NA | 67719 |
 | NA | 8397 |
 
 
@@ -10070,6 +10782,7 @@ Z_70_2_1:SKJEMA5E; (Z_70_2_1:SKJEMA5D); (Z_69_2_1:SKJEMA5C); (Z_69_2_1:SKJEMA5B)
 | Seldom/never | 67436 |
 | 1-4 times a month | 458 |
 | At least 2 times a week | 229 |
+| Not NA | 68123 |
 | NA | 7993 |
 
 
@@ -10083,6 +10796,7 @@ Z_70_2_2:SKJEMA5E; (Z_70_2_2:SKJEMA5D); (Z_69_2_2:SKJEMA5C); (Z_69_2_2:SKJEMA5B)
 | At least 2 times a week | 1930 |
 | 1-4 times a month | 1462 |
 | More than 1 check box filled in | 4 |
+| Not NA | 67815 |
 | NA | 8301 |
 
 
@@ -10095,6 +10809,7 @@ Z_70_3_1:SKJEMA5E; (Z_70_3_1:SKJEMA5D); (Z_69_3_1:SKJEMA5C); (Z_69_3_1:SKJEMA5B)
 | Seldom/never | 67910 |
 | 1-4 times a month | 171 |
 | At least 2 times a week | 71 |
+| Not NA | 68152 |
 | NA | 7964 |
 
 
@@ -10108,6 +10823,7 @@ Z_70_3_2:SKJEMA5E; (Z_70_3_2:SKJEMA5D); (Z_69_3_2:SKJEMA5C); (Z_69_3_2:SKJEMA5B)
 | At least 2 times a week | 440 |
 | 1-4 times a month | 632 |
 | More than 1 check box filled in | 1 |
+| Not NA | 67583 |
 | NA | 8533 |
 
 
@@ -10121,6 +10837,7 @@ Z_70_4_1:SKJEMA5E; (Z_70_4_1:SKJEMA5D); (Z_69_4_1:SKJEMA5C); (Z_69_4_1:SKJEMA5B)
 | 1-4 times a month | 809 |
 | At least 2 times a week | 387 |
 | More than 1 check box filled in | 1 |
+| Not NA | 68013 |
 | NA | 8103 |
 
 
@@ -10134,6 +10851,7 @@ Z_70_4_2:SKJEMA5E; (Z_70_4_2:SKJEMA5D); (Z_69_4_2:SKJEMA5C); (Z_69_4_2:SKJEMA5B)
 | At least 2 times a week | 1347 |
 | 1-4 times a month | 2138 |
 | More than 1 check box filled in | 5 |
+| Not NA | 67527 |
 | NA | 8589 |
 
 
@@ -10147,6 +10865,7 @@ Z_70_5_1:SKJEMA5E; (Z_70_5_1:SKJEMA5D); (Z_69_5_1:SKJEMA5C); (Z_69_5_1:SKJEMA5B)
 | Seldom/never | 60253 |
 | 1-4 times a month | 3932 |
 | More than 1 check box filled in | 16 |
+| Not NA | 67813 |
 | NA | 8303 |
 
 
@@ -10160,6 +10879,7 @@ Z_70_5_2:SKJEMA5E; (Z_70_5_2:SKJEMA5D); (Z_69_5_2:SKJEMA5C); (Z_69_5_2:SKJEMA5B)
 | Seldom/never | 53692 |
 | 1-4 times a month | 5316 |
 | More than 1 check box filled in | 37 |
+| Not NA | 67803 |
 | NA | 8313 |
 
 
@@ -10173,6 +10893,7 @@ Z_71:SKJEMA5E; (Z_71:SKJEMA5D); (Z_70:SKJEMA5C); (Z_70:SKJEMA5B); ; 71. Have you
 | Yes, earlier | 3475 |
 | Yes, in  the last 6 months | 526 |
 | More than 1 check box filled in | 163 |
+| Not NA | 69433 |
 | NA | 6683 |
 
 
@@ -10185,6 +10906,7 @@ Z_82:SKJEMA5E; (Z_79:SKJEMA5D); (Z_78:SKJEMA5C); (Z_78:SKJEMA5B); (Z_71:SKJEMA5A
 | Yes | 16210 |
 | No | 58233 |
 | More than 1 check box filled in | 43 |
+| Not NA | 74486 |
 | NA | 1630 |
 
 
@@ -10198,6 +10920,7 @@ Z_83_1_2:SKJEMA5E; (Z_80_1_2:SKJEMA5D); (Z_79_1_2:SKJEMA5C); (Z_79_1_2:SKJEMA5B)
 | Daily for intervals | 3233 |
 | Every day | 8580 |
 | More than 1 check box filled in | 31 |
+| Not NA | 19984 |
 | NA | 56132 |
 
 
@@ -10211,6 +10934,7 @@ Z_83_2_2:SKJEMA5E; (Z_80_2_2:SKJEMA5D); (Z_79_2_2:SKJEMA5C); (Z_79_2_2:SKJEMA5B)
 | Daily for intervals | 2027 |
 | Every day | 2943 |
 | More than 1 check box filled in | 21 |
+| Not NA | 9448 |
 | NA | 66668 |
 
 
@@ -10224,6 +10948,7 @@ Z_83_3_2:SKJEMA5E; (Z_80_3_2:SKJEMA5D); (Z_79_3_2:SKJEMA5C); (Z_79_3_2:SKJEMA5B)
 | Daily for intervals | 881 |
 | Every day | 1164 |
 | More than 1 check box filled in | 3 |
+| Not NA | 3710 |
 | NA | 72406 |
 
 
@@ -10237,6 +10962,7 @@ Z_83_4_2:SKJEMA5E; (Z_80_4_2:SKJEMA5D); (Z_79_4_2:SKJEMA5C); (Z_79_4_2:SKJEMA5B)
 | Daily for intervals | 326 |
 | Every day | 415 |
 | More than 1 check box filled in | 8 |
+| Not NA | 1284 |
 | NA | 74832 |
 
 
@@ -10253,6 +10979,7 @@ Z_84_1_1:SKJEMA5E; (Z_81_1_1:SKJEMA5D); (Z_80_1_1:SKJEMA5C); (Z_80_1_1:SKJEMA5B)
 | 3rd Qu. | 12 |
 | Max. | 99 |
 | NA's | 21116 |
+| Not NA | 55000 |
 
 
 ### EE573
@@ -10268,6 +10995,7 @@ Z_84_1_2:SKJEMA5E; (Z_81_1_2:SKJEMA5D); (Z_80_1_2:SKJEMA5C); (Z_80_1_2:SKJEMA5B)
 | 3rd Qu. | 48 |
 | Max. | 99 |
 | NA's | 58735 |
+| Not NA | 17381 |
 
 
 ### EE574
@@ -10283,6 +11011,7 @@ Z_84_2_1:SKJEMA5E; (Z_81_2_1:SKJEMA5D); (Z_80_2_1:SKJEMA5C); (Z_80_2_1:SKJEMA5B)
 | 3rd Qu. | 3 |
 | Max. | 70 |
 | NA's | 47557 |
+| Not NA | 28559 |
 
 
 ### EE575
@@ -10298,6 +11027,7 @@ Z_84_2_2:SKJEMA5E; (Z_81_2_2:SKJEMA5D); (Z_80_2_2:SKJEMA5C); (Z_80_2_2:SKJEMA5B)
 | 3rd Qu. | 6 |
 | Max. | 82 |
 | NA's | 32692 |
+| Not NA | 43424 |
 
 
 ### EE576
@@ -10309,6 +11039,7 @@ Z_85:SKJEMA5E; (Z_82:SKJEMA5D); (Z_81:SKJEMA5C); (Z_81:SKJEMA5B); (Z_74:SKJEMA5A
 | Yes | 59811 |
 | No | 14010 |
 | More than 1 check box filled in | 31 |
+| Not NA | 73852 |
 | NA | 2264 |
 
 
@@ -10325,6 +11056,7 @@ Z_86:SKJEMA5E; (Z_83:SKJEMA5D); (Z_82:SKJEMA5C); (Z_82:SKJEMA5B); (Z_75:SKJEMA5A
 | 3rd Qu. | 37.5 |
 | Max. | 99 |
 | NA's | 17702 |
+| Not NA | 58414 |
 
 
 ### EE578
@@ -10334,6 +11066,7 @@ Z_87_1:SKJEMA5E; (Z_84_1:SKJEMA5D); (Z_83_1:SKJEMA5C); (Z_83_1:SKJEMA5B); (Z_76_
 | Category | n |
 | -------- | - |
 | 1 | 41588 |
+| Not NA | 41588 |
 | NA | 34528 |
 
 
@@ -10344,6 +11077,7 @@ Z_87_2_1:SKJEMA5E; (Z_84_2_1:SKJEMA5D); (Z_83_2_1:SKJEMA5C); (Z_83_2_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 18357 |
+| Not NA | 18357 |
 | NA | 57759 |
 
 
@@ -10360,6 +11094,7 @@ Z_87_2_2:SKJEMA5E; (Z_84_2_2:SKJEMA5D); (Z_83_2_2:SKJEMA5C); (Z_83_2_2:SKJEMA5B)
 | 3rd Qu. | 24 |
 | Max. | 999 |
 | NA's | 58632 |
+| Not NA | 17484 |
 
 
 ### EE581
@@ -10369,6 +11104,7 @@ Z_87_3_1:SKJEMA5E; (Z_84_3_1:SKJEMA5D); (Z_83_3_1:SKJEMA5C); (Z_83_3_1:SKJEMA5B)
 | Category | n |
 | -------- | - |
 | 1 | 6936 |
+| Not NA | 6936 |
 | NA | 69180 |
 
 
@@ -10385,6 +11121,7 @@ Z_87_3_2:SKJEMA5E; (Z_84_3_2:SKJEMA5D); (Z_83_3_2:SKJEMA5C); (Z_83_3_2:SKJEMA5B)
 | 3rd Qu. | 6 |
 | Max. | 500 |
 | NA's | 68851 |
+| Not NA | 7265 |
 
 
 ### EE1025
@@ -10394,6 +11131,7 @@ Z_84_3:SKJEMA5E; Still having leave; 84. How much leave did you and the child`s 
 | Category | n |
 | -------- | - |
 | 1 | 1127 |
+| Not NA | 1127 |
 | NA | 74989 |
 
 
@@ -10407,6 +11145,7 @@ Z_88:SKJEMA5E; (Z_85:SKJEMA5D); (Z_84:SKJEMA5C); (Z_84:SKJEMA5B); (Z_77:SKJEMA5A
 | Do not know | 3953 |
 | No | 4794 |
 | More than 1 check box filled in | 41 |
+| Not NA | 71246 |
 | NA | 4870 |
 
 
@@ -10421,6 +11160,7 @@ Z_89:SKJEMA5E; (Z_86:SKJEMA5D); (Z_85:SKJEMA5C); (Z_85:SKJEMA5B); (Z_78:SKJEMA5A
 | Yes, sometimes | 11348 |
 | Yes, often | 1009 |
 | More than 1 check box filled in | 10 |
+| Not NA | 71069 |
 | NA | 5047 |
 
 
@@ -10437,6 +11177,7 @@ Z_90_1:SKJEMA5E; (Z_87_1:SKJEMA5D); (Z_86_1:SKJEMA5C); (Z_86_1:SKJEMA5B); (Z_79_
 | Twice a week | 18507 |
 | Never | 5870 |
 | More than 1 check box filled in | 280 |
+| Not NA | 69985 |
 | NA | 6131 |
 
 
@@ -10453,6 +11194,7 @@ Z_90_2:SKJEMA5E; (Z_87_2:SKJEMA5D); (Z_86_2:SKJEMA5C); (Z_86_2:SKJEMA5B); (Z_79_
 | Twice a week | 4768 |
 | 5 times or more a week | 1887 |
 | More than 1 check box filled in | 289 |
+| Not NA | 48151 |
 | NA | 27965 |
 
 
@@ -10468,6 +11210,7 @@ Z_91_1:SKJEMA5E; (Z_88_1:SKJEMA5D); (Z_87_1:SKJEMA5C); (Z_87_1:SKJEMA5B); (Z_80_
 | 1-3 times per month | 14711 |
 | Never | 4172 |
 | More than 1 check box filled in | 59 |
+| Not NA | 72277 |
 | NA | 3839 |
 
 
@@ -10483,6 +11226,7 @@ Z_91_2:SKJEMA5E; (Z_88_2:SKJEMA5D); (Z_87_2:SKJEMA5C); (Z_87_2:SKJEMA5B); (Z_80_
 | Once per week | 14165 |
 | 1-3 times per month | 18134 |
 | More than 1 check box filled in | 49 |
+| Not NA | 72231 |
 | NA | 3885 |
 
 
@@ -10498,6 +11242,7 @@ Z_91_3:SKJEMA5E; (Z_88_3:SKJEMA5D); (Z_87_3:SKJEMA5C); (Z_87_3:SKJEMA5B); (Z_80_
 | More than 1 check box filled in | 122 |
 | 3 times or more a week | 1058 |
 | Once per week | 3226 |
+| Not NA | 71499 |
 | NA | 4617 |
 
 
@@ -10513,6 +11258,7 @@ Z_91_4:SKJEMA5E; (Z_88_4:SKJEMA5D); (Z_87_4:SKJEMA5C); (Z_87_4:SKJEMA5B); (Z_80_
 | Once per week | 5548 |
 | 3 times or more a week | 4070 |
 | More than 1 check box filled in | 69 |
+| Not NA | 71696 |
 | NA | 4420 |
 
 
@@ -10528,6 +11274,7 @@ Z_91_5:SKJEMA5E; (Z_88_5:SKJEMA5D); (Z_87_5:SKJEMA5C); (Z_87_5:SKJEMA5B); (Z_80_
 | Once per week | 5304 |
 | Twice a week | 3952 |
 | More than 1 check box filled in | 51 |
+| Not NA | 71714 |
 | NA | 4402 |
 
 
@@ -10543,6 +11290,7 @@ Z_91_6:SKJEMA5E; (Z_88_6:SKJEMA5D); (Z_87_6:SKJEMA5C); (Z_87_6:SKJEMA5B); (Z_80_
 | Twice a week | 1218 |
 | 3 times or more a week | 341 |
 | More than 1 check box filled in | 31 |
+| Not NA | 71001 |
 | NA | 5115 |
 
 
@@ -10558,6 +11306,7 @@ Z_91_7:SKJEMA5E; (Z_88_7:SKJEMA5D); (Z_87_7:SKJEMA5C); (Z_87_7:SKJEMA5B); (Z_80_
 | Once per week | 3974 |
 | 3 times or more a week | 422 |
 | More than 1 check box filled in | 23 |
+| Not NA | 71277 |
 | NA | 4839 |
 
 
@@ -10573,6 +11322,7 @@ Z_91_8:SKJEMA5E; (Z_88_8:SKJEMA5D); (Z_87_8:SKJEMA5C); (Z_87_8:SKJEMA5B); (Z_80_
 | 3 times or more a week | 131 |
 | Twice a week | 238 |
 | More than 1 check box filled in | 21 |
+| Not NA | 71056 |
 | NA | 5060 |
 
 
@@ -10588,6 +11338,7 @@ Z_91_9:SKJEMA5E; (Z_88_9:SKJEMA5D); (Z_87_9:SKJEMA5C); (Z_87_9:SKJEMA5B); (Z_80_
 | Twice a week | 571 |
 | Once per week | 1630 |
 | 3 times or more a week | 152 |
+| Not NA | 71207 |
 | NA | 4909 |
 
 
@@ -10603,6 +11354,7 @@ Z_9110:SKJEMA5E; (Z_8810:SKJEMA5D); (Z_8710:SKJEMA5C); (Z_8710:SKJEMA5B); (Z_801
 | 1-3 times per month | 2117 |
 | 3 times or more a week | 176 |
 | More than 1 check box filled in | 34 |
+| Not NA | 71241 |
 | NA | 4875 |
 
 
@@ -10618,6 +11370,7 @@ Z_9111:SKJEMA5E; (Z_8811:SKJEMA5D); (Z_8711:SKJEMA5C); (Z_8711:SKJEMA5B); (Z_801
 | Twice a week | 396 |
 | 3 times or more a week | 104 |
 | More than 1 check box filled in | 26 |
+| Not NA | 71390 |
 | NA | 4726 |
 
 
@@ -10633,6 +11386,7 @@ Z_9112:SKJEMA5E; (Z_8812:SKJEMA5D); (Z_8712:SKJEMA5C); (Z_8712:SKJEMA5B); (Z_801
 | Twice a week | 190 |
 | 3 times or more a week | 299 |
 | More than 1 check box filled in | 5 |
+| Not NA | 71225 |
 | NA | 4891 |
 
 
@@ -10648,6 +11402,7 @@ Z_9113:SKJEMA5E; (Z_8813:SKJEMA5D); (Z_8713:SKJEMA5C); (Z_8713:SKJEMA5B); (Z_801
 | Once per week | 1885 |
 | 3 times or more a week | 1300 |
 | Twice a week | 1109 |
+| Not NA | 60855 |
 | NA | 15261 |
 
 
@@ -10661,6 +11416,7 @@ Z_92_1_1:SKJEMA5E; (Z_89_1_1:SKJEMA5D); (Z_88_1_1:SKJEMA5C); (Z_88_1_1:SKJEMA5B)
 | Smoke sometimes | 4929 |
 | Smoke daily | 6603 |
 | More than 1 check box filled in | 77 |
+| Not NA | 74186 |
 | NA | 1930 |
 
 
@@ -10677,6 +11433,7 @@ Z_92_1_2:SKJEMA5E; (Z_89_1_2:SKJEMA5D); (Z_88_1_2:SKJEMA5C); (Z_88_1_2:SKJEMA5B)
 | 3rd Qu. | 10 |
 | Max. | 30 |
 | NA's | 68824 |
+| Not NA | 7292 |
 
 
 ### EE605
@@ -10689,6 +11446,7 @@ Z_92_2_1:SKJEMA5E; (Z_89_2_1:SKJEMA5D); (Z_88_2_1:SKJEMA5C); (Z_88_2_1:SKJEMA5B)
 | Smoke sometimes | 4357 |
 | Smoke daily | 9348 |
 | More than 1 check box filled in | 70 |
+| Not NA | 71277 |
 | NA | 4839 |
 
 
@@ -10705,6 +11463,7 @@ Z_92_2_2:SKJEMA5E; (Z_89_2_2:SKJEMA5D); (Z_88_2_2:SKJEMA5C); (Z_88_2_2:SKJEMA5B)
 | 3rd Qu. | 15 |
 | Max. | 50 |
 | NA's | 66397 |
+| Not NA | 9719 |
 
 
 ### EE607
@@ -10721,6 +11480,7 @@ Z_93:SKJEMA5E; (Z_90:SKJEMA5D); (Z_89:SKJEMA5C); (Z_89:SKJEMA5B); (Z_82:SKJEMA5A
 | Approximately 4-5 times a week | 576 |
 | Approximately 6-7 times a week | 85 |
 | More than 1 check box filled in | 5 |
+| Not NA | 74087 |
 | NA | 2029 |
 
 
@@ -10737,6 +11497,7 @@ Z_94_1:SKJEMA5E; (Z_91_1:SKJEMA5D); (Z_90_1:SKJEMA5C); (Z_90_1:SKJEMA5B); (Z_83_
 | 7-9 | 2164 |
 | 10 or more | 460 |
 | More than 1 check box filled in | 34 |
+| Not NA | 65854 |
 | NA | 10262 |
 
 
@@ -10753,6 +11514,7 @@ Z_94_2:SKJEMA5E; (Z_91_2:SKJEMA5D); (Z_90_2:SKJEMA5C); (Z_90_2:SKJEMA5B); (Z_83_
 | 5-6 | 36 |
 | More than 1 check box filled in | 13 |
 | 10 or more | 2 |
+| Not NA | 44922 |
 | NA | 31194 |
 
 
@@ -10769,6 +11531,7 @@ Z_95_1:SKJEMA5E; (Z_92_1:SKJEMA5D); (Z_91_1:SKJEMA5C); (Z_91_1:SKJEMA5B); (Z_84_
 | Disagree somewhat | 1609 |
 | Strongly disagree | 442 |
 | More than 1 check box filled in | 30 |
+| Not NA | 72319 |
 | NA | 3797 |
 
 
@@ -10785,6 +11548,7 @@ Z_95_2:SKJEMA5E; (Z_92_2:SKJEMA5D); (Z_91_2:SKJEMA5C); (Z_91_2:SKJEMA5B); (Z_84_
 | Agree somewhat | 7865 |
 | Strongly agree | 1203 |
 | More than 1 check box filled in | 105 |
+| Not NA | 72181 |
 | NA | 3935 |
 
 
@@ -10801,6 +11565,7 @@ Z_95_3:SKJEMA5E; (Z_92_3:SKJEMA5D); (Z_91_3:SKJEMA5C); (Z_91_3:SKJEMA5B); (Z_84_
 | Disagree somewhat | 3252 |
 | Strongly disagree | 563 |
 | More than 1 check box filled in | 23 |
+| Not NA | 72181 |
 | NA | 3935 |
 
 
@@ -10817,6 +11582,7 @@ Z_95_4:SKJEMA5E; (Z_92_4:SKJEMA5D); (Z_91_4:SKJEMA5C); (Z_91_4:SKJEMA5B); (Z_84_
 | Disagree somewhat | 3067 |
 | Strongly disagree | 468 |
 | More than 1 check box filled in | 443 |
+| Not NA | 72203 |
 | NA | 3913 |
 
 
@@ -10833,6 +11599,7 @@ Z_95_5:SKJEMA5E; (Z_92_5:SKJEMA5D); (Z_91_5:SKJEMA5C); (Z_91_5:SKJEMA5B); (Z_84_
 | Disagree somewhat | 3722 |
 | Strongly agree | 656 |
 | More than 1 check box filled in | 91 |
+| Not NA | 71731 |
 | NA | 4385 |
 
 
@@ -10849,6 +11616,7 @@ Z_95_6:SKJEMA5E; (Z_92_6:SKJEMA5D); (Z_91_6:SKJEMA5C); (Z_91_6:SKJEMA5B); (Z_84_
 | Disagree somewhat | 3593 |
 | Strongly disagree | 677 |
 | More than 1 check box filled in | 213 |
+| Not NA | 71984 |
 | NA | 4132 |
 
 
@@ -10865,6 +11633,7 @@ Z_95_7:SKJEMA5E; (Z_92_7:SKJEMA5D); (Z_91_7:SKJEMA5C); (Z_91_7:SKJEMA5B); (Z_84_
 | Disagree | 29098 |
 | Agree | 2471 |
 | More than 1 check box filled in | 35 |
+| Not NA | 71852 |
 | NA | 4264 |
 
 
@@ -10881,6 +11650,7 @@ Z_95_8:SKJEMA5E; (Z_92_8:SKJEMA5D); (Z_91_8:SKJEMA5C); (Z_91_8:SKJEMA5B); (Z_84_
 | Strongly disagree | 322 |
 | Disagree somewhat | 1548 |
 | More than 1 check box filled in | 38 |
+| Not NA | 71955 |
 | NA | 4161 |
 
 
@@ -10897,6 +11667,7 @@ Z_95_9:SKJEMA5E; (Z_92_9:SKJEMA5D); (Z_91_9:SKJEMA5C); (Z_91_9:SKJEMA5B); (Z_84_
 | Disagree | 723 |
 | Disagree somewhat | 2648 |
 | More than 1 check box filled in | 33 |
+| Not NA | 72207 |
 | NA | 3909 |
 
 
@@ -10913,6 +11684,7 @@ Z_9510:SKJEMA5E; (Z_9210:SKJEMA5D); (Z_9110:SKJEMA5C); (Z_9110:SKJEMA5B); (Z_841
 | Disagree | 1085 |
 | Disagree somewhat | 2234 |
 | More than 1 check box filled in | 21 |
+| Not NA | 72155 |
 | NA | 3961 |
 
 
@@ -10928,6 +11700,7 @@ Z100_1:SKJEMA5E; (Z_97_1:SKJEMA5D); (Z_96_1:SKJEMA5C); (Z_96_1:SKJEMA5B); (Z_89_
 | Seldom | 467 |
 | Seldom/never | 55 |
 | More than 1 check box filled in | 6 |
+| Not NA | 73934 |
 | NA | 2182 |
 
 
@@ -10943,6 +11716,7 @@ Z100_2:SKJEMA5E; (Z_97_2:SKJEMA5D); (Z_96_2:SKJEMA5C); (Z_96_2:SKJEMA5B); (Z_89_
 | Seldom | 2344 |
 | Seldom/never | 320 |
 | More than 1 check box filled in | 14 |
+| Not NA | 73895 |
 | NA | 2221 |
 
 
@@ -10958,6 +11732,7 @@ Z100_3:SKJEMA5E; (Z_97_3:SKJEMA5D); (Z_96_3:SKJEMA5C); (Z_96_3:SKJEMA5B); (Z_89_
 | Seldom | 6928 |
 | Seldom/never | 1096 |
 | More than 1 check box filled in | 17 |
+| Not NA | 73689 |
 | NA | 2427 |
 
 
@@ -10973,6 +11748,7 @@ Z100_4:SKJEMA5E; (Z_97_4:SKJEMA5D); (Z_96_4:SKJEMA5C); (Z_96_4:SKJEMA5B); (Z_89_
 | Often | 2741 |
 | More than 1 check box filled in | 33 |
 | Very often | 453 |
+| Not NA | 73623 |
 | NA | 2493 |
 
 
@@ -10988,6 +11764,7 @@ Z100_5:SKJEMA5E; (Z_97_5:SKJEMA5D); (Z_96_5:SKJEMA5C); (Z_96_5:SKJEMA5B); (Z_89_
 | Seldom/never | 4848 |
 | Very often | 889 |
 | More than 1 check box filled in | 25 |
+| Not NA | 73853 |
 | NA | 2263 |
 
 
@@ -11003,6 +11780,7 @@ Z100_6:SKJEMA5E; (Z_97_6:SKJEMA5D); (Z_96_6:SKJEMA5C); (Z_96_6:SKJEMA5B); (Z_89_
 | Sometimes | 15745 |
 | Often | 1947 |
 | More than 1 check box filled in | 17 |
+| Not NA | 73840 |
 | NA | 2276 |
 
 
@@ -11017,6 +11795,7 @@ Z101_1:SKJEMA5E; (Z_98_1:SKJEMA5D); (Z_97_1:SKJEMA5C); (Z_97_1:SKJEMA5B); (Z_90_
 | Disagree | 5420 |
 | Strongly disagree | 669 |
 | More than 1 check box filled in | 32 |
+| Not NA | 73870 |
 | NA | 2246 |
 
 
@@ -11031,6 +11810,7 @@ Z101_2:SKJEMA5E; (Z_98_2:SKJEMA5D); (Z_97_2:SKJEMA5C); (Z_97_2:SKJEMA5B); (Z_90_
 | Disagree | 36655 |
 | Strongly agree | 1597 |
 | More than 1 check box filled in | 31 |
+| Not NA | 73813 |
 | NA | 2303 |
 
 
@@ -11045,6 +11825,7 @@ Z101_3:SKJEMA5E; (Z_98_3:SKJEMA5D); (Z_97_3:SKJEMA5C); (Z_97_3:SKJEMA5B); (Z_90_
 | Agree | 3541 |
 | Disagree | 31011 |
 | More than 1 check box filled in | 32 |
+| Not NA | 73772 |
 | NA | 2344 |
 
 
@@ -11059,6 +11840,7 @@ Z101_4:SKJEMA5E; (Z_98_4:SKJEMA5D); (Z_97_4:SKJEMA5C); (Z_97_4:SKJEMA5B); (Z_90_
 | Disagree | 2145 |
 | Agree | 35317 |
 | More than 1 check box filled in | 33 |
+| Not NA | 73803 |
 | NA | 2313 |
 
 
@@ -11073,6 +11855,7 @@ Z102_1:SKJEMA5E; (Z_99_1:SKJEMA5D); (Z_98_1:SKJEMA5C); (Z_98_1:SKJEMA5B); (Z_91_
 | Quite bothered | 1014 |
 | Very bothered | 300 |
 | More than 1 check box filled in | 8 |
+| Not NA | 73875 |
 | NA | 2241 |
 
 
@@ -11087,6 +11870,7 @@ Z102_2:SKJEMA5E; (Z_99_2:SKJEMA5D); (Z_98_2:SKJEMA5C); (Z_98_2:SKJEMA5B); (Z_91_
 | Quite bothered | 1922 |
 | Very bothered | 482 |
 | More than 1 check box filled in | 9 |
+| Not NA | 73845 |
 | NA | 2271 |
 
 
@@ -11101,6 +11885,7 @@ Z102_3:SKJEMA5E; (Z_99_3:SKJEMA5D); (Z_98_3:SKJEMA5C); (Z_98_3:SKJEMA5B); (Z_91_
 | Quite bothered | 1914 |
 | Very bothered | 476 |
 | More than 1 check box filled in | 15 |
+| Not NA | 73833 |
 | NA | 2283 |
 
 
@@ -11115,6 +11900,7 @@ Z102_4:SKJEMA5E; (Z_99_4:SKJEMA5D); (Z_98_4:SKJEMA5C); (Z_98_4:SKJEMA5B); (Z_91_
 | A little bothered | 16247 |
 | Very bothered | 496 |
 | More than 1 check box filled in | 18 |
+| Not NA | 73775 |
 | NA | 2341 |
 
 
@@ -11129,6 +11915,7 @@ Z102_5:SKJEMA5E; (Z_99_5:SKJEMA5D); (Z_98_5:SKJEMA5C); (Z_98_5:SKJEMA5B); (Z_91_
 | Quite bothered | 2792 |
 | Very bothered | 558 |
 | More than 1 check box filled in | 22 |
+| Not NA | 73764 |
 | NA | 2352 |
 
 
@@ -11143,6 +11930,7 @@ Z102_6:SKJEMA5E; (Z_99_6:SKJEMA5D); (Z_98_6:SKJEMA5C); (Z_98_6:SKJEMA5B); (Z_91_
 | A little bothered | 28422 |
 | Very bothered | 1008 |
 | More than 1 check box filled in | 20 |
+| Not NA | 73791 |
 | NA | 2325 |
 
 
@@ -11157,6 +11945,7 @@ Z102_7:SKJEMA5E; (Z_99_7:SKJEMA5D); (Z_98_7:SKJEMA5C); (Z_98_7:SKJEMA5B); (Z_91_
 | A little bothered | 18732 |
 | Very bothered | 457 |
 | More than 1 check box filled in | 10 |
+| Not NA | 73761 |
 | NA | 2355 |
 
 
@@ -11171,6 +11960,7 @@ Z102_8:SKJEMA5E; (Z_99_8:SKJEMA5D); (Z_98_8:SKJEMA5C); (Z_98_8:SKJEMA5B); (Z_91_
 | Quite bothered | 487 |
 | Very bothered | 154 |
 | More than 1 check box filled in | 4 |
+| Not NA | 73783 |
 | NA | 2333 |
 
 
@@ -11183,6 +11973,7 @@ Z103_1_1:SKJEMA5E; (Z100_1_1:SKJEMA5D); (Z_99_1_1:SKJEMA5C); (Z_99_1_1:SKJEMA5B)
 | No | 57780 |
 | Yes | 15609 |
 | More than 1 check box filled in | 2 |
+| Not NA | 73391 |
 | NA | 2725 |
 
 
@@ -11196,6 +11987,7 @@ Z103_1_2:SKJEMA5E; (Z100_1_2:SKJEMA5D); (Z_99_1_2:SKJEMA5C); (Z_99_1_2:SKJEMA5B)
 | Painful/difficult | 5162 |
 | Very painful/difficult | 1448 |
 | More than 1 check box filled in | 3 |
+| Not NA | 15790 |
 | NA | 60326 |
 
 
@@ -11208,6 +12000,7 @@ Z103_2_1:SKJEMA5E; (Z100_2_1:SKJEMA5D); (Z_99_2_1:SKJEMA5C); (Z_99_2_1:SKJEMA5B)
 | Yes | 13591 |
 | No | 59934 |
 | More than 1 check box filled in | 4 |
+| Not NA | 73529 |
 | NA | 2587 |
 
 
@@ -11221,6 +12014,7 @@ Z103_2_2:SKJEMA5E; (Z100_2_2:SKJEMA5D); (Z_99_2_2:SKJEMA5C); (Z_99_2_2:SKJEMA5B)
 | Painful/difficult | 3578 |
 | Very painful/difficult | 1034 |
 | More than 1 check box filled in | 5 |
+| Not NA | 13613 |
 | NA | 62503 |
 
 
@@ -11233,6 +12027,7 @@ Z103_3_1:SKJEMA5E; (Z100_3_1:SKJEMA5D); (Z_99_3_1:SKJEMA5C); (Z_99_3_1:SKJEMA5B)
 | No | 72113 |
 | Yes | 1607 |
 | More than 1 check box filled in | 1 |
+| Not NA | 73721 |
 | NA | 2395 |
 
 
@@ -11245,6 +12040,7 @@ Z103_3_2:SKJEMA5E; (Z100_3_2:SKJEMA5D); (Z_99_3_2:SKJEMA5C); (Z_99_3_2:SKJEMA5B)
 | Painful/difficult | 535 |
 | Not so bad | 411 |
 | Very painful/difficult | 728 |
+| Not NA | 1674 |
 | NA | 74442 |
 
 
@@ -11257,6 +12053,7 @@ Z103_4_1:SKJEMA5E; (Z100_4_1:SKJEMA5D); (Z_99_4_1:SKJEMA5C); (Z_99_4_1:SKJEMA5B)
 | No | 59482 |
 | Yes | 14056 |
 | More than 1 check box filled in | 10 |
+| Not NA | 73548 |
 | NA | 2568 |
 
 
@@ -11270,6 +12067,7 @@ Z103_4_2:SKJEMA5E; (Z100_4_2:SKJEMA5D); (Z_99_4_2:SKJEMA5C); (Z_99_4_2:SKJEMA5B)
 | Not so bad | 5903 |
 | Very painful/difficult | 2044 |
 | More than 1 check box filled in | 11 |
+| Not NA | 14003 |
 | NA | 62113 |
 
 
@@ -11282,6 +12080,7 @@ Z103_5_1:SKJEMA5E; (Z100_5_1:SKJEMA5D); (Z_99_5_1:SKJEMA5C); (Z_99_5_1:SKJEMA5B)
 | No | 67008 |
 | Yes | 6577 |
 | More than 1 check box filled in | 3 |
+| Not NA | 73588 |
 | NA | 2528 |
 
 
@@ -11295,6 +12094,7 @@ Z103_5_2:SKJEMA5E; (Z100_5_2:SKJEMA5D); (Z_99_5_2:SKJEMA5C); (Z_99_5_2:SKJEMA5B)
 | Not so bad | 2720 |
 | Very painful/difficult | 1414 |
 | More than 1 check box filled in | 7 |
+| Not NA | 6611 |
 | NA | 69505 |
 
 
@@ -11307,6 +12107,7 @@ Z103_6_1:SKJEMA5E; (Z100_6_1:SKJEMA5D); (Z_99_6_1:SKJEMA5C); (Z_99_6_1:SKJEMA5B)
 | No | 70266 |
 | Yes | 3370 |
 | More than 1 check box filled in | 2 |
+| Not NA | 73638 |
 | NA | 2478 |
 
 
@@ -11320,6 +12121,7 @@ Z103_6_2:SKJEMA5E; (Z100_6_2:SKJEMA5D); (Z_99_6_2:SKJEMA5C); (Z_99_6_2:SKJEMA5B)
 | Not so bad | 1190 |
 | Very painful/difficult | 705 |
 | More than 1 check box filled in | 6 |
+| Not NA | 3410 |
 | NA | 72706 |
 
 
@@ -11331,6 +12133,7 @@ Z103_7_1:SKJEMA5E; (Z100_7_1:SKJEMA5D); (Z_99_7_1:SKJEMA5C); (Z_99_7_1:SKJEMA5B)
 | -------- | - |
 | No | 61601 |
 | Yes | 12019 |
+| Not NA | 73620 |
 | NA | 2496 |
 
 
@@ -11344,6 +12147,7 @@ Z103_7_2:SKJEMA5E; (Z100_7_2:SKJEMA5D); (Z_99_7_2:SKJEMA5C); (Z_99_7_2:SKJEMA5B)
 | Very painful/difficult | 3269 |
 | Not so bad | 2759 |
 | More than 1 check box filled in | 6 |
+| Not NA | 11831 |
 | NA | 64285 |
 
 
@@ -11356,6 +12160,7 @@ Z103_8_1:SKJEMA5E; (Z100_8_1:SKJEMA5D); (Z_99_8_1:SKJEMA5C); (Z_99_8_1:SKJEMA5B)
 | No | 72946 |
 | Yes | 761 |
 | More than 1 check box filled in | 1 |
+| Not NA | 73708 |
 | NA | 2408 |
 
 
@@ -11369,6 +12174,7 @@ Z103_8_2:SKJEMA5E; (Z100_8_2:SKJEMA5D); (Z_99_8_2:SKJEMA5C); (Z_99_8_2:SKJEMA5B)
 | Painful/difficult | 290 |
 | Very painful/difficult | 182 |
 | More than 1 check box filled in | 1 |
+| Not NA | 806 |
 | NA | 75310 |
 
 
@@ -11381,6 +12187,7 @@ Z103_9_1:SKJEMA5E; (Z100_9_1:SKJEMA5D); (Z_99_9_1:SKJEMA5C); (Z_99_9_1:SKJEMA5B)
 | No | 66366 |
 | Yes | 7404 |
 | More than 1 check box filled in | 2 |
+| Not NA | 73772 |
 | NA | 2344 |
 
 
@@ -11394,6 +12201,7 @@ Z103_9_2:SKJEMA5E; (Z100_9_2:SKJEMA5D); (Z_99_9_2:SKJEMA5C); (Z_99_9_2:SKJEMA5B)
 | Very painful/difficult | 2441 |
 | Not so bad | 1616 |
 | More than 1 check box filled in | 9 |
+| Not NA | 7216 |
 | NA | 68900 |
 
 
@@ -11406,6 +12214,7 @@ Z10310_1:SKJEMA5E; (Z10010_1:SKJEMA5D); (Z_9910_1:SKJEMA5C); (Z_9910_1:SKJEMA5B)
 | No | 73368 |
 | Yes | 322 |
 | More than 1 check box filled in | 1 |
+| Not NA | 73691 |
 | NA | 2425 |
 
 
@@ -11418,6 +12227,7 @@ Z10310_2:SKJEMA5E; (Z10010_2:SKJEMA5D); (Z_9910_2:SKJEMA5C); (Z_9910_2:SKJEMA5B)
 | Not so bad | 157 |
 | Very painful/difficult | 65 |
 | Painful/difficult | 117 |
+| Not NA | 339 |
 | NA | 75777 |
 
 
@@ -11430,6 +12240,7 @@ Z10311_1:SKJEMA5E; (Z10011_1:SKJEMA5D); (Z_9911_1:SKJEMA5C); (Z_9911_1:SKJEMA5B)
 | No | 58760 |
 | Yes | 1872 |
 | More than 1 check box filled in | 4 |
+| Not NA | 60636 |
 | NA | 15480 |
 
 
@@ -11443,6 +12254,7 @@ Z10311_2:SKJEMA5E; (Z10011_2:SKJEMA5D); (Z_9911_2:SKJEMA5C); (Z_9911_2:SKJEMA5B)
 | Painful/difficult | 1003 |
 | Not so bad | 289 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1960 |
 | NA | 74156 |
 
 
@@ -11458,6 +12270,7 @@ Z104:SKJEMA5E; (Z101:SKJEMA5D); (Z100:SKJEMA5C); (Z100:SKJEMA5B); (Z_93:SKJEMA5A
 | Poor | 394 |
 | More than 1 check box filled in | 57 |
 | Very poor | 121 |
+| Not NA | 73923 |
 | NA | 2193 |
 
 
@@ -11473,6 +12286,7 @@ Z105:SKJEMA5E; (Z102:SKJEMA5D); (Z101:SKJEMA5C); (Z101:SKJEMA5B); (Z_94:SKJEMA5A
 | Unsatisfied | 6022 |
 | Very unsatisfied | 2030 |
 | More than 1 check box filled in | 59 |
+| Not NA | 73802 |
 | NA | 2314 |
 
 
@@ -11488,6 +12302,7 @@ Z106_1:SKJEMA5E; (Z103_1:SKJEMA5D); (Z102_1:SKJEMA5C); (Z102_1:SKJEMA5B); (Z_95_
 | To some degree | 5703 |
 | Very much | 896 |
 | More than 1 check box filled in | 11 |
+| Not NA | 73772 |
 | NA | 2344 |
 
 
@@ -11503,6 +12318,7 @@ Z106_2:SKJEMA5E; (Z103_2:SKJEMA5D); (Z102_2:SKJEMA5C); (Z102_2:SKJEMA5B); (Z_95_
 | Quite much | 1558 |
 | Very much | 1086 |
 | More than 1 check box filled in | 143 |
+| Not NA | 73779 |
 | NA | 2337 |
 
 
@@ -11518,6 +12334,7 @@ Z106_3:SKJEMA5E; (Z103_3:SKJEMA5D); (Z102_3:SKJEMA5C); (Z102_3:SKJEMA5B); (Z_95_
 | To some degree | 8278 |
 | A little | 1794 |
 | More than 1 check box filled in | 56 |
+| Not NA | 73739 |
 | NA | 2377 |
 
 
@@ -11533,6 +12350,7 @@ Z106_4:SKJEMA5E; (Z103_4:SKJEMA5D); (Z102_4:SKJEMA5C); (Z102_4:SKJEMA5B); (Z_95_
 | Not at all | 583 |
 | A little | 1399 |
 | More than 1 check box filled in | 59 |
+| Not NA | 73526 |
 | NA | 2590 |
 
 
@@ -11548,6 +12366,7 @@ Z106_5:SKJEMA5E; (Z103_5:SKJEMA5D); (Z102_5:SKJEMA5C); (Z102_5:SKJEMA5B); (Z_95_
 | A little | 2456 |
 | To some degree | 15026 |
 | More than 1 check box filled in | 43 |
+| Not NA | 73722 |
 | NA | 2394 |
 
 
@@ -11563,6 +12382,7 @@ Z106_6:SKJEMA5E; (Z103_6:SKJEMA5D); (Z102_6:SKJEMA5C); (Z102_6:SKJEMA5B); (Z_95_
 | To some degree | 5821 |
 | A little | 1082 |
 | More than 1 check box filled in | 21 |
+| Not NA | 73712 |
 | NA | 2404 |
 
 
@@ -11578,6 +12398,7 @@ Z106_7:SKJEMA5E; (Z103_7:SKJEMA5D); (Z102_7:SKJEMA5C); (Z102_7:SKJEMA5B); (Z_95_
 | To some degree | 11564 |
 | A little | 1747 |
 | More than 1 check box filled in | 23 |
+| Not NA | 73520 |
 | NA | 2596 |
 
 
@@ -11593,6 +12414,7 @@ Z107_1:SKJEMA5E; (Z104_1:SKJEMA5D); (Z103_1:SKJEMA5C); (Z103_1:SKJEMA5B); (Z_96_
 | A little | 5365 |
 | Not at all | 2454 |
 | More than 1 check box filled in | 28 |
+| Not NA | 73875 |
 | NA | 2241 |
 
 
@@ -11608,6 +12430,7 @@ Z107_2:SKJEMA5E; (Z104_2:SKJEMA5D); (Z103_2:SKJEMA5C); (Z103_2:SKJEMA5B); (Z_96_
 | Totally | 9952 |
 | Not at all | 1119 |
 | More than 1 check box filled in | 35 |
+| Not NA | 73866 |
 | NA | 2250 |
 
 
@@ -11623,6 +12446,7 @@ Z107_3:SKJEMA5E; (Z104_3:SKJEMA5D); (Z103_3:SKJEMA5C); (Z103_3:SKJEMA5B); (Z_96_
 | To some degree | 18834 |
 | More than 1 check box filled in | 46 |
 | Not at all | 1560 |
+| Not NA | 73857 |
 | NA | 2259 |
 
 
@@ -11638,6 +12462,7 @@ Z107_4:SKJEMA5E; (Z104_4:SKJEMA5D); (Z103_4:SKJEMA5C); (Z103_4:SKJEMA5B); (Z_96_
 | A little | 1270 |
 | Not at all | 144 |
 | More than 1 check box filled in | 7 |
+| Not NA | 73515 |
 | NA | 2601 |
 
 
@@ -11653,6 +12478,7 @@ Z107_5:SKJEMA5E; (Z104_5:SKJEMA5D); (Z103_5:SKJEMA5C); (Z103_5:SKJEMA5B); (Z_96_
 | Not at all | 3680 |
 | A little | 13677 |
 | More than 1 check box filled in | 46 |
+| Not NA | 73811 |
 | NA | 2305 |
 
 
@@ -11668,6 +12494,7 @@ Z108:SKJEMA5E; (Z105:SKJEMA5D); (Z104:SKJEMA5C); (Z104:SKJEMA5B); (Z_97:SKJEMA5A
 | Badly | 1244 |
 | Very badly | 612 |
 | More than 1 check box filled in | 46 |
+| Not NA | 73561 |
 | NA | 2555 |
 
 
@@ -11683,6 +12510,7 @@ Z109_1:SKJEMA5E; (Z106_1:SKJEMA5D); (Z105_1:SKJEMA5C); (Z105_1:SKJEMA5B); (Z_98_
 | Neither satisfied nor unsatisfied | 10630 |
 | Very unsatisfied | 2574 |
 | More than 1 check box filled in | 35 |
+| Not NA | 73969 |
 | NA | 2147 |
 
 
@@ -11698,6 +12526,7 @@ Z109_2:SKJEMA5E; (Z106_2:SKJEMA5D); (Z105_2:SKJEMA5C); (Z105_2:SKJEMA5B); (Z_98_
 | Unsatisfied | 7053 |
 | Very unsatisfied | 1050 |
 | More than 1 check box filled in | 19 |
+| Not NA | 73917 |
 | NA | 2199 |
 
 
@@ -11713,6 +12542,7 @@ Z109_3:SKJEMA5E; (Z106_3:SKJEMA5D); (Z105_3:SKJEMA5C); (Z105_3:SKJEMA5B); (Z_98_
 | Unsatisfied | 7271 |
 | Very unsatisfied | 1382 |
 | More than 1 check box filled in | 42 |
+| Not NA | 73791 |
 | NA | 2325 |
 
 
@@ -11728,6 +12558,7 @@ Z109_4:SKJEMA5E; (Z106_4:SKJEMA5D); (Z105_4:SKJEMA5C); (Z105_4:SKJEMA5B); (Z_98_
 | Unsatisfied | 3819 |
 | Very unsatisfied | 747 |
 | More than 1 check box filled in | 39 |
+| Not NA | 73919 |
 | NA | 2197 |
 
 
@@ -11743,6 +12574,7 @@ Z109_5:SKJEMA5E; (Z106_5:SKJEMA5D); (Z105_5:SKJEMA5C); (Z105_5:SKJEMA5B); (Z_98_
 | Unsatisfied | 2106 |
 | Very unsatisfied | 356 |
 | More than 1 check box filled in | 48 |
+| Not NA | 73867 |
 | NA | 2249 |
 
 
@@ -11758,6 +12590,7 @@ Z109_6:SKJEMA5E; (Z106_6:SKJEMA5D); (Z105_6:SKJEMA5C); (Z105_6:SKJEMA5B); (Z_98_
 | Unsatisfied | 9418 |
 | Very unsatisfied | 3413 |
 | More than 1 check box filled in | 48 |
+| Not NA | 73767 |
 | NA | 2349 |
 
 
@@ -11773,6 +12606,7 @@ Z109_7:SKJEMA5E; (Z106_7:SKJEMA5D); (Z105_7:SKJEMA5C); (Z105_7:SKJEMA5B); (Z_98_
 | Unsatisfied | 2056 |
 | Very unsatisfied | 453 |
 | More than 1 check box filled in | 31 |
+| Not NA | 73846 |
 | NA | 2270 |
 
 
@@ -11788,6 +12622,7 @@ Z109_8:SKJEMA5E; (Z106_8:SKJEMA5D); (Z105_8:SKJEMA5C); (Z105_8:SKJEMA5B); (Z_98_
 | Unsatisfied | 3777 |
 | Very unsatisfied | 909 |
 | More than 1 check box filled in | 42 |
+| Not NA | 73893 |
 | NA | 2223 |
 
 
@@ -11803,6 +12638,7 @@ Z109_9:SKJEMA5E; (Z106_9:SKJEMA5D); (Z105_9:SKJEMA5C); (Z105_9:SKJEMA5B); (Z_98_
 | Unsatisfied | 1577 |
 | Very unsatisfied | 434 |
 | More than 1 check box filled in | 18 |
+| Not NA | 73896 |
 | NA | 2220 |
 
 
@@ -11818,6 +12654,7 @@ Z10910:SKJEMA5E; (Z10610:SKJEMA5D); (Z105_10:SKJEMA5C); (Z105_10:SKJEMA5B); (Z_9
 | Neither satisfied nor unsatisfied | 5412 |
 | Very unsatisfied | 728 |
 | More than 1 check box filled in | 21 |
+| Not NA | 73915 |
 | NA | 2201 |
 
 
@@ -11833,6 +12670,7 @@ Z110:SKJEMA5E; (Z107:SKJEMA5D); (Z106:SKJEMA5C); (Z106:SKJEMA5B); (Z_99:SKJEMA5A
 | Often | 11438 |
 | Always | 274 |
 | More than 1 check box filled in | 99 |
+| Not NA | 74355 |
 | NA | 1761 |
 
 
@@ -11848,6 +12686,7 @@ ALDERUTSENDT_S5:SKJEMA5D; (ALDERUTSENDT_S5:SKJEMA5C); (ALDERUTSENDT_S5:SKJEMA5B)
 | Mean | 553.530637448105 |
 | 3rd Qu. | 552 |
 | Max. | 835 |
+| Not NA | 76116 |
 
 
 ### ALDERUTFYLT_S5
@@ -11863,6 +12702,7 @@ ALDERUTFYLT:SKJEMA5D; (ALDERUTFYLT:SKJEMA5C); (ALDERUTFYLT:SKJEMA5B); (ALDERUTFY
 | 3rd Qu. | 571 |
 | Max. | 4585 |
 | NA's | 1201 |
+| Not NA | 74915 |
 
 
 ### ALDERRETUR_S5
@@ -11877,6 +12717,7 @@ ALDERRETUR:SKJEMA5D; (ALDERRETUR:SKJEMA5C); (ALDERRETUR:SKJEMA5B); (ALDERRETUR:S
 | Mean | 579.412212938147 |
 | 3rd Qu. | 587 |
 | Max. | 4617 |
+| Not NA | 76116 |
 
 
 ### Q5P1
@@ -11891,6 +12732,7 @@ Q5P1:SKJEMA5E; (Q5P1:SKJEMA5D); (Q5P1:SKJEMA5C); (Q5P1:SKJEMA5B); (Q5P1:SKJEMA5A
 | Mean | 10.7621262283882 |
 | 3rd Qu. | 13 |
 | Max. | 35 |
+| Not NA | 76116 |
 
 
 ### Q5P2
@@ -11905,6 +12747,7 @@ Q5P2:SKJEMA5E; (Q5P2:SKJEMA5D); (Q5P2:SKJEMA5C); (Q5P2:SKJEMA5B); (Q5P2:SKJEMA5A
 | Mean | 41.0115613011719 |
 | 3rd Qu. | 43 |
 | Max. | 45 |
+| Not NA | 76116 |
 
 
 ### Q5P3
@@ -11919,6 +12762,7 @@ Q5P3:SKJEMA5E; (Q5P3:SKJEMA5D); (Q5P3:SKJEMA5C); (Q5P3:SKJEMA5B); (Q5P3:SKJEMA5A
 | Mean | 9.82495138998371 |
 | 3rd Qu. | 10 |
 | Max. | 34 |
+| Not NA | 76116 |
 
 
 ### Q5P4
@@ -11933,6 +12777,7 @@ Q5P4:SKJEMA5E; (Q5P4:SKJEMA5D); (Q5P4:SKJEMA5C); (Q5P4:SKJEMA5B); (Q5P4:SKJEMA5A
 | Mean | 24.4912501970676 |
 | 3rd Qu. | 29 |
 | Max. | 53 |
+| Not NA | 76116 |
 
 
 ### Q5P5
@@ -11947,6 +12792,7 @@ Q5P5:SKJEMA5E; (Q5P5:SKJEMA5D); (Q5P5:SKJEMA5C); (Q5P5:SKJEMA5B); (Q5P5:SKJEMA5A
 | Mean | 41.7620999527038 |
 | 3rd Qu. | 47 |
 | Max. | 80 |
+| Not NA | 76116 |
 
 
 ### Q5P6
@@ -11961,6 +12807,7 @@ Q5P6:SKJEMA5E; (Q5P6:SKJEMA5D); (Q5P6:SKJEMA5C); (Q5P6:SKJEMA5B); (Q5P6:SKJEMA5A
 | Mean | 34.7023227705082 |
 | 3rd Qu. | 39 |
 | Max. | 84 |
+| Not NA | 76116 |
 
 
 ### Q5P7
@@ -11975,6 +12822,7 @@ Q5P7:SKJEMA5E; (Q5P7:SKJEMA5D); (Q5P7:SKJEMA5C); (Q5P7:SKJEMA5B); (Q5P7:SKJEMA5A
 | Mean | 25.8969073519365 |
 | 3rd Qu. | 30 |
 | Max. | 65 |
+| Not NA | 76116 |
 
 
 ### Q5P8
@@ -11989,6 +12837,7 @@ Q5P8:SKJEMA5E; (Q5P8:SKJEMA5D); (Q5P8:SKJEMA5C); (Q5P8:SKJEMA5B); (Q5P8:SKJEMA5A
 | Mean | 30.2730437752903 |
 | 3rd Qu. | 30 |
 | Max. | 39 |
+| Not NA | 76116 |
 
 
 ### Q5P9
@@ -12003,6 +12852,7 @@ Q5P9:SKJEMA5E; (Q5P9:SKJEMA5D); (Q5P9:SKJEMA5C); (Q5P9:SKJEMA5B); (Q5P9:SKJEMA5A
 | Mean | 35.8379578538021 |
 | 3rd Qu. | 38 |
 | Max. | 38 |
+| Not NA | 76116 |
 
 
 ### Q5P10
@@ -12017,6 +12867,7 @@ Q5P10:SKJEMA5E; (Q5P10:SKJEMA5D); (Q5P10:SKJEMA5C); (Q5P10:SKJEMA5B); (Q5P10:SKJ
 | Mean | 28.2980976404435 |
 | 3rd Qu. | 30 |
 | Max. | 41 |
+| Not NA | 76116 |
 
 
 ### Q5P11
@@ -12031,6 +12882,7 @@ Q5P11:SKJEMA5E; (Q5P11:SKJEMA5D); (Q5P11:SKJEMA5C); (Q5P11:SKJEMA5B); (Q5P11:SKJ
 | Mean | 16.4869935361816 |
 | 3rd Qu. | 18 |
 | Max. | 30 |
+| Not NA | 76116 |
 
 
 ### Q5P12
@@ -12045,6 +12897,7 @@ Q5P12:SKJEMA5E; (Q5P12:SKJEMA5D); (Q5P12:SKJEMA5C); (Q5P12:SKJEMA5B); (Q5P12:SKJ
 | Mean | 24.2782857743444 |
 | 3rd Qu. | 27 |
 | Max. | 34 |
+| Not NA | 76116 |
 
 
 ### Q5P13
@@ -12059,6 +12912,7 @@ Q5P13:SKJEMA5E; (Q5P13:SKJEMA5D); (Q5P13:SKJEMA5C); (Q5P13:SKJEMA5B); (Q5P13:SKJ
 | Mean | 16.9245887855379 |
 | 3rd Qu. | 18 |
 | Max. | 31 |
+| Not NA | 76116 |
 
 
 ### Q5P14
@@ -12073,6 +12927,7 @@ Q5P14:SKJEMA5E; (Q5P14:SKJEMA5D); (Q5P14:SKJEMA5C); (Q5P14:SKJEMA5B); (Q5P14:SKJ
 | Mean | 21.5478742971254 |
 | 3rd Qu. | 24 |
 | Max. | 35 |
+| Not NA | 76116 |
 
 
 ### Q5P15
@@ -12087,6 +12942,7 @@ Q5P15:SKJEMA5E; (Q5P15:SKJEMA5D); (Q5P15:SKJEMA5C); (Q5P15:SKJEMA5B); (Q5P15:SKJ
 | Mean | 22.1006227337222 |
 | 3rd Qu. | 23 |
 | Max. | 33 |
+| Not NA | 76116 |
 
 
 ### Q5P16
@@ -12101,6 +12957,7 @@ Q5P16:SKJEMA5E; (Q5P16:SKJEMA5D); (Q5P16:SKJEMA5C); (Q5P16:SKJEMA5B); (Q5P16:SKJ
 | Mean | 27.7591964895686 |
 | 3rd Qu. | 30 |
 | Max. | 40 |
+| Not NA | 76116 |
 
 
 ### Q5P17
@@ -12116,6 +12973,7 @@ Q5P17:SKJEMA5E; (Q5P17:SKJEMA5D); (Q5P17:SKJEMA5C); (Q5P17:SKJEMA5B); (Q5P17:SKJ
 | 3rd Qu. | 25 |
 | Max. | 25 |
 | NA's | 4974 |
+| Not NA | 71142 |
 
 
 ### Q5P18
@@ -12130,6 +12988,7 @@ Q5P18:SKJEMA5E; (Q5P18:SKJEMA5D); (Q5P18:SKJEMA5C); (Q5P18:SKJEMA5B); (Q5P18:SKJ
 | 5 | 1005 |
 | 3 | 1930 |
 | 0 | 1039 |
+| Not NA | 71142 |
 | NA | 4974 |
 
 

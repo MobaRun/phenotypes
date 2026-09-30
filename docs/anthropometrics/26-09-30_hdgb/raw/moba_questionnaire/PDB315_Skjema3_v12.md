@@ -1183,6 +1183,7 @@
 | SKJEMA3C | 62678 |
 | SKJEMA3A | 4425 |
 | SKJEMA3B | 862 |
+| Not NA | 93809 |
 | NA | 0 |
 
 
@@ -1203,6 +1204,7 @@ U__0_3:SKJEMA3E; (U_0_3:SKJEMA3C); (U_0_3:SKJEMA3B); (U__0_3:SKJEMA3A); year; 0.
 | 2009 | 1769 |
 | 9999 | 141 |
 | 2000 | 1456 |
+| Not NA | 92426 |
 | NA | 1383 |
 
 
@@ -1215,6 +1217,7 @@ U__8_1:SKJEMA3E; (U_8_1:SKJEMA3C); (U_8_1:SKJEMA3B); (U__8_1:SKJEMA3A); ; 8. Hav
 | No | 33732 |
 | Yes | 58316 |
 | More than 1 check box filled in | 5 |
+| Not NA | 92053 |
 | NA | 1756 |
 
 
@@ -1231,6 +1234,7 @@ U__8_2:SKJEMA3E; (U_8_2:SKJEMA3C); (U_8_2:SKJEMA3B); (U__8_2:SKJEMA3A); Number o
 | 3rd Qu. | 1 |
 | Max. | 34 |
 | NA's | 37298 |
+| Not NA | 56511 |
 
 
 ### CC50
@@ -1246,6 +1250,7 @@ U__9_1:SKJEMA3E; (U_9_1:SKJEMA3C); (U_9_1:SKJEMA3B); (U__9_1:SKJEMA3A); External
 | 3rd Qu. | 2 |
 | Max. | 50 |
 | NA's | 1353 |
+| Not NA | 92456 |
 
 
 ### CC51
@@ -1261,6 +1266,7 @@ U__9_2:SKJEMA3E; (U_9_2:SKJEMA3C); (U_9_2:SKJEMA3B); (U__9_2:SKJEMA3A); Internal
 | 3rd Qu. | 2 |
 | Max. | 24 |
 | NA's | 38599 |
+| Not NA | 55210 |
 
 
 ### CC52
@@ -1276,6 +1282,7 @@ U_10:SKJEMA3E; (U_10:SKJEMA3C); (U_10:SKJEMA3B); ; 10. How many children are you
 | 4 | 3 |
 | 5 | 1 |
 | 9 | 1 |
+| Not NA | 87368 |
 | NA | 6441 |
 
 
@@ -1288,6 +1295,7 @@ U_11:SKJEMA3E; (U_11:SKJEMA3C); (U_11:SKJEMA3B); (U_10:SKJEMA3A); ; 11. Have you
 | No | 87717 |
 | Yes | 5027 |
 | More than 1 check box filled in | 3 |
+| Not NA | 92747 |
 | NA | 1062 |
 
 
@@ -1299,6 +1307,7 @@ U_12_1_1:SKJEMA3E; (U_12_1_1:SKJEMA3C); (U_12_1_1:SKJEMA3B); (U_11_1_1:SKJEMA3A)
 | -------- | - |
 | Yes | 1509 |
 | No | 3397 |
+| Not NA | 4906 |
 | NA | 88903 |
 
 
@@ -1311,6 +1320,7 @@ U_12_1_2:SKJEMA3E; (U_12_1_2:SKJEMA3C); (U_12_1_2:SKJEMA3B); (U_11_1_2:SKJEMA3A)
 | Yes | 1457 |
 | No | 78 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1536 |
 | NA | 92273 |
 
 
@@ -1322,6 +1332,7 @@ U_12_2_1:SKJEMA3E; (U_12_2_1:SKJEMA3C); (U_12_2_1:SKJEMA3B); (U_11_2_1:SKJEMA3A)
 | -------- | - |
 | No | 3263 |
 | Yes | 168 |
+| Not NA | 3431 |
 | NA | 90378 |
 
 
@@ -1334,6 +1345,7 @@ U_12_2_2:SKJEMA3E; (U_12_2_2:SKJEMA3C); (U_12_2_2:SKJEMA3B); (U_11_2_2:SKJEMA3A)
 | Yes | 162 |
 | No | 74 |
 | More than 1 check box filled in | 1 |
+| Not NA | 237 |
 | NA | 93572 |
 
 
@@ -1344,6 +1356,7 @@ U_13_1:SKJEMA3E; (U_13_1:SKJEMA3C); (U_13_1:SKJEMA3B); (U_12_1:SKJEMA3A); Due to
 | Category | n |
 | -------- | - |
 | 1 | 1385 |
+| Not NA | 1385 |
 | NA | 92424 |
 
 
@@ -1354,6 +1367,7 @@ U_13_2:SKJEMA3E; (U_13_2:SKJEMA3C); (U_13_2:SKJEMA3B); (U_12_2:SKJEMA3A); Previo
 | Category | n |
 | -------- | - |
 | 1 | 120 |
+| Not NA | 120 |
 | NA | 93689 |
 
 
@@ -1364,6 +1378,7 @@ U_13_3:SKJEMA3E; (U_13_3:SKJEMA3C); (U_13_3:SKJEMA3B); (U_12_3:SKJEMA3A); Previo
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 93800 |
 
 
@@ -1374,6 +1389,7 @@ U_13_4:SKJEMA3E; (U_13_4:SKJEMA3C); (U_13_4:SKJEMA3B); (U_12_4:SKJEMA3A); Epilep
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 93782 |
 
 
@@ -1384,6 +1400,7 @@ U_13_5:SKJEMA3E; (U_13_5:SKJEMA3C); (U_13_5:SKJEMA3B); (U_12_5:SKJEMA3A); Ultras
 | Category | n |
 | -------- | - |
 | 1 | 238 |
+| Not NA | 238 |
 | NA | 93571 |
 
 
@@ -1394,6 +1411,7 @@ U_13_6:SKJEMA3E; (U_13_6:SKJEMA3C); (U_13_6:SKJEMA3B); (U_12_6:SKJEMA3A); Other;
 | Category | n |
 | -------- | - |
 | 1 | 306 |
+| Not NA | 306 |
 | NA | 93503 |
 
 
@@ -1405,6 +1423,7 @@ U_14:SKJEMA3E; (U_14:SKJEMA3C); (U_14:SKJEMA3B); (U_13:SKJEMA3A); ; 14. Were the
 | -------- | - |
 | No | 1713 |
 | Yes | 110 |
+| Not NA | 1823 |
 | NA | 91986 |
 
 
@@ -1415,6 +1434,7 @@ U_15_1:SKJEMA3E; (U_15_1:SKJEMA3C); (U_15_1:SKJEMA3B); (U_14_1:SKJEMA3A); Vagina
 | Category | n |
 | -------- | - |
 | 1 | 45 |
+| Not NA | 45 |
 | NA | 93764 |
 
 
@@ -1425,6 +1445,7 @@ U_15_2:SKJEMA3E; (U_15_2:SKJEMA3C); (U_15_2:SKJEMA3B); (U_14_2:SKJEMA3A); Leakag
 | Category | n |
 | -------- | - |
 | 1 | 45 |
+| Not NA | 45 |
 | NA | 93764 |
 
 
@@ -1435,6 +1456,7 @@ U_15_3:SKJEMA3E; (U_15_3:SKJEMA3C); (U_15_3:SKJEMA3B); (U_14_3:SKJEMA3A); Abdomi
 | Category | n |
 | -------- | - |
 | 1 | 62 |
+| Not NA | 62 |
 | NA | 93747 |
 
 
@@ -1445,6 +1467,7 @@ U_15_4_1:SKJEMA3E; (U_15_4_1:SKJEMA3C); (U_15_4_1:SKJEMA3B); (U_14_4_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 93786 |
 
 
@@ -1457,6 +1480,7 @@ U_16:SKJEMA3E; (U_16:SKJEMA3C); (U_16:SKJEMA3B); (U_15:SKJEMA3A); ; 16. Have you
 | No | 81859 |
 | Yes | 10287 |
 | More than 1 check box filled in | 14 |
+| Not NA | 92160 |
 | NA | 1649 |
 
 
@@ -1467,6 +1491,7 @@ U_17_1_1:SKJEMA3E; (U_17_1_1:SKJEMA3C); (U_17_1_1:SKJEMA3B); (U_16_1_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3464 |
+| Not NA | 3464 |
 | NA | 90345 |
 
 
@@ -1477,6 +1502,7 @@ U_17_1_2:SKJEMA3E; (U_17_1_2:SKJEMA3C); (U_17_1_2:SKJEMA3B); (U_16_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1596 |
+| Not NA | 1596 |
 | NA | 92213 |
 
 
@@ -1487,6 +1513,7 @@ U_17_1_3:SKJEMA3E; (U_17_1_3:SKJEMA3C); (U_17_1_3:SKJEMA3B); (U_16_1_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1244 |
+| Not NA | 1244 |
 | NA | 92565 |
 
 
@@ -1497,6 +1524,7 @@ U_17_1_4:SKJEMA3E; (U_17_1_4:SKJEMA3C); (U_17_1_4:SKJEMA3B); (U_16_1_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1176 |
+| Not NA | 1176 |
 | NA | 92633 |
 
 
@@ -1507,6 +1535,7 @@ U_17_1_5:SKJEMA3E; (U_17_1_5:SKJEMA3C); (U_17_1_5:SKJEMA3B); (U_16_1_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1190 |
+| Not NA | 1190 |
 | NA | 92619 |
 
 
@@ -1517,6 +1546,7 @@ U_17_1_6:SKJEMA3E; (U_17_1_6:SKJEMA3C); (U_17_1_6:SKJEMA3B); (U_16_1_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 623 |
+| Not NA | 623 |
 | NA | 93186 |
 
 
@@ -1537,6 +1567,7 @@ U_17_1_7:SKJEMA3E; (U_17_1_7:SKJEMA3C); (U_17_1_7:SKJEMA3B); (U_16_1_7:SKJEMA3A)
 | 6 | 13 |
 | 9 | 5 |
 | 10 | 1 |
+| Not NA | 8357 |
 | NA | 85452 |
 
 
@@ -1547,6 +1578,7 @@ U_17_2_1:SKJEMA3E; (U_17_2_1:SKJEMA3C); (U_17_2_1:SKJEMA3B); (U_16_2_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 161 |
+| Not NA | 161 |
 | NA | 93648 |
 
 
@@ -1557,6 +1589,7 @@ U_17_2_2:SKJEMA3E; (U_17_2_2:SKJEMA3C); (U_17_2_2:SKJEMA3B); (U_16_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 38 |
+| Not NA | 38 |
 | NA | 93771 |
 
 
@@ -1567,6 +1600,7 @@ U_17_2_3:SKJEMA3E; (U_17_2_3:SKJEMA3C); (U_17_2_3:SKJEMA3B); (U_16_2_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 52 |
+| Not NA | 52 |
 | NA | 93757 |
 
 
@@ -1577,6 +1611,7 @@ U_17_2_4:SKJEMA3E; (U_17_2_4:SKJEMA3C); (U_17_2_4:SKJEMA3B); (U_16_2_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 56 |
+| Not NA | 56 |
 | NA | 93753 |
 
 
@@ -1587,6 +1622,7 @@ U_17_2_5:SKJEMA3E; (U_17_2_5:SKJEMA3C); (U_17_2_5:SKJEMA3B); (U_16_2_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 59 |
+| Not NA | 59 |
 | NA | 93750 |
 
 
@@ -1597,6 +1633,7 @@ U_17_2_6:SKJEMA3E; (U_17_2_6:SKJEMA3C); (U_17_2_6:SKJEMA3B); (U_16_2_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 46 |
+| Not NA | 46 |
 | NA | 93763 |
 
 
@@ -1614,6 +1651,7 @@ U_17_2_7:SKJEMA3E; (U_17_2_7:SKJEMA3C); (U_17_2_7:SKJEMA3B); (U_16_2_7:SKJEMA3A)
 | 9 | 2 |
 | 7 | 1 |
 | 6 | 1 |
+| Not NA | 565 |
 | NA | 93244 |
 
 
@@ -1624,6 +1662,7 @@ U_17_3_1:SKJEMA3E; (U_17_3_1:SKJEMA3C); (U_17_3_1:SKJEMA3B); (U_16_3_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 314 |
+| Not NA | 314 |
 | NA | 93495 |
 
 
@@ -1634,6 +1673,7 @@ U_17_3_2:SKJEMA3E; (U_17_3_2:SKJEMA3C); (U_17_3_2:SKJEMA3B); (U_16_3_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 83 |
+| Not NA | 83 |
 | NA | 93726 |
 
 
@@ -1644,6 +1684,7 @@ U_17_3_3:SKJEMA3E; (U_17_3_3:SKJEMA3C); (U_17_3_3:SKJEMA3B); (U_16_3_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 94 |
+| Not NA | 94 |
 | NA | 93715 |
 
 
@@ -1654,6 +1695,7 @@ U_17_3_4:SKJEMA3E; (U_17_3_4:SKJEMA3C); (U_17_3_4:SKJEMA3B); (U_16_3_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 76 |
+| Not NA | 76 |
 | NA | 93733 |
 
 
@@ -1664,6 +1706,7 @@ U_17_3_5:SKJEMA3E; (U_17_3_5:SKJEMA3C); (U_17_3_5:SKJEMA3B); (U_16_3_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 65 |
+| Not NA | 65 |
 | NA | 93744 |
 
 
@@ -1674,6 +1717,7 @@ U_17_3_6:SKJEMA3E; (U_17_3_6:SKJEMA3C); (U_17_3_6:SKJEMA3B); (U_16_3_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 43 |
+| Not NA | 43 |
 | NA | 93766 |
 
 
@@ -1693,6 +1737,7 @@ U_17_3_7:SKJEMA3E; (U_17_3_7:SKJEMA3C); (U_17_3_7:SKJEMA3B); (U_16_3_7:SKJEMA3A)
 | 5 | 3 |
 | 8 | 1 |
 | 6 | 1 |
+| Not NA | 776 |
 | NA | 93033 |
 
 
@@ -1703,6 +1748,7 @@ U_17_4_1:SKJEMA3E; (U_17_4_1:SKJEMA3C); (U_17_4_1:SKJEMA3B); (U_16_4_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 196 |
+| Not NA | 196 |
 | NA | 93613 |
 
 
@@ -1713,6 +1759,7 @@ U_17_4_2:SKJEMA3E; (U_17_4_2:SKJEMA3C); (U_17_4_2:SKJEMA3B); (U_16_4_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 93790 |
 
 
@@ -1723,6 +1770,7 @@ U_17_4_3:SKJEMA3E; (U_17_4_3:SKJEMA3C); (U_17_4_3:SKJEMA3B); (U_16_4_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 43 |
+| Not NA | 43 |
 | NA | 93766 |
 
 
@@ -1733,6 +1781,7 @@ U_17_4_4:SKJEMA3E; (U_17_4_4:SKJEMA3C); (U_17_4_4:SKJEMA3B); (U_16_4_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 93782 |
 
 
@@ -1743,6 +1792,7 @@ U_17_4_5:SKJEMA3E; (U_17_4_5:SKJEMA3C); (U_17_4_5:SKJEMA3B); (U_16_4_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 26 |
+| Not NA | 26 |
 | NA | 93783 |
 
 
@@ -1753,6 +1803,7 @@ U_17_4_6:SKJEMA3E; (U_17_4_6:SKJEMA3C); (U_17_4_6:SKJEMA3B); (U_16_4_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 46 |
+| Not NA | 46 |
 | NA | 93763 |
 
 
@@ -1770,6 +1821,7 @@ U_17_4_7:SKJEMA3E; (U_17_4_7:SKJEMA3C); (U_17_4_7:SKJEMA3B); (U_16_4_7:SKJEMA3A)
 | 5 | 1 |
 | 6 | 1 |
 | 4 | 4 |
+| Not NA | 510 |
 | NA | 93299 |
 
 
@@ -1780,6 +1832,7 @@ U_17_5_1:SKJEMA3E; (U_17_5_1:SKJEMA3C); (U_17_5_1:SKJEMA3B); (U_16_5_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 262 |
+| Not NA | 262 |
 | NA | 93547 |
 
 
@@ -1790,6 +1843,7 @@ U_17_5_2:SKJEMA3E; (U_17_5_2:SKJEMA3C); (U_17_5_2:SKJEMA3B); (U_16_5_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 78 |
+| Not NA | 78 |
 | NA | 93731 |
 
 
@@ -1800,6 +1854,7 @@ U_17_5_3:SKJEMA3E; (U_17_5_3:SKJEMA3C); (U_17_5_3:SKJEMA3B); (U_16_5_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 74 |
+| Not NA | 74 |
 | NA | 93735 |
 
 
@@ -1810,6 +1865,7 @@ U_17_5_4:SKJEMA3E; (U_17_5_4:SKJEMA3C); (U_17_5_4:SKJEMA3B); (U_16_5_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 49 |
+| Not NA | 49 |
 | NA | 93760 |
 
 
@@ -1820,6 +1876,7 @@ U_17_5_5:SKJEMA3E; (U_17_5_5:SKJEMA3C); (U_17_5_5:SKJEMA3B); (U_16_5_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 67 |
+| Not NA | 67 |
 | NA | 93742 |
 
 
@@ -1830,6 +1887,7 @@ U_17_5_6:SKJEMA3E; (U_17_5_6:SKJEMA3C); (U_17_5_6:SKJEMA3B); (U_16_5_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 46 |
+| Not NA | 46 |
 | NA | 93763 |
 
 
@@ -1847,6 +1905,7 @@ U_17_5_7:SKJEMA3E; (U_17_5_7:SKJEMA3C); (U_17_5_7:SKJEMA3B); (U_16_5_7:SKJEMA3A)
 | 4 | 8 |
 | 6 | 2 |
 | 8 | 1 |
+| Not NA | 692 |
 | NA | 93117 |
 
 
@@ -1857,6 +1916,7 @@ U_18_1:SKJEMA3E; (U_18_1:SKJEMA3C); (U_18_1:SKJEMA3B); (U_17_1:SKJEMA3A); No; 18
 | Category | n |
 | -------- | - |
 | 1 | 89326 |
+| Not NA | 89326 |
 | NA | 4483 |
 
 
@@ -1867,6 +1927,7 @@ U_18_2:SKJEMA3E; (U_18_2:SKJEMA3C); (U_18_2:SKJEMA3B); (U_17_2:SKJEMA3A); Yes, r
 | Category | n |
 | -------- | - |
 | 1 | 2529 |
+| Not NA | 2529 |
 | NA | 91280 |
 
 
@@ -1877,6 +1938,7 @@ U_18_3:SKJEMA3E; (U_18_3:SKJEMA3C); (U_18_3:SKJEMA3B); (U_17_3:SKJEMA3A); Yes, m
 | Category | n |
 | -------- | - |
 | 1 | 851 |
+| Not NA | 851 |
 | NA | 92958 |
 
 
@@ -1889,6 +1951,7 @@ U_19_1:SKJEMA3E; (U_19_1:SKJEMA3C); (U_19_1:SKJEMA3B); (U_19_1:SKJEMA3A); ; 19. 
 | No | 91484 |
 | Yes | 937 |
 | More than 1 check box filled in | 1 |
+| Not NA | 92422 |
 | NA | 1387 |
 
 
@@ -1901,6 +1964,7 @@ U_20:SKJEMA3E; (U_20:SKJEMA3C); (U_20:SKJEMA3B); ; 20. Has the midwife or doctor
 | No | 84064 |
 | Yes | 4222 |
 | More than 1 check box filled in | 9 |
+| Not NA | 88295 |
 | NA | 5514 |
 
 
@@ -1917,6 +1981,7 @@ U_21_1:SKJEMA3E; (U_21_1:SKJEMA3C); (U_21_1:SKJEMA3B); (U_21_1_1:SKJEMA3A); ; 21
 | 3rd Qu. | 145 |
 | Max. | 280 |
 | NA's | 88229 |
+| Not NA | 5580 |
 
 
 ### CC115
@@ -1932,6 +1997,7 @@ U_21_2:SKJEMA3E; (U_21_2:SKJEMA3C); (U_21_2:SKJEMA3B); (U_21_1_2:SKJEMA3A); ; 21
 | 3rd Qu. | 90 |
 | Max. | 190 |
 | NA's | 88238 |
+| Not NA | 5571 |
 
 
 ### CC116
@@ -1941,6 +2007,7 @@ U_21_3:SKJEMA3E; (U_21_3:SKJEMA3C); (U_21_3:SKJEMA3B); (U_21_2:SKJEMA3A); Do not
 | Category | n |
 | -------- | - |
 | 1 | 370 |
+| Not NA | 370 |
 | NA | 93439 |
 
 
@@ -1954,6 +2021,7 @@ U_22:SKJEMA3E; (U_22:SKJEMA3C); (U_22:SKJEMA3B); (U_22:SKJEMA3A); ; 22. Have you
 | Do not know | 8023 |
 | Yes | 2751 |
 | More than 1 check box filled in | 57 |
+| Not NA | 92363 |
 | NA | 1446 |
 
 
@@ -1970,6 +2038,7 @@ U_23_1:SKJEMA3E; (U_23_1:SKJEMA3C); (U_23_1:SKJEMA3B); (U_23_1_1:SKJEMA3A); ; 23
 | 3rd Qu. | 160 |
 | Max. | 260 |
 | NA's | 92672 |
+| Not NA | 1137 |
 
 
 ### CC119
@@ -1985,6 +2054,7 @@ U_23_2:SKJEMA3E; (U_23_2:SKJEMA3C); (U_23_2:SKJEMA3B); (U_23_1_2:SKJEMA3A); ; 23
 | 3rd Qu. | 100 |
 | Max. | 190 |
 | NA's | 92664 |
+| Not NA | 1145 |
 
 
 ### Q3_L_ANTENATAL
@@ -2000,6 +2070,7 @@ Q3_L_ANTENATAL:SKJEMA3E; (Q3_L_ANTENATAL:SKJEMA3C); (Q3_L_ANTENATAL:SKJEMA3B); (
 | 3rd Qu. | -67 |
 | Max. | 5410 |
 | NA's | 5459 |
+| Not NA | 88350 |
 
 
 ### CC120
@@ -2009,6 +2080,7 @@ U_23_3:SKJEMA3E; (U_23_3:SKJEMA3C); (U_23_3:SKJEMA3B); (U_23_2:SKJEMA3A); Do not
 | Category | n |
 | -------- | - |
 | 1 | 3216 |
+| Not NA | 3216 |
 | NA | 90593 |
 
 
@@ -2025,6 +2097,7 @@ U_24_1_1:SKJEMA3E; (U_24_1_1:SKJEMA3C); (U_24_1_1:SKJEMA3B); (U_24_1_1:SKJEMA3A)
 | 3rd Qu. | 12.5 |
 | Max. | 121 |
 | NA's | 13751 |
+| Not NA | 80058 |
 
 
 ### CC125
@@ -2040,6 +2113,7 @@ U_24_1_2:SKJEMA3E; (U_24_1_2:SKJEMA3C); (U_24_1_2:SKJEMA3B); (U_24_1_2:SKJEMA3A)
 | 3rd Qu. | 29 |
 | Max. | 91 |
 | NA's | 13889 |
+| Not NA | 79920 |
 
 
 ### CC126
@@ -2055,6 +2129,7 @@ U_24_2_1:SKJEMA3E; (U_24_2_1:SKJEMA3C); (U_24_2_1:SKJEMA3B); (U_24_2_1:SKJEMA3A)
 | 3rd Qu. | 13.5 |
 | Max. | 128 |
 | NA's | 18094 |
+| Not NA | 75715 |
 
 
 ### CC127
@@ -2070,6 +2145,7 @@ U_24_2_2:SKJEMA3E; (U_24_2_2:SKJEMA3C); (U_24_2_2:SKJEMA3B); (U_24_2_2:SKJEMA3A)
 | 3rd Qu. | 17 |
 | Max. | 83 |
 | NA's | 19559 |
+| Not NA | 74250 |
 
 
 ### CC128
@@ -2085,6 +2161,7 @@ U_24_3_1:SKJEMA3E; (U_24_3_1:SKJEMA3C); (U_24_3_1:SKJEMA3B); (U_24_3_1:SKJEMA3A)
 | 3rd Qu. | 12.1 |
 | Max. | 100 |
 | NA's | 21608 |
+| Not NA | 72201 |
 
 
 ### CC129
@@ -2100,6 +2177,7 @@ U_24_3_2:SKJEMA3E; (U_24_3_2:SKJEMA3C); (U_24_3_2:SKJEMA3B); (U_24_3_2:SKJEMA3A)
 | 3rd Qu. | 28 |
 | Max. | 73 |
 | NA's | 23044 |
+| Not NA | 70765 |
 
 
 ### CC130
@@ -2109,6 +2187,7 @@ U_24_4:SKJEMA3E; (U_24_4:SKJEMA3C); (U_24_4:SKJEMA3B); (U_24_4:SKJEMA3A); Do not
 | Category | n |
 | -------- | - |
 | 1 | 6744 |
+| Not NA | 6744 |
 | NA | 87065 |
 
 
@@ -2125,6 +2204,7 @@ U_25_1:SKJEMA3E; (U_25_1:SKJEMA3C); (U_25_1:SKJEMA3B); (U_25_1:SKJEMA3A); Weight
 | 3rd Qu. | 84 |
 | Max. | 180 |
 | NA's | 5186 |
+| Not NA | 88623 |
 
 
 ### CC133
@@ -2146,6 +2226,7 @@ U_25_2_2:SKJEMA3E; (U_25_2_2:SKJEMA3C); (U_25_2_2:SKJEMA3B); (U_25_2_2:SKJEMA3A)
 | 5 | 8001 |
 | 3 | 7493 |
 | 19 | 1 |
+| Not NA | 88489 |
 | NA | 5320 |
 
 
@@ -2162,6 +2243,7 @@ U_25_2_3:SKJEMA3E; (U_25_2_3:SKJEMA3C); (U_25_2_3:SKJEMA3B); (U_25_2_3:SKJEMA3A)
 | 3rd Qu. | 2007 |
 | Max. | 2010 |
 | NA's | 5310 |
+| Not NA | 88499 |
 
 
 ### CC1434
@@ -2174,6 +2256,7 @@ U_20:SKJEMA3A; ; 20. Have you had high blood pressure during this pregnancy?
 | Yes | 195 |
 | Do not know | 61 |
 | 0 | 4 |
+| Not NA | 4398 |
 | NA | 89411 |
 
 
@@ -2186,6 +2269,7 @@ U_26_1:SKJEMA3E; (U_26_1:SKJEMA3C); (U_26_1:SKJEMA3B); (U_26_1:SKJEMA3A); ; 26. 
 | No | 87254 |
 | Yes | 5509 |
 | More than 1 check box filled in | 7 |
+| Not NA | 92770 |
 | NA | 1039 |
 
 
@@ -2196,6 +2280,7 @@ U_27_1_1:SKJEMA3E; (U_27_1_1:SKJEMA3C); (U_27_1_1:SKJEMA3B); (U_27_1_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 971 |
+| Not NA | 971 |
 | NA | 92838 |
 
 
@@ -2206,6 +2291,7 @@ U_27_1_2:SKJEMA3E; (U_27_1_2:SKJEMA3C); (U_27_1_2:SKJEMA3B); (U_27_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25 |
+| Not NA | 25 |
 | NA | 93784 |
 
 
@@ -2216,6 +2302,7 @@ U_27_1_3:SKJEMA3E; (U_27_1_3:SKJEMA3C); (U_27_1_3:SKJEMA3B); (U_27_1_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 421 |
+| Not NA | 421 |
 | NA | 93388 |
 
 
@@ -2226,6 +2313,7 @@ U_27_1_4:SKJEMA3E; (U_27_1_4:SKJEMA3C); (U_27_1_4:SKJEMA3B); (U_27_1_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 579 |
+| Not NA | 579 |
 | NA | 93230 |
 
 
@@ -2236,6 +2324,7 @@ U_27_1_5:SKJEMA3E; (U_27_1_5:SKJEMA3C); (U_27_1_5:SKJEMA3B); (U_27_1_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 300 |
+| Not NA | 300 |
 | NA | 93509 |
 
 
@@ -2246,6 +2335,7 @@ U_27_1_6:SKJEMA3E; (U_27_1_6:SKJEMA3C); (U_27_1_6:SKJEMA3B); (U_27_1_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 94 |
+| Not NA | 94 |
 | NA | 93715 |
 
 
@@ -2256,6 +2346,7 @@ U_27_1_7:SKJEMA3E; (U_27_1_7:SKJEMA3C); (U_27_1_7:SKJEMA3B); (U_27_1_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 53 |
+| Not NA | 53 |
 | NA | 93756 |
 
 
@@ -2266,6 +2357,7 @@ U_27_1_8:SKJEMA3E; (U_27_1_8:SKJEMA3C); (U_27_1_8:SKJEMA3B); (U_27_1_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 51 |
+| Not NA | 51 |
 | NA | 93758 |
 
 
@@ -2276,6 +2368,7 @@ U_27_1_9:SKJEMA3E; (U_27_1_9:SKJEMA3C); (U_27_1_9:SKJEMA3B); (U_27_1_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 33 |
+| Not NA | 33 |
 | NA | 93776 |
 
 
@@ -2286,6 +2379,7 @@ U_27_2_1:SKJEMA3E; (U_27_2_1:SKJEMA3C); (U_27_2_1:SKJEMA3B); (U_27_2_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 760 |
+| Not NA | 760 |
 | NA | 93049 |
 
 
@@ -2296,6 +2390,7 @@ U_27_2_2:SKJEMA3E; (U_27_2_2:SKJEMA3C); (U_27_2_2:SKJEMA3B); (U_27_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 93802 |
 
 
@@ -2306,6 +2401,7 @@ U_27_2_3:SKJEMA3E; (U_27_2_3:SKJEMA3C); (U_27_2_3:SKJEMA3B); (U_27_2_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 64 |
+| Not NA | 64 |
 | NA | 93745 |
 
 
@@ -2316,6 +2412,7 @@ U_27_2_4:SKJEMA3E; (U_27_2_4:SKJEMA3C); (U_27_2_4:SKJEMA3B); (U_27_2_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 91 |
+| Not NA | 91 |
 | NA | 93718 |
 
 
@@ -2326,6 +2423,7 @@ U_27_2_5:SKJEMA3E; (U_27_2_5:SKJEMA3C); (U_27_2_5:SKJEMA3B); (U_27_2_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 125 |
+| Not NA | 125 |
 | NA | 93684 |
 
 
@@ -2336,6 +2434,7 @@ U_27_2_6:SKJEMA3E; (U_27_2_6:SKJEMA3C); (U_27_2_6:SKJEMA3B); (U_27_2_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 65 |
+| Not NA | 65 |
 | NA | 93744 |
 
 
@@ -2346,6 +2445,7 @@ U_27_2_7:SKJEMA3E; (U_27_2_7:SKJEMA3C); (U_27_2_7:SKJEMA3B); (U_27_2_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 134 |
+| Not NA | 134 |
 | NA | 93675 |
 
 
@@ -2356,6 +2456,7 @@ U_27_2_8:SKJEMA3E; (U_27_2_8:SKJEMA3C); (U_27_2_8:SKJEMA3B); (U_27_2_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 237 |
+| Not NA | 237 |
 | NA | 93572 |
 
 
@@ -2366,6 +2467,7 @@ U_27_2_9:SKJEMA3E; (U_27_2_9:SKJEMA3C); (U_27_2_9:SKJEMA3B); (U_27_2_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 164 |
+| Not NA | 164 |
 | NA | 93645 |
 
 
@@ -2376,6 +2478,7 @@ U_27_3_1:SKJEMA3E; (U_27_3_1:SKJEMA3C); (U_27_3_1:SKJEMA3B); (U_27_3_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 118 |
+| Not NA | 118 |
 | NA | 93691 |
 
 
@@ -2386,6 +2489,7 @@ U_27_3_2:SKJEMA3E; (U_27_3_2:SKJEMA3C); (U_27_3_2:SKJEMA3B); (U_27_3_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 93807 |
 
 
@@ -2396,6 +2500,7 @@ U_27_3_3:SKJEMA3E; (U_27_3_3:SKJEMA3C); (U_27_3_3:SKJEMA3B); (U_27_3_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 93808 |
 
 
@@ -2406,6 +2511,7 @@ U_27_3_4:SKJEMA3E; (U_27_3_4:SKJEMA3C); (U_27_3_4:SKJEMA3B); (U_27_3_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 93808 |
 
 
@@ -2416,6 +2522,7 @@ U_27_3_5:SKJEMA3E; (U_27_3_5:SKJEMA3C); (U_27_3_5:SKJEMA3B); (U_27_3_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 93807 |
 
 
@@ -2426,6 +2533,7 @@ U_27_3_6:SKJEMA3E; (U_27_3_6:SKJEMA3C); (U_27_3_6:SKJEMA3B); (U_27_3_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 93798 |
 
 
@@ -2436,6 +2544,7 @@ U_27_3_7:SKJEMA3E; (U_27_3_7:SKJEMA3C); (U_27_3_7:SKJEMA3B); (U_27_3_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 93791 |
 
 
@@ -2446,6 +2555,7 @@ U_27_3_8:SKJEMA3E; (U_27_3_8:SKJEMA3C); (U_27_3_8:SKJEMA3B); (U_27_3_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 53 |
+| Not NA | 53 |
 | NA | 93756 |
 
 
@@ -2456,6 +2566,7 @@ U_27_3_9:SKJEMA3E; (U_27_3_9:SKJEMA3C); (U_27_3_9:SKJEMA3B); (U_27_3_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 56 |
+| Not NA | 56 |
 | NA | 93753 |
 
 
@@ -2466,6 +2577,7 @@ U_27_4_1:SKJEMA3E; (U_27_4_1:SKJEMA3C); (U_27_4_1:SKJEMA3B); (U_27_4_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 622 |
+| Not NA | 622 |
 | NA | 93187 |
 
 
@@ -2476,6 +2588,7 @@ U_27_4_2:SKJEMA3E; (U_27_4_2:SKJEMA3C); (U_27_4_2:SKJEMA3B); (U_27_4_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 93806 |
 
 
@@ -2485,6 +2598,7 @@ U_27_4_3:SKJEMA3E; (U_27_4_3:SKJEMA3C); (U_27_4_3:SKJEMA3B); (U_27_4_3:SKJEMA3A)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 93809 |
 
 
@@ -2495,6 +2609,7 @@ U_27_4_4:SKJEMA3E; (U_27_4_4:SKJEMA3C); (U_27_4_4:SKJEMA3B); (U_27_4_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 93804 |
 
 
@@ -2505,6 +2620,7 @@ U_27_4_5:SKJEMA3E; (U_27_4_5:SKJEMA3C); (U_27_4_5:SKJEMA3B); (U_27_4_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 93802 |
 
 
@@ -2515,6 +2631,7 @@ U_27_4_6:SKJEMA3E; (U_27_4_6:SKJEMA3C); (U_27_4_6:SKJEMA3B); (U_27_4_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25 |
+| Not NA | 25 |
 | NA | 93784 |
 
 
@@ -2525,6 +2642,7 @@ U_27_4_7:SKJEMA3E; (U_27_4_7:SKJEMA3C); (U_27_4_7:SKJEMA3B); (U_27_4_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 122 |
+| Not NA | 122 |
 | NA | 93687 |
 
 
@@ -2535,6 +2653,7 @@ U_27_4_8:SKJEMA3E; (U_27_4_8:SKJEMA3C); (U_27_4_8:SKJEMA3B); (U_27_4_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 326 |
+| Not NA | 326 |
 | NA | 93483 |
 
 
@@ -2545,6 +2664,7 @@ U_27_4_9:SKJEMA3E; (U_27_4_9:SKJEMA3C); (U_27_4_9:SKJEMA3B); (U_27_4_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 305 |
+| Not NA | 305 |
 | NA | 93504 |
 
 
@@ -2555,6 +2675,7 @@ U_27_5_1:SKJEMA3E; (U_27_5_1:SKJEMA3C); (U_27_5_1:SKJEMA3B); (U_27_5_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 156 |
+| Not NA | 156 |
 | NA | 93653 |
 
 
@@ -2565,6 +2686,7 @@ U_27_5_2:SKJEMA3E; (U_27_5_2:SKJEMA3C); (U_27_5_2:SKJEMA3B); (U_27_5_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 93808 |
 
 
@@ -2575,6 +2697,7 @@ U_27_5_3:SKJEMA3E; (U_27_5_3:SKJEMA3C); (U_27_5_3:SKJEMA3B); (U_27_5_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 93805 |
 
 
@@ -2585,6 +2708,7 @@ U_27_5_4:SKJEMA3E; (U_27_5_4:SKJEMA3C); (U_27_5_4:SKJEMA3B); (U_27_5_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 93806 |
 
 
@@ -2595,6 +2719,7 @@ U_27_5_5:SKJEMA3E; (U_27_5_5:SKJEMA3C); (U_27_5_5:SKJEMA3B); (U_27_5_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 93804 |
 
 
@@ -2605,6 +2730,7 @@ U_27_5_6:SKJEMA3E; (U_27_5_6:SKJEMA3C); (U_27_5_6:SKJEMA3B); (U_27_5_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 93805 |
 
 
@@ -2615,6 +2741,7 @@ U_27_5_7:SKJEMA3E; (U_27_5_7:SKJEMA3C); (U_27_5_7:SKJEMA3B); (U_27_5_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 93789 |
 
 
@@ -2625,6 +2752,7 @@ U_27_5_8:SKJEMA3E; (U_27_5_8:SKJEMA3C); (U_27_5_8:SKJEMA3B); (U_27_5_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 62 |
+| Not NA | 62 |
 | NA | 93747 |
 
 
@@ -2635,6 +2763,7 @@ U_27_5_9:SKJEMA3E; (U_27_5_9:SKJEMA3C); (U_27_5_9:SKJEMA3B); (U_27_5_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 85 |
+| Not NA | 85 |
 | NA | 93724 |
 
 
@@ -2645,6 +2774,7 @@ U_27_6_1:SKJEMA3E; (U_27_6_1:SKJEMA3C); (U_27_6_1:SKJEMA3B); (U_27_6_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 133 |
+| Not NA | 133 |
 | NA | 93676 |
 
 
@@ -2655,6 +2785,7 @@ U_27_6_2:SKJEMA3E; (U_27_6_2:SKJEMA3C); (U_27_6_2:SKJEMA3B); (U_27_6_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 93808 |
 
 
@@ -2665,6 +2796,7 @@ U_27_6_3:SKJEMA3E; (U_27_6_3:SKJEMA3C); (U_27_6_3:SKJEMA3B); (U_27_6_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 93807 |
 
 
@@ -2674,6 +2806,7 @@ U_27_6_4:SKJEMA3E; (U_27_6_4:SKJEMA3C); (U_27_6_4:SKJEMA3B); (U_27_6_4:SKJEMA3A)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 93809 |
 
 
@@ -2684,6 +2817,7 @@ U_27_6_5:SKJEMA3E; (U_27_6_5:SKJEMA3C); (U_27_6_5:SKJEMA3B); (U_27_6_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 93808 |
 
 
@@ -2694,6 +2828,7 @@ U_27_6_6:SKJEMA3E; (U_27_6_6:SKJEMA3C); (U_27_6_6:SKJEMA3B); (U_27_6_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 93806 |
 
 
@@ -2704,6 +2839,7 @@ U_27_6_7:SKJEMA3E; (U_27_6_7:SKJEMA3C); (U_27_6_7:SKJEMA3B); (U_27_6_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 93795 |
 
 
@@ -2714,6 +2850,7 @@ U_27_6_8:SKJEMA3E; (U_27_6_8:SKJEMA3C); (U_27_6_8:SKJEMA3B); (U_27_6_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 55 |
+| Not NA | 55 |
 | NA | 93754 |
 
 
@@ -2724,6 +2861,7 @@ U_27_6_9:SKJEMA3E; (U_27_6_9:SKJEMA3C); (U_27_6_9:SKJEMA3B); (U_27_6_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 85 |
+| Not NA | 85 |
 | NA | 93724 |
 
 
@@ -2734,6 +2872,7 @@ U_27_7_1:SKJEMA3E; (U_27_7_1:SKJEMA3C); (U_27_7_1:SKJEMA3B); (U_27_7_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2681 |
+| Not NA | 2681 |
 | NA | 91128 |
 
 
@@ -2744,6 +2883,7 @@ U_27_7_2:SKJEMA3E; (U_27_7_2:SKJEMA3C); (U_27_7_2:SKJEMA3B); (U_27_7_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 167 |
+| Not NA | 167 |
 | NA | 93642 |
 
 
@@ -2754,6 +2894,7 @@ U_27_7_3:SKJEMA3E; (U_27_7_3:SKJEMA3C); (U_27_7_3:SKJEMA3B); (U_27_7_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 254 |
+| Not NA | 254 |
 | NA | 93555 |
 
 
@@ -2764,6 +2905,7 @@ U_27_7_4:SKJEMA3E; (U_27_7_4:SKJEMA3C); (U_27_7_4:SKJEMA3B); (U_27_7_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 304 |
+| Not NA | 304 |
 | NA | 93505 |
 
 
@@ -2774,6 +2916,7 @@ U_27_7_5:SKJEMA3E; (U_27_7_5:SKJEMA3C); (U_27_7_5:SKJEMA3B); (U_27_7_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 319 |
+| Not NA | 319 |
 | NA | 93490 |
 
 
@@ -2784,6 +2927,7 @@ U_27_7_6:SKJEMA3E; (U_27_7_6:SKJEMA3C); (U_27_7_6:SKJEMA3B); (U_27_7_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 364 |
+| Not NA | 364 |
 | NA | 93445 |
 
 
@@ -2794,6 +2938,7 @@ U_27_7_7:SKJEMA3E; (U_27_7_7:SKJEMA3C); (U_27_7_7:SKJEMA3B); (U_27_7_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 580 |
+| Not NA | 580 |
 | NA | 93229 |
 
 
@@ -2804,6 +2949,7 @@ U_27_7_8:SKJEMA3E; (U_27_7_8:SKJEMA3C); (U_27_7_8:SKJEMA3B); (U_27_7_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 769 |
+| Not NA | 769 |
 | NA | 93040 |
 
 
@@ -2814,6 +2960,7 @@ U_27_7_9:SKJEMA3E; (U_27_7_9:SKJEMA3C); (U_27_7_9:SKJEMA3B); (U_27_7_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 625 |
+| Not NA | 625 |
 | NA | 93184 |
 
 
@@ -2824,6 +2971,7 @@ U_43_1:SKJEMA3E; (U_40_1:SKJEMA3C); (U_40_1:SKJEMA3B); (U_40_1:SKJEMA3A); No; 43
 | Category | n |
 | -------- | - |
 | 1 | 89707 |
+| Not NA | 89707 |
 | NA | 4102 |
 
 
@@ -2834,6 +2982,7 @@ U_43_2_1:SKJEMA3E; (U_40_2_1:SKJEMA3C); (U_40_2_1:SKJEMA3B); (U_40_2:SKJEMA3A); 
 | Category | n |
 | -------- | - |
 | 1 | 50 |
+| Not NA | 50 |
 | NA | 93759 |
 
 
@@ -2849,6 +2998,7 @@ U_43_2_2:SKJEMA3E; (U_40_2_2:SKJEMA3C); (U_40_2_2:SKJEMA3B); During this pregnan
 | 3 | 3 |
 | 6 | 1 |
 | 8 | 1 |
+| Not NA | 42 |
 | NA | 93767 |
 
 
@@ -2859,6 +3009,7 @@ U_43_3_1:SKJEMA3E; (U_40_3_1:SKJEMA3C); (U_40_3_1:SKJEMA3B); (U_40_3:SKJEMA3A); 
 | Category | n |
 | -------- | - |
 | 1 | 3128 |
+| Not NA | 3128 |
 | NA | 90681 |
 
 
@@ -2883,6 +3034,7 @@ U_43_3_2:SKJEMA3E; (U_40_3_2:SKJEMA3C); (U_40_3_2:SKJEMA3B); Before this pregnan
 | 10 | 3 |
 | 20 | 2 |
 | 50 | 1 |
+| Not NA | 2884 |
 | NA | 90925 |
 
 
@@ -2899,6 +3051,7 @@ U_44_1_2:SKJEMA3E; (U_41_1_2:SKJEMA3C); (U_41_1_2:SKJEMA3B); (U_41_1_2:SKJEMA3A)
 | 3rd Qu. | 2002 |
 | Max. | 2009 |
 | NA's | 90620 |
+| Not NA | 3189 |
 
 
 ### CC299
@@ -2914,6 +3067,7 @@ U_44_2_2:SKJEMA3E; (U_41_2_2:SKJEMA3C); (U_41_2_2:SKJEMA3B); (U_41_2_2:SKJEMA3A)
 | 3rd Qu. | 2002 |
 | Max. | 2007 |
 | NA's | 93461 |
+| Not NA | 348 |
 
 
 ### CC300
@@ -2925,6 +3079,7 @@ U_45:SKJEMA3E; (U_42:SKJEMA3C); (U_42:SKJEMA3B); (U_42:SKJEMA3A); ; 45. Have you
 | No | 89764 |
 | Yes | 3522 |
 | More than 1 check box filled in | 3 |
+| Not NA | 93289 |
 | NA | 520 |
 
 
@@ -2935,6 +3090,7 @@ U_46_1:SKJEMA3E; (U_43_1:SKJEMA3C); (U_43_1:SKJEMA3B); (U_43_1:SKJEMA3A); Breast
 | Category | n |
 | -------- | - |
 | 1 | 1028 |
+| Not NA | 1028 |
 | NA | 92781 |
 
 
@@ -2945,6 +3101,7 @@ U_46_2:SKJEMA3E; (U_43_2:SKJEMA3C); (U_43_2:SKJEMA3B); (U_43_2:SKJEMA3A); Breast
 | Category | n |
 | -------- | - |
 | 1 | 1013 |
+| Not NA | 1013 |
 | NA | 92796 |
 
 
@@ -2955,6 +3112,7 @@ U_46_3:SKJEMA3E; (U_43_3:SKJEMA3C); (U_43_3:SKJEMA3B); (U_43_3:SKJEMA3A); Cancer
 | Category | n |
 | -------- | - |
 | 1 | 317 |
+| Not NA | 317 |
 | NA | 93492 |
 
 
@@ -2965,6 +3123,7 @@ U_46_4_1:SKJEMA3E; (U_43_4_1:SKJEMA3C); (U_43_4_1:SKJEMA3B); (U_43_4_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1105 |
+| Not NA | 1105 |
 | NA | 92704 |
 
 
@@ -2976,6 +3135,7 @@ U_47_1:SKJEMA3E; (U_44_1:SKJEMA3C); (U_44_1:SKJEMA3B); ; 47. Have you ever had c
 | -------- | - |
 | No | 77888 |
 | Yes | 10699 |
+| Not NA | 88587 |
 | NA | 5222 |
 
 
@@ -2992,6 +3152,7 @@ U_47_2:SKJEMA3E; (U_44_2:SKJEMA3C); (U_44_2:SKJEMA3B); Year the dysplasia was de
 | 3rd Qu. | 2002 |
 | Max. | 2009 |
 | NA's | 83939 |
+| Not NA | 9870 |
 
 
 ### CC308
@@ -3002,6 +3163,7 @@ U_48_1:SKJEMA3E; (U_45_1:SKJEMA3C); (U_45_1:SKJEMA3B); ; 48. Have you had an ope
 | -------- | - |
 | Yes | 2991 |
 | No | 85503 |
+| Not NA | 88494 |
 | NA | 5315 |
 
 
@@ -3018,6 +3180,7 @@ U_48_2:SKJEMA3E; (U_45_2:SKJEMA3C); (U_45_2:SKJEMA3B); Year of operation; 48. Ha
 | 3rd Qu. | 2003 |
 | Max. | 2008 |
 | NA's | 90872 |
+| Not NA | 2937 |
 
 
 ### CC310
@@ -3029,6 +3192,7 @@ U_49_1:SKJEMA3E; (U_46_1:SKJEMA3C); (U_46_1:SKJEMA3B); (U_44_1:SKJEMA3A); ; 49. 
 | Yes | 25326 |
 | No | 65053 |
 | More than 1 check box filled in | 13 |
+| Not NA | 90392 |
 | NA | 3417 |
 
 
@@ -3045,6 +3209,7 @@ U_49_2:SKJEMA3E; (U_46_2:SKJEMA3C); (U_46_2:SKJEMA3B); (U_44_2:SKJEMA3A); If yes
 | 3rd Qu. | 2002 |
 | Max. | 2008 |
 | NA's | 69375 |
+| Not NA | 24434 |
 
 
 ### CC315
@@ -3056,6 +3221,7 @@ U_50:SKJEMA3E; (U_47:SKJEMA3C); (U_47:SKJEMA3B); ; 50. Have you had one or more 
 | No | 80410 |
 | Yes | 8532 |
 | More than 1 check box filled in | 6 |
+| Not NA | 88948 |
 | NA | 4861 |
 
 
@@ -3072,6 +3238,7 @@ U_51_1_1:SKJEMA3E; (U_48_1_1:SKJEMA3C); (U_48_1_1:SKJEMA3B); (U_45_1_1:SKJEMA3A)
 | More than just a trace + Large amounts | 11 |
 | Trace of blood + Large amounts | 4 |
 | Trace of blood + More than just a trace + Large amounts | 4 |
+| Not NA | 8860 |
 | NA | 84949 |
 
 
@@ -3082,6 +3249,7 @@ U_51_1_2:SKJEMA3E; (U_48_1_2:SKJEMA3C); (U_48_1_2:SKJEMA3B); (U_45_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3250 |
+| Not NA | 3250 |
 | NA | 90559 |
 
 
@@ -3092,6 +3260,7 @@ U_51_1_3:SKJEMA3E; (U_48_1_3:SKJEMA3C); (U_48_1_3:SKJEMA3B); (U_45_1_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1936 |
+| Not NA | 1936 |
 | NA | 91873 |
 
 
@@ -3102,6 +3271,7 @@ U_51_1_4:SKJEMA3E; (U_48_1_4:SKJEMA3C); (U_48_1_4:SKJEMA3B); (U_45_1_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1784 |
+| Not NA | 1784 |
 | NA | 92025 |
 
 
@@ -3112,6 +3282,7 @@ U_51_1_5:SKJEMA3E; (U_48_1_5:SKJEMA3C); (U_48_1_5:SKJEMA3B); (U_45_1_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1718 |
+| Not NA | 1718 |
 | NA | 92091 |
 
 
@@ -3122,6 +3293,7 @@ U_51_1_6:SKJEMA3E; (U_48_1_6:SKJEMA3C); (U_48_1_6:SKJEMA3B); (U_45_1_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 813 |
+| Not NA | 813 |
 | NA | 92996 |
 
 
@@ -3138,6 +3310,7 @@ U_51_1_7:SKJEMA3E; (U_48_1_7:SKJEMA3C); (U_48_1_7:SKJEMA3B); (U_45_1_7:SKJEMA3A)
 | 3rd Qu. | 2 |
 | Max. | 90 |
 | NA's | 85505 |
+| Not NA | 8304 |
 
 
 ### CC323
@@ -3152,6 +3325,7 @@ U_51_2_1:SKJEMA3E; (U_48_2_1:SKJEMA3C); (U_48_2_1:SKJEMA3B); (U_45_2_1:SKJEMA3A)
 | More than just a trace + Large amounts | 3 |
 | Trace of blood + More than just a trace | 8 |
 | Trace of blood + Large amounts | 3 |
+| Not NA | 2805 |
 | NA | 91004 |
 
 
@@ -3162,6 +3336,7 @@ U_51_2_2:SKJEMA3E; (U_48_2_2:SKJEMA3C); (U_48_2_2:SKJEMA3B); (U_45_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 466 |
+| Not NA | 466 |
 | NA | 93343 |
 
 
@@ -3172,6 +3347,7 @@ U_51_2_3:SKJEMA3E; (U_48_2_3:SKJEMA3C); (U_48_2_3:SKJEMA3B); (U_45_2_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 682 |
+| Not NA | 682 |
 | NA | 93127 |
 
 
@@ -3182,6 +3358,7 @@ U_51_2_4:SKJEMA3E; (U_48_2_4:SKJEMA3C); (U_48_2_4:SKJEMA3B); (U_45_2_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 575 |
+| Not NA | 575 |
 | NA | 93234 |
 
 
@@ -3192,6 +3369,7 @@ U_51_2_5:SKJEMA3E; (U_48_2_5:SKJEMA3C); (U_48_2_5:SKJEMA3B); (U_45_2_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 790 |
+| Not NA | 790 |
 | NA | 93019 |
 
 
@@ -3202,6 +3380,7 @@ U_51_2_6:SKJEMA3E; (U_48_2_6:SKJEMA3C); (U_48_2_6:SKJEMA3B); (U_45_2_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 462 |
+| Not NA | 462 |
 | NA | 93347 |
 
 
@@ -3218,6 +3397,7 @@ U_51_2_7:SKJEMA3E; (U_48_2_7:SKJEMA3C); (U_48_2_7:SKJEMA3B); (U_45_2_7:SKJEMA3A)
 | 3rd Qu. | 2 |
 | Max. | 90 |
 | NA's | 91248 |
+| Not NA | 2561 |
 
 
 ### CC330
@@ -3227,6 +3407,7 @@ U_51_3_1:SKJEMA3E; (U_48_3_1:SKJEMA3C); (U_48_3_1:SKJEMA3B); More than 2 episode
 | Category | n |
 | -------- | - |
 | 1 | 673 |
+| Not NA | 673 |
 | NA | 93136 |
 
 
@@ -3243,6 +3424,7 @@ U_51_3_2:SKJEMA3E; (U_48_3_2:SKJEMA3C); (U_48_3_2:SKJEMA3B); Number of episodes 
 | 3rd Qu. | 6 |
 | Max. | 90 |
 | NA's | 92760 |
+| Not NA | 1049 |
 
 
 ### CC332
@@ -3254,6 +3436,7 @@ U_52:SKJEMA3E; (U_49:SKJEMA3C); (U_49:SKJEMA3B); (U_46:SKJEMA3A); ; 52. Do you k
 | No | 6949 |
 | Yes | 4443 |
 | More than 1 check box filled in | 65 |
+| Not NA | 11457 |
 | NA | 82352 |
 
 
@@ -3264,6 +3447,7 @@ U_53_1:SKJEMA3E; (U_50_1:SKJEMA3C); (U_50_1:SKJEMA3B); (U_47_1:SKJEMA3A); The pl
 | Category | n |
 | -------- | - |
 | 1 | 1103 |
+| Not NA | 1103 |
 | NA | 92706 |
 
 
@@ -3274,6 +3458,7 @@ U_53_2:SKJEMA3E; (U_50_2:SKJEMA3C); (U_50_2:SKJEMA3B); (U_47_2:SKJEMA3A); Premat
 | Category | n |
 | -------- | - |
 | 1 | 57 |
+| Not NA | 57 |
 | NA | 93752 |
 
 
@@ -3284,6 +3469,7 @@ U_53_3:SKJEMA3E; (U_50_3:SKJEMA3C); (U_50_3:SKJEMA3B); (U_47_3:SKJEMA3A); Threat
 | Category | n |
 | -------- | - |
 | 1 | 196 |
+| Not NA | 196 |
 | NA | 93613 |
 
 
@@ -3294,6 +3480,7 @@ U_53_4:SKJEMA3E; (U_50_4:SKJEMA3C); (U_50_4:SKJEMA3B); (U_47_4:SKJEMA3A); Cervix
 | Category | n |
 | -------- | - |
 | 1 | 978 |
+| Not NA | 978 |
 | NA | 92831 |
 
 
@@ -3304,6 +3491,7 @@ U_53_5:SKJEMA3E; (U_50_5:SKJEMA3C); (U_50_5:SKJEMA3B); (U_47_5:SKJEMA3A); Follow
 | Category | n |
 | -------- | - |
 | 1 | 2264 |
+| Not NA | 2264 |
 | NA | 91545 |
 
 
@@ -3314,6 +3502,7 @@ U_53_6:SKJEMA3E; (U_50_6:SKJEMA3C); (U_50_6:SKJEMA3B); (U_47_6:SKJEMA3A); Other 
 | Category | n |
 | -------- | - |
 | 1 | 1314 |
+| Not NA | 1314 |
 | NA | 92495 |
 
 
@@ -3327,6 +3516,7 @@ U_54:SKJEMA3E; (U_51:SKJEMA3C); (U_51:SKJEMA3B); (U_48:SKJEMA3A); ; 54. Have you
 | Yes, a little | 37330 |
 | Yes, a lot | 13186 |
 | More than 1 check box filled in | 36 |
+| Not NA | 88607 |
 | NA | 5202 |
 
 
@@ -3339,6 +3529,7 @@ U_45_3_1:SKJEMA3A; Amount of bleeding; 45. If you have had one or more episodes 
 | Trace of blood | 40 |
 | More than just a trace | 5 |
 | Large amounts | 4 |
+| Not NA | 49 |
 | NA | 93760 |
 
 
@@ -3349,6 +3540,7 @@ U_45_3_2:SKJEMA3A; Bleeding in week 13-16; 45. If you have had one or more episo
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 93808 |
 
 
@@ -3359,6 +3551,7 @@ U_45_3_3:SKJEMA3A; Bleeding in week 17-20; 45. If you have had one or more episo
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 93808 |
 
 
@@ -3369,6 +3562,7 @@ U_45_3_4:SKJEMA3A; Bleeding in week 21-24; 45. If you have had one or more episo
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 93800 |
 
 
@@ -3379,6 +3573,7 @@ U_45_3_5:SKJEMA3A; Bleeding in week 25-28; 45. If you have had one or more episo
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 93801 |
 
 
@@ -3389,6 +3584,7 @@ U_45_3_6:SKJEMA3A; Bleeding in week 29+; 45. If you have had one or more episode
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 93795 |
 
 
@@ -3403,6 +3599,7 @@ U_45_3_7:SKJEMA3A; No. of days bleeding lasted; 45. If you have had one or more 
 | 1 | 18 |
 | 0 | 5 |
 | 7 | 1 |
+| Not NA | 31 |
 | NA | 93778 |
 
 
@@ -3413,6 +3610,7 @@ U_45_4_1:SKJEMA3A; More than 3 episodes of vaginal bleeding; 45. If you have had
 | Category | n |
 | -------- | - |
 | 1 | 69 |
+| Not NA | 69 |
 | NA | 93740 |
 
 
@@ -3423,6 +3621,7 @@ U_55_1_1:SKJEMA3E; (U_52_1_1:SKJEMA3C); (U_52_1_1:SKJEMA3B); (U_4921_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 9400 |
+| Not NA | 9400 |
 | NA | 84409 |
 
 
@@ -3433,6 +3632,7 @@ U_55_1_2:SKJEMA3E; (U_52_1_2:SKJEMA3C); (U_52_1_2:SKJEMA3B); (U_4921_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 15585 |
+| Not NA | 15585 |
 | NA | 78224 |
 
 
@@ -3443,6 +3643,7 @@ U_55_1_3:SKJEMA3E; (U_52_1_3:SKJEMA3C); (U_52_1_3:SKJEMA3B); (U_4921_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 22585 |
+| Not NA | 22585 |
 | NA | 71224 |
 
 
@@ -3453,6 +3654,7 @@ U_55_1_4:SKJEMA3E; (U_52_1_4:SKJEMA3C); (U_52_1_4:SKJEMA3B); (U_4921_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 27944 |
+| Not NA | 27944 |
 | NA | 65865 |
 
 
@@ -3463,6 +3665,7 @@ U_55_1_5:SKJEMA3E; (U_52_1_5:SKJEMA3C); (U_52_1_5:SKJEMA3B); (U_4921_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25963 |
+| Not NA | 25963 |
 | NA | 67846 |
 
 
@@ -3473,6 +3676,7 @@ U_55_1_7:SKJEMA3E; (U_52_1_7:SKJEMA3C); (U_52_1_7:SKJEMA3B); (U_4921_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 233 |
+| Not NA | 233 |
 | NA | 93576 |
 
 
@@ -3483,6 +3687,7 @@ U_55_1_8:SKJEMA3E; (U_52_1_8:SKJEMA3C); (U_52_1_8:SKJEMA3B); (U_4921_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 344 |
+| Not NA | 344 |
 | NA | 93465 |
 
 
@@ -3493,6 +3698,7 @@ U_55_1_9:SKJEMA3E; (U_52_1_9:SKJEMA3C); (U_52_1_9:SKJEMA3B); (U_4921_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 557 |
+| Not NA | 557 |
 | NA | 93252 |
 
 
@@ -3503,6 +3709,7 @@ U_55_110:SKJEMA3E; (U_52_110:SKJEMA3C); (U_52_110:SKJEMA3B); (U_492110:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 753 |
+| Not NA | 753 |
 | NA | 93056 |
 
 
@@ -3513,6 +3720,7 @@ U_55_111:SKJEMA3E; (U_52_111:SKJEMA3C); (U_52_111:SKJEMA3B); (U_492111:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 605 |
+| Not NA | 605 |
 | NA | 93204 |
 
 
@@ -3583,6 +3791,7 @@ U_55_112:SKJEMA3E; (U_52_112:SKJEMA3C); (U_52_112:SKJEMA3B); (U_492112:SKJEMA3A)
 | 91 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 92644 |
+| Not NA | 1165 |
 
 
 ### CC352
@@ -3592,6 +3801,7 @@ U_55_2_1:SKJEMA3E; (U_52_2_1:SKJEMA3C); (U_52_2_1:SKJEMA3B); (U_4920_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 9191 |
+| Not NA | 9191 |
 | NA | 84618 |
 
 
@@ -3602,6 +3812,7 @@ U_55_2_2:SKJEMA3E; (U_52_2_2:SKJEMA3C); (U_52_2_2:SKJEMA3B); (U_4920_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 14487 |
+| Not NA | 14487 |
 | NA | 79322 |
 
 
@@ -3612,6 +3823,7 @@ U_55_2_3:SKJEMA3E; (U_52_2_3:SKJEMA3C); (U_52_2_3:SKJEMA3B); (U_4920_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 23106 |
+| Not NA | 23106 |
 | NA | 70703 |
 
 
@@ -3622,6 +3834,7 @@ U_55_2_4:SKJEMA3E; (U_52_2_4:SKJEMA3C); (U_52_2_4:SKJEMA3B); (U_4920_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 32035 |
+| Not NA | 32035 |
 | NA | 61774 |
 
 
@@ -3632,6 +3845,7 @@ U_55_2_5:SKJEMA3E; (U_52_2_5:SKJEMA3C); (U_52_2_5:SKJEMA3B); (U_4920_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 29003 |
+| Not NA | 29003 |
 | NA | 64806 |
 
 
@@ -3642,6 +3856,7 @@ U_55_2_7:SKJEMA3E; (U_52_2_7:SKJEMA3C); (U_52_2_7:SKJEMA3B); (U_4920_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 367 |
+| Not NA | 367 |
 | NA | 93442 |
 
 
@@ -3652,6 +3867,7 @@ U_55_2_8:SKJEMA3E; (U_52_2_8:SKJEMA3C); (U_52_2_8:SKJEMA3B); (U_4920_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 533 |
+| Not NA | 533 |
 | NA | 93276 |
 
 
@@ -3662,6 +3878,7 @@ U_55_2_9:SKJEMA3E; (U_52_2_9:SKJEMA3C); (U_52_2_9:SKJEMA3B); (U_4920_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 759 |
+| Not NA | 759 |
 | NA | 93050 |
 
 
@@ -3672,6 +3889,7 @@ U_55_210:SKJEMA3E; (U_52_210:SKJEMA3C); (U_52_210:SKJEMA3B); (U_492010:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 978 |
+| Not NA | 978 |
 | NA | 92831 |
 
 
@@ -3682,6 +3900,7 @@ U_55_211:SKJEMA3E; (U_52_211:SKJEMA3C); (U_52_211:SKJEMA3B); (U_492011:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 708 |
+| Not NA | 708 |
 | NA | 93101 |
 
 
@@ -3756,6 +3975,7 @@ U_55_212:SKJEMA3E; (U_52_212:SKJEMA3C); (U_52_212:SKJEMA3B); (U_492012:SKJEMA3A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 92150 |
+| Not NA | 1659 |
 
 
 ### CC364
@@ -3765,6 +3985,7 @@ U_55_3_1:SKJEMA3E; (U_52_3_1:SKJEMA3C); (U_52_3_1:SKJEMA3B); (U_4922_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3215 |
+| Not NA | 3215 |
 | NA | 90594 |
 
 
@@ -3775,6 +3996,7 @@ U_55_3_2:SKJEMA3E; (U_52_3_2:SKJEMA3C); (U_52_3_2:SKJEMA3B); (U_4922_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4576 |
+| Not NA | 4576 |
 | NA | 89233 |
 
 
@@ -3785,6 +4007,7 @@ U_55_3_3:SKJEMA3E; (U_52_3_3:SKJEMA3C); (U_52_3_3:SKJEMA3B); (U_4922_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 7019 |
+| Not NA | 7019 |
 | NA | 86790 |
 
 
@@ -3795,6 +4018,7 @@ U_55_3_4:SKJEMA3E; (U_52_3_4:SKJEMA3C); (U_52_3_4:SKJEMA3B); (U_4922_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 10043 |
+| Not NA | 10043 |
 | NA | 83766 |
 
 
@@ -3805,6 +4029,7 @@ U_55_3_5:SKJEMA3E; (U_52_3_5:SKJEMA3C); (U_52_3_5:SKJEMA3B); (U_4922_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 9550 |
+| Not NA | 9550 |
 | NA | 84259 |
 
 
@@ -3815,6 +4040,7 @@ U_55_3_7:SKJEMA3E; (U_52_3_7:SKJEMA3C); (U_52_3_7:SKJEMA3B); (U_4922_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 383 |
+| Not NA | 383 |
 | NA | 93426 |
 
 
@@ -3825,6 +4051,7 @@ U_55_3_8:SKJEMA3E; (U_52_3_8:SKJEMA3C); (U_52_3_8:SKJEMA3B); (U_4922_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 485 |
+| Not NA | 485 |
 | NA | 93324 |
 
 
@@ -3835,6 +4062,7 @@ U_55_3_9:SKJEMA3E; (U_52_3_9:SKJEMA3C); (U_52_3_9:SKJEMA3B); (U_4922_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 595 |
+| Not NA | 595 |
 | NA | 93214 |
 
 
@@ -3845,6 +4073,7 @@ U_55_310:SKJEMA3E; (U_52_310:SKJEMA3C); (U_52_310:SKJEMA3B); (U_492210:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 710 |
+| Not NA | 710 |
 | NA | 93099 |
 
 
@@ -3855,6 +4084,7 @@ U_55_311:SKJEMA3E; (U_52_311:SKJEMA3C); (U_52_311:SKJEMA3B); (U_492211:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 531 |
+| Not NA | 531 |
 | NA | 93278 |
 
 
@@ -3928,6 +4158,7 @@ U_55_312:SKJEMA3E; (U_52_312:SKJEMA3C); (U_52_312:SKJEMA3B); (U_492212:SKJEMA3A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 92574 |
+| Not NA | 1235 |
 
 
 ### CC376
@@ -3937,6 +4168,7 @@ U_55_4_1:SKJEMA3E; (U_52_4_1:SKJEMA3C); (U_52_4_1:SKJEMA3B); (U_49_1_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 26716 |
+| Not NA | 26716 |
 | NA | 67093 |
 
 
@@ -3947,6 +4179,7 @@ U_55_4_2:SKJEMA3E; (U_52_4_2:SKJEMA3C); (U_52_4_2:SKJEMA3B); (U_49_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 12071 |
+| Not NA | 12071 |
 | NA | 81738 |
 
 
@@ -3957,6 +4190,7 @@ U_55_4_3:SKJEMA3E; (U_52_4_3:SKJEMA3C); (U_52_4_3:SKJEMA3B); (U_49_1_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6512 |
+| Not NA | 6512 |
 | NA | 87297 |
 
 
@@ -3967,6 +4201,7 @@ U_55_4_4:SKJEMA3E; (U_52_4_4:SKJEMA3C); (U_52_4_4:SKJEMA3B); (U_49_1_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6125 |
+| Not NA | 6125 |
 | NA | 87684 |
 
 
@@ -3977,6 +4212,7 @@ U_55_4_5:SKJEMA3E; (U_52_4_5:SKJEMA3C); (U_52_4_5:SKJEMA3B); (U_49_1_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5609 |
+| Not NA | 5609 |
 | NA | 88200 |
 
 
@@ -3987,6 +4223,7 @@ U_55_4_7:SKJEMA3E; (U_52_4_7:SKJEMA3C); (U_52_4_7:SKJEMA3B); (U_49_1_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1387 |
+| Not NA | 1387 |
 | NA | 92422 |
 
 
@@ -3997,6 +4234,7 @@ U_55_4_8:SKJEMA3E; (U_52_4_8:SKJEMA3C); (U_52_4_8:SKJEMA3B); (U_49_1_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 797 |
+| Not NA | 797 |
 | NA | 93012 |
 
 
@@ -4007,6 +4245,7 @@ U_55_4_9:SKJEMA3E; (U_52_4_9:SKJEMA3C); (U_52_4_9:SKJEMA3B); (U_49_1_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 425 |
+| Not NA | 425 |
 | NA | 93384 |
 
 
@@ -4017,6 +4256,7 @@ U_55_410:SKJEMA3E; (U_52_410:SKJEMA3C); (U_52_410:SKJEMA3B); (U_49_110:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 334 |
+| Not NA | 334 |
 | NA | 93475 |
 
 
@@ -4027,6 +4267,7 @@ U_55_411:SKJEMA3E; (U_52_411:SKJEMA3C); (U_52_411:SKJEMA3B); (U_49_111:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 265 |
+| Not NA | 265 |
 | NA | 93544 |
 
 
@@ -4132,6 +4373,7 @@ U_55_412:SKJEMA3E; (U_52_412:SKJEMA3C); (U_52_412:SKJEMA3B); (U_49_112:SKJEMA3A)
 | 97 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 92242 |
+| Not NA | 1567 |
 
 
 ### CC388
@@ -4141,6 +4383,7 @@ U_55_5_1:SKJEMA3E; (U_52_5_1:SKJEMA3C); (U_52_5_1:SKJEMA3B); (U_49_2_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 9253 |
+| Not NA | 9253 |
 | NA | 84556 |
 
 
@@ -4151,6 +4394,7 @@ U_55_5_2:SKJEMA3E; (U_52_5_2:SKJEMA3C); (U_52_5_2:SKJEMA3B); (U_49_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5299 |
+| Not NA | 5299 |
 | NA | 88510 |
 
 
@@ -4161,6 +4405,7 @@ U_55_5_3:SKJEMA3E; (U_52_5_3:SKJEMA3C); (U_52_5_3:SKJEMA3B); (U_49_2_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2700 |
+| Not NA | 2700 |
 | NA | 91109 |
 
 
@@ -4171,6 +4416,7 @@ U_55_5_4:SKJEMA3E; (U_52_5_4:SKJEMA3C); (U_52_5_4:SKJEMA3B); (U_49_2_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1843 |
+| Not NA | 1843 |
 | NA | 91966 |
 
 
@@ -4181,6 +4427,7 @@ U_55_5_5:SKJEMA3E; (U_52_5_5:SKJEMA3C); (U_52_5_5:SKJEMA3B); (U_49_2_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1437 |
+| Not NA | 1437 |
 | NA | 92372 |
 
 
@@ -4191,6 +4438,7 @@ U_55_5_7:SKJEMA3E; (U_52_5_7:SKJEMA3C); (U_52_5_7:SKJEMA3B); (U_49_2_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 932 |
+| Not NA | 932 |
 | NA | 92877 |
 
 
@@ -4201,6 +4449,7 @@ U_55_5_8:SKJEMA3E; (U_52_5_8:SKJEMA3C); (U_52_5_8:SKJEMA3B); (U_49_2_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 586 |
+| Not NA | 586 |
 | NA | 93223 |
 
 
@@ -4211,6 +4460,7 @@ U_55_5_9:SKJEMA3E; (U_52_5_9:SKJEMA3C); (U_52_5_9:SKJEMA3B); (U_49_2_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 314 |
+| Not NA | 314 |
 | NA | 93495 |
 
 
@@ -4221,6 +4471,7 @@ U_55_510:SKJEMA3E; (U_52_510:SKJEMA3C); (U_52_510:SKJEMA3B); (U_49_210:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 201 |
+| Not NA | 201 |
 | NA | 93608 |
 
 
@@ -4231,6 +4482,7 @@ U_55_511:SKJEMA3E; (U_52_511:SKJEMA3C); (U_52_511:SKJEMA3B); (U_49_211:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 147 |
+| Not NA | 147 |
 | NA | 93662 |
 
 
@@ -4326,6 +4578,7 @@ U_55_512:SKJEMA3E; (U_52_512:SKJEMA3C); (U_52_512:SKJEMA3B); (U_49_212:SKJEMA3A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 92799 |
+| Not NA | 1010 |
 
 
 ### CC400
@@ -4335,6 +4588,7 @@ U_55_6_1:SKJEMA3E; (U_52_6_1:SKJEMA3C); (U_52_6_1:SKJEMA3B); (U_49_3_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6280 |
+| Not NA | 6280 |
 | NA | 87529 |
 
 
@@ -4345,6 +4599,7 @@ U_55_6_2:SKJEMA3E; (U_52_6_2:SKJEMA3C); (U_52_6_2:SKJEMA3B); (U_49_3_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6666 |
+| Not NA | 6666 |
 | NA | 87143 |
 
 
@@ -4355,6 +4610,7 @@ U_55_6_3:SKJEMA3E; (U_52_6_3:SKJEMA3C); (U_52_6_3:SKJEMA3B); (U_49_3_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 7677 |
+| Not NA | 7677 |
 | NA | 86132 |
 
 
@@ -4365,6 +4621,7 @@ U_55_6_4:SKJEMA3E; (U_52_6_4:SKJEMA3C); (U_52_6_4:SKJEMA3B); (U_49_3_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8306 |
+| Not NA | 8306 |
 | NA | 85503 |
 
 
@@ -4375,6 +4632,7 @@ U_55_6_5:SKJEMA3E; (U_52_6_5:SKJEMA3C); (U_52_6_5:SKJEMA3B); (U_49_3_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5777 |
+| Not NA | 5777 |
 | NA | 88032 |
 
 
@@ -4385,6 +4643,7 @@ U_55_6_7:SKJEMA3E; (U_52_6_7:SKJEMA3C); (U_52_6_7:SKJEMA3B); (U_49_3_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3594 |
+| Not NA | 3594 |
 | NA | 90215 |
 
 
@@ -4395,6 +4654,7 @@ U_55_6_8:SKJEMA3E; (U_52_6_8:SKJEMA3C); (U_52_6_8:SKJEMA3B); (U_49_3_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3977 |
+| Not NA | 3977 |
 | NA | 89832 |
 
 
@@ -4405,6 +4665,7 @@ U_55_6_9:SKJEMA3E; (U_52_6_9:SKJEMA3C); (U_52_6_9:SKJEMA3B); (U_49_3_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4849 |
+| Not NA | 4849 |
 | NA | 88960 |
 
 
@@ -4415,6 +4676,7 @@ U_55_610:SKJEMA3E; (U_52_610:SKJEMA3C); (U_52_610:SKJEMA3B); (U_49_310:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5535 |
+| Not NA | 5535 |
 | NA | 88274 |
 
 
@@ -4425,6 +4687,7 @@ U_55_611:SKJEMA3E; (U_52_611:SKJEMA3C); (U_52_611:SKJEMA3B); (U_49_311:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3793 |
+| Not NA | 3793 |
 | NA | 90016 |
 
 
@@ -4511,6 +4774,7 @@ U_55_612:SKJEMA3E; (U_52_612:SKJEMA3C); (U_52_612:SKJEMA3B); (U_49_312:SKJEMA3A)
 | 99 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 80758 |
+| Not NA | 13051 |
 
 
 ### CC412
@@ -4520,6 +4784,7 @@ U_55_7_1:SKJEMA3E; (U_52_7_1:SKJEMA3C); (U_52_7_1:SKJEMA3B); (U_49_4_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1299 |
+| Not NA | 1299 |
 | NA | 92510 |
 
 
@@ -4530,6 +4795,7 @@ U_55_7_2:SKJEMA3E; (U_52_7_2:SKJEMA3C); (U_52_7_2:SKJEMA3B); (U_49_4_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1709 |
+| Not NA | 1709 |
 | NA | 92100 |
 
 
@@ -4540,6 +4806,7 @@ U_55_7_3:SKJEMA3E; (U_52_7_3:SKJEMA3C); (U_52_7_3:SKJEMA3B); (U_49_4_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2297 |
+| Not NA | 2297 |
 | NA | 91512 |
 
 
@@ -4550,6 +4817,7 @@ U_55_7_4:SKJEMA3E; (U_52_7_4:SKJEMA3C); (U_52_7_4:SKJEMA3B); (U_49_4_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2703 |
+| Not NA | 2703 |
 | NA | 91106 |
 
 
@@ -4560,6 +4828,7 @@ U_55_7_5:SKJEMA3E; (U_52_7_5:SKJEMA3C); (U_52_7_5:SKJEMA3B); (U_49_4_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2173 |
+| Not NA | 2173 |
 | NA | 91636 |
 
 
@@ -4570,6 +4839,7 @@ U_55_7_7:SKJEMA3E; (U_52_7_7:SKJEMA3C); (U_52_7_7:SKJEMA3B); (U_49_4_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 133 |
+| Not NA | 133 |
 | NA | 93676 |
 
 
@@ -4580,6 +4850,7 @@ U_55_7_8:SKJEMA3E; (U_52_7_8:SKJEMA3C); (U_52_7_8:SKJEMA3B); (U_49_4_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 191 |
+| Not NA | 191 |
 | NA | 93618 |
 
 
@@ -4590,6 +4861,7 @@ U_55_7_9:SKJEMA3E; (U_52_7_9:SKJEMA3C); (U_52_7_9:SKJEMA3B); (U_49_4_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 281 |
+| Not NA | 281 |
 | NA | 93528 |
 
 
@@ -4600,6 +4872,7 @@ U_55_710:SKJEMA3E; (U_52_710:SKJEMA3C); (U_52_710:SKJEMA3B); (U_49_410:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 321 |
+| Not NA | 321 |
 | NA | 93488 |
 
 
@@ -4610,6 +4883,7 @@ U_55_711:SKJEMA3E; (U_52_711:SKJEMA3C); (U_52_711:SKJEMA3B); (U_49_411:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 256 |
+| Not NA | 256 |
 | NA | 93553 |
 
 
@@ -4656,6 +4930,7 @@ U_55_712:SKJEMA3E; (U_52_712:SKJEMA3C); (U_52_712:SKJEMA3B); (U_49_412:SKJEMA3A)
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 92965 |
+| Not NA | 844 |
 
 
 ### CC424
@@ -4665,6 +4940,7 @@ U_55_8_1:SKJEMA3E; (U_52_8_1:SKJEMA3C); (U_52_8_1:SKJEMA3B); (U_49_5_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2891 |
+| Not NA | 2891 |
 | NA | 90918 |
 
 
@@ -4675,6 +4951,7 @@ U_55_8_2:SKJEMA3E; (U_52_8_2:SKJEMA3C); (U_52_8_2:SKJEMA3B); (U_49_5_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3854 |
+| Not NA | 3854 |
 | NA | 89955 |
 
 
@@ -4685,6 +4962,7 @@ U_55_8_3:SKJEMA3E; (U_52_8_3:SKJEMA3C); (U_52_8_3:SKJEMA3B); (U_49_5_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4994 |
+| Not NA | 4994 |
 | NA | 88815 |
 
 
@@ -4695,6 +4973,7 @@ U_55_8_4:SKJEMA3E; (U_52_8_4:SKJEMA3C); (U_52_8_4:SKJEMA3B); (U_49_5_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6292 |
+| Not NA | 6292 |
 | NA | 87517 |
 
 
@@ -4705,6 +4984,7 @@ U_55_8_5:SKJEMA3E; (U_52_8_5:SKJEMA3C); (U_52_8_5:SKJEMA3B); (U_49_5_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5629 |
+| Not NA | 5629 |
 | NA | 88180 |
 
 
@@ -4715,6 +4995,7 @@ U_55_8_7:SKJEMA3E; (U_52_8_7:SKJEMA3C); (U_52_8_7:SKJEMA3B); (U_49_5_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 169 |
+| Not NA | 169 |
 | NA | 93640 |
 
 
@@ -4725,6 +5006,7 @@ U_55_8_8:SKJEMA3E; (U_52_8_8:SKJEMA3C); (U_52_8_8:SKJEMA3B); (U_49_5_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 255 |
+| Not NA | 255 |
 | NA | 93554 |
 
 
@@ -4735,6 +5017,7 @@ U_55_8_9:SKJEMA3E; (U_52_8_9:SKJEMA3C); (U_52_8_9:SKJEMA3B); (U_49_5_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 301 |
+| Not NA | 301 |
 | NA | 93508 |
 
 
@@ -4745,6 +5028,7 @@ U_55_810:SKJEMA3E; (U_52_810:SKJEMA3C); (U_52_810:SKJEMA3B); (U_49_510:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 409 |
+| Not NA | 409 |
 | NA | 93400 |
 
 
@@ -4755,6 +5039,7 @@ U_55_811:SKJEMA3E; (U_52_811:SKJEMA3C); (U_52_811:SKJEMA3B); (U_49_511:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 389 |
+| Not NA | 389 |
 | NA | 93420 |
 
 
@@ -4825,6 +5110,7 @@ U_55_812:SKJEMA3E; (U_52_812:SKJEMA3C); (U_52_812:SKJEMA3B); (U_49_512:SKJEMA3A)
 | 98 | 2 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 93047 |
+| Not NA | 762 |
 
 
 ### CC436
@@ -4834,6 +5120,7 @@ U_55_9_1:SKJEMA3E; (U_52_9_1:SKJEMA3C); (U_52_9_1:SKJEMA3B); (U_49_6_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 13069 |
+| Not NA | 13069 |
 | NA | 80740 |
 
 
@@ -4844,6 +5131,7 @@ U_55_9_2:SKJEMA3E; (U_52_9_2:SKJEMA3C); (U_52_9_2:SKJEMA3B); (U_49_6_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 15166 |
+| Not NA | 15166 |
 | NA | 78643 |
 
 
@@ -4854,6 +5142,7 @@ U_55_9_3:SKJEMA3E; (U_52_9_3:SKJEMA3C); (U_52_9_3:SKJEMA3B); (U_49_6_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 17669 |
+| Not NA | 17669 |
 | NA | 76140 |
 
 
@@ -4864,6 +5153,7 @@ U_55_9_4:SKJEMA3E; (U_52_9_4:SKJEMA3C); (U_52_9_4:SKJEMA3B); (U_49_6_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 19192 |
+| Not NA | 19192 |
 | NA | 74617 |
 
 
@@ -4874,6 +5164,7 @@ U_55_9_5:SKJEMA3E; (U_52_9_5:SKJEMA3C); (U_52_9_5:SKJEMA3B); (U_49_6_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 15643 |
+| Not NA | 15643 |
 | NA | 78166 |
 
 
@@ -4884,6 +5175,7 @@ U_55_9_7:SKJEMA3E; (U_52_9_7:SKJEMA3C); (U_52_9_7:SKJEMA3B); (U_49_6_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1300 |
+| Not NA | 1300 |
 | NA | 92509 |
 
 
@@ -4894,6 +5186,7 @@ U_55_9_8:SKJEMA3E; (U_52_9_8:SKJEMA3C); (U_52_9_8:SKJEMA3B); (U_49_6_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1585 |
+| Not NA | 1585 |
 | NA | 92224 |
 
 
@@ -4904,6 +5197,7 @@ U_55_9_9:SKJEMA3E; (U_52_9_9:SKJEMA3C); (U_52_9_9:SKJEMA3B); (U_49_6_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1976 |
+| Not NA | 1976 |
 | NA | 91833 |
 
 
@@ -4914,6 +5208,7 @@ U_55_910:SKJEMA3E; (U_52_910:SKJEMA3C); (U_52_910:SKJEMA3B); (U_49_610:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2334 |
+| Not NA | 2334 |
 | NA | 91475 |
 
 
@@ -4924,6 +5219,7 @@ U_55_911:SKJEMA3E; (U_52_911:SKJEMA3C); (U_52_911:SKJEMA3B); (U_49_611:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1962 |
+| Not NA | 1962 |
 | NA | 91847 |
 
 
@@ -5033,6 +5329,7 @@ U_55_912:SKJEMA3E; (U_52_912:SKJEMA3C); (U_52_912:SKJEMA3B); (U_49_612:SKJEMA3A)
 | 58 | 1 |
 | (Other) | 8 |
 | NA's | 90295 |
+| Not NA | 3514 |
 
 
 ### CC448
@@ -5042,6 +5339,7 @@ U_5510_1:SKJEMA3E; (U_5210_1:SKJEMA3C); (U_5210_1:SKJEMA3B); (U_49_7_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2161 |
+| Not NA | 2161 |
 | NA | 91648 |
 
 
@@ -5052,6 +5350,7 @@ U_5510_2:SKJEMA3E; (U_5210_2:SKJEMA3C); (U_5210_2:SKJEMA3B); (U_49_7_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2282 |
+| Not NA | 2282 |
 | NA | 91527 |
 
 
@@ -5062,6 +5361,7 @@ U_5510_3:SKJEMA3E; (U_5210_3:SKJEMA3C); (U_5210_3:SKJEMA3B); (U_49_7_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3048 |
+| Not NA | 3048 |
 | NA | 90761 |
 
 
@@ -5072,6 +5372,7 @@ U_5510_4:SKJEMA3E; (U_5210_4:SKJEMA3C); (U_5210_4:SKJEMA3B); (U_49_7_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4187 |
+| Not NA | 4187 |
 | NA | 89622 |
 
 
@@ -5082,6 +5383,7 @@ U_5510_5:SKJEMA3E; (U_5210_5:SKJEMA3C); (U_5210_5:SKJEMA3B); (U_49_7_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2783 |
+| Not NA | 2783 |
 | NA | 91026 |
 
 
@@ -5092,6 +5394,7 @@ U_5510_7:SKJEMA3E; (U_5210_7:SKJEMA3C); (U_5210_7:SKJEMA3B); (U_49_7_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 125 |
+| Not NA | 125 |
 | NA | 93684 |
 
 
@@ -5102,6 +5405,7 @@ U_5510_8:SKJEMA3E; (U_5210_8:SKJEMA3C); (U_5210_8:SKJEMA3B); (U_49_7_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 148 |
+| Not NA | 148 |
 | NA | 93661 |
 
 
@@ -5112,6 +5416,7 @@ U_5510_9:SKJEMA3E; (U_5210_9:SKJEMA3C); (U_5210_9:SKJEMA3B); (U_49_7_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 184 |
+| Not NA | 184 |
 | NA | 93625 |
 
 
@@ -5122,6 +5427,7 @@ U_551010:SKJEMA3E; (U_521010:SKJEMA3C); (U_521010:SKJEMA3B); (U_49_710:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 273 |
+| Not NA | 273 |
 | NA | 93536 |
 
 
@@ -5132,6 +5438,7 @@ U_551011:SKJEMA3E; (U_521011:SKJEMA3C); (U_521011:SKJEMA3B); (U_49_711:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 215 |
+| Not NA | 215 |
 | NA | 93594 |
 
 
@@ -5180,6 +5487,7 @@ U_551012:SKJEMA3E; (U_521012:SKJEMA3C); (U_521012:SKJEMA3B); (U_49_712:SKJEMA3A)
 | 90 | 2 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 92931 |
+| Not NA | 878 |
 
 
 ### CC460
@@ -5189,6 +5497,7 @@ U_5511_1:SKJEMA3E; (U_5211_1:SKJEMA3C); (U_5211_1:SKJEMA3B); (U_49_8_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 28323 |
+| Not NA | 28323 |
 | NA | 65486 |
 
 
@@ -5199,6 +5508,7 @@ U_5511_2:SKJEMA3E; (U_5211_2:SKJEMA3C); (U_5211_2:SKJEMA3B); (U_49_8_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 17711 |
+| Not NA | 17711 |
 | NA | 76098 |
 
 
@@ -5209,6 +5519,7 @@ U_5511_3:SKJEMA3E; (U_5211_3:SKJEMA3C); (U_5211_3:SKJEMA3B); (U_49_8_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 14751 |
+| Not NA | 14751 |
 | NA | 79058 |
 
 
@@ -5219,6 +5530,7 @@ U_5511_4:SKJEMA3E; (U_5211_4:SKJEMA3C); (U_5211_4:SKJEMA3B); (U_49_8_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 17463 |
+| Not NA | 17463 |
 | NA | 76346 |
 
 
@@ -5229,6 +5541,7 @@ U_5511_5:SKJEMA3E; (U_5211_5:SKJEMA3C); (U_5211_5:SKJEMA3B); (U_49_8_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 16503 |
+| Not NA | 16503 |
 | NA | 77306 |
 
 
@@ -5239,6 +5552,7 @@ U_5511_7:SKJEMA3E; (U_5211_7:SKJEMA3C); (U_5211_7:SKJEMA3B); (U_49_8_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 135 |
+| Not NA | 135 |
 | NA | 93674 |
 
 
@@ -5249,6 +5563,7 @@ U_5511_8:SKJEMA3E; (U_5211_8:SKJEMA3C); (U_5211_8:SKJEMA3B); (U_49_8_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 162 |
+| Not NA | 162 |
 | NA | 93647 |
 
 
@@ -5259,6 +5574,7 @@ U_5511_9:SKJEMA3E; (U_5211_9:SKJEMA3C); (U_5211_9:SKJEMA3B); (U_49_8_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 241 |
+| Not NA | 241 |
 | NA | 93568 |
 
 
@@ -5269,6 +5585,7 @@ U_551110:SKJEMA3E; (U_521110:SKJEMA3C); (U_521110:SKJEMA3B); (U_49_810:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 361 |
+| Not NA | 361 |
 | NA | 93448 |
 
 
@@ -5279,6 +5596,7 @@ U_551111:SKJEMA3E; (U_521111:SKJEMA3C); (U_521111:SKJEMA3B); (U_49_811:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 370 |
+| Not NA | 370 |
 | NA | 93439 |
 
 
@@ -5368,6 +5686,7 @@ U_551112:SKJEMA3E; (U_521112:SKJEMA3C); (U_521112:SKJEMA3B); (U_49_812:SKJEMA3A)
 | 98 | 3 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 93324 |
+| Not NA | 485 |
 
 
 ### CC472
@@ -5377,6 +5696,7 @@ U_5512_1:SKJEMA3E; (U_5212_1:SKJEMA3C); (U_5212_1:SKJEMA3B); (U_49_9_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6848 |
+| Not NA | 6848 |
 | NA | 86961 |
 
 
@@ -5387,6 +5707,7 @@ U_5512_2:SKJEMA3E; (U_5212_2:SKJEMA3C); (U_5212_2:SKJEMA3B); (U_49_9_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 11420 |
+| Not NA | 11420 |
 | NA | 82389 |
 
 
@@ -5397,6 +5718,7 @@ U_5512_3:SKJEMA3E; (U_5212_3:SKJEMA3C); (U_5212_3:SKJEMA3B); (U_49_9_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 23083 |
+| Not NA | 23083 |
 | NA | 70726 |
 
 
@@ -5407,6 +5729,7 @@ U_5512_4:SKJEMA3E; (U_5212_4:SKJEMA3C); (U_5212_4:SKJEMA3B); (U_49_9_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 42108 |
+| Not NA | 42108 |
 | NA | 51701 |
 
 
@@ -5417,6 +5740,7 @@ U_5512_5:SKJEMA3E; (U_5212_5:SKJEMA3C); (U_5212_5:SKJEMA3B); (U_49_9_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 40302 |
+| Not NA | 40302 |
 | NA | 53507 |
 
 
@@ -5427,6 +5751,7 @@ U_5512_7:SKJEMA3E; (U_5212_7:SKJEMA3C); (U_5212_7:SKJEMA3B); (U_49_9_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2253 |
+| Not NA | 2253 |
 | NA | 91556 |
 
 
@@ -5437,6 +5762,7 @@ U_5512_8:SKJEMA3E; (U_5212_8:SKJEMA3C); (U_5212_8:SKJEMA3B); (U_49_9_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3766 |
+| Not NA | 3766 |
 | NA | 90043 |
 
 
@@ -5447,6 +5773,7 @@ U_5512_9:SKJEMA3E; (U_5212_9:SKJEMA3C); (U_5212_9:SKJEMA3B); (U_49_9_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 7480 |
+| Not NA | 7480 |
 | NA | 86329 |
 
 
@@ -5457,6 +5784,7 @@ U_551210:SKJEMA3E; (U_521210:SKJEMA3C); (U_521210:SKJEMA3B); (U_49_910:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 12588 |
+| Not NA | 12588 |
 | NA | 81221 |
 
 
@@ -5467,6 +5795,7 @@ U_551211:SKJEMA3E; (U_521211:SKJEMA3C); (U_521211:SKJEMA3B); (U_49_911:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 12264 |
+| Not NA | 12264 |
 | NA | 81545 |
 
 
@@ -5576,6 +5905,7 @@ U_551212:SKJEMA3E; (U_521212:SKJEMA3C); (U_521212:SKJEMA3B); (U_49_912:SKJEMA3A)
 | 72 | 2 |
 | (Other) | 52 |
 | NA's | 81142 |
+| Not NA | 12667 |
 
 
 ### CC484
@@ -5585,6 +5915,7 @@ U_5513_1:SKJEMA3E; (U_5213_1:SKJEMA3C); (U_5213_1:SKJEMA3B); (U_4910_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 910 |
+| Not NA | 910 |
 | NA | 92899 |
 
 
@@ -5595,6 +5926,7 @@ U_5513_2:SKJEMA3E; (U_5213_2:SKJEMA3C); (U_5213_2:SKJEMA3B); (U_4910_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2049 |
+| Not NA | 2049 |
 | NA | 91760 |
 
 
@@ -5605,6 +5937,7 @@ U_5513_3:SKJEMA3E; (U_5213_3:SKJEMA3C); (U_5213_3:SKJEMA3B); (U_4910_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5532 |
+| Not NA | 5532 |
 | NA | 88277 |
 
 
@@ -5615,6 +5948,7 @@ U_5513_4:SKJEMA3E; (U_5213_4:SKJEMA3C); (U_5213_4:SKJEMA3B); (U_4910_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 13587 |
+| Not NA | 13587 |
 | NA | 80222 |
 
 
@@ -5625,6 +5959,7 @@ U_5513_5:SKJEMA3E; (U_5213_5:SKJEMA3C); (U_5213_5:SKJEMA3B); (U_4910_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 17719 |
+| Not NA | 17719 |
 | NA | 76090 |
 
 
@@ -5635,6 +5970,7 @@ U_5513_7:SKJEMA3E; (U_5213_7:SKJEMA3C); (U_5213_7:SKJEMA3B); (U_4910_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 93791 |
 
 
@@ -5645,6 +5981,7 @@ U_5513_8:SKJEMA3E; (U_5213_8:SKJEMA3C); (U_5213_8:SKJEMA3B); (U_4910_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 93786 |
 
 
@@ -5655,6 +5992,7 @@ U_5513_9:SKJEMA3E; (U_5213_9:SKJEMA3C); (U_5213_9:SKJEMA3B); (U_4910_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 63 |
+| Not NA | 63 |
 | NA | 93746 |
 
 
@@ -5665,6 +6003,7 @@ U_551310:SKJEMA3E; (U_521310:SKJEMA3C); (U_521310:SKJEMA3B); (U_491010:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 114 |
+| Not NA | 114 |
 | NA | 93695 |
 
 
@@ -5675,6 +6014,7 @@ U_551311:SKJEMA3E; (U_521311:SKJEMA3C); (U_521311:SKJEMA3B); (U_491011:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 119 |
+| Not NA | 119 |
 | NA | 93690 |
 
 
@@ -5717,6 +6057,7 @@ U_551312:SKJEMA3E; (U_521312:SKJEMA3C); (U_521312:SKJEMA3B); (U_491012:SKJEMA3A)
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 93594 |
+| Not NA | 215 |
 
 
 ### CC496
@@ -5726,6 +6067,7 @@ U_5514_1:SKJEMA3E; (U_5214_1:SKJEMA3C); (U_5214_1:SKJEMA3B); (U_4911_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4830 |
+| Not NA | 4830 |
 | NA | 88979 |
 
 
@@ -5736,6 +6078,7 @@ U_5514_2:SKJEMA3E; (U_5214_2:SKJEMA3C); (U_5214_2:SKJEMA3B); (U_4911_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6764 |
+| Not NA | 6764 |
 | NA | 87045 |
 
 
@@ -5746,6 +6089,7 @@ U_5514_3:SKJEMA3E; (U_5214_3:SKJEMA3C); (U_5214_3:SKJEMA3B); (U_4911_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 9631 |
+| Not NA | 9631 |
 | NA | 84178 |
 
 
@@ -5756,6 +6100,7 @@ U_5514_4:SKJEMA3E; (U_5214_4:SKJEMA3C); (U_5214_4:SKJEMA3B); (U_4911_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 13659 |
+| Not NA | 13659 |
 | NA | 80150 |
 
 
@@ -5766,6 +6111,7 @@ U_5514_5:SKJEMA3E; (U_5214_5:SKJEMA3C); (U_5214_5:SKJEMA3B); (U_4911_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 11010 |
+| Not NA | 11010 |
 | NA | 82799 |
 
 
@@ -5776,6 +6122,7 @@ U_5514_7:SKJEMA3E; (U_5214_7:SKJEMA3C); (U_5214_7:SKJEMA3B); (U_4911_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 881 |
+| Not NA | 881 |
 | NA | 92928 |
 
 
@@ -5786,6 +6133,7 @@ U_5514_8:SKJEMA3E; (U_5214_8:SKJEMA3C); (U_5214_8:SKJEMA3B); (U_4911_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1387 |
+| Not NA | 1387 |
 | NA | 92422 |
 
 
@@ -5796,6 +6144,7 @@ U_5514_9:SKJEMA3E; (U_5214_9:SKJEMA3C); (U_5214_9:SKJEMA3B); (U_4911_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1987 |
+| Not NA | 1987 |
 | NA | 91822 |
 
 
@@ -5806,6 +6155,7 @@ U_551410:SKJEMA3E; (U_521410:SKJEMA3C); (U_521410:SKJEMA3B); (U_491110:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3069 |
+| Not NA | 3069 |
 | NA | 90740 |
 
 
@@ -5816,6 +6166,7 @@ U_551411:SKJEMA3E; (U_521411:SKJEMA3C); (U_521411:SKJEMA3B); (U_491111:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2306 |
+| Not NA | 2306 |
 | NA | 91503 |
 
 
@@ -5903,6 +6254,7 @@ U_551412:SKJEMA3E; (U_521412:SKJEMA3C); (U_521412:SKJEMA3B); (U_491112:SKJEMA3A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 86696 |
+| Not NA | 7113 |
 
 
 ### CC508
@@ -5912,6 +6264,7 @@ U_5515_1:SKJEMA3E; (U_5215_1:SKJEMA3C); (U_5215_1:SKJEMA3B); (U_4913_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 559 |
+| Not NA | 559 |
 | NA | 93250 |
 
 
@@ -5922,6 +6275,7 @@ U_5515_2:SKJEMA3E; (U_5215_2:SKJEMA3C); (U_5215_2:SKJEMA3B); (U_4913_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 650 |
+| Not NA | 650 |
 | NA | 93159 |
 
 
@@ -5932,6 +6286,7 @@ U_5515_3:SKJEMA3E; (U_5215_3:SKJEMA3C); (U_5215_3:SKJEMA3B); (U_4913_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 814 |
+| Not NA | 814 |
 | NA | 92995 |
 
 
@@ -5942,6 +6297,7 @@ U_5515_4:SKJEMA3E; (U_5215_4:SKJEMA3C); (U_5215_4:SKJEMA3B); (U_4913_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1089 |
+| Not NA | 1089 |
 | NA | 92720 |
 
 
@@ -5952,6 +6308,7 @@ U_5515_5:SKJEMA3E; (U_5215_5:SKJEMA3C); (U_5215_5:SKJEMA3B); (U_4913_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 890 |
+| Not NA | 890 |
 | NA | 92919 |
 
 
@@ -5962,6 +6319,7 @@ U_5515_7:SKJEMA3E; (U_5215_7:SKJEMA3C); (U_5215_7:SKJEMA3B); (U_4913_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 201 |
+| Not NA | 201 |
 | NA | 93608 |
 
 
@@ -5972,6 +6330,7 @@ U_5515_8:SKJEMA3E; (U_5215_8:SKJEMA3C); (U_5215_8:SKJEMA3B); (U_4913_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 222 |
+| Not NA | 222 |
 | NA | 93587 |
 
 
@@ -5982,6 +6341,7 @@ U_5515_9:SKJEMA3E; (U_5215_9:SKJEMA3C); (U_5215_9:SKJEMA3B); (U_4913_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 231 |
+| Not NA | 231 |
 | NA | 93578 |
 
 
@@ -5992,6 +6352,7 @@ U_551510:SKJEMA3E; (U_521510:SKJEMA3C); (U_521510:SKJEMA3B); (U_491310:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 259 |
+| Not NA | 259 |
 | NA | 93550 |
 
 
@@ -6002,6 +6363,7 @@ U_551511:SKJEMA3E; (U_521511:SKJEMA3C); (U_521511:SKJEMA3B); (U_491311:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 167 |
+| Not NA | 167 |
 | NA | 93642 |
 
 
@@ -6043,6 +6405,7 @@ U_551512:SKJEMA3E; (U_521512:SKJEMA3C); (U_521512:SKJEMA3B); (U_491312:SKJEMA3A)
 | 9 | 5 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 92796 |
+| Not NA | 1013 |
 
 
 ### CC520
@@ -6052,6 +6415,7 @@ U_5516_1:SKJEMA3E; (U_5216_1:SKJEMA3C); (U_5216_1:SKJEMA3B); (U_4914_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1083 |
+| Not NA | 1083 |
 | NA | 92726 |
 
 
@@ -6062,6 +6426,7 @@ U_5516_2:SKJEMA3E; (U_5216_2:SKJEMA3C); (U_5216_2:SKJEMA3B); (U_4914_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1226 |
+| Not NA | 1226 |
 | NA | 92583 |
 
 
@@ -6072,6 +6437,7 @@ U_5516_3:SKJEMA3E; (U_5216_3:SKJEMA3C); (U_5216_3:SKJEMA3B); (U_4914_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1475 |
+| Not NA | 1475 |
 | NA | 92334 |
 
 
@@ -6082,6 +6448,7 @@ U_5516_4:SKJEMA3E; (U_5216_4:SKJEMA3C); (U_5216_4:SKJEMA3B); (U_4914_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1600 |
+| Not NA | 1600 |
 | NA | 92209 |
 
 
@@ -6092,6 +6459,7 @@ U_5516_5:SKJEMA3E; (U_5216_5:SKJEMA3C); (U_5216_5:SKJEMA3B); (U_4914_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 999 |
+| Not NA | 999 |
 | NA | 92810 |
 
 
@@ -6102,6 +6470,7 @@ U_5516_7:SKJEMA3E; (U_5216_7:SKJEMA3C); (U_5216_7:SKJEMA3B); (U_4914_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 506 |
+| Not NA | 506 |
 | NA | 93303 |
 
 
@@ -6112,6 +6481,7 @@ U_5516_8:SKJEMA3E; (U_5216_8:SKJEMA3C); (U_5216_8:SKJEMA3B); (U_4914_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 613 |
+| Not NA | 613 |
 | NA | 93196 |
 
 
@@ -6122,6 +6492,7 @@ U_5516_9:SKJEMA3E; (U_5216_9:SKJEMA3C); (U_5216_9:SKJEMA3B); (U_4914_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 790 |
+| Not NA | 790 |
 | NA | 93019 |
 
 
@@ -6132,6 +6503,7 @@ U_551610:SKJEMA3E; (U_521610:SKJEMA3C); (U_521610:SKJEMA3B); (U_491410:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 877 |
+| Not NA | 877 |
 | NA | 92932 |
 
 
@@ -6142,6 +6514,7 @@ U_551611:SKJEMA3E; (U_521611:SKJEMA3C); (U_521611:SKJEMA3B); (U_491411:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 534 |
+| Not NA | 534 |
 | NA | 93275 |
 
 
@@ -6204,6 +6577,7 @@ U_551612:SKJEMA3E; (U_521612:SKJEMA3C); (U_521612:SKJEMA3B); (U_491412:SKJEMA3A)
 | 9 | 43 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 91003 |
+| Not NA | 2806 |
 
 
 ### CC532
@@ -6213,6 +6587,7 @@ U_5517_1:SKJEMA3E; (U_5217_1:SKJEMA3C); (U_5217_1:SKJEMA3B); (U_4915_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 929 |
+| Not NA | 929 |
 | NA | 92880 |
 
 
@@ -6223,6 +6598,7 @@ U_5517_2:SKJEMA3E; (U_5217_2:SKJEMA3C); (U_5217_2:SKJEMA3B); (U_4915_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1114 |
+| Not NA | 1114 |
 | NA | 92695 |
 
 
@@ -6233,6 +6609,7 @@ U_5517_3:SKJEMA3E; (U_5217_3:SKJEMA3C); (U_5217_3:SKJEMA3B); (U_4915_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1417 |
+| Not NA | 1417 |
 | NA | 92392 |
 
 
@@ -6243,6 +6620,7 @@ U_5517_4:SKJEMA3E; (U_5217_4:SKJEMA3C); (U_5217_4:SKJEMA3B); (U_4915_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1671 |
+| Not NA | 1671 |
 | NA | 92138 |
 
 
@@ -6253,6 +6631,7 @@ U_5517_5:SKJEMA3E; (U_5217_5:SKJEMA3C); (U_5217_5:SKJEMA3B); (U_4915_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1037 |
+| Not NA | 1037 |
 | NA | 92772 |
 
 
@@ -6263,6 +6642,7 @@ U_5517_7:SKJEMA3E; (U_5217_7:SKJEMA3C); (U_5217_7:SKJEMA3B); (U_4915_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 244 |
+| Not NA | 244 |
 | NA | 93565 |
 
 
@@ -6273,6 +6653,7 @@ U_5517_8:SKJEMA3E; (U_5217_8:SKJEMA3C); (U_5217_8:SKJEMA3B); (U_4915_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 299 |
+| Not NA | 299 |
 | NA | 93510 |
 
 
@@ -6283,6 +6664,7 @@ U_5517_9:SKJEMA3E; (U_5217_9:SKJEMA3C); (U_5217_9:SKJEMA3B); (U_4915_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 360 |
+| Not NA | 360 |
 | NA | 93449 |
 
 
@@ -6293,6 +6675,7 @@ U_551710:SKJEMA3E; (U_521710:SKJEMA3C); (U_521710:SKJEMA3B); (U_491510:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 505 |
+| Not NA | 505 |
 | NA | 93304 |
 
 
@@ -6303,6 +6686,7 @@ U_551711:SKJEMA3E; (U_521711:SKJEMA3C); (U_521711:SKJEMA3B); (U_491511:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 335 |
+| Not NA | 335 |
 | NA | 93474 |
 
 
@@ -6342,6 +6726,7 @@ U_551712:SKJEMA3E; (U_521712:SKJEMA3C); (U_521712:SKJEMA3B); (U_491512:SKJEMA3A)
 | 9 | 6 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 92108 |
+| Not NA | 1701 |
 
 
 ### CC544
@@ -6351,6 +6736,7 @@ U_5518_1:SKJEMA3E; (U_5218_1:SKJEMA3C); (U_5218_1:SKJEMA3B); (U_4916_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 325 |
+| Not NA | 325 |
 | NA | 93484 |
 
 
@@ -6361,6 +6747,7 @@ U_5518_2:SKJEMA3E; (U_5218_2:SKJEMA3C); (U_5218_2:SKJEMA3B); (U_4916_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 427 |
+| Not NA | 427 |
 | NA | 93382 |
 
 
@@ -6371,6 +6758,7 @@ U_5518_3:SKJEMA3E; (U_5218_3:SKJEMA3C); (U_5218_3:SKJEMA3B); (U_4916_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 542 |
+| Not NA | 542 |
 | NA | 93267 |
 
 
@@ -6381,6 +6769,7 @@ U_5518_4:SKJEMA3E; (U_5218_4:SKJEMA3C); (U_5218_4:SKJEMA3B); (U_4916_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 592 |
+| Not NA | 592 |
 | NA | 93217 |
 
 
@@ -6391,6 +6780,7 @@ U_5518_5:SKJEMA3E; (U_5218_5:SKJEMA3C); (U_5218_5:SKJEMA3B); (U_4916_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 377 |
+| Not NA | 377 |
 | NA | 93432 |
 
 
@@ -6401,6 +6791,7 @@ U_5518_7:SKJEMA3E; (U_5218_7:SKJEMA3C); (U_5218_7:SKJEMA3B); (U_4916_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 179 |
+| Not NA | 179 |
 | NA | 93630 |
 
 
@@ -6411,6 +6802,7 @@ U_5518_8:SKJEMA3E; (U_5218_8:SKJEMA3C); (U_5218_8:SKJEMA3B); (U_4916_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 249 |
+| Not NA | 249 |
 | NA | 93560 |
 
 
@@ -6421,6 +6813,7 @@ U_5518_9:SKJEMA3E; (U_5218_9:SKJEMA3C); (U_5218_9:SKJEMA3B); (U_4916_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 319 |
+| Not NA | 319 |
 | NA | 93490 |
 
 
@@ -6431,6 +6824,7 @@ U_551810:SKJEMA3E; (U_521810:SKJEMA3C); (U_521810:SKJEMA3B); (U_491610:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 376 |
+| Not NA | 376 |
 | NA | 93433 |
 
 
@@ -6441,6 +6835,7 @@ U_551811:SKJEMA3E; (U_521811:SKJEMA3C); (U_521811:SKJEMA3B); (U_491611:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 243 |
+| Not NA | 243 |
 | NA | 93566 |
 
 
@@ -6486,6 +6881,7 @@ U_551812:SKJEMA3E; (U_521812:SKJEMA3C); (U_521812:SKJEMA3B); (U_491612:SKJEMA3A)
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 92602 |
+| Not NA | 1207 |
 
 
 ### CC556
@@ -6495,6 +6891,7 @@ U_5519_1:SKJEMA3E; (U_5219_1:SKJEMA3C); (U_5219_1:SKJEMA3B); (U_4912_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 875 |
+| Not NA | 875 |
 | NA | 92934 |
 
 
@@ -6505,6 +6902,7 @@ U_5519_2:SKJEMA3E; (U_5219_2:SKJEMA3C); (U_5219_2:SKJEMA3B); (U_4912_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1342 |
+| Not NA | 1342 |
 | NA | 92467 |
 
 
@@ -6515,6 +6913,7 @@ U_5519_3:SKJEMA3E; (U_5219_3:SKJEMA3C); (U_5219_3:SKJEMA3B); (U_4912_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2087 |
+| Not NA | 2087 |
 | NA | 91722 |
 
 
@@ -6525,6 +6924,7 @@ U_5519_4:SKJEMA3E; (U_5219_4:SKJEMA3C); (U_5219_4:SKJEMA3B); (U_4912_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3212 |
+| Not NA | 3212 |
 | NA | 90597 |
 
 
@@ -6535,6 +6935,7 @@ U_5519_5:SKJEMA3E; (U_5219_5:SKJEMA3C); (U_5219_5:SKJEMA3B); (U_4912_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2918 |
+| Not NA | 2918 |
 | NA | 90891 |
 
 
@@ -6545,6 +6946,7 @@ U_5519_7:SKJEMA3E; (U_5219_7:SKJEMA3C); (U_5219_7:SKJEMA3B); (U_4912_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 116 |
+| Not NA | 116 |
 | NA | 93693 |
 
 
@@ -6555,6 +6957,7 @@ U_5519_8:SKJEMA3E; (U_5219_8:SKJEMA3C); (U_5219_8:SKJEMA3B); (U_4912_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 189 |
+| Not NA | 189 |
 | NA | 93620 |
 
 
@@ -6565,6 +6968,7 @@ U_5519_9:SKJEMA3E; (U_5219_9:SKJEMA3C); (U_5219_9:SKJEMA3B); (U_4912_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 327 |
+| Not NA | 327 |
 | NA | 93482 |
 
 
@@ -6575,6 +6979,7 @@ U_551910:SKJEMA3E; (U_521910:SKJEMA3C); (U_521910:SKJEMA3B); (U_491210:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 495 |
+| Not NA | 495 |
 | NA | 93314 |
 
 
@@ -6585,6 +6990,7 @@ U_551911:SKJEMA3E; (U_521911:SKJEMA3C); (U_521911:SKJEMA3B); (U_491211:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 384 |
+| Not NA | 384 |
 | NA | 93425 |
 
 
@@ -6636,6 +7042,7 @@ U_551912:SKJEMA3E; (U_521912:SKJEMA3C); (U_521912:SKJEMA3B); (U_491212:SKJEMA3A)
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 92546 |
+| Not NA | 1263 |
 
 
 ### CC568
@@ -6645,6 +7052,7 @@ U_5520_1:SKJEMA3E; (U_5220_1:SKJEMA3C); (U_5220_1:SKJEMA3B); (U_4924_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 641 |
+| Not NA | 641 |
 | NA | 93168 |
 
 
@@ -6655,6 +7063,7 @@ U_5520_2:SKJEMA3E; (U_5220_2:SKJEMA3C); (U_5220_2:SKJEMA3B); (U_4924_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 871 |
+| Not NA | 871 |
 | NA | 92938 |
 
 
@@ -6665,6 +7074,7 @@ U_5520_3:SKJEMA3E; (U_5220_3:SKJEMA3C); (U_5220_3:SKJEMA3B); (U_4924_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1397 |
+| Not NA | 1397 |
 | NA | 92412 |
 
 
@@ -6675,6 +7085,7 @@ U_5520_4:SKJEMA3E; (U_5220_4:SKJEMA3C); (U_5220_4:SKJEMA3B); (U_4924_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2395 |
+| Not NA | 2395 |
 | NA | 91414 |
 
 
@@ -6685,6 +7096,7 @@ U_5520_5:SKJEMA3E; (U_5220_5:SKJEMA3C); (U_5220_5:SKJEMA3B); (U_4924_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2024 |
+| Not NA | 2024 |
 | NA | 91785 |
 
 
@@ -6695,6 +7107,7 @@ U_5520_7:SKJEMA3E; (U_5220_7:SKJEMA3C); (U_5220_7:SKJEMA3B); (U_4924_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 52 |
+| Not NA | 52 |
 | NA | 93757 |
 
 
@@ -6705,6 +7118,7 @@ U_5520_8:SKJEMA3E; (U_5220_8:SKJEMA3C); (U_5220_8:SKJEMA3B); (U_4924_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 51 |
+| Not NA | 51 |
 | NA | 93758 |
 
 
@@ -6715,6 +7129,7 @@ U_5520_9:SKJEMA3E; (U_5220_9:SKJEMA3C); (U_5220_9:SKJEMA3B); (U_4924_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 68 |
+| Not NA | 68 |
 | NA | 93741 |
 
 
@@ -6725,6 +7140,7 @@ U_552010:SKJEMA3E; (U_522010:SKJEMA3C); (U_522010:SKJEMA3B); (U_492410:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 87 |
+| Not NA | 87 |
 | NA | 93722 |
 
 
@@ -6735,6 +7151,7 @@ U_552011:SKJEMA3E; (U_522011:SKJEMA3C); (U_522011:SKJEMA3B); (U_492411:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 83 |
+| Not NA | 83 |
 | NA | 93726 |
 
 
@@ -6781,6 +7198,7 @@ U_552012:SKJEMA3E; (U_522012:SKJEMA3C); (U_522012:SKJEMA3B); (U_492412:SKJEMA3A)
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 93667 |
+| Not NA | 142 |
 
 
 ### CC580
@@ -6790,6 +7208,7 @@ U_5521_1:SKJEMA3E; (U_5221_1:SKJEMA3C); (U_5221_1:SKJEMA3B); (U_4925_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1305 |
+| Not NA | 1305 |
 | NA | 92504 |
 
 
@@ -6800,6 +7219,7 @@ U_5521_2:SKJEMA3E; (U_5221_2:SKJEMA3C); (U_5221_2:SKJEMA3B); (U_4925_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1703 |
+| Not NA | 1703 |
 | NA | 92106 |
 
 
@@ -6810,6 +7230,7 @@ U_5521_3:SKJEMA3E; (U_5221_3:SKJEMA3C); (U_5221_3:SKJEMA3B); (U_4925_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2695 |
+| Not NA | 2695 |
 | NA | 91114 |
 
 
@@ -6820,6 +7241,7 @@ U_5521_4:SKJEMA3E; (U_5221_4:SKJEMA3C); (U_5221_4:SKJEMA3B); (U_4925_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3985 |
+| Not NA | 3985 |
 | NA | 89824 |
 
 
@@ -6830,6 +7252,7 @@ U_5521_5:SKJEMA3E; (U_5221_5:SKJEMA3C); (U_5221_5:SKJEMA3B); (U_4925_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3296 |
+| Not NA | 3296 |
 | NA | 90513 |
 
 
@@ -6840,6 +7263,7 @@ U_5521_7:SKJEMA3E; (U_5221_7:SKJEMA3C); (U_5221_7:SKJEMA3B); (U_4925_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 45 |
+| Not NA | 45 |
 | NA | 93764 |
 
 
@@ -6850,6 +7274,7 @@ U_5521_8:SKJEMA3E; (U_5221_8:SKJEMA3C); (U_5221_8:SKJEMA3B); (U_4925_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 49 |
+| Not NA | 49 |
 | NA | 93760 |
 
 
@@ -6860,6 +7285,7 @@ U_5521_9:SKJEMA3E; (U_5221_9:SKJEMA3C); (U_5221_9:SKJEMA3B); (U_4925_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 90 |
+| Not NA | 90 |
 | NA | 93719 |
 
 
@@ -6870,6 +7296,7 @@ U_552110:SKJEMA3E; (U_522110:SKJEMA3C); (U_522110:SKJEMA3B); (U_492510:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 106 |
+| Not NA | 106 |
 | NA | 93703 |
 
 
@@ -6880,6 +7307,7 @@ U_552111:SKJEMA3E; (U_522111:SKJEMA3C); (U_522111:SKJEMA3B); (U_492511:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 63 |
+| Not NA | 63 |
 | NA | 93746 |
 
 
@@ -6919,6 +7347,7 @@ U_552112:SKJEMA3E; (U_522112:SKJEMA3C); (U_522112:SKJEMA3B); (U_492512:SKJEMA3A)
 | 91 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 93532 |
+| Not NA | 277 |
 
 
 ### CC592
@@ -6928,6 +7357,7 @@ U_5522_1:SKJEMA3E; (U_5222_1:SKJEMA3C); (U_5222_1:SKJEMA3B); (U_4926_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1124 |
+| Not NA | 1124 |
 | NA | 92685 |
 
 
@@ -6938,6 +7368,7 @@ U_5522_2:SKJEMA3E; (U_5222_2:SKJEMA3C); (U_5222_2:SKJEMA3B); (U_4926_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1125 |
+| Not NA | 1125 |
 | NA | 92684 |
 
 
@@ -6948,6 +7379,7 @@ U_5522_3:SKJEMA3E; (U_5222_3:SKJEMA3C); (U_5222_3:SKJEMA3B); (U_4926_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1420 |
+| Not NA | 1420 |
 | NA | 92389 |
 
 
@@ -6958,6 +7390,7 @@ U_5522_4:SKJEMA3E; (U_5222_4:SKJEMA3C); (U_5222_4:SKJEMA3B); (U_4926_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1613 |
+| Not NA | 1613 |
 | NA | 92196 |
 
 
@@ -6968,6 +7401,7 @@ U_5522_5:SKJEMA3E; (U_5222_5:SKJEMA3C); (U_5222_5:SKJEMA3B); (U_4926_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 990 |
+| Not NA | 990 |
 | NA | 92819 |
 
 
@@ -6978,6 +7412,7 @@ U_5522_7:SKJEMA3E; (U_5222_7:SKJEMA3C); (U_5222_7:SKJEMA3B); (U_4926_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 648 |
+| Not NA | 648 |
 | NA | 93161 |
 
 
@@ -6988,6 +7423,7 @@ U_5522_8:SKJEMA3E; (U_5222_8:SKJEMA3C); (U_5222_8:SKJEMA3B); (U_4926_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 709 |
+| Not NA | 709 |
 | NA | 93100 |
 
 
@@ -6998,6 +7434,7 @@ U_5522_9:SKJEMA3E; (U_5222_9:SKJEMA3C); (U_5222_9:SKJEMA3B); (U_4926_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 905 |
+| Not NA | 905 |
 | NA | 92904 |
 
 
@@ -7008,6 +7445,7 @@ U_552210:SKJEMA3E; (U_522210:SKJEMA3C); (U_522210:SKJEMA3B); (U_492610:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1121 |
+| Not NA | 1121 |
 | NA | 92688 |
 
 
@@ -7018,6 +7456,7 @@ U_552211:SKJEMA3E; (U_522211:SKJEMA3C); (U_522211:SKJEMA3B); (U_492611:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 665 |
+| Not NA | 665 |
 | NA | 93144 |
 
 
@@ -7088,6 +7527,7 @@ U_552212:SKJEMA3E; (U_522212:SKJEMA3C); (U_522212:SKJEMA3B); (U_492612:SKJEMA3A)
 | 99 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 90711 |
+| Not NA | 3098 |
 
 
 ### CC604
@@ -7097,6 +7537,7 @@ U_5523_1:SKJEMA3E; (U_5223_1:SKJEMA3C); (U_5223_1:SKJEMA3B); (U_4927_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2981 |
+| Not NA | 2981 |
 | NA | 90828 |
 
 
@@ -7107,6 +7548,7 @@ U_5523_2:SKJEMA3E; (U_5223_2:SKJEMA3C); (U_5223_2:SKJEMA3B); (U_4927_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4171 |
+| Not NA | 4171 |
 | NA | 89638 |
 
 
@@ -7117,6 +7559,7 @@ U_5523_3:SKJEMA3E; (U_5223_3:SKJEMA3C); (U_5223_3:SKJEMA3B); (U_4927_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6665 |
+| Not NA | 6665 |
 | NA | 87144 |
 
 
@@ -7127,6 +7570,7 @@ U_5523_4:SKJEMA3E; (U_5223_4:SKJEMA3C); (U_5223_4:SKJEMA3B); (U_4927_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 9203 |
+| Not NA | 9203 |
 | NA | 84606 |
 
 
@@ -7137,6 +7581,7 @@ U_5523_5:SKJEMA3E; (U_5223_5:SKJEMA3C); (U_5223_5:SKJEMA3B); (U_4927_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8264 |
+| Not NA | 8264 |
 | NA | 85545 |
 
 
@@ -7147,6 +7592,7 @@ U_5523_7:SKJEMA3E; (U_5223_7:SKJEMA3C); (U_5223_7:SKJEMA3B); (U_4927_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 93788 |
 
 
@@ -7157,6 +7603,7 @@ U_5523_8:SKJEMA3E; (U_5223_8:SKJEMA3C); (U_5223_8:SKJEMA3B); (U_4927_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 93791 |
 
 
@@ -7167,6 +7614,7 @@ U_5523_9:SKJEMA3E; (U_5223_9:SKJEMA3C); (U_5223_9:SKJEMA3B); (U_4927_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 93785 |
 
 
@@ -7177,6 +7625,7 @@ U_552310:SKJEMA3E; (U_522310:SKJEMA3C); (U_522310:SKJEMA3B); (U_492710:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 35 |
+| Not NA | 35 |
 | NA | 93774 |
 
 
@@ -7187,6 +7636,7 @@ U_552311:SKJEMA3E; (U_522311:SKJEMA3C); (U_522311:SKJEMA3B); (U_492711:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 30 |
+| Not NA | 30 |
 | NA | 93779 |
 
 
@@ -7220,6 +7670,7 @@ U_552312:SKJEMA3E; (U_522312:SKJEMA3C); (U_522312:SKJEMA3B); (U_492712:SKJEMA3A)
 | 9 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 93677 |
+| Not NA | 132 |
 
 
 ### CC616
@@ -7229,6 +7680,7 @@ U_5524_1:SKJEMA3E; (U_5224_1:SKJEMA3C); (U_5224_1:SKJEMA3B); (U_4928_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 693 |
+| Not NA | 693 |
 | NA | 93116 |
 
 
@@ -7239,6 +7691,7 @@ U_5524_2:SKJEMA3E; (U_5224_2:SKJEMA3C); (U_5224_2:SKJEMA3B); (U_4928_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 760 |
+| Not NA | 760 |
 | NA | 93049 |
 
 
@@ -7249,6 +7702,7 @@ U_5524_3:SKJEMA3E; (U_5224_3:SKJEMA3C); (U_5224_3:SKJEMA3B); (U_4928_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1031 |
+| Not NA | 1031 |
 | NA | 92778 |
 
 
@@ -7259,6 +7713,7 @@ U_5524_4:SKJEMA3E; (U_5224_4:SKJEMA3C); (U_5224_4:SKJEMA3B); (U_4928_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1552 |
+| Not NA | 1552 |
 | NA | 92257 |
 
 
@@ -7269,6 +7724,7 @@ U_5524_5:SKJEMA3E; (U_5224_5:SKJEMA3C); (U_5224_5:SKJEMA3B); (U_4928_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1511 |
+| Not NA | 1511 |
 | NA | 92298 |
 
 
@@ -7279,6 +7735,7 @@ U_5524_7:SKJEMA3E; (U_5224_7:SKJEMA3C); (U_5224_7:SKJEMA3B); (U_4928_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 158 |
+| Not NA | 158 |
 | NA | 93651 |
 
 
@@ -7289,6 +7746,7 @@ U_5524_8:SKJEMA3E; (U_5224_8:SKJEMA3C); (U_5224_8:SKJEMA3B); (U_4928_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 170 |
+| Not NA | 170 |
 | NA | 93639 |
 
 
@@ -7299,6 +7757,7 @@ U_5524_9:SKJEMA3E; (U_5224_9:SKJEMA3C); (U_5224_9:SKJEMA3B); (U_4928_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 178 |
+| Not NA | 178 |
 | NA | 93631 |
 
 
@@ -7309,6 +7768,7 @@ U_552410:SKJEMA3E; (U_522410:SKJEMA3C); (U_522410:SKJEMA3B); (U_492810:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 199 |
+| Not NA | 199 |
 | NA | 93610 |
 
 
@@ -7319,6 +7779,7 @@ U_552411:SKJEMA3E; (U_522411:SKJEMA3C); (U_522411:SKJEMA3B); (U_492811:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 190 |
+| Not NA | 190 |
 | NA | 93619 |
 
 
@@ -7396,6 +7857,7 @@ U_552412:SKJEMA3E; (U_522412:SKJEMA3C); (U_522412:SKJEMA3B); (U_492812:SKJEMA3A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 93596 |
+| Not NA | 213 |
 
 
 ### CC628
@@ -7405,6 +7867,7 @@ U_5525_1:SKJEMA3E; (U_5225_1:SKJEMA3C); (U_5225_1:SKJEMA3B); (U_4923_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3069 |
+| Not NA | 3069 |
 | NA | 90740 |
 
 
@@ -7415,6 +7878,7 @@ U_5525_2:SKJEMA3E; (U_5225_2:SKJEMA3C); (U_5225_2:SKJEMA3B); (U_4923_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6623 |
+| Not NA | 6623 |
 | NA | 87186 |
 
 
@@ -7425,6 +7889,7 @@ U_5525_3:SKJEMA3E; (U_5225_3:SKJEMA3C); (U_5225_3:SKJEMA3B); (U_4923_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 15958 |
+| Not NA | 15958 |
 | NA | 77851 |
 
 
@@ -7435,6 +7900,7 @@ U_5525_4:SKJEMA3E; (U_5225_4:SKJEMA3C); (U_5225_4:SKJEMA3B); (U_4923_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 29137 |
+| Not NA | 29137 |
 | NA | 64672 |
 
 
@@ -7445,6 +7911,7 @@ U_5525_5:SKJEMA3E; (U_5225_5:SKJEMA3C); (U_5225_5:SKJEMA3B); (U_4923_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 26492 |
+| Not NA | 26492 |
 | NA | 67317 |
 
 
@@ -7455,6 +7922,7 @@ U_5525_7:SKJEMA3E; (U_5225_7:SKJEMA3C); (U_5225_7:SKJEMA3B); (U_4923_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 68 |
+| Not NA | 68 |
 | NA | 93741 |
 
 
@@ -7465,6 +7933,7 @@ U_5525_8:SKJEMA3E; (U_5225_8:SKJEMA3C); (U_5225_8:SKJEMA3B); (U_4923_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 108 |
+| Not NA | 108 |
 | NA | 93701 |
 
 
@@ -7475,6 +7944,7 @@ U_5525_9:SKJEMA3E; (U_5225_9:SKJEMA3C); (U_5225_9:SKJEMA3B); (U_4923_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 243 |
+| Not NA | 243 |
 | NA | 93566 |
 
 
@@ -7485,6 +7955,7 @@ U_552510:SKJEMA3E; (U_522510:SKJEMA3C); (U_522510:SKJEMA3B); (U_492310:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 475 |
+| Not NA | 475 |
 | NA | 93334 |
 
 
@@ -7495,6 +7966,7 @@ U_552511:SKJEMA3E; (U_522511:SKJEMA3C); (U_522511:SKJEMA3B); (U_492311:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 496 |
+| Not NA | 496 |
 | NA | 93313 |
 
 
@@ -7578,6 +8050,7 @@ U_552512:SKJEMA3E; (U_522512:SKJEMA3C); (U_522512:SKJEMA3B); (U_492312:SKJEMA3A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 93183 |
+| Not NA | 626 |
 
 
 ### CC640
@@ -7587,6 +8060,7 @@ U_5526_1:SKJEMA3E; (U_5226_1:SKJEMA3C); (U_5226_1:SKJEMA3B); (U_4917_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1604 |
+| Not NA | 1604 |
 | NA | 92205 |
 
 
@@ -7597,6 +8071,7 @@ U_5526_2:SKJEMA3E; (U_5226_2:SKJEMA3C); (U_5226_2:SKJEMA3B); (U_4917_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1681 |
+| Not NA | 1681 |
 | NA | 92128 |
 
 
@@ -7607,6 +8082,7 @@ U_5526_3:SKJEMA3E; (U_5226_3:SKJEMA3C); (U_5226_3:SKJEMA3B); (U_4917_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1799 |
+| Not NA | 1799 |
 | NA | 92010 |
 
 
@@ -7617,6 +8093,7 @@ U_5526_4:SKJEMA3E; (U_5226_4:SKJEMA3C); (U_5226_4:SKJEMA3B); (U_4917_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1934 |
+| Not NA | 1934 |
 | NA | 91875 |
 
 
@@ -7627,6 +8104,7 @@ U_5526_5:SKJEMA3E; (U_5226_5:SKJEMA3C); (U_5226_5:SKJEMA3B); (U_4917_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1761 |
+| Not NA | 1761 |
 | NA | 92048 |
 
 
@@ -7637,6 +8115,7 @@ U_5526_7:SKJEMA3E; (U_5226_7:SKJEMA3C); (U_5226_7:SKJEMA3B); (U_4917_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1177 |
+| Not NA | 1177 |
 | NA | 92632 |
 
 
@@ -7647,6 +8126,7 @@ U_5526_8:SKJEMA3E; (U_5226_8:SKJEMA3C); (U_5226_8:SKJEMA3B); (U_4917_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1251 |
+| Not NA | 1251 |
 | NA | 92558 |
 
 
@@ -7657,6 +8137,7 @@ U_5526_9:SKJEMA3E; (U_5226_9:SKJEMA3C); (U_5226_9:SKJEMA3B); (U_4917_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1334 |
+| Not NA | 1334 |
 | NA | 92475 |
 
 
@@ -7667,6 +8148,7 @@ U_552610:SKJEMA3E; (U_522610:SKJEMA3C); (U_522610:SKJEMA3B); (U_491710:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1424 |
+| Not NA | 1424 |
 | NA | 92385 |
 
 
@@ -7677,6 +8159,7 @@ U_552611:SKJEMA3E; (U_522611:SKJEMA3C); (U_522611:SKJEMA3B); (U_491711:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1287 |
+| Not NA | 1287 |
 | NA | 92522 |
 
 
@@ -7786,6 +8269,7 @@ U_552612:SKJEMA3E; (U_522612:SKJEMA3C); (U_522612:SKJEMA3B); (U_491712:SKJEMA3A)
 | 217 | 1 |
 | (Other) | 37 |
 | NA's | 92421 |
+| Not NA | 1388 |
 
 
 ### CC652
@@ -7795,6 +8279,7 @@ U_5527_1:SKJEMA3E; (U_5227_1:SKJEMA3C); (U_5227_1:SKJEMA3B); (U_4918_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2617 |
+| Not NA | 2617 |
 | NA | 91192 |
 
 
@@ -7805,6 +8290,7 @@ U_5527_2:SKJEMA3E; (U_5227_2:SKJEMA3C); (U_5227_2:SKJEMA3B); (U_4918_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3052 |
+| Not NA | 3052 |
 | NA | 90757 |
 
 
@@ -7815,6 +8301,7 @@ U_5527_3:SKJEMA3E; (U_5227_3:SKJEMA3C); (U_5227_3:SKJEMA3B); (U_4918_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3670 |
+| Not NA | 3670 |
 | NA | 90139 |
 
 
@@ -7825,6 +8312,7 @@ U_5527_4:SKJEMA3E; (U_5227_4:SKJEMA3C); (U_5227_4:SKJEMA3B); (U_4918_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4363 |
+| Not NA | 4363 |
 | NA | 89446 |
 
 
@@ -7835,6 +8323,7 @@ U_5527_5:SKJEMA3E; (U_5227_5:SKJEMA3C); (U_5227_5:SKJEMA3B); (U_4918_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4098 |
+| Not NA | 4098 |
 | NA | 89711 |
 
 
@@ -7845,6 +8334,7 @@ U_5527_7:SKJEMA3E; (U_5227_7:SKJEMA3C); (U_5227_7:SKJEMA3B); (U_4918_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1246 |
+| Not NA | 1246 |
 | NA | 92563 |
 
 
@@ -7855,6 +8345,7 @@ U_5527_8:SKJEMA3E; (U_5227_8:SKJEMA3C); (U_5227_8:SKJEMA3B); (U_4918_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1515 |
+| Not NA | 1515 |
 | NA | 92294 |
 
 
@@ -7865,6 +8356,7 @@ U_5527_9:SKJEMA3E; (U_5227_9:SKJEMA3C); (U_5227_9:SKJEMA3B); (U_4918_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1846 |
+| Not NA | 1846 |
 | NA | 91963 |
 
 
@@ -7875,6 +8367,7 @@ U_552710:SKJEMA3E; (U_522710:SKJEMA3C); (U_522710:SKJEMA3B); (U_491810:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2157 |
+| Not NA | 2157 |
 | NA | 91652 |
 
 
@@ -7885,6 +8378,7 @@ U_552711:SKJEMA3E; (U_522711:SKJEMA3C); (U_522711:SKJEMA3B); (U_491811:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1942 |
+| Not NA | 1942 |
 | NA | 91867 |
 
 
@@ -7994,6 +8488,7 @@ U_552712:SKJEMA3E; (U_522712:SKJEMA3C); (U_522712:SKJEMA3B); (U_491812:SKJEMA3A)
 | 121 | 1 |
 | (Other) | 51 |
 | NA's | 91039 |
+| Not NA | 2770 |
 
 
 ### CC664
@@ -8003,6 +8498,7 @@ U_5528_1:SKJEMA3E; (U_5228_1:SKJEMA3C); (U_5228_1:SKJEMA3B); (U_4919_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8964 |
+| Not NA | 8964 |
 | NA | 84845 |
 
 
@@ -8013,6 +8509,7 @@ U_5528_2:SKJEMA3E; (U_5228_2:SKJEMA3C); (U_5228_2:SKJEMA3B); (U_4919_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 9315 |
+| Not NA | 9315 |
 | NA | 84494 |
 
 
@@ -8023,6 +8520,7 @@ U_5528_3:SKJEMA3E; (U_5228_3:SKJEMA3C); (U_5228_3:SKJEMA3B); (U_4919_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8744 |
+| Not NA | 8744 |
 | NA | 85065 |
 
 
@@ -8033,6 +8531,7 @@ U_5528_4:SKJEMA3E; (U_5228_4:SKJEMA3C); (U_5228_4:SKJEMA3B); (U_4919_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 9252 |
+| Not NA | 9252 |
 | NA | 84557 |
 
 
@@ -8043,6 +8542,7 @@ U_5528_5:SKJEMA3E; (U_5228_5:SKJEMA3C); (U_5228_5:SKJEMA3B); (U_4919_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6807 |
+| Not NA | 6807 |
 | NA | 87002 |
 
 
@@ -8053,6 +8553,7 @@ U_5528_7:SKJEMA3E; (U_5228_7:SKJEMA3C); (U_5228_7:SKJEMA3B); (U_4919_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3458 |
+| Not NA | 3458 |
 | NA | 90351 |
 
 
@@ -8063,6 +8564,7 @@ U_5528_8:SKJEMA3E; (U_5228_8:SKJEMA3C); (U_5228_8:SKJEMA3B); (U_4919_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3984 |
+| Not NA | 3984 |
 | NA | 89825 |
 
 
@@ -8073,6 +8575,7 @@ U_5528_9:SKJEMA3E; (U_5228_9:SKJEMA3C); (U_5228_9:SKJEMA3B); (U_4919_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3858 |
+| Not NA | 3858 |
 | NA | 89951 |
 
 
@@ -8083,6 +8586,7 @@ U_552810:SKJEMA3E; (U_522810:SKJEMA3C); (U_522810:SKJEMA3B); (U_491910:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3851 |
+| Not NA | 3851 |
 | NA | 89958 |
 
 
@@ -8093,6 +8597,7 @@ U_552811:SKJEMA3E; (U_522811:SKJEMA3C); (U_522811:SKJEMA3B); (U_491911:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2434 |
+| Not NA | 2434 |
 | NA | 91375 |
 
 
@@ -8175,6 +8680,7 @@ U_552812:SKJEMA3E; (U_522812:SKJEMA3C); (U_522812:SKJEMA3B); (U_491912:SKJEMA3A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 85098 |
+| Not NA | 8711 |
 
 
 ### CC676
@@ -8184,6 +8690,7 @@ U_5529_1:SKJEMA3E; (U_5229_1:SKJEMA3C); (U_5229_1:SKJEMA3B); (U_4929_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1601 |
+| Not NA | 1601 |
 | NA | 92208 |
 
 
@@ -8194,6 +8701,7 @@ U_5529_2:SKJEMA3E; (U_5229_2:SKJEMA3C); (U_5229_2:SKJEMA3B); (U_4929_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1612 |
+| Not NA | 1612 |
 | NA | 92197 |
 
 
@@ -8204,6 +8712,7 @@ U_5529_3:SKJEMA3E; (U_5229_3:SKJEMA3C); (U_5229_3:SKJEMA3B); (U_4929_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1878 |
+| Not NA | 1878 |
 | NA | 91931 |
 
 
@@ -8214,6 +8723,7 @@ U_5529_4:SKJEMA3E; (U_5229_4:SKJEMA3C); (U_5229_4:SKJEMA3B); (U_4929_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2288 |
+| Not NA | 2288 |
 | NA | 91521 |
 
 
@@ -8224,6 +8734,7 @@ U_5529_5:SKJEMA3E; (U_5229_5:SKJEMA3C); (U_5229_5:SKJEMA3B); (U_4929_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1738 |
+| Not NA | 1738 |
 | NA | 92071 |
 
 
@@ -8234,6 +8745,7 @@ U_5529_7:SKJEMA3E; (U_5229_7:SKJEMA3C); (U_5229_7:SKJEMA3B); (U_4929_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 191 |
+| Not NA | 191 |
 | NA | 93618 |
 
 
@@ -8244,6 +8756,7 @@ U_5529_8:SKJEMA3E; (U_5229_8:SKJEMA3C); (U_5229_8:SKJEMA3B); (U_4929_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 200 |
+| Not NA | 200 |
 | NA | 93609 |
 
 
@@ -8254,6 +8767,7 @@ U_5529_9:SKJEMA3E; (U_5229_9:SKJEMA3C); (U_5229_9:SKJEMA3B); (U_4929_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 220 |
+| Not NA | 220 |
 | NA | 93589 |
 
 
@@ -8264,6 +8778,7 @@ U_552910:SKJEMA3E; (U_522910:SKJEMA3C); (U_522910:SKJEMA3B); (U_492910:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 225 |
+| Not NA | 225 |
 | NA | 93584 |
 
 
@@ -8274,6 +8789,7 @@ U_552911:SKJEMA3E; (U_522911:SKJEMA3C); (U_522911:SKJEMA3B); (U_492911:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 210 |
+| Not NA | 210 |
 | NA | 93599 |
 
 
@@ -8349,6 +8865,7 @@ U_552912:SKJEMA3E; (U_522912:SKJEMA3C); (U_522912:SKJEMA3B); (U_492912:SKJEMA3A)
 | 98 | 2 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 93569 |
+| Not NA | 240 |
 
 
 ### CC688
@@ -8358,6 +8875,7 @@ U_5530_1:SKJEMA3E; (U_5230_1:SKJEMA3C); (U_5230_1:SKJEMA3B); (U_4930_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 621 |
+| Not NA | 621 |
 | NA | 93188 |
 
 
@@ -8368,6 +8886,7 @@ U_5530_2:SKJEMA3E; (U_5230_2:SKJEMA3C); (U_5230_2:SKJEMA3B); (U_4930_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 650 |
+| Not NA | 650 |
 | NA | 93159 |
 
 
@@ -8378,6 +8897,7 @@ U_5530_3:SKJEMA3E; (U_5230_3:SKJEMA3C); (U_5230_3:SKJEMA3B); (U_4930_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 804 |
+| Not NA | 804 |
 | NA | 93005 |
 
 
@@ -8388,6 +8908,7 @@ U_5530_4:SKJEMA3E; (U_5230_4:SKJEMA3C); (U_5230_4:SKJEMA3B); (U_4930_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 942 |
+| Not NA | 942 |
 | NA | 92867 |
 
 
@@ -8398,6 +8919,7 @@ U_5530_5:SKJEMA3E; (U_5230_5:SKJEMA3C); (U_5230_5:SKJEMA3B); (U_4930_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 852 |
+| Not NA | 852 |
 | NA | 92957 |
 
 
@@ -8408,6 +8930,7 @@ U_5530_7:SKJEMA3E; (U_5230_7:SKJEMA3C); (U_5230_7:SKJEMA3B); (U_4930_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 88 |
+| Not NA | 88 |
 | NA | 93721 |
 
 
@@ -8418,6 +8941,7 @@ U_5530_8:SKJEMA3E; (U_5230_8:SKJEMA3C); (U_5230_8:SKJEMA3B); (U_4930_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 97 |
+| Not NA | 97 |
 | NA | 93712 |
 
 
@@ -8428,6 +8952,7 @@ U_5530_9:SKJEMA3E; (U_5230_9:SKJEMA3C); (U_5230_9:SKJEMA3B); (U_4930_9:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 99 |
+| Not NA | 99 |
 | NA | 93710 |
 
 
@@ -8438,6 +8963,7 @@ U_553010:SKJEMA3E; (U_523010:SKJEMA3C); (U_523010:SKJEMA3B); (U_493010:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 119 |
+| Not NA | 119 |
 | NA | 93690 |
 
 
@@ -8448,6 +8974,7 @@ U_553011:SKJEMA3E; (U_523011:SKJEMA3C); (U_523011:SKJEMA3B); (U_493011:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 109 |
+| Not NA | 109 |
 | NA | 93700 |
 
 
@@ -8510,6 +9037,7 @@ U_553012:SKJEMA3E; (U_523012:SKJEMA3C); (U_523012:SKJEMA3B); (U_493012:SKJEMA3A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 93642 |
+| Not NA | 167 |
 
 
 ### CC700
@@ -8519,6 +9047,7 @@ U_5531_1:SKJEMA3E; (U_5231_1:SKJEMA3C); (U_5231_1:SKJEMA3B); Other , Week 13-16 
 | Category | n |
 | -------- | - |
 | 1 | 1293 |
+| Not NA | 1293 |
 | NA | 92516 |
 
 
@@ -8529,6 +9058,7 @@ U_5531_2:SKJEMA3E; (U_5231_2:SKJEMA3C); (U_5231_2:SKJEMA3B); Other , Week 17-20 
 | Category | n |
 | -------- | - |
 | 1 | 1652 |
+| Not NA | 1652 |
 | NA | 92157 |
 
 
@@ -8539,6 +9069,7 @@ U_5531_3:SKJEMA3E; (U_5231_3:SKJEMA3C); (U_5231_3:SKJEMA3B); Other , Week 21-24 
 | Category | n |
 | -------- | - |
 | 1 | 2285 |
+| Not NA | 2285 |
 | NA | 91524 |
 
 
@@ -8549,6 +9080,7 @@ U_5531_4:SKJEMA3E; (U_5231_4:SKJEMA3C); (U_5231_4:SKJEMA3B); Other , Week 25-28 
 | Category | n |
 | -------- | - |
 | 1 | 2958 |
+| Not NA | 2958 |
 | NA | 90851 |
 
 
@@ -8559,6 +9091,7 @@ U_5531_5:SKJEMA3E; (U_5231_5:SKJEMA3C); (U_5231_5:SKJEMA3B); Other , Week 29+ of
 | Category | n |
 | -------- | - |
 | 1 | 2750 |
+| Not NA | 2750 |
 | NA | 91059 |
 
 
@@ -8569,6 +9102,7 @@ U_5531_7:SKJEMA3E; (U_5231_7:SKJEMA3C); (U_5231_7:SKJEMA3B); Medication taken fo
 | Category | n |
 | -------- | - |
 | 1 | 649 |
+| Not NA | 649 |
 | NA | 93160 |
 
 
@@ -8579,6 +9113,7 @@ U_5531_8:SKJEMA3E; (U_5231_8:SKJEMA3C); (U_5231_8:SKJEMA3B); Medication taken fo
 | Category | n |
 | -------- | - |
 | 1 | 802 |
+| Not NA | 802 |
 | NA | 93007 |
 
 
@@ -8589,6 +9124,7 @@ U_5531_9:SKJEMA3E; (U_5231_9:SKJEMA3C); (U_5231_9:SKJEMA3B); Medication taken fo
 | Category | n |
 | -------- | - |
 | 1 | 1137 |
+| Not NA | 1137 |
 | NA | 92672 |
 
 
@@ -8599,6 +9135,7 @@ U_553110:SKJEMA3E; (U_523110:SKJEMA3C); (U_523110:SKJEMA3B); Medication taken fo
 | Category | n |
 | -------- | - |
 | 1 | 1528 |
+| Not NA | 1528 |
 | NA | 92281 |
 
 
@@ -8609,6 +9146,7 @@ U_553111:SKJEMA3E; (U_523111:SKJEMA3C); (U_523111:SKJEMA3B); Medication taken fo
 | Category | n |
 | -------- | - |
 | 1 | 1446 |
+| Not NA | 1446 |
 | NA | 92363 |
 
 
@@ -8718,6 +9256,7 @@ U_553112:SKJEMA3E; (U_523112:SKJEMA3C); (U_523112:SKJEMA3B); Medication taken fo
 | 44 | 1 |
 | (Other) | 12 |
 | NA's | 91264 |
+| Not NA | 2545 |
 
 
 ### CC712
@@ -8727,6 +9266,7 @@ U_56_1_1:SKJEMA3E; (U_53_1_1:SKJEMA3C); (U_53_1_1:SKJEMA3B); (U_50_1_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2020 |
+| Not NA | 2020 |
 | NA | 91789 |
 
 
@@ -8737,6 +9277,7 @@ U_56_1_2:SKJEMA3E; (U_53_1_2:SKJEMA3C); (U_53_1_2:SKJEMA3B); (U_50_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2480 |
+| Not NA | 2480 |
 | NA | 91329 |
 
 
@@ -8747,6 +9288,7 @@ U_56_1_3:SKJEMA3E; (U_53_1_3:SKJEMA3C); (U_53_1_3:SKJEMA3B); (U_50_1_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2992 |
+| Not NA | 2992 |
 | NA | 90817 |
 
 
@@ -8757,6 +9299,7 @@ U_56_1_4:SKJEMA3E; (U_53_1_4:SKJEMA3C); (U_53_1_4:SKJEMA3B); (U_50_1_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3423 |
+| Not NA | 3423 |
 | NA | 90386 |
 
 
@@ -8767,6 +9310,7 @@ U_56_1_5:SKJEMA3E; (U_53_1_5:SKJEMA3C); (U_53_1_5:SKJEMA3B); (U_50_1_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1861 |
+| Not NA | 1861 |
 | NA | 91948 |
 
 
@@ -8783,6 +9327,7 @@ U_56_1_7:SKJEMA3E; (U_53_1_7:SKJEMA3C); (U_53_1_7:SKJEMA3B); (U_50_1_7:SKJEMA3A)
 | 3rd Qu. | 39.1 |
 | Max. | 42 |
 | NA's | 87760 |
+| Not NA | 6049 |
 
 
 ### CC719
@@ -8792,6 +9337,7 @@ U_56_1_8:SKJEMA3E; (U_53_1_8:SKJEMA3C); (U_53_1_8:SKJEMA3B); (U_50_1_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5992 |
+| Not NA | 5992 |
 | NA | 87817 |
 
 
@@ -8802,6 +9348,7 @@ U_56_2_1:SKJEMA3E; (U_53_2_1:SKJEMA3C); (U_53_2_1:SKJEMA3B); (U_50_2_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 135 |
+| Not NA | 135 |
 | NA | 93674 |
 
 
@@ -8812,6 +9359,7 @@ U_56_2_2:SKJEMA3E; (U_53_2_2:SKJEMA3C); (U_53_2_2:SKJEMA3B); (U_50_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 357 |
+| Not NA | 357 |
 | NA | 93452 |
 
 
@@ -8822,6 +9370,7 @@ U_56_2_3:SKJEMA3E; (U_53_2_3:SKJEMA3C); (U_53_2_3:SKJEMA3B); (U_50_2_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 529 |
+| Not NA | 529 |
 | NA | 93280 |
 
 
@@ -8832,6 +9381,7 @@ U_56_2_4:SKJEMA3E; (U_53_2_4:SKJEMA3C); (U_53_2_4:SKJEMA3B); (U_50_2_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 777 |
+| Not NA | 777 |
 | NA | 93032 |
 
 
@@ -8842,6 +9392,7 @@ U_56_2_5:SKJEMA3E; (U_53_2_5:SKJEMA3C); (U_53_2_5:SKJEMA3B); (U_50_2_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 518 |
+| Not NA | 518 |
 | NA | 93291 |
 
 
@@ -8858,6 +9409,7 @@ U_56_2_7:SKJEMA3E; (U_53_2_7:SKJEMA3C); (U_53_2_7:SKJEMA3B); (U_50_2_7:SKJEMA3A)
 | 3rd Qu. | 39.2 |
 | Max. | 41.2 |
 | NA's | 92807 |
+| Not NA | 1002 |
 
 
 ### CC727
@@ -8867,6 +9419,7 @@ U_56_2_8:SKJEMA3E; (U_53_2_8:SKJEMA3C); (U_53_2_8:SKJEMA3B); (U_50_2_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1115 |
+| Not NA | 1115 |
 | NA | 92694 |
 
 
@@ -8877,6 +9430,7 @@ U_56_3_1:SKJEMA3E; (U_53_3_1:SKJEMA3C); (U_53_3_1:SKJEMA3B); (U_50_3_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 61 |
+| Not NA | 61 |
 | NA | 93748 |
 
 
@@ -8887,6 +9441,7 @@ U_56_3_2:SKJEMA3E; (U_53_3_2:SKJEMA3C); (U_53_3_2:SKJEMA3B); (U_50_3_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 98 |
+| Not NA | 98 |
 | NA | 93711 |
 
 
@@ -8897,6 +9452,7 @@ U_56_3_3:SKJEMA3E; (U_53_3_3:SKJEMA3C); (U_53_3_3:SKJEMA3B); (U_50_3_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 182 |
+| Not NA | 182 |
 | NA | 93627 |
 
 
@@ -8907,6 +9463,7 @@ U_56_3_4:SKJEMA3E; (U_53_3_4:SKJEMA3C); (U_53_3_4:SKJEMA3B); (U_50_3_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 280 |
+| Not NA | 280 |
 | NA | 93529 |
 
 
@@ -8917,6 +9474,7 @@ U_56_3_5:SKJEMA3E; (U_53_3_5:SKJEMA3C); (U_53_3_5:SKJEMA3B); (U_50_3_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 191 |
+| Not NA | 191 |
 | NA | 93618 |
 
 
@@ -8933,6 +9491,7 @@ U_56_3_7:SKJEMA3E; (U_53_3_7:SKJEMA3C); (U_53_3_7:SKJEMA3B); (U_50_3_7:SKJEMA3A)
 | 3rd Qu. | 39.3 |
 | Max. | 41 |
 | NA's | 93432 |
+| Not NA | 377 |
 
 
 ### CC735
@@ -8942,6 +9501,7 @@ U_56_3_8:SKJEMA3E; (U_53_3_8:SKJEMA3C); (U_53_3_8:SKJEMA3B); (U_50_3_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 373 |
+| Not NA | 373 |
 | NA | 93436 |
 
 
@@ -8952,6 +9512,7 @@ U_56_4:SKJEMA3E; (U_53_4:SKJEMA3C); (U_53_4:SKJEMA3B); (U_50_4:SKJEMA3A); Fever 
 | Category | n |
 | -------- | - |
 | 1 | 428 |
+| Not NA | 428 |
 | NA | 93381 |
 
 
@@ -8962,6 +9523,7 @@ U_57_1_2:SKJEMA3E; (U_54_1_2:SKJEMA3C); (U_54_1_2:SKJEMA3B); (U_51_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3509 |
+| Not NA | 3509 |
 | NA | 90300 |
 
 
@@ -8972,6 +9534,7 @@ U_57_1_3:SKJEMA3E; (U_54_1_3:SKJEMA3C); (U_54_1_3:SKJEMA3B); (U_51_1_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4391 |
+| Not NA | 4391 |
 | NA | 89418 |
 
 
@@ -8982,6 +9545,7 @@ U_57_1_4:SKJEMA3E; (U_54_1_4:SKJEMA3C); (U_54_1_4:SKJEMA3B); (U_51_1_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5323 |
+| Not NA | 5323 |
 | NA | 88486 |
 
 
@@ -8992,6 +9556,7 @@ U_57_1_5:SKJEMA3E; (U_54_1_5:SKJEMA3C); (U_54_1_5:SKJEMA3B); (U_51_1_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6163 |
+| Not NA | 6163 |
 | NA | 87646 |
 
 
@@ -9002,6 +9567,7 @@ U_57_1_6:SKJEMA3E; (U_54_1_6:SKJEMA3C); (U_54_1_6:SKJEMA3B); (U_51_1_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4421 |
+| Not NA | 4421 |
 | NA | 89388 |
 
 
@@ -9018,6 +9584,7 @@ U_57_1_7:SKJEMA3E; (U_54_1_7:SKJEMA3C); (U_54_1_7:SKJEMA3B); (U_51_1_7:SKJEMA3A)
 | 3rd Qu. | 9 |
 | Max. | 999 |
 | NA's | 83513 |
+| Not NA | 10296 |
 
 
 ### CC748
@@ -9027,6 +9594,7 @@ U_57_2_2:SKJEMA3E; (U_54_2_2:SKJEMA3C); (U_54_2_2:SKJEMA3B); (U_51_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 518 |
+| Not NA | 518 |
 | NA | 93291 |
 
 
@@ -9037,6 +9605,7 @@ U_57_2_3:SKJEMA3E; (U_54_2_3:SKJEMA3C); (U_54_2_3:SKJEMA3B); (U_51_2_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 656 |
+| Not NA | 656 |
 | NA | 93153 |
 
 
@@ -9047,6 +9616,7 @@ U_57_2_4:SKJEMA3E; (U_54_2_4:SKJEMA3C); (U_54_2_4:SKJEMA3B); (U_51_2_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 772 |
+| Not NA | 772 |
 | NA | 93037 |
 
 
@@ -9057,6 +9627,7 @@ U_57_2_5:SKJEMA3E; (U_54_2_5:SKJEMA3C); (U_54_2_5:SKJEMA3B); (U_51_2_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1014 |
+| Not NA | 1014 |
 | NA | 92795 |
 
 
@@ -9067,6 +9638,7 @@ U_57_2_6:SKJEMA3E; (U_54_2_6:SKJEMA3C); (U_54_2_6:SKJEMA3B); (U_51_2_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 886 |
+| Not NA | 886 |
 | NA | 92923 |
 
 
@@ -9083,6 +9655,7 @@ U_57_2_7:SKJEMA3E; (U_54_2_7:SKJEMA3C); (U_54_2_7:SKJEMA3B); (U_51_2_7:SKJEMA3A)
 | 3rd Qu. | 20 |
 | Max. | 365 |
 | NA's | 92192 |
+| Not NA | 1617 |
 
 
 ### CC755
@@ -9092,6 +9665,7 @@ U_57_3_2:SKJEMA3E; (U_54_3_2:SKJEMA3C); (U_54_3_2:SKJEMA3B); (U_51_3_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 101 |
+| Not NA | 101 |
 | NA | 93708 |
 
 
@@ -9102,6 +9676,7 @@ U_57_3_3:SKJEMA3E; (U_54_3_3:SKJEMA3C); (U_54_3_3:SKJEMA3B); (U_51_3_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 115 |
+| Not NA | 115 |
 | NA | 93694 |
 
 
@@ -9112,6 +9687,7 @@ U_57_3_4:SKJEMA3E; (U_54_3_4:SKJEMA3C); (U_54_3_4:SKJEMA3B); (U_51_3_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 152 |
+| Not NA | 152 |
 | NA | 93657 |
 
 
@@ -9122,6 +9698,7 @@ U_57_3_5:SKJEMA3E; (U_54_3_5:SKJEMA3C); (U_54_3_5:SKJEMA3B); (U_51_3_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 215 |
+| Not NA | 215 |
 | NA | 93594 |
 
 
@@ -9132,6 +9709,7 @@ U_57_3_6:SKJEMA3E; (U_54_3_6:SKJEMA3C); (U_54_3_6:SKJEMA3B); (U_51_3_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 227 |
+| Not NA | 227 |
 | NA | 93582 |
 
 
@@ -9148,6 +9726,7 @@ U_57_3_7:SKJEMA3E; (U_54_3_7:SKJEMA3C); (U_54_3_7:SKJEMA3B); (U_51_3_7:SKJEMA3A)
 | 3rd Qu. | 15 |
 | Max. | 210 |
 | NA's | 93433 |
+| Not NA | 376 |
 
 
 ### CC762
@@ -9157,6 +9736,7 @@ U_57_4_2:SKJEMA3E; (U_54_4_2:SKJEMA3C); (U_54_4_2:SKJEMA3B); (U_51_4_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 33 |
+| Not NA | 33 |
 | NA | 93776 |
 
 
@@ -9167,6 +9747,7 @@ U_57_4_3:SKJEMA3E; (U_54_4_3:SKJEMA3C); (U_54_4_3:SKJEMA3B); (U_51_4_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 28 |
+| Not NA | 28 |
 | NA | 93781 |
 
 
@@ -9177,6 +9758,7 @@ U_57_4_4:SKJEMA3E; (U_54_4_4:SKJEMA3C); (U_54_4_4:SKJEMA3B); (U_51_4_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 43 |
+| Not NA | 43 |
 | NA | 93766 |
 
 
@@ -9187,6 +9769,7 @@ U_57_4_5:SKJEMA3E; (U_54_4_5:SKJEMA3C); (U_54_4_5:SKJEMA3B); (U_51_4_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 56 |
+| Not NA | 56 |
 | NA | 93753 |
 
 
@@ -9197,6 +9780,7 @@ U_57_4_6:SKJEMA3E; (U_54_4_6:SKJEMA3C); (U_54_4_6:SKJEMA3B); (U_51_4_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 59 |
+| Not NA | 59 |
 | NA | 93750 |
 
 
@@ -9213,6 +9797,7 @@ U_57_4_7:SKJEMA3E; (U_54_4_7:SKJEMA3C); (U_54_4_7:SKJEMA3B); (U_51_4_7:SKJEMA3A)
 | 3rd Qu. | 19 |
 | Max. | 210 |
 | NA's | 93698 |
+| Not NA | 111 |
 
 
 ### CC768
@@ -9224,6 +9809,7 @@ U_58:SKJEMA3E; (U_55:SKJEMA3C); (U_55:SKJEMA3B); (U_54:SKJEMA3A); ; 58. During t
 | No | 80603 |
 | Yes | 3247 |
 | More than 1 check box filled in | 3 |
+| Not NA | 83853 |
 | NA | 9956 |
 
 
@@ -9240,6 +9826,7 @@ U_59:SKJEMA3E; (U_56:SKJEMA3C); (U_56:SKJEMA3B); (U_55:SKJEMA3A); ; 59. If yes, 
 | 3rd Qu. | 27 |
 | Max. | 39 |
 | NA's | 90665 |
+| Not NA | 3144 |
 
 
 ### CC770
@@ -9251,6 +9838,7 @@ U_60:SKJEMA3E; (U_57:SKJEMA3C); (U_57:SKJEMA3B); ; 60. Have you take vitamins, m
 | Yes | 70509 |
 | No | 14286 |
 | More than 1 check box filled in | 16 |
+| Not NA | 84811 |
 | NA | 8998 |
 
 
@@ -9261,6 +9849,7 @@ U_61_1_1:SKJEMA3E; (U_58_1_1:SKJEMA3C); (U_58_1_1:SKJEMA3B); (U_52_5_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 40889 |
+| Not NA | 40889 |
 | NA | 52920 |
 
 
@@ -9271,6 +9860,7 @@ U_61_1_2:SKJEMA3E; (U_58_1_2:SKJEMA3C); (U_58_1_2:SKJEMA3B); (U_52_5_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 32420 |
+| Not NA | 32420 |
 | NA | 61389 |
 
 
@@ -9281,6 +9871,7 @@ U_61_1_3:SKJEMA3E; (U_58_1_3:SKJEMA3C); (U_58_1_3:SKJEMA3B); (U_52_5_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 28807 |
+| Not NA | 28807 |
 | NA | 65002 |
 
 
@@ -9291,6 +9882,7 @@ U_61_1_4:SKJEMA3E; (U_58_1_4:SKJEMA3C); (U_58_1_4:SKJEMA3B); (U_52_5_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 27073 |
+| Not NA | 27073 |
 | NA | 66736 |
 
 
@@ -9301,6 +9893,7 @@ U_61_1_5:SKJEMA3E; (U_58_1_5:SKJEMA3C); (U_58_1_5:SKJEMA3B); (U_52_5_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25313 |
+| Not NA | 25313 |
 | NA | 68496 |
 
 
@@ -9317,6 +9910,7 @@ U_61_1_6:SKJEMA3E; (U_58_1_6:SKJEMA3C); (U_58_1_6:SKJEMA3B); (U_52_5_1:SKJEMA3A)
 | 4-6 times per week | 28 |
 | Daily + 4-6 times a week | 114 |
 | Daily + 4-6 times a week + 1-3 times a week | 5 |
+| Not NA | 43909 |
 | NA | 49900 |
 
 
@@ -9327,6 +9921,7 @@ U_61_2_1:SKJEMA3E; (U_58_2_1:SKJEMA3C); (U_58_2_1:SKJEMA3B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 21971 |
+| Not NA | 21971 |
 | NA | 71838 |
 
 
@@ -9337,6 +9932,7 @@ U_61_2_2:SKJEMA3E; (U_58_2_2:SKJEMA3C); (U_58_2_2:SKJEMA3B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 22811 |
+| Not NA | 22811 |
 | NA | 70998 |
 
 
@@ -9347,6 +9943,7 @@ U_61_2_3:SKJEMA3E; (U_58_2_3:SKJEMA3C); (U_58_2_3:SKJEMA3B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 23633 |
+| Not NA | 23633 |
 | NA | 70176 |
 
 
@@ -9357,6 +9954,7 @@ U_61_2_4:SKJEMA3E; (U_58_2_4:SKJEMA3C); (U_58_2_4:SKJEMA3B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 24061 |
+| Not NA | 24061 |
 | NA | 69748 |
 
 
@@ -9367,6 +9965,7 @@ U_61_2_5:SKJEMA3E; (U_58_2_5:SKJEMA3C); (U_58_2_5:SKJEMA3B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 23207 |
+| Not NA | 23207 |
 | NA | 70602 |
 
 
@@ -9383,6 +9982,7 @@ U_61_2_6:SKJEMA3E; (U_58_2_6:SKJEMA3C); (U_58_2_6:SKJEMA3B); Approx. how often d
 | Daily + 4-6 times a week | 15 |
 | 4-6 times per week | 8 |
 | Daily + 4-6 times a week + 1-3 times a week | 2 |
+| Not NA | 26750 |
 | NA | 67059 |
 
 
@@ -9393,6 +9993,7 @@ U_61_3_1:SKJEMA3E; (U_58_3_1:SKJEMA3C); (U_58_3_1:SKJEMA3B); (U_52_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 22648 |
+| Not NA | 22648 |
 | NA | 71161 |
 
 
@@ -9403,6 +10004,7 @@ U_61_3_2:SKJEMA3E; (U_58_3_2:SKJEMA3C); (U_58_3_2:SKJEMA3B); (U_52_2_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 23555 |
+| Not NA | 23555 |
 | NA | 70254 |
 
 
@@ -9413,6 +10015,7 @@ U_61_3_3:SKJEMA3E; (U_58_3_3:SKJEMA3C); (U_58_3_3:SKJEMA3B); (U_52_2_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24454 |
+| Not NA | 24454 |
 | NA | 69355 |
 
 
@@ -9423,6 +10026,7 @@ U_61_3_4:SKJEMA3E; (U_58_3_4:SKJEMA3C); (U_58_3_4:SKJEMA3B); (U_52_2_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24910 |
+| Not NA | 24910 |
 | NA | 68899 |
 
 
@@ -9433,6 +10037,7 @@ U_61_3_5:SKJEMA3E; (U_58_3_5:SKJEMA3C); (U_58_3_5:SKJEMA3B); (U_52_2_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24076 |
+| Not NA | 24076 |
 | NA | 69733 |
 
 
@@ -9449,6 +10054,7 @@ U_61_3_6:SKJEMA3E; (U_58_3_6:SKJEMA3C); (U_58_3_6:SKJEMA3B); (U_52_2_1:SKJEMA3A)
 | Daily + 4-6 times a week | 27 |
 | 4-6 times per week | 8 |
 | Daily + 4-6 times a week + 1-3 times a week | 3 |
+| Not NA | 27858 |
 | NA | 65951 |
 
 
@@ -9459,6 +10065,7 @@ U_61_4_1:SKJEMA3E; (U_58_4_1:SKJEMA3C); (U_58_4_1:SKJEMA3B); (U_52_3_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 23252 |
+| Not NA | 23252 |
 | NA | 70557 |
 
 
@@ -9469,6 +10076,7 @@ U_61_4_2:SKJEMA3E; (U_58_4_2:SKJEMA3C); (U_58_4_2:SKJEMA3B); (U_52_3_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24175 |
+| Not NA | 24175 |
 | NA | 69634 |
 
 
@@ -9479,6 +10087,7 @@ U_61_4_3:SKJEMA3E; (U_58_4_3:SKJEMA3C); (U_58_4_3:SKJEMA3B); (U_52_3_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25084 |
+| Not NA | 25084 |
 | NA | 68725 |
 
 
@@ -9489,6 +10098,7 @@ U_61_4_4:SKJEMA3E; (U_58_4_4:SKJEMA3C); (U_58_4_4:SKJEMA3B); (U_52_3_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25637 |
+| Not NA | 25637 |
 | NA | 68172 |
 
 
@@ -9499,6 +10109,7 @@ U_61_4_5:SKJEMA3E; (U_58_4_5:SKJEMA3C); (U_58_4_5:SKJEMA3B); (U_52_3_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24790 |
+| Not NA | 24790 |
 | NA | 69019 |
 
 
@@ -9515,6 +10126,7 @@ U_61_4_6:SKJEMA3E; (U_58_4_6:SKJEMA3C); (U_58_4_6:SKJEMA3B); (U_52_3_1:SKJEMA3A)
 | Daily + 4-6 times a week | 26 |
 | 4-6 times per week | 9 |
 | Daily + 4-6 times a week + 1-3 times a week | 3 |
+| Not NA | 27843 |
 | NA | 65966 |
 
 
@@ -9525,6 +10137,7 @@ U_61_5_1:SKJEMA3E; (U_58_5_1:SKJEMA3C); (U_58_5_1:SKJEMA3B); (U_52_4_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 21584 |
+| Not NA | 21584 |
 | NA | 72225 |
 
 
@@ -9535,6 +10148,7 @@ U_61_5_2:SKJEMA3E; (U_58_5_2:SKJEMA3C); (U_58_5_2:SKJEMA3B); (U_52_4_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 22384 |
+| Not NA | 22384 |
 | NA | 71425 |
 
 
@@ -9545,6 +10159,7 @@ U_61_5_3:SKJEMA3E; (U_58_5_3:SKJEMA3C); (U_58_5_3:SKJEMA3B); (U_52_4_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 23205 |
+| Not NA | 23205 |
 | NA | 70604 |
 
 
@@ -9555,6 +10170,7 @@ U_61_5_4:SKJEMA3E; (U_58_5_4:SKJEMA3C); (U_58_5_4:SKJEMA3B); (U_52_4_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 23731 |
+| Not NA | 23731 |
 | NA | 70078 |
 
 
@@ -9565,6 +10181,7 @@ U_61_5_5:SKJEMA3E; (U_58_5_5:SKJEMA3C); (U_58_5_5:SKJEMA3B); (U_52_4_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 22897 |
+| Not NA | 22897 |
 | NA | 70912 |
 
 
@@ -9581,6 +10198,7 @@ U_61_5_6:SKJEMA3E; (U_58_5_6:SKJEMA3C); (U_58_5_6:SKJEMA3B); (U_52_4_1:SKJEMA3A)
 | Daily + 4-6 times a week | 25 |
 | 4-6 times per week | 8 |
 | Daily + 4-6 times a week + 1-3 times a week | 3 |
+| Not NA | 26450 |
 | NA | 67359 |
 
 
@@ -9591,6 +10209,7 @@ U_61_6_1:SKJEMA3E; (U_58_6_1:SKJEMA3C); (U_58_6_1:SKJEMA3B); Niacin in week 13-1
 | Category | n |
 | -------- | - |
 | 1 | 12621 |
+| Not NA | 12621 |
 | NA | 81188 |
 
 
@@ -9601,6 +10220,7 @@ U_61_6_2:SKJEMA3E; (U_58_6_2:SKJEMA3C); (U_58_6_2:SKJEMA3B); Niacin in week 17-2
 | Category | n |
 | -------- | - |
 | 1 | 12961 |
+| Not NA | 12961 |
 | NA | 80848 |
 
 
@@ -9611,6 +10231,7 @@ U_61_6_3:SKJEMA3E; (U_58_6_3:SKJEMA3C); (U_58_6_3:SKJEMA3B); Niacin in week 21-2
 | Category | n |
 | -------- | - |
 | 1 | 13292 |
+| Not NA | 13292 |
 | NA | 80517 |
 
 
@@ -9621,6 +10242,7 @@ U_61_6_4:SKJEMA3E; (U_58_6_4:SKJEMA3C); (U_58_6_4:SKJEMA3B); Niacin in week 25-2
 | Category | n |
 | -------- | - |
 | 1 | 13468 |
+| Not NA | 13468 |
 | NA | 80341 |
 
 
@@ -9631,6 +10253,7 @@ U_61_6_5:SKJEMA3E; (U_58_6_5:SKJEMA3C); (U_58_6_5:SKJEMA3B); Niacin in week 29+ 
 | Category | n |
 | -------- | - |
 | 1 | 13008 |
+| Not NA | 13008 |
 | NA | 80801 |
 
 
@@ -9647,6 +10270,7 @@ U_61_6_6:SKJEMA3E; (U_58_6_6:SKJEMA3C); (U_58_6_6:SKJEMA3B); Approx. how often d
 | Daily + 1-3 times a week | 3 |
 | 4-6 times per week | 6 |
 | Daily + 4-6 times a week + 1-3 times a week | 2 |
+| Not NA | 15163 |
 | NA | 78646 |
 
 
@@ -9657,6 +10281,7 @@ U_61_7_1:SKJEMA3E; (U_58_7_1:SKJEMA3C); (U_58_7_1:SKJEMA3B); Pantothenic acid in
 | Category | n |
 | -------- | - |
 | 1 | 17704 |
+| Not NA | 17704 |
 | NA | 76105 |
 
 
@@ -9667,6 +10292,7 @@ U_61_7_2:SKJEMA3E; (U_58_7_2:SKJEMA3C); (U_58_7_2:SKJEMA3B); Pantothenic acid in
 | Category | n |
 | -------- | - |
 | 1 | 18327 |
+| Not NA | 18327 |
 | NA | 75482 |
 
 
@@ -9677,6 +10303,7 @@ U_61_7_3:SKJEMA3E; (U_58_7_3:SKJEMA3C); (U_58_7_3:SKJEMA3B); Pantothenic acid in
 | Category | n |
 | -------- | - |
 | 1 | 18982 |
+| Not NA | 18982 |
 | NA | 74827 |
 
 
@@ -9687,6 +10314,7 @@ U_61_7_4:SKJEMA3E; (U_58_7_4:SKJEMA3C); (U_58_7_4:SKJEMA3B); Pantothenic acid in
 | Category | n |
 | -------- | - |
 | 1 | 19297 |
+| Not NA | 19297 |
 | NA | 74512 |
 
 
@@ -9697,6 +10325,7 @@ U_61_7_5:SKJEMA3E; (U_58_7_5:SKJEMA3C); (U_58_7_5:SKJEMA3B); Pantothenic acid in
 | Category | n |
 | -------- | - |
 | 1 | 18713 |
+| Not NA | 18713 |
 | NA | 75096 |
 
 
@@ -9713,6 +10342,7 @@ U_61_7_6:SKJEMA3E; (U_58_7_6:SKJEMA3C); (U_58_7_6:SKJEMA3B); Approx. how often d
 | Daily + 1-3 times a week | 5 |
 | 4-6 times per week | 5 |
 | Daily + 4-6 times a week + 1-3 times a week | 2 |
+| Not NA | 21137 |
 | NA | 72672 |
 
 
@@ -9723,6 +10353,7 @@ U_61_8_1:SKJEMA3E; (U_58_8_1:SKJEMA3C); (U_58_8_1:SKJEMA3B); Biotin in week 13-1
 | Category | n |
 | -------- | - |
 | 1 | 7911 |
+| Not NA | 7911 |
 | NA | 85898 |
 
 
@@ -9733,6 +10364,7 @@ U_61_8_2:SKJEMA3E; (U_58_8_2:SKJEMA3C); (U_58_8_2:SKJEMA3B); Biotin in week 17-2
 | Category | n |
 | -------- | - |
 | 1 | 8144 |
+| Not NA | 8144 |
 | NA | 85665 |
 
 
@@ -9743,6 +10375,7 @@ U_61_8_3:SKJEMA3E; (U_58_8_3:SKJEMA3C); (U_58_8_3:SKJEMA3B); Biotin in week 21-2
 | Category | n |
 | -------- | - |
 | 1 | 8350 |
+| Not NA | 8350 |
 | NA | 85459 |
 
 
@@ -9753,6 +10386,7 @@ U_61_8_4:SKJEMA3E; (U_58_8_4:SKJEMA3C); (U_58_8_4:SKJEMA3B); Biotin in week 25-2
 | Category | n |
 | -------- | - |
 | 1 | 8492 |
+| Not NA | 8492 |
 | NA | 85317 |
 
 
@@ -9763,6 +10397,7 @@ U_61_8_5:SKJEMA3E; (U_58_8_5:SKJEMA3C); (U_58_8_5:SKJEMA3B); Biotin in week 29+ 
 | Category | n |
 | -------- | - |
 | 1 | 8219 |
+| Not NA | 8219 |
 | NA | 85590 |
 
 
@@ -9779,6 +10414,7 @@ U_61_8_6:SKJEMA3E; (U_58_8_6:SKJEMA3C); (U_58_8_6:SKJEMA3B); Approx. how often d
 | 4-6 times per week | 2 |
 | Daily + 1-3 times a week | 2 |
 | Daily + 4-6 times a week + 1-3 times a week | 1 |
+| Not NA | 9890 |
 | NA | 83919 |
 
 
@@ -9789,6 +10425,7 @@ U_61_9_1:SKJEMA3E; (U_58_9_1:SKJEMA3C); (U_58_9_1:SKJEMA3B); (U_52_6_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25705 |
+| Not NA | 25705 |
 | NA | 68104 |
 
 
@@ -9799,6 +10436,7 @@ U_61_9_2:SKJEMA3E; (U_58_9_2:SKJEMA3C); (U_58_9_2:SKJEMA3B); (U_52_6_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 26828 |
+| Not NA | 26828 |
 | NA | 66981 |
 
 
@@ -9809,6 +10447,7 @@ U_61_9_3:SKJEMA3E; (U_58_9_3:SKJEMA3C); (U_58_9_3:SKJEMA3B); (U_52_6_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 28186 |
+| Not NA | 28186 |
 | NA | 65623 |
 
 
@@ -9819,6 +10458,7 @@ U_61_9_4:SKJEMA3E; (U_58_9_4:SKJEMA3C); (U_58_9_4:SKJEMA3B); (U_52_6_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 29032 |
+| Not NA | 29032 |
 | NA | 64777 |
 
 
@@ -9829,6 +10469,7 @@ U_61_9_5:SKJEMA3E; (U_58_9_5:SKJEMA3C); (U_58_9_5:SKJEMA3B); (U_52_6_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 27952 |
+| Not NA | 27952 |
 | NA | 65857 |
 
 
@@ -9845,6 +10486,7 @@ U_61_9_6:SKJEMA3E; (U_58_9_6:SKJEMA3C); (U_58_9_6:SKJEMA3B); (U_52_6_1:SKJEMA3A)
 | Daily + 1-3 times a week | 27 |
 | 4-6 times per week | 21 |
 | Daily + 4-6 times a week + 1-3 times a week | 6 |
+| Not NA | 32781 |
 | NA | 61028 |
 
 
@@ -9855,6 +10497,7 @@ U_6110_1:SKJEMA3E; (U_5810_1:SKJEMA3C); (U_5810_1:SKJEMA3B); (U_52_7_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 23262 |
+| Not NA | 23262 |
 | NA | 70547 |
 
 
@@ -9865,6 +10508,7 @@ U_6110_2:SKJEMA3E; (U_5810_2:SKJEMA3C); (U_5810_2:SKJEMA3B); (U_52_7_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24237 |
+| Not NA | 24237 |
 | NA | 69572 |
 
 
@@ -9875,6 +10519,7 @@ U_6110_3:SKJEMA3E; (U_5810_3:SKJEMA3C); (U_5810_3:SKJEMA3B); (U_52_7_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25131 |
+| Not NA | 25131 |
 | NA | 68678 |
 
 
@@ -9885,6 +10530,7 @@ U_6110_4:SKJEMA3E; (U_5810_4:SKJEMA3C); (U_5810_4:SKJEMA3B); (U_52_7_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25435 |
+| Not NA | 25435 |
 | NA | 68374 |
 
 
@@ -9895,6 +10541,7 @@ U_6110_5:SKJEMA3E; (U_5810_5:SKJEMA3C); (U_5810_5:SKJEMA3B); (U_52_7_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24466 |
+| Not NA | 24466 |
 | NA | 69343 |
 
 
@@ -9911,6 +10558,7 @@ U_6110_6:SKJEMA3E; (U_5810_6:SKJEMA3C); (U_5810_6:SKJEMA3B); (U_52_7_1:SKJEMA3A)
 | Daily + 1-3 times a week | 9 |
 | Daily + 4-6 times a week + 1-3 times a week | 6 |
 | 4-6 times per week | 9 |
+| Not NA | 28025 |
 | NA | 65784 |
 
 
@@ -9921,6 +10569,7 @@ U_6111_1:SKJEMA3E; (U_5811_1:SKJEMA3C); (U_5811_1:SKJEMA3B); (U_52_8_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25575 |
+| Not NA | 25575 |
 | NA | 68234 |
 
 
@@ -9931,6 +10580,7 @@ U_6111_2:SKJEMA3E; (U_5811_2:SKJEMA3C); (U_5811_2:SKJEMA3B); (U_52_8_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 26700 |
+| Not NA | 26700 |
 | NA | 67109 |
 
 
@@ -9941,6 +10591,7 @@ U_6111_3:SKJEMA3E; (U_5811_3:SKJEMA3C); (U_5811_3:SKJEMA3B); (U_52_8_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 27761 |
+| Not NA | 27761 |
 | NA | 66048 |
 
 
@@ -9951,6 +10602,7 @@ U_6111_4:SKJEMA3E; (U_5811_4:SKJEMA3C); (U_5811_4:SKJEMA3B); (U_52_8_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 28247 |
+| Not NA | 28247 |
 | NA | 65562 |
 
 
@@ -9961,6 +10613,7 @@ U_6111_5:SKJEMA3E; (U_5811_5:SKJEMA3C); (U_5811_5:SKJEMA3B); (U_52_8_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 27198 |
+| Not NA | 27198 |
 | NA | 66611 |
 
 
@@ -9977,6 +10630,7 @@ U_6111_6:SKJEMA3E; (U_5811_6:SKJEMA3C); (U_5811_6:SKJEMA3B); (U_52_8_1:SKJEMA3A)
 | Daily + 1-3 times a week | 8 |
 | 4-6 times per week | 10 |
 | Daily + 4-6 times a week + 1-3 times a week | 6 |
+| Not NA | 30889 |
 | NA | 62920 |
 
 
@@ -9987,6 +10641,7 @@ U_6112_1:SKJEMA3E; (U_5812_1:SKJEMA3C); (U_5812_1:SKJEMA3B); (U_52_9_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 26499 |
+| Not NA | 26499 |
 | NA | 67310 |
 
 
@@ -9997,6 +10652,7 @@ U_6112_2:SKJEMA3E; (U_5812_2:SKJEMA3C); (U_5812_2:SKJEMA3B); (U_52_9_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 27687 |
+| Not NA | 27687 |
 | NA | 66122 |
 
 
@@ -10007,6 +10663,7 @@ U_6112_3:SKJEMA3E; (U_5812_3:SKJEMA3C); (U_5812_3:SKJEMA3B); (U_52_9_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 28845 |
+| Not NA | 28845 |
 | NA | 64964 |
 
 
@@ -10017,6 +10674,7 @@ U_6112_4:SKJEMA3E; (U_5812_4:SKJEMA3C); (U_5812_4:SKJEMA3B); (U_52_9_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 29356 |
+| Not NA | 29356 |
 | NA | 64453 |
 
 
@@ -10027,6 +10685,7 @@ U_6112_5:SKJEMA3E; (U_5812_5:SKJEMA3C); (U_5812_5:SKJEMA3B); (U_52_9_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 28266 |
+| Not NA | 28266 |
 | NA | 65543 |
 
 
@@ -10043,6 +10702,7 @@ U_6112_6:SKJEMA3E; (U_5812_6:SKJEMA3C); (U_5812_6:SKJEMA3B); (U_52_9_1:SKJEMA3A)
 | Daily + 1-3 times a week | 11 |
 | 4-6 times per week | 11 |
 | Daily + 4-6 times a week + 1-3 times a week | 6 |
+| Not NA | 31878 |
 | NA | 61931 |
 
 
@@ -10053,6 +10713,7 @@ U_6113_1:SKJEMA3E; (U_5813_1:SKJEMA3C); (U_5813_1:SKJEMA3B); (U_5210_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24172 |
+| Not NA | 24172 |
 | NA | 69637 |
 
 
@@ -10063,6 +10724,7 @@ U_6113_2:SKJEMA3E; (U_5813_2:SKJEMA3C); (U_5813_2:SKJEMA3B); (U_5210_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 27333 |
+| Not NA | 27333 |
 | NA | 66476 |
 
 
@@ -10073,6 +10735,7 @@ U_6113_3:SKJEMA3E; (U_5813_3:SKJEMA3C); (U_5813_3:SKJEMA3B); (U_5210_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 33551 |
+| Not NA | 33551 |
 | NA | 60258 |
 
 
@@ -10083,6 +10746,7 @@ U_6113_4:SKJEMA3E; (U_5813_4:SKJEMA3C); (U_5813_4:SKJEMA3B); (U_5210_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 37291 |
+| Not NA | 37291 |
 | NA | 56518 |
 
 
@@ -10093,6 +10757,7 @@ U_6113_5:SKJEMA3E; (U_5813_5:SKJEMA3C); (U_5813_5:SKJEMA3B); (U_5210_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 36840 |
+| Not NA | 36840 |
 | NA | 56969 |
 
 
@@ -10109,6 +10774,7 @@ U_6113_6:SKJEMA3E; (U_5813_6:SKJEMA3C); (U_5813_6:SKJEMA3B); (U_5210_1:SKJEMA3A)
 | 4-6 times per week | 35 |
 | Daily + 4-6 times a week + 1-3 times a week | 8 |
 | Daily + 1-3 times a week | 55 |
+| Not NA | 44123 |
 | NA | 49686 |
 
 
@@ -10119,6 +10785,7 @@ U_6114_1:SKJEMA3E; (U_5814_1:SKJEMA3C); (U_5814_1:SKJEMA3B); (U_5212_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 10505 |
+| Not NA | 10505 |
 | NA | 83304 |
 
 
@@ -10129,6 +10796,7 @@ U_6114_2:SKJEMA3E; (U_5814_2:SKJEMA3C); (U_5814_2:SKJEMA3B); (U_5212_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 11125 |
+| Not NA | 11125 |
 | NA | 82684 |
 
 
@@ -10139,6 +10807,7 @@ U_6114_3:SKJEMA3E; (U_5814_3:SKJEMA3C); (U_5814_3:SKJEMA3B); (U_5212_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 11746 |
+| Not NA | 11746 |
 | NA | 82063 |
 
 
@@ -10149,6 +10818,7 @@ U_6114_4:SKJEMA3E; (U_5814_4:SKJEMA3C); (U_5814_4:SKJEMA3B); (U_5212_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 12229 |
+| Not NA | 12229 |
 | NA | 81580 |
 
 
@@ -10159,6 +10829,7 @@ U_6114_5:SKJEMA3E; (U_5814_5:SKJEMA3C); (U_5814_5:SKJEMA3B); (U_5212_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 11777 |
+| Not NA | 11777 |
 | NA | 82032 |
 
 
@@ -10174,6 +10845,7 @@ U_6114_6:SKJEMA3E; (U_5814_6:SKJEMA3C); (U_5814_6:SKJEMA3B); (U_5212_1:SKJEMA3A)
 | Daily + 4-6 times a week | 21 |
 | Daily + 1-3 times a week | 7 |
 | 4-6 times per week | 6 |
+| Not NA | 14410 |
 | NA | 79399 |
 
 
@@ -10184,6 +10856,7 @@ U_6115_1:SKJEMA3E; (U_5815_1:SKJEMA3C); (U_5815_1:SKJEMA3B); Iodine in week 13-1
 | Category | n |
 | -------- | - |
 | 1 | 14880 |
+| Not NA | 14880 |
 | NA | 78929 |
 
 
@@ -10194,6 +10867,7 @@ U_6115_2:SKJEMA3E; (U_5815_2:SKJEMA3C); (U_5815_2:SKJEMA3B); Iodine in week 17-2
 | Category | n |
 | -------- | - |
 | 1 | 15371 |
+| Not NA | 15371 |
 | NA | 78438 |
 
 
@@ -10204,6 +10878,7 @@ U_6115_3:SKJEMA3E; (U_5815_3:SKJEMA3C); (U_5815_3:SKJEMA3B); Iodine in week 21-2
 | Category | n |
 | -------- | - |
 | 1 | 15841 |
+| Not NA | 15841 |
 | NA | 77968 |
 
 
@@ -10214,6 +10889,7 @@ U_6115_4:SKJEMA3E; (U_5815_4:SKJEMA3C); (U_5815_4:SKJEMA3B); Iodine in week 25-2
 | Category | n |
 | -------- | - |
 | 1 | 15991 |
+| Not NA | 15991 |
 | NA | 77818 |
 
 
@@ -10224,6 +10900,7 @@ U_6115_5:SKJEMA3E; (U_5815_5:SKJEMA3C); (U_5815_5:SKJEMA3B); Iodine in week 29+ 
 | Category | n |
 | -------- | - |
 | 1 | 15463 |
+| Not NA | 15463 |
 | NA | 78346 |
 
 
@@ -10240,6 +10917,7 @@ U_6115_6:SKJEMA3E; (U_5815_6:SKJEMA3C); (U_5815_6:SKJEMA3B); Approx. how often d
 | 4-6 times per week | 5 |
 | Daily + 1-3 times a week | 4 |
 | Daily + 4-6 times a week + 1-3 times a week | 5 |
+| Not NA | 17794 |
 | NA | 76015 |
 
 
@@ -10250,6 +10928,7 @@ U_6116_1:SKJEMA3E; (U_5816_1:SKJEMA3C); (U_5816_1:SKJEMA3B); Zinc in week 13-16 
 | Category | n |
 | -------- | - |
 | 1 | 18380 |
+| Not NA | 18380 |
 | NA | 75429 |
 
 
@@ -10260,6 +10939,7 @@ U_6116_2:SKJEMA3E; (U_5816_2:SKJEMA3C); (U_5816_2:SKJEMA3B); Zinc in week 17-20 
 | Category | n |
 | -------- | - |
 | 1 | 18941 |
+| Not NA | 18941 |
 | NA | 74868 |
 
 
@@ -10270,6 +10950,7 @@ U_6116_3:SKJEMA3E; (U_5816_3:SKJEMA3C); (U_5816_3:SKJEMA3B); Zinc in week 21-24 
 | Category | n |
 | -------- | - |
 | 1 | 19540 |
+| Not NA | 19540 |
 | NA | 74269 |
 
 
@@ -10280,6 +10961,7 @@ U_6116_4:SKJEMA3E; (U_5816_4:SKJEMA3C); (U_5816_4:SKJEMA3B); Zinc in week 25-28 
 | Category | n |
 | -------- | - |
 | 1 | 19778 |
+| Not NA | 19778 |
 | NA | 74031 |
 
 
@@ -10290,6 +10972,7 @@ U_6116_5:SKJEMA3E; (U_5816_5:SKJEMA3C); (U_5816_5:SKJEMA3B); Zinc in week 29+ of
 | Category | n |
 | -------- | - |
 | 1 | 19121 |
+| Not NA | 19121 |
 | NA | 74688 |
 
 
@@ -10306,6 +10989,7 @@ U_6116_6:SKJEMA3E; (U_5816_6:SKJEMA3C); (U_5816_6:SKJEMA3B); Approx. how often d
 | Daily + 4-6 times a week + 1-3 times a week | 6 |
 | 4-6 times per week | 7 |
 | Daily + 1-3 times a week | 5 |
+| Not NA | 21982 |
 | NA | 71827 |
 
 
@@ -10316,6 +11000,7 @@ U_6117_1:SKJEMA3E; (U_5817_1:SKJEMA3C); (U_5817_1:SKJEMA3B); (U_5211_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 18135 |
+| Not NA | 18135 |
 | NA | 75674 |
 
 
@@ -10326,6 +11011,7 @@ U_6117_2:SKJEMA3E; (U_5817_2:SKJEMA3C); (U_5817_2:SKJEMA3B); (U_5211_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 18727 |
+| Not NA | 18727 |
 | NA | 75082 |
 
 
@@ -10336,6 +11022,7 @@ U_6117_3:SKJEMA3E; (U_5817_3:SKJEMA3C); (U_5817_3:SKJEMA3B); (U_5211_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 19330 |
+| Not NA | 19330 |
 | NA | 74479 |
 
 
@@ -10346,6 +11033,7 @@ U_6117_4:SKJEMA3E; (U_5817_4:SKJEMA3C); (U_5817_4:SKJEMA3B); (U_5211_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 19542 |
+| Not NA | 19542 |
 | NA | 74267 |
 
 
@@ -10356,6 +11044,7 @@ U_6117_5:SKJEMA3E; (U_5817_5:SKJEMA3C); (U_5817_5:SKJEMA3B); (U_5211_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 18903 |
+| Not NA | 18903 |
 | NA | 74906 |
 
 
@@ -10372,6 +11061,7 @@ U_6117_6:SKJEMA3E; (U_5817_6:SKJEMA3C); (U_5817_6:SKJEMA3B); (U_5211_1:SKJEMA3A)
 | 4-6 times per week | 4 |
 | Daily + 1-3 times a week | 3 |
 | Daily + 4-6 times a week + 1-3 times a week | 5 |
+| Not NA | 21735 |
 | NA | 72074 |
 
 
@@ -10382,6 +11072,7 @@ U_6118_1:SKJEMA3E; (U_5818_1:SKJEMA3C); (U_5818_1:SKJEMA3B); Copper in week 13-1
 | Category | n |
 | -------- | - |
 | 1 | 15962 |
+| Not NA | 15962 |
 | NA | 77847 |
 
 
@@ -10392,6 +11083,7 @@ U_6118_2:SKJEMA3E; (U_5818_2:SKJEMA3C); (U_5818_2:SKJEMA3B); Copper in week 17-2
 | Category | n |
 | -------- | - |
 | 1 | 16487 |
+| Not NA | 16487 |
 | NA | 77322 |
 
 
@@ -10402,6 +11094,7 @@ U_6118_3:SKJEMA3E; (U_5818_3:SKJEMA3C); (U_5818_3:SKJEMA3B); Copper in week 21-2
 | Category | n |
 | -------- | - |
 | 1 | 17008 |
+| Not NA | 17008 |
 | NA | 76801 |
 
 
@@ -10412,6 +11105,7 @@ U_6118_4:SKJEMA3E; (U_5818_4:SKJEMA3C); (U_5818_4:SKJEMA3B); Copper in week 25-2
 | Category | n |
 | -------- | - |
 | 1 | 17193 |
+| Not NA | 17193 |
 | NA | 76616 |
 
 
@@ -10422,6 +11116,7 @@ U_6118_5:SKJEMA3E; (U_5818_5:SKJEMA3C); (U_5818_5:SKJEMA3B); Copper in week 29+ 
 | Category | n |
 | -------- | - |
 | 1 | 16640 |
+| Not NA | 16640 |
 | NA | 77169 |
 
 
@@ -10438,6 +11133,7 @@ U_6118_6:SKJEMA3E; (U_5818_6:SKJEMA3C); (U_5818_6:SKJEMA3B); Approx. how often d
 | Daily + 4-6 times a week + 1-3 times a week | 3 |
 | 4-6 times per week | 4 |
 | Daily + 1-3 times a week | 3 |
+| Not NA | 19023 |
 | NA | 74786 |
 
 
@@ -10448,6 +11144,7 @@ U_6119_1:SKJEMA3E; (U_5819_1:SKJEMA3C); (U_5819_1:SKJEMA3B); Chromium in week 13
 | Category | n |
 | -------- | - |
 | 1 | 16794 |
+| Not NA | 16794 |
 | NA | 77015 |
 
 
@@ -10458,6 +11155,7 @@ U_6119_2:SKJEMA3E; (U_5819_2:SKJEMA3C); (U_5819_2:SKJEMA3B); Chromium in week 17
 | Category | n |
 | -------- | - |
 | 1 | 17314 |
+| Not NA | 17314 |
 | NA | 76495 |
 
 
@@ -10468,6 +11166,7 @@ U_6119_3:SKJEMA3E; (U_5819_3:SKJEMA3C); (U_5819_3:SKJEMA3B); Chromium in week 21
 | Category | n |
 | -------- | - |
 | 1 | 17864 |
+| Not NA | 17864 |
 | NA | 75945 |
 
 
@@ -10478,6 +11177,7 @@ U_6119_4:SKJEMA3E; (U_5819_4:SKJEMA3C); (U_5819_4:SKJEMA3B); Chromium in week 25
 | Category | n |
 | -------- | - |
 | 1 | 18102 |
+| Not NA | 18102 |
 | NA | 75707 |
 
 
@@ -10488,6 +11188,7 @@ U_6119_5:SKJEMA3E; (U_5819_5:SKJEMA3C); (U_5819_5:SKJEMA3B); Chromium in week 29
 | Category | n |
 | -------- | - |
 | 1 | 17521 |
+| Not NA | 17521 |
 | NA | 76288 |
 
 
@@ -10504,6 +11205,7 @@ U_6119_6:SKJEMA3E; (U_5819_6:SKJEMA3C); (U_5819_6:SKJEMA3B); Approx. how often d
 | Daily + 1-3 times a week | 5 |
 | Daily + 4-6 times a week | 8 |
 | Daily + 4-6 times a week + 1-3 times a week | 2 |
+| Not NA | 20018 |
 | NA | 73791 |
 
 
@@ -10514,6 +11216,7 @@ U_6120_1:SKJEMA3E; (U_5820_1:SKJEMA3C); (U_5820_1:SKJEMA3B); Magnesium in week 1
 | Category | n |
 | -------- | - |
 | 1 | 15259 |
+| Not NA | 15259 |
 | NA | 78550 |
 
 
@@ -10524,6 +11227,7 @@ U_6120_2:SKJEMA3E; (U_5820_2:SKJEMA3C); (U_5820_2:SKJEMA3B); Magnesium in week 1
 | Category | n |
 | -------- | - |
 | 1 | 15789 |
+| Not NA | 15789 |
 | NA | 78020 |
 
 
@@ -10534,6 +11238,7 @@ U_6120_3:SKJEMA3E; (U_5820_3:SKJEMA3C); (U_5820_3:SKJEMA3B); Magnesium in week 2
 | Category | n |
 | -------- | - |
 | 1 | 16550 |
+| Not NA | 16550 |
 | NA | 77259 |
 
 
@@ -10544,6 +11249,7 @@ U_6120_4:SKJEMA3E; (U_5820_4:SKJEMA3C); (U_5820_4:SKJEMA3B); Magnesium in week 2
 | Category | n |
 | -------- | - |
 | 1 | 17248 |
+| Not NA | 17248 |
 | NA | 76561 |
 
 
@@ -10554,6 +11260,7 @@ U_6120_5:SKJEMA3E; (U_5820_5:SKJEMA3C); (U_5820_5:SKJEMA3B); Magnesium in week 2
 | Category | n |
 | -------- | - |
 | 1 | 16860 |
+| Not NA | 16860 |
 | NA | 76949 |
 
 
@@ -10570,6 +11277,7 @@ U_6120_6:SKJEMA3E; (U_5820_6:SKJEMA3C); (U_5820_6:SKJEMA3B); Approx. how often d
 | Daily + 1-3 times a week | 15 |
 | Daily + 4-6 times a week | 12 |
 | Daily + 4-6 times a week + 1-3 times a week | 5 |
+| Not NA | 19452 |
 | NA | 74357 |
 
 
@@ -10580,6 +11288,7 @@ U_6121_1:SKJEMA3E; (U_5821_1:SKJEMA3C); (U_5821_1:SKJEMA3B); (U_52_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 23266 |
+| Not NA | 23266 |
 | NA | 70543 |
 
 
@@ -10590,6 +11299,7 @@ U_6121_2:SKJEMA3E; (U_5821_2:SKJEMA3C); (U_5821_2:SKJEMA3B); (U_52_1_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24567 |
+| Not NA | 24567 |
 | NA | 69242 |
 
 
@@ -10600,6 +11310,7 @@ U_6121_3:SKJEMA3E; (U_5821_3:SKJEMA3C); (U_5821_3:SKJEMA3B); (U_52_1_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25455 |
+| Not NA | 25455 |
 | NA | 68354 |
 
 
@@ -10610,6 +11321,7 @@ U_6121_4:SKJEMA3E; (U_5821_4:SKJEMA3C); (U_5821_4:SKJEMA3B); (U_52_1_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 25679 |
+| Not NA | 25679 |
 | NA | 68130 |
 
 
@@ -10620,6 +11332,7 @@ U_6121_5:SKJEMA3E; (U_5821_5:SKJEMA3C); (U_5821_5:SKJEMA3B); (U_52_1_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 24414 |
+| Not NA | 24414 |
 | NA | 69395 |
 
 
@@ -10637,6 +11350,7 @@ U_6121_6:SKJEMA3E; (U_5821_6:SKJEMA3C); (U_5821_6:SKJEMA3B); (U_52_1_1:SKJEMA3A)
 | Daily + 4-6 times a week | 46 |
 | Daily + 1-3 times a week | 22 |
 | 0 | 2 |
+| Not NA | 29070 |
 | NA | 64739 |
 
 
@@ -10647,6 +11361,7 @@ U_6122_1:SKJEMA3E; (U_5822_1:SKJEMA3C); (U_5822_1:SKJEMA3B); Omega-3 fatty acid 
 | Category | n |
 | -------- | - |
 | 1 | 30608 |
+| Not NA | 30608 |
 | NA | 63201 |
 
 
@@ -10657,6 +11372,7 @@ U_6122_2:SKJEMA3E; (U_5822_2:SKJEMA3C); (U_5822_2:SKJEMA3B); Omega-3 fatty acid 
 | Category | n |
 | -------- | - |
 | 1 | 32296 |
+| Not NA | 32296 |
 | NA | 61513 |
 
 
@@ -10667,6 +11383,7 @@ U_6122_3:SKJEMA3E; (U_5822_3:SKJEMA3C); (U_5822_3:SKJEMA3B); Omega-3 fatty acid 
 | Category | n |
 | -------- | - |
 | 1 | 33685 |
+| Not NA | 33685 |
 | NA | 60124 |
 
 
@@ -10677,6 +11394,7 @@ U_6122_4:SKJEMA3E; (U_5822_4:SKJEMA3C); (U_5822_4:SKJEMA3B); Omega-3 fatty acid 
 | Category | n |
 | -------- | - |
 | 1 | 34200 |
+| Not NA | 34200 |
 | NA | 59609 |
 
 
@@ -10687,6 +11405,7 @@ U_6122_5:SKJEMA3E; (U_5822_5:SKJEMA3C); (U_5822_5:SKJEMA3B); Omega-3 fatty acid 
 | Category | n |
 | -------- | - |
 | 1 | 32525 |
+| Not NA | 32525 |
 | NA | 61284 |
 
 
@@ -10703,6 +11422,7 @@ U_6122_6:SKJEMA3E; (U_5822_6:SKJEMA3C); (U_5822_6:SKJEMA3B); Approx. how often d
 | Daily + 4-6 times a week | 49 |
 | Daily + 4-6 times a week + 1-3 times a week | 11 |
 | Daily + 1-3 times a week | 12 |
+| Not NA | 37642 |
 | NA | 56167 |
 
 
@@ -10716,6 +11436,7 @@ U_63:SKJEMA3E; (U_60:SKJEMA3C); (U_60:SKJEMA3B); ; 63. If you take multivitamins
 | No | 9320 |
 | Do not know | 2422 |
 | More than 1 check box filled in | 18 |
+| Not NA | 37969 |
 | NA | 55840 |
 
 
@@ -10729,6 +11450,7 @@ U_5213_1:SKJEMA3A; Approximately how often do you take Fluoride tablets?; 52. Fi
 | Every day | 78 |
 | 4-6 times a week | 19 |
 | 4 | 3 |
+| Not NA | 148 |
 | NA | 93661 |
 
 
@@ -10739,6 +11461,7 @@ U_5213_2:SKJEMA3A; Taken Fluoride tablets week 13-16; 52. Fill in the table belo
 | Category | n |
 | -------- | - |
 | 1 | 104 |
+| Not NA | 104 |
 | NA | 93705 |
 
 
@@ -10749,6 +11472,7 @@ U_5213_3:SKJEMA3A; Taken Fluoride tablets week 17-20; 52. Fill in the table belo
 | Category | n |
 | -------- | - |
 | 1 | 109 |
+| Not NA | 109 |
 | NA | 93700 |
 
 
@@ -10759,6 +11483,7 @@ U_5213_4:SKJEMA3A; Taken Fluoride tablets week 21-24; 52. Fill in the table belo
 | Category | n |
 | -------- | - |
 | 1 | 113 |
+| Not NA | 113 |
 | NA | 93696 |
 
 
@@ -10769,6 +11494,7 @@ U_5213_5:SKJEMA3A; Taken Fluoride tablets week 25-28; 52. Fill in the table belo
 | Category | n |
 | -------- | - |
 | 1 | 121 |
+| Not NA | 121 |
 | NA | 93688 |
 
 
@@ -10779,6 +11505,7 @@ U_5213_6:SKJEMA3A; Taken Fluoride tablets week 29+; 52. Fill in the table below 
 | Category | n |
 | -------- | - |
 | 1 | 123 |
+| Not NA | 123 |
 | NA | 93686 |
 
 
@@ -10791,6 +11518,7 @@ U_64:SKJEMA3E; (U_61:SKJEMA3C); (U_61:SKJEMA3B); (U_56:SKJEMA3A); ; 64. Have you
 | No | 9206 |
 | Yes | 83867 |
 | More than 1 check box filled in | 30 |
+| Not NA | 93103 |
 | NA | 706 |
 
 
@@ -10803,6 +11531,7 @@ U_65:SKJEMA3E; (U_62:SKJEMA3C); (U_62:SKJEMA3B); (U_60:SKJEMA3A); ; 65. Do you h
 | Yes | 54805 |
 | No | 30806 |
 | More than 1 check box filled in | 66 |
+| Not NA | 85677 |
 | NA | 8132 |
 
 
@@ -10819,6 +11548,7 @@ U_66:SKJEMA3E; (U_63:SKJEMA3C); (U_63:SKJEMA3B); ; 66. If no, in which week of p
 | 3rd Qu. | 27 |
 | Max. | 51 |
 | NA's | 64413 |
+| Not NA | 29396 |
 
 
 ### CC912
@@ -10835,6 +11565,7 @@ U_67:SKJEMA3E; (U_64:SKJEMA3C); (U_64:SKJEMA3B); ; 67. How has your work situati
 | I have stopped working + I have gone over to a part-time position | 55 |
 | I have stopped working + I have gone over to a part-time position +Other | 4 |
 | More than 1 check box filled in | 2 |
+| Not NA | 31728 |
 | NA | 62081 |
 
 
@@ -10853,6 +11584,7 @@ U_68:SKJEMA3E; (U_65:SKJEMA3C); (U_65:SKJEMA3B); (U_62:SKJEMA3A); ; 68. If you h
 | More than 1 check box filled in | 9 |
 | The work was temporary  + I was fired | 12 |
 | I handed in my notice + The work was temporary | 12 |
+| Not NA | 7447 |
 | NA | 86362 |
 
 
@@ -10865,6 +11597,7 @@ U_69:SKJEMA3E; (U_66:SKJEMA3C); (U_66:SKJEMA3B); (U_63:SKJEMA3A); ; 69. Have you
 | No | 50470 |
 | Yes | 24306 |
 | More than 1 check box filled in | 125 |
+| Not NA | 74901 |
 | NA | 18908 |
 
 
@@ -10884,6 +11617,7 @@ U_70_1:SKJEMA3E; (U_67_1:SKJEMA3C); (U_67_1:SKJEMA3B); (U_64_1:SKJEMA3A); ; 70. 
 | Not necessary + None of the above | 67 |
 | Not necessary + Impossible or nearly impossible | 349 |
 | Impossible or nearly impossible + None of the above | 120 |
+| Not NA | 50569 |
 | NA | 43240 |
 
 
@@ -10894,6 +11628,7 @@ U_71_1:SKJEMA3E; (U_68_1:SKJEMA3C); (U_68_1:SKJEMA3B); Permanent day work; 71. W
 | Category | n |
 | -------- | - |
 | 1 | 48755 |
+| Not NA | 48755 |
 | NA | 45054 |
 
 
@@ -10904,6 +11639,7 @@ U_71_2:SKJEMA3E; (U_68_2:SKJEMA3C); (U_68_2:SKJEMA3B); Permanent afternoon or ev
 | Category | n |
 | -------- | - |
 | 1 | 3365 |
+| Not NA | 3365 |
 | NA | 90444 |
 
 
@@ -10914,6 +11650,7 @@ U_71_3:SKJEMA3E; (U_68_3:SKJEMA3C); (U_68_3:SKJEMA3B); Permanent night work; 71.
 | Category | n |
 | -------- | - |
 | 1 | 1127 |
+| Not NA | 1127 |
 | NA | 92682 |
 
 
@@ -10924,6 +11661,7 @@ U_71_4:SKJEMA3E; (U_68_4:SKJEMA3C); (U_68_4:SKJEMA3B); Shift work or shift rotas
 | Category | n |
 | -------- | - |
 | 1 | 10970 |
+| Not NA | 10970 |
 | NA | 82839 |
 
 
@@ -10934,6 +11672,7 @@ U_71_5:SKJEMA3E; (U_68_5:SKJEMA3C); (U_68_5:SKJEMA3B); No set times (extra work,
 | Category | n |
 | -------- | - |
 | 1 | 4218 |
+| Not NA | 4218 |
 | NA | 89591 |
 
 
@@ -10944,6 +11683,7 @@ U_71_6:SKJEMA3E; (U_68_6:SKJEMA3C); (U_68_6:SKJEMA3B); Other; 71. What are your 
 | Category | n |
 | -------- | - |
 | 1 | 9798 |
+| Not NA | 9798 |
 | NA | 84011 |
 
 
@@ -10960,6 +11700,7 @@ U_57:SKJEMA3A; ; 57. What type of working pattern do you have?
 | 0 | 80 |
 | Permanent afternoon or evening work | 81 |
 | Permanent night work | 92 |
+| Not NA | 3694 |
 | NA | 90115 |
 
 
@@ -10976,6 +11717,7 @@ U_61:SKJEMA3A; ; 61.
 | 3rd Qu. | 29 |
 | Max. | 37 |
 | NA's | 93511 |
+| Not NA | 298 |
 
 
 ### CC984
@@ -10990,6 +11732,7 @@ U_87_1:SKJEMA3E; (U_84_1:SKJEMA3C); (U_84_1:SKJEMA3B); Walking; 87. How often do
 | Once a week | 16013 |
 | Never | 4341 |
 | More than 1 check box filled in | 119 |
+| Not NA | 86527 |
 | NA | 7282 |
 
 
@@ -11005,6 +11748,7 @@ U_87_2:SKJEMA3E; (U_84_2:SKJEMA3C); (U_84_2:SKJEMA3B); Brisk walking; 87. How of
 | Never | 43392 |
 | 2 times a week | 6176 |
 | More than 1 check box filled in | 36 |
+| Not NA | 80692 |
 | NA | 13117 |
 
 
@@ -11020,6 +11764,7 @@ U_87_3:SKJEMA3E; (U_84_3:SKJEMA3C); (U_84_3:SKJEMA3B); Running / jogging / orien
 | 3 times or more a week | 109 |
 | More than 1 check box filled in | 69 |
 | Once a week | 258 |
+| Not NA | 77948 |
 | NA | 15861 |
 
 
@@ -11035,6 +11780,7 @@ U_87_4:SKJEMA3E; (U_84_4:SKJEMA3C); (U_84_4:SKJEMA3B); Cycling; 87. How often do
 | More than 1 check box filled in | 33 |
 | Once a week | 2764 |
 | 2 times a week | 2092 |
+| Not NA | 79060 |
 | NA | 14749 |
 
 
@@ -11050,6 +11796,7 @@ U_87_5:SKJEMA3E; (U_84_5:SKJEMA3C); (U_84_5:SKJEMA3B); Training studio / weight 
 | 3 times or more a week | 632 |
 | 2 times a week | 1872 |
 | More than 1 check box filled in | 54 |
+| Not NA | 78681 |
 | NA | 15128 |
 
 
@@ -11065,6 +11812,7 @@ U_87_6:SKJEMA3E; (U_84_6:SKJEMA3C); (U_84_6:SKJEMA3B); Special gymnastics / aero
 | 2 times a week | 1241 |
 | 3 times or more a week | 455 |
 | More than 1 check box filled in | 15 |
+| Not NA | 78447 |
 | NA | 15362 |
 
 
@@ -11080,6 +11828,7 @@ U_87_7:SKJEMA3E; (U_84_7:SKJEMA3C); (U_84_7:SKJEMA3B); Aerobics / gymnastics / d
 | Once a week | 978 |
 | 3 times or more a week | 155 |
 | More than 1 check box filled in | 4 |
+| Not NA | 78103 |
 | NA | 15706 |
 
 
@@ -11095,6 +11844,7 @@ U_87_8:SKJEMA3E; (U_84_8:SKJEMA3C); (U_84_8:SKJEMA3B); Aerobics / gymnastics / d
 | More than 1 check box filled in | 16 |
 | Once a week | 255 |
 | 3 times or more a week | 56 |
+| Not NA | 77865 |
 | NA | 15944 |
 
 
@@ -11110,6 +11860,7 @@ U_87_9:SKJEMA3E; (U_84_9:SKJEMA3C); (U_84_9:SKJEMA3B); Dancing (swing / rock / f
 | 2 times a week | 110 |
 | More than 1 check box filled in | 12 |
 | 3 times or more a week | 54 |
+| Not NA | 77879 |
 | NA | 15930 |
 
 
@@ -11125,6 +11876,7 @@ U_8710:SKJEMA3E; (U_8410:SKJEMA3C); (U_8410:SKJEMA3B); Skiing; 87. How often do 
 | 2 times a week | 305 |
 | 3 times or more a week | 94 |
 | More than 1 check box filled in | 18 |
+| Not NA | 78322 |
 | NA | 15487 |
 
 
@@ -11140,6 +11892,7 @@ U_8711:SKJEMA3E; (U_8411:SKJEMA3C); (U_8411:SKJEMA3B); Ball sports; 87. How ofte
 | More than 1 check box filled in | 42 |
 | 2 times a week | 51 |
 | 3 times or more a week | 13 |
+| Not NA | 77790 |
 | NA | 16019 |
 
 
@@ -11155,6 +11908,7 @@ U_8712:SKJEMA3E; (U_8412:SKJEMA3C); (U_8412:SKJEMA3B); Swimming; 87. How often d
 | Once a week | 5197 |
 | 3 times or more a week | 373 |
 | More than 1 check box filled in | 32 |
+| Not NA | 79241 |
 | NA | 14568 |
 
 
@@ -11170,6 +11924,7 @@ U_8713:SKJEMA3E; (U_8413:SKJEMA3C); (U_8413:SKJEMA3B); Riding; 87. How often do 
 | 2 times a week | 72 |
 | 3 times or more a week | 115 |
 | More than 1 check box filled in | 9 |
+| Not NA | 77863 |
 | NA | 15946 |
 
 
@@ -11185,6 +11940,7 @@ U_8714:SKJEMA3E; (U_8414:SKJEMA3C); (U_8414:SKJEMA3B); Other; 87. How often do y
 | 3 times or more a week | 2022 |
 | 2 times a week | 1529 |
 | More than 1 check box filled in | 140 |
+| Not NA | 67370 |
 | NA | 26439 |
 
 
@@ -11200,6 +11956,7 @@ U_88_1:SKJEMA3E; (U_85_1:SKJEMA3C); (U_85_1:SKJEMA3B); Abdominal muscles; 88. Ho
 | 3 times or more a week | 3197 |
 | 2 times a week | 4681 |
 | More than 1 check box filled in | 30 |
+| Not NA | 85349 |
 | NA | 8460 |
 
 
@@ -11215,6 +11972,7 @@ U_88_2:SKJEMA3E; (U_85_2:SKJEMA3C); (U_85_2:SKJEMA3B); Back muscles; 88. How oft
 | 2 times a week | 6847 |
 | 3 times or more a week | 4886 |
 | More than 1 check box filled in | 46 |
+| Not NA | 85805 |
 | NA | 8004 |
 
 
@@ -11230,6 +11988,7 @@ U_88_3:SKJEMA3E; (U_85_3:SKJEMA3C); (U_85_3:SKJEMA3B); Pelvic floor muscles (Mus
 | Once a week | 12651 |
 | 2 times a week | 13032 |
 | More than 1 check box filled in | 68 |
+| Not NA | 88083 |
 | NA | 5726 |
 
 
@@ -11246,6 +12005,7 @@ U_89_1:SKJEMA3E; (U_86_1:SKJEMA3C); (U_86_1:SKJEMA3B); Spare time; 89. How often
 | Never | 19268 |
 | 3-4 times a week | 14446 |
 | More than 1 check box filled in | 349 |
+| Not NA | 87343 |
 | NA | 6466 |
 
 
@@ -11262,6 +12022,7 @@ U_89_2:SKJEMA3E; (U_86_2:SKJEMA3C); (U_86_2:SKJEMA3B); At work; 89. How often at
 | Less than once a week | 8607 |
 | 3-4 times a week | 4886 |
 | More than 1 check box filled in | 293 |
+| Not NA | 66794 |
 | NA | 27015 |
 
 
@@ -11272,6 +12033,7 @@ U_74_1_1:SKJEMA3A; Abdominal muscles, Never; 74. How many times a week do you do
 | Category | n |
 | -------- | - |
 | 1 | 3593 |
+| Not NA | 3593 |
 | NA | 90216 |
 
 
@@ -11290,6 +12052,7 @@ U_74_1_2:SKJEMA3A; Abdominal muscles, Number of times a week; 74. How many times
 | 0 | 3 |
 | 6 | 7 |
 | 14 | 2 |
+| Not NA | 597 |
 | NA | 93212 |
 
 
@@ -11318,6 +12081,7 @@ U_74_1_3:SKJEMA3A; Abdominal muscles, Number of minutes each time; 74. How many 
 | 90 | 1 |
 | 75 | 1 |
 | 25 | 1 |
+| Not NA | 552 |
 | NA | 93257 |
 
 
@@ -11328,6 +12092,7 @@ U_74_2_1:SKJEMA3A; Back muscles, Never; 74. How many times a week do you do exer
 | Category | n |
 | -------- | - |
 | 1 | 3378 |
+| Not NA | 3378 |
 | NA | 90431 |
 
 
@@ -11348,6 +12113,7 @@ U_74_2_2:SKJEMA3A; Back muscles, Number of times a week; 74. How many times a we
 | 0 | 2 |
 | 10 | 1 |
 | 20 | 1 |
+| Not NA | 820 |
 | NA | 92989 |
 
 
@@ -11364,6 +12130,7 @@ U_74_2_3:SKJEMA3A; Back muscles, Number of minutes each time; 74. How many times
 | 3rd Qu. | 10 |
 | Max. | 90 |
 | NA's | 93054 |
+| Not NA | 755 |
 
 
 ### CC1553
@@ -11373,6 +12140,7 @@ U_74_3_1:SKJEMA3A; Pelvic floor muscles, Never; 74. How many times a week do you
 | Category | n |
 | -------- | - |
 | 1 | 2580 |
+| Not NA | 2580 |
 | NA | 91229 |
 
 
@@ -11389,6 +12157,7 @@ U_74_3_2:SKJEMA3A; Pelvic floor muscles, Number of times a week; 74. How many ti
 | 3rd Qu. | 6 |
 | Max. | 70 |
 | NA's | 92042 |
+| Not NA | 1767 |
 
 
 ### CC1555
@@ -11417,6 +12186,7 @@ U_74_3_3:SKJEMA3A; Pelvic floor muscles, Number of minutes each time; 74. How ma
 | 75 | 1 |
 | 16 | 1 |
 | 56 | 1 |
+| Not NA | 1653 |
 | NA | 92156 |
 
 
@@ -11427,6 +12197,7 @@ U_76_1_1:SKJEMA3A; Walking, Never; 76. How often do you exercise at present?
 | Category | n |
 | -------- | - |
 | 1 | 541 |
+| Not NA | 541 |
 | NA | 93268 |
 
 
@@ -11443,6 +12214,7 @@ U_76_1_2:SKJEMA3A; Walking, Number of times a week; 76. How often do you exercis
 | 3rd Qu. | 5 |
 | Max. | 62 |
 | NA's | 90131 |
+| Not NA | 3678 |
 
 
 ### CC1558
@@ -11458,6 +12230,7 @@ U_76_1_3:SKJEMA3A; Walking, Number of minutes each time; 76. How often do you ex
 | 3rd Qu. | 30 |
 | Max. | 240 |
 | NA's | 90312 |
+| Not NA | 3497 |
 
 
 ### CC1559
@@ -11467,6 +12240,7 @@ U_76_2_1:SKJEMA3A; Brisk walking, Never; 76. How often do you exercise at presen
 | Category | n |
 | -------- | - |
 | 1 | 2595 |
+| Not NA | 2595 |
 | NA | 91214 |
 
 
@@ -11491,6 +12265,7 @@ U_76_2_2:SKJEMA3A; Brisk walking, Number of times a week; 76. How often do you e
 | 20 | 2 |
 | 15 | 4 |
 | 12 | 4 |
+| Not NA | 1018 |
 | NA | 92791 |
 
 
@@ -11507,6 +12282,7 @@ U_76_2_3:SKJEMA3A; Brisk walking, Number of minutes each time; 76. How often do 
 | 3rd Qu. | 45 |
 | Max. | 300 |
 | NA's | 92832 |
+| Not NA | 977 |
 
 
 ### CC1562
@@ -11516,6 +12292,7 @@ U_76_3_1:SKJEMA3A; Running/jogging/orienteering, Never; 76. How often do you exe
 | Category | n |
 | -------- | - |
 | 1 | 3470 |
+| Not NA | 3470 |
 | NA | 90339 |
 
 
@@ -11530,6 +12307,7 @@ U_76_3_2:SKJEMA3A; Running/jogging/orienteering, Number of times a week; 76. How
 | 1 | 2 |
 | 7 | 2 |
 | 2 | 3 |
+| Not NA | 20 |
 | NA | 93789 |
 
 
@@ -11545,6 +12323,7 @@ U_76_3_3:SKJEMA3A; Running/jogging/orienteering, Number of minutes each time; 76
 | 1 | 2 |
 | 50 | 1 |
 | 0 | 1 |
+| Not NA | 11 |
 | NA | 93798 |
 
 
@@ -11555,6 +12334,7 @@ U_76_4_1:SKJEMA3A; Cycling, Never; 76. How often do you exercise at present?
 | Category | n |
 | -------- | - |
 | 1 | 3162 |
+| Not NA | 3162 |
 | NA | 90647 |
 
 
@@ -11577,6 +12357,7 @@ U_76_4_2:SKJEMA3A; Cycling, Number of times a week; 76. How often do you exercis
 | 8 | 2 |
 | 16 | 2 |
 | 14 | 3 |
+| Not NA | 406 |
 | NA | 93403 |
 
 
@@ -11593,6 +12374,7 @@ U_76_4_3:SKJEMA3A; Cycling, Number of minutes each time; 76. How often do you ex
 | 3rd Qu. | 30 |
 | Max. | 120 |
 | NA's | 93424 |
+| Not NA | 385 |
 
 
 ### CC1568
@@ -11602,6 +12384,7 @@ U_76_5_1:SKJEMA3A; Training studio/weight trainng, Never; 76. How often do you e
 | Category | n |
 | -------- | - |
 | 1 | 3341 |
+| Not NA | 3341 |
 | NA | 90468 |
 
 
@@ -11617,6 +12400,7 @@ U_76_5_2:SKJEMA3A; Training studio/weight training, Never; 76. How often do you 
 | 0 | 8 |
 | 5 | 2 |
 | 4 | 4 |
+| Not NA | 174 |
 | NA | 93635 |
 
 
@@ -11640,6 +12424,7 @@ U_76_5_3:SKJEMA3A; Training studio/weight trainng, Number of minutes each time; 
 | 75 | 2 |
 | 66 | 1 |
 | 50 | 3 |
+| Not NA | 162 |
 | NA | 93647 |
 
 
@@ -11650,6 +12435,7 @@ U_76_6_1:SKJEMA3A; Special gymnastics/aerobics for pregnant women, Never; 76. Ho
 | Category | n |
 | -------- | - |
 | 1 | 3338 |
+| Not NA | 3338 |
 | NA | 90471 |
 
 
@@ -11668,6 +12454,7 @@ U_76_6_2:SKJEMA3A; Special gymnastics/aerobics for pregnant women; 76. How often
 | 12 | 1 |
 | 7 | 1 |
 | 6 | 1 |
+| Not NA | 173 |
 | NA | 93636 |
 
 
@@ -11691,6 +12478,7 @@ U_76_6_3:SKJEMA3A; Special gymnastics/aerobics for pregnant women, Number of min
 | 50 | 4 |
 | 30 | 18 |
 | 10 | 3 |
+| Not NA | 162 |
 | NA | 93647 |
 
 
@@ -11701,6 +12489,7 @@ U_76_7_1:SKJEMA3A; Exercise without running and jumping, Never; 76. How often do
 | Category | n |
 | -------- | - |
 | 1 | 3350 |
+| Not NA | 3350 |
 | NA | 90459 |
 
 
@@ -11717,6 +12506,7 @@ U_76_7_2:SKJEMA3A; Training without running and jumping, Number of times a week;
 | 3 | 11 |
 | 4 | 7 |
 | 0 | 6 |
+| Not NA | 126 |
 | NA | 93683 |
 
 
@@ -11739,6 +12529,7 @@ U_76_7_3:SKJEMA3A; Exercise without running and jumping, Number of minutes each 
 | 50 | 1 |
 | 75 | 1 |
 | 5 | 1 |
+| Not NA | 112 |
 | NA | 93697 |
 
 
@@ -11749,6 +12540,7 @@ U_76_8_1:SKJEMA3A; Exercise with running and jumping, Never; 76. How often do yo
 | Category | n |
 | -------- | - |
 | 1 | 3452 |
+| Not NA | 3452 |
 | NA | 90357 |
 
 
@@ -11761,6 +12553,7 @@ U_76_8_2:SKJEMA3A; Exercise with running and jumping, Number of times a week; 76
 | 1 | 7 |
 | 2 | 4 |
 | 0 | 7 |
+| Not NA | 18 |
 | NA | 93791 |
 
 
@@ -11777,6 +12570,7 @@ U_76_8_3:SKJEMA3A; Exercise with running and jumping, Number of minutes each tim
 | 15 | 1 |
 | 0 | 1 |
 | 5 | 1 |
+| Not NA | 11 |
 | NA | 93798 |
 
 
@@ -11787,6 +12581,7 @@ U_76_9_1:SKJEMA3A; Folk dance/swing, Never; 76. How often do you exercise at pre
 | Category | n |
 | -------- | - |
 | 1 | 3434 |
+| Not NA | 3434 |
 | NA | 90375 |
 
 
@@ -11801,6 +12596,7 @@ U_76_9_2:SKJEMA3A; Folk dance/swing, Number of times a week; 76. How often do yo
 | 0 | 7 |
 | 2 | 6 |
 | 10 | 1 |
+| Not NA | 37 |
 | NA | 93772 |
 
 
@@ -11821,6 +12617,7 @@ U_76_9_3:SKJEMA3A; Folk dance/swing, Number of minutes each time; 76. How often 
 | 130 | 1 |
 | 120 | 1 |
 | 40 | 1 |
+| Not NA | 28 |
 | NA | 93781 |
 
 
@@ -11831,6 +12628,7 @@ U_7610_1:SKJEMA3A; Rock/disco danse, Never; 76. How often do you exercise at pre
 | Category | n |
 | -------- | - |
 | 1 | 3440 |
+| Not NA | 3440 |
 | NA | 90369 |
 
 
@@ -11845,6 +12643,7 @@ U_7610_2:SKJEMA3A; Rock/disco danse, Number of times a week; 76. How often do yo
 | 0 | 7 |
 | 5 | 1 |
 | 2 | 5 |
+| Not NA | 32 |
 | NA | 93777 |
 
 
@@ -11863,6 +12662,7 @@ U_7610_3:SKJEMA3A; Rock/disco danse, Number of minutes each time; 76. How often 
 | 40 | 1 |
 | 60 | 2 |
 | 120 | 1 |
+| Not NA | 26 |
 | NA | 93783 |
 
 
@@ -11873,6 +12673,7 @@ U_7611_1:SKJEMA3A; Skiing, Never; 76. How often do you exercise at present?
 | Category | n |
 | -------- | - |
 | 1 | 3378 |
+| Not NA | 3378 |
 | NA | 90431 |
 
 
@@ -11888,6 +12689,7 @@ U_7611_2:SKJEMA3A; Skiing, Number of times a week; 76. How often do you exercise
 | 2 | 12 |
 | 3 | 3 |
 | 4 | 1 |
+| Not NA | 98 |
 | NA | 93711 |
 
 
@@ -11913,6 +12715,7 @@ U_7611_3:SKJEMA3A; Skiing, Number of minutes each time; 76. How often do you exe
 | 80 | 1 |
 | 50 | 1 |
 | 35 | 1 |
+| Not NA | 86 |
 | NA | 93723 |
 
 
@@ -11923,6 +12726,7 @@ U_7612_1:SKJEMA3A; Ball sports, Never; 76. How often do you exercise at present?
 | Category | n |
 | -------- | - |
 | 1 | 3451 |
+| Not NA | 3451 |
 | NA | 90358 |
 
 
@@ -11936,6 +12740,7 @@ U_7612_2:SKJEMA3A; Ball sports, Number of times a week; 76. How often do you exe
 | 0 | 6 |
 | 2 | 2 |
 | 12 | 1 |
+| Not NA | 15 |
 | NA | 93794 |
 
 
@@ -11952,6 +12757,7 @@ U_7612_3:SKJEMA3A; Ball sport, Number of minutes each time; 76. How often do you
 | 13 | 1 |
 | 10 | 1 |
 | 45 | 1 |
+| Not NA | 9 |
 | NA | 93800 |
 
 
@@ -11962,6 +12768,7 @@ U_7613_1:SKJEMA3A; Swimming, Never; 76. How often do you exercise at present?
 | Category | n |
 | -------- | - |
 | 1 | 3092 |
+| Not NA | 3092 |
 | NA | 90717 |
 
 
@@ -11981,6 +12788,7 @@ U_7613_2:SKJEMA3A; Swimming, Number of times a week; 76. How often do you exerci
 | 21 | 1 |
 | 4 | 1 |
 | 14 | 1 |
+| Not NA | 448 |
 | NA | 93361 |
 
 
@@ -12007,6 +12815,7 @@ U_7613_3:SKJEMA3A; Swimming, Number of minutes each time; 76. How often do you e
 | 80 | 1 |
 | 0 | 1 |
 | 5 | 1 |
+| Not NA | 424 |
 | NA | 93385 |
 
 
@@ -12017,6 +12826,7 @@ U_7614_1:SKJEMA3A; Riding, Never; 76. How often do you exercise at present?
 | Category | n |
 | -------- | - |
 | 1 | 3448 |
+| Not NA | 3448 |
 | NA | 90361 |
 
 
@@ -12028,6 +12838,7 @@ U_7614_2:SKJEMA3A; Riding, Number of times a week; 76. How often do you exercise
 | -------- | - |
 | 0 | 6 |
 | 1 | 5 |
+| Not NA | 11 |
 | NA | 93798 |
 
 
@@ -12040,6 +12851,7 @@ U_7614_3:SKJEMA3A; Riding, Number of minutes each time; 76. How often do you exe
 | 60 | 2 |
 | 45 | 1 |
 | 20 | 1 |
+| Not NA | 4 |
 | NA | 93805 |
 
 
@@ -12050,6 +12862,7 @@ U_7615_1:SKJEMA3A; Other, Never; 76. How often do you exercise at present?
 | Category | n |
 | -------- | - |
 | 1 | 2442 |
+| Not NA | 2442 |
 | NA | 91367 |
 
 
@@ -12069,6 +12882,7 @@ U_7615_2:SKJEMA3A; Other, Number of times a week; 76. How often do you exercise 
 | 5 | 20 |
 | 6 | 4 |
 | 0 | 5 |
+| Not NA | 245 |
 | NA | 93564 |
 
 
@@ -12085,6 +12899,7 @@ U_7615_3:SKJEMA3A; Other, Number of minutes each time; 76. How often do you exer
 | 3rd Qu. | 75 |
 | Max. | 240 |
 | NA's | 93581 |
+| Not NA | 228 |
 
 
 ### CC1027
@@ -12103,6 +12918,7 @@ U_95:SKJEMA3E; (U_92:SKJEMA3C); (U_92:SKJEMA3B); ; 95. How many hours a day do y
 | 8-9 hours + 6-7 hours | 517 |
 | Less than 4 hours | 318 |
 | 4-5 hours + Less than 4 hours | 14 |
+| Not NA | 88667 |
 | NA | 5142 |
 
 
@@ -12115,6 +12931,7 @@ U_96_1:SKJEMA3E; (U_93_1:SKJEMA3C); (U_93_1:SKJEMA3B); (U_83_1:SKJEMA3A); Waterb
 | No | 92076 |
 | Yes | 310 |
 | More than 1 check box filled in | 2 |
+| Not NA | 92388 |
 | NA | 1421 |
 
 
@@ -12127,6 +12944,7 @@ U_96_2:SKJEMA3E; (U_93_2:SKJEMA3C); (U_93_2:SKJEMA3B); (U_83_2:SKJEMA3A); Electr
 | No | 90464 |
 | Yes | 1814 |
 | More than 1 check box filled in | 4 |
+| Not NA | 92282 |
 | NA | 1527 |
 
 
@@ -12139,6 +12957,7 @@ U_97:SKJEMA3E; (U_94:SKJEMA3C); (U_94:SKJEMA3B); (U_84:SKJEMA3A); ; 97. Can you 
 | Yes | 68445 |
 | No | 23909 |
 | More than 1 check box filled in | 502 |
+| Not NA | 92856 |
 | NA | 953 |
 
 
@@ -12155,6 +12974,7 @@ U_82:SKJEMA3A; ; 82. How many hours a day do you usually sleep now when you are 
 | Varying | 216 |
 | 0 | 119 |
 | Less than 4 hours | 15 |
+| Not NA | 4384 |
 | NA | 89425 |
 
 
@@ -12169,6 +12989,7 @@ U_98:SKJEMA3E; (U_95:SKJEMA3C); (U_95:SKJEMA3B); (U_85:SKJEMA3A); ; 98. Have you
 | 6-10 times | 998 |
 | More than 10 times | 669 |
 | More than 1 check box filled in | 6 |
+| Not NA | 93243 |
 | NA | 566 |
 
 
@@ -12183,6 +13004,7 @@ U_99:SKJEMA3E; (U_96:SKJEMA3C); (U_96:SKJEMA3B); (U_86:SKJEMA3A); ; 99. Have you
 | More than 10 times | 588 |
 | 6-10 times | 1684 |
 | More than 1 check box filled in | 1 |
+| Not NA | 93271 |
 | NA | 538 |
 
 
@@ -12195,6 +13017,7 @@ U100_1_1:SKJEMA3E; (U_97_1_1:SKJEMA3C); (U_97_1_1:SKJEMA3B); (U_87_1_1:SKJEMA3A)
 | Yes | 5345 |
 | No | 86906 |
 | More than 1 check box filled in | 8 |
+| Not NA | 92259 |
 | NA | 1550 |
 
 
@@ -12211,6 +13034,7 @@ U100_1_2:SKJEMA3E; (U_97_1_2:SKJEMA3C); (U_97_1_2:SKJEMA3B); (U_87_1_2:SKJEMA3A)
 | 3rd Qu. | 5 |
 | Max. | 80 |
 | NA's | 89071 |
+| Not NA | 4738 |
 
 
 ### CC1035
@@ -12222,6 +13046,7 @@ U100_2_1:SKJEMA3E; (U_97_2_1:SKJEMA3C); (U_97_2_1:SKJEMA3B); (U_87_2_1:SKJEMA3A)
 | No | 84904 |
 | Yes | 3582 |
 | More than 1 check box filled in | 4 |
+| Not NA | 88490 |
 | NA | 5319 |
 
 
@@ -12248,6 +13073,7 @@ U100_2_2:SKJEMA3E; (U_97_2_2:SKJEMA3C); (U_97_2_2:SKJEMA3B); (U_87_2_2:SKJEMA3A)
 | 30 | 1 |
 | 20 | 3 |
 | 24 | 3 |
+| Not NA | 3329 |
 | NA | 90480 |
 
 
@@ -12262,6 +13088,7 @@ U101_1:SKJEMA3E; (U_98_1:SKJEMA3C); (U_98_1:SKJEMA3B); (U_88_1:SKJEMA3A); ; 101.
 | Sometimes | 2016 |
 | Sometimes + Daily | 30 |
 | No + Sometimes | 11 |
+| Not NA | 92791 |
 | NA | 1018 |
 
 
@@ -12278,6 +13105,7 @@ U101_2:SKJEMA3E; (U_98_2:SKJEMA3C); (U_98_2:SKJEMA3B); (U_88_2:SKJEMA3A); Cigare
 | 3rd Qu. | 10 |
 | Max. | 90 |
 | NA's | 91712 |
+| Not NA | 2097 |
 
 
 ### CC1039
@@ -12293,6 +13121,7 @@ U101_3:SKJEMA3E; (U_98_3:SKJEMA3C); (U_98_3:SKJEMA3B); (U_88_3:SKJEMA3A); Cigare
 | 3rd Qu. | 10 |
 | Max. | 40 |
 | NA's | 89084 |
+| Not NA | 4725 |
 
 
 ### CC1040
@@ -12308,6 +13137,7 @@ U102_1:SKJEMA3E; (U_99_1:SKJEMA3C); (U_99_1:SKJEMA3B); (U_89_1:SKJEMA3A); ; 102.
 | No + Daily | 16 |
 | No + Sometimes | 9 |
 | No + Sometimes + Daily | 1 |
+| Not NA | 92330 |
 | NA | 1479 |
 
 
@@ -12324,6 +13154,7 @@ U102_2:SKJEMA3E; (U_99_2:SKJEMA3C); (U_99_2:SKJEMA3B); (U_89_2:SKJEMA3A); Cigare
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 88634 |
+| Not NA | 5175 |
 
 
 ### CC1042
@@ -12339,6 +13170,7 @@ U102_3:SKJEMA3E; (U_99_3:SKJEMA3C); (U_99_3:SKJEMA3B); (U_89_3:SKJEMA3A); Cigare
 | 3rd Qu. | 15 |
 | Max. | 99 |
 | NA's | 79603 |
+| Not NA | 14206 |
 
 
 ### CC1043
@@ -12348,6 +13180,7 @@ U103_1_1:SKJEMA3E; (U100_1_1:SKJEMA3C); (U100_1_1:SKJEMA3B); (U_90_1_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 11893 |
+| Not NA | 11893 |
 | NA | 81916 |
 
 
@@ -12364,6 +13197,7 @@ U103_1_2:SKJEMA3E; (U100_1_2:SKJEMA3C); (U100_1_2:SKJEMA3B); (U_90_1_2:SKJEMA3A)
 | 3rd Qu. | 8 |
 | Max. | 35 |
 | NA's | 81422 |
+| Not NA | 12387 |
 
 
 ### CC1045
@@ -12373,6 +13207,7 @@ U103_2_1:SKJEMA3E; (U100_2_1:SKJEMA3C); (U100_2_1:SKJEMA3B); (U_90_2_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3313 |
+| Not NA | 3313 |
 | NA | 90496 |
 
 
@@ -12389,6 +13224,7 @@ U103_2_2:SKJEMA3E; (U100_2_2:SKJEMA3C); (U100_2_2:SKJEMA3B); (U_90_2_2:SKJEMA3A)
 | 3rd Qu. | 22 |
 | Max. | 40 |
 | NA's | 90169 |
+| Not NA | 3640 |
 
 
 ### CC1047
@@ -12398,6 +13234,7 @@ U104_1_1:SKJEMA3E; (U101_1_1:SKJEMA3C); (U101_1_1:SKJEMA3B); (U_91_1_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2182 |
+| Not NA | 2182 |
 | NA | 91627 |
 
 
@@ -12408,6 +13245,7 @@ U104_1_2:SKJEMA3E; (U101_1_2:SKJEMA3C); (U101_1_2:SKJEMA3B); (U_91_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6294 |
+| Not NA | 6294 |
 | NA | 87515 |
 
 
@@ -12418,6 +13256,7 @@ U104_1_3:SKJEMA3E; (U101_1_3:SKJEMA3C); (U101_1_3:SKJEMA3B); (U_91_1_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8050 |
+| Not NA | 8050 |
 | NA | 85759 |
 
 
@@ -12428,6 +13267,7 @@ U104_1_4:SKJEMA3E; (U101_1_4:SKJEMA3C); (U101_1_4:SKJEMA3B); (U_91_1_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8529 |
+| Not NA | 8529 |
 | NA | 85280 |
 
 
@@ -12438,6 +13278,7 @@ U104_1_5:SKJEMA3E; (U101_1_5:SKJEMA3C); (U101_1_5:SKJEMA3B); (U_91_1_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8660 |
+| Not NA | 8660 |
 | NA | 85149 |
 
 
@@ -12448,6 +13289,7 @@ U104_1_6:SKJEMA3E; (U101_1_6:SKJEMA3C); (U101_1_6:SKJEMA3B); (U_91_1_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8584 |
+| Not NA | 8584 |
 | NA | 85225 |
 
 
@@ -12458,6 +13300,7 @@ U104_1_7:SKJEMA3E; (U101_1_7:SKJEMA3C); (U101_1_7:SKJEMA3B); (U_91_1_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8537 |
+| Not NA | 8537 |
 | NA | 85272 |
 
 
@@ -12468,6 +13311,7 @@ U104_1_8:SKJEMA3E; (U101_1_8:SKJEMA3C); (U101_1_8:SKJEMA3B); (U_91_1_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8196 |
+| Not NA | 8196 |
 | NA | 85613 |
 
 
@@ -12478,6 +13322,7 @@ U104_2_1:SKJEMA3E; (U101_2_1:SKJEMA3C); (U101_2_1:SKJEMA3B); (U_91_2_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2524 |
+| Not NA | 2524 |
 | NA | 91285 |
 
 
@@ -12488,6 +13333,7 @@ U104_2_2:SKJEMA3E; (U101_2_2:SKJEMA3C); (U101_2_2:SKJEMA3B); (U_91_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2960 |
+| Not NA | 2960 |
 | NA | 90849 |
 
 
@@ -12498,6 +13344,7 @@ U104_2_3:SKJEMA3E; (U101_2_3:SKJEMA3C); (U101_2_3:SKJEMA3B); (U_91_2_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3349 |
+| Not NA | 3349 |
 | NA | 90460 |
 
 
@@ -12508,6 +13355,7 @@ U104_2_4:SKJEMA3E; (U101_2_4:SKJEMA3C); (U101_2_4:SKJEMA3B); (U_91_2_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3586 |
+| Not NA | 3586 |
 | NA | 90223 |
 
 
@@ -12518,6 +13366,7 @@ U104_2_5:SKJEMA3E; (U101_2_5:SKJEMA3C); (U101_2_5:SKJEMA3B); (U_91_2_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3739 |
+| Not NA | 3739 |
 | NA | 90070 |
 
 
@@ -12528,6 +13377,7 @@ U104_2_6:SKJEMA3E; (U101_2_6:SKJEMA3C); (U101_2_6:SKJEMA3B); (U_91_2_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3829 |
+| Not NA | 3829 |
 | NA | 89980 |
 
 
@@ -12538,6 +13388,7 @@ U104_2_7:SKJEMA3E; (U101_2_7:SKJEMA3C); (U101_2_7:SKJEMA3B); (U_91_2_7:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3896 |
+| Not NA | 3896 |
 | NA | 89913 |
 
 
@@ -12548,6 +13399,7 @@ U104_2_8:SKJEMA3E; (U101_2_8:SKJEMA3C); (U101_2_8:SKJEMA3B); (U_91_2_8:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3844 |
+| Not NA | 3844 |
 | NA | 89965 |
 
 
@@ -12559,6 +13411,7 @@ U105_1:SKJEMA3E; (U102_1:SKJEMA3C); (U102_1:SKJEMA3B); Nicotine chewing gum; 105
 | -------- | - |
 | No | 82023 |
 | Yes | 239 |
+| Not NA | 82262 |
 | NA | 11547 |
 
 
@@ -12570,6 +13423,7 @@ U105_2:SKJEMA3E; (U102_2:SKJEMA3C); (U102_2:SKJEMA3B); Nicotine patches; 105. Ha
 | -------- | - |
 | No | 82036 |
 | Yes | 81 |
+| Not NA | 82117 |
 | NA | 11692 |
 
 
@@ -12581,6 +13435,7 @@ U105_3:SKJEMA3E; (U102_3:SKJEMA3C); (U102_3:SKJEMA3B); Nicotine inhaler; 105. Ha
 | -------- | - |
 | No | 82036 |
 | Yes | 45 |
+| Not NA | 82081 |
 | NA | 11728 |
 
 
@@ -12593,6 +13448,7 @@ U105_4:SKJEMA3E; (U102_4:SKJEMA3C); (U102_4:SKJEMA3B); Chewing tobacco/snuff; 10
 | No | 81600 |
 | Yes | 576 |
 | More than 1 check box filled in | 1 |
+| Not NA | 82177 |
 | NA | 11632 |
 
 
@@ -12603,6 +13459,7 @@ U_92_1_1:SKJEMA3A; Nicotine chewing gum, Earlier in this pregnancy; 92. If you h
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 93790 |
 
 
@@ -12613,6 +13470,7 @@ U_92_1_2:SKJEMA3A; Nicotine chewing gum, Now; 92. If you have used other kinds o
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 93803 |
 
 
@@ -12623,6 +13481,7 @@ U_92_2_1:SKJEMA3A; Nicotine patches, Earlier in this pregnancy; 92. If you have 
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 93802 |
 
 
@@ -12633,6 +13492,7 @@ U_92_2_2:SKJEMA3A; Nicotine patches, Now; 92. If you have used other kinds of ni
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 93807 |
 
 
@@ -12643,6 +13503,7 @@ U_92_3_1:SKJEMA3A; Nicotine inhaler, Earlier in this pregnancy; 92. If you have 
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 93802 |
 
 
@@ -12653,6 +13514,7 @@ U_92_3_2:SKJEMA3A; Nicotine inhaler, Now; 92. If you have used other kinds of ni
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 93808 |
 
 
@@ -12663,6 +13525,7 @@ U_92_4_1:SKJEMA3A; Chewing tobacco/snuff, Earlier in this pregnancy; 92. If you 
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 93791 |
 
 
@@ -12673,6 +13536,7 @@ U_92_4_2:SKJEMA3A; Chewing tobacco/snuff, Now; 92. If you have used other kinds 
 | Category | n |
 | -------- | - |
 | 1 | 12 |
+| Not NA | 12 |
 | NA | 93797 |
 
 
@@ -12685,6 +13549,7 @@ U106_1:SKJEMA3E; (U103_1:SKJEMA3C); (U103_1:SKJEMA3B); (U_93_1:SKJEMA3A); Hash; 
 | No | 89624 |
 | Yes | 126 |
 | More than 1 check box filled in | 1 |
+| Not NA | 89751 |
 | NA | 4058 |
 
 
@@ -12696,6 +13561,7 @@ U106_2:SKJEMA3E; (U103_2:SKJEMA3C); (U103_2:SKJEMA3B); (U_93_2:SKJEMA3A); Amphet
 | -------- | - |
 | No | 89716 |
 | Yes | 19 |
+| Not NA | 89735 |
 | NA | 4074 |
 
 
@@ -12707,6 +13573,7 @@ U106_3:SKJEMA3E; (U103_3:SKJEMA3C); (U103_3:SKJEMA3B); (U_93_3:SKJEMA3A); Ecstas
 | -------- | - |
 | No | 89715 |
 | Yes | 13 |
+| Not NA | 89728 |
 | NA | 4081 |
 
 
@@ -12718,6 +13585,7 @@ U106_4:SKJEMA3E; (U103_4:SKJEMA3C); (U103_4:SKJEMA3B); (U_93_4:SKJEMA3A); Cocain
 | -------- | - |
 | No | 89679 |
 | Yes | 15 |
+| Not NA | 89694 |
 | NA | 4115 |
 
 
@@ -12730,6 +13598,7 @@ U106_5:SKJEMA3E; (U103_5:SKJEMA3C); (U103_5:SKJEMA3B); (U_93_5:SKJEMA3A); Heroin
 | No | 89542 |
 | Yes | 16 |
 | More than 1 check box filled in | 1 |
+| Not NA | 89559 |
 | NA | 4250 |
 
 
@@ -12745,6 +13614,7 @@ U107_1:SKJEMA3E; (U104_1:SKJEMA3C); (U104_1:SKJEMA3B); Anabolic steroids; 107. H
 | During this pregnancy | 2 |
 | Previously + Last 6 months before pregnancy | 1 |
 | Last 6 months before pregnancy | 5 |
+| Not NA | 88190 |
 | NA | 5619 |
 
 
@@ -12760,6 +13630,7 @@ U107_2:SKJEMA3E; (U104_2:SKJEMA3C); (U104_2:SKJEMA3B); Testosterone products; 10
 | More than 1 check box filled in | 1 |
 | Previously + Last 6 months before pregnancy | 1 |
 | Previously + During this pregnancy | 1 |
+| Not NA | 88156 |
 | NA | 5653 |
 
 
@@ -12775,6 +13646,7 @@ U107_3:SKJEMA3E; (U104_3:SKJEMA3C); (U104_3:SKJEMA3B); Growth hormones (ex. Geno
 | More than 1 check box filled in | 1 |
 | During this pregnancy | 1 |
 | Last 6 months before pregnancy | 3 |
+| Not NA | 88036 |
 | NA | 5773 |
 
 
@@ -12786,6 +13658,7 @@ U_93_6:SKJEMA3A; ; 93. Have you used any of the following substances after the 1
 | -------- | - |
 | No | 3684 |
 | Yes | 5 |
+| Not NA | 3689 |
 | NA | 90120 |
 
 
@@ -12803,6 +13676,7 @@ U108_1_1:SKJEMA3E; (U105_1_1:SKJEMA3C); (U105_1_1:SKJEMA3B); Crab; Before the pr
 | Once a week or more | 71 |
 | 1-3 times a month + Once a week or more | 2 |
 | A few times a year + 1-3 times a month | 6 |
+| Not NA | 87969 |
 | NA | 5840 |
 
 
@@ -12818,6 +13692,7 @@ U108_1_2:SKJEMA3E; (U105_1_2:SKJEMA3C); (U105_1_2:SKJEMA3B); Crab; During the pr
 | Once a week or more | 68 |
 | More than 1 check box filled in | 2 |
 | 1-3 times a month + Once a week or more | 2 |
+| Not NA | 74522 |
 | NA | 19287 |
 
 
@@ -12835,6 +13710,7 @@ U108_2_1:SKJEMA3E; (U105_2_1:SKJEMA3C); (U105_2_1:SKJEMA3B); Shrimps; Before the
 | A few times a year + 1-3 times a month | 16 |
 | Never + A few times a year | 14 |
 | 1-3 times a month + Once a week or more | 1 |
+| Not NA | 88028 |
 | NA | 5781 |
 
 
@@ -12851,6 +13727,7 @@ U108_2_2:SKJEMA3E; (U105_2_2:SKJEMA3C); (U105_2_2:SKJEMA3B); Shrimps; During the
 | More than 1 check box filled in | 44 |
 | 7 | 1 |
 | 1-3 times a month + Once a week or more | 2 |
+| Not NA | 75684 |
 | NA | 18125 |
 
 
@@ -12868,6 +13745,7 @@ U108_3_1:SKJEMA3E; (U105_3_1:SKJEMA3C); (U105_3_1:SKJEMA3B); Shellfish (ex. muss
 | Never + A few times a year | 10 |
 | 1-3 times a month + Once a week or more | 1 |
 | A few times a year + 1-3 times a month | 4 |
+| Not NA | 87505 |
 | NA | 6304 |
 
 
@@ -12882,6 +13760,7 @@ U108_3_2:SKJEMA3E; (U105_3_2:SKJEMA3C); (U105_3_2:SKJEMA3B); Shellfish (ex. muss
 | Once a week or more | 27 |
 | Never + 1-3 times a month | 20 |
 | More than 1 check box filled in | 9 |
+| Not NA | 74419 |
 | NA | 19390 |
 
 
@@ -12898,6 +13777,7 @@ U108_4_1:SKJEMA3E; (U105_4_1:SKJEMA3C); (U105_4_1:SKJEMA3B); Fish liver; Before 
 | More than 1 check box filled in | 45 |
 | Never + A few times a year | 22 |
 | A few times a year + 1-3 times a month | 3 |
+| Not NA | 87363 |
 | NA | 6446 |
 
 
@@ -12913,6 +13793,7 @@ U108_4_2:SKJEMA3E; (U105_4_2:SKJEMA3C); (U105_4_2:SKJEMA3B); Fish liver; During 
 | Once a week or more | 56 |
 | Never + 1-3 times a month | 19 |
 | 1-3 times a month + Once a week or more | 1 |
+| Not NA | 74052 |
 | NA | 19757 |
 
 
@@ -12930,6 +13811,7 @@ U108_5_1:SKJEMA3E; (U105_5_1:SKJEMA3C); (U105_5_1:SKJEMA3B); Tuna fish or halibu
 | Never + A few times a year | 16 |
 | 1-3 times a month + Once a week or more | 1 |
 | A few times a year + 1-3 times a month | 8 |
+| Not NA | 87599 |
 | NA | 6210 |
 
 
@@ -12945,6 +13827,7 @@ U108_5_2:SKJEMA3E; (U105_5_2:SKJEMA3C); (U105_5_2:SKJEMA3B); Tuna fish or halibu
 | Never + 1-3 times a month | 26 |
 | More than 1 check box filled in | 19 |
 | 6 | 1 |
+| Not NA | 74602 |
 | NA | 19207 |
 
 
@@ -12961,6 +13844,7 @@ U108_6_1:SKJEMA3E; (U105_6_1:SKJEMA3C); (U105_6_1:SKJEMA3B); Flounder/other flat
 | A few times a year + 1-3 times a month | 3 |
 | More than 1 check box filled in | 6 |
 | Never + A few times a year | 9 |
+| Not NA | 87074 |
 | NA | 6735 |
 
 
@@ -12975,6 +13859,7 @@ U108_6_2:SKJEMA3E; (U105_6_2:SKJEMA3C); (U105_6_2:SKJEMA3B); Flounder/other flat
 | Once a week or more | 121 |
 | Never + 1-3 times a month | 15 |
 | More than 1 check box filled in | 6 |
+| Not NA | 73850 |
 | NA | 19959 |
 
 
@@ -12991,6 +13876,7 @@ U108_7_1:SKJEMA3E; (U105_7_1:SKJEMA3C); (U105_7_1:SKJEMA3B); Pike or perch; Befo
 | Never + A few times a year | 10 |
 | Once a week or more | 25 |
 | A few times a year + 1-3 times a month | 1 |
+| Not NA | 87179 |
 | NA | 6630 |
 
 
@@ -13005,6 +13891,7 @@ U108_7_2:SKJEMA3E; (U105_7_2:SKJEMA3C); (U105_7_2:SKJEMA3B); Pike or perch; Duri
 | More than 1 check box filled in | 14 |
 | Never + 1-3 times a month | 15 |
 | Once a week or more | 42 |
+| Not NA | 74075 |
 | NA | 19734 |
 
 
@@ -13022,6 +13909,7 @@ U108_8_1:SKJEMA3E; (U105_8_1:SKJEMA3C); (U105_8_1:SKJEMA3B); Other fresh water f
 | More than 1 check box filled in | 32 |
 | Never + A few times a year | 13 |
 | A few times a year + 1-3 times a month | 10 |
+| Not NA | 86631 |
 | NA | 7178 |
 
 
@@ -13037,6 +13925,7 @@ U108_8_2:SKJEMA3E; (U105_8_2:SKJEMA3C); (U105_8_2:SKJEMA3B); Other fresh water f
 | More than 1 check box filled in | 32 |
 | Never + 1-3 times a month | 40 |
 | 1-3 times a month + Once a week or more | 4 |
+| Not NA | 74039 |
 | NA | 19770 |
 
 
@@ -13053,6 +13942,7 @@ U108_9_1:SKJEMA3E; (U105_9_1:SKJEMA3C); (U105_9_1:SKJEMA3B); Reindeer meat; Befo
 | A few times a year + 1-3 times a month | 9 |
 | More than 1 check box filled in | 57 |
 | Never + A few times a year | 24 |
+| Not NA | 87216 |
 | NA | 6593 |
 
 
@@ -13068,6 +13958,7 @@ U108_9_2:SKJEMA3E; (U105_9_2:SKJEMA3C); (U105_9_2:SKJEMA3B); Reindeer meat; Duri
 | Never + 1-3 times a month | 46 |
 | More than 1 check box filled in | 24 |
 | 1-3 times a month + Once a week or more | 2 |
+| Not NA | 73538 |
 | NA | 20271 |
 
 
@@ -13084,6 +13975,7 @@ U10810_1:SKJEMA3E; (U10510_1:SKJEMA3C); (U10510_1:SKJEMA3B); Mutton; Before the 
 | More than 1 check box filled in | 20 |
 | Never + A few times a year | 17 |
 | A few times a year + 1-3 times a month | 13 |
+| Not NA | 87243 |
 | NA | 6566 |
 
 
@@ -13100,6 +13992,7 @@ U10810_2:SKJEMA3E; (U10510_2:SKJEMA3C); (U10510_2:SKJEMA3B); Mutton; During the 
 | 7 | 1 |
 | Never + 1-3 times a month | 82 |
 | 1-3 times a month + Once a week or more | 3 |
+| Not NA | 74205 |
 | NA | 19604 |
 
 
@@ -13115,6 +14008,7 @@ U10811_1:SKJEMA3E; (U10511_1:SKJEMA3C); (U10511_1:SKJEMA3B); Liver or kidney fro
 | More than 1 check box filled in | 21 |
 | Never + A few times a year | 21 |
 | Once a week or more | 62 |
+| Not NA | 87187 |
 | NA | 6622 |
 
 
@@ -13129,6 +14023,7 @@ U10811_2:SKJEMA3E; (U10511_2:SKJEMA3C); (U10511_2:SKJEMA3B); Liver or kidney fro
 | Never + 1-3 times a month | 12 |
 | Once a week or more | 74 |
 | More than 1 check box filled in | 10 |
+| Not NA | 74363 |
 | NA | 19446 |
 
 
@@ -13145,6 +14040,7 @@ U10812_1:SKJEMA3E; (U10512_1:SKJEMA3C); (U10512_1:SKJEMA3B); Wild mushrooms; Bef
 | More than 1 check box filled in | 7 |
 | Never + A few times a year | 12 |
 | A few times a year + 1-3 times a month | 1 |
+| Not NA | 87351 |
 | NA | 6458 |
 
 
@@ -13160,6 +14056,7 @@ U10812_2:SKJEMA3E; (U10512_2:SKJEMA3C); (U10512_2:SKJEMA3B); Wild mushrooms; Dur
 | Once a week or more | 240 |
 | More than 1 check box filled in | 10 |
 | 1-3 times a month + Once a week or more | 1 |
+| Not NA | 74399 |
 | NA | 19410 |
 
 
@@ -13177,6 +14074,7 @@ U109_1:SKJEMA3E; (U106_1:SKJEMA3C); (U106_1:SKJEMA3B); (U_95_1:SKJEMA3A); Food f
 | More than 1 check box filled in | 24 |
 | A few times a year + 1-3 times a month | 16 |
 | Never + A few times a year | 2 |
+| Not NA | 92625 |
 | NA | 1184 |
 
 
@@ -13194,6 +14092,7 @@ U109_2:SKJEMA3E; (U106_2:SKJEMA3C); (U106_2:SKJEMA3B); (U_95_2:SKJEMA3A); Meat (
 | A few times a year + 1-3 times a month | 8 |
 | Never + A few times a year | 13 |
 | 1-3 times a month + Once a week or more | 3 |
+| Not NA | 92334 |
 | NA | 1475 |
 
 
@@ -13211,6 +14110,7 @@ U109_3:SKJEMA3E; (U106_3:SKJEMA3C); (U106_3:SKJEMA3B); (U_95_3:SKJEMA3A); Meat (
 | Never + A few times a year | 8 |
 | A few times a year + 1-3 times a month | 2 |
 | 1-3 times a month + Once a week or more | 1 |
+| Not NA | 92186 |
 | NA | 1623 |
 
 
@@ -13228,6 +14128,7 @@ U109_4:SKJEMA3E; (U106_4:SKJEMA3C); (U106_4:SKJEMA3B); (U_95_4:SKJEMA3A); Raw gr
 | Never + A few times a year | 23 |
 | A few times a year + 1-3 times a month | 3 |
 | 1-3 times a month + Once a week or more | 1 |
+| Not NA | 92318 |
 | NA | 1491 |
 
 
@@ -13245,6 +14146,7 @@ U109_5:SKJEMA3E; (U106_5:SKJEMA3C); (U106_5:SKJEMA3B); (U_95_5:SKJEMA3A); Smoked
 | More than 1 check box filled in | 76 |
 | Never + A few times a year | 22 |
 | 1-3 times a month + Once a week or more | 1 |
+| Not NA | 92320 |
 | NA | 1489 |
 
 
@@ -13262,6 +14164,7 @@ U109_6:SKJEMA3E; (U106_6:SKJEMA3C); (U106_6:SKJEMA3B); (U_95_6:SKJEMA3A); Soft c
 | Never + A few times a year | 12 |
 | A few times a year + 1-3 times a month | 12 |
 | 1-3 times a month + Once a week or more | 2 |
+| Not NA | 92270 |
 | NA | 1539 |
 
 
@@ -13279,6 +14182,7 @@ U109_7:SKJEMA3E; (U106_7:SKJEMA3C); (U106_7:SKJEMA3B); (U_95_7:SKJEMA3A); Unwash
 | Never + A few times a year | 13 |
 | A few times a year + 1-3 times a month | 6 |
 | 1-3 times a month + Once a week or more | 5 |
+| Not NA | 92410 |
 | NA | 1399 |
 
 
@@ -13291,6 +14195,7 @@ U110_1:SKJEMA3E; (U107_1:SKJEMA3C); (U107_1:SKJEMA3B); Fish; 110. Do you avoid e
 | No | 85646 |
 | Yes | 2645 |
 | More than 1 check box filled in | 15 |
+| Not NA | 88306 |
 | NA | 5503 |
 
 
@@ -13303,6 +14208,7 @@ U110_2:SKJEMA3E; (U107_2:SKJEMA3C); (U107_2:SKJEMA3B); Eggs; 110. Do you avoid e
 | No | 86731 |
 | Yes | 1578 |
 | More than 1 check box filled in | 7 |
+| Not NA | 88316 |
 | NA | 5493 |
 
 
@@ -13315,6 +14221,7 @@ U110_3:SKJEMA3E; (U107_3:SKJEMA3C); (U107_3:SKJEMA3B); Nuts; 110. Do you avoid e
 | No | 81277 |
 | Yes | 6940 |
 | More than 1 check box filled in | 9 |
+| Not NA | 88226 |
 | NA | 5583 |
 
 
@@ -13327,6 +14234,7 @@ U110_4:SKJEMA3E; (U107_4:SKJEMA3C); (U107_4:SKJEMA3B); Oranges, lemons; 110. Do 
 | No | 85949 |
 | Yes | 2295 |
 | More than 1 check box filled in | 9 |
+| Not NA | 88253 |
 | NA | 5556 |
 
 
@@ -13339,6 +14247,7 @@ U110_5:SKJEMA3E; (U107_5:SKJEMA3C); (U107_5:SKJEMA3B); Strawberries; 110. Do you
 | No | 84050 |
 | Yes | 4064 |
 | More than 1 check box filled in | 6 |
+| Not NA | 88120 |
 | NA | 5689 |
 
 
@@ -13353,6 +14262,7 @@ U_94_1:SKJEMA3A; Crab; 94. How often do you eat the following foods?
 | 1-3 times a month | 76 |
 | 0 | 6 |
 | Once a week or more | 4 |
+| Not NA | 4350 |
 | NA | 89459 |
 
 
@@ -13367,6 +14277,7 @@ U_94_2:SKJEMA3A; Shrimps; 94. How often do you eat the following foods?
 | Once a week or more | 66 |
 | 1-3 times a month | 979 |
 | 0 | 4 |
+| Not NA | 4380 |
 | NA | 89429 |
 
 
@@ -13381,6 +14292,7 @@ U_94_3:SKJEMA3A; Shellfish; 94. How often do you eat the following foods?
 | 1-3 times a month | 77 |
 | Once a week or more | 2 |
 | 0 | 2 |
+| Not NA | 4324 |
 | NA | 89485 |
 
 
@@ -13395,6 +14307,7 @@ U_94_4:SKJEMA3A; Fish liver; 94. How often do you eat the following foods?
 | 0 | 12 |
 | 1-3 times a month | 28 |
 | Once a week or more | 3 |
+| Not NA | 4319 |
 | NA | 89490 |
 
 
@@ -13409,6 +14322,7 @@ U_94_5:SKJEMA3A; Tuna fish or halibut; 94. How often do you eat the following fo
 | 1-3 times a month | 459 |
 | Once a week or more | 54 |
 | 0 | 4 |
+| Not NA | 4322 |
 | NA | 89487 |
 
 
@@ -13422,6 +14336,7 @@ U_94_6:SKJEMA3A; Flounder/other flat fish; 94. How often do you eat the followin
 | A few times a year | 1390 |
 | 1-3 times a month | 135 |
 | Once a week or more | 6 |
+| Not NA | 4289 |
 | NA | 89520 |
 
 
@@ -13436,6 +14351,7 @@ U_94_7:SKJEMA3A; Pike or perch; 94. How often do you eat the following foods?
 | 0 | 11 |
 | 1-3 times a month | 22 |
 | Once a week or more | 3 |
+| Not NA | 4277 |
 | NA | 89532 |
 
 
@@ -13450,6 +14366,7 @@ U_94_8:SKJEMA3A; Other fresh water fish; 94. How often do you eat the following 
 | 1-3 times a month | 622 |
 | Once a week or more | 84 |
 | 0 | 7 |
+| Not NA | 4290 |
 | NA | 89519 |
 
 
@@ -13464,6 +14381,7 @@ U_94_9:SKJEMA3A; Reindeer meat; 94. How often do you eat the following foods?
 | 1-3 times a month | 136 |
 | Once a week or more | 7 |
 | 0 | 11 |
+| Not NA | 4312 |
 | NA | 89497 |
 
 
@@ -13478,6 +14396,7 @@ U_9410:SKJEMA3A; Mutton; 94. How often do you eat the following foods?
 | Never | 479 |
 | Once a week or more | 50 |
 | 0 | 4 |
+| Not NA | 4330 |
 | NA | 89479 |
 
 
@@ -13492,6 +14411,7 @@ U_9411:SKJEMA3A; Liver or kidney from game; 94. How often do you eat the followi
 | 1-3 times a month | 22 |
 | 0 | 4 |
 | Once a week or more | 4 |
+| Not NA | 4303 |
 | NA | 89506 |
 
 
@@ -13505,6 +14425,7 @@ U_9412:SKJEMA3A; Wild mushrooms; 94. How often do you eat the following foods?
 | A few times a year | 1079 |
 | 1-3 times a month | 160 |
 | Once a week or more | 20 |
+| Not NA | 4318 |
 | NA | 89491 |
 
 
@@ -13518,6 +14439,7 @@ U111_1:SKJEMA3E; (U108_1:SKJEMA3C); (U108_1:SKJEMA3B); ; 111. What type of drink
 | Own water source (ex. well) | 7461 |
 | More than 1 check box filled in | 228 |
 | Other source | 356 |
+| Not NA | 88281 |
 | NA | 5528 |
 
 
@@ -13528,6 +14450,7 @@ U111_3:SKJEMA3E; (U108_3:SKJEMA3C); (U108_3:SKJEMA3B); Do not know the name of w
 | Category | n |
 | -------- | - |
 | 1 | 50597 |
+| Not NA | 50597 |
 | NA | 43212 |
 
 
@@ -13538,6 +14461,7 @@ U112_1:SKJEMA3E; (U109_1:SKJEMA3C); (U109_1:SKJEMA3B); No; 112. Is your water tr
 | Category | n |
 | -------- | - |
 | 1 | 12722 |
+| Not NA | 12722 |
 | NA | 81087 |
 
 
@@ -13548,6 +14472,7 @@ U112_2:SKJEMA3E; (U109_2:SKJEMA3C); (U109_2:SKJEMA3B); Yes, UV radiation; 112. I
 | Category | n |
 | -------- | - |
 | 1 | 3186 |
+| Not NA | 3186 |
 | NA | 90623 |
 
 
@@ -13558,6 +14483,7 @@ U112_3:SKJEMA3E; (U109_3:SKJEMA3C); (U109_3:SKJEMA3B); Yes, chlorinated; 112. Is
 | Category | n |
 | -------- | - |
 | 1 | 9536 |
+| Not NA | 9536 |
 | NA | 84273 |
 
 
@@ -13568,6 +14494,7 @@ U112_4:SKJEMA3E; (U109_4:SKJEMA3C); (U109_4:SKJEMA3B); Do not know; 112. Is your
 | Category | n |
 | -------- | - |
 | 1 | 62658 |
+| Not NA | 62658 |
 | NA | 31151 |
 
 
@@ -13608,6 +14535,7 @@ U113_1_1:SKJEMA3E; (U110_1_1:SKJEMA3C); (U110_1_1:SKJEMA3B); (U_98_1_1:SKJEMA3A)
 | 90 | 1 |
 | Consumption have been reported by a mark but no amount given | 0 |
 | NA's | 29652 |
+| Not NA | 64157 |
 
 
 ### CC1120
@@ -13617,6 +14545,7 @@ U113_1_2:SKJEMA3E; (U110_1_2:SKJEMA3C); (U110_1_2:SKJEMA3B); (U_98_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 769 |
+| Not NA | 769 |
 | NA | 93040 |
 
 
@@ -13644,6 +14573,7 @@ U113_2_1:SKJEMA3E; (U110_2_1:SKJEMA3C); (U110_2_1:SKJEMA3B); (U_98_2_1:SKJEMA3A)
 | 9 | 1 |
 | 12 | 3 |
 | 30 | 2 |
+| Not NA | 52288 |
 | NA | 41521 |
 
 
@@ -13654,6 +14584,7 @@ U113_2_2:SKJEMA3E; (U110_2_2:SKJEMA3C); (U110_2_2:SKJEMA3B); (U_98_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1395 |
+| Not NA | 1395 |
 | NA | 92414 |
 
 
@@ -13680,6 +14611,7 @@ U113_3_1:SKJEMA3E; (U110_3_1:SKJEMA3C); (U110_3_1:SKJEMA3B); (U_98_3_1:SKJEMA3A)
 | 80 | 1 |
 | 13 | 1 |
 | 60 | 1 |
+| Not NA | 49957 |
 | NA | 43852 |
 
 
@@ -13690,6 +14622,7 @@ U113_3_2:SKJEMA3E; (U110_3_2:SKJEMA3C); (U110_3_2:SKJEMA3B); (U_98_3_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 146 |
+| Not NA | 146 |
 | NA | 93663 |
 
 
@@ -13713,6 +14646,7 @@ U113_4_1:SKJEMA3E; (U110_4_1:SKJEMA3C); (U110_4_1:SKJEMA3B); Other coffee; Numbe
 | 9 | 2 |
 | 30 | 1 |
 | 14 | 1 |
+| Not NA | 50908 |
 | NA | 42901 |
 
 
@@ -13723,6 +14657,7 @@ U113_4_2:SKJEMA3E; (U110_4_2:SKJEMA3C); (U110_4_2:SKJEMA3B); Other coffee; Decaf
 | Category | n |
 | -------- | - |
 | 1 | 574 |
+| Not NA | 574 |
 | NA | 93235 |
 
 
@@ -13767,6 +14702,7 @@ U113_5_1:SKJEMA3E; (U110_5_1:SKJEMA3C); (U110_5_1:SKJEMA3B); (U_98_4_1:SKJEMA3A)
 | 9 | 13 |
 | Consumption have been reported by a mark but no amount given | 2 |
 | NA's | 23683 |
+| Not NA | 70126 |
 
 
 ### CC1128
@@ -13776,6 +14712,7 @@ U113_5_2:SKJEMA3E; (U110_5_2:SKJEMA3C); (U110_5_2:SKJEMA3B); (U_98_4_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4093 |
+| Not NA | 4093 |
 | NA | 89716 |
 
 
@@ -13822,6 +14759,7 @@ U113_6_1:SKJEMA3E; (U110_6_1:SKJEMA3C); (U110_6_1:SKJEMA3B); (U_98_7_1:SKJEMA3A)
 | 96 | 1 |
 | Consumption have been reported by a mark but no amount given | 5 |
 | NA's | 38322 |
+| Not NA | 55487 |
 
 
 ### CC1130
@@ -13831,6 +14769,7 @@ U113_6_2:SKJEMA3E; (U110_6_2:SKJEMA3C); (U110_6_2:SKJEMA3B); (U_98_7_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 227 |
+| Not NA | 227 |
 | NA | 93582 |
 
 
@@ -13875,6 +14814,7 @@ U113_7_1:SKJEMA3E; (U110_7_1:SKJEMA3C); (U110_7_1:SKJEMA3B); (U_98_8_1:SKJEMA3A)
 | 98 | 1 |
 | Consumption have been reported by a mark but no amount given | 2 |
 | NA's | 39908 |
+| Not NA | 53901 |
 
 
 ### CC1132
@@ -13884,6 +14824,7 @@ U113_7_2:SKJEMA3E; (U110_7_2:SKJEMA3C); (U110_7_2:SKJEMA3B); (U_98_8_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 821 |
+| Not NA | 821 |
 | NA | 92988 |
 
 
@@ -13930,6 +14871,7 @@ U113_8_1:SKJEMA3E; (U110_8_1:SKJEMA3C); (U110_8_1:SKJEMA3B); (U_98_9_1:SKJEMA3A)
 | 90 | 2 |
 | Consumption have been reported by a mark but no amount given | 6 |
 | NA's | 38672 |
+| Not NA | 55137 |
 
 
 ### CC1134
@@ -13939,6 +14881,7 @@ U113_8_2:SKJEMA3E; (U110_8_2:SKJEMA3C); (U110_8_2:SKJEMA3B); (U_98_9_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 291 |
+| Not NA | 291 |
 | NA | 93518 |
 
 
@@ -13977,6 +14920,7 @@ U113_9_1:SKJEMA3E; (U110_9_1:SKJEMA3C); (U110_9_1:SKJEMA3B); (U_9810:SKJEMA3A); 
 | 90 | 1 |
 | Consumption have been reported by a mark but no amount given | 3 |
 | NA's | 43371 |
+| Not NA | 50438 |
 
 
 ### CC1136
@@ -13986,6 +14930,7 @@ U113_9_2:SKJEMA3E; (U110_9_2:SKJEMA3C); (U110_9_2:SKJEMA3B); Other diet fizzy dr
 | Category | n |
 | -------- | - |
 | 1 | 482 |
+| Not NA | 482 |
 | NA | 93327 |
 
 
@@ -14059,6 +15004,7 @@ U11310:SKJEMA3E; (U11010:SKJEMA3C); (U11010:SKJEMA3B); (U_9811:SKJEMA3A); Tap wa
 | 98 | 1 |
 | Consumption have been reported by a mark but no amount given | 22 |
 | NA's | 4277 |
+| Not NA | 89532 |
 
 
 ### CC1138
@@ -14109,6 +15055,7 @@ U11311:SKJEMA3E; (U11011:SKJEMA3C); (U11011:SKJEMA3B); (U_9812:SKJEMA3A); Bottle
 | 9 | 29 |
 | Consumption have been reported by a mark but no amount given | 9 |
 | NA's | 34022 |
+| Not NA | 59787 |
 
 
 ### CC1142
@@ -14163,6 +15110,7 @@ U11312_1:SKJEMA3E; (U11012_1:SKJEMA3C); (U11012_1:SKJEMA3B); (U_9813:SKJEMA3A); 
 | 90 | 4 |
 | Consumption have been reported by a mark but no amount given | 7 |
 | NA's | 13697 |
+| Not NA | 80112 |
 
 
 ### CC1143
@@ -14172,6 +15120,7 @@ U11312_2:SKJEMA3E; (U11012_2:SKJEMA3C); (U11012_2:SKJEMA3B); Juice/squash; Organ
 | Category | n |
 | -------- | - |
 | 1 | 831 |
+| Not NA | 831 |
 | NA | 92978 |
 
 
@@ -14216,6 +15165,7 @@ U11313_1:SKJEMA3E; (U11013_1:SKJEMA3C); (U11013_1:SKJEMA3B); (U_9814:SKJEMA3A); 
 | 98 | 1 |
 | Consumption have been reported by a mark but no amount given | 3 |
 | NA's | 40892 |
+| Not NA | 52917 |
 
 
 ### CC1145
@@ -14225,6 +15175,7 @@ U11313_2:SKJEMA3E; (U11013_2:SKJEMA3C); (U11013_2:SKJEMA3B); Diet juice/squash; 
 | Category | n |
 | -------- | - |
 | 1 | 78 |
+| Not NA | 78 |
 | NA | 93731 |
 
 
@@ -14270,6 +15221,7 @@ U11314_1:SKJEMA3E; (U11014_1:SKJEMA3C); (U11014_1:SKJEMA3B); Milk (skimmed, low 
 | 90 | 4 |
 | Consumption have been reported by a mark but no amount given | 10 |
 | NA's | 19008 |
+| Not NA | 74801 |
 
 
 ### CC1147
@@ -14279,6 +15231,7 @@ U11314_2:SKJEMA3E; (U11014_2:SKJEMA3C); (U11014_2:SKJEMA3B); Milk (skimmed, low 
 | Category | n |
 | -------- | - |
 | 1 | 1592 |
+| Not NA | 1592 |
 | NA | 92217 |
 
 
@@ -14308,6 +15261,7 @@ U11315_1:SKJEMA3E; (U11015_1:SKJEMA3C); (U11015_1:SKJEMA3B); Yogurt, all types; 
 | 15 | 2 |
 | 9 | 1 |
 | 16 | 1 |
+| Not NA | 48577 |
 | NA | 45232 |
 
 
@@ -14318,6 +15272,7 @@ U11315_2:SKJEMA3E; (U11015_2:SKJEMA3C); (U11015_2:SKJEMA3B); Yogurt, all types; 
 | Category | n |
 | -------- | - |
 | 1 | 77 |
+| Not NA | 77 |
 | NA | 93732 |
 
 
@@ -14349,6 +15304,7 @@ U11316_1:SKJEMA3E; (U11016_1:SKJEMA3C); (U11016_1:SKJEMA3B); Yogurt with active 
 | 9 | 2 |
 | Consumption have been reported by a mark but no amount given | 1 |
 | NA's | 42761 |
+| Not NA | 51048 |
 
 
 ### CC1151
@@ -14358,6 +15314,7 @@ U11316_2:SKJEMA3E; (U11016_2:SKJEMA3C); (U11016_2:SKJEMA3B); Yogurt with active 
 | Category | n |
 | -------- | - |
 | 1 | 67 |
+| Not NA | 67 |
 | NA | 93742 |
 
 
@@ -14387,6 +15344,7 @@ U11317_1:SKJEMA3E; (U11017_1:SKJEMA3C); (U11017_1:SKJEMA3B); Other type of cultu
 | 20 | 6 |
 | 23 | 1 |
 | 14 | 2 |
+| Not NA | 53333 |
 | NA | 40476 |
 
 
@@ -14397,6 +15355,7 @@ U11317_2:SKJEMA3E; (U11017_2:SKJEMA3C); (U11017_2:SKJEMA3B); Other type of cultu
 | Category | n |
 | -------- | - |
 | 1 | 395 |
+| Not NA | 395 |
 | NA | 93414 |
 
 
@@ -14431,6 +15390,7 @@ U11318_1:SKJEMA3E; (U11018_1:SKJEMA3C); (U11018_1:SKJEMA3B); (U_9818:SKJEMA3A); 
 | 96 | 1 |
 | Consumption have been reported by a mark but no amount given | 1 |
 | NA's | 57203 |
+| Not NA | 36606 |
 
 
 ### CC1155
@@ -14440,6 +15400,7 @@ U11318_2:SKJEMA3E; (U11018_2:SKJEMA3C); (U11018_2:SKJEMA3B); Other; Organic; 113
 | Category | n |
 | -------- | - |
 | 1 | 171 |
+| Not NA | 171 |
 | NA | 93638 |
 
 
@@ -14454,6 +15415,7 @@ U_97:SKJEMA3A; ; 97. Is your water treated (chlorinated or UV-radiated)
 | Do not know | 3029 |
 | Yes, UV radiation | 49 |
 | 0 | 36 |
+| Not NA | 4247 |
 | NA | 89562 |
 
 
@@ -14470,6 +15432,7 @@ U_9815:SKJEMA3A; Skimmed milk, Number of cups; 98. What was your fluid consumpti
 | 3rd Qu. | 4 |
 | Max. | 60 |
 | NA's | 91395 |
+| Not NA | 2414 |
 
 
 ### CC1630
@@ -14494,6 +15457,7 @@ U_98_5_1:SKJEMA3A; Herbal tea, Number of cups; 98. What was your fluid consumpti
 | 12 | 4 |
 | 25 | 1 |
 | 28 | 1 |
+| Not NA | 1923 |
 | NA | 91886 |
 
 
@@ -14504,6 +15468,7 @@ U_98_5_2:SKJEMA3A; Herbal tea, Decaffeinated; 98. What was your fluid consumptio
 | Category | n |
 | -------- | - |
 | 1 | 124 |
+| Not NA | 124 |
 | NA | 93685 |
 
 
@@ -14527,6 +15492,7 @@ U_98_6_1:SKJEMA3A; Other hot drink, Number of cups; 98. What was your fluid cons
 | 7 | 4 |
 | 15 | 1 |
 | 25 | 1 |
+| Not NA | 1922 |
 | NA | 91887 |
 
 
@@ -14537,6 +15503,7 @@ U_98_6_2:SKJEMA3A; Other hot drink, Decaffeinated; 98. What was your fluid consu
 | Category | n |
 | -------- | - |
 | 1 | 101 |
+| Not NA | 101 |
 | NA | 93708 |
 
 
@@ -14553,6 +15520,7 @@ U_9816:SKJEMA3A; Low fat milk, Number of cups; 98. What was your fluid consumpti
 | 3rd Qu. | 4 |
 | Max. | 90 |
 | NA's | 90865 |
+| Not NA | 2944 |
 
 
 ### CC1635
@@ -14579,6 +15547,7 @@ U_9817:SKJEMA3A; Full-cream milk, Number of cups; 98. What was your fluid consum
 | 15 | 2 |
 | 30 | 1 |
 | 20 | 4 |
+| Not NA | 1693 |
 | NA | 92116 |
 
 
@@ -14592,6 +15561,7 @@ U_96_1:SKJEMA3A; ; 96. Where does your drinking water come from?
 | Own water source (ex. well) | 419 |
 | Do not know | 52 |
 | 0 | 61 |
+| Not NA | 4396 |
 | NA | 89413 |
 
 
@@ -14609,6 +15579,7 @@ U114_1:SKJEMA3E; (U111_1:SKJEMA3C); (U111_1:SKJEMA3B); (U_99_1:SKJEMA3A); Last 3
 | Approximately 4-5 times a week | 682 |
 | More than 1 check box filled in | 375 |
 | Approximately 6-7 times a week | 152 |
+| Not NA | 92407 |
 | NA | 1402 |
 
 
@@ -14626,6 +15597,7 @@ U114_2:SKJEMA3E; (U111_2:SKJEMA3C); (U111_2:SKJEMA3B); (U_99_2:SKJEMA3A); In thi
 | More than 1 check box filled in | 94 |
 | Approximately 4-5 times a week | 68 |
 | Approximately 6-7 times a week | 23 |
+| Not NA | 83634 |
 | NA | 10175 |
 
 
@@ -14643,6 +15615,7 @@ U114_3:SKJEMA3E; (U111_3:SKJEMA3C); (U111_3:SKJEMA3B); (U_99_3:SKJEMA3A); In thi
 | Approximately 2-3 times a week | 81 |
 | Approximately 4-5 times a week | 10 |
 | Approximately 6-7 times a week | 3 |
+| Not NA | 80962 |
 | NA | 12847 |
 
 
@@ -14660,6 +15633,7 @@ U114_4:SKJEMA3E; (U111_4:SKJEMA3C); (U111_4:SKJEMA3B); (U_99_4:SKJEMA3A); In thi
 | More than 1 check box filled in | 9 |
 | Approximately 4-5 times a week | 6 |
 | Approximately 6-7 times a week | 3 |
+| Not NA | 81070 |
 | NA | 12739 |
 
 
@@ -14675,6 +15649,7 @@ U115_1:SKJEMA3E; (U112_1:SKJEMA3C); (U112_1:SKJEMA3B); (U100_1:SKJEMA3A); Last 3
 | 1-3 times per month | 17324 |
 | Several times per week | 804 |
 | More than 1 check box filled in | 194 |
+| Not NA | 90503 |
 | NA | 3306 |
 
 
@@ -14690,6 +15665,7 @@ U115_2:SKJEMA3E; (U112_2:SKJEMA3C); (U112_2:SKJEMA3B); (U100_2:SKJEMA3A); In thi
 | 1-3 times per month | 1993 |
 | Several times per week | 147 |
 | More than 1 check box filled in | 41 |
+| Not NA | 79253 |
 | NA | 14556 |
 
 
@@ -14705,6 +15681,7 @@ U115_3:SKJEMA3E; (U112_3:SKJEMA3C); (U112_3:SKJEMA3B); (U100_3:SKJEMA3A); In thi
 | More than 1 check box filled in | 4 |
 | Several times per week | 9 |
 | Once per week | 13 |
+| Not NA | 75991 |
 | NA | 17818 |
 
 
@@ -14720,6 +15697,7 @@ U115_4:SKJEMA3E; (U112_4:SKJEMA3C); (U112_4:SKJEMA3B); (U100_4:SKJEMA3A); In thi
 | 1-3 times per month | 40 |
 | Several times per week | 8 |
 | Once per week | 6 |
+| Not NA | 75883 |
 | NA | 17926 |
 
 
@@ -14736,6 +15714,7 @@ U116_1:SKJEMA3E; (U113_1:SKJEMA3C); (U113_1:SKJEMA3B); (U101_1:SKJEMA3A); Last  
 | Fewer than 1 | 7725 |
 | More than 1 check box filled in | 281 |
 | 10 or more | 893 |
+| Not NA | 85617 |
 | NA | 8192 |
 
 
@@ -14752,6 +15731,7 @@ U116_2:SKJEMA3E; (U113_2:SKJEMA3C); (U113_2:SKJEMA3B); (U101_2:SKJEMA3A); In thi
 | 7-9 | 515 |
 | More than 1 check box filled in | 39 |
 | 10 or more | 102 |
+| Not NA | 59542 |
 | NA | 34267 |
 
 
@@ -14768,6 +15748,7 @@ U116_3:SKJEMA3E; (U113_3:SKJEMA3C); (U113_3:SKJEMA3B); (U101_3:SKJEMA3A); In thi
 | More than 1 check box filled in | 6 |
 | 7-9 | 3 |
 | 10 or more | 1 |
+| Not NA | 55118 |
 | NA | 38691 |
 
 
@@ -14784,6 +15765,7 @@ U116_4:SKJEMA3E; (U113_4:SKJEMA3C); (U113_4:SKJEMA3B); (U101_4:SKJEMA3A); In thi
 | More than 1 check box filled in | 9 |
 | 7-9 | 2 |
 | 10 or more | 2 |
+| Not NA | 55098 |
 | NA | 38711 |
 
 
@@ -14796,6 +15778,7 @@ U117_1:SKJEMA3E; (U114_1:SKJEMA3C); (U114_1:SKJEMA3B); (U102_1:SKJEMA3A); Last 3
 | Reduced intake | 15658 |
 | Increased intake | 555 |
 | More than 1 check box filled in | 9 |
+| Not NA | 16222 |
 | NA | 77587 |
 
 
@@ -14808,6 +15791,7 @@ U117_2:SKJEMA3E; (U114_2:SKJEMA3C); (U114_2:SKJEMA3B); (U102_2:SKJEMA3A); During
 | Reduced intake | 43340 |
 | Increased intake | 432 |
 | More than 1 check box filled in | 25 |
+| Not NA | 43797 |
 | NA | 50012 |
 
 
@@ -14820,6 +15804,7 @@ U117_3:SKJEMA3E; (U114_3:SKJEMA3C); (U114_3:SKJEMA3B); (U102_3:SKJEMA3A); During
 | Reduced intake | 11772 |
 | Increased intake | 130 |
 | More than 1 check box filled in | 1 |
+| Not NA | 11903 |
 | NA | 81906 |
 
 
@@ -14832,6 +15817,7 @@ U117_4:SKJEMA3E; (U114_4:SKJEMA3C); (U114_4:SKJEMA3B); (U102_4:SKJEMA3A); During
 | Reduced intake | 8070 |
 | Increased intake | 239 |
 | More than 1 check box filled in | 3 |
+| Not NA | 8312 |
 | NA | 85497 |
 
 
@@ -14844,6 +15830,7 @@ U117_5:SKJEMA3E; (U114_5:SKJEMA3C); (U114_5:SKJEMA3B); (U102_5:SKJEMA3A); After 
 | Reduced intake | 7631 |
 | Increased intake | 379 |
 | More than 1 check box filled in | 1 |
+| Not NA | 8011 |
 | NA | 85798 |
 
 
@@ -14859,6 +15846,7 @@ U118_1:SKJEMA3E; (U115_1:SKJEMA3C); (U115_1:SKJEMA3B); (U103_1:SKJEMA3A); Nausea
 | Quite important | 1413 |
 | Important | 1123 |
 | More than 1 check box filled in | 22 |
+| Not NA | 38532 |
 | NA | 55277 |
 
 
@@ -14874,6 +15862,7 @@ U118_2:SKJEMA3E; (U115_2:SKJEMA3C); (U115_2:SKJEMA3B); (U103_2:SKJEMA3A); Altere
 | Quite important | 978 |
 | Important | 942 |
 | More than 1 check box filled in | 23 |
+| Not NA | 38067 |
 | NA | 55742 |
 
 
@@ -14889,6 +15878,7 @@ U118_3:SKJEMA3E; (U115_3:SKJEMA3C); (U115_3:SKJEMA3B); (U103_3:SKJEMA3A); For th
 | Very important | 173 |
 | Not very important | 30 |
 | More than 1 check box filled in | 49 |
+| Not NA | 61908 |
 | NA | 31901 |
 
 
@@ -14904,6 +15894,7 @@ U118_4:SKJEMA3E; (U115_4:SKJEMA3C); (U115_4:SKJEMA3B); (U103_4:SKJEMA3A); Depres
 | Very important | 120 |
 | Important | 140 |
 | More than 1 check box filled in | 24 |
+| Not NA | 37099 |
 | NA | 56710 |
 
 
@@ -14919,6 +15910,7 @@ U118_5:SKJEMA3E; (U115_5:SKJEMA3C); (U115_5:SKJEMA3B); (U103_5:SKJEMA3A); Other 
 | Important | 392 |
 | Very important | 264 |
 | More than 1 check box filled in | 12 |
+| Not NA | 33388 |
 | NA | 60421 |
 
 
@@ -14935,6 +15927,7 @@ U119:SKJEMA3E; (U116:SKJEMA3C); (U116:SKJEMA3B); (U104:SKJEMA3A); ; . What is yo
 | Divorced/separated | 158 |
 | More than 1 check box filled in | 109 |
 | Widow  | 7 |
+| Not NA | 93013 |
 | NA | 796 |
 
 
@@ -14949,6 +15942,7 @@ U126_1:SKJEMA3E; (U123_1:SKJEMA3C); (U123_1:SKJEMA3B); (U111_1:SKJEMA3A); Feelin
 | Quite bothered | 1811 |
 | Very bothered | 531 |
 | More than 2 check boxes filled in | 7 |
+| Not NA | 92867 |
 | NA | 942 |
 
 
@@ -14963,6 +15957,7 @@ U126_2:SKJEMA3E; (U123_2:SKJEMA3C); (U123_2:SKJEMA3B); (U111_2:SKJEMA3A); Nervou
 | Quite bothered | 2215 |
 | Very bothered | 554 |
 | More than 1 check box filled in | 17 |
+| Not NA | 92769 |
 | NA | 1040 |
 
 
@@ -14977,6 +15972,7 @@ U126_3:SKJEMA3E; (U123_3:SKJEMA3C); (U123_3:SKJEMA3B); (U111_3:SKJEMA3A); Sense 
 | Quite bothered | 1399 |
 | Very bothered | 436 |
 | More than 1 check box filled in | 18 |
+| Not NA | 92720 |
 | NA | 1089 |
 
 
@@ -14991,6 +15987,7 @@ U126_4:SKJEMA3E; (U123_4:SKJEMA3C); (U123_4:SKJEMA3B); (U111_4:SKJEMA3A); Depres
 | Quite bothered | 2209 |
 | Very bothered | 527 |
 | More than 1 check box filled in | 38 |
+| Not NA | 92663 |
 | NA | 1146 |
 
 
@@ -15005,6 +16002,7 @@ U126_5:SKJEMA3E; (U123_5:SKJEMA3C); (U123_5:SKJEMA3B); (U111_5:SKJEMA3A); Freque
 | Very bothered | 765 |
 | Quite bothered | 3227 |
 | More than 1 check box filled in | 38 |
+| Not NA | 92645 |
 | NA | 1164 |
 
 
@@ -15019,6 +16017,7 @@ U126_6:SKJEMA3E; (U123_6:SKJEMA3C); (U123_6:SKJEMA3B); Feeling that everything i
 | A little bothered | 30167 |
 | Very bothered | 860 |
 | More than 1 check box filled in | 42 |
+| Not NA | 88337 |
 | NA | 5472 |
 
 
@@ -15033,6 +16032,7 @@ U126_7:SKJEMA3E; (U123_7:SKJEMA3C); (U123_7:SKJEMA3B); Feel tense or stressed; 1
 | A little bothered | 19494 |
 | More than 1 check box filled in | 12 |
 | Very bothered | 376 |
+| Not NA | 88265 |
 | NA | 5544 |
 
 
@@ -15047,6 +16047,7 @@ U126_8:SKJEMA3E; (U123_8:SKJEMA3C); (U123_8:SKJEMA3B); Sudden fear without reaso
 | Quite bothered | 664 |
 | Very bothered | 220 |
 | More than 1 check box filled in | 6 |
+| Not NA | 88321 |
 | NA | 5488 |
 
 
@@ -15062,6 +16063,7 @@ U127_1:SKJEMA3E; (U124_1:SKJEMA3C); (U124_1:SKJEMA3B); Feel pleased about someth
 | Seldom | 481 |
 | More than 2 check boxes filled in | 20 |
 | Seldom/never | 75 |
+| Not NA | 88812 |
 | NA | 4997 |
 
 
@@ -15077,6 +16079,7 @@ U127_2:SKJEMA3E; (U124_2:SKJEMA3C); (U124_2:SKJEMA3B); Feel happy; 127. How ofte
 | Seldom | 1717 |
 | Seldom/never | 228 |
 | More than 1 check box filled in | 18 |
+| Not NA | 88752 |
 | NA | 5057 |
 
 
@@ -15092,6 +16095,7 @@ U127_3:SKJEMA3E; (U124_3:SKJEMA3C); (U124_3:SKJEMA3B); Feel joyful, as though ev
 | Sometimes | 40365 |
 | Seldom/never | 1282 |
 | More than 1 check box filled in | 32 |
+| Not NA | 88324 |
 | NA | 5485 |
 
 
@@ -15107,6 +16111,7 @@ U127_4:SKJEMA3E; (U124_4:SKJEMA3C); (U124_4:SKJEMA3B); Feel that you will scream
 | Often | 2527 |
 | Very often | 463 |
 | More than 1 check box filled in | 44 |
+| Not NA | 88340 |
 | NA | 5469 |
 
 
@@ -15122,6 +16127,7 @@ U127_5:SKJEMA3E; (U124_5:SKJEMA3C); (U124_5:SKJEMA3B); Feel angry, irritated or 
 | Often | 7839 |
 | Very often | 840 |
 | More than 1 check box filled in | 33 |
+| Not NA | 88692 |
 | NA | 5117 |
 
 
@@ -15137,6 +16143,7 @@ U127_6:SKJEMA3E; (U124_6:SKJEMA3C); (U124_6:SKJEMA3B); Feel mad at someone; 127.
 | Very often | 491 |
 | Often | 2328 |
 | More than 1 check box filled in | 16 |
+| Not NA | 88624 |
 | NA | 5185 |
 
 
@@ -15151,6 +16158,7 @@ U112_1:SKJEMA3A; ; 112.
 | Completely correct | 2347 |
 | Almost correct | 1286 |
 | 0 | 5 |
+| Not NA | 4385 |
 | NA | 89424 |
 
 
@@ -15165,6 +16173,7 @@ U112_2:SKJEMA3A; ; 112.
 | Almost correct | 1882 |
 | Completely correct | 1034 |
 | 0 | 2 |
+| Not NA | 4334 |
 | NA | 89475 |
 
 
@@ -15179,6 +16188,7 @@ U112_3:SKJEMA3A; ; 112.
 | Almost correct | 1775 |
 | Partly correct | 1228 |
 | 0 | 5 |
+| Not NA | 4326 |
 | NA | 89483 |
 
 
@@ -15193,6 +16203,7 @@ U112_4:SKJEMA3A; ; 112.
 | Almost correct | 1683 |
 | Completely correct | 758 |
 | 0 | 5 |
+| Not NA | 4320 |
 | NA | 89489 |
 
 
@@ -15207,6 +16218,7 @@ U112_5:SKJEMA3A; ; 112.
 | Partly correct | 916 |
 | Almost correct | 1704 |
 | 0 | 5 |
+| Not NA | 4344 |
 | NA | 89465 |
 
 
@@ -15221,6 +16233,7 @@ U128_1:SKJEMA3E; (U125_1:SKJEMA3C); (U125_1:SKJEMA3B); (U113_1:SKJEMA3A); I alwa
 | Almost correct | 39796 |
 | Incorrect | 1406 |
 | More than 2 check boxes filled in | 22 |
+| Not NA | 92954 |
 | NA | 855 |
 
 
@@ -15235,6 +16248,7 @@ U128_2:SKJEMA3E; (U125_2:SKJEMA3C); (U125_2:SKJEMA3B); (U113_2:SKJEMA3A); If any
 | Almost correct | 35981 |
 | Partly correct | 36211 |
 | More than 1 check box filled in | 39 |
+| Not NA | 92487 |
 | NA | 1322 |
 
 
@@ -15249,6 +16263,7 @@ U128_3:SKJEMA3E; (U125_3:SKJEMA3C); (U125_3:SKJEMA3B); (U113_3:SKJEMA3A); I am s
 | Almost correct | 41368 |
 | Incorrect | 3281 |
 | More than 1 check box filled in | 41 |
+| Not NA | 92681 |
 | NA | 1128 |
 
 
@@ -15263,6 +16278,7 @@ U128_4:SKJEMA3E; (U125_4:SKJEMA3C); (U125_4:SKJEMA3B); (U113_4:SKJEMA3A); I am c
 | Partly correct | 27313 |
 | Incorrect | 5533 |
 | More than 1 check box filled in | 32 |
+| Not NA | 92790 |
 | NA | 1019 |
 
 
@@ -15277,6 +16293,7 @@ U128_5:SKJEMA3E; (U125_5:SKJEMA3C); (U125_5:SKJEMA3B); (U113_5:SKJEMA3A); When I
 | Partly correct | 18012 |
 | Incorrect | 728 |
 | More than 1 check box filled in | 24 |
+| Not NA | 92785 |
 | NA | 1024 |
 
 
@@ -15294,6 +16311,7 @@ U129_1:SKJEMA3E; (U126_1:SKJEMA3C); (U126_1:SKJEMA3B); (U114_1:SKJEMA3A); My lif
 | Disagree | 2284 |
 | Disagree completely | 1248 |
 | More than 1 check box filled in | 33 |
+| Not NA | 92842 |
 | NA | 967 |
 
 
@@ -15311,6 +16329,7 @@ U129_2:SKJEMA3E; (U126_2:SKJEMA3C); (U126_2:SKJEMA3B); (U114_2:SKJEMA3A); My lif
 | Disagree somewhat | 1641 |
 | Disagree | 680 |
 | More than 1 check box filled in | 24 |
+| Not NA | 92783 |
 | NA | 1026 |
 
 
@@ -15328,6 +16347,7 @@ U129_3:SKJEMA3E; (U126_3:SKJEMA3C); (U126_3:SKJEMA3B); (U114_3:SKJEMA3A); I am s
 | Disagree | 620 |
 | Neither nor | 1363 |
 | More than 1 check box filled in | 42 |
+| Not NA | 93007 |
 | NA | 802 |
 
 
@@ -15345,6 +16365,7 @@ U129_4:SKJEMA3E; (U126_4:SKJEMA3C); (U126_4:SKJEMA3B); (U114_4:SKJEMA3A); I have
 | Disagree completely | 838 |
 | Disagree | 1053 |
 | More than 1 check box filled in | 29 |
+| Not NA | 92872 |
 | NA | 937 |
 
 
@@ -15362,6 +16383,7 @@ U129_5:SKJEMA3E; (U126_5:SKJEMA3C); (U126_5:SKJEMA3B); (U114_5:SKJEMA3A); If I c
 | Agree completely | 14128 |
 | Disagree completely | 1693 |
 | More than 1 check box filled in | 33 |
+| Not NA | 92870 |
 | NA | 939 |
 
 
@@ -15376,6 +16398,7 @@ U130_1:SKJEMA3E; (U127_1:SKJEMA3C); (U127_1:SKJEMA3B); (U115_1:SKJEMA3A); I have
 | Strongly disagree | 684 |
 | Disagree | 6227 |
 | More than 2 check boxes filled in | 57 |
+| Not NA | 92993 |
 | NA | 816 |
 
 
@@ -15390,6 +16413,7 @@ U130_2:SKJEMA3E; (U127_2:SKJEMA3C); (U127_2:SKJEMA3B); (U115_2:SKJEMA3A); I feel
 | Strongly agree | 1885 |
 | Agree | 18508 |
 | More than 1 check box filled in | 35 |
+| Not NA | 92860 |
 | NA | 949 |
 
 
@@ -15404,6 +16428,7 @@ U130_3:SKJEMA3E; (U127_3:SKJEMA3C); (U127_3:SKJEMA3B); (U115_3:SKJEMA3A); I feel
 | Agree | 4926 |
 | Strongly agree | 1473 |
 | More than 1 check box filled in | 47 |
+| Not NA | 92832 |
 | NA | 977 |
 
 
@@ -15418,6 +16443,7 @@ U130_4:SKJEMA3E; (U127_4:SKJEMA3C); (U127_4:SKJEMA3B); (U115_4:SKJEMA3A); I feel
 | Strongly agree | 37713 |
 | Disagree | 2338 |
 | More than 1 check box filled in | 55 |
+| Not NA | 92875 |
 | NA | 934 |
 
 
@@ -15430,6 +16456,7 @@ U131_1_1:SKJEMA3E; (U128_1_1:SKJEMA3C); (U128_1_1:SKJEMA3B); (U116_1_1:SKJEMA3A)
 | No | 68390 |
 | Yes | 21700 |
 | More than 1 check box filled in | 7 |
+| Not NA | 90097 |
 | NA | 3712 |
 
 
@@ -15443,6 +16470,7 @@ U131_1_2:SKJEMA3E; (U128_1_2:SKJEMA3C); (U128_1_2:SKJEMA3B); (U116_1_2:SKJEMA3A)
 | Painful/difficult | 7782 |
 | Very painful/difficult | 2446 |
 | More than 1 check box filled in | 12 |
+| Not NA | 24015 |
 | NA | 69794 |
 
 
@@ -15455,6 +16483,7 @@ U131_2_1:SKJEMA3E; (U128_2_1:SKJEMA3C); (U128_2_1:SKJEMA3B); (U116_2_1:SKJEMA3A)
 | Yes | 15632 |
 | No | 75004 |
 | More than 1 check box filled in | 7 |
+| Not NA | 90643 |
 | NA | 3166 |
 
 
@@ -15468,6 +16497,7 @@ U131_2_2:SKJEMA3E; (U128_2_2:SKJEMA3C); (U128_2_2:SKJEMA3B); (U116_2_2:SKJEMA3A)
 | Not so bad | 11827 |
 | Very painful/difficult | 1321 |
 | More than 1 check box filled in | 12 |
+| Not NA | 17083 |
 | NA | 76726 |
 
 
@@ -15480,6 +16510,7 @@ U131_3_1:SKJEMA3E; (U128_3_1:SKJEMA3C); (U128_3_1:SKJEMA3B); (U116_3_1:SKJEMA3A)
 | No | 91107 |
 | Yes | 1747 |
 | More than 1 check box filled in | 6 |
+| Not NA | 92860 |
 | NA | 949 |
 
 
@@ -15493,6 +16524,7 @@ U131_3_2:SKJEMA3E; (U128_3_2:SKJEMA3C); (U128_3_2:SKJEMA3B); (U116_3_2:SKJEMA3A)
 | Very painful/difficult | 727 |
 | Not so bad | 462 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1786 |
 | NA | 92023 |
 
 
@@ -15505,6 +16537,7 @@ U131_4_1:SKJEMA3E; (U128_4_1:SKJEMA3C); (U128_4_1:SKJEMA3B); (U116_4_1:SKJEMA3A)
 | No | 73514 |
 | Yes | 17779 |
 | More than 1 check box filled in | 3 |
+| Not NA | 91296 |
 | NA | 2513 |
 
 
@@ -15518,6 +16551,7 @@ U131_4_2:SKJEMA3E; (U128_4_2:SKJEMA3C); (U128_4_2:SKJEMA3B); (U116_4_2:SKJEMA3A)
 | Painful/difficult | 6910 |
 | Very painful/difficult | 2408 |
 | More than 1 check box filled in | 24 |
+| Not NA | 18567 |
 | NA | 75242 |
 
 
@@ -15530,6 +16564,7 @@ U131_5_1:SKJEMA3E; (U128_5_1:SKJEMA3C); (U128_5_1:SKJEMA3B); (U116_5_1:SKJEMA3A)
 | No | 90218 |
 | Yes | 2290 |
 | More than 1 check box filled in | 9 |
+| Not NA | 92517 |
 | NA | 1292 |
 
 
@@ -15543,6 +16578,7 @@ U131_5_2:SKJEMA3E; (U128_5_2:SKJEMA3C); (U128_5_2:SKJEMA3B); (U116_5_2:SKJEMA3A)
 | Painful/difficult | 1057 |
 | Very painful/difficult | 514 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2526 |
 | NA | 91283 |
 
 
@@ -15555,6 +16591,7 @@ U131_6_1:SKJEMA3E; (U128_6_1:SKJEMA3C); (U128_6_1:SKJEMA3B); (U116_6_1:SKJEMA3A)
 | Yes | 15227 |
 | No | 76987 |
 | More than 1 check box filled in | 7 |
+| Not NA | 92221 |
 | NA | 1588 |
 
 
@@ -15568,6 +16605,7 @@ U131_6_2:SKJEMA3E; (U128_6_2:SKJEMA3C); (U128_6_2:SKJEMA3B); (U116_6_2:SKJEMA3A)
 | Not so bad | 3566 |
 | Very painful/difficult | 3923 |
 | More than 1 check box filled in | 16 |
+| Not NA | 14530 |
 | NA | 79279 |
 
 
@@ -15580,6 +16618,7 @@ U131_7_1:SKJEMA3E; (U128_7_1:SKJEMA3C); (U128_7_1:SKJEMA3B); (U116_7_1:SKJEMA3A)
 | No | 92070 |
 | Yes | 845 |
 | More than 1 check box filled in | 2 |
+| Not NA | 92917 |
 | NA | 892 |
 
 
@@ -15592,6 +16631,7 @@ U131_7_2:SKJEMA3E; (U128_7_2:SKJEMA3C); (U128_7_2:SKJEMA3B); (U116_7_2:SKJEMA3A)
 | Painful/difficult | 260 |
 | Not so bad | 463 |
 | Very painful/difficult | 145 |
+| Not NA | 868 |
 | NA | 92941 |
 
 
@@ -15604,6 +16644,7 @@ U131_8_1:SKJEMA3E; (U128_8_1:SKJEMA3C); (U128_8_1:SKJEMA3B); (U116_8_1:SKJEMA3A)
 | No | 81995 |
 | Yes | 10667 |
 | More than 1 check box filled in | 13 |
+| Not NA | 92675 |
 | NA | 1134 |
 
 
@@ -15617,6 +16658,7 @@ U131_8_2:SKJEMA3E; (U128_8_2:SKJEMA3C); (U128_8_2:SKJEMA3B); (U116_8_2:SKJEMA3A)
 | Very painful/difficult | 3597 |
 | Painful/difficult | 4291 |
 | More than 1 check box filled in | 18 |
+| Not NA | 9810 |
 | NA | 83999 |
 
 
@@ -15629,6 +16671,7 @@ U131_9_1:SKJEMA3E; (U128_9_1:SKJEMA3C); (U128_9_1:SKJEMA3B); (U116_9_1:SKJEMA3A)
 | No | 56186 |
 | Yes | 2463 |
 | More than 1 check box filled in | 2 |
+| Not NA | 58651 |
 | NA | 35158 |
 
 
@@ -15642,6 +16685,7 @@ U131_9_2:SKJEMA3E; (U128_9_2:SKJEMA3C); (U128_9_2:SKJEMA3B); (U116_9_2:SKJEMA3A)
 | Painful/difficult | 1385 |
 | Not so bad | 384 |
 | More than 1 check box filled in | 8 |
+| Not NA | 2785 |
 | NA | 91024 |
 
 
@@ -15652,6 +16696,7 @@ U132_1_1:SKJEMA3E; (U129_1_1:SKJEMA3C); (U129_1_1:SKJEMA3B); (U117_1_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 72595 |
+| Not NA | 72595 |
 | NA | 21214 |
 
 
@@ -15662,6 +16707,7 @@ U132_1_2:SKJEMA3E; (U129_1_2:SKJEMA3C); (U129_1_2:SKJEMA3B); (U117_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 11010 |
+| Not NA | 11010 |
 | NA | 82799 |
 
 
@@ -15672,6 +16718,7 @@ U132_1_3:SKJEMA3E; (U129_1_3:SKJEMA3C); (U129_1_3:SKJEMA3B); (U117_1_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 11299 |
+| Not NA | 11299 |
 | NA | 82510 |
 
 
@@ -15682,6 +16729,7 @@ U132_1_4:SKJEMA3E; (U129_1_4:SKJEMA3C); (U129_1_4:SKJEMA3B); (U117_1_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1013 |
+| Not NA | 1013 |
 | NA | 92796 |
 
 
@@ -15692,6 +16740,7 @@ U132_1_5:SKJEMA3E; (U129_1_5:SKJEMA3C); (U129_1_5:SKJEMA3B); (U117_1_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5891 |
+| Not NA | 5891 |
 | NA | 87918 |
 
 
@@ -15702,6 +16751,7 @@ U132_1_6:SKJEMA3E; (U129_1_6:SKJEMA3C); (U129_1_6:SKJEMA3B); (U117_1_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 13857 |
+| Not NA | 13857 |
 | NA | 79952 |
 
 
@@ -15714,6 +16764,7 @@ U132_1_7:SKJEMA3E; (U129_1_7:SKJEMA3C); (U129_1_7:SKJEMA3B); (U117_1_7:SKJEMA3A)
 | No | 17545 |
 | Yes | 2986 |
 | More than 1 check box filled in | 10 |
+| Not NA | 20541 |
 | NA | 73268 |
 
 
@@ -15724,6 +16775,7 @@ U132_2_1:SKJEMA3E; (U129_2_1:SKJEMA3C); (U129_2_1:SKJEMA3B); (U117_2_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 82239 |
+| Not NA | 82239 |
 | NA | 11570 |
 
 
@@ -15734,6 +16786,7 @@ U132_2_2:SKJEMA3E; (U129_2_2:SKJEMA3C); (U129_2_2:SKJEMA3B); (U117_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3970 |
+| Not NA | 3970 |
 | NA | 89839 |
 
 
@@ -15744,6 +16797,7 @@ U132_2_3:SKJEMA3E; (U129_2_3:SKJEMA3C); (U129_2_3:SKJEMA3B); (U117_2_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 7100 |
+| Not NA | 7100 |
 | NA | 86709 |
 
 
@@ -15754,6 +16808,7 @@ U132_2_4:SKJEMA3E; (U129_2_4:SKJEMA3C); (U129_2_4:SKJEMA3B); (U117_2_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1772 |
+| Not NA | 1772 |
 | NA | 92037 |
 
 
@@ -15764,6 +16819,7 @@ U132_2_5:SKJEMA3E; (U129_2_5:SKJEMA3C); (U129_2_5:SKJEMA3B); (U117_2_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2864 |
+| Not NA | 2864 |
 | NA | 90945 |
 
 
@@ -15774,6 +16830,7 @@ U132_2_6:SKJEMA3E; (U129_2_6:SKJEMA3C); (U129_2_6:SKJEMA3B); (U117_2_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5969 |
+| Not NA | 5969 |
 | NA | 87840 |
 
 
@@ -15786,6 +16843,7 @@ U132_2_7:SKJEMA3E; (U129_2_7:SKJEMA3C); (U129_2_7:SKJEMA3B); (U117_2_7:SKJEMA3A)
 | No | 9949 |
 | Yes | 1407 |
 | More than 1 check box filled in | 3 |
+| Not NA | 11359 |
 | NA | 82450 |
 
 
@@ -15796,6 +16854,7 @@ U132_3_1:SKJEMA3E; (U129_3_1:SKJEMA3C); (U129_3_1:SKJEMA3B); (U117_3_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 83110 |
+| Not NA | 83110 |
 | NA | 10699 |
 
 
@@ -15806,6 +16865,7 @@ U132_3_2:SKJEMA3E; (U129_3_2:SKJEMA3C); (U129_3_2:SKJEMA3B); (U117_3_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4990 |
+| Not NA | 4990 |
 | NA | 88819 |
 
 
@@ -15816,6 +16876,7 @@ U132_3_3:SKJEMA3E; (U129_3_3:SKJEMA3C); (U129_3_3:SKJEMA3B); (U117_3_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5140 |
+| Not NA | 5140 |
 | NA | 88669 |
 
 
@@ -15826,6 +16887,7 @@ U132_3_4:SKJEMA3E; (U129_3_4:SKJEMA3C); (U129_3_4:SKJEMA3B); (U117_3_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1450 |
+| Not NA | 1450 |
 | NA | 92359 |
 
 
@@ -15836,6 +16898,7 @@ U132_3_5:SKJEMA3E; (U129_3_5:SKJEMA3C); (U129_3_5:SKJEMA3B); (U117_3_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3381 |
+| Not NA | 3381 |
 | NA | 90428 |
 
 
@@ -15846,6 +16909,7 @@ U132_3_6:SKJEMA3E; (U129_3_6:SKJEMA3C); (U129_3_6:SKJEMA3B); (U117_3_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4867 |
+| Not NA | 4867 |
 | NA | 88942 |
 
 
@@ -15858,6 +16922,7 @@ U132_3_7:SKJEMA3E; (U129_3_7:SKJEMA3C); (U129_3_7:SKJEMA3B); (U117_3_7:SKJEMA3A)
 | Yes | 458 |
 | No | 9706 |
 | More than 1 check box filled in | 1 |
+| Not NA | 10165 |
 | NA | 83644 |
 
 
@@ -15868,6 +16933,7 @@ U132_4_1:SKJEMA3E; (U129_4_1:SKJEMA3C); (U129_4_1:SKJEMA3B); (U117_4_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 81923 |
+| Not NA | 81923 |
 | NA | 11886 |
 
 
@@ -15878,6 +16944,7 @@ U132_4_2:SKJEMA3E; (U129_4_2:SKJEMA3C); (U129_4_2:SKJEMA3B); (U117_4_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6359 |
+| Not NA | 6359 |
 | NA | 87450 |
 
 
@@ -15888,6 +16955,7 @@ U132_4_3:SKJEMA3E; (U129_4_3:SKJEMA3C); (U129_4_3:SKJEMA3B); (U117_4_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5052 |
+| Not NA | 5052 |
 | NA | 88757 |
 
 
@@ -15898,6 +16966,7 @@ U132_4_4:SKJEMA3E; (U129_4_4:SKJEMA3C); (U129_4_4:SKJEMA3B); (U117_4_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1962 |
+| Not NA | 1962 |
 | NA | 91847 |
 
 
@@ -15908,6 +16977,7 @@ U132_4_5:SKJEMA3E; (U129_4_5:SKJEMA3C); (U129_4_5:SKJEMA3B); (U117_4_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2464 |
+| Not NA | 2464 |
 | NA | 91345 |
 
 
@@ -15918,6 +16988,7 @@ U132_4_6:SKJEMA3E; (U129_4_6:SKJEMA3C); (U129_4_6:SKJEMA3B); (U117_4_6:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 6666 |
+| Not NA | 6666 |
 | NA | 87143 |
 
 
@@ -15930,6 +17001,7 @@ U132_4_7:SKJEMA3E; (U129_4_7:SKJEMA3C); (U129_4_7:SKJEMA3B); (U117_4_7:SKJEMA3A)
 | Yes | 194 |
 | No | 11482 |
 | More than 1 check box filled in | 3 |
+| Not NA | 11679 |
 | NA | 82130 |
 
 
@@ -15940,6 +17012,7 @@ U133_1_1:SKJEMA3E; (U130_1_1:SKJEMA3C); (U130_1_1:SKJEMA3B); (U120_1_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 20061 |
+| Not NA | 20061 |
 | NA | 73748 |
 
 
@@ -15950,6 +17023,7 @@ U133_1_2:SKJEMA3E; (U130_1_2:SKJEMA3C); (U130_1_2:SKJEMA3B); (U120_1_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2625 |
+| Not NA | 2625 |
 | NA | 91184 |
 
 
@@ -15960,6 +17034,7 @@ U133_1_3:SKJEMA3E; (U130_1_3:SKJEMA3C); (U130_1_3:SKJEMA3B); (U120_1_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 7216 |
+| Not NA | 7216 |
 | NA | 86593 |
 
 
@@ -15970,6 +17045,7 @@ U133_1_4:SKJEMA3E; (U130_1_4:SKJEMA3C); (U130_1_4:SKJEMA3B); (U120_1_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 12069 |
+| Not NA | 12069 |
 | NA | 81740 |
 
 
@@ -15980,6 +17056,7 @@ U133_1_5:SKJEMA3E; (U130_1_5:SKJEMA3C); (U130_1_5:SKJEMA3B); (U120_1_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2132 |
+| Not NA | 2132 |
 | NA | 91677 |
 
 
@@ -15990,6 +17067,7 @@ U133_2_1:SKJEMA3E; (U130_2_1:SKJEMA3C); (U130_2_1:SKJEMA3B); (U120_2_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 7428 |
+| Not NA | 7428 |
 | NA | 86381 |
 
 
@@ -16000,6 +17078,7 @@ U133_2_2:SKJEMA3E; (U130_2_2:SKJEMA3C); (U130_2_2:SKJEMA3B); (U120_2_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1210 |
+| Not NA | 1210 |
 | NA | 92599 |
 
 
@@ -16010,6 +17089,7 @@ U133_2_3:SKJEMA3E; (U130_2_3:SKJEMA3C); (U130_2_3:SKJEMA3B); (U120_2_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2581 |
+| Not NA | 2581 |
 | NA | 91228 |
 
 
@@ -16020,6 +17100,7 @@ U133_2_4:SKJEMA3E; (U130_2_4:SKJEMA3C); (U130_2_4:SKJEMA3B); (U120_2_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 3166 |
+| Not NA | 3166 |
 | NA | 90643 |
 
 
@@ -16030,6 +17111,7 @@ U133_2_5:SKJEMA3E; (U130_2_5:SKJEMA3C); (U130_2_5:SKJEMA3B); (U120_2_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 528 |
+| Not NA | 528 |
 | NA | 93281 |
 
 
@@ -16040,6 +17122,7 @@ U133_3_1:SKJEMA3E; (U130_3_1:SKJEMA3C); (U130_3_1:SKJEMA3B); (U120_3_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 12006 |
+| Not NA | 12006 |
 | NA | 81803 |
 
 
@@ -16050,6 +17133,7 @@ U133_3_2:SKJEMA3E; (U130_3_2:SKJEMA3C); (U130_3_2:SKJEMA3B); (U120_3_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1682 |
+| Not NA | 1682 |
 | NA | 92127 |
 
 
@@ -16060,6 +17144,7 @@ U133_3_3:SKJEMA3E; (U130_3_3:SKJEMA3C); (U130_3_3:SKJEMA3B); (U120_3_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 4590 |
+| Not NA | 4590 |
 | NA | 89219 |
 
 
@@ -16070,6 +17155,7 @@ U133_3_4:SKJEMA3E; (U130_3_4:SKJEMA3C); (U130_3_4:SKJEMA3B); (U120_3_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8609 |
+| Not NA | 8609 |
 | NA | 85200 |
 
 
@@ -16080,6 +17166,7 @@ U133_3_5:SKJEMA3E; (U130_3_5:SKJEMA3C); (U130_3_5:SKJEMA3B); (U120_3_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2180 |
+| Not NA | 2180 |
 | NA | 91629 |
 
 
@@ -16090,6 +17177,7 @@ U133_4_1:SKJEMA3E; (U130_4_1:SKJEMA3C); (U130_4_1:SKJEMA3B); (U120_4_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 8014 |
+| Not NA | 8014 |
 | NA | 85795 |
 
 
@@ -16100,6 +17188,7 @@ U133_4_2:SKJEMA3E; (U130_4_2:SKJEMA3C); (U130_4_2:SKJEMA3B); (U120_4_2:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1145 |
+| Not NA | 1145 |
 | NA | 92664 |
 
 
@@ -16110,6 +17199,7 @@ U133_4_3:SKJEMA3E; (U130_4_3:SKJEMA3C); (U130_4_3:SKJEMA3B); (U120_4_3:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 2446 |
+| Not NA | 2446 |
 | NA | 91363 |
 
 
@@ -16120,6 +17210,7 @@ U133_4_4:SKJEMA3E; (U130_4_4:SKJEMA3C); (U130_4_4:SKJEMA3B); (U120_4_4:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 5025 |
+| Not NA | 5025 |
 | NA | 88784 |
 
 
@@ -16130,6 +17221,7 @@ U133_4_5:SKJEMA3E; (U130_4_5:SKJEMA3C); (U130_4_5:SKJEMA3B); (U120_4_5:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 1183 |
+| Not NA | 1183 |
 | NA | 92626 |
 
 
@@ -16140,6 +17232,7 @@ U134_1:SKJEMA3E; (U131_1:SKJEMA3C); (U131_1:SKJEMA3B); (U127_1:SKJEMA3A); No; 13
 | Category | n |
 | -------- | - |
 | 1 | 80669 |
+| Not NA | 80669 |
 | NA | 13140 |
 
 
@@ -16150,6 +17243,7 @@ U134_2:SKJEMA3E; (U131_2:SKJEMA3C); (U131_2:SKJEMA3B); (U127_2:SKJEMA3A); Do not
 | Category | n |
 | -------- | - |
 | 1 | 6330 |
+| Not NA | 6330 |
 | NA | 87479 |
 
 
@@ -16160,6 +17254,7 @@ U134_3:SKJEMA3E; (U131_3:SKJEMA3C); (U131_3:SKJEMA3B); (U127_3:SKJEMA3A); Yes in
 | Category | n |
 | -------- | - |
 | 1 | 3402 |
+| Not NA | 3402 |
 | NA | 90407 |
 
 
@@ -16170,6 +17265,7 @@ U134_4:SKJEMA3E; (U131_4:SKJEMA3C); (U131_4:SKJEMA3B); (U127_4:SKJEMA3A); Yes in
 | Category | n |
 | -------- | - |
 | 1 | 2099 |
+| Not NA | 2099 |
 | NA | 91710 |
 
 
@@ -16180,6 +17276,7 @@ U135_1:SKJEMA3E; (U132_1:SKJEMA3C); (U132_1:SKJEMA3B); (U128_1:SKJEMA3A); My sis
 | Category | n |
 | -------- | - |
 | 1 | 252 |
+| Not NA | 252 |
 | NA | 93557 |
 
 
@@ -16190,6 +17287,7 @@ U135_2:SKJEMA3E; (U132_2:SKJEMA3C); (U132_2:SKJEMA3B); (U128_2:SKJEMA3A); My bro
 | Category | n |
 | -------- | - |
 | 1 | 336 |
+| Not NA | 336 |
 | NA | 93473 |
 
 
@@ -16200,6 +17298,7 @@ U135_3_1:SKJEMA3E; (U132_3_1:SKJEMA3C); (U132_3_1:SKJEMA3B); (U128_3_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 162 |
+| Not NA | 162 |
 | NA | 93647 |
 
 
@@ -16210,6 +17309,7 @@ U135_3_2:SKJEMA3E; (U132_3_2:SKJEMA3C); (U132_3_2:SKJEMA3B); My sister`s child; 
 | Category | n |
 | -------- | - |
 | 1 | 102 |
+| Not NA | 102 |
 | NA | 93707 |
 
 
@@ -16220,6 +17320,7 @@ U135_3_3:SKJEMA3E; (U132_3_3:SKJEMA3C); (U132_3_3:SKJEMA3B); My sister`s child; 
 | Category | n |
 | -------- | - |
 | 1 | 88 |
+| Not NA | 88 |
 | NA | 93721 |
 
 
@@ -16230,6 +17331,7 @@ U135_4_1:SKJEMA3E; (U132_4_1:SKJEMA3C); (U132_4_1:SKJEMA3B); (U128_4_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 113 |
+| Not NA | 113 |
 | NA | 93696 |
 
 
@@ -16240,6 +17342,7 @@ U135_4_2:SKJEMA3E; (U132_4_2:SKJEMA3C); (U132_4_2:SKJEMA3B); My brother`s child;
 | Category | n |
 | -------- | - |
 | 1 | 63 |
+| Not NA | 63 |
 | NA | 93746 |
 
 
@@ -16250,6 +17353,7 @@ U135_4_3:SKJEMA3E; (U132_4_3:SKJEMA3C); (U132_4_3:SKJEMA3B); My brother`s child,
 | Category | n |
 | -------- | - |
 | 1 | 50 |
+| Not NA | 50 |
 | NA | 93759 |
 
 
@@ -16260,6 +17364,7 @@ U135_5_1:SKJEMA3E; (U132_5_1:SKJEMA3C); (U132_5_1:SKJEMA3B); (U128_5_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 803 |
+| Not NA | 803 |
 | NA | 93006 |
 
 
@@ -16270,6 +17375,7 @@ U135_5_2:SKJEMA3E; (U132_5_2:SKJEMA3C); (U132_5_2:SKJEMA3B); My mother`s sibling
 | Category | n |
 | -------- | - |
 | 1 | 419 |
+| Not NA | 419 |
 | NA | 93390 |
 
 
@@ -16280,6 +17386,7 @@ U135_5_3:SKJEMA3E; (U132_5_3:SKJEMA3C); (U132_5_3:SKJEMA3B); My mother`s sibling
 | Category | n |
 | -------- | - |
 | 1 | 343 |
+| Not NA | 343 |
 | NA | 93466 |
 
 
@@ -16290,6 +17397,7 @@ U135_5_4:SKJEMA3E; (U132_5_4:SKJEMA3C); (U132_5_4:SKJEMA3B); My mother`s sibling
 | Category | n |
 | -------- | - |
 | 1 | 54 |
+| Not NA | 54 |
 | NA | 93755 |
 
 
@@ -16300,6 +17408,7 @@ U135_6_1:SKJEMA3E; (U132_6_1:SKJEMA3C); (U132_6_1:SKJEMA3B); (U128_6_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 607 |
+| Not NA | 607 |
 | NA | 93202 |
 
 
@@ -16310,6 +17419,7 @@ U135_6_2:SKJEMA3E; (U132_6_2:SKJEMA3C); (U132_6_2:SKJEMA3B); My father`s sibling
 | Category | n |
 | -------- | - |
 | 1 | 363 |
+| Not NA | 363 |
 | NA | 93446 |
 
 
@@ -16320,6 +17430,7 @@ U135_6_3:SKJEMA3E; (U132_6_3:SKJEMA3C); (U132_6_3:SKJEMA3B); My father`s sibling
 | Category | n |
 | -------- | - |
 | 1 | 258 |
+| Not NA | 258 |
 | NA | 93551 |
 
 
@@ -16330,6 +17441,7 @@ U135_6_4:SKJEMA3E; (U132_6_4:SKJEMA3C); (U132_6_4:SKJEMA3B); My father`s sibling
 | Category | n |
 | -------- | - |
 | 1 | 52 |
+| Not NA | 52 |
 | NA | 93757 |
 
 
@@ -16340,6 +17452,7 @@ U135_7:SKJEMA3E; (U132_7:SKJEMA3C); (U132_7:SKJEMA3B); (U128_7:SKJEMA3A); Other;
 | Category | n |
 | -------- | - |
 | 1 | 1370 |
+| Not NA | 1370 |
 | NA | 92439 |
 
 
@@ -16350,6 +17463,7 @@ U136_1:SKJEMA3E; (U133_1:SKJEMA3C); (U133_1:SKJEMA3B); (U129_1:SKJEMA3A); The ba
 | Category | n |
 | -------- | - |
 | 1 | 307 |
+| Not NA | 307 |
 | NA | 93502 |
 
 
@@ -16360,6 +17474,7 @@ U136_2:SKJEMA3E; (U133_2:SKJEMA3C); (U133_2:SKJEMA3B); (U129_2:SKJEMA3A); The ba
 | Category | n |
 | -------- | - |
 | 1 | 405 |
+| Not NA | 405 |
 | NA | 93404 |
 
 
@@ -16370,6 +17485,7 @@ U136_3_1:SKJEMA3E; (U133_3_1:SKJEMA3C); (U133_3_1:SKJEMA3B); (U129_3_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 151 |
+| Not NA | 151 |
 | NA | 93658 |
 
 
@@ -16380,6 +17496,7 @@ U136_3_2:SKJEMA3E; (U133_3_2:SKJEMA3C); (U133_3_2:SKJEMA3B); The baby`s father`s
 | Category | n |
 | -------- | - |
 | 1 | 87 |
+| Not NA | 87 |
 | NA | 93722 |
 
 
@@ -16390,6 +17507,7 @@ U136_3_3:SKJEMA3E; (U133_3_3:SKJEMA3C); (U133_3_3:SKJEMA3B); The baby`s father`s
 | Category | n |
 | -------- | - |
 | 1 | 74 |
+| Not NA | 74 |
 | NA | 93735 |
 
 
@@ -16400,6 +17518,7 @@ U136_4_1:SKJEMA3E; (U133_4_1:SKJEMA3C); (U133_4_1:SKJEMA3B); (U129_4_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 118 |
+| Not NA | 118 |
 | NA | 93691 |
 
 
@@ -16410,6 +17529,7 @@ U136_4_2:SKJEMA3E; (U133_4_2:SKJEMA3C); (U133_4_2:SKJEMA3B); The baby`s father`s
 | Category | n |
 | -------- | - |
 | 1 | 71 |
+| Not NA | 71 |
 | NA | 93738 |
 
 
@@ -16420,6 +17540,7 @@ U136_4_3:SKJEMA3E; (U133_4_3:SKJEMA3C); (U133_4_3:SKJEMA3B); The baby`s father`s
 | Category | n |
 | -------- | - |
 | 1 | 51 |
+| Not NA | 51 |
 | NA | 93758 |
 
 
@@ -16430,6 +17551,7 @@ U136_5_1:SKJEMA3E; (U133_5_1:SKJEMA3C); (U133_5_1:SKJEMA3B); (U129_5_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 321 |
+| Not NA | 321 |
 | NA | 93488 |
 
 
@@ -16440,6 +17562,7 @@ U136_5_2:SKJEMA3E; (U133_5_2:SKJEMA3C); (U133_5_2:SKJEMA3B); Baby`s paternal gra
 | Category | n |
 | -------- | - |
 | 1 | 171 |
+| Not NA | 171 |
 | NA | 93638 |
 
 
@@ -16450,6 +17573,7 @@ U136_5_3:SKJEMA3E; (U133_5_3:SKJEMA3C); (U133_5_3:SKJEMA3B); Baby`s paternal gra
 | Category | n |
 | -------- | - |
 | 1 | 129 |
+| Not NA | 129 |
 | NA | 93680 |
 
 
@@ -16460,6 +17584,7 @@ U136_5_4:SKJEMA3E; (U133_5_4:SKJEMA3C); (U133_5_4:SKJEMA3B); Baby`s paternal gra
 | Category | n |
 | -------- | - |
 | 1 | 41 |
+| Not NA | 41 |
 | NA | 93768 |
 
 
@@ -16470,6 +17595,7 @@ U136_6_1:SKJEMA3E; (U133_6_1:SKJEMA3C); (U133_6_1:SKJEMA3B); (U129_6_1:SKJEMA3A)
 | Category | n |
 | -------- | - |
 | 1 | 253 |
+| Not NA | 253 |
 | NA | 93556 |
 
 
@@ -16480,6 +17606,7 @@ U136_6_2:SKJEMA3E; (U133_6_2:SKJEMA3C); (U133_6_2:SKJEMA3B); Baby`s paternal gra
 | Category | n |
 | -------- | - |
 | 1 | 145 |
+| Not NA | 145 |
 | NA | 93664 |
 
 
@@ -16490,6 +17617,7 @@ U136_6_3:SKJEMA3E; (U133_6_3:SKJEMA3C); (U133_6_3:SKJEMA3B); Baby`s paternal gra
 | Category | n |
 | -------- | - |
 | 1 | 85 |
+| Not NA | 85 |
 | NA | 93724 |
 
 
@@ -16500,6 +17628,7 @@ U136_6_4:SKJEMA3E; (U133_6_4:SKJEMA3C); (U133_6_4:SKJEMA3B); Baby`s paternal gra
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 93775 |
 
 
@@ -16510,6 +17639,7 @@ U136_7:SKJEMA3E; (U133_7:SKJEMA3C); (U133_7:SKJEMA3B); (U129_7:SKJEMA3A); Other;
 | Category | n |
 | -------- | - |
 | 1 | 635 |
+| Not NA | 635 |
 | NA | 93174 |
 
 
@@ -16521,6 +17651,7 @@ U128_3_2:SKJEMA3A; My sister
 | -------- | - |
 | Girl | 4 |
 | Boy | 5 |
+| Not NA | 9 |
 | NA | 93800 |
 
 
@@ -16532,6 +17663,7 @@ U128_4_2:SKJEMA3A; My brother
 | -------- | - |
 | Girl | 2 |
 | Boy | 1 |
+| Not NA | 3 |
 | NA | 93806 |
 
 
@@ -16545,6 +17677,7 @@ U128_5_2:SKJEMA3A; My mother
 | Boy | 21 |
 | Sex unknown | 2 |
 | 0 | 2 |
+| Not NA | 43 |
 | NA | 93766 |
 
 
@@ -16557,6 +17690,7 @@ U128_6_2:SKJEMA3A; My father
 | Girl | 15 |
 | Boy | 8 |
 | 0 | 1 |
+| Not NA | 24 |
 | NA | 93785 |
 
 
@@ -16568,6 +17702,7 @@ U129_3_2:SKJEMA3A; Baby
 | -------- | - |
 | Boy | 8 |
 | Girl | 6 |
+| Not NA | 14 |
 | NA | 93795 |
 
 
@@ -16580,6 +17715,7 @@ U129_4_2:SKJEMA3A; Baby
 | Boy | 3 |
 | Girl | 4 |
 | 0 | 1 |
+| Not NA | 8 |
 | NA | 93801 |
 
 
@@ -16592,6 +17728,7 @@ U129_5_2:SKJEMA3A; Baby
 | Boy | 10 |
 | Sex unknown | 4 |
 | Girl | 6 |
+| Not NA | 20 |
 | NA | 93789 |
 
 
@@ -16603,6 +17740,7 @@ U129_6_2:SKJEMA3A; Baby
 | -------- | - |
 | Boy | 12 |
 | Girl | 5 |
+| Not NA | 17 |
 | NA | 93792 |
 
 
@@ -16615,6 +17753,7 @@ U137:SKJEMA3E; (U134:SKJEMA3C); (U134:SKJEMA3B); (U121:SKJEMA3A); ; . Have you e
 | No | 87813 |
 | Yes | 2544 |
 | More than 1 check box filled in | 13 |
+| Not NA | 90370 |
 | NA | 3439 |
 
 
@@ -16625,6 +17764,7 @@ U138_1:SKJEMA3E; (U135_1:SKJEMA3C); (U135_1:SKJEMA3B); Stillbirth (Birth after t
 | Category | n |
 | -------- | - |
 | 1 | 1138 |
+| Not NA | 1138 |
 | NA | 92671 |
 
 
@@ -16635,6 +17775,7 @@ U138_2:SKJEMA3E; (U135_2:SKJEMA3C); (U135_2:SKJEMA3B); Cot death; 138. If yes, w
 | Category | n |
 | -------- | - |
 | 1 | 69 |
+| Not NA | 69 |
 | NA | 93740 |
 
 
@@ -16645,6 +17786,7 @@ U138_3:SKJEMA3E; (U135_3:SKJEMA3C); (U135_3:SKJEMA3B); Accident; 138. If yes, wh
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 93770 |
 
 
@@ -16655,6 +17797,7 @@ U138_4:SKJEMA3E; (U135_4:SKJEMA3C); (U135_4:SKJEMA3B); Illness/birth defect; 138
 | Category | n |
 | -------- | - |
 | 1 | 467 |
+| Not NA | 467 |
 | NA | 93342 |
 
 
@@ -16665,6 +17808,7 @@ U138_6:SKJEMA3E; (U135_6:SKJEMA3C); (U135_6:SKJEMA3B); Other; 138. If yes, what 
 | Category | n |
 | -------- | - |
 | 1 | 896 |
+| Not NA | 896 |
 | NA | 92913 |
 
 
@@ -16681,6 +17825,7 @@ U139_1_1:SKJEMA3E; (U136_1_1:SKJEMA3C); (U136_1_1:SKJEMA3B); (U123_1_1:SKJEMA3A)
 | 3rd Qu. | 5 |
 | Max. | 70 |
 | NA's | 92495 |
+| Not NA | 1314 |
 
 
 ### CC1351
@@ -16696,6 +17841,7 @@ U139_1_2:SKJEMA3E; (U136_1_2:SKJEMA3C); (U136_1_2:SKJEMA3B); (U123_1_2:SKJEMA3A)
 | 3rd Qu. | 15 |
 | Max. | 99 |
 | NA's | 93129 |
+| Not NA | 680 |
 
 
 ### CC1352
@@ -16721,6 +17867,7 @@ U139_2_1:SKJEMA3E; (U136_2_1:SKJEMA3C); (U136_2_1:SKJEMA3B); (U123_2_1:SKJEMA3A)
 | 12 | 1 |
 | 20 | 2 |
 | 30 | 1 |
+| Not NA | 920 |
 | NA | 92889 |
 
 
@@ -16737,6 +17884,7 @@ U139_2_2:SKJEMA3E; (U136_2_2:SKJEMA3C); (U136_2_2:SKJEMA3B); (U123_2_2:SKJEMA3A)
 | 3rd Qu. | 20 |
 | Max. | 99 |
 | NA's | 93184 |
+| Not NA | 625 |
 
 
 ### CC1354
@@ -16752,6 +17900,7 @@ U139_3_1:SKJEMA3E; (U136_3_1:SKJEMA3C); (U136_3_1:SKJEMA3B); (U123_3_1:SKJEMA3A)
 | 3rd Qu. | 12 |
 | Max. | 92 |
 | NA's | 92812 |
+| Not NA | 997 |
 
 
 ### CC1355
@@ -16767,6 +17916,7 @@ U139_3_2:SKJEMA3E; (U136_3_2:SKJEMA3C); (U136_3_2:SKJEMA3B); (U123_3_2:SKJEMA3A)
 | 3rd Qu. | 26 |
 | Max. | 99 |
 | NA's | 93259 |
+| Not NA | 550 |
 
 
 ### CC1356
@@ -16781,6 +17931,7 @@ U140:SKJEMA3E; (U137:SKJEMA3C); (U137:SKJEMA3B); (U124:SKJEMA3A); ; . Do you fee
 | Good enough | 682 |
 | Poor | 179 |
 | More than 1 check box filled in | 38 |
+| Not NA | 2228 |
 | NA | 91581 |
 
 
@@ -16795,6 +17946,7 @@ U141:SKJEMA3E; (U138:SKJEMA3C); (U138:SKJEMA3B); (U125:SKJEMA3A); ; . Has the de
 | Yes, to a fair extent | 925 |
 | No, not at all | 194 |
 | More than 1 check box filled in | 3 |
+| Not NA | 2435 |
 | NA | 91374 |
 
 
@@ -16808,6 +17960,7 @@ U142:SKJEMA3E; (U139:SKJEMA3C); (U139:SKJEMA3B); (U126:SKJEMA3A); ; . Do you fee
 | No, not at all | 411 |
 | Yes, to a fair extent | 882 |
 | More than 1 check box filled in | 2 |
+| Not NA | 2391 |
 | NA | 91418 |
 
 
@@ -16822,6 +17975,7 @@ U122_1:SKJEMA3A; ; 122. If yes, what was the cause of death and when did the dea
 | 0 | 3 |
 | Accident | 3 |
 | Cot death | 1 |
+| Not NA | 70 |
 | NA | 93739 |
 
 
@@ -16838,6 +17992,7 @@ ALDERUTSENDT:SKJEMA3E; (ALDERUTSENDT:SKJEMA3C); (ALDERUTSENDT:SKJEMA3B); (ALDERU
 | 3rd Qu. | -65 |
 | Max. | 136 |
 | NA's | 19 |
+| Not NA | 93790 |
 
 
 ### ALDERUTFYLT_S3
@@ -16853,6 +18008,7 @@ ALDERUTFYLT:SKJEMA3E; (ALDERUTFYLT:SKJEMA3C); (ALDERUTFYLT:SKJEMA3B); (ALDERUTFY
 | 3rd Qu. | -56 |
 | Max. | 700 |
 | NA's | 1748 |
+| Not NA | 92061 |
 
 
 ### ALDERRETUR_S3
@@ -16868,6 +18024,7 @@ ALDERRETUR:SKJEMA3E; (ALDERRETUR:SKJEMA3C); (ALDERRETUR:SKJEMA3B); (ALDERRETUR:S
 | 3rd Qu. | -46 |
 | Max. | 2112 |
 | NA's | 19 |
+| Not NA | 93790 |
 
 
 ### Q3P1
@@ -16882,6 +18039,7 @@ Q3P1:SKJEMA3E; (Q3P1:SKJEMA3C); (Q3P1:SKJEMA3B); (Q3P1:SKJEMA3A); Number of answ
 | Mean | 12.9207965120617 |
 | 3rd Qu. | 15 |
 | Max. | 27 |
+| Not NA | 93809 |
 
 
 ### Q3P2
@@ -16896,6 +18054,7 @@ Q3P2:SKJEMA3E; (Q3P2:SKJEMA3C); (Q3P2:SKJEMA3B); (Q3P2:SKJEMA3A); Number of answ
 | Mean | 18.9192294982358 |
 | 3rd Qu. | 20 |
 | Max. | 37 |
+| Not NA | 93809 |
 
 
 ### Q3P3
@@ -16910,6 +18069,7 @@ Q3P3:SKJEMA3E; (Q3P3:SKJEMA3C); (Q3P3:SKJEMA3B); (Q3P3:SKJEMA3A); Number of answ
 | Mean | 28.2148621134433 |
 | 3rd Qu. | 32 |
 | Max. | 69 |
+| Not NA | 93809 |
 
 
 ### Q3P4
@@ -16924,6 +18084,7 @@ Q3P4:SKJEMA3E; (Q3P4:SKJEMA3C); (Q3P4:SKJEMA3B); (Q3P4:SKJEMA3A); Number of answ
 | Mean | 15.2994275602554 |
 | 3rd Qu. | 17 |
 | Max. | 29 |
+| Not NA | 93809 |
 
 
 ### Q3P5
@@ -16938,6 +18099,7 @@ Q3P5:SKJEMA3E; (Q3P5:SKJEMA3C); (Q3P5:SKJEMA3B); (Q3P5:SKJEMA3A); Number of answ
 | Mean | 9.0635546695946 |
 | 3rd Qu. | 12 |
 | Max. | 84 |
+| Not NA | 93809 |
 
 
 ### Q3P6
@@ -16952,6 +18114,7 @@ Q3P6:SKJEMA3E; (Q3P6:SKJEMA3C); (Q3P6:SKJEMA3B); (Q3P6:SKJEMA3A); Number of answ
 | Mean | 9.21188798516134 |
 | 3rd Qu. | 12 |
 | Max. | 153 |
+| Not NA | 93809 |
 
 
 ### Q3P7
@@ -16966,6 +18129,7 @@ Q3P7:SKJEMA3E; (Q3P7:SKJEMA3C); (Q3P7:SKJEMA3B); (Q3P7:SKJEMA3A); Number of answ
 | Mean | 33.773785031287 |
 | 3rd Qu. | 51 |
 | Max. | 148 |
+| Not NA | 93809 |
 
 
 ### Q3P8
@@ -16980,6 +18144,7 @@ Q3P8:SKJEMA3E; (Q3P8:SKJEMA3C); (Q3P8:SKJEMA3B); (Q3P8:SKJEMA3A); Number of answ
 | Mean | 12.861580445373 |
 | 3rd Qu. | 15 |
 | Max. | 46 |
+| Not NA | 93809 |
 
 
 ### Q3P9
@@ -16994,6 +18159,7 @@ Q3P9:SKJEMA3E; (Q3P9:SKJEMA3C); (Q3P9:SKJEMA3B); (Q3P9:SKJEMA3A); Number of answ
 | Mean | 15.0612840985407 |
 | 3rd Qu. | 18 |
 | Max. | 53 |
+| Not NA | 93809 |
 
 
 ### Q3P10
@@ -17008,6 +18174,7 @@ Q3P10:SKJEMA3E; (Q3P10:SKJEMA3C); (Q3P10:SKJEMA3B); (Q3P10:SKJEMA3A); Number of 
 | Mean | 25.1426515579529 |
 | 3rd Qu. | 29 |
 | Max. | 43 |
+| Not NA | 93809 |
 
 
 ### Q3P11
@@ -17022,6 +18189,7 @@ Q3P11:SKJEMA3E; (Q3P11:SKJEMA3C); (Q3P11:SKJEMA3B); (Q3P11:SKJEMA3A); Number of 
 | Mean | 24.7495016469635 |
 | 3rd Qu. | 27 |
 | Max. | 50 |
+| Not NA | 93809 |
 
 
 ### Q3P12
@@ -17036,6 +18204,7 @@ Q3P12:SKJEMA3E; (Q3P12:SKJEMA3C); (Q3P12:SKJEMA3B); (Q3P12:SKJEMA3A); Number of 
 | Mean | 43.1209692033813 |
 | 3rd Qu. | 50 |
 | Max. | 60 |
+| Not NA | 93809 |
 
 
 ### Q3P13
@@ -17050,6 +18219,7 @@ Q3P13:SKJEMA3E; (Q3P13:SKJEMA3C); (Q3P13:SKJEMA3B); (Q3P13:SKJEMA3A); Number of 
 | Mean | 21.907205065612 |
 | 3rd Qu. | 26 |
 | Max. | 43 |
+| Not NA | 93809 |
 
 
 ### Q3P14
@@ -17064,6 +18234,7 @@ Q3P14:SKJEMA3E; (Q3P14:SKJEMA3C); (Q3P14:SKJEMA3B); (Q3P14:SKJEMA3A); Number of 
 | Mean | 35.8612499866751 |
 | 3rd Qu. | 38 |
 | Max. | 38 |
+| Not NA | 93809 |
 
 
 ### Q3P15
@@ -17079,6 +18250,7 @@ Q3P15:SKJEMA3E; (Q3P15:SKJEMA3C); (Q3P15:SKJEMA3B); (Q3P15:SKJEMA3A); Number of 
 | 3rd Qu. | 27 |
 | Max. | 52 |
 | NA's | 4425 |
+| Not NA | 89384 |
 
 
 ### Q3P16
@@ -17105,6 +18277,7 @@ Q3P16:SKJEMA3E; (Q3P16:SKJEMA3C); (Q3P16:SKJEMA3B); (Q3P16:SKJEMA3A); Number of 
 | 15 | 18 |
 | 17 | 8 |
 | 16 | 5 |
+| Not NA | 89384 |
 | NA | 4425 |
 
 

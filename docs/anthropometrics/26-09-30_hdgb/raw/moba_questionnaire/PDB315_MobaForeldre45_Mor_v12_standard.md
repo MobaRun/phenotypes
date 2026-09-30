@@ -72,6 +72,7 @@
 | MOBA45MOR_BBM | 23213 |
 | MOBA45MOR_A | 699 |
 | MOBA45MOR_BNN | 1864 |
+| Not NA | 25776 |
 | NA | 0 |
 
 
@@ -92,6 +93,7 @@ QFOR45K_1:MOBA45MOR_BNN; (QFOR45K_1:MOBA45MOR_BBM); (QFOR45K_1:MOBA45MOR_A); ; 1
 | 8 BARN | 24 |
 | 10 ELLER FLERE BARN | 7 |
 | 0 BARN | 2 |
+| Not NA | 25765 |
 | NA | 11 |
 
 
@@ -112,6 +114,7 @@ QFOR45K_2:MOBA45MOR_BNN; (QFOR45K_2:MOBA45MOR_BBM); (QFOR45K_2:MOBA45MOR_A); ; 2
 | 10 ELLER FLERE BARN | 6 |
 | 8 BARN | 14 |
 | 0 BARN | 18 |
+| Not NA | 25719 |
 | NA | 57 |
 
 
@@ -126,6 +129,7 @@ QFOR45K_3:MOBA45MOR_BNN; (QFOR45K_3:MOBA45MOR_BBM); (QFOR45K_3:MOBA45MOR_A); ; 3
 | 1 BARN | 116 |
 | 3 BARN | 9 |
 | 4 BARN | 4 |
+| Not NA | 25442 |
 | NA | 334 |
 
 
@@ -143,6 +147,7 @@ QFOR45K_4:MOBA45MOR_BNN; (QFOR45K_4:MOBA45MOR_BBM); (QFOR45K_4:MOBA45MOR_A); ; 4
 | 5 BARN | 27 |
 | 6 BARN | 7 |
 | 7 BARN | 2 |
+| Not NA | 25659 |
 | NA | 117 |
 
 
@@ -162,6 +167,7 @@ QFOR45K_5:MOBA45MOR_BNN; (QFOR45K_5:MOBA45MOR_BBM); (QFOR45K_5:MOBA45MOR_A); ; 5
 | 9 GANGER | 59 |
 | 10 ELLER FLERE GANGER | 115 |
 | 8 GANGER | 165 |
+| Not NA | 25767 |
 | NA | 9 |
 
 
@@ -182,6 +188,7 @@ QFOR45K_6:MOBA45MOR_BNN; (QFOR45K_6:MOBA45MOR_BBM); (QFOR45K_6:MOBA45MOR_A); ; 6
 | 9 | 5 |
 | 10 ELLER FLERE | 4 |
 | 8 | 13 |
+| Not NA | 25740 |
 | NA | 36 |
 
 
@@ -198,6 +205,7 @@ QFOR45K_7:MOBA45MOR_BNN; (QFOR45K_7:MOBA45MOR_BBM); (QFOR45K_7:MOBA45MOR_A); ; 7
 | 4 | 7 |
 | 6 | 1 |
 | 7 | 1 |
+| Not NA | 25550 |
 | NA | 226 |
 
 
@@ -218,6 +226,7 @@ QFOR45K_8:MOBA45MOR_BNN; (QFOR45K_8:MOBA45MOR_BBM); (QFOR45K_8:MOBA45MOR_A); ; 8
 | 9 | 9 |
 | 10 ELLER FLERE | 20 |
 | 8 | 8 |
+| Not NA | 25584 |
 | NA | 192 |
 
 
@@ -231,6 +240,7 @@ QFOR45K_9:MOBA45MOR_A; ; 9. HVOR MANGE AV DISSE SVANGERSKAPENE ENDTE I EN ELEKTI
 | 1 | 109 |
 | 2 | 19 |
 | 3 | 5 |
+| Not NA | 688 |
 | NA | 25088 |
 
 
@@ -242,6 +252,7 @@ QFOR45K10:MOBA45MOR_BNN; (QFOR45K10:MOBA45MOR_BBM); (QFOR45K10:MOBA45MOR_A); ; 1
 | -------- | - |
 | NEI | 19948 |
 | JA | 5821 |
+| Not NA | 25769 |
 | NA | 7 |
 
 
@@ -252,6 +263,7 @@ QFOR45K11_1_1:MOBA45MOR_BNN; (QFOR45K11_1_1:MOBA45MOR_BBM); (QFOR45K11_1_1:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 23024 |
+| Not NA | 23024 |
 | NA | 2752 |
 
 
@@ -262,6 +274,7 @@ QFOR45K11_1_2:MOBA45MOR_BNN; (QFOR45K11_1_2:MOBA45MOR_BBM); (QFOR45K11_1_2:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 1175 |
+| Not NA | 1175 |
 | NA | 24601 |
 
 
@@ -272,6 +285,7 @@ QFOR45K11_1_3:MOBA45MOR_BNN; (QFOR45K11_1_3:MOBA45MOR_BBM); (QFOR45K11_1_3:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 184 |
+| Not NA | 184 |
 | NA | 25592 |
 
 
@@ -282,6 +296,7 @@ QFOR45K11_1_4:MOBA45MOR_BNN; (QFOR45K11_1_4:MOBA45MOR_BBM); (QFOR45K11_1_4:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 1134 |
+| Not NA | 1134 |
 | NA | 24642 |
 
 
@@ -292,6 +307,7 @@ QFOR45K11_1_5:MOBA45MOR_BNN; (QFOR45K11_1_5:MOBA45MOR_BBM); (QFOR45K11_1_5:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 514 |
+| Not NA | 514 |
 | NA | 25262 |
 
 
@@ -302,6 +318,7 @@ QFOR45K11_2_1:MOBA45MOR_A; VI BRUKTE EGNE EGG OG DONOR SÆD: DERSOM DU HAR GJENN
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 25766 |
 
 
@@ -311,6 +328,7 @@ QFOR45K11_2_2:MOBA45MOR_A; VI BRUKTE KUN DONOR EGG: DERSOM DU HAR GJENNOMGÅTT P
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 25776 |
 
 
@@ -321,6 +339,7 @@ QFOR45K11_2_3:MOBA45MOR_A; VI BRUKTE KUN DONOR SÆD: DERSOM DU HAR GJENNOMGÅTT 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 25774 |
 
 
@@ -330,6 +349,7 @@ QFOR45K11_2_4:MOBA45MOR_A; VI BRUKTE BÅDE DONOR EGG OG SÆD: DERSOM DU HAR GJEN
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 25776 |
 
 
@@ -340,6 +360,7 @@ QFOR45K11_2_1:MOBA45MOR_BNN; (QFOR45K11_2_1:MOBA45MOR_BBM); Vi brukte eget egg o
 | Category | n |
 | -------- | - |
 | 1 | 1496 |
+| Not NA | 1496 |
 | NA | 24280 |
 
 
@@ -350,6 +371,7 @@ QFOR45K11_2_2:MOBA45MOR_BNN; (QFOR45K11_2_2:MOBA45MOR_BBM); Vi brukte donoregg o
 | Category | n |
 | -------- | - |
 | 1 | 29 |
+| Not NA | 29 |
 | NA | 25747 |
 
 
@@ -360,6 +382,7 @@ QFOR45K11_2_3:MOBA45MOR_BNN; (QFOR45K11_2_3:MOBA45MOR_BBM); Vi brukte donorsæd 
 | Category | n |
 | -------- | - |
 | 1 | 40 |
+| Not NA | 40 |
 | NA | 25736 |
 
 
@@ -370,6 +393,7 @@ QFOR45K11_2_4:MOBA45MOR_BNN; (QFOR45K11_2_4:MOBA45MOR_BBM); Vi brukte både dono
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 25774 |
 
 
@@ -386,6 +410,7 @@ QFOR45K12:MOBA45MOR_BNN; (QFOR45K12:MOBA45MOR_BBM); (QFOR45K12:MOBA45MOR_A); ; 1
 | 3rd Qu. | 80 |
 | Max. | 500 |
 | NA's | 171 |
+| Not NA | 25605 |
 
 
 ### LM30
@@ -397,6 +422,7 @@ QFOR45K13_1:MOBA45MOR_BNN; (QFOR45K13_1:MOBA45MOR_BBM); (QFOR45K13_1:MOBA45MOR_A
 | NEI | 23705 |
 | JA, AV OG TIL (IKKE HVER DAG) | 926 |
 | JA, DAGLIG | 1092 |
+| Not NA | 25723 |
 | NA | 53 |
 
 
@@ -413,6 +439,7 @@ QFOR45K13_2:MOBA45MOR_BNN; (QFOR45K13_2:MOBA45MOR_BBM); (QFOR45K13_2:MOBA45MOR_A
 | 3rd Qu. | 15 |
 | Max. | 35 |
 | NA's | 24694 |
+| Not NA | 1082 |
 
 
 ### LM32
@@ -428,6 +455,7 @@ QFOR45K13_3:MOBA45MOR_BNN; (QFOR45K13_3:MOBA45MOR_BBM); (QFOR45K13_3:MOBA45MOR_A
 | 3rd Qu. | 10 |
 | Max. | 100 |
 | NA's | 24866 |
+| Not NA | 910 |
 
 
 ### LM33
@@ -441,6 +469,7 @@ QFOR45K14_1:MOBA45MOR_BNN; (QFOR45K14_1:MOBA45MOR_BBM); (QFOR45K14_1:MOBA45MOR_A
 | 3-4 GANGER I UKEN | 1595 |
 | IKKE I DET HELE TATT | 4352 |
 | MER ENN 4 GANGER UKEN | 231 |
+| Not NA | 25731 |
 | NA | 45 |
 
 
@@ -455,6 +484,7 @@ QFOR45K14_2:MOBA45MOR_BNN; (QFOR45K14_2:MOBA45MOR_BBM); (QFOR45K14_2:MOBA45MOR_A
 | 1-2 GANGER I UKEN | 713 |
 | 3-4 GANGER I UKEN | 49 |
 | MER ENN 4 GANGER I UKEN | 9 |
+| Not NA | 21370 |
 | NA | 4406 |
 
 
@@ -467,6 +497,7 @@ QFOR45K15_1:MOBA45MOR_BNN; (QFOR45K15_1:MOBA45MOR_BBM); (QFOR45K15_1:MOBA45MOR_A
 | JA | 5713 |
 | NEI, JEG HAR IKKE HATT MENSTRUASJON DE SISTE 12 MÅNEDENE | 13343 |
 | NEI, DE HAR VÆRT UREGELMESSIGE | 6590 |
+| Not NA | 25646 |
 | NA | 130 |
 
 
@@ -477,6 +508,7 @@ QFOR45K15_2_1:MOBA45MOR_BNN; (QFOR45K15_2_1:MOBA45MOR_BBM); (QFOR45K15_2_1:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 25773 |
 
 
@@ -487,6 +519,7 @@ QFOR45K15_2_2:MOBA45MOR_BNN; (QFOR45K15_2_2:MOBA45MOR_BBM); (QFOR45K15_2_2:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 6017 |
+| Not NA | 6017 |
 | NA | 19759 |
 
 
@@ -497,6 +530,7 @@ QFOR45K15_2_3:MOBA45MOR_BNN; (QFOR45K15_2_3:MOBA45MOR_BBM); (QFOR45K15_2_3:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 1052 |
+| Not NA | 1052 |
 | NA | 24724 |
 
 
@@ -507,6 +541,7 @@ QFOR45K15_2_4:MOBA45MOR_BNN; (QFOR45K15_2_4:MOBA45MOR_BBM); (QFOR45K15_2_4:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 204 |
+| Not NA | 204 |
 | NA | 25572 |
 
 
@@ -517,6 +552,7 @@ QFOR45K15_2_5:MOBA45MOR_BNN; (QFOR45K15_2_5:MOBA45MOR_BBM); (QFOR45K15_2_5:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 163 |
+| Not NA | 163 |
 | NA | 25613 |
 
 
@@ -527,6 +563,7 @@ QFOR45K15_2_6:MOBA45MOR_BNN; (QFOR45K15_2_6:MOBA45MOR_BBM); (QFOR45K15_2_6:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 6493 |
+| Not NA | 6493 |
 | NA | 19283 |
 
 
@@ -537,6 +574,7 @@ QFOR45K15_2_7:MOBA45MOR_BNN; (QFOR45K15_2_7:MOBA45MOR_BBM); (QFOR45K15_2_7:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 303 |
+| Not NA | 303 |
 | NA | 25473 |
 
 
@@ -547,6 +585,7 @@ QFOR45K15_2_8:MOBA45MOR_BNN; (QFOR45K15_2_8:MOBA45MOR_BBM); (QFOR45K15_2_8:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 248 |
+| Not NA | 248 |
 | NA | 25528 |
 
 
@@ -563,6 +602,7 @@ QFOR45K15_3:MOBA45MOR_BNN; (QFOR45K15_3:MOBA45MOR_BBM); (QFOR45K15_3:MOBA45MOR_A
 | 3rd Qu. | 47 |
 | Max. | 2019 |
 | NA's | 24534 |
+| Not NA | 1242 |
 
 
 ### LM45
@@ -578,6 +618,7 @@ QFOR45K15_4:MOBA45MOR_BNN; (QFOR45K_15_4:MOBA45MOR_BBM); (QFOR45K_15_4:MOBA45MOR
 | 3rd Qu. | 50 |
 | Max. | 4247 |
 | NA's | 25411 |
+| Not NA | 365 |
 
 
 ### LM46
@@ -602,6 +643,7 @@ QFOR45K15_5:MOBA45MOR_BNN; (QFOR45K15_5:MOBA45MOR_BBM); (QFOR45K15_5:MOBA45MOR_A
 | 14 GANGER | 334 |
 | 2 GANGER | 546 |
 | 9 GANGER | 459 |
+| Not NA | 12198 |
 | NA | 13578 |
 
 
@@ -618,6 +660,7 @@ QFOR45K16_1:MOBA45MOR_A; Velg en dato.; 16. NÅR HADDE DU DIN SISTE MENSTRUASJON
 | 3rd Qu. | 13840610400 |
 | Max. | 45291052800 |
 | NA's | 25384 |
+| Not NA | 392 |
 
 
 ### LM48
@@ -627,6 +670,7 @@ QFOR45K16_2_1:MOBA45MOR_A; VET IKKE.; 16. NÅR HADDE DU DIN SISTE MENSTRUASJON?
 | Category | n |
 | -------- | - |
 | 1 | 317 |
+| Not NA | 317 |
 | NA | 25459 |
 
 
@@ -643,6 +687,7 @@ QFOR45K17:MOBA45MOR_BNN; (QFOR45K17:MOBA45MOR_BBM); (QFOR45K17:MOBA45MOR_A); ; 1
 | 3rd Qu. | 6 |
 | Max. | 2014 |
 | NA's | 3837 |
+| Not NA | 21939 |
 
 
 ### LM50
@@ -656,6 +701,7 @@ QFOR45K18:MOBA45MOR_BNN; (QFOR45K18:MOBA45MOR_BBM); (QFOR45K18:MOBA45MOR_A); ; 1
 | HVER DAG | 1209 |
 | 6-8 DAGER | 863 |
 | 9-13 DAGER | 622 |
+| Not NA | 25755 |
 | NA | 21 |
 
 
@@ -670,6 +716,7 @@ QFOR45K19:MOBA45MOR_BNN; (QFOR45K19:MOBA45MOR_BBM); (QFOR45K19:MOBA45MOR_A); ; 1
 | 6-8 DAGER | 685 |
 | 9-13 DAGER | 508 |
 | HVER DAG | 1166 |
+| Not NA | 25754 |
 | NA | 22 |
 
 
@@ -681,6 +728,7 @@ QFOR45K20_1:MOBA45MOR_BNN; (QFOR45K20_1:MOBA45MOR_BBM); (QFOR45K20_1:MOBA45MOR_A
 | -------- | - |
 | NEI | 1719 |
 | JA | 24037 |
+| Not NA | 25756 |
 | NA | 20 |
 
 
@@ -691,6 +739,7 @@ QFOR45K20_2_1:MOBA45MOR_BNN; (QFOR45K20_2_1:MOBA45MOR_BBM); (QFOR45K20_2_1:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 17271 |
+| Not NA | 17271 |
 | NA | 8505 |
 
 
@@ -701,6 +750,7 @@ QFOR45K20_2_2:MOBA45MOR_BNN; (QFOR45K20_2_2:MOBA45MOR_BBM); (QFOR45K20_2_2:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 4377 |
+| Not NA | 4377 |
 | NA | 21399 |
 
 
@@ -711,6 +761,7 @@ QFOR45K20_2_3:MOBA45MOR_BNN; (QFOR45K20_2_3:MOBA45MOR_BBM); (QFOR45K20_2_3:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 796 |
+| Not NA | 796 |
 | NA | 24980 |
 
 
@@ -721,6 +772,7 @@ QFOR45K20_2_4:MOBA45MOR_BNN; (QFOR45K20_2_4:MOBA45MOR_BBM); (QFOR45K20_2_4:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 376 |
+| Not NA | 376 |
 | NA | 25400 |
 
 
@@ -731,6 +783,7 @@ QFOR45K20_2_5:MOBA45MOR_BNN; (QFOR45K20_2_5:MOBA45MOR_BBM); (QFOR45K20_2_5:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 15450 |
+| Not NA | 15450 |
 | NA | 10326 |
 
 
@@ -741,6 +794,7 @@ QFOR45K20_2_6:MOBA45MOR_BNN; (QFOR45K20_2_6:MOBA45MOR_BBM); (QFOR45K20_2_6:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 686 |
+| Not NA | 686 |
 | NA | 25090 |
 
 
@@ -751,6 +805,7 @@ QFOR45K20_2_7:MOBA45MOR_BNN; (QFOR45K20_2_7:MOBA45MOR_BBM); (QFOR45K20_2_7:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 1022 |
+| Not NA | 1022 |
 | NA | 24754 |
 
 
@@ -765,6 +820,7 @@ QFOR45K20_3:MOBA45MOR_BNN; (QFOR45K20_3:MOBA45MOR_BBM); (QFOR45K20_3:MOBA45MOR_A
 | 6-10 ÅR | 4446 |
 | MER ENN 20 ÅR | 5766 |
 | 1-5 ÅR | 4332 |
+| Not NA | 23991 |
 | NA | 1785 |
 
 
@@ -776,6 +832,7 @@ QFOR45K21_1:MOBA45MOR_BNN; (QFOR45K21_1:MOBA45MOR_BBM); (QFOR45K21_1:MOBA45MOR_A
 | -------- | - |
 | NEI | 22013 |
 | JA | 3748 |
+| Not NA | 25761 |
 | NA | 15 |
 
 
@@ -790,6 +847,7 @@ QFOR45K21_2:MOBA45MOR_BNN; (QFOR45K21_2:MOBA45MOR_BBM); (QFOR45K21_2:MOBA45MOR_A
 | MINDRE ENN 1 ÅR | 1591 |
 | 5-6 ÅR | 269 |
 | MER ENN 6 ÅR | 270 |
+| Not NA | 3772 |
 | NA | 22004 |
 
 
@@ -801,6 +859,7 @@ QFOR45K21_3:MOBA45MOR_BNN; (QFOR45K21_3:MOBA45MOR_BBM); (QFOR45K21_3:MOBA45MOR_A
 | -------- | - |
 | JA | 2973 |
 | NEI | 797 |
+| Not NA | 3770 |
 | NA | 22006 |
 
 
@@ -817,6 +876,7 @@ QFOR45K_9:MOBA45MOR_BNN; (QFOR45K_9:MOBA45MOR_BBM); ; 9. Hvor mange av disse sva
 | 6 | 6 |
 | 5 | 18 |
 | 7 | 2 |
+| Not NA | 24925 |
 | NA | 851 |
 
 
@@ -839,6 +899,7 @@ QFOR45K16_1:MOBA45MOR_BNN; (QFOR45K16_1:MOBA45MOR_BBM); Måned for siste menstru
 | 3 | 509 |
 | 12 | 375 |
 | 1 | 735 |
+| Not NA | 22398 |
 | NA | 3378 |
 
 
@@ -855,6 +916,7 @@ QFOR45K16_2:MOBA45MOR_BNN; (QFOR45K16_2:MOBA45MOR_BBM); Året for siste menstrua
 | 3rd Qu. | 24 |
 | Max. | 43 |
 | NA's | 2547 |
+| Not NA | 23229 |
 
 
 ### AGE_YRS_LM
@@ -869,5 +931,6 @@ AGE_YRS_LM; MOBA45MOR_BNN; (AGE_YRS_LM:MOBA45MOR_BBM); (AGE_YRS_LM:MOBA45MOR_A);
 | Mean | 50.0183116076971 |
 | 3rd Qu. | 52 |
 | Max. | 68 |
+| Not NA | 25776 |
 
 

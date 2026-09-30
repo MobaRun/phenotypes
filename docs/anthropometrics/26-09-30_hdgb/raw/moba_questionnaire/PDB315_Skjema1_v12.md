@@ -1753,6 +1753,7 @@
 | SKJEMA1E | 25045 |
 | SKJEMA1B | 20228 |
 | SKJEMA1A | 2547 |
+| Not NA | 101753 |
 | NA | 0 |
 
 
@@ -1776,6 +1777,7 @@ S__0_3:SKJEMA1E; (S__0_3:SKJEMA1C); (S__0_3:SKJEMA1B); (S__0_3:SKJEMA1A); year; 
 | 2009 | 98 |
 | 2044 | 1 |
 | 2077 | 1 |
+| Not NA | 100341 |
 | NA | 1412 |
 
 
@@ -1792,6 +1794,7 @@ S__1:SKJEMA1E; (S__1:SKJEMA1C); (S__1:SKJEMA1B); (S__10:SKJEMA1A); ; 1. How old 
 | 3rd Qu. | 14 |
 | Max. | 96 |
 | NA's | 1185 |
+| Not NA | 100568 |
 
 
 ### AA13
@@ -1807,6 +1810,7 @@ S__2:SKJEMA1E; (S__2:SKJEMA1C); (S__2:SKJEMA1B); (S__6:SKJEMA1A); ; 2. How many 
 | 3rd Qu. | 30 |
 | Max. | 365 |
 | NA's | 3240 |
+| Not NA | 98513 |
 
 
 ### AA14
@@ -1820,6 +1824,7 @@ S__3:SKJEMA1E; (S__3:SKJEMA1C); (S__3:SKJEMA1B); (S__8:SKJEMA1A); ; 3. Are you u
 | Yes, noticeably | 22422 |
 | More than 1 check box filled in | 49 |
 | Yes, very much | 1852 |
+| Not NA | 101441 |
 | NA | 312 |
 
 
@@ -1832,6 +1837,7 @@ S__4:SKJEMA1E; (S__4:SKJEMA1C); (S__4:SKJEMA1B); (S__9:SKJEMA1A); ; 4. If yes, d
 | No | 8090 |
 | Yes | 56549 |
 | More than 1 check box filled in | 23 |
+| Not NA | 64662 |
 | NA | 37091 |
 
 
@@ -1844,6 +1850,7 @@ S__5:SKJEMA1E; (S__5:SKJEMA1C); (S__5:SKJEMA1B); (S__5:SKJEMA1A); ; 5. Were your
 | Yes | 76404 |
 | No | 24932 |
 | More than 1 check box filled in | 32 |
+| Not NA | 101368 |
 | NA | 385 |
 
 
@@ -1854,6 +1861,7 @@ S__6_1:SKJEMA1E; (S__6_1:SKJEMA1C); (S__6_1:SKJEMA1B); No; 6. During the last ye
 | Category | n |
 | -------- | - |
 | 1 | 80879 |
+| Not NA | 80879 |
 | NA | 20874 |
 
 
@@ -1864,6 +1872,7 @@ S__6_2:SKJEMA1E; (S__6_2:SKJEMA1C); (S__6_2:SKJEMA1B); Yes, due to an earlier pr
 | Category | n |
 | -------- | - |
 | 1 | 12231 |
+| Not NA | 12231 |
 | NA | 89522 |
 
 
@@ -1874,6 +1883,7 @@ S__6_3:SKJEMA1E; (S__6_3:SKJEMA1C); (S__6_3:SKJEMA1B); Yes, for other reasons; 6
 | Category | n |
 | -------- | - |
 | 1 | 5719 |
+| Not NA | 5719 |
 | NA | 96034 |
 
 
@@ -1886,6 +1896,7 @@ S__8:SKJEMA1E; (S__8:SKJEMA1C); (S__8:SKJEMA1B); (S__2:SKJEMA1A); ; 8. Did your 
 | Yes | 83603 |
 | No | 16382 |
 | More than 1 check box filled in | 27 |
+| Not NA | 100012 |
 | NA | 1741 |
 
 
@@ -1898,6 +1909,7 @@ S__9:SKJEMA1E; (S__9:SKJEMA1C); (S__9:SKJEMA1B); (S__3:SKJEMA1A); ; 9. Are you c
 | Certain | 80279 |
 | Uncertain | 20498 |
 | More than 1 check box filled in | 12 |
+| Not NA | 100789 |
 | NA | 964 |
 
 
@@ -1911,6 +1923,7 @@ S_10_1:SKJEMA1E; (S_10_1:SKJEMA1C); (S_10_1:SKJEMA1B); (S__4_1:SKJEMA1A); Durati
 | Less than usual | 9592 |
 | More than usual | 3279 |
 | More than 1 check box filled in | 11 |
+| Not NA | 100595 |
 | NA | 1158 |
 
 
@@ -1927,6 +1940,7 @@ Q1_L_MEN:SKJEMA1E; (Q1_L_MEN:SKJEMA1C); (Q1_L_MEN:SKJEMA1B); (Q1_L_MEN:SKJEMA1A)
 | 3rd Qu. | -274 |
 | Max. | 19447 |
 | NA's | 4147 |
+| Not NA | 97606 |
 
 
 ### AA26
@@ -1939,6 +1953,7 @@ S_10_2:SKJEMA1E; (S_10_2:SKJEMA1C); (S_10_2:SKJEMA1B); (S__4_2:SKJEMA1A); Amount
 | Less than usual | 9904 |
 | More than usual | 4876 |
 | More than 1 check box filled in | 6 |
+| Not NA | 99517 |
 | NA | 2236 |
 
 
@@ -1952,6 +1967,7 @@ S_10_3:SKJEMA1E; (S_10_3:SKJEMA1C); (S_10_3:SKJEMA1B); (S__4_3:SKJEMA1A); Menstr
 | More than usual | 3946 |
 | Less than usual | 5011 |
 | More than 1 check box filled in | 3 |
+| Not NA | 99127 |
 | NA | 2626 |
 
 
@@ -1963,6 +1979,7 @@ S__7:SKJEMA1A; ; 7. During the last year before you became pregnant, have you lo
 | -------- | - |
 | No | 2392 |
 | Yes | 131 |
+| Not NA | 2523 |
 | NA | 99230 |
 
 
@@ -1973,6 +1990,7 @@ S_11_1:SKJEMA1E; (S_11_1:SKJEMA1C); (S_11_1:SKJEMA1B); (S_11_1:SKJEMA1A); Condom
 | Category | n |
 | -------- | - |
 | 1 | 23410 |
+| Not NA | 23410 |
 | NA | 78343 |
 
 
@@ -1983,6 +2001,7 @@ S_11_2:SKJEMA1E; (S_11_2:SKJEMA1C); (S_11_2:SKJEMA1B); (S_11_2:SKJEMA1A); Diaphr
 | Category | n |
 | -------- | - |
 | 1 | 258 |
+| Not NA | 258 |
 | NA | 101495 |
 
 
@@ -1993,6 +2012,7 @@ S_11_3:SKJEMA1E; (S_11_3:SKJEMA1C); (S_11_3:SKJEMA1B); (S_11_3:SKJEMA1A); IUD; 1
 | Category | n |
 | -------- | - |
 | 1 | 5359 |
+| Not NA | 5359 |
 | NA | 96394 |
 
 
@@ -2003,6 +2023,7 @@ S_11_4:SKJEMA1E; (S_11_4:SKJEMA1C); (S_11_4:SKJEMA1B); (S_11_4:SKJEMA1A); Hormon
 | Category | n |
 | -------- | - |
 | 1 | 5078 |
+| Not NA | 5078 |
 | NA | 96675 |
 
 
@@ -2013,6 +2034,7 @@ S_11_5:SKJEMA1E; (S_11_5:SKJEMA1C); (S_11_5:SKJEMA1B); (S_11_5:SKJEMA1A); Hormon
 | Category | n |
 | -------- | - |
 | 1 | 620 |
+| Not NA | 620 |
 | NA | 101133 |
 
 
@@ -2023,6 +2045,7 @@ S_11_6:SKJEMA1E; (S_11_6:SKJEMA1C); (S_11_6:SKJEMA1B); (S_11_6:SKJEMA1A); Mini p
 | Category | n |
 | -------- | - |
 | 1 | 6499 |
+| Not NA | 6499 |
 | NA | 95254 |
 
 
@@ -2033,6 +2056,7 @@ S_11_7:SKJEMA1E; (S_11_7:SKJEMA1C); (S_11_7:SKJEMA1B); (S_11_7:SKJEMA1A); Pill; 
 | Category | n |
 | -------- | - |
 | 1 | 33419 |
+| Not NA | 33419 |
 | NA | 68334 |
 
 
@@ -2043,6 +2067,7 @@ S_11_8:SKJEMA1E; (S_11_8:SKJEMA1C); (S_11_8:SKJEMA1B); (S_11_8:SKJEMA1A); Spermi
 | Category | n |
 | -------- | - |
 | 1 | 103 |
+| Not NA | 103 |
 | NA | 101650 |
 
 
@@ -2053,6 +2078,7 @@ S_11_9:SKJEMA1E; (S_11_9:SKJEMA1C); (S_11_9:SKJEMA1B); (S_11_9:SKJEMA1A); Safe p
 | Category | n |
 | -------- | - |
 | 1 | 11313 |
+| Not NA | 11313 |
 | NA | 90440 |
 
 
@@ -2063,6 +2089,7 @@ S_1110:SKJEMA1E; (S_1110:SKJEMA1C); (S_1110:SKJEMA1B); (S_1110:SKJEMA1A); Withdr
 | Category | n |
 | -------- | - |
 | 1 | 19135 |
+| Not NA | 19135 |
 | NA | 82618 |
 
 
@@ -2073,6 +2100,7 @@ S_1111:SKJEMA1E; (S_1111:SKJEMA1C); (S_1111:SKJEMA1B); (S_1111:SKJEMA1A); No suc
 | Category | n |
 | -------- | - |
 | 1 | 18199 |
+| Not NA | 18199 |
 | NA | 83554 |
 
 
@@ -2083,6 +2111,7 @@ S_1112_1:SKJEMA1E; (S_1112_1:SKJEMA1C); (S_1112_1:SKJEMA1B); (S_1112_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3846 |
+| Not NA | 3846 |
 | NA | 97907 |
 
 
@@ -2097,6 +2126,7 @@ S_12_1:SKJEMA1E; (S_12_1:SKJEMA1C); (S_12_1:SKJEMA1B); (S_17_1:SKJEMA1A); Pill; 
 | Less than one year | 7204 |
 | 1-3 years | 17452 |
 | 4-6 years | 19985 |
+| Not NA | 76511 |
 | NA | 25242 |
 
 
@@ -2111,6 +2141,7 @@ S_12_2:SKJEMA1E; (S_12_2:SKJEMA1C); (S_12_2:SKJEMA1B); (S_17_2:SKJEMA1A); Mini-p
 | 4-6 years | 633 |
 | 10 years or more | 218 |
 | 7-9 years | 291 |
+| Not NA | 12890 |
 | NA | 88863 |
 
 
@@ -2127,6 +2158,7 @@ S_13:SKJEMA1E; (S_13:SKJEMA1C); (S_13:SKJEMA1B); (S_18:SKJEMA1A); Years old; 13.
 | 3rd Qu. | 20 |
 | Max. | 99 |
 | NA's | 13715 |
+| Not NA | 88038 |
 
 
 ### AA44
@@ -2138,6 +2170,7 @@ S_14:SKJEMA1E; (S_14:SKJEMA1C); (S_14:SKJEMA1B); (S_19:SKJEMA1A); ; 14. Were you
 | No | 73009 |
 | Yes | 21226 |
 | More than 1 check box filled in | 16 |
+| Not NA | 94251 |
 | NA | 7502 |
 
 
@@ -2154,6 +2187,7 @@ S_15:SKJEMA1E; (S_15:SKJEMA1C); (S_15:SKJEMA1B); (S_20:SKJEMA1A); Weeks; 15. If 
 | 3rd Qu. | 12 |
 | Max. | 99 |
 | NA's | 78944 |
+| Not NA | 22809 |
 
 
 ### AA46
@@ -2165,6 +2199,7 @@ S_16:SKJEMA1E; (S_16:SKJEMA1C); (S_16:SKJEMA1B); (S_12:SKJEMA1A); ; 16. Was this
 | Yes | 80955 |
 | No | 19563 |
 | More than 1 check box filled in | 163 |
+| Not NA | 100681 |
 | NA | 1072 |
 
 
@@ -2178,6 +2213,7 @@ S_17_1:SKJEMA1E; (S_17_1:SKJEMA1C); (S_17_1:SKJEMA1B); ; 17. If yes, how many mo
 | Less than 1 month | 19576 |
 | 1-2 months | 22341 |
 | More than 1 check box filled in | 22 |
+| Not NA | 75444 |
 | NA | 26309 |
 
 
@@ -2194,6 +2230,7 @@ S_17_2:SKJEMA1E; (S_17_2:SKJEMA1C); (S_17_2:SKJEMA1B); (S_13_2:SKJEMA1A); Number
 | 3rd Qu. | 14 |
 | Max. | 99 |
 | NA's | 71012 |
+| Not NA | 30741 |
 
 
 ### AA49
@@ -2205,6 +2242,7 @@ S_18:SKJEMA1E; (S_18:SKJEMA1C); (S_18:SKJEMA1B); (S_14:SKJEMA1A); ; 18. Did you 
 | No | 93103 |
 | Yes | 4978 |
 | More than 1 check box filled in | 24 |
+| Not NA | 98105 |
 | NA | 3648 |
 
 
@@ -2215,6 +2253,7 @@ S_19_1:SKJEMA1E; (S_19_1:SKJEMA1C); (S_19_1:SKJEMA1B); (S_15_1:SKJEMA1A); Condom
 | Category | n |
 | -------- | - |
 | 1 | 874 |
+| Not NA | 874 |
 | NA | 100879 |
 
 
@@ -2225,6 +2264,7 @@ S_19_2:SKJEMA1E; (S_19_2:SKJEMA1C); (S_19_2:SKJEMA1B); (S_15_2:SKJEMA1A); Diaphr
 | Category | n |
 | -------- | - |
 | 1 | 28 |
+| Not NA | 28 |
 | NA | 101725 |
 
 
@@ -2235,6 +2275,7 @@ S_19_3:SKJEMA1E; (S_19_3:SKJEMA1C); (S_19_3:SKJEMA1B); (S_15_3:SKJEMA1A); IUD; 1
 | Category | n |
 | -------- | - |
 | 1 | 174 |
+| Not NA | 174 |
 | NA | 101579 |
 
 
@@ -2245,6 +2286,7 @@ S_19_4:SKJEMA1E; (S_19_4:SKJEMA1C); (S_19_4:SKJEMA1B); (S_15_4:SKJEMA1A); Hormon
 | Category | n |
 | -------- | - |
 | 1 | 41 |
+| Not NA | 41 |
 | NA | 101712 |
 
 
@@ -2255,6 +2297,7 @@ S_19_5:SKJEMA1E; (S_19_5:SKJEMA1C); (S_19_5:SKJEMA1B); (S_15_5:SKJEMA1A); Hormon
 | Category | n |
 | -------- | - |
 | 1 | 44 |
+| Not NA | 44 |
 | NA | 101709 |
 
 
@@ -2265,6 +2308,7 @@ S_19_6:SKJEMA1E; (S_19_6:SKJEMA1C); (S_19_6:SKJEMA1B); (S_15_6:SKJEMA1A); Mini p
 | Category | n |
 | -------- | - |
 | 1 | 490 |
+| Not NA | 490 |
 | NA | 101263 |
 
 
@@ -2275,6 +2319,7 @@ S_19_7:SKJEMA1E; (S_19_7:SKJEMA1C); (S_19_7:SKJEMA1B); (S_15_7:SKJEMA1A); Pill; 
 | Category | n |
 | -------- | - |
 | 1 | 1664 |
+| Not NA | 1664 |
 | NA | 100089 |
 
 
@@ -2285,6 +2330,7 @@ S_19_8:SKJEMA1E; (S_19_8:SKJEMA1C); (S_19_8:SKJEMA1B); (S_15_8:SKJEMA1A); Spermi
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 101740 |
 
 
@@ -2295,6 +2341,7 @@ S_19_9:SKJEMA1E; (S_19_9:SKJEMA1C); (S_19_9:SKJEMA1B); (S_15_9:SKJEMA1A); Safe p
 | Category | n |
 | -------- | - |
 | 1 | 1360 |
+| Not NA | 1360 |
 | NA | 100393 |
 
 
@@ -2305,6 +2352,7 @@ S_1910:SKJEMA1E; (S_1910:SKJEMA1C); (S_1910:SKJEMA1B); (S_1510:SKJEMA1A); Withdr
 | Category | n |
 | -------- | - |
 | 1 | 1282 |
+| Not NA | 1282 |
 | NA | 100471 |
 
 
@@ -2315,6 +2363,7 @@ S_1911_1:SKJEMA1E; (S_1911_1:SKJEMA1C); (S_1911_1:SKJEMA1B); (S_1511_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 414 |
+| Not NA | 414 |
 | NA | 101339 |
 
 
@@ -2327,6 +2376,7 @@ S_20:SKJEMA1E; (S_20:SKJEMA1C); (S_20:SKJEMA1B); (S_16:SKJEMA1A); ; 20. If you b
 | No | 823 |
 | Yes | 704 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1528 |
 | NA | 100225 |
 
 
@@ -2343,6 +2393,7 @@ S_21_1:SKJEMA1E; (S_21_1:SKJEMA1C); (S_21_1:SKJEMA1B); (S_21_1:SKJEMA1A); Months
 | 3rd Qu. | 21 |
 | Max. | 99 |
 | NA's | 88370 |
+| Not NA | 13383 |
 
 
 ### AA64
@@ -2358,6 +2409,7 @@ S_21_2:SKJEMA1E; (S_21_2:SKJEMA1C); (S_21_2:SKJEMA1B); (S_21_2:SKJEMA1A); Years;
 | 3rd Qu. | 9 |
 | Max. | 99 |
 | NA's | 14768 |
+| Not NA | 86985 |
 
 
 ### AA65
@@ -2374,6 +2426,7 @@ S_22_1:SKJEMA1E; (S_22_1:SKJEMA1C); (S_22_1:SKJEMA1B); (S_22_1:SKJEMA1A); Before
 | Less than 1-2 times every 2 weeks | 3991 |
 | Never | 611 |
 | More than 1 check box filled in | 70 |
+| Not NA | 99395 |
 | NA | 2358 |
 
 
@@ -2391,6 +2444,7 @@ S_22_2:SKJEMA1E; (S_22_2:SKJEMA1C); (S_22_2:SKJEMA1B); (S_22_2:SKJEMA1A); Now; 2
 | 3-4 times a week | 9632 |
 | Every day | 729 |
 | More than 1 check box filled in | 10 |
+| Not NA | 97983 |
 | NA | 3770 |
 
 
@@ -2403,6 +2457,7 @@ S_23:SKJEMA1E; (S_23:SKJEMA1C); (S_23:SKJEMA1B); (S_36:SKJEMA1A); ; 23. Have you
 | No | 90680 |
 | Yes | 8985 |
 | More than 1 check box filled in | 8 |
+| Not NA | 99673 |
 | NA | 2080 |
 
 
@@ -2413,6 +2468,7 @@ S_24_1_1:SKJEMA1E; (S_24_1_1:SKJEMA1C); (S_24_1_1:SKJEMA1B); (S_37_1_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 353 |
+| Not NA | 353 |
 | NA | 101400 |
 
 
@@ -2423,6 +2479,7 @@ S_24_1_2:SKJEMA1E; (S_24_1_2:SKJEMA1C); (S_24_1_2:SKJEMA1B); (S_37_1_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 239 |
+| Not NA | 239 |
 | NA | 101514 |
 
 
@@ -2433,6 +2490,7 @@ S_24_2_1:SKJEMA1E; (S_24_2_1:SKJEMA1C); (S_24_2_1:SKJEMA1B); (S_37_2_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 472 |
+| Not NA | 472 |
 | NA | 101281 |
 
 
@@ -2443,6 +2501,7 @@ S_24_2_2:SKJEMA1E; (S_24_2_2:SKJEMA1C); (S_24_2_2:SKJEMA1B); (S_37_2_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 460 |
+| Not NA | 460 |
 | NA | 101293 |
 
 
@@ -2453,6 +2512,7 @@ S_24_3_1:SKJEMA1E; (S_24_3_1:SKJEMA1C); (S_24_3_1:SKJEMA1B); (S_37_3_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 160 |
+| Not NA | 160 |
 | NA | 101593 |
 
 
@@ -2463,6 +2523,7 @@ S_24_3_2:SKJEMA1E; (S_24_3_2:SKJEMA1C); (S_24_3_2:SKJEMA1B); (S_37_3_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 120 |
+| Not NA | 120 |
 | NA | 101633 |
 
 
@@ -2473,6 +2534,7 @@ S_24_4_1:SKJEMA1E; (S_24_4_1:SKJEMA1C); (S_24_4_1:SKJEMA1B); (S_37_4_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2285 |
+| Not NA | 2285 |
 | NA | 99468 |
 
 
@@ -2483,6 +2545,7 @@ S_24_4_2:SKJEMA1E; (S_24_4_2:SKJEMA1C); (S_24_4_2:SKJEMA1B); (S_37_4_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2794 |
+| Not NA | 2794 |
 | NA | 98959 |
 
 
@@ -2493,6 +2556,7 @@ S_24_5_1:SKJEMA1E; (S_24_5_1:SKJEMA1C); (S_24_5_1:SKJEMA1B); (S_37_5_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 335 |
+| Not NA | 335 |
 | NA | 101418 |
 
 
@@ -2503,6 +2567,7 @@ S_24_5_2:SKJEMA1E; (S_24_5_2:SKJEMA1C); (S_24_5_2:SKJEMA1B); (S_37_5_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 305 |
+| Not NA | 305 |
 | NA | 101448 |
 
 
@@ -2513,6 +2578,7 @@ S_24_6_1:SKJEMA1E; (S_24_6_1:SKJEMA1C); (S_24_6_1:SKJEMA1B); (S_37_6_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1611 |
+| Not NA | 1611 |
 | NA | 100142 |
 
 
@@ -2523,6 +2589,7 @@ S_24_6_2:SKJEMA1E; (S_24_6_2:SKJEMA1C); (S_24_6_2:SKJEMA1B); (S_37_6_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2657 |
+| Not NA | 2657 |
 | NA | 99096 |
 
 
@@ -2533,6 +2600,7 @@ S_24_7_1:SKJEMA1E; (S_24_7_1:SKJEMA1C); (S_24_7_1:SKJEMA1B); (S_37_7_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 538 |
+| Not NA | 538 |
 | NA | 101215 |
 
 
@@ -2543,6 +2611,7 @@ S_24_7_2:SKJEMA1E; (S_24_7_2:SKJEMA1C); (S_24_7_2:SKJEMA1B); (S_37_7_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 641 |
+| Not NA | 641 |
 | NA | 101112 |
 
 
@@ -2555,6 +2624,7 @@ S_25:SKJEMA1E; (S_25:SKJEMA1C); (S_25:SKJEMA1B); ; 25. Have you been given infor
 | No | 86552 |
 | Yes | 10339 |
 | More than 1 check box filled in | 4 |
+| Not NA | 96895 |
 | NA | 4858 |
 
 
@@ -2571,6 +2641,7 @@ S_26_1:SKJEMA1E; (S_26_1:SKJEMA1C); (S_26_1:SKJEMA1B); (S_23_1:SKJEMA1A); ; 26. 
 | 3rd Qu. | 120 |
 | Max. | 398 |
 | NA's | 12572 |
+| Not NA | 89181 |
 
 
 ### AA84
@@ -2586,6 +2657,7 @@ S_26_2:SKJEMA1E; (S_26_2:SKJEMA1C); (S_26_2:SKJEMA1B); (S_23_2:SKJEMA1A); ; 26. 
 | 3rd Qu. | 75 |
 | Max. | 508 |
 | NA's | 12677 |
+| Not NA | 89076 |
 
 
 ### AA1688
@@ -2597,6 +2669,7 @@ S_13_1:SKJEMA1A; ; 13. If yes, how many months did you have regular intercourse 
 | Less than 2 months | 872 |
 | 3 months or more | 676 |
 | 2-3 months | 371 |
+| Not NA | 1919 |
 | NA | 99834 |
 
 
@@ -2613,6 +2686,7 @@ S_27_1:SKJEMA1E; (S_27_1:SKJEMA1C); (S_27_1:SKJEMA1B); (S_24_1:SKJEMA1A); Weight
 | 3rd Qu. | 74 |
 | Max. | 573 |
 | NA's | 2339 |
+| Not NA | 99414 |
 
 
 ### AA86
@@ -2628,6 +2702,7 @@ S_27_2:SKJEMA1E; (S_27_2:SKJEMA1C); (S_27_2:SKJEMA1B); (S_24_2:SKJEMA1A); Weight
 | 3rd Qu. | 77 |
 | Max. | 692 |
 | NA's | 4781 |
+| Not NA | 96972 |
 
 
 ### AA87
@@ -2643,6 +2718,7 @@ S_28:SKJEMA1E; (S_28:SKJEMA1C); (S_28:SKJEMA1B); (S_25:SKJEMA1A); cm; 28. How ta
 | 3rd Qu. | 172 |
 | Max. | 198 |
 | NA's | 954 |
+| Not NA | 100799 |
 
 
 ### AA88
@@ -2658,6 +2734,7 @@ S_29:SKJEMA1E; (S_29:SKJEMA1C); (S_29:SKJEMA1B); (S_26:SKJEMA1A); cm; 29. How ta
 | 3rd Qu. | 186 |
 | Max. | 210 |
 | NA's | 2519 |
+| Not NA | 99234 |
 
 
 ### AA89
@@ -2673,6 +2750,7 @@ S_30:SKJEMA1E; (S_30:SKJEMA1C); (S_30:SKJEMA1B); (S_27:SKJEMA1A); kg; 30. How mu
 | 3rd Qu. | 92 |
 | Max. | 874 |
 | NA's | 4092 |
+| Not NA | 97661 |
 
 
 ### AA93
@@ -2684,6 +2762,7 @@ S_31:SKJEMA1E; (S_31:SKJEMA1C); (S_31:SKJEMA1B); ; 31. Have you been pregnant be
 | Yes | 65483 |
 | No | 32452 |
 | More than 1 check box filled in | 1 |
+| Not NA | 97936 |
 | NA | 3817 |
 
 
@@ -2700,6 +2779,7 @@ S_32_1_1:SKJEMA1E; (S_32_1_1:SKJEMA1C); (S_32_1_1:SKJEMA1B); (S_32_1_1:SKJEMA1A)
 | 3rd Qu. | 2002 |
 | Max. | 2008 |
 | NA's | 34900 |
+| Not NA | 66853 |
 
 
 ### AA95
@@ -2716,6 +2796,7 @@ S_32_1_2:SKJEMA1E; (S_32_1_2:SKJEMA1C); (S_32_1_2:SKJEMA1B); (S_32_1_2:SKJEMA1A)
 | (2+3) Spontaneous abortion/stillbirth + Termination of pregnancy | 14 |
 | More than 1 check box filled in | 8 |
 | (1+2) Live infant born + Spontaneous abortion/stillbirth | 35 |
+| Not NA | 66971 |
 | NA | 34782 |
 
 
@@ -2732,6 +2813,7 @@ S_32_1_3:SKJEMA1E; (S_32_1_3:SKJEMA1C); (S_32_1_3:SKJEMA1B); (S_32_1_3:SKJEMA1A)
 | 3rd Qu. | 11 |
 | Max. | 52 |
 | NA's | 81196 |
+| Not NA | 20557 |
 
 
 ### AA97
@@ -2747,6 +2829,7 @@ S_32_1_4:SKJEMA1E; (S_32_1_4:SKJEMA1C); (S_32_1_4:SKJEMA1B); (S_32_1_4:SKJEMA1A)
 | 3rd Qu. | 13 |
 | Max. | 80 |
 | NA's | 59979 |
+| Not NA | 41774 |
 
 
 ### AA98
@@ -2762,6 +2845,7 @@ S_32_1_5:SKJEMA1E; (S_32_1_5:SKJEMA1C); (S_32_1_5:SKJEMA1B); (S_32_1_5:SKJEMA1A)
 | 3rd Qu. | 19 |
 | Max. | 99 |
 | NA's | 57995 |
+| Not NA | 43758 |
 
 
 ### AA99
@@ -2771,6 +2855,7 @@ S_32_1_6:SKJEMA1E; (S_32_1_6:SKJEMA1C); (S_32_1_6:SKJEMA1B); (S_32_1_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9021 |
+| Not NA | 9021 |
 | NA | 92732 |
 
 
@@ -2787,6 +2872,7 @@ S_32_2_1:SKJEMA1E; (S_32_2_1:SKJEMA1C); (S_32_2_1:SKJEMA1B); (S_32_2_1:SKJEMA1A)
 | 3rd Qu. | 2003 |
 | Max. | 2008 |
 | NA's | 67042 |
+| Not NA | 34711 |
 
 
 ### AA101
@@ -2802,6 +2888,7 @@ S_32_2_2:SKJEMA1E; (S_32_2_2:SKJEMA1C); (S_32_2_2:SKJEMA1B); (S_32_2_2:SKJEMA1A)
 | (1+2) Live infant born + Spontaneous abortion/stillbirth | 15 |
 | (2+3) Spontaneous abortion/stillbirth + Termination of pregnancy | 12 |
 | (2+4) Spontaneous abortion/stillbirth + Ectopic pregnancy | 18 |
+| Not NA | 34575 |
 | NA | 67178 |
 
 
@@ -2818,6 +2905,7 @@ S_32_2_3:SKJEMA1E; (S_32_2_3:SKJEMA1C); (S_32_2_3:SKJEMA1B); (S_32_2_3:SKJEMA1A)
 | 3rd Qu. | 11 |
 | Max. | 45 |
 | NA's | 91051 |
+| Not NA | 10702 |
 
 
 ### AA103
@@ -2833,6 +2921,7 @@ S_32_2_4:SKJEMA1E; (S_32_2_4:SKJEMA1C); (S_32_2_4:SKJEMA1B); (S_32_2_4:SKJEMA1A)
 | 3rd Qu. | 13 |
 | Max. | 72 |
 | NA's | 80229 |
+| Not NA | 21524 |
 
 
 ### AA104
@@ -2848,6 +2937,7 @@ S_32_2_5:SKJEMA1E; (S_32_2_5:SKJEMA1C); (S_32_2_5:SKJEMA1B); (S_32_2_5:SKJEMA1A)
 | 3rd Qu. | 18 |
 | Max. | 99 |
 | NA's | 79727 |
+| Not NA | 22026 |
 
 
 ### AA105
@@ -2857,6 +2947,7 @@ S_32_2_6:SKJEMA1E; (S_32_2_6:SKJEMA1C); (S_32_2_6:SKJEMA1B); (S_32_2_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4453 |
+| Not NA | 4453 |
 | NA | 97300 |
 
 
@@ -2873,6 +2964,7 @@ S_32_3_1:SKJEMA1E; (S_32_3_1:SKJEMA1C); (S_32_3_1:SKJEMA1B); (S_32_3_1:SKJEMA1A)
 | 3rd Qu. | 2003 |
 | Max. | 2008 |
 | NA's | 86881 |
+| Not NA | 14872 |
 
 
 ### AA107
@@ -2889,6 +2981,7 @@ S_32_3_2:SKJEMA1E; (S_32_3_2:SKJEMA1C); (S_32_3_2:SKJEMA1B); (S_32_3_2:SKJEMA1A)
 | (1+2) Live infant born + Spontaneous abortion/stillbirth | 10 |
 | (2+4) Spontaneous abortion/stillbirth + Ectopic pregnancy | 12 |
 | More than 1 check box filled in | 1 |
+| Not NA | 14557 |
 | NA | 87196 |
 
 
@@ -2905,6 +2998,7 @@ S_32_3_3:SKJEMA1E; (S_32_3_3:SKJEMA1C); (S_32_3_3:SKJEMA1B); (S_32_3_3:SKJEMA1A)
 | 3rd Qu. | 11 |
 | Max. | 42 |
 | NA's | 96193 |
+| Not NA | 5560 |
 
 
 ### AA109
@@ -2920,6 +3014,7 @@ S_32_3_4:SKJEMA1E; (S_32_3_4:SKJEMA1C); (S_32_3_4:SKJEMA1B); (S_32_3_4:SKJEMA1A)
 | 3rd Qu. | 13 |
 | Max. | 60 |
 | NA's | 93979 |
+| Not NA | 7774 |
 
 
 ### AA110
@@ -2935,6 +3030,7 @@ S_32_3_5:SKJEMA1E; (S_32_3_5:SKJEMA1C); (S_32_3_5:SKJEMA1B); (S_32_3_5:SKJEMA1A)
 | 3rd Qu. | 18 |
 | Max. | 94 |
 | NA's | 93797 |
+| Not NA | 7956 |
 
 
 ### AA111
@@ -2944,6 +3040,7 @@ S_32_3_6:SKJEMA1E; (S_32_3_6:SKJEMA1C); (S_32_3_6:SKJEMA1B); (S_32_3_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1980 |
+| Not NA | 1980 |
 | NA | 99773 |
 
 
@@ -2960,6 +3057,7 @@ S_32_4_1:SKJEMA1E; (S_32_4_1:SKJEMA1C); (S_32_4_1:SKJEMA1B); (S_32_4_1:SKJEMA1A)
 | 3rd Qu. | 2004 |
 | Max. | 2008 |
 | NA's | 95851 |
+| Not NA | 5902 |
 
 
 ### AA113
@@ -2975,6 +3073,7 @@ S_32_4_2:SKJEMA1E; (S_32_4_2:SKJEMA1C); (S_32_4_2:SKJEMA1B); (S_32_4_2:SKJEMA1A)
 | (2+4) Spontaneous abortion/stillbirth + Ectopic pregnancy | 6 |
 | (2+3) Spontaneous abortion/stillbirth + Termination of pregnancy | 4 |
 | (1+2) Live infant born + Spontaneous abortion/stillbirth | 1 |
+| Not NA | 5632 |
 | NA | 96121 |
 
 
@@ -2991,6 +3090,7 @@ S_32_4_3:SKJEMA1E; (S_32_4_3:SKJEMA1C); (S_32_4_3:SKJEMA1B); (S_32_4_3:SKJEMA1A)
 | 3rd Qu. | 11 |
 | Max. | 43 |
 | NA's | 99192 |
+| Not NA | 2561 |
 
 
 ### AA115
@@ -3006,6 +3106,7 @@ S_32_4_4:SKJEMA1E; (S_32_4_4:SKJEMA1C); (S_32_4_4:SKJEMA1B); (S_32_4_4:SKJEMA1A)
 | 3rd Qu. | 14 |
 | Max. | 60 |
 | NA's | 99207 |
+| Not NA | 2546 |
 
 
 ### AA116
@@ -3021,6 +3122,7 @@ S_32_4_5:SKJEMA1E; (S_32_4_5:SKJEMA1C); (S_32_4_5:SKJEMA1B); (S_32_4_5:SKJEMA1A)
 | 3rd Qu. | 18 |
 | Max. | 95 |
 | NA's | 99093 |
+| Not NA | 2660 |
 
 
 ### AA117
@@ -3030,6 +3132,7 @@ S_32_4_6:SKJEMA1E; (S_32_4_6:SKJEMA1C); (S_32_4_6:SKJEMA1B); (S_32_4_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 816 |
+| Not NA | 816 |
 | NA | 100937 |
 
 
@@ -3046,6 +3149,7 @@ S_32_5_1:SKJEMA1E; (S_32_5_1:SKJEMA1C); (S_32_5_1:SKJEMA1B); (S_32_5_1:SKJEMA1A)
 | 3rd Qu. | 2004 |
 | Max. | 2008 |
 | NA's | 99439 |
+| Not NA | 2314 |
 
 
 ### AA119
@@ -3059,6 +3163,7 @@ S_32_5_2:SKJEMA1E; (S_32_5_2:SKJEMA1C); (S_32_5_2:SKJEMA1B); (S_32_5_2:SKJEMA1A)
 | Termination of pregnancy | 213 |
 | Ectopic pregnancy | 47 |
 | (2+4) Spontaneous abortion/stillbirth + Ectopic pregnancy | 4 |
+| Not NA | 2150 |
 | NA | 99603 |
 
 
@@ -3075,6 +3180,7 @@ S_32_5_3:SKJEMA1E; (S_32_5_3:SKJEMA1C); (S_32_5_3:SKJEMA1B); (S_32_5_3:SKJEMA1A)
 | 3rd Qu. | 11 |
 | Max. | 39 |
 | NA's | 100663 |
+| Not NA | 1090 |
 
 
 ### AA121
@@ -3090,6 +3196,7 @@ S_32_5_4:SKJEMA1E; (S_32_5_4:SKJEMA1C); (S_32_5_4:SKJEMA1B); (S_32_5_4:SKJEMA1A)
 | 3rd Qu. | 14 |
 | Max. | 48 |
 | NA's | 100922 |
+| Not NA | 831 |
 
 
 ### AA122
@@ -3105,6 +3212,7 @@ S_32_5_5:SKJEMA1E; (S_32_5_5:SKJEMA1C); (S_32_5_5:SKJEMA1B); (S_32_5_5:SKJEMA1A)
 | 3rd Qu. | 18 |
 | Max. | 84 |
 | NA's | 100860 |
+| Not NA | 893 |
 
 
 ### AA123
@@ -3114,6 +3222,7 @@ S_32_5_6:SKJEMA1E; (S_32_5_6:SKJEMA1C); (S_32_5_6:SKJEMA1B); (S_32_5_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 340 |
+| Not NA | 340 |
 | NA | 101413 |
 
 
@@ -3130,6 +3239,7 @@ S_32_6_1:SKJEMA1E; (S_32_6_1:SKJEMA1C); (S_32_6_1:SKJEMA1B); (S_32_6_1:SKJEMA1A)
 | 3rd Qu. | 2004 |
 | Max. | 2008 |
 | NA's | 100848 |
+| Not NA | 905 |
 
 
 ### AA125
@@ -3143,6 +3253,7 @@ S_32_6_2:SKJEMA1E; (S_32_6_2:SKJEMA1C); (S_32_6_2:SKJEMA1B); (S_32_6_2:SKJEMA1A)
 | Termination of pregnancy | 80 |
 | Ectopic pregnancy | 23 |
 | (2+4) Spontaneous abortion/stillbirth + Ectopic pregnancy | 1 |
+| Not NA | 828 |
 | NA | 100925 |
 
 
@@ -3159,6 +3270,7 @@ S_32_6_3:SKJEMA1E; (S_32_6_3:SKJEMA1C); (S_32_6_3:SKJEMA1B); (S_32_6_3:SKJEMA1A)
 | 3rd Qu. | 10.5 |
 | Max. | 42 |
 | NA's | 101294 |
+| Not NA | 459 |
 
 
 ### AA127
@@ -3174,6 +3286,7 @@ S_32_6_4:SKJEMA1E; (S_32_6_4:SKJEMA1C); (S_32_6_4:SKJEMA1B); (S_32_6_4:SKJEMA1A)
 | 3rd Qu. | 14 |
 | Max. | 36 |
 | NA's | 101471 |
+| Not NA | 282 |
 
 
 ### AA128
@@ -3189,6 +3302,7 @@ S_32_6_5:SKJEMA1E; (S_32_6_5:SKJEMA1C); (S_32_6_5:SKJEMA1B); (S_32_6_5:SKJEMA1A)
 | 3rd Qu. | 16 |
 | Max. | 74 |
 | NA's | 101455 |
+| Not NA | 298 |
 
 
 ### AA129
@@ -3198,6 +3312,7 @@ S_32_6_6:SKJEMA1E; (S_32_6_6:SKJEMA1C); (S_32_6_6:SKJEMA1B); (S_32_6_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 122 |
+| Not NA | 122 |
 | NA | 101631 |
 
 
@@ -3214,6 +3329,7 @@ S_32_7_1:SKJEMA1E; (S_32_7_1:SKJEMA1C); (S_32_7_1:SKJEMA1B); (S_32_7_1:SKJEMA1A)
 | 3rd Qu. | 2004 |
 | Max. | 2008 |
 | NA's | 101364 |
+| Not NA | 389 |
 
 
 ### AA131
@@ -3226,6 +3342,7 @@ S_32_7_2:SKJEMA1E; (S_32_7_2:SKJEMA1C); (S_32_7_2:SKJEMA1B); (S_32_7_2:SKJEMA1A)
 | Live infant born | 127 |
 | Ectopic pregnancy | 15 |
 | Termination of pregnancy | 36 |
+| Not NA | 356 |
 | NA | 101397 |
 
 
@@ -3254,6 +3371,7 @@ S_32_7_3:SKJEMA1E; (S_32_7_3:SKJEMA1C); (S_32_7_3:SKJEMA1B); (S_32_7_3:SKJEMA1A)
 | 17 | 1 |
 | 16 | 1 |
 | 21 | 1 |
+| Not NA | 186 |
 | NA | 101567 |
 
 
@@ -3270,6 +3388,7 @@ S_32_7_4:SKJEMA1E; (S_32_7_4:SKJEMA1C); (S_32_7_4:SKJEMA1B); (S_32_7_4:SKJEMA1A)
 | 3rd Qu. | 15 |
 | Max. | 36 |
 | NA's | 101628 |
+| Not NA | 125 |
 
 
 ### AA134
@@ -3285,6 +3404,7 @@ S_32_7_5:SKJEMA1E; (S_32_7_5:SKJEMA1C); (S_32_7_5:SKJEMA1B); (S_32_7_5:SKJEMA1A)
 | 3rd Qu. | 16 |
 | Max. | 34 |
 | NA's | 101613 |
+| Not NA | 140 |
 
 
 ### AA135
@@ -3294,6 +3414,7 @@ S_32_7_6:SKJEMA1E; (S_32_7_6:SKJEMA1C); (S_32_7_6:SKJEMA1B); (S_32_7_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 61 |
+| Not NA | 61 |
 | NA | 101692 |
 
 
@@ -3320,6 +3441,7 @@ S_32_8_1:SKJEMA1E; (S_32_8_1:SKJEMA1C); (S_32_8_1:SKJEMA1B); (S_32_8_1:SKJEMA1A)
 | 1995 | 3 |
 | 1989 | 1 |
 | 1996 | 1 |
+| Not NA | 172 |
 | NA | 101581 |
 
 
@@ -3334,6 +3456,7 @@ S_32_8_2:SKJEMA1E; (S_32_8_2:SKJEMA1C); (S_32_8_2:SKJEMA1B); (S_32_8_2:SKJEMA1A)
 | Live infant born | 45 |
 | Ectopic pregnancy | 3 |
 | (2+3) Spontaneous abortion/stillbirth + Termination of pregnancy | 1 |
+| Not NA | 160 |
 | NA | 101593 |
 
 
@@ -3359,6 +3482,7 @@ S_32_8_3:SKJEMA1E; (S_32_8_3:SKJEMA1C); (S_32_8_3:SKJEMA1B); (S_32_8_3:SKJEMA1A)
 | 36 | 1 |
 | 3 | 2 |
 | 25 | 1 |
+| Not NA | 91 |
 | NA | 101662 |
 
 
@@ -3388,6 +3512,7 @@ S_32_8_4:SKJEMA1E; (S_32_8_4:SKJEMA1C); (S_32_8_4:SKJEMA1B); (S_32_8_4:SKJEMA1A)
 | 38 | 1 |
 | 10 | 2 |
 | 3 | 2 |
+| Not NA | 49 |
 | NA | 101704 |
 
 
@@ -3404,6 +3529,7 @@ S_32_8_5:SKJEMA1E; (S_32_8_5:SKJEMA1C); (S_32_8_5:SKJEMA1B); (S_32_8_5:SKJEMA1A)
 | 3rd Qu. | 15 |
 | Max. | 25 |
 | NA's | 101701 |
+| Not NA | 52 |
 
 
 ### AA141
@@ -3413,6 +3539,7 @@ S_32_8_6:SKJEMA1E; (S_32_8_6:SKJEMA1C); (S_32_8_6:SKJEMA1B); (S_32_8_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 101732 |
 
 
@@ -3438,6 +3565,7 @@ S_32_9_1:SKJEMA1E; (S_32_9_1:SKJEMA1C); (S_32_9_1:SKJEMA1B); (S_32_9_1:SKJEMA1A)
 | 2006 | 2 |
 | 1999 | 3 |
 | 2008 | 1 |
+| Not NA | 76 |
 | NA | 101677 |
 
 
@@ -3451,6 +3579,7 @@ S_32_9_2:SKJEMA1E; (S_32_9_2:SKJEMA1C); (S_32_9_2:SKJEMA1B); (S_32_9_2:SKJEMA1A)
 | Spontaneous abortion/stillbirth | 46 |
 | Ectopic pregnancy | 3 |
 | Termination of pregnancy | 2 |
+| Not NA | 75 |
 | NA | 101678 |
 
 
@@ -3472,6 +3601,7 @@ S_32_9_3:SKJEMA1E; (S_32_9_3:SKJEMA1C); (S_32_9_3:SKJEMA1B); (S_32_9_3:SKJEMA1A)
 | 7 | 4 |
 | 3 | 1 |
 | 14 | 1 |
+| Not NA | 37 |
 | NA | 101716 |
 
 
@@ -3495,6 +3625,7 @@ S_32_9_4:SKJEMA1E; (S_32_9_4:SKJEMA1C); (S_32_9_4:SKJEMA1B); (S_32_9_4:SKJEMA1A)
 | 18 | 1 |
 | 4 | 2 |
 | 14 | 1 |
+| Not NA | 24 |
 | NA | 101729 |
 
 
@@ -3519,6 +3650,7 @@ S_32_9_5:SKJEMA1E; (S_32_9_5:SKJEMA1C); (S_32_9_5:SKJEMA1B); (S_32_9_5:SKJEMA1A)
 | 30 | 1 |
 | 5 | 2 |
 | 12 | 1 |
+| Not NA | 28 |
 | NA | 101725 |
 
 
@@ -3529,6 +3661,7 @@ S_32_9_6:SKJEMA1E; (S_32_9_6:SKJEMA1C); (S_32_9_6:SKJEMA1B); (S_32_9_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 101742 |
 
 
@@ -3551,6 +3684,7 @@ S_3210_1:SKJEMA1E; (S_3210_1:SKJEMA1C); (S_3210_1:SKJEMA1B); (S_3210_1:SKJEMA1A)
 | 1995 | 1 |
 | 1999 | 2 |
 | 2000 | 1 |
+| Not NA | 45 |
 | NA | 101708 |
 
 
@@ -3562,6 +3696,7 @@ S_3210_2:SKJEMA1E; (S_3210_2:SKJEMA1C); (S_3210_2:SKJEMA1B); (S_3210_2:SKJEMA1A)
 | -------- | - |
 | Spontaneous abortion/stillbirth | 21 |
 | Live infant born | 18 |
+| Not NA | 39 |
 | NA | 101714 |
 
 
@@ -3579,6 +3714,7 @@ S_3210_3:SKJEMA1E; (S_3210_3:SKJEMA1C); (S_3210_3:SKJEMA1B); (S_3210_3:SKJEMA1A)
 | 5 | 2 |
 | 12 | 1 |
 | 4 | 1 |
+| Not NA | 17 |
 | NA | 101736 |
 
 
@@ -3601,6 +3737,7 @@ S_3210_4:SKJEMA1E; (S_3210_4:SKJEMA1C); (S_3210_4:SKJEMA1B); (S_3210_4:SKJEMA1A)
 | 1 | 1 |
 | 14 | 2 |
 | 2 | 1 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -3624,6 +3761,7 @@ S_3210_5:SKJEMA1E; (S_3210_5:SKJEMA1C); (S_3210_5:SKJEMA1B); (S_3210_5:SKJEMA1A)
 | 14 | 1 |
 | 2 | 2 |
 | 7 | 1 |
+| Not NA | 20 |
 | NA | 101733 |
 
 
@@ -3634,6 +3772,7 @@ S_3210_6:SKJEMA1E; (S_3210_6:SKJEMA1C); (S_3210_6:SKJEMA1B); (S_3210_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -3646,6 +3785,7 @@ S_33_1:SKJEMA1E; (S_33_1:SKJEMA1C); (S_33_1:SKJEMA1B); (S_33_1:SKJEMA1A); Pelvic
 | Yes | 13371 |
 | No | 44604 |
 | More than 1 check box filled in | 9 |
+| Not NA | 57984 |
 | NA | 43769 |
 
 
@@ -3658,6 +3798,7 @@ S_33_2:SKJEMA1E; (S_33_2:SKJEMA1C); (S_33_2:SKJEMA1B); (S_33_2:SKJEMA1A); Pelvic
 | No | 51634 |
 | Yes | 1059 |
 | More than 1 check box filled in | 11 |
+| Not NA | 52704 |
 | NA | 49049 |
 
 
@@ -3670,6 +3811,7 @@ S_33_3:SKJEMA1E; (S_33_3:SKJEMA1C); (S_33_3:SKJEMA1B); (S_33_3:SKJEMA1A); Seriou
 | Yes | 19503 |
 | No | 38738 |
 | More than 1 check box filled in | 25 |
+| Not NA | 58266 |
 | NA | 43487 |
 
 
@@ -3682,6 +3824,7 @@ S_33_4:SKJEMA1E; (S_33_4:SKJEMA1C); (S_33_4:SKJEMA1B); (S_33_4:SKJEMA1A); Pre-ec
 | No | 49629 |
 | Yes | 3919 |
 | More than 1 check box filled in | 10 |
+| Not NA | 53558 |
 | NA | 48195 |
 
 
@@ -3694,6 +3837,7 @@ S_33_5:SKJEMA1E; (S_33_5:SKJEMA1C); (S_33_5:SKJEMA1B); (S_33_5:SKJEMA1A); Pregna
 | No | 51693 |
 | Yes | 759 |
 | More than 1 check box filled in | 2 |
+| Not NA | 52454 |
 | NA | 49299 |
 
 
@@ -3706,6 +3850,7 @@ S_33_6:SKJEMA1E; (S_33_6:SKJEMA1C); (S_33_6:SKJEMA1B); (S_33_6:SKJEMA1A); Sugar 
 | No | 47999 |
 | Yes | 5233 |
 | More than 1 check box filled in | 8 |
+| Not NA | 53240 |
 | NA | 48513 |
 
 
@@ -3718,6 +3863,7 @@ S_33_7:SKJEMA1E; (S_33_7:SKJEMA1C); (S_33_7:SKJEMA1B); (S_33_7:SKJEMA1A); Proble
 | No | 50071 |
 | Yes | 2878 |
 | More than 1 check box filled in | 6 |
+| Not NA | 52955 |
 | NA | 48798 |
 
 
@@ -3737,6 +3883,7 @@ S_34:SKJEMA1E; (S_34:SKJEMA1C); (S_34:SKJEMA1B); (S_34:SKJEMA1A); months after s
 | 2 | 707 |
 | 0 | 58 |
 | 9 | 41 |
+| Not NA | 12763 |
 | NA | 88990 |
 
 
@@ -3753,6 +3900,7 @@ S_35_1:SKJEMA1E; (S_35_1:SKJEMA1C); (S_35_1:SKJEMA1B); (S_35_1:SKJEMA1A); months
 | 3rd Qu. | 4 |
 | Max. | 99 |
 | NA's | 91755 |
+| Not NA | 9998 |
 
 
 ### AA163
@@ -3762,6 +3910,7 @@ S_35_2:SKJEMA1E; (S_35_2:SKJEMA1C); (S_35_2:SKJEMA1B); (S_35_2:SKJEMA1A); still 
 | Category | n |
 | -------- | - |
 | 1 | 3274 |
+| Not NA | 3274 |
 | NA | 98479 |
 
 
@@ -3774,6 +3923,7 @@ S_36:SKJEMA1E; (S_36:SKJEMA1C); (S_36:SKJEMA1B); ; 36. Have you had bleeding fro
 | No | 78168 |
 | Yes | 19941 |
 | More than 1 check box filled in | 12 |
+| Not NA | 98121 |
 | NA | 3632 |
 
 
@@ -3790,6 +3940,7 @@ S_37_1_4:SKJEMA1E; (S_37_1_4:SKJEMA1C); (S_37_1_4:SKJEMA1B); (S_50_1_4:SKJEMA1A)
 | 3rd Qu. | 3 |
 | Max. | 99 |
 | NA's | 82214 |
+| Not NA | 19539 |
 
 
 ### AA169
@@ -3805,6 +3956,7 @@ S_37_1_5:SKJEMA1E; (S_37_1_5:SKJEMA1C); (S_37_1_5:SKJEMA1B); (S_50_1_5:SKJEMA1A)
 | Clots | 771 |
 | Trace of blood + More than just a trace | 97 |
 | Trace of blood + More than just a trace + Clots | 29 |
+| Not NA | 20233 |
 | NA | 81520 |
 
 
@@ -3821,6 +3973,7 @@ S_37_2_4:SKJEMA1E; (S_37_2_4:SKJEMA1C); (S_37_2_4:SKJEMA1B); (S_50_2_4:SKJEMA1A)
 | 3rd Qu. | 2 |
 | Max. | 99 |
 | NA's | 93536 |
+| Not NA | 8217 |
 
 
 ### AA174
@@ -3836,6 +3989,7 @@ S_37_2_5:SKJEMA1E; (S_37_2_5:SKJEMA1C); (S_37_2_5:SKJEMA1B); (S_50_2_5:SKJEMA1A)
 | Trace of blood + More than just a trace | 39 |
 | More than just a trace + Clots | 166 |
 | Trace of blood + More than just a trace + Clots | 14 |
+| Not NA | 9038 |
 | NA | 92715 |
 
 
@@ -3852,6 +4006,7 @@ S_37_3:SKJEMA1E; (S_37_3:SKJEMA1C); (S_37_3:SKJEMA1B); (S_50_3:SKJEMA1A); If mor
 | 3rd Qu. | 5 |
 | Max. | 99 |
 | NA's | 98360 |
+| Not NA | 3393 |
 
 
 ### Q1_F_BLEED
@@ -3867,6 +4022,7 @@ Q1_F_BLEED:SKJEMA1E; (Q1_F_BLEED:SKJEMA1C); (Q1_F_BLEED:SKJEMA1B); (Q1_F_BLEED:S
 | 3rd Qu. | -200 |
 | Max. | 256935 |
 | NA's | 83341 |
+| Not NA | 18412 |
 
 
 ### Q1_L_BLEED
@@ -3882,6 +4038,7 @@ Q1_L_BLEED:SKJEMA1E; (Q1_L_BLEED:SKJEMA1C); (Q1_L_BLEED:SKJEMA1B); (Q1_L_BLEED:S
 | 3rd Qu. | -177 |
 | Max. | 544 |
 | NA's | 92914 |
+| Not NA | 8839 |
 
 
 ### AA176
@@ -3891,6 +4048,7 @@ S_38_1_1:SKJEMA1E; (S_38_1_1:SKJEMA1C); (S_38_1_1:SKJEMA1B); (S_51_1_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1351 |
+| Not NA | 1351 |
 | NA | 100402 |
 
 
@@ -3901,6 +4059,7 @@ S_38_1_2:SKJEMA1E; (S_38_1_2:SKJEMA1C); (S_38_1_2:SKJEMA1B); (S_51_1_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2789 |
+| Not NA | 2789 |
 | NA | 98964 |
 
 
@@ -3911,6 +4070,7 @@ S_38_1_3:SKJEMA1E; (S_38_1_3:SKJEMA1C); (S_38_1_3:SKJEMA1B); (S_51_1_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5635 |
+| Not NA | 5635 |
 | NA | 96118 |
 
 
@@ -3921,6 +4081,7 @@ S_38_1_4:SKJEMA1E; (S_38_1_4:SKJEMA1C); (S_38_1_4:SKJEMA1B); (S_51_1_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11079 |
+| Not NA | 11079 |
 | NA | 90674 |
 
 
@@ -3931,6 +4092,7 @@ S_38_1_6:SKJEMA1E; (S_38_1_6:SKJEMA1C); (S_38_1_6:SKJEMA1B); (S_51_1_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 360 |
+| Not NA | 360 |
 | NA | 101393 |
 
 
@@ -3941,6 +4103,7 @@ S_38_1_7:SKJEMA1E; (S_38_1_7:SKJEMA1C); (S_38_1_7:SKJEMA1B); (S_51_1_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 366 |
+| Not NA | 366 |
 | NA | 101387 |
 
 
@@ -3951,6 +4114,7 @@ S_38_1_8:SKJEMA1E; (S_38_1_8:SKJEMA1C); (S_38_1_8:SKJEMA1B); (S_51_1_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 408 |
+| Not NA | 408 |
 | NA | 101345 |
 
 
@@ -3961,6 +4125,7 @@ S_38_1_9:SKJEMA1E; (S_38_1_9:SKJEMA1C); (S_38_1_9:SKJEMA1B); (S_51_1_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 502 |
+| Not NA | 502 |
 | NA | 101251 |
 
 
@@ -4042,6 +4207,7 @@ S_38_110:SKJEMA1E; (S_38_110:SKJEMA1C); (S_38_110:SKJEMA1B); (S_51_110:SKJEMA1A)
 | 98 | 2 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 100947 |
+| Not NA | 806 |
 
 
 ### AA186
@@ -4051,6 +4217,7 @@ S_38_2_1:SKJEMA1E; (S_38_2_1:SKJEMA1C); (S_38_2_1:SKJEMA1B); Abdominal pain week
 | Category | n |
 | -------- | - |
 | 1 | 6700 |
+| Not NA | 6700 |
 | NA | 95053 |
 
 
@@ -4061,6 +4228,7 @@ S_38_2_2:SKJEMA1E; (S_38_2_2:SKJEMA1C); (S_38_2_2:SKJEMA1B); Abdominal pain week
 | Category | n |
 | -------- | - |
 | 1 | 11769 |
+| Not NA | 11769 |
 | NA | 89984 |
 
 
@@ -4071,6 +4239,7 @@ S_38_2_3:SKJEMA1E; (S_38_2_3:SKJEMA1C); (S_38_2_3:SKJEMA1B); Abdominal pain week
 | Category | n |
 | -------- | - |
 | 1 | 11012 |
+| Not NA | 11012 |
 | NA | 90741 |
 
 
@@ -4081,6 +4250,7 @@ S_38_2_4:SKJEMA1E; (S_38_2_4:SKJEMA1C); (S_38_2_4:SKJEMA1B); Abdominal pain, wee
 | Category | n |
 | -------- | - |
 | 1 | 9958 |
+| Not NA | 9958 |
 | NA | 91795 |
 
 
@@ -4091,6 +4261,7 @@ S_38_2_6:SKJEMA1E; (S_38_2_6:SKJEMA1C); (S_38_2_6:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 514 |
+| Not NA | 514 |
 | NA | 101239 |
 
 
@@ -4101,6 +4272,7 @@ S_38_2_7:SKJEMA1E; (S_38_2_7:SKJEMA1C); (S_38_2_7:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 605 |
+| Not NA | 605 |
 | NA | 101148 |
 
 
@@ -4111,6 +4283,7 @@ S_38_2_8:SKJEMA1E; (S_38_2_8:SKJEMA1C); (S_38_2_8:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 592 |
+| Not NA | 592 |
 | NA | 101161 |
 
 
@@ -4121,6 +4294,7 @@ S_38_2_9:SKJEMA1E; (S_38_2_9:SKJEMA1C); (S_38_2_9:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 579 |
+| Not NA | 579 |
 | NA | 101174 |
 
 
@@ -4206,6 +4380,7 @@ S_38_210:SKJEMA1E; (S_38_210:SKJEMA1C); (S_38_210:SKJEMA1B); Medication against 
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 100305 |
+| Not NA | 1448 |
 
 
 ### AA196
@@ -4215,6 +4390,7 @@ S_38_3_1:SKJEMA1E; (S_38_3_1:SKJEMA1C); (S_38_3_1:SKJEMA1B); Back pain week 0-4 
 | Category | n |
 | -------- | - |
 | 1 | 4097 |
+| Not NA | 4097 |
 | NA | 97656 |
 
 
@@ -4225,6 +4401,7 @@ S_38_3_2:SKJEMA1E; (S_38_3_2:SKJEMA1C); (S_38_3_2:SKJEMA1B); Back pain week 5-8 
 | Category | n |
 | -------- | - |
 | 1 | 6988 |
+| Not NA | 6988 |
 | NA | 94765 |
 
 
@@ -4235,6 +4412,7 @@ S_38_3_3:SKJEMA1E; (S_38_3_3:SKJEMA1C); (S_38_3_3:SKJEMA1B); Back pain week 9-12
 | Category | n |
 | -------- | - |
 | 1 | 12265 |
+| Not NA | 12265 |
 | NA | 89488 |
 
 
@@ -4245,6 +4423,7 @@ S_38_3_4:SKJEMA1E; (S_38_3_4:SKJEMA1C); (S_38_3_4:SKJEMA1B); Back pain, week 13+
 | Category | n |
 | -------- | - |
 | 1 | 21292 |
+| Not NA | 21292 |
 | NA | 80461 |
 
 
@@ -4255,6 +4434,7 @@ S_38_3_6:SKJEMA1E; (S_38_3_6:SKJEMA1C); (S_38_3_6:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 334 |
+| Not NA | 334 |
 | NA | 101419 |
 
 
@@ -4265,6 +4445,7 @@ S_38_3_7:SKJEMA1E; (S_38_3_7:SKJEMA1C); (S_38_3_7:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 340 |
+| Not NA | 340 |
 | NA | 101413 |
 
 
@@ -4275,6 +4456,7 @@ S_38_3_8:SKJEMA1E; (S_38_3_8:SKJEMA1C); (S_38_3_8:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 476 |
+| Not NA | 476 |
 | NA | 101277 |
 
 
@@ -4285,6 +4467,7 @@ S_38_3_9:SKJEMA1E; (S_38_3_9:SKJEMA1C); (S_38_3_9:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 617 |
+| Not NA | 617 |
 | NA | 101136 |
 
 
@@ -4348,6 +4531,7 @@ S_38_310:SKJEMA1E; (S_38_310:SKJEMA1C); (S_38_310:SKJEMA1B); Medication against 
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 100609 |
+| Not NA | 1144 |
 
 
 ### AA206
@@ -4357,6 +4541,7 @@ S_38_4_1:SKJEMA1E; (S_38_4_1:SKJEMA1C); (S_38_4_1:SKJEMA1B); Neck and shoulder p
 | Category | n |
 | -------- | - |
 | 1 | 3913 |
+| Not NA | 3913 |
 | NA | 97840 |
 
 
@@ -4367,6 +4552,7 @@ S_38_4_2:SKJEMA1E; (S_38_4_2:SKJEMA1C); (S_38_4_2:SKJEMA1B); Neck and shoulder p
 | Category | n |
 | -------- | - |
 | 1 | 5177 |
+| Not NA | 5177 |
 | NA | 96576 |
 
 
@@ -4377,6 +4563,7 @@ S_38_4_3:SKJEMA1E; (S_38_4_3:SKJEMA1C); (S_38_4_3:SKJEMA1B); Neck and shoulder p
 | Category | n |
 | -------- | - |
 | 1 | 8018 |
+| Not NA | 8018 |
 | NA | 93735 |
 
 
@@ -4387,6 +4574,7 @@ S_38_4_4:SKJEMA1E; (S_38_4_4:SKJEMA1C); (S_38_4_4:SKJEMA1B); Neck and shoulder p
 | Category | n |
 | -------- | - |
 | 1 | 10877 |
+| Not NA | 10877 |
 | NA | 90876 |
 
 
@@ -4397,6 +4585,7 @@ S_38_4_6:SKJEMA1E; (S_38_4_6:SKJEMA1C); (S_38_4_6:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 547 |
+| Not NA | 547 |
 | NA | 101206 |
 
 
@@ -4407,6 +4596,7 @@ S_38_4_7:SKJEMA1E; (S_38_4_7:SKJEMA1C); (S_38_4_7:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 693 |
+| Not NA | 693 |
 | NA | 101060 |
 
 
@@ -4417,6 +4607,7 @@ S_38_4_8:SKJEMA1E; (S_38_4_8:SKJEMA1C); (S_38_4_8:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 1126 |
+| Not NA | 1126 |
 | NA | 100627 |
 
 
@@ -4427,6 +4618,7 @@ S_38_4_9:SKJEMA1E; (S_38_4_9:SKJEMA1C); (S_38_4_9:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 1369 |
+| Not NA | 1369 |
 | NA | 100384 |
 
 
@@ -4488,6 +4680,7 @@ S_38_410:SKJEMA1E; (S_38_410:SKJEMA1C); (S_38_410:SKJEMA1B); Medication against 
 | 95 | 1 |
 | More than one number given because more than one medication have been reported | 2 |
 | NA's | 99626 |
+| Not NA | 2127 |
 
 
 ### AA216
@@ -4497,6 +4690,7 @@ S_38_5_1:SKJEMA1E; (S_38_5_1:SKJEMA1C); (S_38_5_1:SKJEMA1B); (S_51_2_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 21475 |
+| Not NA | 21475 |
 | NA | 80278 |
 
 
@@ -4507,6 +4701,7 @@ S_38_5_2:SKJEMA1E; (S_38_5_2:SKJEMA1C); (S_38_5_2:SKJEMA1B); (S_51_2_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 55852 |
+| Not NA | 55852 |
 | NA | 45901 |
 
 
@@ -4517,6 +4712,7 @@ S_38_5_3:SKJEMA1E; (S_38_5_3:SKJEMA1C); (S_38_5_3:SKJEMA1B); (S_51_2_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 51063 |
+| Not NA | 51063 |
 | NA | 50690 |
 
 
@@ -4527,6 +4723,7 @@ S_38_5_4:SKJEMA1E; (S_38_5_4:SKJEMA1C); (S_38_5_4:SKJEMA1B); (S_51_2_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 24767 |
+| Not NA | 24767 |
 | NA | 76986 |
 
 
@@ -4537,6 +4734,7 @@ S_38_5_6:SKJEMA1E; (S_38_5_6:SKJEMA1C); (S_38_5_6:SKJEMA1B); (S_51_2_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 417 |
+| Not NA | 417 |
 | NA | 101336 |
 
 
@@ -4547,6 +4745,7 @@ S_38_5_7:SKJEMA1E; (S_38_5_7:SKJEMA1C); (S_38_5_7:SKJEMA1B); (S_51_2_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2034 |
+| Not NA | 2034 |
 | NA | 99719 |
 
 
@@ -4557,6 +4756,7 @@ S_38_5_8:SKJEMA1E; (S_38_5_8:SKJEMA1C); (S_38_5_8:SKJEMA1B); (S_51_2_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2432 |
+| Not NA | 2432 |
 | NA | 99321 |
 
 
@@ -4567,6 +4767,7 @@ S_38_5_9:SKJEMA1E; (S_38_5_9:SKJEMA1C); (S_38_5_9:SKJEMA1B); (S_51_2_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1256 |
+| Not NA | 1256 |
 | NA | 100497 |
 
 
@@ -4674,6 +4875,7 @@ S_38_510:SKJEMA1E; (S_38_510:SKJEMA1C); (S_38_510:SKJEMA1B); (S_51_210:SKJEMA1A)
 | 98 | 2 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 98327 |
+| Not NA | 3426 |
 
 
 ### AA226
@@ -4683,6 +4885,7 @@ S_38_6_1:SKJEMA1E; (S_38_6_1:SKJEMA1C); (S_38_6_1:SKJEMA1B); (S_51_3_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 7777 |
+| Not NA | 7777 |
 | NA | 93976 |
 
 
@@ -4693,6 +4896,7 @@ S_38_6_2:SKJEMA1E; (S_38_6_2:SKJEMA1C); (S_38_6_2:SKJEMA1B); (S_51_3_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 25221 |
+| Not NA | 25221 |
 | NA | 76532 |
 
 
@@ -4703,6 +4907,7 @@ S_38_6_3:SKJEMA1E; (S_38_6_3:SKJEMA1C); (S_38_6_3:SKJEMA1B); (S_51_3_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 27298 |
+| Not NA | 27298 |
 | NA | 74455 |
 
 
@@ -4713,6 +4918,7 @@ S_38_6_4:SKJEMA1E; (S_38_6_4:SKJEMA1C); (S_38_6_4:SKJEMA1B); (S_51_3_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 16504 |
+| Not NA | 16504 |
 | NA | 85249 |
 
 
@@ -4723,6 +4929,7 @@ S_38_6_6:SKJEMA1E; (S_38_6_6:SKJEMA1C); (S_38_6_6:SKJEMA1B); (S_51_3_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 238 |
+| Not NA | 238 |
 | NA | 101515 |
 
 
@@ -4733,6 +4940,7 @@ S_38_6_7:SKJEMA1E; (S_38_6_7:SKJEMA1C); (S_38_6_7:SKJEMA1B); (S_51_3_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1539 |
+| Not NA | 1539 |
 | NA | 100214 |
 
 
@@ -4743,6 +4951,7 @@ S_38_6_8:SKJEMA1E; (S_38_6_8:SKJEMA1C); (S_38_6_8:SKJEMA1B); (S_51_3_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2199 |
+| Not NA | 2199 |
 | NA | 99554 |
 
 
@@ -4753,6 +4962,7 @@ S_38_6_9:SKJEMA1E; (S_38_6_9:SKJEMA1C); (S_38_6_9:SKJEMA1B); (S_51_3_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1374 |
+| Not NA | 1374 |
 | NA | 100379 |
 
 
@@ -4859,6 +5069,7 @@ S_38_610:SKJEMA1E; (S_38_610:SKJEMA1C); (S_38_610:SKJEMA1B); (S_51_310:SKJEMA1A)
 | 98 | 2 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 98814 |
+| Not NA | 2939 |
 
 
 ### AA236
@@ -4868,6 +5079,7 @@ S_38_7_1:SKJEMA1E; (S_38_7_1:SKJEMA1C); (S_38_7_1:SKJEMA1B); (S_51_4_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3852 |
+| Not NA | 3852 |
 | NA | 97901 |
 
 
@@ -4878,6 +5090,7 @@ S_38_7_2:SKJEMA1E; (S_38_7_2:SKJEMA1C); (S_38_7_2:SKJEMA1B); (S_51_4_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6603 |
+| Not NA | 6603 |
 | NA | 95150 |
 
 
@@ -4888,6 +5101,7 @@ S_38_7_3:SKJEMA1E; (S_38_7_3:SKJEMA1C); (S_38_7_3:SKJEMA1B); (S_51_4_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 7968 |
+| Not NA | 7968 |
 | NA | 93785 |
 
 
@@ -4898,6 +5112,7 @@ S_38_7_4:SKJEMA1E; (S_38_7_4:SKJEMA1C); (S_38_7_4:SKJEMA1B); (S_51_4_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8056 |
+| Not NA | 8056 |
 | NA | 93697 |
 
 
@@ -4908,6 +5123,7 @@ S_38_7_6:SKJEMA1E; (S_38_7_6:SKJEMA1C); (S_38_7_6:SKJEMA1B); (S_51_4_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1329 |
+| Not NA | 1329 |
 | NA | 100424 |
 
 
@@ -4918,6 +5134,7 @@ S_38_7_7:SKJEMA1E; (S_38_7_7:SKJEMA1C); (S_38_7_7:SKJEMA1B); (S_51_4_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2539 |
+| Not NA | 2539 |
 | NA | 99214 |
 
 
@@ -4928,6 +5145,7 @@ S_38_7_8:SKJEMA1E; (S_38_7_8:SKJEMA1C); (S_38_7_8:SKJEMA1B); (S_51_4_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3464 |
+| Not NA | 3464 |
 | NA | 98289 |
 
 
@@ -4938,6 +5156,7 @@ S_38_7_9:SKJEMA1E; (S_38_7_9:SKJEMA1C); (S_38_7_9:SKJEMA1B); (S_51_4_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3994 |
+| Not NA | 3994 |
 | NA | 97759 |
 
 
@@ -5009,6 +5228,7 @@ S_38_710:SKJEMA1E; (S_38_710:SKJEMA1C); (S_38_710:SKJEMA1B); (S_51_410:SKJEMA1A)
 | 95 | 1 |
 | More than one number given because more than one medication have been reported | 3 |
 | NA's | 93241 |
+| Not NA | 8512 |
 
 
 ### AA246
@@ -5018,6 +5238,7 @@ S_38_8_1:SKJEMA1E; (S_38_8_1:SKJEMA1C); (S_38_8_1:SKJEMA1B); (S_51_5_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1020 |
+| Not NA | 1020 |
 | NA | 100733 |
 
 
@@ -5028,6 +5249,7 @@ S_38_8_2:SKJEMA1E; (S_38_8_2:SKJEMA1C); (S_38_8_2:SKJEMA1B); (S_51_5_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2271 |
+| Not NA | 2271 |
 | NA | 99482 |
 
 
@@ -5038,6 +5260,7 @@ S_38_8_3:SKJEMA1E; (S_38_8_3:SKJEMA1C); (S_38_8_3:SKJEMA1B); (S_51_5_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3262 |
+| Not NA | 3262 |
 | NA | 98491 |
 
 
@@ -5048,6 +5271,7 @@ S_38_8_4:SKJEMA1E; (S_38_8_4:SKJEMA1C); (S_38_8_4:SKJEMA1B); (S_51_5_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3306 |
+| Not NA | 3306 |
 | NA | 98447 |
 
 
@@ -5058,6 +5282,7 @@ S_38_8_6:SKJEMA1E; (S_38_8_6:SKJEMA1C); (S_38_8_6:SKJEMA1B); (S_51_5_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 57 |
+| Not NA | 57 |
 | NA | 101696 |
 
 
@@ -5068,6 +5293,7 @@ S_38_8_7:SKJEMA1E; (S_38_8_7:SKJEMA1C); (S_38_8_7:SKJEMA1B); (S_51_5_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 103 |
+| Not NA | 103 |
 | NA | 101650 |
 
 
@@ -5078,6 +5304,7 @@ S_38_8_8:SKJEMA1E; (S_38_8_8:SKJEMA1C); (S_38_8_8:SKJEMA1B); (S_51_5_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 170 |
+| Not NA | 170 |
 | NA | 101583 |
 
 
@@ -5088,6 +5315,7 @@ S_38_8_9:SKJEMA1E; (S_38_8_9:SKJEMA1C); (S_38_8_9:SKJEMA1B); (S_51_5_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 215 |
+| Not NA | 215 |
 | NA | 101538 |
 
 
@@ -5125,6 +5353,7 @@ S_38_810:SKJEMA1E; (S_38_810:SKJEMA1C); (S_38_810:SKJEMA1B); (S_51_510:SKJEMA1A)
 | 8 | 12 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 101257 |
+| Not NA | 496 |
 
 
 ### AA256
@@ -5134,6 +5363,7 @@ S_38_9_1:SKJEMA1E; (S_38_9_1:SKJEMA1C); (S_38_9_1:SKJEMA1B); (S_51_6_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 919 |
+| Not NA | 919 |
 | NA | 100834 |
 
 
@@ -5144,6 +5374,7 @@ S_38_9_2:SKJEMA1E; (S_38_9_2:SKJEMA1C); (S_38_9_2:SKJEMA1B); (S_51_6_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2225 |
+| Not NA | 2225 |
 | NA | 99528 |
 
 
@@ -5154,6 +5385,7 @@ S_38_9_3:SKJEMA1E; (S_38_9_3:SKJEMA1C); (S_38_9_3:SKJEMA1B); (S_51_6_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3983 |
+| Not NA | 3983 |
 | NA | 97770 |
 
 
@@ -5164,6 +5396,7 @@ S_38_9_4:SKJEMA1E; (S_38_9_4:SKJEMA1C); (S_38_9_4:SKJEMA1B); (S_51_6_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5893 |
+| Not NA | 5893 |
 | NA | 95860 |
 
 
@@ -5174,6 +5407,7 @@ S_38_9_6:SKJEMA1E; (S_38_9_6:SKJEMA1C); (S_38_9_6:SKJEMA1B); (S_51_6_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 46 |
+| Not NA | 46 |
 | NA | 101707 |
 
 
@@ -5184,6 +5418,7 @@ S_38_9_7:SKJEMA1E; (S_38_9_7:SKJEMA1C); (S_38_9_7:SKJEMA1B); (S_51_6_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 70 |
+| Not NA | 70 |
 | NA | 101683 |
 
 
@@ -5194,6 +5429,7 @@ S_38_9_8:SKJEMA1E; (S_38_9_8:SKJEMA1C); (S_38_9_8:SKJEMA1B); (S_51_6_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 119 |
+| Not NA | 119 |
 | NA | 101634 |
 
 
@@ -5204,6 +5440,7 @@ S_38_9_9:SKJEMA1E; (S_38_9_9:SKJEMA1C); (S_38_9_9:SKJEMA1B); (S_51_6_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 216 |
+| Not NA | 216 |
 | NA | 101537 |
 
 
@@ -5259,6 +5496,7 @@ S_38_910:SKJEMA1E; (S_38_910:SKJEMA1C); (S_38_910:SKJEMA1B); (S_51_610:SKJEMA1A)
 | 95 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101441 |
+| Not NA | 312 |
 
 
 ### AA266
@@ -5268,6 +5506,7 @@ S_3810_1:SKJEMA1E; (S_3810_1:SKJEMA1C); (S_3810_1:SKJEMA1B); (S_51_7_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6762 |
+| Not NA | 6762 |
 | NA | 94991 |
 
 
@@ -5278,6 +5517,7 @@ S_3810_2:SKJEMA1E; (S_3810_2:SKJEMA1C); (S_3810_2:SKJEMA1B); (S_51_7_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 18519 |
+| Not NA | 18519 |
 | NA | 83234 |
 
 
@@ -5288,6 +5528,7 @@ S_3810_3:SKJEMA1E; (S_3810_3:SKJEMA1C); (S_3810_3:SKJEMA1B); (S_51_7_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 24100 |
+| Not NA | 24100 |
 | NA | 77653 |
 
 
@@ -5298,6 +5539,7 @@ S_3810_4:SKJEMA1E; (S_3810_4:SKJEMA1C); (S_3810_4:SKJEMA1B); (S_51_7_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 21428 |
+| Not NA | 21428 |
 | NA | 80325 |
 
 
@@ -5308,6 +5550,7 @@ S_3810_6:SKJEMA1E; (S_3810_6:SKJEMA1C); (S_3810_6:SKJEMA1B); (S_51_7_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 327 |
+| Not NA | 327 |
 | NA | 101426 |
 
 
@@ -5318,6 +5561,7 @@ S_3810_7:SKJEMA1E; (S_3810_7:SKJEMA1C); (S_3810_7:SKJEMA1B); (S_51_7_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 806 |
+| Not NA | 806 |
 | NA | 100947 |
 
 
@@ -5328,6 +5572,7 @@ S_3810_8:SKJEMA1E; (S_3810_8:SKJEMA1C); (S_3810_8:SKJEMA1B); (S_51_7_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1278 |
+| Not NA | 1278 |
 | NA | 100475 |
 
 
@@ -5338,6 +5583,7 @@ S_3810_9:SKJEMA1E; (S_3810_9:SKJEMA1C); (S_3810_9:SKJEMA1B); (S_51_7_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1361 |
+| Not NA | 1361 |
 | NA | 100392 |
 
 
@@ -5434,6 +5680,7 @@ S_381010:SKJEMA1E; (S_381010:SKJEMA1C); (S_381010:SKJEMA1B); (S_51_710:SKJEMA1A)
 | 98 | 2 |
 | More than one number given because more than one medication have been reported | 4 |
 | NA's | 99613 |
+| Not NA | 2140 |
 
 
 ### AA276
@@ -5443,6 +5690,7 @@ S_3811_1:SKJEMA1E; (S_3811_1:SKJEMA1C); (S_3811_1:SKJEMA1B); (S_51_9_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1745 |
+| Not NA | 1745 |
 | NA | 100008 |
 
 
@@ -5453,6 +5701,7 @@ S_3811_2:SKJEMA1E; (S_3811_2:SKJEMA1C); (S_3811_2:SKJEMA1B); (S_51_9_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3421 |
+| Not NA | 3421 |
 | NA | 98332 |
 
 
@@ -5463,6 +5712,7 @@ S_3811_3:SKJEMA1E; (S_3811_3:SKJEMA1C); (S_3811_3:SKJEMA1B); (S_51_9_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4277 |
+| Not NA | 4277 |
 | NA | 97476 |
 
 
@@ -5473,6 +5723,7 @@ S_3811_4:SKJEMA1E; (S_3811_4:SKJEMA1C); (S_3811_4:SKJEMA1B); (S_51_9_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5043 |
+| Not NA | 5043 |
 | NA | 96710 |
 
 
@@ -5483,6 +5734,7 @@ S_3811_6:SKJEMA1E; (S_3811_6:SKJEMA1C); (S_3811_6:SKJEMA1B); (S_51_9_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 118 |
+| Not NA | 118 |
 | NA | 101635 |
 
 
@@ -5493,6 +5745,7 @@ S_3811_7:SKJEMA1E; (S_3811_7:SKJEMA1C); (S_3811_7:SKJEMA1B); (S_51_9_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 94 |
+| Not NA | 94 |
 | NA | 101659 |
 
 
@@ -5503,6 +5756,7 @@ S_3811_8:SKJEMA1E; (S_3811_8:SKJEMA1C); (S_3811_8:SKJEMA1B); (S_51_9_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 153 |
+| Not NA | 153 |
 | NA | 101600 |
 
 
@@ -5513,6 +5767,7 @@ S_3811_9:SKJEMA1E; (S_3811_9:SKJEMA1C); (S_3811_9:SKJEMA1B); (S_51_9_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 237 |
+| Not NA | 237 |
 | NA | 101516 |
 
 
@@ -5556,6 +5811,7 @@ S_381110:SKJEMA1E; (S_381110:SKJEMA1C); (S_381110:SKJEMA1B); (S_51_910:SKJEMA1A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101202 |
+| Not NA | 551 |
 
 
 ### AA286
@@ -5565,6 +5821,7 @@ S_3812_1:SKJEMA1E; (S_3812_1:SKJEMA1C); (S_3812_1:SKJEMA1B); (S_5110_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 23904 |
+| Not NA | 23904 |
 | NA | 77849 |
 
 
@@ -5575,6 +5832,7 @@ S_3812_2:SKJEMA1E; (S_3812_2:SKJEMA1C); (S_3812_2:SKJEMA1B); (S_5110_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 55756 |
+| Not NA | 55756 |
 | NA | 45997 |
 
 
@@ -5585,6 +5843,7 @@ S_3812_3:SKJEMA1E; (S_3812_3:SKJEMA1C); (S_3812_3:SKJEMA1B); (S_5110_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 54349 |
+| Not NA | 54349 |
 | NA | 47404 |
 
 
@@ -5595,6 +5854,7 @@ S_3812_4:SKJEMA1E; (S_3812_4:SKJEMA1C); (S_3812_4:SKJEMA1B); (S_5110_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 29087 |
+| Not NA | 29087 |
 | NA | 72666 |
 
 
@@ -5605,6 +5865,7 @@ S_3812_6:SKJEMA1E; (S_3812_6:SKJEMA1C); (S_3812_6:SKJEMA1B); (S_5110_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 103 |
+| Not NA | 103 |
 | NA | 101650 |
 
 
@@ -5615,6 +5876,7 @@ S_3812_7:SKJEMA1E; (S_3812_7:SKJEMA1C); (S_3812_7:SKJEMA1B); (S_5110_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 133 |
+| Not NA | 133 |
 | NA | 101620 |
 
 
@@ -5625,6 +5887,7 @@ S_3812_8:SKJEMA1E; (S_3812_8:SKJEMA1C); (S_3812_8:SKJEMA1B); (S_5110_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 172 |
+| Not NA | 172 |
 | NA | 101581 |
 
 
@@ -5635,6 +5898,7 @@ S_3812_9:SKJEMA1E; (S_3812_9:SKJEMA1C); (S_3812_9:SKJEMA1B); (S_5110_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 198 |
+| Not NA | 198 |
 | NA | 101555 |
 
 
@@ -5695,6 +5959,7 @@ S_381210:SKJEMA1E; (S_381210:SKJEMA1C); (S_381210:SKJEMA1B); (S_511010:SKJEMA1A)
 | 91 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 101452 |
+| Not NA | 301 |
 
 
 ### AA296
@@ -5704,6 +5969,7 @@ S_3813_1:SKJEMA1E; (S_3813_1:SKJEMA1C); (S_3813_1:SKJEMA1B); Sleeping problems w
 | Category | n |
 | -------- | - |
 | 1 | 2749 |
+| Not NA | 2749 |
 | NA | 99004 |
 
 
@@ -5714,6 +5980,7 @@ S_3813_2:SKJEMA1E; (S_3813_2:SKJEMA1C); (S_3813_2:SKJEMA1B); Sleeping problems w
 | Category | n |
 | -------- | - |
 | 1 | 6431 |
+| Not NA | 6431 |
 | NA | 95322 |
 
 
@@ -5724,6 +5991,7 @@ S_3813_3:SKJEMA1E; (S_3813_3:SKJEMA1C); (S_3813_3:SKJEMA1B); Sleeping problems w
 | Category | n |
 | -------- | - |
 | 1 | 8770 |
+| Not NA | 8770 |
 | NA | 92983 |
 
 
@@ -5734,6 +6002,7 @@ S_3813_4:SKJEMA1E; (S_3813_4:SKJEMA1C); (S_3813_4:SKJEMA1B); Sleeping problems, 
 | Category | n |
 | -------- | - |
 | 1 | 10433 |
+| Not NA | 10433 |
 | NA | 91320 |
 
 
@@ -5744,6 +6013,7 @@ S_3813_6:SKJEMA1E; (S_3813_6:SKJEMA1C); (S_3813_6:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 125 |
+| Not NA | 125 |
 | NA | 101628 |
 
 
@@ -5754,6 +6024,7 @@ S_3813_7:SKJEMA1E; (S_3813_7:SKJEMA1C); (S_3813_7:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 106 |
+| Not NA | 106 |
 | NA | 101647 |
 
 
@@ -5764,6 +6035,7 @@ S_3813_8:SKJEMA1E; (S_3813_8:SKJEMA1C); (S_3813_8:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 132 |
+| Not NA | 132 |
 | NA | 101621 |
 
 
@@ -5774,6 +6046,7 @@ S_3813_9:SKJEMA1E; (S_3813_9:SKJEMA1C); (S_3813_9:SKJEMA1B); Medication against 
 | Category | n |
 | -------- | - |
 | 1 | 159 |
+| Not NA | 159 |
 | NA | 101594 |
 
 
@@ -5832,6 +6105,7 @@ S_381310:SKJEMA1E; (S_381310:SKJEMA1C); (S_381310:SKJEMA1B); Medication against 
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101422 |
+| Not NA | 331 |
 
 
 ### AA306
@@ -5841,6 +6115,7 @@ S_3814_1:SKJEMA1E; (S_3814_1:SKJEMA1C); (S_3814_1:SKJEMA1B); (S_5111_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2671 |
+| Not NA | 2671 |
 | NA | 99082 |
 
 
@@ -5851,6 +6126,7 @@ S_3814_2:SKJEMA1E; (S_3814_2:SKJEMA1C); (S_3814_2:SKJEMA1B); (S_5111_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6239 |
+| Not NA | 6239 |
 | NA | 95514 |
 
 
@@ -5861,6 +6137,7 @@ S_3814_3:SKJEMA1E; (S_3814_3:SKJEMA1C); (S_3814_3:SKJEMA1B); (S_5111_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 10091 |
+| Not NA | 10091 |
 | NA | 91662 |
 
 
@@ -5871,6 +6148,7 @@ S_3814_4:SKJEMA1E; (S_3814_4:SKJEMA1C); (S_3814_4:SKJEMA1B); (S_5111_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 18226 |
+| Not NA | 18226 |
 | NA | 83527 |
 
 
@@ -5881,6 +6159,7 @@ S_3814_6:SKJEMA1E; (S_3814_6:SKJEMA1C); (S_3814_6:SKJEMA1B); (S_5111_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 380 |
+| Not NA | 380 |
 | NA | 101373 |
 
 
@@ -5891,6 +6170,7 @@ S_3814_7:SKJEMA1E; (S_3814_7:SKJEMA1C); (S_3814_7:SKJEMA1B); (S_5111_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 791 |
+| Not NA | 791 |
 | NA | 100962 |
 
 
@@ -5901,6 +6181,7 @@ S_3814_8:SKJEMA1E; (S_3814_8:SKJEMA1C); (S_3814_8:SKJEMA1B); (S_5111_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1403 |
+| Not NA | 1403 |
 | NA | 100350 |
 
 
@@ -5911,6 +6192,7 @@ S_3814_9:SKJEMA1E; (S_3814_9:SKJEMA1C); (S_3814_9:SKJEMA1B); (S_5111_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2309 |
+| Not NA | 2309 |
 | NA | 99444 |
 
 
@@ -6000,6 +6282,7 @@ S_381410:SKJEMA1E; (S_381410:SKJEMA1C); (S_381410:SKJEMA1B); (S_511110:SKJEMA1A)
 | 98 | 2 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 99222 |
+| Not NA | 2531 |
 
 
 ### AA316
@@ -6009,6 +6292,7 @@ S_3815_1:SKJEMA1E; (S_3815_1:SKJEMA1C); (S_3815_1:SKJEMA1B); (S_5112_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 409 |
+| Not NA | 409 |
 | NA | 101344 |
 
 
@@ -6019,6 +6303,7 @@ S_3815_2:SKJEMA1E; (S_3815_2:SKJEMA1C); (S_3815_2:SKJEMA1B); (S_5112_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 652 |
+| Not NA | 652 |
 | NA | 101101 |
 
 
@@ -6029,6 +6314,7 @@ S_3815_3:SKJEMA1E; (S_3815_3:SKJEMA1C); (S_3815_3:SKJEMA1B); (S_5112_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1336 |
+| Not NA | 1336 |
 | NA | 100417 |
 
 
@@ -6039,6 +6325,7 @@ S_3815_4:SKJEMA1E; (S_3815_4:SKJEMA1C); (S_3815_4:SKJEMA1B); (S_5112_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4034 |
+| Not NA | 4034 |
 | NA | 97719 |
 
 
@@ -6049,6 +6336,7 @@ S_3815_6:SKJEMA1E; (S_3815_6:SKJEMA1C); (S_3815_6:SKJEMA1B); (S_5112_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -6059,6 +6347,7 @@ S_3815_7:SKJEMA1E; (S_3815_7:SKJEMA1C); (S_3815_7:SKJEMA1B); (S_5112_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 101731 |
 
 
@@ -6069,6 +6358,7 @@ S_3815_8:SKJEMA1E; (S_3815_8:SKJEMA1C); (S_3815_8:SKJEMA1B); (S_5112_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 101733 |
 
 
@@ -6079,6 +6369,7 @@ S_3815_9:SKJEMA1E; (S_3815_9:SKJEMA1C); (S_3815_9:SKJEMA1B); (S_5112_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 37 |
+| Not NA | 37 |
 | NA | 101716 |
 
 
@@ -6107,6 +6398,7 @@ S_381510:SKJEMA1E; (S_381510:SKJEMA1C); (S_381510:SKJEMA1B); (S_511210:SKJEMA1A)
 | 50 | 1 |
 | 14 | 1 |
 | 89 | 1 |
+| Not NA | 78 |
 | NA | 101675 |
 
 
@@ -6117,6 +6409,7 @@ S_3816_1:SKJEMA1E; (S_3816_1:SKJEMA1C); (S_3816_1:SKJEMA1B); (S_5113_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 77 |
+| Not NA | 77 |
 | NA | 101676 |
 
 
@@ -6127,6 +6420,7 @@ S_3816_2:SKJEMA1E; (S_3816_2:SKJEMA1C); (S_3816_2:SKJEMA1B); (S_5113_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 67 |
+| Not NA | 67 |
 | NA | 101686 |
 
 
@@ -6137,6 +6431,7 @@ S_3816_3:SKJEMA1E; (S_3816_3:SKJEMA1C); (S_3816_3:SKJEMA1B); (S_5113_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 92 |
+| Not NA | 92 |
 | NA | 101661 |
 
 
@@ -6147,6 +6442,7 @@ S_3816_4:SKJEMA1E; (S_3816_4:SKJEMA1C); (S_3816_4:SKJEMA1B); (S_5113_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 85 |
+| Not NA | 85 |
 | NA | 101668 |
 
 
@@ -6157,6 +6453,7 @@ S_3816_6:SKJEMA1E; (S_3816_6:SKJEMA1C); (S_3816_6:SKJEMA1B); (S_5113_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -6167,6 +6464,7 @@ S_3816_7:SKJEMA1E; (S_3816_7:SKJEMA1C); (S_3816_7:SKJEMA1B); (S_5113_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 30 |
+| Not NA | 30 |
 | NA | 101723 |
 
 
@@ -6177,6 +6475,7 @@ S_3816_8:SKJEMA1E; (S_3816_8:SKJEMA1C); (S_3816_8:SKJEMA1B); (S_5113_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 101714 |
 
 
@@ -6187,6 +6486,7 @@ S_3816_9:SKJEMA1E; (S_3816_9:SKJEMA1C); (S_3816_9:SKJEMA1B); (S_5113_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 31 |
+| Not NA | 31 |
 | NA | 101722 |
 
 
@@ -6209,6 +6509,7 @@ S_381610:SKJEMA1E; (S_381610:SKJEMA1C); (S_381610:SKJEMA1B); (S_511310:SKJEMA1A)
 | 2 | 9 |
 | 20 | 2 |
 | 5 | 3 |
+| Not NA | 86 |
 | NA | 101667 |
 
 
@@ -6219,6 +6520,7 @@ S_3817_1:SKJEMA1E; (S_3817_1:SKJEMA1C); (S_3817_1:SKJEMA1B); (S_5114_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 767 |
+| Not NA | 767 |
 | NA | 100986 |
 
 
@@ -6229,6 +6531,7 @@ S_3817_2:SKJEMA1E; (S_3817_2:SKJEMA1C); (S_3817_2:SKJEMA1B); (S_5114_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1209 |
+| Not NA | 1209 |
 | NA | 100544 |
 
 
@@ -6239,6 +6542,7 @@ S_3817_3:SKJEMA1E; (S_3817_3:SKJEMA1C); (S_3817_3:SKJEMA1B); (S_5114_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1383 |
+| Not NA | 1383 |
 | NA | 100370 |
 
 
@@ -6249,6 +6553,7 @@ S_3817_4:SKJEMA1E; (S_3817_4:SKJEMA1C); (S_3817_4:SKJEMA1B); (S_5114_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1626 |
+| Not NA | 1626 |
 | NA | 100127 |
 
 
@@ -6259,6 +6564,7 @@ S_3817_6:SKJEMA1E; (S_3817_6:SKJEMA1C); (S_3817_6:SKJEMA1B); (S_5114_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 268 |
+| Not NA | 268 |
 | NA | 101485 |
 
 
@@ -6269,6 +6575,7 @@ S_3817_7:SKJEMA1E; (S_3817_7:SKJEMA1C); (S_3817_7:SKJEMA1B); (S_5114_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 441 |
+| Not NA | 441 |
 | NA | 101312 |
 
 
@@ -6279,6 +6586,7 @@ S_3817_8:SKJEMA1E; (S_3817_8:SKJEMA1C); (S_3817_8:SKJEMA1B); (S_5114_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 559 |
+| Not NA | 559 |
 | NA | 101194 |
 
 
@@ -6289,6 +6597,7 @@ S_3817_9:SKJEMA1E; (S_3817_9:SKJEMA1C); (S_3817_9:SKJEMA1B); (S_5114_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 708 |
+| Not NA | 708 |
 | NA | 101045 |
 
 
@@ -6325,6 +6634,7 @@ S_381710:SKJEMA1E; (S_381710:SKJEMA1C); (S_381710:SKJEMA1B); (S_511410:SKJEMA1A)
 | 9 | 4 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 99883 |
+| Not NA | 1870 |
 
 
 ### AA346
@@ -6334,6 +6644,7 @@ S_3818_1:SKJEMA1E; (S_3818_1:SKJEMA1C); (S_3818_1:SKJEMA1B); (S_5115_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4526 |
+| Not NA | 4526 |
 | NA | 97227 |
 
 
@@ -6344,6 +6655,7 @@ S_3818_2:SKJEMA1E; (S_3818_2:SKJEMA1C); (S_3818_2:SKJEMA1B); (S_5115_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8336 |
+| Not NA | 8336 |
 | NA | 93417 |
 
 
@@ -6354,6 +6666,7 @@ S_3818_3:SKJEMA1E; (S_3818_3:SKJEMA1C); (S_3818_3:SKJEMA1B); (S_5115_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11623 |
+| Not NA | 11623 |
 | NA | 90130 |
 
 
@@ -6364,6 +6677,7 @@ S_3818_4:SKJEMA1E; (S_3818_4:SKJEMA1C); (S_3818_4:SKJEMA1B); (S_5115_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 18452 |
+| Not NA | 18452 |
 | NA | 83301 |
 
 
@@ -6374,6 +6688,7 @@ S_3818_6:SKJEMA1E; (S_3818_6:SKJEMA1C); (S_3818_6:SKJEMA1B); (S_5115_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 694 |
+| Not NA | 694 |
 | NA | 101059 |
 
 
@@ -6384,6 +6699,7 @@ S_3818_7:SKJEMA1E; (S_3818_7:SKJEMA1C); (S_3818_7:SKJEMA1B); (S_5115_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1247 |
+| Not NA | 1247 |
 | NA | 100506 |
 
 
@@ -6394,6 +6710,7 @@ S_3818_8:SKJEMA1E; (S_3818_8:SKJEMA1C); (S_3818_8:SKJEMA1B); (S_5115_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1903 |
+| Not NA | 1903 |
 | NA | 99850 |
 
 
@@ -6404,6 +6721,7 @@ S_3818_9:SKJEMA1E; (S_3818_9:SKJEMA1C); (S_3818_9:SKJEMA1B); (S_5115_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3254 |
+| Not NA | 3254 |
 | NA | 98499 |
 
 
@@ -6471,6 +6789,7 @@ S_381810:SKJEMA1E; (S_381810:SKJEMA1C); (S_381810:SKJEMA1B); (S_511510:SKJEMA1A)
 | 91 | 3 |
 | More than one number given because more than one medication have been reported | 6 |
 | NA's | 96006 |
+| Not NA | 5747 |
 
 
 ### AA356
@@ -6480,6 +6799,7 @@ S_3819_1:SKJEMA1E; (S_3819_1:SKJEMA1C); (S_3819_1:SKJEMA1B); (S_5116_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 640 |
+| Not NA | 640 |
 | NA | 101113 |
 
 
@@ -6490,6 +6810,7 @@ S_3819_2:SKJEMA1E; (S_3819_2:SKJEMA1C); (S_3819_2:SKJEMA1B); (S_5116_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 860 |
+| Not NA | 860 |
 | NA | 100893 |
 
 
@@ -6500,6 +6821,7 @@ S_3819_3:SKJEMA1E; (S_3819_3:SKJEMA1C); (S_3819_3:SKJEMA1B); (S_5116_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1090 |
+| Not NA | 1090 |
 | NA | 100663 |
 
 
@@ -6510,6 +6832,7 @@ S_3819_4:SKJEMA1E; (S_3819_4:SKJEMA1C); (S_3819_4:SKJEMA1B); (S_5116_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1642 |
+| Not NA | 1642 |
 | NA | 100111 |
 
 
@@ -6520,6 +6843,7 @@ S_3819_6:SKJEMA1E; (S_3819_6:SKJEMA1C); (S_3819_6:SKJEMA1B); (S_5116_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 250 |
+| Not NA | 250 |
 | NA | 101503 |
 
 
@@ -6530,6 +6854,7 @@ S_3819_7:SKJEMA1E; (S_3819_7:SKJEMA1C); (S_3819_7:SKJEMA1B); (S_5116_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 315 |
+| Not NA | 315 |
 | NA | 101438 |
 
 
@@ -6540,6 +6865,7 @@ S_3819_8:SKJEMA1E; (S_3819_8:SKJEMA1C); (S_3819_8:SKJEMA1B); (S_5116_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 314 |
+| Not NA | 314 |
 | NA | 101439 |
 
 
@@ -6550,6 +6876,7 @@ S_3819_9:SKJEMA1E; (S_3819_9:SKJEMA1C); (S_3819_9:SKJEMA1B); (S_5116_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 429 |
+| Not NA | 429 |
 | NA | 101324 |
 
 
@@ -6593,6 +6920,7 @@ S_381910:SKJEMA1E; (S_381910:SKJEMA1C); (S_381910:SKJEMA1B); (S_511610:SKJEMA1A)
 | 9 | 16 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 100556 |
+| Not NA | 1197 |
 
 
 ### AA366
@@ -6602,6 +6930,7 @@ S_3820_1:SKJEMA1E; (S_3820_1:SKJEMA1C); (S_3820_1:SKJEMA1B); (S_5117_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 745 |
+| Not NA | 745 |
 | NA | 101008 |
 
 
@@ -6612,6 +6941,7 @@ S_3820_2:SKJEMA1E; (S_3820_2:SKJEMA1C); (S_3820_2:SKJEMA1B); (S_5117_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1086 |
+| Not NA | 1086 |
 | NA | 100667 |
 
 
@@ -6622,6 +6952,7 @@ S_3820_3:SKJEMA1E; (S_3820_3:SKJEMA1C); (S_3820_3:SKJEMA1B); (S_5117_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1517 |
+| Not NA | 1517 |
 | NA | 100236 |
 
 
@@ -6632,6 +6963,7 @@ S_3820_4:SKJEMA1E; (S_3820_4:SKJEMA1C); (S_3820_4:SKJEMA1B); (S_5117_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2309 |
+| Not NA | 2309 |
 | NA | 99444 |
 
 
@@ -6642,6 +6974,7 @@ S_3820_6:SKJEMA1E; (S_3820_6:SKJEMA1C); (S_3820_6:SKJEMA1B); (S_5117_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 348 |
+| Not NA | 348 |
 | NA | 101405 |
 
 
@@ -6652,6 +6985,7 @@ S_3820_7:SKJEMA1E; (S_3820_7:SKJEMA1C); (S_3820_7:SKJEMA1B); (S_5117_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 502 |
+| Not NA | 502 |
 | NA | 101251 |
 
 
@@ -6662,6 +6996,7 @@ S_3820_8:SKJEMA1E; (S_3820_8:SKJEMA1C); (S_3820_8:SKJEMA1B); (S_5117_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 709 |
+| Not NA | 709 |
 | NA | 101044 |
 
 
@@ -6672,6 +7007,7 @@ S_3820_9:SKJEMA1E; (S_3820_9:SKJEMA1C); (S_3820_9:SKJEMA1B); (S_5117_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1186 |
+| Not NA | 1186 |
 | NA | 100567 |
 
 
@@ -6723,6 +7059,7 @@ S_382010:SKJEMA1E; (S_382010:SKJEMA1C); (S_382010:SKJEMA1B); (S_511710:SKJEMA1A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 7 |
 | NA's | 99269 |
+| Not NA | 2484 |
 
 
 ### AA376
@@ -6732,6 +7069,7 @@ S_3821_1:SKJEMA1E; (S_3821_1:SKJEMA1C); (S_3821_1:SKJEMA1B); (S_5118_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 841 |
+| Not NA | 841 |
 | NA | 100912 |
 
 
@@ -6742,6 +7080,7 @@ S_3821_2:SKJEMA1E; (S_3821_2:SKJEMA1C); (S_3821_2:SKJEMA1B); (S_5118_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1418 |
+| Not NA | 1418 |
 | NA | 100335 |
 
 
@@ -6752,6 +7091,7 @@ S_3821_3:SKJEMA1E; (S_3821_3:SKJEMA1C); (S_3821_3:SKJEMA1B); (S_5118_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1740 |
+| Not NA | 1740 |
 | NA | 100013 |
 
 
@@ -6762,6 +7102,7 @@ S_3821_4:SKJEMA1E; (S_3821_4:SKJEMA1C); (S_3821_4:SKJEMA1B); (S_5118_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2372 |
+| Not NA | 2372 |
 | NA | 99381 |
 
 
@@ -6772,6 +7113,7 @@ S_3821_6:SKJEMA1E; (S_3821_6:SKJEMA1C); (S_3821_6:SKJEMA1B); (S_5118_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 195 |
+| Not NA | 195 |
 | NA | 101558 |
 
 
@@ -6782,6 +7124,7 @@ S_3821_7:SKJEMA1E; (S_3821_7:SKJEMA1C); (S_3821_7:SKJEMA1B); (S_5118_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 347 |
+| Not NA | 347 |
 | NA | 101406 |
 
 
@@ -6792,6 +7135,7 @@ S_3821_8:SKJEMA1E; (S_3821_8:SKJEMA1C); (S_3821_8:SKJEMA1B); (S_5118_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 451 |
+| Not NA | 451 |
 | NA | 101302 |
 
 
@@ -6802,6 +7146,7 @@ S_3821_9:SKJEMA1E; (S_3821_9:SKJEMA1C); (S_3821_9:SKJEMA1B); (S_5118_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 673 |
+| Not NA | 673 |
 | NA | 101080 |
 
 
@@ -6838,6 +7183,7 @@ S_382110:SKJEMA1E; (S_382110:SKJEMA1C); (S_382110:SKJEMA1B); (S_511810:SKJEMA1A)
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 100177 |
+| Not NA | 1576 |
 
 
 ### AA386
@@ -6847,6 +7193,7 @@ S_3822_1:SKJEMA1E; (S_3822_1:SKJEMA1C); (S_3822_1:SKJEMA1B); (S_5120_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 255 |
+| Not NA | 255 |
 | NA | 101498 |
 
 
@@ -6857,6 +7204,7 @@ S_3822_2:SKJEMA1E; (S_3822_2:SKJEMA1C); (S_3822_2:SKJEMA1B); (S_5120_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 312 |
+| Not NA | 312 |
 | NA | 101441 |
 
 
@@ -6867,6 +7215,7 @@ S_3822_3:SKJEMA1E; (S_3822_3:SKJEMA1C); (S_3822_3:SKJEMA1B); (S_5120_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 396 |
+| Not NA | 396 |
 | NA | 101357 |
 
 
@@ -6877,6 +7226,7 @@ S_3822_4:SKJEMA1E; (S_3822_4:SKJEMA1C); (S_3822_4:SKJEMA1B); (S_5120_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 607 |
+| Not NA | 607 |
 | NA | 101146 |
 
 
@@ -6887,6 +7237,7 @@ S_3822_6:SKJEMA1E; (S_3822_6:SKJEMA1C); (S_3822_6:SKJEMA1B); (S_5120_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 173 |
+| Not NA | 173 |
 | NA | 101580 |
 
 
@@ -6897,6 +7248,7 @@ S_3822_7:SKJEMA1E; (S_3822_7:SKJEMA1C); (S_3822_7:SKJEMA1B); (S_5120_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 211 |
+| Not NA | 211 |
 | NA | 101542 |
 
 
@@ -6907,6 +7259,7 @@ S_3822_8:SKJEMA1E; (S_3822_8:SKJEMA1C); (S_3822_8:SKJEMA1B); (S_5120_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 248 |
+| Not NA | 248 |
 | NA | 101505 |
 
 
@@ -6917,6 +7270,7 @@ S_3822_9:SKJEMA1E; (S_3822_9:SKJEMA1C); (S_3822_9:SKJEMA1B); (S_5120_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 472 |
+| Not NA | 472 |
 | NA | 101281 |
 
 
@@ -6961,6 +7315,7 @@ S_382210:SKJEMA1E; (S_382210:SKJEMA1C); (S_382210:SKJEMA1B); (S_512010:SKJEMA1A)
 | 9 | 9 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 100885 |
+| Not NA | 868 |
 
 
 ### AA396
@@ -6970,6 +7325,7 @@ S_3823_1:SKJEMA1E; (S_3823_1:SKJEMA1C); (S_3823_1:SKJEMA1B); (S_5121_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 224 |
+| Not NA | 224 |
 | NA | 101529 |
 
 
@@ -6980,6 +7336,7 @@ S_3823_2:SKJEMA1E; (S_3823_2:SKJEMA1C); (S_3823_2:SKJEMA1B); (S_5121_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 383 |
+| Not NA | 383 |
 | NA | 101370 |
 
 
@@ -6990,6 +7347,7 @@ S_3823_3:SKJEMA1E; (S_3823_3:SKJEMA1C); (S_3823_3:SKJEMA1B); (S_5121_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 678 |
+| Not NA | 678 |
 | NA | 101075 |
 
 
@@ -7000,6 +7358,7 @@ S_3823_4:SKJEMA1E; (S_3823_4:SKJEMA1C); (S_3823_4:SKJEMA1B); (S_5121_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 894 |
+| Not NA | 894 |
 | NA | 100859 |
 
 
@@ -7010,6 +7369,7 @@ S_3823_6:SKJEMA1E; (S_3823_6:SKJEMA1C); (S_3823_6:SKJEMA1B); (S_5121_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 81 |
+| Not NA | 81 |
 | NA | 101672 |
 
 
@@ -7020,6 +7380,7 @@ S_3823_7:SKJEMA1E; (S_3823_7:SKJEMA1C); (S_3823_7:SKJEMA1B); (S_5121_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 84 |
+| Not NA | 84 |
 | NA | 101669 |
 
 
@@ -7030,6 +7391,7 @@ S_3823_8:SKJEMA1E; (S_3823_8:SKJEMA1C); (S_3823_8:SKJEMA1B); (S_5121_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 60 |
+| Not NA | 60 |
 | NA | 101693 |
 
 
@@ -7040,6 +7402,7 @@ S_3823_9:SKJEMA1E; (S_3823_9:SKJEMA1C); (S_3823_9:SKJEMA1B); (S_5121_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 113 |
+| Not NA | 113 |
 | NA | 101640 |
 
 
@@ -7066,6 +7429,7 @@ S_382310:SKJEMA1E; (S_382310:SKJEMA1C); (S_382310:SKJEMA1B); (S_512110:SKJEMA1A)
 | 6 | 1 |
 | 110 | 1 |
 | 140 | 1 |
+| Not NA | 89 |
 | NA | 101664 |
 
 
@@ -7076,6 +7440,7 @@ S_3824_1:SKJEMA1E; (S_3824_1:SKJEMA1C); (S_3824_1:SKJEMA1B); (S_5122_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 430 |
+| Not NA | 430 |
 | NA | 101323 |
 
 
@@ -7086,6 +7451,7 @@ S_3824_2:SKJEMA1E; (S_3824_2:SKJEMA1C); (S_3824_2:SKJEMA1B); (S_5122_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 942 |
+| Not NA | 942 |
 | NA | 100811 |
 
 
@@ -7096,6 +7462,7 @@ S_3824_3:SKJEMA1E; (S_3824_3:SKJEMA1C); (S_3824_3:SKJEMA1B); (S_5122_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1840 |
+| Not NA | 1840 |
 | NA | 99913 |
 
 
@@ -7106,6 +7473,7 @@ S_3824_4:SKJEMA1E; (S_3824_4:SKJEMA1C); (S_3824_4:SKJEMA1B); (S_5122_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2263 |
+| Not NA | 2263 |
 | NA | 99490 |
 
 
@@ -7116,6 +7484,7 @@ S_3824_6:SKJEMA1E; (S_3824_6:SKJEMA1C); (S_3824_6:SKJEMA1B); (S_5122_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 63 |
+| Not NA | 63 |
 | NA | 101690 |
 
 
@@ -7126,6 +7495,7 @@ S_3824_7:SKJEMA1E; (S_3824_7:SKJEMA1C); (S_3824_7:SKJEMA1B); (S_5122_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 86 |
+| Not NA | 86 |
 | NA | 101667 |
 
 
@@ -7136,6 +7506,7 @@ S_3824_8:SKJEMA1E; (S_3824_8:SKJEMA1C); (S_3824_8:SKJEMA1B); (S_5122_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 169 |
+| Not NA | 169 |
 | NA | 101584 |
 
 
@@ -7146,6 +7517,7 @@ S_3824_9:SKJEMA1E; (S_3824_9:SKJEMA1C); (S_3824_9:SKJEMA1B); (S_5122_9:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 180 |
+| Not NA | 180 |
 | NA | 101573 |
 
 
@@ -7185,6 +7557,7 @@ S_382410:SKJEMA1E; (S_382410:SKJEMA1C); (S_382410:SKJEMA1B); (S_512210:SKJEMA1A)
 | 9 | 4 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101431 |
+| Not NA | 322 |
 
 
 ### AA1903
@@ -7194,6 +7567,7 @@ S_51_8_1:SKJEMA1A; Diarrhoea, week 0-4 of pregnancy; 51. Have you experienced an
 | Category | n |
 | -------- | - |
 | 1 | 50 |
+| Not NA | 50 |
 | NA | 101703 |
 
 
@@ -7204,6 +7578,7 @@ S_51_8_2:SKJEMA1A; Diarrhoea, week 5-8 of pregnancy; 51. Have you experienced an
 | Category | n |
 | -------- | - |
 | 1 | 91 |
+| Not NA | 91 |
 | NA | 101662 |
 
 
@@ -7214,6 +7589,7 @@ S_51_8_3:SKJEMA1A; Diarrhoea, week 9-12 of pregnancy; 51. Have you experienced a
 | Category | n |
 | -------- | - |
 | 1 | 93 |
+| Not NA | 93 |
 | NA | 101660 |
 
 
@@ -7224,6 +7600,7 @@ S_51_8_4:SKJEMA1A; Diarrhoea, week 13+ of pregnancy; 51. Have you experienced an
 | Category | n |
 | -------- | - |
 | 1 | 92 |
+| Not NA | 92 |
 | NA | 101661 |
 
 
@@ -7234,6 +7611,7 @@ S_51_8_6:SKJEMA1A; Medication against Diarrhoea, week 0-4 of pregnancy; 51. Have
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -7244,6 +7622,7 @@ S_51_8_7:SKJEMA1A; Medication against Diarrhoea, week 5-8 of pregnancy; 51. Have
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -7254,6 +7633,7 @@ S_51_8_8:SKJEMA1A; Medication against Diarrhoea, week 9-12 of pregnancy; 51. Hav
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -7264,6 +7644,7 @@ S_51_8_9:SKJEMA1A; Medication against Diarrhoea, week 13+ of pregnancy; 51. Have
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 101747 |
 
 
@@ -7281,6 +7662,7 @@ S_51_810:SKJEMA1A; Medication against Diarrhoea, No. of days taken; 51. Have you
 | 20 | 1 |
 | 5 | 1 |
 | 10 | 1 |
+| Not NA | 11 |
 | NA | 101742 |
 
 
@@ -7291,6 +7673,7 @@ S_5119_1:SKJEMA1A; Joint pain/muscle pain, week 0-4 of pregnancy; 51. Have you e
 | Category | n |
 | -------- | - |
 | 1 | 52 |
+| Not NA | 52 |
 | NA | 101701 |
 
 
@@ -7301,6 +7684,7 @@ S_5119_2:SKJEMA1A; Joint pain/muscle pain, week 5-8 of pregnancy; 51. Have you e
 | Category | n |
 | -------- | - |
 | 1 | 63 |
+| Not NA | 63 |
 | NA | 101690 |
 
 
@@ -7311,6 +7695,7 @@ S_5119_3:SKJEMA1A; Joint pain/muscle pain, week 9-12 of pregnancy; 51. Have you 
 | Category | n |
 | -------- | - |
 | 1 | 79 |
+| Not NA | 79 |
 | NA | 101674 |
 
 
@@ -7321,6 +7706,7 @@ S_5119_4:SKJEMA1A; Joint pain/muscle pain, week 13+ of pregnancy; 51. Have you e
 | Category | n |
 | -------- | - |
 | 1 | 121 |
+| Not NA | 121 |
 | NA | 101632 |
 
 
@@ -7331,6 +7717,7 @@ S_5119_6:SKJEMA1A; Medication against Joint pain/muscle pain, week 0-4 of pregna
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 101739 |
 
 
@@ -7341,6 +7728,7 @@ S_5119_7:SKJEMA1A; Medication against Joint pain/muscle pain, week 5-8 of pregna
 | Category | n |
 | -------- | - |
 | 1 | 38 |
+| Not NA | 38 |
 | NA | 101715 |
 
 
@@ -7351,6 +7739,7 @@ S_5119_8:SKJEMA1A; Medication against Joint pain/muscle pain, week 9-12 of pregn
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 101733 |
 
 
@@ -7361,6 +7750,7 @@ S_5119_9:SKJEMA1A; Medication against Joint pain/muscle pain, week 13+ of pregna
 | Category | n |
 | -------- | - |
 | 1 | 29 |
+| Not NA | 29 |
 | NA | 101724 |
 
 
@@ -7378,6 +7768,7 @@ S_511910:SKJEMA1A; Medication against Joint pain/muscle pain, No. of days taken;
 | 4 | 2 |
 | 8 | 1 |
 | 10 | 1 |
+| Not NA | 17 |
 | NA | 101736 |
 
 
@@ -7388,6 +7779,7 @@ S_39_1_1:SKJEMA1E; (S_39_1_1:SKJEMA1C); (S_39_1_1:SKJEMA1B); (S_40_1_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 7538 |
+| Not NA | 7538 |
 | NA | 94215 |
 
 
@@ -7398,6 +7790,7 @@ S_39_1_2:SKJEMA1E; (S_39_1_2:SKJEMA1C); (S_39_1_2:SKJEMA1B); (S_40_1_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3450 |
+| Not NA | 3450 |
 | NA | 98303 |
 
 
@@ -7408,6 +7801,7 @@ S_39_1_4:SKJEMA1E; (S_39_1_4:SKJEMA1C); (S_39_1_4:SKJEMA1B); (S_40_1_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3033 |
+| Not NA | 3033 |
 | NA | 98720 |
 
 
@@ -7418,6 +7812,7 @@ S_39_1_5:SKJEMA1E; (S_39_1_5:SKJEMA1C); (S_39_1_5:SKJEMA1B); (S_40_1_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1766 |
+| Not NA | 1766 |
 | NA | 99987 |
 
 
@@ -7428,6 +7823,7 @@ S_39_1_6:SKJEMA1E; (S_39_1_6:SKJEMA1C); (S_39_1_6:SKJEMA1B); (S_40_1_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1699 |
+| Not NA | 1699 |
 | NA | 100054 |
 
 
@@ -7438,6 +7834,7 @@ S_39_1_7:SKJEMA1E; (S_39_1_7:SKJEMA1C); (S_39_1_7:SKJEMA1B); (S_40_1_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1686 |
+| Not NA | 1686 |
 | NA | 100067 |
 
 
@@ -7448,6 +7845,7 @@ S_39_1_8:SKJEMA1E; (S_39_1_8:SKJEMA1C); (S_39_1_8:SKJEMA1B); (S_40_1_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1872 |
+| Not NA | 1872 |
 | NA | 99881 |
 
 
@@ -7557,6 +7955,7 @@ S_39_1_9:SKJEMA1E; (S_39_1_9:SKJEMA1C); (S_39_1_9:SKJEMA1B); (S_40_1_9:SKJEMA1A)
 | 92 | 2 |
 | (Other) | 53 |
 | NA's | 99554 |
+| Not NA | 2199 |
 
 
 ### AA428
@@ -7566,6 +7965,7 @@ S_39_2_1:SKJEMA1E; (S_39_2_1:SKJEMA1C); (S_39_2_1:SKJEMA1B); (S_40_3_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 19726 |
+| Not NA | 19726 |
 | NA | 82027 |
 
 
@@ -7576,6 +7976,7 @@ S_39_2_2:SKJEMA1E; (S_39_2_2:SKJEMA1C); (S_39_2_2:SKJEMA1B); (S_40_3_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8876 |
+| Not NA | 8876 |
 | NA | 92877 |
 
 
@@ -7586,6 +7987,7 @@ S_39_2_4:SKJEMA1E; (S_39_2_4:SKJEMA1C); (S_39_2_4:SKJEMA1B); (S_40_3_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5866 |
+| Not NA | 5866 |
 | NA | 95887 |
 
 
@@ -7596,6 +7998,7 @@ S_39_2_5:SKJEMA1E; (S_39_2_5:SKJEMA1C); (S_39_2_5:SKJEMA1B); (S_40_3_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2222 |
+| Not NA | 2222 |
 | NA | 99531 |
 
 
@@ -7606,6 +8009,7 @@ S_39_2_6:SKJEMA1E; (S_39_2_6:SKJEMA1C); (S_39_2_6:SKJEMA1B); (S_40_3_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1772 |
+| Not NA | 1772 |
 | NA | 99981 |
 
 
@@ -7616,6 +8020,7 @@ S_39_2_7:SKJEMA1E; (S_39_2_7:SKJEMA1C); (S_39_2_7:SKJEMA1B); (S_40_3_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1885 |
+| Not NA | 1885 |
 | NA | 99868 |
 
 
@@ -7626,6 +8031,7 @@ S_39_2_8:SKJEMA1E; (S_39_2_8:SKJEMA1C); (S_39_2_8:SKJEMA1B); (S_40_3_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2329 |
+| Not NA | 2329 |
 | NA | 99424 |
 
 
@@ -7735,6 +8141,7 @@ S_39_2_9:SKJEMA1E; (S_39_2_9:SKJEMA1C); (S_39_2_9:SKJEMA1B); (S_40_3_9:SKJEMA1A)
 | 66 | 2 |
 | (Other) | 65 |
 | NA's | 97086 |
+| Not NA | 4667 |
 
 
 ### AA437
@@ -7744,6 +8151,7 @@ S_39_3_1:SKJEMA1E; (S_39_3_1:SKJEMA1C); (S_39_3_1:SKJEMA1B); (S_40_4_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9499 |
+| Not NA | 9499 |
 | NA | 92254 |
 
 
@@ -7754,6 +8162,7 @@ S_39_3_2:SKJEMA1E; (S_39_3_2:SKJEMA1C); (S_39_3_2:SKJEMA1B); (S_40_4_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5298 |
+| Not NA | 5298 |
 | NA | 96455 |
 
 
@@ -7764,6 +8173,7 @@ S_39_3_4:SKJEMA1E; (S_39_3_4:SKJEMA1C); (S_39_3_4:SKJEMA1B); (S_40_4_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1910 |
+| Not NA | 1910 |
 | NA | 99843 |
 
 
@@ -7774,6 +8184,7 @@ S_39_3_5:SKJEMA1E; (S_39_3_5:SKJEMA1C); (S_39_3_5:SKJEMA1B); (S_40_4_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 765 |
+| Not NA | 765 |
 | NA | 100988 |
 
 
@@ -7784,6 +8195,7 @@ S_39_3_6:SKJEMA1E; (S_39_3_6:SKJEMA1C); (S_39_3_6:SKJEMA1B); (S_40_4_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 658 |
+| Not NA | 658 |
 | NA | 101095 |
 
 
@@ -7794,6 +8206,7 @@ S_39_3_7:SKJEMA1E; (S_39_3_7:SKJEMA1C); (S_39_3_7:SKJEMA1B); (S_40_4_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 672 |
+| Not NA | 672 |
 | NA | 101081 |
 
 
@@ -7804,6 +8217,7 @@ S_39_3_8:SKJEMA1E; (S_39_3_8:SKJEMA1C); (S_39_3_8:SKJEMA1B); (S_40_4_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 746 |
+| Not NA | 746 |
 | NA | 101007 |
 
 
@@ -7913,6 +8327,7 @@ S_39_3_9:SKJEMA1E; (S_39_3_9:SKJEMA1C); (S_39_3_9:SKJEMA1B); (S_40_4_9:SKJEMA1A)
 | 64 | 1 |
 | (Other) | 8 |
 | NA's | 100557 |
+| Not NA | 1196 |
 
 
 ### AA446
@@ -7922,6 +8337,7 @@ S_39_4_1:SKJEMA1E; (S_39_4_1:SKJEMA1C); (S_39_4_1:SKJEMA1B); (S_40_9_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9748 |
+| Not NA | 9748 |
 | NA | 92005 |
 
 
@@ -7932,6 +8348,7 @@ S_39_4_2:SKJEMA1E; (S_39_4_2:SKJEMA1C); (S_39_4_2:SKJEMA1B); (S_40_9_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5185 |
+| Not NA | 5185 |
 | NA | 96568 |
 
 
@@ -7942,6 +8359,7 @@ S_39_4_4:SKJEMA1E; (S_39_4_4:SKJEMA1C); (S_39_4_4:SKJEMA1B); (S_40_9_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2017 |
+| Not NA | 2017 |
 | NA | 99736 |
 
 
@@ -7952,6 +8370,7 @@ S_39_4_5:SKJEMA1E; (S_39_4_5:SKJEMA1C); (S_39_4_5:SKJEMA1B); (S_40_9_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 947 |
+| Not NA | 947 |
 | NA | 100806 |
 
 
@@ -7962,6 +8381,7 @@ S_39_4_6:SKJEMA1E; (S_39_4_6:SKJEMA1C); (S_39_4_6:SKJEMA1B); (S_40_9_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 809 |
+| Not NA | 809 |
 | NA | 100944 |
 
 
@@ -7972,6 +8392,7 @@ S_39_4_7:SKJEMA1E; (S_39_4_7:SKJEMA1C); (S_39_4_7:SKJEMA1B); (S_40_9_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 840 |
+| Not NA | 840 |
 | NA | 100913 |
 
 
@@ -7982,6 +8403,7 @@ S_39_4_8:SKJEMA1E; (S_39_4_8:SKJEMA1C); (S_39_4_8:SKJEMA1B); (S_40_9_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 934 |
+| Not NA | 934 |
 | NA | 100819 |
 
 
@@ -8091,6 +8513,7 @@ S_39_4_9:SKJEMA1E; (S_39_4_9:SKJEMA1C); (S_39_4_9:SKJEMA1B); (S_40_9_9:SKJEMA1A)
 | 320 | 1 |
 | (Other) | 30 |
 | NA's | 100339 |
+| Not NA | 1414 |
 
 
 ### AA455
@@ -8100,6 +8523,7 @@ S_39_5_1:SKJEMA1E; (S_39_5_1:SKJEMA1C); (S_39_5_1:SKJEMA1B); (S_40_5_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6899 |
+| Not NA | 6899 |
 | NA | 94854 |
 
 
@@ -8110,6 +8534,7 @@ S_39_5_2:SKJEMA1E; (S_39_5_2:SKJEMA1C); (S_39_5_2:SKJEMA1B); (S_40_5_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4077 |
+| Not NA | 4077 |
 | NA | 97676 |
 
 
@@ -8120,6 +8545,7 @@ S_39_5_4:SKJEMA1E; (S_39_5_4:SKJEMA1C); (S_39_5_4:SKJEMA1B); (S_40_5_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2014 |
+| Not NA | 2014 |
 | NA | 99739 |
 
 
@@ -8130,6 +8556,7 @@ S_39_5_5:SKJEMA1E; (S_39_5_5:SKJEMA1C); (S_39_5_5:SKJEMA1B); (S_40_5_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1140 |
+| Not NA | 1140 |
 | NA | 100613 |
 
 
@@ -8140,6 +8567,7 @@ S_39_5_6:SKJEMA1E; (S_39_5_6:SKJEMA1C); (S_39_5_6:SKJEMA1B); (S_40_5_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1230 |
+| Not NA | 1230 |
 | NA | 100523 |
 
 
@@ -8150,6 +8578,7 @@ S_39_5_7:SKJEMA1E; (S_39_5_7:SKJEMA1C); (S_39_5_7:SKJEMA1B); (S_40_5_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1369 |
+| Not NA | 1369 |
 | NA | 100384 |
 
 
@@ -8160,6 +8589,7 @@ S_39_5_8:SKJEMA1E; (S_39_5_8:SKJEMA1C); (S_39_5_8:SKJEMA1B); (S_40_5_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1553 |
+| Not NA | 1553 |
 | NA | 100200 |
 
 
@@ -8260,6 +8690,7 @@ S_39_5_9:SKJEMA1E; (S_39_5_9:SKJEMA1C); (S_39_5_9:SKJEMA1B); (S_40_5_9:SKJEMA1A)
 | 98 | 2 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 99993 |
+| Not NA | 1760 |
 
 
 ### AA464
@@ -8269,6 +8700,7 @@ S_39_6_1:SKJEMA1E; (S_39_6_1:SKJEMA1C); (S_39_6_1:SKJEMA1B); (S_4010_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3976 |
+| Not NA | 3976 |
 | NA | 97777 |
 
 
@@ -8279,6 +8711,7 @@ S_39_6_2:SKJEMA1E; (S_39_6_2:SKJEMA1C); (S_39_6_2:SKJEMA1B); (S_4010_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 816 |
+| Not NA | 816 |
 | NA | 100937 |
 
 
@@ -8289,6 +8722,7 @@ S_39_6_4:SKJEMA1E; (S_39_6_4:SKJEMA1C); (S_39_6_4:SKJEMA1B); (S_4010_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 382 |
+| Not NA | 382 |
 | NA | 101371 |
 
 
@@ -8299,6 +8733,7 @@ S_39_6_5:SKJEMA1E; (S_39_6_5:SKJEMA1C); (S_39_6_5:SKJEMA1B); (S_4010_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 160 |
+| Not NA | 160 |
 | NA | 101593 |
 
 
@@ -8309,6 +8744,7 @@ S_39_6_6:SKJEMA1E; (S_39_6_6:SKJEMA1C); (S_39_6_6:SKJEMA1B); (S_4010_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 185 |
+| Not NA | 185 |
 | NA | 101568 |
 
 
@@ -8319,6 +8755,7 @@ S_39_6_7:SKJEMA1E; (S_39_6_7:SKJEMA1C); (S_39_6_7:SKJEMA1B); (S_4010_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 170 |
+| Not NA | 170 |
 | NA | 101583 |
 
 
@@ -8329,6 +8766,7 @@ S_39_6_8:SKJEMA1E; (S_39_6_8:SKJEMA1C); (S_39_6_8:SKJEMA1B); (S_4010_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 198 |
+| Not NA | 198 |
 | NA | 101555 |
 
 
@@ -8392,6 +8830,7 @@ S_39_6_9:SKJEMA1E; (S_39_6_9:SKJEMA1C); (S_39_6_9:SKJEMA1B); (S_4010_9:SKJEMA1A)
 | 998 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101253 |
+| Not NA | 500 |
 
 
 ### AA473
@@ -8401,6 +8840,7 @@ S_39_7_1:SKJEMA1E; (S_39_7_1:SKJEMA1C); (S_39_7_1:SKJEMA1B); (S_4012_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2823 |
+| Not NA | 2823 |
 | NA | 98930 |
 
 
@@ -8411,6 +8851,7 @@ S_39_7_2:SKJEMA1E; (S_39_7_2:SKJEMA1C); (S_39_7_2:SKJEMA1B); (S_4012_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1777 |
+| Not NA | 1777 |
 | NA | 99976 |
 
 
@@ -8421,6 +8862,7 @@ S_39_7_4:SKJEMA1E; (S_39_7_4:SKJEMA1C); (S_39_7_4:SKJEMA1B); (S_4012_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 838 |
+| Not NA | 838 |
 | NA | 100915 |
 
 
@@ -8431,6 +8873,7 @@ S_39_7_5:SKJEMA1E; (S_39_7_5:SKJEMA1C); (S_39_7_5:SKJEMA1B); (S_4012_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 393 |
+| Not NA | 393 |
 | NA | 101360 |
 
 
@@ -8441,6 +8884,7 @@ S_39_7_6:SKJEMA1E; (S_39_7_6:SKJEMA1C); (S_39_7_6:SKJEMA1B); (S_4012_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 344 |
+| Not NA | 344 |
 | NA | 101409 |
 
 
@@ -8451,6 +8895,7 @@ S_39_7_7:SKJEMA1E; (S_39_7_7:SKJEMA1C); (S_39_7_7:SKJEMA1B); (S_4012_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 360 |
+| Not NA | 360 |
 | NA | 101393 |
 
 
@@ -8461,6 +8906,7 @@ S_39_7_8:SKJEMA1E; (S_39_7_8:SKJEMA1C); (S_39_7_8:SKJEMA1B); (S_4012_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 401 |
+| Not NA | 401 |
 | NA | 101352 |
 
 
@@ -8535,6 +8981,7 @@ S_39_7_9:SKJEMA1E; (S_39_7_9:SKJEMA1C); (S_39_7_9:SKJEMA1B); (S_4012_9:SKJEMA1A)
 | 90 | 2 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 101158 |
+| Not NA | 595 |
 
 
 ### AA482
@@ -8544,6 +8991,7 @@ S_39_8_1:SKJEMA1E; (S_39_8_1:SKJEMA1C); (S_39_8_1:SKJEMA1B); (S_4011_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4654 |
+| Not NA | 4654 |
 | NA | 97099 |
 
 
@@ -8554,6 +9002,7 @@ S_39_8_2:SKJEMA1E; (S_39_8_2:SKJEMA1C); (S_39_8_2:SKJEMA1B); (S_4011_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3452 |
+| Not NA | 3452 |
 | NA | 98301 |
 
 
@@ -8564,6 +9013,7 @@ S_39_8_4:SKJEMA1E; (S_39_8_4:SKJEMA1C); (S_39_8_4:SKJEMA1B); (S_4011_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1355 |
+| Not NA | 1355 |
 | NA | 100398 |
 
 
@@ -8574,6 +9024,7 @@ S_39_8_5:SKJEMA1E; (S_39_8_5:SKJEMA1C); (S_39_8_5:SKJEMA1B); (S_4011_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 674 |
+| Not NA | 674 |
 | NA | 101079 |
 
 
@@ -8584,6 +9035,7 @@ S_39_8_6:SKJEMA1E; (S_39_8_6:SKJEMA1C); (S_39_8_6:SKJEMA1B); (S_4011_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 738 |
+| Not NA | 738 |
 | NA | 101015 |
 
 
@@ -8594,6 +9046,7 @@ S_39_8_7:SKJEMA1E; (S_39_8_7:SKJEMA1C); (S_39_8_7:SKJEMA1B); (S_4011_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 864 |
+| Not NA | 864 |
 | NA | 100889 |
 
 
@@ -8604,6 +9057,7 @@ S_39_8_8:SKJEMA1E; (S_39_8_8:SKJEMA1C); (S_39_8_8:SKJEMA1B); (S_4011_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1116 |
+| Not NA | 1116 |
 | NA | 100637 |
 
 
@@ -8694,6 +9148,7 @@ S_39_8_9:SKJEMA1E; (S_39_8_9:SKJEMA1C); (S_39_8_9:SKJEMA1B); (S_4011_9:SKJEMA1A)
 | 998 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 100240 |
+| Not NA | 1513 |
 
 
 ### AA491
@@ -8703,6 +9158,7 @@ S_39_9_1:SKJEMA1E; (S_39_9_1:SKJEMA1C); (S_39_9_1:SKJEMA1B); (S_4013_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12122 |
+| Not NA | 12122 |
 | NA | 89631 |
 
 
@@ -8713,6 +9169,7 @@ S_39_9_2:SKJEMA1E; (S_39_9_2:SKJEMA1C); (S_39_9_2:SKJEMA1B); (S_4013_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6856 |
+| Not NA | 6856 |
 | NA | 94897 |
 
 
@@ -8723,6 +9180,7 @@ S_39_9_4:SKJEMA1E; (S_39_9_4:SKJEMA1C); (S_39_9_4:SKJEMA1B); (S_4013_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2341 |
+| Not NA | 2341 |
 | NA | 99412 |
 
 
@@ -8733,6 +9191,7 @@ S_39_9_5:SKJEMA1E; (S_39_9_5:SKJEMA1C); (S_39_9_5:SKJEMA1B); (S_4013_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 408 |
+| Not NA | 408 |
 | NA | 101345 |
 
 
@@ -8743,6 +9202,7 @@ S_39_9_6:SKJEMA1E; (S_39_9_6:SKJEMA1C); (S_39_9_6:SKJEMA1B); (S_4013_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 760 |
+| Not NA | 760 |
 | NA | 100993 |
 
 
@@ -8753,6 +9213,7 @@ S_39_9_7:SKJEMA1E; (S_39_9_7:SKJEMA1C); (S_39_9_7:SKJEMA1B); (S_4013_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 978 |
+| Not NA | 978 |
 | NA | 100775 |
 
 
@@ -8763,6 +9224,7 @@ S_39_9_8:SKJEMA1E; (S_39_9_8:SKJEMA1C); (S_39_9_8:SKJEMA1B); (S_4013_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1458 |
+| Not NA | 1458 |
 | NA | 100295 |
 
 
@@ -8815,6 +9277,7 @@ S_39_9_9:SKJEMA1E; (S_39_9_9:SKJEMA1C); (S_39_9_9:SKJEMA1B); (S_4013_9:SKJEMA1A)
 | 97 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 98866 |
+| Not NA | 2887 |
 
 
 ### AA500
@@ -8824,6 +9287,7 @@ S_3910_1:SKJEMA1E; (S_3910_1:SKJEMA1C); (S_3910_1:SKJEMA1B); (S_4014_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2468 |
+| Not NA | 2468 |
 | NA | 99285 |
 
 
@@ -8834,6 +9298,7 @@ S_3910_2:SKJEMA1E; (S_3910_2:SKJEMA1C); (S_3910_2:SKJEMA1B); (S_4014_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2156 |
+| Not NA | 2156 |
 | NA | 99597 |
 
 
@@ -8844,6 +9309,7 @@ S_3910_4:SKJEMA1E; (S_3910_4:SKJEMA1C); (S_3910_4:SKJEMA1B); (S_4014_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 507 |
+| Not NA | 507 |
 | NA | 101246 |
 
 
@@ -8854,6 +9320,7 @@ S_3910_5:SKJEMA1E; (S_3910_5:SKJEMA1C); (S_3910_5:SKJEMA1B); (S_4014_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 313 |
+| Not NA | 313 |
 | NA | 101440 |
 
 
@@ -8864,6 +9331,7 @@ S_3910_6:SKJEMA1E; (S_3910_6:SKJEMA1C); (S_3910_6:SKJEMA1B); (S_4014_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 293 |
+| Not NA | 293 |
 | NA | 101460 |
 
 
@@ -8874,6 +9342,7 @@ S_3910_7:SKJEMA1E; (S_3910_7:SKJEMA1C); (S_3910_7:SKJEMA1B); (S_4014_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 318 |
+| Not NA | 318 |
 | NA | 101435 |
 
 
@@ -8884,6 +9353,7 @@ S_3910_8:SKJEMA1E; (S_3910_8:SKJEMA1C); (S_3910_8:SKJEMA1B); (S_4014_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 365 |
+| Not NA | 365 |
 | NA | 101388 |
 
 
@@ -8982,6 +9452,7 @@ S_3910_9:SKJEMA1E; (S_3910_9:SKJEMA1C); (S_3910_9:SKJEMA1B); (S_4014_9:SKJEMA1A)
 | 998 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 101215 |
+| Not NA | 538 |
 
 
 ### AA509
@@ -8991,6 +9462,7 @@ S_3911_1:SKJEMA1E; (S_3911_1:SKJEMA1C); (S_3911_1:SKJEMA1B); (S_4015_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 368 |
+| Not NA | 368 |
 | NA | 101385 |
 
 
@@ -9001,6 +9473,7 @@ S_3911_2:SKJEMA1E; (S_3911_2:SKJEMA1C); (S_3911_2:SKJEMA1B); (S_4015_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 329 |
+| Not NA | 329 |
 | NA | 101424 |
 
 
@@ -9011,6 +9484,7 @@ S_3911_4:SKJEMA1E; (S_3911_4:SKJEMA1C); (S_3911_4:SKJEMA1B); (S_4015_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 280 |
+| Not NA | 280 |
 | NA | 101473 |
 
 
@@ -9021,6 +9495,7 @@ S_3911_5:SKJEMA1E; (S_3911_5:SKJEMA1C); (S_3911_5:SKJEMA1B); (S_4015_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 257 |
+| Not NA | 257 |
 | NA | 101496 |
 
 
@@ -9031,6 +9506,7 @@ S_3911_6:SKJEMA1E; (S_3911_6:SKJEMA1C); (S_3911_6:SKJEMA1B); (S_4015_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 264 |
+| Not NA | 264 |
 | NA | 101489 |
 
 
@@ -9041,6 +9517,7 @@ S_3911_7:SKJEMA1E; (S_3911_7:SKJEMA1C); (S_3911_7:SKJEMA1B); (S_4015_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 269 |
+| Not NA | 269 |
 | NA | 101484 |
 
 
@@ -9051,6 +9528,7 @@ S_3911_8:SKJEMA1E; (S_3911_8:SKJEMA1C); (S_3911_8:SKJEMA1B); (S_4015_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 295 |
+| Not NA | 295 |
 | NA | 101458 |
 
 
@@ -9106,6 +9584,7 @@ S_3911_9:SKJEMA1E; (S_3911_9:SKJEMA1C); (S_3911_9:SKJEMA1B); (S_4015_9:SKJEMA1A)
 | 998 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101617 |
+| Not NA | 136 |
 
 
 ### AA518
@@ -9115,6 +9594,7 @@ S_3912_1:SKJEMA1E; (S_3912_1:SKJEMA1C); (S_3912_1:SKJEMA1B); (S_4016_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 127 |
+| Not NA | 127 |
 | NA | 101626 |
 
 
@@ -9125,6 +9605,7 @@ S_3912_2:SKJEMA1E; (S_3912_2:SKJEMA1C); (S_3912_2:SKJEMA1B); (S_4016_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 153 |
+| Not NA | 153 |
 | NA | 101600 |
 
 
@@ -9135,6 +9616,7 @@ S_3912_4:SKJEMA1E; (S_3912_4:SKJEMA1C); (S_3912_4:SKJEMA1B); (S_4016_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 47 |
+| Not NA | 47 |
 | NA | 101706 |
 
 
@@ -9145,6 +9627,7 @@ S_3912_5:SKJEMA1E; (S_3912_5:SKJEMA1C); (S_3912_5:SKJEMA1B); (S_4016_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 35 |
+| Not NA | 35 |
 | NA | 101718 |
 
 
@@ -9155,6 +9638,7 @@ S_3912_6:SKJEMA1E; (S_3912_6:SKJEMA1C); (S_3912_6:SKJEMA1B); (S_4016_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 30 |
+| Not NA | 30 |
 | NA | 101723 |
 
 
@@ -9165,6 +9649,7 @@ S_3912_7:SKJEMA1E; (S_3912_7:SKJEMA1C); (S_3912_7:SKJEMA1B); (S_4016_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 101736 |
 
 
@@ -9175,6 +9660,7 @@ S_3912_8:SKJEMA1E; (S_3912_8:SKJEMA1C); (S_3912_8:SKJEMA1B); (S_4016_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 32 |
+| Not NA | 32 |
 | NA | 101721 |
 
 
@@ -9210,6 +9696,7 @@ S_3912_9:SKJEMA1E; (S_3912_9:SKJEMA1C); (S_3912_9:SKJEMA1B); (S_4016_9:SKJEMA1A)
 | 900 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101696 |
+| Not NA | 57 |
 
 
 ### AA527
@@ -9219,6 +9706,7 @@ S_3913_1:SKJEMA1E; (S_3913_1:SKJEMA1C); (S_3913_1:SKJEMA1B); (S_4017_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 635 |
+| Not NA | 635 |
 | NA | 101118 |
 
 
@@ -9229,6 +9717,7 @@ S_3913_2:SKJEMA1E; (S_3913_2:SKJEMA1C); (S_3913_2:SKJEMA1B); (S_4017_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 181 |
+| Not NA | 181 |
 | NA | 101572 |
 
 
@@ -9239,6 +9728,7 @@ S_3913_4:SKJEMA1E; (S_3913_4:SKJEMA1C); (S_3913_4:SKJEMA1B); (S_4017_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 101726 |
 
 
@@ -9249,6 +9739,7 @@ S_3913_5:SKJEMA1E; (S_3913_5:SKJEMA1C); (S_3913_5:SKJEMA1B); (S_4017_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 101736 |
 
 
@@ -9259,6 +9750,7 @@ S_3913_6:SKJEMA1E; (S_3913_6:SKJEMA1C); (S_3913_6:SKJEMA1B); (S_4017_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -9269,6 +9761,7 @@ S_3913_7:SKJEMA1E; (S_3913_7:SKJEMA1C); (S_3913_7:SKJEMA1B); (S_4017_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 101740 |
 
 
@@ -9279,6 +9772,7 @@ S_3913_8:SKJEMA1E; (S_3913_8:SKJEMA1C); (S_3913_8:SKJEMA1B); (S_4017_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12 |
+| Not NA | 12 |
 | NA | 101741 |
 
 
@@ -9317,6 +9811,7 @@ S_3913_9:SKJEMA1E; (S_3913_9:SKJEMA1C); (S_3913_9:SKJEMA1B); (S_4017_9:SKJEMA1A)
 | 80 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101668 |
+| Not NA | 85 |
 
 
 ### AA536
@@ -9326,6 +9821,7 @@ S_3914_1:SKJEMA1E; (S_3914_1:SKJEMA1C); (S_3914_1:SKJEMA1B); (S_4018_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 303 |
+| Not NA | 303 |
 | NA | 101450 |
 
 
@@ -9336,6 +9832,7 @@ S_3914_2:SKJEMA1E; (S_3914_2:SKJEMA1C); (S_3914_2:SKJEMA1B); (S_4018_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 166 |
+| Not NA | 166 |
 | NA | 101587 |
 
 
@@ -9346,6 +9843,7 @@ S_3914_4:SKJEMA1E; (S_3914_4:SKJEMA1C); (S_3914_4:SKJEMA1B); (S_4018_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 75 |
+| Not NA | 75 |
 | NA | 101678 |
 
 
@@ -9356,6 +9854,7 @@ S_3914_5:SKJEMA1E; (S_3914_5:SKJEMA1C); (S_3914_5:SKJEMA1B); (S_4018_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 56 |
+| Not NA | 56 |
 | NA | 101697 |
 
 
@@ -9366,6 +9865,7 @@ S_3914_6:SKJEMA1E; (S_3914_6:SKJEMA1C); (S_3914_6:SKJEMA1B); (S_4018_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 67 |
+| Not NA | 67 |
 | NA | 101686 |
 
 
@@ -9376,6 +9876,7 @@ S_3914_7:SKJEMA1E; (S_3914_7:SKJEMA1C); (S_3914_7:SKJEMA1B); (S_4018_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 84 |
+| Not NA | 84 |
 | NA | 101669 |
 
 
@@ -9386,6 +9887,7 @@ S_3914_8:SKJEMA1E; (S_3914_8:SKJEMA1C); (S_3914_8:SKJEMA1B); (S_4018_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 98 |
+| Not NA | 98 |
 | NA | 101655 |
 
 
@@ -9457,6 +9959,7 @@ S_3914_9:SKJEMA1E; (S_3914_9:SKJEMA1C); (S_3914_9:SKJEMA1B); (S_4018_9:SKJEMA1A)
 | 92 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101605 |
+| Not NA | 148 |
 
 
 ### AA545
@@ -9466,6 +9969,7 @@ S_3915_1:SKJEMA1E; (S_3915_1:SKJEMA1C); (S_3915_1:SKJEMA1B); (S_4019_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 844 |
+| Not NA | 844 |
 | NA | 100909 |
 
 
@@ -9476,6 +9980,7 @@ S_3915_2:SKJEMA1E; (S_3915_2:SKJEMA1C); (S_3915_2:SKJEMA1B); (S_4019_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 245 |
+| Not NA | 245 |
 | NA | 101508 |
 
 
@@ -9486,6 +9991,7 @@ S_3915_4:SKJEMA1E; (S_3915_4:SKJEMA1C); (S_3915_4:SKJEMA1B); (S_4019_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 82 |
+| Not NA | 82 |
 | NA | 101671 |
 
 
@@ -9496,6 +10002,7 @@ S_3915_5:SKJEMA1E; (S_3915_5:SKJEMA1C); (S_3915_5:SKJEMA1B); (S_4019_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 40 |
+| Not NA | 40 |
 | NA | 101713 |
 
 
@@ -9506,6 +10013,7 @@ S_3915_6:SKJEMA1E; (S_3915_6:SKJEMA1C); (S_3915_6:SKJEMA1B); (S_4019_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12 |
+| Not NA | 12 |
 | NA | 101741 |
 
 
@@ -9516,6 +10024,7 @@ S_3915_7:SKJEMA1E; (S_3915_7:SKJEMA1C); (S_3915_7:SKJEMA1B); (S_4019_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 101748 |
 
 
@@ -9526,6 +10035,7 @@ S_3915_8:SKJEMA1E; (S_3915_8:SKJEMA1C); (S_3915_8:SKJEMA1B); (S_4019_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -9561,6 +10071,7 @@ S_3915_9:SKJEMA1E; (S_3915_9:SKJEMA1C); (S_3915_9:SKJEMA1B); (S_4019_9:SKJEMA1A)
 | 90 | 2 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101682 |
+| Not NA | 71 |
 
 
 ### AA554
@@ -9570,6 +10081,7 @@ S_3916_1:SKJEMA1E; (S_3916_1:SKJEMA1C); (S_3916_1:SKJEMA1B); (S_4020_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1079 |
+| Not NA | 1079 |
 | NA | 100674 |
 
 
@@ -9580,6 +10092,7 @@ S_3916_2:SKJEMA1E; (S_3916_2:SKJEMA1C); (S_3916_2:SKJEMA1B); (S_4020_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1019 |
+| Not NA | 1019 |
 | NA | 100734 |
 
 
@@ -9590,6 +10103,7 @@ S_3916_4:SKJEMA1E; (S_3916_4:SKJEMA1C); (S_3916_4:SKJEMA1B); (S_4020_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 271 |
+| Not NA | 271 |
 | NA | 101482 |
 
 
@@ -9600,6 +10114,7 @@ S_3916_5:SKJEMA1E; (S_3916_5:SKJEMA1C); (S_3916_5:SKJEMA1B); (S_4020_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 196 |
+| Not NA | 196 |
 | NA | 101557 |
 
 
@@ -9610,6 +10125,7 @@ S_3916_6:SKJEMA1E; (S_3916_6:SKJEMA1C); (S_3916_6:SKJEMA1B); (S_4020_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 210 |
+| Not NA | 210 |
 | NA | 101543 |
 
 
@@ -9620,6 +10136,7 @@ S_3916_7:SKJEMA1E; (S_3916_7:SKJEMA1C); (S_3916_7:SKJEMA1B); (S_4020_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 232 |
+| Not NA | 232 |
 | NA | 101521 |
 
 
@@ -9630,6 +10147,7 @@ S_3916_8:SKJEMA1E; (S_3916_8:SKJEMA1C); (S_3916_8:SKJEMA1B); (S_4020_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 323 |
+| Not NA | 323 |
 | NA | 101430 |
 
 
@@ -9724,6 +10242,7 @@ S_3916_9:SKJEMA1E; (S_3916_9:SKJEMA1C); (S_3916_9:SKJEMA1B); (S_4020_9:SKJEMA1A)
 | 912 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101541 |
+| Not NA | 212 |
 
 
 ### AA563
@@ -9733,6 +10252,7 @@ S_3917_1:SKJEMA1E; (S_3917_1:SKJEMA1C); (S_3917_1:SKJEMA1B); Hypothyroidism or h
 | Category | n |
 | -------- | - |
 | 1 | 2643 |
+| Not NA | 2643 |
 | NA | 99110 |
 
 
@@ -9743,6 +10263,7 @@ S_3917_2:SKJEMA1E; (S_3917_2:SKJEMA1C); (S_3917_2:SKJEMA1B); Hypothyroidism or h
 | Category | n |
 | -------- | - |
 | 1 | 1975 |
+| Not NA | 1975 |
 | NA | 99778 |
 
 
@@ -9753,6 +10274,7 @@ S_3917_4:SKJEMA1E; (S_3917_4:SKJEMA1C); (S_3917_4:SKJEMA1B); Hypothyroidism or h
 | Category | n |
 | -------- | - |
 | 1 | 1677 |
+| Not NA | 1677 |
 | NA | 100076 |
 
 
@@ -9763,6 +10285,7 @@ S_3917_5:SKJEMA1E; (S_3917_5:SKJEMA1C); (S_3917_5:SKJEMA1B); Hypothyroidism or h
 | Category | n |
 | -------- | - |
 | 1 | 1541 |
+| Not NA | 1541 |
 | NA | 100212 |
 
 
@@ -9773,6 +10296,7 @@ S_3917_6:SKJEMA1E; (S_3917_6:SKJEMA1C); (S_3917_6:SKJEMA1B); Hypothyroidism or h
 | Category | n |
 | -------- | - |
 | 1 | 1550 |
+| Not NA | 1550 |
 | NA | 100203 |
 
 
@@ -9783,6 +10307,7 @@ S_3917_7:SKJEMA1E; (S_3917_7:SKJEMA1C); (S_3917_7:SKJEMA1B); Hypothyroidism or h
 | Category | n |
 | -------- | - |
 | 1 | 1570 |
+| Not NA | 1570 |
 | NA | 100183 |
 
 
@@ -9793,6 +10318,7 @@ S_3917_8:SKJEMA1E; (S_3917_8:SKJEMA1C); (S_3917_8:SKJEMA1B); Hypothyroidism or h
 | Category | n |
 | -------- | - |
 | 1 | 1619 |
+| Not NA | 1619 |
 | NA | 100134 |
 
 
@@ -9902,6 +10428,7 @@ S_3917_9:SKJEMA1E; (S_3917_9:SKJEMA1C); (S_3917_9:SKJEMA1B); Hypothyroidism or h
 | 144 | 1 |
 | (Other) | 59 |
 | NA's | 100897 |
+| Not NA | 856 |
 
 
 ### AA572
@@ -9911,6 +10438,7 @@ S_3918_1:SKJEMA1E; (S_3918_1:SKJEMA1C); (S_3918_1:SKJEMA1B); (S_4023_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3175 |
+| Not NA | 3175 |
 | NA | 98578 |
 
 
@@ -9921,6 +10449,7 @@ S_3918_2:SKJEMA1E; (S_3918_2:SKJEMA1C); (S_3918_2:SKJEMA1B); (S_4023_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2924 |
+| Not NA | 2924 |
 | NA | 98829 |
 
 
@@ -9931,6 +10460,7 @@ S_3918_4:SKJEMA1E; (S_3918_4:SKJEMA1C); (S_3918_4:SKJEMA1B); (S_4023_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 709 |
+| Not NA | 709 |
 | NA | 101044 |
 
 
@@ -9941,6 +10471,7 @@ S_3918_5:SKJEMA1E; (S_3918_5:SKJEMA1C); (S_3918_5:SKJEMA1B); (S_4023_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 481 |
+| Not NA | 481 |
 | NA | 101272 |
 
 
@@ -9951,6 +10482,7 @@ S_3918_6:SKJEMA1E; (S_3918_6:SKJEMA1C); (S_3918_6:SKJEMA1B); (S_4023_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 714 |
+| Not NA | 714 |
 | NA | 101039 |
 
 
@@ -9961,6 +10493,7 @@ S_3918_7:SKJEMA1E; (S_3918_7:SKJEMA1C); (S_3918_7:SKJEMA1B); (S_4023_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1091 |
+| Not NA | 1091 |
 | NA | 100662 |
 
 
@@ -9971,6 +10504,7 @@ S_3918_8:SKJEMA1E; (S_3918_8:SKJEMA1C); (S_3918_8:SKJEMA1B); (S_4023_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1689 |
+| Not NA | 1689 |
 | NA | 100064 |
 
 
@@ -10080,6 +10614,7 @@ S_3918_9:SKJEMA1E; (S_3918_9:SKJEMA1C); (S_3918_9:SKJEMA1B); (S_4023_9:SKJEMA1A)
 | 161 | 1 |
 | (Other) | 31 |
 | NA's | 100287 |
+| Not NA | 1466 |
 
 
 ### AA581
@@ -10089,6 +10624,7 @@ S_3919_1:SKJEMA1E; (S_3919_1:SKJEMA1C); (S_3919_1:SKJEMA1B); (S_4024_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2621 |
+| Not NA | 2621 |
 | NA | 99132 |
 
 
@@ -10099,6 +10635,7 @@ S_3919_2:SKJEMA1E; (S_3919_2:SKJEMA1C); (S_3919_2:SKJEMA1B); (S_4024_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2024 |
+| Not NA | 2024 |
 | NA | 99729 |
 
 
@@ -10109,6 +10646,7 @@ S_3919_4:SKJEMA1E; (S_3919_4:SKJEMA1C); (S_3919_4:SKJEMA1B); (S_4024_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1143 |
+| Not NA | 1143 |
 | NA | 100610 |
 
 
@@ -10119,6 +10657,7 @@ S_3919_5:SKJEMA1E; (S_3919_5:SKJEMA1C); (S_3919_5:SKJEMA1B); (S_4024_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1233 |
+| Not NA | 1233 |
 | NA | 100520 |
 
 
@@ -10129,6 +10668,7 @@ S_3919_6:SKJEMA1E; (S_3919_6:SKJEMA1C); (S_3919_6:SKJEMA1B); (S_4024_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1512 |
+| Not NA | 1512 |
 | NA | 100241 |
 
 
@@ -10139,6 +10679,7 @@ S_3919_7:SKJEMA1E; (S_3919_7:SKJEMA1C); (S_3919_7:SKJEMA1B); (S_4024_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1611 |
+| Not NA | 1611 |
 | NA | 100142 |
 
 
@@ -10149,6 +10690,7 @@ S_3919_8:SKJEMA1E; (S_3919_8:SKJEMA1C); (S_3919_8:SKJEMA1B); (S_4024_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1234 |
+| Not NA | 1234 |
 | NA | 100519 |
 
 
@@ -10258,6 +10800,7 @@ S_3919_9:SKJEMA1E; (S_3919_9:SKJEMA1C); (S_3919_9:SKJEMA1B); (S_4024_9:SKJEMA1A)
 | 134 | 1 |
 | (Other) | 61 |
 | NA's | 100352 |
+| Not NA | 1401 |
 
 
 ### AA590
@@ -10267,6 +10810,7 @@ S_3920_1:SKJEMA1E; (S_3920_1:SKJEMA1C); (S_3920_1:SKJEMA1B); (S_4025_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 458 |
+| Not NA | 458 |
 | NA | 101295 |
 
 
@@ -10277,6 +10821,7 @@ S_3920_2:SKJEMA1E; (S_3920_2:SKJEMA1C); (S_3920_2:SKJEMA1B); (S_4025_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 88 |
+| Not NA | 88 |
 | NA | 101665 |
 
 
@@ -10287,6 +10832,7 @@ S_3920_4:SKJEMA1E; (S_3920_4:SKJEMA1C); (S_3920_4:SKJEMA1B); (S_4025_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 101726 |
 
 
@@ -10297,6 +10843,7 @@ S_3920_5:SKJEMA1E; (S_3920_5:SKJEMA1C); (S_3920_5:SKJEMA1B); (S_4025_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 101731 |
 
 
@@ -10307,6 +10854,7 @@ S_3920_6:SKJEMA1E; (S_3920_6:SKJEMA1C); (S_3920_6:SKJEMA1B); (S_4025_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -10317,6 +10865,7 @@ S_3920_7:SKJEMA1E; (S_3920_7:SKJEMA1C); (S_3920_7:SKJEMA1B); (S_4025_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 101734 |
 
 
@@ -10327,6 +10876,7 @@ S_3920_8:SKJEMA1E; (S_3920_8:SKJEMA1C); (S_3920_8:SKJEMA1B); (S_4025_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 101736 |
 
 
@@ -10355,6 +10905,7 @@ S_3920_9:SKJEMA1E; (S_3920_9:SKJEMA1C); (S_3920_9:SKJEMA1B); (S_4025_9:SKJEMA1A)
 | 45 | 1 |
 | 60 | 1 |
 | 90 | 1 |
+| Not NA | 49 |
 | NA | 101704 |
 
 
@@ -10365,6 +10916,7 @@ S_3921_1:SKJEMA1E; (S_3921_1:SKJEMA1C); (S_3921_1:SKJEMA1B); (S_4026_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1431 |
+| Not NA | 1431 |
 | NA | 100322 |
 
 
@@ -10375,6 +10927,7 @@ S_3921_2:SKJEMA1E; (S_3921_2:SKJEMA1C); (S_3921_2:SKJEMA1B); (S_4026_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 196 |
+| Not NA | 196 |
 | NA | 101557 |
 
 
@@ -10385,6 +10938,7 @@ S_3921_4:SKJEMA1E; (S_3921_4:SKJEMA1C); (S_3921_4:SKJEMA1B); (S_4026_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 107 |
+| Not NA | 107 |
 | NA | 101646 |
 
 
@@ -10395,6 +10949,7 @@ S_3921_5:SKJEMA1E; (S_3921_5:SKJEMA1C); (S_3921_5:SKJEMA1B); (S_4026_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 30 |
+| Not NA | 30 |
 | NA | 101723 |
 
 
@@ -10405,6 +10960,7 @@ S_3921_6:SKJEMA1E; (S_3921_6:SKJEMA1C); (S_3921_6:SKJEMA1B); (S_4026_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 29 |
+| Not NA | 29 |
 | NA | 101724 |
 
 
@@ -10415,6 +10971,7 @@ S_3921_7:SKJEMA1E; (S_3921_7:SKJEMA1C); (S_3921_7:SKJEMA1B); (S_4026_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 101719 |
 
 
@@ -10425,6 +10982,7 @@ S_3921_8:SKJEMA1E; (S_3921_8:SKJEMA1C); (S_3921_8:SKJEMA1B); (S_4026_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 28 |
+| Not NA | 28 |
 | NA | 101725 |
 
 
@@ -10458,6 +11016,7 @@ S_3921_9:SKJEMA1E; (S_3921_9:SKJEMA1C); (S_3921_9:SKJEMA1B); (S_4026_9:SKJEMA1A)
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101632 |
+| Not NA | 121 |
 
 
 ### AA608
@@ -10467,6 +11026,7 @@ S_3922_1:SKJEMA1E; (S_3922_1:SKJEMA1C); (S_3922_1:SKJEMA1B); Duodenal/stomach ul
 | Category | n |
 | -------- | - |
 | 1 | 645 |
+| Not NA | 645 |
 | NA | 101108 |
 
 
@@ -10477,6 +11037,7 @@ S_3922_2:SKJEMA1E; (S_3922_2:SKJEMA1C); (S_3922_2:SKJEMA1B); Duodenal/stomach ul
 | Category | n |
 | -------- | - |
 | 1 | 87 |
+| Not NA | 87 |
 | NA | 101666 |
 
 
@@ -10487,6 +11048,7 @@ S_3922_4:SKJEMA1E; (S_3922_4:SKJEMA1C); (S_3922_4:SKJEMA1B); Duodenal/stomach ul
 | Category | n |
 | -------- | - |
 | 1 | 83 |
+| Not NA | 83 |
 | NA | 101670 |
 
 
@@ -10497,6 +11059,7 @@ S_3922_5:SKJEMA1E; (S_3922_5:SKJEMA1C); (S_3922_5:SKJEMA1B); Duodenal/stomach ul
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 101729 |
 
 
@@ -10507,6 +11070,7 @@ S_3922_6:SKJEMA1E; (S_3922_6:SKJEMA1C); (S_3922_6:SKJEMA1B); Duodenal/stomach ul
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 101731 |
 
 
@@ -10517,6 +11081,7 @@ S_3922_7:SKJEMA1E; (S_3922_7:SKJEMA1C); (S_3922_7:SKJEMA1B); Duodenal/stomach ul
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 101735 |
 
 
@@ -10527,6 +11092,7 @@ S_3922_8:SKJEMA1E; (S_3922_8:SKJEMA1C); (S_3922_8:SKJEMA1B); Duodenal/stomach ul
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 101733 |
 
 
@@ -10573,6 +11139,7 @@ S_3922_9:SKJEMA1E; (S_3922_9:SKJEMA1C); (S_3922_9:SKJEMA1B); Duodenal/stomach ul
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101622 |
+| Not NA | 131 |
 
 
 ### AA617
@@ -10582,6 +11149,7 @@ S_3923_1:SKJEMA1E; (S_3923_1:SKJEMA1C); (S_3923_1:SKJEMA1B); Crohns disease / Ul
 | Category | n |
 | -------- | - |
 | 1 | 720 |
+| Not NA | 720 |
 | NA | 101033 |
 
 
@@ -10592,6 +11160,7 @@ S_3923_2:SKJEMA1E; (S_3923_2:SKJEMA1C); (S_3923_2:SKJEMA1B); Crohns disease / Ul
 | Category | n |
 | -------- | - |
 | 1 | 501 |
+| Not NA | 501 |
 | NA | 101252 |
 
 
@@ -10602,6 +11171,7 @@ S_3923_4:SKJEMA1E; (S_3923_4:SKJEMA1C); (S_3923_4:SKJEMA1B); Crohns disease / ul
 | Category | n |
 | -------- | - |
 | 1 | 353 |
+| Not NA | 353 |
 | NA | 101400 |
 
 
@@ -10612,6 +11182,7 @@ S_3923_5:SKJEMA1E; (S_3923_5:SKJEMA1C); (S_3923_5:SKJEMA1B); Crohns disease / ul
 | Category | n |
 | -------- | - |
 | 1 | 267 |
+| Not NA | 267 |
 | NA | 101486 |
 
 
@@ -10622,6 +11193,7 @@ S_3923_6:SKJEMA1E; (S_3923_6:SKJEMA1C); (S_3923_6:SKJEMA1B); Crohns disease / ul
 | Category | n |
 | -------- | - |
 | 1 | 240 |
+| Not NA | 240 |
 | NA | 101513 |
 
 
@@ -10632,6 +11204,7 @@ S_3923_7:SKJEMA1E; (S_3923_7:SKJEMA1C); (S_3923_7:SKJEMA1B); Crohns disease / ul
 | Category | n |
 | -------- | - |
 | 1 | 244 |
+| Not NA | 244 |
 | NA | 101509 |
 
 
@@ -10642,6 +11215,7 @@ S_3923_8:SKJEMA1E; (S_3923_8:SKJEMA1C); (S_3923_8:SKJEMA1B); Crohns disease / ul
 | Category | n |
 | -------- | - |
 | 1 | 281 |
+| Not NA | 281 |
 | NA | 101472 |
 
 
@@ -10735,6 +11309,7 @@ S_3923_9:SKJEMA1E; (S_3923_9:SKJEMA1C); (S_3923_9:SKJEMA1B); Crohns disease / ul
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 5 |
 | NA's | 101468 |
+| Not NA | 285 |
 
 
 ### AA626
@@ -10744,6 +11319,7 @@ S_3924_1:SKJEMA1E; (S_3924_1:SKJEMA1C); (S_3924_1:SKJEMA1B); (S_4031_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 422 |
+| Not NA | 422 |
 | NA | 101331 |
 
 
@@ -10754,6 +11330,7 @@ S_3924_2:SKJEMA1E; (S_3924_2:SKJEMA1C); (S_3924_2:SKJEMA1B); (S_4031_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 336 |
+| Not NA | 336 |
 | NA | 101417 |
 
 
@@ -10764,6 +11341,7 @@ S_3924_4:SKJEMA1E; (S_3924_4:SKJEMA1C); (S_3924_4:SKJEMA1B); (S_4031_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 101732 |
 
 
@@ -10774,6 +11352,7 @@ S_3924_5:SKJEMA1E; (S_3924_5:SKJEMA1C); (S_3924_5:SKJEMA1B); (S_4031_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 101738 |
 
 
@@ -10784,6 +11363,7 @@ S_3924_6:SKJEMA1E; (S_3924_6:SKJEMA1C); (S_3924_6:SKJEMA1B); (S_4031_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 101738 |
 
 
@@ -10794,6 +11374,7 @@ S_3924_7:SKJEMA1E; (S_3924_7:SKJEMA1C); (S_3924_7:SKJEMA1B); (S_4031_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 101740 |
 
 
@@ -10804,6 +11385,7 @@ S_3924_8:SKJEMA1E; (S_3924_8:SKJEMA1C); (S_3924_8:SKJEMA1B); (S_4031_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 101738 |
 
 
@@ -10828,6 +11410,7 @@ S_3924_9:SKJEMA1E; (S_3924_9:SKJEMA1C); (S_3924_9:SKJEMA1B); (S_4031_9:SKJEMA1A)
 | 218 | 1 |
 | 132 | 1 |
 | 56 | 1 |
+| Not NA | 56 |
 | NA | 101697 |
 
 
@@ -10838,6 +11421,7 @@ S_3925_1:SKJEMA1E; (S_3925_1:SKJEMA1C); (S_3925_1:SKJEMA1B); Other gastro-intest
 | Category | n |
 | -------- | - |
 | 1 | 4372 |
+| Not NA | 4372 |
 | NA | 97381 |
 
 
@@ -10848,6 +11432,7 @@ S_3925_2:SKJEMA1E; (S_3925_2:SKJEMA1C); (S_3925_2:SKJEMA1B); Other gastro-intest
 | Category | n |
 | -------- | - |
 | 1 | 2434 |
+| Not NA | 2434 |
 | NA | 99319 |
 
 
@@ -10858,6 +11443,7 @@ S_3925_4:SKJEMA1E; (S_3925_4:SKJEMA1C); (S_3925_4:SKJEMA1B); Other gastro-intest
 | Category | n |
 | -------- | - |
 | 1 | 766 |
+| Not NA | 766 |
 | NA | 100987 |
 
 
@@ -10868,6 +11454,7 @@ S_3925_5:SKJEMA1E; (S_3925_5:SKJEMA1C); (S_3925_5:SKJEMA1B); Other gastro-intest
 | Category | n |
 | -------- | - |
 | 1 | 388 |
+| Not NA | 388 |
 | NA | 101365 |
 
 
@@ -10878,6 +11465,7 @@ S_3925_6:SKJEMA1E; (S_3925_6:SKJEMA1C); (S_3925_6:SKJEMA1B); Other gastro-intest
 | Category | n |
 | -------- | - |
 | 1 | 378 |
+| Not NA | 378 |
 | NA | 101375 |
 
 
@@ -10888,6 +11476,7 @@ S_3925_7:SKJEMA1E; (S_3925_7:SKJEMA1C); (S_3925_7:SKJEMA1B); Other gastro-intest
 | Category | n |
 | -------- | - |
 | 1 | 423 |
+| Not NA | 423 |
 | NA | 101330 |
 
 
@@ -10898,6 +11487,7 @@ S_3925_8:SKJEMA1E; (S_3925_8:SKJEMA1C); (S_3925_8:SKJEMA1B); Other gastro-intest
 | Category | n |
 | -------- | - |
 | 1 | 471 |
+| Not NA | 471 |
 | NA | 101282 |
 
 
@@ -10993,6 +11583,7 @@ S_3925_9:SKJEMA1E; (S_3925_9:SKJEMA1C); (S_3925_9:SKJEMA1B); Other gastro-intest
 | 99 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101022 |
+| Not NA | 731 |
 
 
 ### AA644
@@ -11002,6 +11593,7 @@ S_3926_1:SKJEMA1E; (S_3926_1:SKJEMA1C); (S_3926_1:SKJEMA1B); (S_4032_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 871 |
+| Not NA | 871 |
 | NA | 100882 |
 
 
@@ -11012,6 +11604,7 @@ S_3926_2:SKJEMA1E; (S_3926_2:SKJEMA1C); (S_3926_2:SKJEMA1B); (S_4032_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 540 |
+| Not NA | 540 |
 | NA | 101213 |
 
 
@@ -11022,6 +11615,7 @@ S_3926_4:SKJEMA1E; (S_3926_4:SKJEMA1C); (S_3926_4:SKJEMA1B); (S_4032_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 332 |
+| Not NA | 332 |
 | NA | 101421 |
 
 
@@ -11032,6 +11626,7 @@ S_3926_5:SKJEMA1E; (S_3926_5:SKJEMA1C); (S_3926_5:SKJEMA1B); (S_4032_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 134 |
+| Not NA | 134 |
 | NA | 101619 |
 
 
@@ -11042,6 +11637,7 @@ S_3926_6:SKJEMA1E; (S_3926_6:SKJEMA1C); (S_3926_6:SKJEMA1B); (S_4032_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 85 |
+| Not NA | 85 |
 | NA | 101668 |
 
 
@@ -11052,6 +11648,7 @@ S_3926_7:SKJEMA1E; (S_3926_7:SKJEMA1C); (S_3926_7:SKJEMA1B); (S_4032_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 78 |
+| Not NA | 78 |
 | NA | 101675 |
 
 
@@ -11062,6 +11659,7 @@ S_3926_8:SKJEMA1E; (S_3926_8:SKJEMA1C); (S_3926_8:SKJEMA1B); (S_4032_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 88 |
+| Not NA | 88 |
 | NA | 101665 |
 
 
@@ -11117,6 +11715,7 @@ S_3926_9:SKJEMA1E; (S_3926_9:SKJEMA1C); (S_3926_9:SKJEMA1B); (S_4032_9:SKJEMA1A)
 | 98 | 1 |
 | More than one number given because more than one medication have been reported | 2 |
 | NA's | 101572 |
+| Not NA | 181 |
 
 
 ### AA653
@@ -11126,6 +11725,7 @@ S_3927_1:SKJEMA1E; (S_3927_1:SKJEMA1C); (S_3927_1:SKJEMA1B); (S_4033_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 75 |
+| Not NA | 75 |
 | NA | 101678 |
 
 
@@ -11136,6 +11736,7 @@ S_3927_2:SKJEMA1E; (S_3927_2:SKJEMA1C); (S_3927_2:SKJEMA1B); (S_4033_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 64 |
+| Not NA | 64 |
 | NA | 101689 |
 
 
@@ -11146,6 +11747,7 @@ S_3927_4:SKJEMA1E; (S_3927_4:SKJEMA1C); (S_3927_4:SKJEMA1B); (S_4033_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 38 |
+| Not NA | 38 |
 | NA | 101715 |
 
 
@@ -11156,6 +11758,7 @@ S_3927_5:SKJEMA1E; (S_3927_5:SKJEMA1C); (S_3927_5:SKJEMA1B); (S_4033_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 101717 |
 
 
@@ -11166,6 +11769,7 @@ S_3927_6:SKJEMA1E; (S_3927_6:SKJEMA1C); (S_3927_6:SKJEMA1B); (S_4033_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 33 |
+| Not NA | 33 |
 | NA | 101720 |
 
 
@@ -11176,6 +11780,7 @@ S_3927_7:SKJEMA1E; (S_3927_7:SKJEMA1C); (S_3927_7:SKJEMA1B); (S_4033_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 33 |
+| Not NA | 33 |
 | NA | 101720 |
 
 
@@ -11186,6 +11791,7 @@ S_3927_8:SKJEMA1E; (S_3927_8:SKJEMA1C); (S_3927_8:SKJEMA1B); (S_4033_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 32 |
+| Not NA | 32 |
 | NA | 101721 |
 
 
@@ -11220,6 +11826,7 @@ S_3927_9:SKJEMA1E; (S_3927_9:SKJEMA1C); (S_3927_9:SKJEMA1B); (S_4033_9:SKJEMA1A)
 | 998 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101703 |
+| Not NA | 50 |
 
 
 ### AA662
@@ -11229,6 +11836,7 @@ S_3928_1:SKJEMA1E; (S_3928_1:SKJEMA1C); (S_3928_1:SKJEMA1B); (S_4034_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2118 |
+| Not NA | 2118 |
 | NA | 99635 |
 
 
@@ -11239,6 +11847,7 @@ S_3928_2:SKJEMA1E; (S_3928_2:SKJEMA1C); (S_3928_2:SKJEMA1B); (S_4034_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1171 |
+| Not NA | 1171 |
 | NA | 100582 |
 
 
@@ -11249,6 +11858,7 @@ S_3928_4:SKJEMA1E; (S_3928_4:SKJEMA1C); (S_3928_4:SKJEMA1B); (S_4034_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 271 |
+| Not NA | 271 |
 | NA | 101482 |
 
 
@@ -11259,6 +11869,7 @@ S_3928_5:SKJEMA1E; (S_3928_5:SKJEMA1C); (S_3928_5:SKJEMA1B); (S_4034_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 70 |
+| Not NA | 70 |
 | NA | 101683 |
 
 
@@ -11269,6 +11880,7 @@ S_3928_6:SKJEMA1E; (S_3928_6:SKJEMA1C); (S_3928_6:SKJEMA1B); (S_4034_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 71 |
+| Not NA | 71 |
 | NA | 101682 |
 
 
@@ -11279,6 +11891,7 @@ S_3928_7:SKJEMA1E; (S_3928_7:SKJEMA1C); (S_3928_7:SKJEMA1B); (S_4034_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 119 |
+| Not NA | 119 |
 | NA | 101634 |
 
 
@@ -11289,6 +11902,7 @@ S_3928_8:SKJEMA1E; (S_3928_8:SKJEMA1C); (S_3928_8:SKJEMA1B); (S_4034_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 166 |
+| Not NA | 166 |
 | NA | 101587 |
 
 
@@ -11332,6 +11946,7 @@ S_3928_9:SKJEMA1E; (S_3928_9:SKJEMA1C); (S_3928_9:SKJEMA1B); (S_4034_9:SKJEMA1A)
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101537 |
+| Not NA | 216 |
 
 
 ### AA671
@@ -11341,6 +11956,7 @@ S_3929_1:SKJEMA1E; (S_3929_1:SKJEMA1C); (S_3929_1:SKJEMA1B); (S_4036_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 688 |
+| Not NA | 688 |
 | NA | 101065 |
 
 
@@ -11351,6 +11967,7 @@ S_3929_2:SKJEMA1E; (S_3929_2:SKJEMA1C); (S_3929_2:SKJEMA1B); (S_4036_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 433 |
+| Not NA | 433 |
 | NA | 101320 |
 
 
@@ -11361,6 +11978,7 @@ S_3929_4:SKJEMA1E; (S_3929_4:SKJEMA1C); (S_3929_4:SKJEMA1B); (S_4036_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 173 |
+| Not NA | 173 |
 | NA | 101580 |
 
 
@@ -11371,6 +11989,7 @@ S_3929_5:SKJEMA1E; (S_3929_5:SKJEMA1C); (S_3929_5:SKJEMA1B); (S_4036_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 71 |
+| Not NA | 71 |
 | NA | 101682 |
 
 
@@ -11381,6 +12000,7 @@ S_3929_6:SKJEMA1E; (S_3929_6:SKJEMA1C); (S_3929_6:SKJEMA1B); (S_4036_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 42 |
+| Not NA | 42 |
 | NA | 101711 |
 
 
@@ -11391,6 +12011,7 @@ S_3929_7:SKJEMA1E; (S_3929_7:SKJEMA1C); (S_3929_7:SKJEMA1B); (S_4036_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 101726 |
 
 
@@ -11401,6 +12022,7 @@ S_3929_8:SKJEMA1E; (S_3929_8:SKJEMA1C); (S_3929_8:SKJEMA1B); (S_4036_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 101717 |
 
 
@@ -11445,6 +12067,7 @@ S_3929_9:SKJEMA1E; (S_3929_9:SKJEMA1C); (S_3929_9:SKJEMA1B); (S_4036_9:SKJEMA1A)
 | 90 | 2 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 101637 |
+| Not NA | 116 |
 
 
 ### AA680
@@ -11454,6 +12077,7 @@ S_3930_1:SKJEMA1E; (S_3930_1:SKJEMA1C); (S_3930_1:SKJEMA1B); (S_4039_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1537 |
+| Not NA | 1537 |
 | NA | 100216 |
 
 
@@ -11464,6 +12088,7 @@ S_3930_2:SKJEMA1E; (S_3930_2:SKJEMA1C); (S_3930_2:SKJEMA1B); (S_4039_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 101719 |
 
 
@@ -11474,6 +12099,7 @@ S_3930_4:SKJEMA1E; (S_3930_4:SKJEMA1C); (S_3930_4:SKJEMA1B); (S_4039_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 76 |
+| Not NA | 76 |
 | NA | 101677 |
 
 
@@ -11484,6 +12110,7 @@ S_3930_5:SKJEMA1E; (S_3930_5:SKJEMA1C); (S_3930_5:SKJEMA1B); (S_4039_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 101743 |
 
 
@@ -11494,6 +12121,7 @@ S_3930_6:SKJEMA1E; (S_3930_6:SKJEMA1C); (S_3930_6:SKJEMA1B); (S_4039_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 101745 |
 
 
@@ -11504,6 +12132,7 @@ S_3930_7:SKJEMA1E; (S_3930_7:SKJEMA1C); (S_3930_7:SKJEMA1B); (S_4039_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 101748 |
 
 
@@ -11514,6 +12143,7 @@ S_3930_8:SKJEMA1E; (S_3930_8:SKJEMA1C); (S_3930_8:SKJEMA1B); (S_4039_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 101746 |
 
 
@@ -11542,6 +12172,7 @@ S_3930_9:SKJEMA1E; (S_3930_9:SKJEMA1C); (S_3930_9:SKJEMA1B); (S_4039_9:SKJEMA1A)
 | 30 | 2 |
 | 21 | 1 |
 | 40 | 1 |
+| Not NA | 119 |
 | NA | 101634 |
 
 
@@ -11552,6 +12183,7 @@ S_3931_1:SKJEMA1E; (S_3931_1:SKJEMA1C); (S_3931_1:SKJEMA1B); (S_4040_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1573 |
+| Not NA | 1573 |
 | NA | 100180 |
 
 
@@ -11562,6 +12194,7 @@ S_3931_2:SKJEMA1E; (S_3931_2:SKJEMA1C); (S_3931_2:SKJEMA1B); (S_4040_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 204 |
+| Not NA | 204 |
 | NA | 101549 |
 
 
@@ -11572,6 +12205,7 @@ S_3931_4:SKJEMA1E; (S_3931_4:SKJEMA1C); (S_3931_4:SKJEMA1B); (S_4040_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 142 |
+| Not NA | 142 |
 | NA | 101611 |
 
 
@@ -11582,6 +12216,7 @@ S_3931_5:SKJEMA1E; (S_3931_5:SKJEMA1C); (S_3931_5:SKJEMA1B); (S_4040_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 101742 |
 
 
@@ -11592,6 +12227,7 @@ S_3931_6:SKJEMA1E; (S_3931_6:SKJEMA1C); (S_3931_6:SKJEMA1B); (S_4040_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 101748 |
 
 
@@ -11602,6 +12238,7 @@ S_3931_7:SKJEMA1E; (S_3931_7:SKJEMA1C); (S_3931_7:SKJEMA1B); (S_4040_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 101746 |
 
 
@@ -11612,6 +12249,7 @@ S_3931_8:SKJEMA1E; (S_3931_8:SKJEMA1C); (S_3931_8:SKJEMA1B); (S_4040_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 101747 |
 
 
@@ -11650,6 +12288,7 @@ S_3931_9:SKJEMA1E; (S_3931_9:SKJEMA1C); (S_3931_9:SKJEMA1B); (S_4040_9:SKJEMA1A)
 | 90 | 4 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101688 |
+| Not NA | 65 |
 
 
 ### AA698
@@ -11659,6 +12298,7 @@ S_3932_1:SKJEMA1E; (S_3932_1:SKJEMA1C); (S_3932_1:SKJEMA1B); (S_4041_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 169 |
+| Not NA | 169 |
 | NA | 101584 |
 
 
@@ -11669,6 +12309,7 @@ S_3932_2:SKJEMA1E; (S_3932_2:SKJEMA1C); (S_3932_2:SKJEMA1B); (S_4041_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 126 |
+| Not NA | 126 |
 | NA | 101627 |
 
 
@@ -11679,6 +12320,7 @@ S_3932_4:SKJEMA1E; (S_3932_4:SKJEMA1C); (S_3932_4:SKJEMA1B); (S_4041_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 101745 |
 
 
@@ -11689,6 +12331,7 @@ S_3932_5:SKJEMA1E; (S_3932_5:SKJEMA1C); (S_3932_5:SKJEMA1B); (S_4041_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 101747 |
 
 
@@ -11699,6 +12342,7 @@ S_3932_6:SKJEMA1E; (S_3932_6:SKJEMA1C); (S_3932_6:SKJEMA1B); (S_4041_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -11709,6 +12353,7 @@ S_3932_7:SKJEMA1E; (S_3932_7:SKJEMA1C); (S_3932_7:SKJEMA1B); (S_4041_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 101744 |
 
 
@@ -11719,6 +12364,7 @@ S_3932_8:SKJEMA1E; (S_3932_8:SKJEMA1C); (S_3932_8:SKJEMA1B); (S_4041_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 101742 |
 
 
@@ -11730,6 +12376,7 @@ S_3932_9:SKJEMA1E; (S_3932_9:SKJEMA1C); (S_3932_9:SKJEMA1B); (S_4041_9:SKJEMA1A)
 | -------- | - |
 | 0 | 23 |
 | 7 | 1 |
+| Not NA | 24 |
 | NA | 101729 |
 
 
@@ -11740,6 +12387,7 @@ S_3933_1:SKJEMA1E; (S_3933_1:SKJEMA1C); (S_3933_1:SKJEMA1B); (S_4042_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5609 |
+| Not NA | 5609 |
 | NA | 96144 |
 
 
@@ -11750,6 +12398,7 @@ S_3933_2:SKJEMA1E; (S_3933_2:SKJEMA1C); (S_3933_2:SKJEMA1B); (S_4042_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 954 |
+| Not NA | 954 |
 | NA | 100799 |
 
 
@@ -11760,6 +12409,7 @@ S_3933_4:SKJEMA1E; (S_3933_4:SKJEMA1C); (S_3933_4:SKJEMA1B); (S_4042_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 265 |
+| Not NA | 265 |
 | NA | 101488 |
 
 
@@ -11770,6 +12420,7 @@ S_3933_5:SKJEMA1E; (S_3933_5:SKJEMA1C); (S_3933_5:SKJEMA1B); (S_4042_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 82 |
+| Not NA | 82 |
 | NA | 101671 |
 
 
@@ -11780,6 +12431,7 @@ S_3933_6:SKJEMA1E; (S_3933_6:SKJEMA1C); (S_3933_6:SKJEMA1B); (S_4042_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 88 |
+| Not NA | 88 |
 | NA | 101665 |
 
 
@@ -11790,6 +12442,7 @@ S_3933_7:SKJEMA1E; (S_3933_7:SKJEMA1C); (S_3933_7:SKJEMA1B); (S_4042_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 67 |
+| Not NA | 67 |
 | NA | 101686 |
 
 
@@ -11800,6 +12453,7 @@ S_3933_8:SKJEMA1E; (S_3933_8:SKJEMA1C); (S_3933_8:SKJEMA1B); (S_4042_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 38 |
+| Not NA | 38 |
 | NA | 101715 |
 
 
@@ -11848,6 +12502,7 @@ S_3933_9:SKJEMA1E; (S_3933_9:SKJEMA1C); (S_3933_9:SKJEMA1B); (S_4042_9:SKJEMA1A)
 | 998 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 101624 |
+| Not NA | 129 |
 
 
 ### AA716
@@ -11857,6 +12512,7 @@ S_3934_1:SKJEMA1E; (S_3934_1:SKJEMA1C); (S_3934_1:SKJEMA1B); (S_4043_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1036 |
+| Not NA | 1036 |
 | NA | 100717 |
 
 
@@ -11867,6 +12523,7 @@ S_3934_2:SKJEMA1E; (S_3934_2:SKJEMA1C); (S_3934_2:SKJEMA1B); (S_4043_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 751 |
+| Not NA | 751 |
 | NA | 101002 |
 
 
@@ -11877,6 +12534,7 @@ S_3934_4:SKJEMA1E; (S_3934_4:SKJEMA1C); (S_3934_4:SKJEMA1B); (S_4043_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 43 |
+| Not NA | 43 |
 | NA | 101710 |
 
 
@@ -11887,6 +12545,7 @@ S_3934_5:SKJEMA1E; (S_3934_5:SKJEMA1C); (S_3934_5:SKJEMA1B); (S_4043_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 101742 |
 
 
@@ -11897,6 +12556,7 @@ S_3934_6:SKJEMA1E; (S_3934_6:SKJEMA1C); (S_3934_6:SKJEMA1B); (S_4043_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 101736 |
 
 
@@ -11907,6 +12567,7 @@ S_3934_7:SKJEMA1E; (S_3934_7:SKJEMA1C); (S_3934_7:SKJEMA1B); (S_4043_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 101729 |
 
 
@@ -11917,6 +12578,7 @@ S_3934_8:SKJEMA1E; (S_3934_8:SKJEMA1C); (S_3934_8:SKJEMA1B); (S_4043_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 51 |
+| Not NA | 51 |
 | NA | 101702 |
 
 
@@ -11938,6 +12600,7 @@ S_3934_9:SKJEMA1E; (S_3934_9:SKJEMA1C); (S_3934_9:SKJEMA1B); (S_4043_9:SKJEMA1A)
 | 70 | 1 |
 | 21 | 1 |
 | 1 | 1 |
+| Not NA | 53 |
 | NA | 101700 |
 
 
@@ -11948,6 +12611,7 @@ S_3935_1:SKJEMA1E; (S_3935_1:SKJEMA1C); (S_3935_1:SKJEMA1B); (S_4044_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6081 |
+| Not NA | 6081 |
 | NA | 95672 |
 
 
@@ -11958,6 +12622,7 @@ S_3935_2:SKJEMA1E; (S_3935_2:SKJEMA1C); (S_3935_2:SKJEMA1B); (S_4044_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 626 |
+| Not NA | 626 |
 | NA | 101127 |
 
 
@@ -11968,6 +12633,7 @@ S_3935_4:SKJEMA1E; (S_3935_4:SKJEMA1C); (S_3935_4:SKJEMA1B); (S_4044_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 121 |
+| Not NA | 121 |
 | NA | 101632 |
 
 
@@ -11978,6 +12644,7 @@ S_3935_5:SKJEMA1E; (S_3935_5:SKJEMA1C); (S_3935_5:SKJEMA1B); (S_4044_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 101719 |
 
 
@@ -11988,6 +12655,7 @@ S_3935_6:SKJEMA1E; (S_3935_6:SKJEMA1C); (S_3935_6:SKJEMA1B); (S_4044_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 101714 |
 
 
@@ -11998,6 +12666,7 @@ S_3935_7:SKJEMA1E; (S_3935_7:SKJEMA1C); (S_3935_7:SKJEMA1B); (S_4044_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 31 |
+| Not NA | 31 |
 | NA | 101722 |
 
 
@@ -12008,6 +12677,7 @@ S_3935_8:SKJEMA1E; (S_3935_8:SKJEMA1C); (S_3935_8:SKJEMA1B); (S_4044_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 29 |
+| Not NA | 29 |
 | NA | 101724 |
 
 
@@ -12024,6 +12694,7 @@ S_3935_9:SKJEMA1E; (S_3935_9:SKJEMA1C); (S_3935_9:SKJEMA1B); (S_4044_9:SKJEMA1A)
 | 2 | 1 |
 | 10 | 1 |
 | 30 | 1 |
+| Not NA | 39 |
 | NA | 101714 |
 
 
@@ -12034,6 +12705,7 @@ S_3936_1:SKJEMA1E; (S_3936_1:SKJEMA1C); (S_3936_1:SKJEMA1B); (S_4045_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2986 |
+| Not NA | 2986 |
 | NA | 98767 |
 
 
@@ -12044,6 +12716,7 @@ S_3936_2:SKJEMA1E; (S_3936_2:SKJEMA1C); (S_3936_2:SKJEMA1B); (S_4045_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 897 |
+| Not NA | 897 |
 | NA | 100856 |
 
 
@@ -12054,6 +12727,7 @@ S_3936_4:SKJEMA1E; (S_3936_4:SKJEMA1C); (S_3936_4:SKJEMA1B); (S_4045_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 336 |
+| Not NA | 336 |
 | NA | 101417 |
 
 
@@ -12064,6 +12738,7 @@ S_3936_5:SKJEMA1E; (S_3936_5:SKJEMA1C); (S_3936_5:SKJEMA1B); (S_4045_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 91 |
+| Not NA | 91 |
 | NA | 101662 |
 
 
@@ -12074,6 +12749,7 @@ S_3936_6:SKJEMA1E; (S_3936_6:SKJEMA1C); (S_3936_6:SKJEMA1B); (S_4045_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 94 |
+| Not NA | 94 |
 | NA | 101659 |
 
 
@@ -12084,6 +12760,7 @@ S_3936_7:SKJEMA1E; (S_3936_7:SKJEMA1C); (S_3936_7:SKJEMA1B); (S_4045_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 110 |
+| Not NA | 110 |
 | NA | 101643 |
 
 
@@ -12094,6 +12771,7 @@ S_3936_8:SKJEMA1E; (S_3936_8:SKJEMA1C); (S_3936_8:SKJEMA1B); (S_4045_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 140 |
+| Not NA | 140 |
 | NA | 101613 |
 
 
@@ -12131,6 +12809,7 @@ S_3936_9:SKJEMA1E; (S_3936_9:SKJEMA1C); (S_3936_9:SKJEMA1B); (S_4045_9:SKJEMA1A)
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 101446 |
+| Not NA | 307 |
 
 
 ### AA743
@@ -12140,6 +12819,7 @@ S_3937_1:SKJEMA1E; (S_3937_1:SKJEMA1C); (S_3937_1:SKJEMA1B); (S_4046_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5400 |
+| Not NA | 5400 |
 | NA | 96353 |
 
 
@@ -12150,6 +12830,7 @@ S_3937_2:SKJEMA1E; (S_3937_2:SKJEMA1C); (S_3937_2:SKJEMA1B); (S_4046_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 701 |
+| Not NA | 701 |
 | NA | 101052 |
 
 
@@ -12160,6 +12841,7 @@ S_3937_4:SKJEMA1E; (S_3937_4:SKJEMA1C); (S_3937_4:SKJEMA1B); (S_4046_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 223 |
+| Not NA | 223 |
 | NA | 101530 |
 
 
@@ -12170,6 +12852,7 @@ S_3937_5:SKJEMA1E; (S_3937_5:SKJEMA1C); (S_3937_5:SKJEMA1B); (S_4046_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 51 |
+| Not NA | 51 |
 | NA | 101702 |
 
 
@@ -12180,6 +12863,7 @@ S_3937_6:SKJEMA1E; (S_3937_6:SKJEMA1C); (S_3937_6:SKJEMA1B); (S_4046_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 101714 |
 
 
@@ -12190,6 +12874,7 @@ S_3937_7:SKJEMA1E; (S_3937_7:SKJEMA1C); (S_3937_7:SKJEMA1B); (S_4046_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 37 |
+| Not NA | 37 |
 | NA | 101716 |
 
 
@@ -12200,6 +12885,7 @@ S_3937_8:SKJEMA1E; (S_3937_8:SKJEMA1C); (S_3937_8:SKJEMA1B); (S_4046_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 57 |
+| Not NA | 57 |
 | NA | 101696 |
 
 
@@ -12237,6 +12923,7 @@ S_3937_9:SKJEMA1E; (S_3937_9:SKJEMA1C); (S_3937_9:SKJEMA1B); (S_4046_9:SKJEMA1A)
 | 92 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101551 |
+| Not NA | 202 |
 
 
 ### AA752
@@ -12246,6 +12933,7 @@ S_3938_1:SKJEMA1E; (S_3938_1:SKJEMA1C); (S_3938_1:SKJEMA1B); (S_4047_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 133 |
+| Not NA | 133 |
 | NA | 101620 |
 
 
@@ -12256,6 +12944,7 @@ S_3938_2:SKJEMA1E; (S_3938_2:SKJEMA1C); (S_3938_2:SKJEMA1B); (S_4047_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -12265,6 +12954,7 @@ S_3938_4:SKJEMA1E; (S_3938_4:SKJEMA1C); (S_3938_4:SKJEMA1B); (S_4047_4:SKJEMA1A)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -12275,6 +12965,7 @@ S_3938_5:SKJEMA1E; (S_3938_5:SKJEMA1C); (S_3938_5:SKJEMA1B); (S_4047_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -12284,6 +12975,7 @@ S_3938_6:SKJEMA1E; (S_3938_6:SKJEMA1C); (S_3938_6:SKJEMA1B); (S_4047_6:SKJEMA1A)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -12293,6 +12985,7 @@ S_3938_7:SKJEMA1E; (S_3938_7:SKJEMA1C); (S_3938_7:SKJEMA1B); (S_4047_7:SKJEMA1A)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -12302,6 +12995,7 @@ S_3938_8:SKJEMA1E; (S_3938_8:SKJEMA1C); (S_3938_8:SKJEMA1B); (S_4047_8:SKJEMA1A)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -12314,6 +13008,7 @@ S_3938_9:SKJEMA1E; (S_3938_9:SKJEMA1C); (S_3938_9:SKJEMA1B); (S_4047_9:SKJEMA1A)
 | 0 | 23 |
 | 1 | 2 |
 | 2 | 1 |
+| Not NA | 26 |
 | NA | 101727 |
 
 
@@ -12324,6 +13019,7 @@ S_3939_1:SKJEMA1E; (S_3939_1:SKJEMA1C); (S_3939_1:SKJEMA1B); (S_4048_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8665 |
+| Not NA | 8665 |
 | NA | 93088 |
 
 
@@ -12334,6 +13030,7 @@ S_3939_2:SKJEMA1E; (S_3939_2:SKJEMA1C); (S_3939_2:SKJEMA1B); (S_4048_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 398 |
+| Not NA | 398 |
 | NA | 101355 |
 
 
@@ -12344,6 +13041,7 @@ S_3939_4:SKJEMA1E; (S_3939_4:SKJEMA1C); (S_3939_4:SKJEMA1B); (S_4048_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 178 |
+| Not NA | 178 |
 | NA | 101575 |
 
 
@@ -12354,6 +13052,7 @@ S_3939_5:SKJEMA1E; (S_3939_5:SKJEMA1C); (S_3939_5:SKJEMA1B); (S_4048_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 61 |
+| Not NA | 61 |
 | NA | 101692 |
 
 
@@ -12364,6 +13063,7 @@ S_3939_6:SKJEMA1E; (S_3939_6:SKJEMA1C); (S_3939_6:SKJEMA1B); (S_4048_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 101 |
+| Not NA | 101 |
 | NA | 101652 |
 
 
@@ -12374,6 +13074,7 @@ S_3939_7:SKJEMA1E; (S_3939_7:SKJEMA1C); (S_3939_7:SKJEMA1B); (S_4048_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 118 |
+| Not NA | 118 |
 | NA | 101635 |
 
 
@@ -12384,6 +13085,7 @@ S_3939_8:SKJEMA1E; (S_3939_8:SKJEMA1C); (S_3939_8:SKJEMA1B); (S_4048_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 77 |
+| Not NA | 77 |
 | NA | 101676 |
 
 
@@ -12419,6 +13121,7 @@ S_3939_9:SKJEMA1E; (S_3939_9:SKJEMA1C); (S_3939_9:SKJEMA1B); (S_4048_9:SKJEMA1A)
 | 90 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101069 |
+| Not NA | 684 |
 
 
 ### AA770
@@ -12428,6 +13131,7 @@ S_3940_1:SKJEMA1E; (S_3940_1:SKJEMA1C); (S_3940_1:SKJEMA1B); (S_4049_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 784 |
+| Not NA | 784 |
 | NA | 100969 |
 
 
@@ -12438,6 +13142,7 @@ S_3940_2:SKJEMA1E; (S_3940_2:SKJEMA1C); (S_3940_2:SKJEMA1B); (S_4049_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 106 |
+| Not NA | 106 |
 | NA | 101647 |
 
 
@@ -12448,6 +13153,7 @@ S_3940_4:SKJEMA1E; (S_3940_4:SKJEMA1C); (S_3940_4:SKJEMA1B); (S_4049_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 54 |
+| Not NA | 54 |
 | NA | 101699 |
 
 
@@ -12458,6 +13164,7 @@ S_3940_5:SKJEMA1E; (S_3940_5:SKJEMA1C); (S_3940_5:SKJEMA1B); (S_4049_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 101742 |
 
 
@@ -12468,6 +13175,7 @@ S_3940_6:SKJEMA1E; (S_3940_6:SKJEMA1C); (S_3940_6:SKJEMA1B); (S_4049_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 101744 |
 
 
@@ -12478,6 +13186,7 @@ S_3940_7:SKJEMA1E; (S_3940_7:SKJEMA1C); (S_3940_7:SKJEMA1B); (S_4049_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 101742 |
 
 
@@ -12488,6 +13197,7 @@ S_3940_8:SKJEMA1E; (S_3940_8:SKJEMA1C); (S_3940_8:SKJEMA1B); (S_4049_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 101726 |
 
 
@@ -12511,6 +13221,7 @@ S_3940_9:SKJEMA1E; (S_3940_9:SKJEMA1C); (S_3940_9:SKJEMA1B); (S_4049_9:SKJEMA1A)
 | 14 | 1 |
 | 8 | 2 |
 | 20 | 2 |
+| Not NA | 93 |
 | NA | 101660 |
 
 
@@ -12521,6 +13232,7 @@ S_3941_1:SKJEMA1E; (S_3941_1:SKJEMA1C); (S_3941_1:SKJEMA1B); (S_4050_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3816 |
+| Not NA | 3816 |
 | NA | 97937 |
 
 
@@ -12531,6 +13243,7 @@ S_3941_2:SKJEMA1E; (S_3941_2:SKJEMA1C); (S_3941_2:SKJEMA1B); (S_4050_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 199 |
+| Not NA | 199 |
 | NA | 101554 |
 
 
@@ -12541,6 +13254,7 @@ S_3941_4:SKJEMA1E; (S_3941_4:SKJEMA1C); (S_3941_4:SKJEMA1B); (S_4050_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 161 |
+| Not NA | 161 |
 | NA | 101592 |
 
 
@@ -12551,6 +13265,7 @@ S_3941_5:SKJEMA1E; (S_3941_5:SKJEMA1C); (S_3941_5:SKJEMA1B); (S_4050_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 101719 |
 
 
@@ -12561,6 +13276,7 @@ S_3941_6:SKJEMA1E; (S_3941_6:SKJEMA1C); (S_3941_6:SKJEMA1B); (S_4050_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 42 |
+| Not NA | 42 |
 | NA | 101711 |
 
 
@@ -12571,6 +13287,7 @@ S_3941_7:SKJEMA1E; (S_3941_7:SKJEMA1C); (S_3941_7:SKJEMA1B); (S_4050_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 35 |
+| Not NA | 35 |
 | NA | 101718 |
 
 
@@ -12581,6 +13298,7 @@ S_3941_8:SKJEMA1E; (S_3941_8:SKJEMA1C); (S_3941_8:SKJEMA1B); (S_4050_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 70 |
+| Not NA | 70 |
 | NA | 101683 |
 
 
@@ -12618,6 +13336,7 @@ S_3941_9:SKJEMA1E; (S_3941_9:SKJEMA1C); (S_3941_9:SKJEMA1B); (S_4050_9:SKJEMA1A)
 | 8 | 10 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101410 |
+| Not NA | 343 |
 
 
 ### AA788
@@ -12627,6 +13346,7 @@ S_3942_1:SKJEMA1E; (S_3942_1:SKJEMA1C); (S_3942_1:SKJEMA1B); (S_4051_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 23075 |
+| Not NA | 23075 |
 | NA | 78678 |
 
 
@@ -12637,6 +13357,7 @@ S_3942_2:SKJEMA1E; (S_3942_2:SKJEMA1C); (S_3942_2:SKJEMA1B); (S_4051_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6356 |
+| Not NA | 6356 |
 | NA | 95397 |
 
 
@@ -12647,6 +13368,7 @@ S_3942_4:SKJEMA1E; (S_3942_4:SKJEMA1C); (S_3942_4:SKJEMA1B); (S_4051_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2691 |
+| Not NA | 2691 |
 | NA | 99062 |
 
 
@@ -12657,6 +13379,7 @@ S_3942_5:SKJEMA1E; (S_3942_5:SKJEMA1C); (S_3942_5:SKJEMA1B); (S_4051_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 938 |
+| Not NA | 938 |
 | NA | 100815 |
 
 
@@ -12667,6 +13390,7 @@ S_3942_6:SKJEMA1E; (S_3942_6:SKJEMA1C); (S_3942_6:SKJEMA1B); (S_4051_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1380 |
+| Not NA | 1380 |
 | NA | 100373 |
 
 
@@ -12677,6 +13401,7 @@ S_3942_7:SKJEMA1E; (S_3942_7:SKJEMA1C); (S_3942_7:SKJEMA1B); (S_4051_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1728 |
+| Not NA | 1728 |
 | NA | 100025 |
 
 
@@ -12687,6 +13412,7 @@ S_3942_8:SKJEMA1E; (S_3942_8:SKJEMA1C); (S_3942_8:SKJEMA1B); (S_4051_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2085 |
+| Not NA | 2085 |
 | NA | 99668 |
 
 
@@ -12762,6 +13488,7 @@ S_3942_9:SKJEMA1E; (S_3942_9:SKJEMA1C); (S_3942_9:SKJEMA1B); (S_4051_9:SKJEMA1A)
 | 900 | 1 |
 | More than one number given because more than one medication have been reported | 2 |
 | NA's | 95846 |
+| Not NA | 5907 |
 
 
 ### AA797
@@ -12771,6 +13498,7 @@ S_3943_1:SKJEMA1E; (S_3943_1:SKJEMA1C); (S_3943_1:SKJEMA1B); (S_4052_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2175 |
+| Not NA | 2175 |
 | NA | 99578 |
 
 
@@ -12781,6 +13509,7 @@ S_3943_2:SKJEMA1E; (S_3943_2:SKJEMA1C); (S_3943_2:SKJEMA1B); (S_4052_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3798 |
+| Not NA | 3798 |
 | NA | 97955 |
 
 
@@ -12791,6 +13520,7 @@ S_3943_4:SKJEMA1E; (S_3943_4:SKJEMA1C); (S_3943_4:SKJEMA1B); (S_4052_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 133 |
+| Not NA | 133 |
 | NA | 101620 |
 
 
@@ -12801,6 +13531,7 @@ S_40_2_1:SKJEMA1A; Tightness/wheezing/whistling in the chest; Before pregnancy; 
 | Category | n |
 | -------- | - |
 | 1 | 73 |
+| Not NA | 73 |
 | NA | 101680 |
 
 
@@ -12811,6 +13542,7 @@ S_40_2_2:SKJEMA1A; Tightness/wheezing/whistling in the chest; During pregnancy; 
 | Category | n |
 | -------- | - |
 | 1 | 51 |
+| Not NA | 51 |
 | NA | 101702 |
 
 
@@ -12821,6 +13553,7 @@ S_40_2_4:SKJEMA1A; Tightness/wheezing/whistling in the chest; Use of medication 
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 101733 |
 
 
@@ -12831,6 +13564,7 @@ S_40_2_5:SKJEMA1A; Tightness/wheezing/whistling in the chest; Use of medication 
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 101746 |
 
 
@@ -12841,6 +13575,7 @@ S_40_2_6:SKJEMA1A; Tightness/wheezing/whistling in the chest; Use of medication 
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 101743 |
 
 
@@ -12851,6 +13586,7 @@ S_40_2_7:SKJEMA1A; Tightness/wheezing/whistling in the chest; Use of medication 
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 101740 |
 
 
@@ -12861,6 +13597,7 @@ S_40_2_8:SKJEMA1A; Tightness/wheezing/whistling in the chest; Use of medication 
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 101739 |
 
 
@@ -12883,6 +13620,7 @@ S_40_2_9:SKJEMA1A; Tightness/wheezing/whistling in the chest; Use of medication,
 | 42 | 1 |
 | 14 | 1 |
 | 3 | 1 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -12893,6 +13631,7 @@ S_40_6_1:SKJEMA1A; Contact eczema; Before pregnancy; 40. Do you have or have you
 | Category | n |
 | -------- | - |
 | 1 | 65 |
+| Not NA | 65 |
 | NA | 101688 |
 
 
@@ -12903,6 +13642,7 @@ S_40_6_2:SKJEMA1A; Contact eczema; During pregnancy; 40. Do you have or have you
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 101717 |
 
 
@@ -12913,6 +13653,7 @@ S_40_6_4:SKJEMA1A; Contact eczema; Use of medication last 6 months before pregan
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 101740 |
 
 
@@ -12923,6 +13664,7 @@ S_40_6_5:SKJEMA1A; Contact eczema; Use of medication week 0-4; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 101746 |
 
 
@@ -12933,6 +13675,7 @@ S_40_6_6:SKJEMA1A; Contact eczema; Use of medication week 5-8; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 101747 |
 
 
@@ -12943,6 +13686,7 @@ S_40_6_7:SKJEMA1A; Contact eczema; Use of medication week 9-12; 40. Do you have 
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 101746 |
 
 
@@ -12953,6 +13697,7 @@ S_40_6_8:SKJEMA1A; Contact eczema; Use of medication week 13+; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -12971,6 +13716,7 @@ S_40_6_9:SKJEMA1A; Contact eczema; Use of medication, number of days; 40. Do you
 | 6 | 2 |
 | 14 | 1 |
 | 10 | 1 |
+| Not NA | 13 |
 | NA | 101740 |
 
 
@@ -12981,6 +13727,7 @@ S_40_7_1:SKJEMA1A; Nickel allergy; Before pregnancy; 40. Do you have or have you
 | Category | n |
 | -------- | - |
 | 1 | 322 |
+| Not NA | 322 |
 | NA | 101431 |
 
 
@@ -12991,6 +13738,7 @@ S_40_7_2:SKJEMA1A; Nickel allergy; During pregnancy; 40. Do you have or have you
 | Category | n |
 | -------- | - |
 | 1 | 154 |
+| Not NA | 154 |
 | NA | 101599 |
 
 
@@ -13001,6 +13749,7 @@ S_40_7_4:SKJEMA1A; Nickel allergy; Use of medication last 6 months before pregan
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 101736 |
 
 
@@ -13011,6 +13760,7 @@ S_40_7_5:SKJEMA1A; Nickel allergy; Use of medication week 0-4; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 101748 |
 
 
@@ -13021,6 +13771,7 @@ S_40_7_6:SKJEMA1A; Nickel allergy; Use of medication week 5-8; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -13031,6 +13782,7 @@ S_40_7_7:SKJEMA1A; Nickel allergy; Use of medication week 9-12; 40. Do you have 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -13041,6 +13793,7 @@ S_40_7_8:SKJEMA1A; Nickel allergy; Use of medication week 13+; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13055,6 +13808,7 @@ S_40_7_9:SKJEMA1A; Nickel allergy; Use of medication, number of days; 40. Do you
 | 10 | 2 |
 | 40 | 1 |
 | 0 | 2 |
+| Not NA | 8 |
 | NA | 101745 |
 
 
@@ -13065,6 +13819,7 @@ S_40_8_1:SKJEMA1A; Food allergy; Before pregnancy; 40. Do you have or have you h
 | Category | n |
 | -------- | - |
 | 1 | 129 |
+| Not NA | 129 |
 | NA | 101624 |
 
 
@@ -13075,6 +13830,7 @@ S_40_8_2:SKJEMA1A; Food allergy; During pregnancy; 40. Do you have or have you h
 | Category | n |
 | -------- | - |
 | 1 | 84 |
+| Not NA | 84 |
 | NA | 101669 |
 
 
@@ -13085,6 +13841,7 @@ S_40_8_4:SKJEMA1A; Food allergy; Use of medication last 6 months before pregancy
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 101745 |
 
 
@@ -13095,6 +13852,7 @@ S_40_8_5:SKJEMA1A; Food allergy; Use of medication week 0-4; 40. Do you have or 
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 101748 |
 
 
@@ -13105,6 +13863,7 @@ S_40_8_6:SKJEMA1A; Food allergy; Use of medication week 5-8; 40. Do you have or 
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -13115,6 +13874,7 @@ S_40_8_7:SKJEMA1A; Food allergy; Use of medication week 9-12; 40. Do you have or
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13125,6 +13885,7 @@ S_40_8_8:SKJEMA1A; Food allergy; Use of medication week 13+; 40. Do you have or 
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 101747 |
 
 
@@ -13139,6 +13900,7 @@ S_40_8_9:SKJEMA1A; Food allergy; Use of medication, number of days; 40. Do you h
 | 2 | 1 |
 | 250 | 1 |
 | 1 | 1 |
+| Not NA | 6 |
 | NA | 101747 |
 
 
@@ -13149,6 +13911,7 @@ S_4021_2:SKJEMA1A; Hyperthyroidism; During pregnancy; 40. Do you have or have yo
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 101746 |
 
 
@@ -13159,6 +13922,7 @@ S_4021_1:SKJEMA1A; Hyperthyroidism; Before pregnancy; 40. Do you have or have yo
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -13168,6 +13932,7 @@ S_4021_4:SKJEMA1A; Hyperthyroidism; Use of medication last 6 months before prega
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -13178,6 +13943,7 @@ S_4021_5:SKJEMA1A; Hyperthyroidism; Use of medication week 0-4; 40. Do you have 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -13188,6 +13954,7 @@ S_4021_6:SKJEMA1A; Hyperthyroidism; Use of medication week 5-8; 40. Do you have 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -13198,6 +13965,7 @@ S_4021_7:SKJEMA1A; Hyperthyroidism; Use of medication week 9-12; 40. Do you have
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -13208,6 +13976,7 @@ S_4021_8:SKJEMA1A; Hyperthyroidism; Use of medication week 13+; 40. Do you have 
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -13219,6 +13988,7 @@ S_4021_9:SKJEMA1A; Hyperthyroidism; Use of medication, number of days; 40. Do yo
 | -------- | - |
 | 25 | 1 |
 | 365 | 1 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -13229,6 +13999,7 @@ S_4022_1:SKJEMA1A; Hypothyroidism; Before pregnancy; 40. Do you have or have you
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 101714 |
 
 
@@ -13239,6 +14010,7 @@ S_4022_2:SKJEMA1A; Hypothyroidism; During pregnancy; 40. Do you have or have you
 | Category | n |
 | -------- | - |
 | 1 | 26 |
+| Not NA | 26 |
 | NA | 101727 |
 
 
@@ -13249,6 +14021,7 @@ S_4022_4:SKJEMA1A; Hypothyroidism; Use of medication last 6 months before pregan
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 101729 |
 
 
@@ -13259,6 +14032,7 @@ S_4022_5:SKJEMA1A; Hypothyroidism; Use of medication week 0-4; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 101730 |
 
 
@@ -13269,6 +14043,7 @@ S_4022_6:SKJEMA1A; Hypothyroidism; Use of medication week 5-8; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 101729 |
 
 
@@ -13279,6 +14054,7 @@ S_4022_7:SKJEMA1A; Hypothyroidism; Use of medication week 9-12; 40. Do you have 
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 101730 |
 
 
@@ -13289,6 +14065,7 @@ S_4022_8:SKJEMA1A; Hypothyroidism; Use of medication week 13+; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 101729 |
 
 
@@ -13307,6 +14084,7 @@ S_4022_9:SKJEMA1A; Hypothyroidism; Use of medication, number of days; 40. Do you
 | 60 | 1 |
 | 390 | 1 |
 | 84 | 1 |
+| Not NA | 9 |
 | NA | 101744 |
 
 
@@ -13317,6 +14095,7 @@ S_4027_1:SKJEMA1A; Gastric or duodenal ulcer; Before pregnancy; 40. Do you have 
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 101736 |
 
 
@@ -13327,6 +14106,7 @@ S_4027_2:SKJEMA1A; Gastric or duodenal ulcer; During pregnancy; 40. Do you have 
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13337,6 +14117,7 @@ S_4027_4:SKJEMA1A; Gastric or duodenal ulcer; Use of medication last 6 months be
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13347,6 +14128,7 @@ S_4027_5:SKJEMA1A; Gastric or duodenal ulcer; Use of medication week 0-4; 40. Do
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -13357,6 +14139,7 @@ S_4027_6:SKJEMA1A; Gastric or duodenal ulcer; Use of medication week 5-8; 40. Do
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -13367,6 +14150,7 @@ S_4027_7:SKJEMA1A; Gastric or duodenal ulcer; Use of medication week 9-12; 40. D
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -13377,6 +14161,7 @@ S_4027_8:SKJEMA1A; Gastric or duodenal ulcer; Use of medication week 13+; 40. Do
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -13389,6 +14174,7 @@ S_4027_9:SKJEMA1A; Gastric or duodenal ulcer; Use of medication, number of days;
 | 14 | 1 |
 | 10 | 1 |
 | 460 | 1 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13399,6 +14185,7 @@ S_4028_1:SKJEMA1A; Irritable bowel syndrome; Before pregnancy; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 101738 |
 
 
@@ -13409,6 +14196,7 @@ S_4028_2:SKJEMA1A; Irritable bowel syndrome; During pregnancy; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13419,6 +14207,7 @@ S_4028_4:SKJEMA1A; Irritable bowel syndrome; Use of medication last 6 months bef
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -13428,6 +14217,7 @@ S_4028_5:SKJEMA1A; Irritable bowel syndrome; Use of medication week 0-4; 40. Do 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -13438,6 +14228,7 @@ S_4028_6:SKJEMA1A; Irritable bowel syndrome; Use of medication week 5-8; 40. Do 
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -13448,6 +14239,7 @@ S_4028_7:SKJEMA1A; Irritable bowel syndrome; Use of medication week 9-12; 40. Do
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -13457,6 +14249,7 @@ S_4028_8:SKJEMA1A; Irritable bowel syndrome; Use of medication week 13+; 40. Do 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -13467,6 +14260,7 @@ S_4028_9:SKJEMA1A; Irritable bowel syndrome; Use of medication, number of days; 
 | Category | n |
 | -------- | - |
 | 20 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -13477,6 +14271,7 @@ S_4029_1:SKJEMA1A; Chrohn`s disease; Before pregnancy; 40. Do you have or have y
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13487,6 +14282,7 @@ S_4029_2:SKJEMA1A; Chrohn`s disease; During pregnancy; 40. Do you have or have y
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13497,6 +14293,7 @@ S_4029_4:SKJEMA1A; Chrohn`s disease; Use of medication last 6 months before preg
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13507,6 +14304,7 @@ S_4029_5:SKJEMA1A; Chrohn`s disease; Use of medication week 0-4; 40. Do you have
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -13517,6 +14315,7 @@ S_4029_6:SKJEMA1A; Chrohn`s disease; Use of medication week 5-8; 40. Do you have
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -13527,6 +14326,7 @@ S_4029_7:SKJEMA1A; Chrohn`s disease; Use of medication week 9-12; 40. Do you hav
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -13537,6 +14337,7 @@ S_4029_8:SKJEMA1A; Chrohn`s disease; Use of medication week 13+; 40. Do you have
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13547,6 +14348,7 @@ S_4029_9:SKJEMA1A; Chrohn`s disease; Use of medication, number of days; 40. Do y
 | Category | n |
 | -------- | - |
 | 100 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -13557,6 +14359,7 @@ S_4030_1:SKJEMA1A; Ulcerative colitis; Before pregnancy; 40. Do you have or have
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -13567,6 +14370,7 @@ S_4030_2:SKJEMA1A; Ulcerative colitis; During pregnancy; 40. Do you have or have
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 101743 |
 
 
@@ -13577,6 +14381,7 @@ S_4030_4:SKJEMA1A; Ulcerative colitis; Use of medication last 6 months before pr
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 101744 |
 
 
@@ -13587,6 +14392,7 @@ S_4030_5:SKJEMA1A; Ulcerative colitis; Use of medication week 0-4; 40. Do you ha
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 101748 |
 
 
@@ -13597,6 +14403,7 @@ S_4030_6:SKJEMA1A; Ulcerative colitis; Use of medication week 5-8; 40. Do you ha
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -13607,6 +14414,7 @@ S_4030_7:SKJEMA1A; Ulcerative colitis; Use of medication week 9-12; 40. Do you h
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -13617,6 +14425,7 @@ S_4030_8:SKJEMA1A; Ulcerative colitis; Use of medication week 13+; 40. Do you ha
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -13630,6 +14439,7 @@ S_4030_9:SKJEMA1A; Ulcerative colitis; Use of medication, number of days; 40. Do
 | 180 | 1 |
 | 49 | 1 |
 | 140 | 1 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -13640,6 +14450,7 @@ S_4035_1:SKJEMA1A; Back pain/Lumbago; Before pregnancy; 40. Do you have or have 
 | Category | n |
 | -------- | - |
 | 1 | 322 |
+| Not NA | 322 |
 | NA | 101431 |
 
 
@@ -13650,6 +14461,7 @@ S_4035_2:SKJEMA1A; Back pain/Lumbago; During pregnancy; 40. Do you have or have 
 | Category | n |
 | -------- | - |
 | 1 | 233 |
+| Not NA | 233 |
 | NA | 101520 |
 
 
@@ -13660,6 +14472,7 @@ S_4035_4:SKJEMA1A; Back pain/Lumbago; Use of medication last 6 months before pre
 | Category | n |
 | -------- | - |
 | 1 | 44 |
+| Not NA | 44 |
 | NA | 101709 |
 
 
@@ -13670,6 +14483,7 @@ S_4035_5:SKJEMA1A; Back pain/Lumbago; Use of medication week 0-4; 40. Do you hav
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -13680,6 +14494,7 @@ S_4035_6:SKJEMA1A; Back pain/Lumbago; Use of medication week 5-8; 40. Do you hav
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -13690,6 +14505,7 @@ S_4035_7:SKJEMA1A; Back pain/Lumbago; Use of medication week 9-12; 40. Do you ha
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 101739 |
 
 
@@ -13700,6 +14516,7 @@ S_4035_8:SKJEMA1A; Back pain/Lumbago; Use of medication week 13+; 40. Do you hav
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 101714 |
 
 
@@ -13723,6 +14540,7 @@ S_4035_9:SKJEMA1A; Back pain/Lumbago; Use of medication, number of days; 40. Do 
 | 14 | 1 |
 | 90 | 1 |
 | 60 | 1 |
+| Not NA | 26 |
 | NA | 101727 |
 
 
@@ -13733,6 +14551,7 @@ S_4037_1:SKJEMA1A; Neck/shoulder pain ; Before pregnancy; 40. Do you have or hav
 | Category | n |
 | -------- | - |
 | 1 | 386 |
+| Not NA | 386 |
 | NA | 101367 |
 
 
@@ -13743,6 +14562,7 @@ S_4037_2:SKJEMA1A; Neck/shoulder pain ; During pregnancy; 40. Do you have or hav
 | Category | n |
 | -------- | - |
 | 1 | 243 |
+| Not NA | 243 |
 | NA | 101510 |
 
 
@@ -13753,6 +14573,7 @@ S_4037_4:SKJEMA1A; Neck/shoulder pain ; Use of medication last 6 months before p
 | Category | n |
 | -------- | - |
 | 1 | 52 |
+| Not NA | 52 |
 | NA | 101701 |
 
 
@@ -13763,6 +14584,7 @@ S_4037_5:SKJEMA1A; Neck/shoulder pain ; Use of medication week 0-4; 40. Do you h
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 101737 |
 
 
@@ -13773,6 +14595,7 @@ S_4037_6:SKJEMA1A; Neck/shoulder pain ; Use of medication week 5-8; 40. Do you h
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 101739 |
 
 
@@ -13783,6 +14606,7 @@ S_4037_7:SKJEMA1A; Neck/shoulder pain ; Use of medication week 9-12; 40. Do you 
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 101734 |
 
 
@@ -13793,6 +14617,7 @@ S_4037_8:SKJEMA1A; Neck/shoulder pain ; Use of medication week 13+; 40. Do you h
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 101729 |
 
 
@@ -13820,6 +14645,7 @@ S_4037_9:SKJEMA1A; Neck/shoulder pain ; Use of medication, number of days; 40. D
 | 365 | 1 |
 | 60 | 1 |
 | 15 | 1 |
+| Not NA | 34 |
 | NA | 101719 |
 
 
@@ -13830,6 +14656,7 @@ S_4038_1:SKJEMA1A; Sjögren syndrome; Before pregnancy; 40. Do you have or have 
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -13839,6 +14666,7 @@ S_4038_2:SKJEMA1A; Sjögren syndrome; During pregnancy; 40. Do you have or have 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -13848,6 +14676,7 @@ S_4038_4:SKJEMA1A; Sjögren syndrome; Use of medication last 6 months before pre
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -13857,6 +14686,7 @@ S_4038_5:SKJEMA1A; Sjögren syndrome; Use of medication week 0-4; 40. Do you hav
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -13866,6 +14696,7 @@ S_4038_6:SKJEMA1A; Sjögren syndrome; Use of medication week 5-8; 40. Do you hav
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -13875,6 +14706,7 @@ S_4038_7:SKJEMA1A; Sjögren syndrome; Use of medication week 9-12; 40. Do you ha
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -13884,6 +14716,7 @@ S_4038_8:SKJEMA1A; Sjögren syndrome; Use of medication week 13+; 40. Do you hav
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -13893,6 +14726,7 @@ S_4038_9:SKJEMA1A; Sjögren syndrome; Use of medication, number of days; 40. Do 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -13903,6 +14737,7 @@ S_4053_1:SKJEMA1A; Sleep disorder; Before pregnancy; 40. Do you have or have you
 | Category | n |
 | -------- | - |
 | 1 | 77 |
+| Not NA | 77 |
 | NA | 101676 |
 
 
@@ -13913,6 +14748,7 @@ S_4053_2:SKJEMA1A; Sleep disorder; During pregnancy; 40. Do you have or have you
 | Category | n |
 | -------- | - |
 | 1 | 157 |
+| Not NA | 157 |
 | NA | 101596 |
 
 
@@ -13923,6 +14759,7 @@ S_4053_4:SKJEMA1A; Sleep disorder; Use of medication last 6 months before pregan
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 101742 |
 
 
@@ -13933,6 +14770,7 @@ S_4053_5:SKJEMA1A; Sleep disorder; Use of medication week 0-4; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 101736 |
 
 
@@ -13943,6 +14781,7 @@ S_4053_6:SKJEMA1A; Sleep disorder; Use of medication week 5-8; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 101731 |
 
 
@@ -13953,6 +14792,7 @@ S_4053_7:SKJEMA1A; Sleep disorder; Use of medication week 9-12; 40. Do you have 
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 101729 |
 
 
@@ -13963,6 +14803,7 @@ S_4053_8:SKJEMA1A; Sleep disorder; Use of medication week 13+; 40. Do you have o
 | Category | n |
 | -------- | - |
 | 1 | 32 |
+| Not NA | 32 |
 | NA | 101721 |
 
 
@@ -13979,6 +14820,7 @@ S_4053_9:SKJEMA1A; Sleep disorder; Use of medication, number of days; 40. Do you
 | 2 | 1 |
 | 10 | 1 |
 | 0 | 1 |
+| Not NA | 8 |
 | NA | 101745 |
 
 
@@ -13989,6 +14831,7 @@ S_4054_1:SKJEMA1A; Extremely tired/fatigue syndrome; Before pregnancy; 40. Do yo
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 101733 |
 
 
@@ -13999,6 +14842,7 @@ S_4054_2:SKJEMA1A; Extremely tired/fatigue syndrome; During pregnancy; 40. Do yo
 | Category | n |
 | -------- | - |
 | 1 | 262 |
+| Not NA | 262 |
 | NA | 101491 |
 
 
@@ -14009,6 +14853,7 @@ S_4054_4:SKJEMA1A; Extremely tired/fatigue syndrome; Use of medication last 6 mo
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -14019,6 +14864,7 @@ S_4054_5:SKJEMA1A; Extremely tired/fatigue syndrome; Use of medication week 0-4;
 | Category | n |
 | -------- | - |
 | 1 | 40 |
+| Not NA | 40 |
 | NA | 101713 |
 
 
@@ -14029,6 +14875,7 @@ S_4054_6:SKJEMA1A; Extremely tired/fatigue syndrome; Use of medication week 5-8;
 | Category | n |
 | -------- | - |
 | 1 | 75 |
+| Not NA | 75 |
 | NA | 101678 |
 
 
@@ -14039,6 +14886,7 @@ S_4054_7:SKJEMA1A; Extremely tired/fatigue syndrome; Use of medication week 9-12
 | Category | n |
 | -------- | - |
 | 1 | 71 |
+| Not NA | 71 |
 | NA | 101682 |
 
 
@@ -14049,6 +14897,7 @@ S_4054_8:SKJEMA1A; Extremely tired/fatigue syndrome; Use of medication week 13+;
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 101719 |
 
 
@@ -14059,6 +14908,7 @@ S_4054_9:SKJEMA1A; Extremely tired/fatigue syndrome; Use of medication, number o
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -14069,6 +14919,7 @@ S_4063_1:SKJEMA1A; Other mental disorder; Before pregnancy; 40. Do you have or h
 | Category | n |
 | -------- | - |
 | 1 | 30 |
+| Not NA | 30 |
 | NA | 101723 |
 
 
@@ -14079,6 +14930,7 @@ S_4063_2:SKJEMA1A; Other mental disorder; During pregnancy; 40. Do you have or h
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 101748 |
 
 
@@ -14089,6 +14941,7 @@ S_4063_4:SKJEMA1A; Other mental disorder; Use of medication last 6 months before
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 101747 |
 
 
@@ -14099,6 +14952,7 @@ S_4063_5:SKJEMA1A; Other mental disorder; Use of medication week 0-4; 40. Do you
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -14108,6 +14962,7 @@ S_4063_6:SKJEMA1A; Other mental disorder; Use of medication week 5-8; 40. Do you
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -14117,6 +14972,7 @@ S_4063_7:SKJEMA1A; Other mental disorder; Use of medication week 9-12; 40. Do yo
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -14126,6 +14982,7 @@ S_4063_8:SKJEMA1A; Other mental disorder; Use of medication week 13+; 40. Do you
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -14138,6 +14995,7 @@ S_4063_9:SKJEMA1A; Other mental disorder; Use of medication, number of days; 40.
 | 28 | 1 |
 | 0 | 1 |
 | 20 | 1 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -14149,6 +15007,7 @@ S_41:SKJEMA1A; ; 41. Have you ever been diagnosed with cancer?
 | -------- | - |
 | No | 2337 |
 | Yes | 22 |
+| Not NA | 2359 |
 | NA | 99394 |
 
 
@@ -14169,6 +15028,7 @@ S_42_2:SKJEMA1A; Year of diagnosis; 42. If yes, what kind of diagnosis and what 
 | 1989 | 1 |
 | 1995 | 1 |
 | 1980 | 1 |
+| Not NA | 19 |
 | NA | 101734 |
 
 
@@ -14179,6 +15039,7 @@ S_3943_5:SKJEMA1E; (S_3943_5:SKJEMA1C); (S_3943_5:SKJEMA1B); (S_4052_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 124 |
+| Not NA | 124 |
 | NA | 101629 |
 
 
@@ -14189,6 +15050,7 @@ S_3943_6:SKJEMA1E; (S_3943_6:SKJEMA1C); (S_3943_6:SKJEMA1B); (S_4052_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 186 |
+| Not NA | 186 |
 | NA | 101567 |
 
 
@@ -14199,6 +15061,7 @@ S_3943_7:SKJEMA1E; (S_3943_7:SKJEMA1C); (S_3943_7:SKJEMA1B); (S_4052_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 326 |
+| Not NA | 326 |
 | NA | 101427 |
 
 
@@ -14209,6 +15072,7 @@ S_3943_8:SKJEMA1E; (S_3943_8:SKJEMA1C); (S_3943_8:SKJEMA1B); (S_4052_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 497 |
+| Not NA | 497 |
 | NA | 101256 |
 
 
@@ -14238,6 +15102,7 @@ S_3943_9:SKJEMA1E; (S_3943_9:SKJEMA1C); (S_3943_9:SKJEMA1B); (S_4052_9:SKJEMA1A)
 | 6 | 2 |
 | 8 | 1 |
 | 50 | 1 |
+| Not NA | 77 |
 | NA | 101676 |
 
 
@@ -14248,6 +15113,7 @@ S_3944_1:SKJEMA1E; (S_3944_1:SKJEMA1C); (S_3944_1:SKJEMA1B); (S_4062_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3096 |
+| Not NA | 3096 |
 | NA | 98657 |
 
 
@@ -14258,6 +15124,7 @@ S_3944_2:SKJEMA1E; (S_3944_2:SKJEMA1C); (S_3944_2:SKJEMA1B); (S_4062_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 331 |
+| Not NA | 331 |
 | NA | 101422 |
 
 
@@ -14268,6 +15135,7 @@ S_3944_4:SKJEMA1E; (S_3944_4:SKJEMA1C); (S_3944_4:SKJEMA1B); (S_4062_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 112 |
+| Not NA | 112 |
 | NA | 101641 |
 
 
@@ -14278,6 +15146,7 @@ S_3944_5:SKJEMA1E; (S_3944_5:SKJEMA1C); (S_3944_5:SKJEMA1B); (S_4062_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 68 |
+| Not NA | 68 |
 | NA | 101685 |
 
 
@@ -14288,6 +15157,7 @@ S_3944_6:SKJEMA1E; (S_3944_6:SKJEMA1C); (S_3944_6:SKJEMA1B); (S_4062_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 44 |
+| Not NA | 44 |
 | NA | 101709 |
 
 
@@ -14298,6 +15168,7 @@ S_3944_7:SKJEMA1E; (S_3944_7:SKJEMA1C); (S_3944_7:SKJEMA1B); (S_4062_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 101719 |
 
 
@@ -14308,6 +15179,7 @@ S_3944_8:SKJEMA1E; (S_3944_8:SKJEMA1C); (S_3944_8:SKJEMA1B); (S_4062_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 45 |
+| Not NA | 45 |
 | NA | 101708 |
 
 
@@ -14354,6 +15226,7 @@ S_3944_9:SKJEMA1E; (S_3944_9:SKJEMA1C); (S_3944_9:SKJEMA1B); (S_4062_9:SKJEMA1A)
 | 998 | 1 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101676 |
+| Not NA | 77 |
 
 
 ### AA815
@@ -14363,6 +15236,7 @@ S_3945_1:SKJEMA1E; (S_3945_1:SKJEMA1C); (S_3945_1:SKJEMA1B); (S_4055_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 10594 |
+| Not NA | 10594 |
 | NA | 91159 |
 
 
@@ -14373,6 +15247,7 @@ S_3945_2:SKJEMA1E; (S_3945_2:SKJEMA1C); (S_3945_2:SKJEMA1B); (S_4055_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5783 |
+| Not NA | 5783 |
 | NA | 95970 |
 
 
@@ -14383,6 +15258,7 @@ S_3945_4:SKJEMA1E; (S_3945_4:SKJEMA1C); (S_3945_4:SKJEMA1B); (S_4055_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4095 |
+| Not NA | 4095 |
 | NA | 97658 |
 
 
@@ -14393,6 +15269,7 @@ S_3945_5:SKJEMA1E; (S_3945_5:SKJEMA1C); (S_3945_5:SKJEMA1B); (S_4055_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1091 |
+| Not NA | 1091 |
 | NA | 100662 |
 
 
@@ -14403,6 +15280,7 @@ S_3945_6:SKJEMA1E; (S_3945_6:SKJEMA1C); (S_3945_6:SKJEMA1B); (S_4055_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1322 |
+| Not NA | 1322 |
 | NA | 100431 |
 
 
@@ -14413,6 +15291,7 @@ S_3945_7:SKJEMA1E; (S_3945_7:SKJEMA1C); (S_3945_7:SKJEMA1B); (S_4055_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1522 |
+| Not NA | 1522 |
 | NA | 100231 |
 
 
@@ -14423,6 +15302,7 @@ S_3945_8:SKJEMA1E; (S_3945_8:SKJEMA1C); (S_3945_8:SKJEMA1B); (S_4055_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1463 |
+| Not NA | 1463 |
 | NA | 100290 |
 
 
@@ -14492,6 +15372,7 @@ S_3945_9:SKJEMA1E; (S_3945_9:SKJEMA1C); (S_3945_9:SKJEMA1B); (S_4055_9:SKJEMA1A)
 | 91 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 98867 |
+| Not NA | 2886 |
 
 
 ### AA824
@@ -14501,6 +15382,7 @@ S_3946_1:SKJEMA1E; (S_3946_1:SKJEMA1C); (S_3946_1:SKJEMA1B); (S_4056_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 18669 |
+| Not NA | 18669 |
 | NA | 83084 |
 
 
@@ -14511,6 +15393,7 @@ S_3946_2:SKJEMA1E; (S_3946_2:SKJEMA1C); (S_3946_2:SKJEMA1B); (S_4056_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 22139 |
+| Not NA | 22139 |
 | NA | 79614 |
 
 
@@ -14521,6 +15404,7 @@ S_3946_4:SKJEMA1E; (S_3946_4:SKJEMA1C); (S_3946_4:SKJEMA1B); (S_4056_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8908 |
+| Not NA | 8908 |
 | NA | 92845 |
 
 
@@ -14531,6 +15415,7 @@ S_3946_5:SKJEMA1E; (S_3946_5:SKJEMA1C); (S_3946_5:SKJEMA1B); (S_4056_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2934 |
+| Not NA | 2934 |
 | NA | 98819 |
 
 
@@ -14541,6 +15426,7 @@ S_3946_6:SKJEMA1E; (S_3946_6:SKJEMA1C); (S_3946_6:SKJEMA1B); (S_4056_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5217 |
+| Not NA | 5217 |
 | NA | 96536 |
 
 
@@ -14551,6 +15437,7 @@ S_3946_7:SKJEMA1E; (S_3946_7:SKJEMA1C); (S_3946_7:SKJEMA1B); (S_4056_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8032 |
+| Not NA | 8032 |
 | NA | 93721 |
 
 
@@ -14561,6 +15448,7 @@ S_3946_8:SKJEMA1E; (S_3946_8:SKJEMA1C); (S_3946_8:SKJEMA1B); (S_4056_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8741 |
+| Not NA | 8741 |
 | NA | 93012 |
 
 
@@ -14651,6 +15539,7 @@ S_3946_9:SKJEMA1E; (S_3946_9:SKJEMA1C); (S_3946_9:SKJEMA1B); (S_4056_9:SKJEMA1A)
 | 998 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 90611 |
+| Not NA | 11142 |
 
 
 ### AA833
@@ -14660,6 +15549,7 @@ S_3947_1:SKJEMA1E; (S_3947_1:SKJEMA1C); (S_3947_1:SKJEMA1B); (S_4057_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 679 |
+| Not NA | 679 |
 | NA | 101074 |
 
 
@@ -14670,6 +15560,7 @@ S_3947_2:SKJEMA1E; (S_3947_2:SKJEMA1C); (S_3947_2:SKJEMA1B); (S_4057_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 303 |
+| Not NA | 303 |
 | NA | 101450 |
 
 
@@ -14680,6 +15571,7 @@ S_3947_4:SKJEMA1E; (S_3947_4:SKJEMA1C); (S_3947_4:SKJEMA1B); (S_4057_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 262 |
+| Not NA | 262 |
 | NA | 101491 |
 
 
@@ -14690,6 +15582,7 @@ S_3947_5:SKJEMA1E; (S_3947_5:SKJEMA1C); (S_3947_5:SKJEMA1B); (S_4057_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 237 |
+| Not NA | 237 |
 | NA | 101516 |
 
 
@@ -14700,6 +15593,7 @@ S_3947_6:SKJEMA1E; (S_3947_6:SKJEMA1C); (S_3947_6:SKJEMA1B); (S_4057_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 226 |
+| Not NA | 226 |
 | NA | 101527 |
 
 
@@ -14710,6 +15604,7 @@ S_3947_7:SKJEMA1E; (S_3947_7:SKJEMA1C); (S_3947_7:SKJEMA1B); (S_4057_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 227 |
+| Not NA | 227 |
 | NA | 101526 |
 
 
@@ -14720,6 +15615,7 @@ S_3947_8:SKJEMA1E; (S_3947_8:SKJEMA1C); (S_3947_8:SKJEMA1B); (S_4057_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 245 |
+| Not NA | 245 |
 | NA | 101508 |
 
 
@@ -14790,6 +15686,7 @@ S_3947_9:SKJEMA1E; (S_3947_9:SKJEMA1C); (S_3947_9:SKJEMA1B); (S_4057_9:SKJEMA1A)
 | 998 | 1 |
 | More than one number given because more than one medication have been reported | 1 |
 | NA's | 101603 |
+| Not NA | 150 |
 
 
 ### AA842
@@ -14799,6 +15696,7 @@ S_3948_1:SKJEMA1E; (S_3948_1:SKJEMA1C); (S_3948_1:SKJEMA1B); (S_4058_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 121 |
+| Not NA | 121 |
 | NA | 101632 |
 
 
@@ -14809,6 +15707,7 @@ S_3948_2:SKJEMA1E; (S_3948_2:SKJEMA1C); (S_3948_2:SKJEMA1B); (S_4058_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 80 |
+| Not NA | 80 |
 | NA | 101673 |
 
 
@@ -14819,6 +15718,7 @@ S_3948_4:SKJEMA1E; (S_3948_4:SKJEMA1C); (S_3948_4:SKJEMA1B); (S_4058_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 101717 |
 
 
@@ -14829,6 +15729,7 @@ S_3948_5:SKJEMA1E; (S_3948_5:SKJEMA1C); (S_3948_5:SKJEMA1B); (S_4058_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 101740 |
 
 
@@ -14839,6 +15740,7 @@ S_3948_6:SKJEMA1E; (S_3948_6:SKJEMA1C); (S_3948_6:SKJEMA1B); (S_4058_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -14849,6 +15751,7 @@ S_3948_7:SKJEMA1E; (S_3948_7:SKJEMA1C); (S_3948_7:SKJEMA1B); (S_4058_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -14859,6 +15762,7 @@ S_3948_8:SKJEMA1E; (S_3948_8:SKJEMA1C); (S_3948_8:SKJEMA1B); (S_4058_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -14880,6 +15784,7 @@ S_3948_9:SKJEMA1E; (S_3948_9:SKJEMA1C); (S_3948_9:SKJEMA1B); (S_4058_9:SKJEMA1A)
 | 16 | 1 |
 | 5 | 1 |
 | 3 | 1 |
+| Not NA | 39 |
 | NA | 101714 |
 
 
@@ -14890,6 +15795,7 @@ S_3949_1:SKJEMA1E; (S_3949_1:SKJEMA1C); (S_3949_1:SKJEMA1B); (S_4059_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 44 |
+| Not NA | 44 |
 | NA | 101709 |
 
 
@@ -14900,6 +15806,7 @@ S_3949_2:SKJEMA1E; (S_3949_2:SKJEMA1C); (S_3949_2:SKJEMA1B); (S_4059_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 28 |
+| Not NA | 28 |
 | NA | 101725 |
 
 
@@ -14910,6 +15817,7 @@ S_3949_4:SKJEMA1E; (S_3949_4:SKJEMA1C); (S_3949_4:SKJEMA1B); (S_4059_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -14920,6 +15828,7 @@ S_3949_5:SKJEMA1E; (S_3949_5:SKJEMA1C); (S_3949_5:SKJEMA1B); (S_4059_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 101747 |
 
 
@@ -14930,6 +15839,7 @@ S_3949_6:SKJEMA1E; (S_3949_6:SKJEMA1C); (S_3949_6:SKJEMA1B); (S_4059_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -14940,6 +15850,7 @@ S_3949_7:SKJEMA1E; (S_3949_7:SKJEMA1C); (S_3949_7:SKJEMA1B); (S_4059_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 101749 |
 
 
@@ -14950,6 +15861,7 @@ S_3949_8:SKJEMA1E; (S_3949_8:SKJEMA1C); (S_3949_8:SKJEMA1B); (S_4059_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 101750 |
 
 
@@ -14961,6 +15873,7 @@ S_3949_9:SKJEMA1E; (S_3949_9:SKJEMA1C); (S_3949_9:SKJEMA1B); (S_4059_9:SKJEMA1A)
 | -------- | - |
 | 0 | 22 |
 | 182 | 1 |
+| Not NA | 23 |
 | NA | 101730 |
 
 
@@ -14971,6 +15884,7 @@ S_3950_1:SKJEMA1E; (S_3950_1:SKJEMA1C); (S_3950_1:SKJEMA1B); Cancer, before preg
 | Category | n |
 | -------- | - |
 | 1 | 405 |
+| Not NA | 405 |
 | NA | 101348 |
 
 
@@ -14981,6 +15895,7 @@ S_3950_2:SKJEMA1E; (S_3950_2:SKJEMA1C); (S_3950_2:SKJEMA1B); Cancer, during preg
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 101743 |
 
 
@@ -14991,6 +15906,7 @@ S_3950_4:SKJEMA1E; (S_3950_4:SKJEMA1C); (S_3950_4:SKJEMA1B); Cancer medicine, la
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 101738 |
 
 
@@ -15001,6 +15917,7 @@ S_3950_5:SKJEMA1E; (S_3950_5:SKJEMA1C); (S_3950_5:SKJEMA1B); Cancer, medicine we
 | Category | n |
 | -------- | - |
 | 1 | 12 |
+| Not NA | 12 |
 | NA | 101741 |
 
 
@@ -15011,6 +15928,7 @@ S_3950_6:SKJEMA1E; (S_3950_6:SKJEMA1C); (S_3950_6:SKJEMA1B); Cancer medicine wee
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 101743 |
 
 
@@ -15021,6 +15939,7 @@ S_3950_7:SKJEMA1E; (S_3950_7:SKJEMA1C); (S_3950_7:SKJEMA1B); Cancer medicine wee
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 101742 |
 
 
@@ -15031,6 +15950,7 @@ S_3950_8:SKJEMA1E; (S_3950_8:SKJEMA1C); (S_3950_8:SKJEMA1B); Cancer medicine wee
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 101744 |
 
 
@@ -15049,6 +15969,7 @@ S_3950_9:SKJEMA1E; (S_3950_9:SKJEMA1C); (S_3950_9:SKJEMA1B); Cancer, Use of medi
 | 27 | 1 |
 | 96 | 1 |
 | 20 | 1 |
+| Not NA | 31 |
 | NA | 101722 |
 
 
@@ -15059,6 +15980,7 @@ S_3951_1:SKJEMA1E; (S_3951_1:SKJEMA1C); (S_3951_1:SKJEMA1B); (S_4060_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6640 |
+| Not NA | 6640 |
 | NA | 95113 |
 
 
@@ -15069,6 +15991,7 @@ S_3951_2:SKJEMA1E; (S_3951_2:SKJEMA1C); (S_3951_2:SKJEMA1B); (S_4060_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2234 |
+| Not NA | 2234 |
 | NA | 99519 |
 
 
@@ -15079,6 +16002,7 @@ S_3951_4:SKJEMA1E; (S_3951_4:SKJEMA1C); (S_3951_4:SKJEMA1B); (S_4060_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1268 |
+| Not NA | 1268 |
 | NA | 100485 |
 
 
@@ -15089,6 +16013,7 @@ S_3951_5:SKJEMA1E; (S_3951_5:SKJEMA1C); (S_3951_5:SKJEMA1B); (S_4060_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 774 |
+| Not NA | 774 |
 | NA | 100979 |
 
 
@@ -15099,6 +16024,7 @@ S_3951_6:SKJEMA1E; (S_3951_6:SKJEMA1C); (S_3951_6:SKJEMA1B); (S_4060_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 586 |
+| Not NA | 586 |
 | NA | 101167 |
 
 
@@ -15109,6 +16035,7 @@ S_3951_7:SKJEMA1E; (S_3951_7:SKJEMA1C); (S_3951_7:SKJEMA1B); (S_4060_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 486 |
+| Not NA | 486 |
 | NA | 101267 |
 
 
@@ -15119,6 +16046,7 @@ S_3951_8:SKJEMA1E; (S_3951_8:SKJEMA1C); (S_3951_8:SKJEMA1B); (S_4060_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 483 |
+| Not NA | 483 |
 | NA | 101270 |
 
 
@@ -15228,6 +16156,7 @@ S_3951_9:SKJEMA1E; (S_3951_9:SKJEMA1C); (S_3951_9:SKJEMA1B); (S_4060_9:SKJEMA1A)
 | 243 | 1 |
 | (Other) | 36 |
 | NA's | 100928 |
+| Not NA | 825 |
 
 
 ### AA878
@@ -15237,6 +16166,7 @@ S_3952_1:SKJEMA1E; (S_3952_1:SKJEMA1C); (S_3952_1:SKJEMA1B); (S_4061_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3628 |
+| Not NA | 3628 |
 | NA | 98125 |
 
 
@@ -15247,6 +16177,7 @@ S_3952_2:SKJEMA1E; (S_3952_2:SKJEMA1C); (S_3952_2:SKJEMA1B); (S_4061_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1422 |
+| Not NA | 1422 |
 | NA | 100331 |
 
 
@@ -15257,6 +16188,7 @@ S_3952_4:SKJEMA1E; (S_3952_4:SKJEMA1C); (S_3952_4:SKJEMA1B); (S_4061_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 716 |
+| Not NA | 716 |
 | NA | 101037 |
 
 
@@ -15267,6 +16199,7 @@ S_3952_5:SKJEMA1E; (S_3952_5:SKJEMA1C); (S_3952_5:SKJEMA1B); (S_4061_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 415 |
+| Not NA | 415 |
 | NA | 101338 |
 
 
@@ -15277,6 +16210,7 @@ S_3952_6:SKJEMA1E; (S_3952_6:SKJEMA1C); (S_3952_6:SKJEMA1B); (S_4061_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 314 |
+| Not NA | 314 |
 | NA | 101439 |
 
 
@@ -15287,6 +16221,7 @@ S_3952_7:SKJEMA1E; (S_3952_7:SKJEMA1C); (S_3952_7:SKJEMA1B); (S_4061_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 263 |
+| Not NA | 263 |
 | NA | 101490 |
 
 
@@ -15297,6 +16232,7 @@ S_3952_8:SKJEMA1E; (S_3952_8:SKJEMA1C); (S_3952_8:SKJEMA1B); (S_4061_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 263 |
+| Not NA | 263 |
 | NA | 101490 |
 
 
@@ -15393,6 +16329,7 @@ S_3952_9:SKJEMA1E; (S_3952_9:SKJEMA1C); (S_3952_9:SKJEMA1B); (S_4061_9:SKJEMA1A)
 | 998 | 3 |
 | More than one number given because more than one medication have been reported | 0 |
 | NA's | 101327 |
+| Not NA | 426 |
 
 
 ### AA887
@@ -15402,6 +16339,7 @@ S_3953_1:SKJEMA1E; (S_3953_1:SKJEMA1C); (S_3953_1:SKJEMA1B); (S_4064_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5366 |
+| Not NA | 5366 |
 | NA | 96387 |
 
 
@@ -15412,6 +16350,7 @@ S_3953_2:SKJEMA1E; (S_3953_2:SKJEMA1C); (S_3953_2:SKJEMA1B); (S_4064_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3371 |
+| Not NA | 3371 |
 | NA | 98382 |
 
 
@@ -15422,6 +16361,7 @@ S_3953_4:SKJEMA1E; (S_3953_4:SKJEMA1C); (S_3953_4:SKJEMA1B); (S_4064_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1274 |
+| Not NA | 1274 |
 | NA | 100479 |
 
 
@@ -15432,6 +16372,7 @@ S_3953_5:SKJEMA1E; (S_3953_5:SKJEMA1C); (S_3953_5:SKJEMA1B); (S_4064_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 719 |
+| Not NA | 719 |
 | NA | 101034 |
 
 
@@ -15442,6 +16383,7 @@ S_3953_6:SKJEMA1E; (S_3953_6:SKJEMA1C); (S_3953_6:SKJEMA1B); (S_4064_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 716 |
+| Not NA | 716 |
 | NA | 101037 |
 
 
@@ -15452,6 +16394,7 @@ S_3953_7:SKJEMA1E; (S_3953_7:SKJEMA1C); (S_3953_7:SKJEMA1B); (S_4064_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 743 |
+| Not NA | 743 |
 | NA | 101010 |
 
 
@@ -15462,6 +16405,7 @@ S_3953_8:SKJEMA1E; (S_3953_8:SKJEMA1C); (S_3953_8:SKJEMA1B); (S_4064_8:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 918 |
+| Not NA | 918 |
 | NA | 100835 |
 
 
@@ -15571,6 +16515,7 @@ S_3953_9:SKJEMA1E; (S_3953_9:SKJEMA1C); (S_3953_9:SKJEMA1B); (S_4064_9:SKJEMA1A)
 | 310 | 1 |
 | (Other) | 25 |
 | NA's | 100430 |
+| Not NA | 1323 |
 
 
 ### AA1925
@@ -15584,6 +16529,7 @@ S_53_1:SKJEMA1A; The stomach; 53. During the last three months, have you had any
 | Every week | 223 |
 | Several days a week | 175 |
 | 0 | 2 |
+| Not NA | 1712 |
 | NA | 100041 |
 
 
@@ -15598,6 +16544,7 @@ S_53_2:SKJEMA1A; Arms/legs; 53. During the last three months, have you had any p
 | Several days a week | 76 |
 | Every week | 74 |
 | 0 | 6 |
+| Not NA | 1398 |
 | NA | 100355 |
 
 
@@ -15612,6 +16559,7 @@ S_53_3:SKJEMA1A; Neck/shoulders; 53. During the last three months, have you had 
 | Every week | 272 |
 | Several days a week | 176 |
 | 0 | 3 |
+| Not NA | 1656 |
 | NA | 100097 |
 
 
@@ -15626,6 +16574,7 @@ S_53_4:SKJEMA1A; The head; 53. During the last three months, have you had any pa
 | Every week | 358 |
 | Several days a week | 186 |
 | 0 | 13 |
+| Not NA | 1934 |
 | NA | 99819 |
 
 
@@ -15640,6 +16589,7 @@ S_53_5:SKJEMA1A; The back; 53. During the last three months, have you had any pa
 | Never | 519 |
 | Several days a week | 338 |
 | 0 | 10 |
+| Not NA | 1884 |
 | NA | 99869 |
 
 
@@ -15653,6 +16603,7 @@ S_54:SKJEMA1A; ; 54. If you have had any pains, has this changed after being pre
 | Yes, it has worsened during the pregnancy. | 991 |
 | Yes, it has improved during the pregnancy. | 102 |
 | More than 1 check box filled in | 18 |
+| Not NA | 1993 |
 | NA | 99760 |
 
 
@@ -15665,6 +16616,7 @@ S_40:SKJEMA1E; (S_40:SKJEMA1C); (S_40:SKJEMA1B); (S_48:SKJEMA1A); ; 40. Do you h
 | No | 92231 |
 | Yes | 3009 |
 | More than 1 check box filled in | 5 |
+| Not NA | 95245 |
 | NA | 6508 |
 
 
@@ -15679,6 +16631,7 @@ S_42:SKJEMA1E; (S_42:SKJEMA1C); (S_42:SKJEMA1B); (S_47:SKJEMA1A); ; 42. Do your 
 | Yes, sometimes | 32723 |
 | Yes, almost always | 4252 |
 | More than 1 check box filled in | 25 |
+| Not NA | 99862 |
 | NA | 1891 |
 
 
@@ -15692,6 +16645,7 @@ S_43:SKJEMA1E; (S_43:SKJEMA1C); (S_43:SKJEMA1B); (S_46:SKJEMA1A); ; 43. If you h
 | Do not know | 512 |
 | 7.5-12 | 159 |
 | More than 12 | 17 |
+| Not NA | 1034 |
 | NA | 100719 |
 
 
@@ -15702,6 +16656,7 @@ S_44_1_2:SKJEMA1E; (S_44_1_2:SKJEMA1C); (S_44_1_2:SKJEMA1B); (S_52_1_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 23067 |
+| Not NA | 23067 |
 | NA | 78686 |
 
 
@@ -15712,6 +16667,7 @@ S_44_1_3:SKJEMA1E; (S_44_1_3:SKJEMA1C); (S_44_1_3:SKJEMA1B); (S_52_1_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6068 |
+| Not NA | 6068 |
 | NA | 95685 |
 
 
@@ -15722,6 +16678,7 @@ S_44_1_4:SKJEMA1E; (S_44_1_4:SKJEMA1C); (S_44_1_4:SKJEMA1B); (S_52_1_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 7157 |
+| Not NA | 7157 |
 | NA | 94596 |
 
 
@@ -15732,6 +16689,7 @@ S_44_1_5:SKJEMA1E; (S_44_1_5:SKJEMA1C); (S_44_1_5:SKJEMA1B); (S_52_1_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8891 |
+| Not NA | 8891 |
 | NA | 92862 |
 
 
@@ -15742,6 +16700,7 @@ S_44_1_6:SKJEMA1E; (S_44_1_6:SKJEMA1C); (S_44_1_6:SKJEMA1B); (S_52_1_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9380 |
+| Not NA | 9380 |
 | NA | 92373 |
 
 
@@ -15758,6 +16717,7 @@ S_44_1_7:SKJEMA1E; (S_44_1_7:SKJEMA1C); (S_44_1_7:SKJEMA1B); (S_52_1_7:SKJEMA1A)
 | 3rd Qu. | 6 |
 | Max. | 998 |
 | NA's | 76029 |
+| Not NA | 25724 |
 
 
 ### AA912
@@ -15767,6 +16727,7 @@ S_44_2_2:SKJEMA1E; (S_44_2_2:SKJEMA1C); (S_44_2_2:SKJEMA1B); (S_52_2_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5558 |
+| Not NA | 5558 |
 | NA | 96195 |
 
 
@@ -15777,6 +16738,7 @@ S_44_2_3:SKJEMA1E; (S_44_2_3:SKJEMA1C); (S_44_2_3:SKJEMA1B); (S_52_2_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1456 |
+| Not NA | 1456 |
 | NA | 100297 |
 
 
@@ -15787,6 +16749,7 @@ S_44_2_4:SKJEMA1E; (S_44_2_4:SKJEMA1C); (S_44_2_4:SKJEMA1B); (S_52_2_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1385 |
+| Not NA | 1385 |
 | NA | 100368 |
 
 
@@ -15797,6 +16760,7 @@ S_44_2_5:SKJEMA1E; (S_44_2_5:SKJEMA1C); (S_44_2_5:SKJEMA1B); (S_52_2_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1504 |
+| Not NA | 1504 |
 | NA | 100249 |
 
 
@@ -15807,6 +16771,7 @@ S_44_2_6:SKJEMA1E; (S_44_2_6:SKJEMA1C); (S_44_2_6:SKJEMA1B); (S_52_2_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1655 |
+| Not NA | 1655 |
 | NA | 100098 |
 
 
@@ -15823,6 +16788,7 @@ S_44_2_7:SKJEMA1E; (S_44_2_7:SKJEMA1C); (S_44_2_7:SKJEMA1B); (S_52_2_7:SKJEMA1A)
 | 3rd Qu. | 10 |
 | Max. | 998 |
 | NA's | 96259 |
+| Not NA | 5494 |
 
 
 ### AA919
@@ -15832,6 +16798,7 @@ S_44_3_2:SKJEMA1E; (S_44_3_2:SKJEMA1C); (S_44_3_2:SKJEMA1B); (S_52_3_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1510 |
+| Not NA | 1510 |
 | NA | 100243 |
 
 
@@ -15842,6 +16809,7 @@ S_44_3_3:SKJEMA1E; (S_44_3_3:SKJEMA1C); (S_44_3_3:SKJEMA1B); (S_52_3_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 425 |
+| Not NA | 425 |
 | NA | 101328 |
 
 
@@ -15852,6 +16820,7 @@ S_44_3_4:SKJEMA1E; (S_44_3_4:SKJEMA1C); (S_44_3_4:SKJEMA1B); (S_52_3_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 352 |
+| Not NA | 352 |
 | NA | 101401 |
 
 
@@ -15862,6 +16831,7 @@ S_44_3_5:SKJEMA1E; (S_44_3_5:SKJEMA1C); (S_44_3_5:SKJEMA1B); (S_52_3_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 381 |
+| Not NA | 381 |
 | NA | 101372 |
 
 
@@ -15872,6 +16842,7 @@ S_44_3_6:SKJEMA1E; (S_44_3_6:SKJEMA1C); (S_44_3_6:SKJEMA1B); (S_52_3_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 381 |
+| Not NA | 381 |
 | NA | 101372 |
 
 
@@ -15888,6 +16859,7 @@ S_44_3_7:SKJEMA1E; (S_44_3_7:SKJEMA1C); (S_44_3_7:SKJEMA1B); (S_52_3_7:SKJEMA1A)
 | 3rd Qu. | 14 |
 | Max. | 365 |
 | NA's | 100317 |
+| Not NA | 1436 |
 
 
 ### AA926
@@ -15897,6 +16869,7 @@ S_44_4_2:SKJEMA1E; (S_44_4_2:SKJEMA1C); (S_44_4_2:SKJEMA1B); (S_52_4_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 505 |
+| Not NA | 505 |
 | NA | 101248 |
 
 
@@ -15907,6 +16880,7 @@ S_44_4_3:SKJEMA1E; (S_44_4_3:SKJEMA1C); (S_44_4_3:SKJEMA1B); (S_52_4_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 166 |
+| Not NA | 166 |
 | NA | 101587 |
 
 
@@ -15917,6 +16891,7 @@ S_44_4_4:SKJEMA1E; (S_44_4_4:SKJEMA1C); (S_44_4_4:SKJEMA1B); (S_52_4_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 109 |
+| Not NA | 109 |
 | NA | 101644 |
 
 
@@ -15927,6 +16902,7 @@ S_44_4_5:SKJEMA1E; (S_44_4_5:SKJEMA1C); (S_44_4_5:SKJEMA1B); (S_52_4_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 112 |
+| Not NA | 112 |
 | NA | 101641 |
 
 
@@ -15937,6 +16913,7 @@ S_44_4_6:SKJEMA1E; (S_44_4_6:SKJEMA1C); (S_44_4_6:SKJEMA1B); (S_52_4_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 112 |
+| Not NA | 112 |
 | NA | 101641 |
 
 
@@ -15953,6 +16930,7 @@ S_44_4_7:SKJEMA1E; (S_44_4_7:SKJEMA1C); (S_44_4_7:SKJEMA1B); (S_52_4_7:SKJEMA1A)
 | 3rd Qu. | 16 |
 | Max. | 300 |
 | NA's | 101241 |
+| Not NA | 512 |
 
 
 ### AA933
@@ -15962,6 +16940,7 @@ S_44_5_2:SKJEMA1E; (S_44_5_2:SKJEMA1C); (S_44_5_2:SKJEMA1B); (S_52_5_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 203 |
+| Not NA | 203 |
 | NA | 101550 |
 
 
@@ -15972,6 +16951,7 @@ S_44_5_3:SKJEMA1E; (S_44_5_3:SKJEMA1C); (S_44_5_3:SKJEMA1B); (S_52_5_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 74 |
+| Not NA | 74 |
 | NA | 101679 |
 
 
@@ -15982,6 +16962,7 @@ S_44_5_4:SKJEMA1E; (S_44_5_4:SKJEMA1C); (S_44_5_4:SKJEMA1B); (S_52_5_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 48 |
+| Not NA | 48 |
 | NA | 101705 |
 
 
@@ -15992,6 +16973,7 @@ S_44_5_5:SKJEMA1E; (S_44_5_5:SKJEMA1C); (S_44_5_5:SKJEMA1B); (S_52_5_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 53 |
+| Not NA | 53 |
 | NA | 101700 |
 
 
@@ -16002,6 +16984,7 @@ S_44_5_6:SKJEMA1E; (S_44_5_6:SKJEMA1C); (S_44_5_6:SKJEMA1B); (S_52_5_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 53 |
+| Not NA | 53 |
 | NA | 101700 |
 
 
@@ -16018,6 +17001,7 @@ S_44_5_7:SKJEMA1E; (S_44_5_7:SKJEMA1C); (S_44_5_7:SKJEMA1B); (S_52_5_7:SKJEMA1A)
 | 3rd Qu. | 15 |
 | Max. | 400 |
 | NA's | 101532 |
+| Not NA | 221 |
 
 
 ### AA939
@@ -16029,6 +17013,7 @@ S_45:SKJEMA1E; (S_45:SKJEMA1C); (S_45:SKJEMA1B); ; 45. Do you take vitamins, min
 | Yes | 83706 |
 | No | 10940 |
 | More than 1 check box filled in | 48 |
+| Not NA | 94694 |
 | NA | 7059 |
 
 
@@ -16039,6 +17024,7 @@ S_46_1_1:SKJEMA1E; (S_46_1_1:SKJEMA1C); (S_46_1_1:SKJEMA1B); (S_55_4_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 24395 |
+| Not NA | 24395 |
 | NA | 77358 |
 
 
@@ -16049,6 +17035,7 @@ S_46_1_2:SKJEMA1E; (S_46_1_2:SKJEMA1C); (S_46_1_2:SKJEMA1B); (S_55_4_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 27099 |
+| Not NA | 27099 |
 | NA | 74654 |
 
 
@@ -16059,6 +17046,7 @@ S_46_1_3:SKJEMA1E; (S_46_1_3:SKJEMA1C); (S_46_1_3:SKJEMA1B); (S_55_4_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 32227 |
+| Not NA | 32227 |
 | NA | 69526 |
 
 
@@ -16069,6 +17057,7 @@ S_46_1_4:SKJEMA1E; (S_46_1_4:SKJEMA1C); (S_46_1_4:SKJEMA1B); (S_55_4_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 48987 |
+| Not NA | 48987 |
 | NA | 52766 |
 
 
@@ -16079,6 +17068,7 @@ S_46_1_5:SKJEMA1E; (S_46_1_5:SKJEMA1C); (S_46_1_5:SKJEMA1B); (S_55_4_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 66292 |
+| Not NA | 66292 |
 | NA | 35461 |
 
 
@@ -16089,6 +17079,7 @@ S_46_1_6:SKJEMA1E; (S_46_1_6:SKJEMA1C); (S_46_1_6:SKJEMA1B); (S_55_4_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 69382 |
+| Not NA | 69382 |
 | NA | 32371 |
 
 
@@ -16099,6 +17090,7 @@ S_46_1_7:SKJEMA1E; (S_46_1_7:SKJEMA1C); (S_46_1_7:SKJEMA1B); (S_55_4_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 45395 |
+| Not NA | 45395 |
 | NA | 56358 |
 
 
@@ -16115,6 +17107,7 @@ S_46_1_8:SKJEMA1E; (S_46_1_8:SKJEMA1C); (S_46_1_8:SKJEMA1B); (S_55_4_8:SKJEMA1A)
 | Daily + 4-6 times a week | 214 |
 | Daily + 1-3 times a week | 132 |
 | Daily + 4-6 times a week + 1-3 times a week | 22 |
+| Not NA | 80875 |
 | NA | 20878 |
 
 
@@ -16125,6 +17118,7 @@ S_46_2_1:SKJEMA1E; (S_46_2_1:SKJEMA1C); (S_46_2_1:SKJEMA1B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 11719 |
+| Not NA | 11719 |
 | NA | 90034 |
 
 
@@ -16135,6 +17129,7 @@ S_46_2_2:SKJEMA1E; (S_46_2_2:SKJEMA1C); (S_46_2_2:SKJEMA1B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 10942 |
+| Not NA | 10942 |
 | NA | 90811 |
 
 
@@ -16145,6 +17140,7 @@ S_46_2_3:SKJEMA1E; (S_46_2_3:SKJEMA1C); (S_46_2_3:SKJEMA1B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 12042 |
+| Not NA | 12042 |
 | NA | 89711 |
 
 
@@ -16155,6 +17151,7 @@ S_46_2_4:SKJEMA1E; (S_46_2_4:SKJEMA1C); (S_46_2_4:SKJEMA1B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 16526 |
+| Not NA | 16526 |
 | NA | 85227 |
 
 
@@ -16165,6 +17162,7 @@ S_46_2_5:SKJEMA1E; (S_46_2_5:SKJEMA1C); (S_46_2_5:SKJEMA1B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 21473 |
+| Not NA | 21473 |
 | NA | 80280 |
 
 
@@ -16175,6 +17173,7 @@ S_46_2_6:SKJEMA1E; (S_46_2_6:SKJEMA1C); (S_46_2_6:SKJEMA1B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 23054 |
+| Not NA | 23054 |
 | NA | 78699 |
 
 
@@ -16185,6 +17184,7 @@ S_46_2_7:SKJEMA1E; (S_46_2_7:SKJEMA1C); (S_46_2_7:SKJEMA1B); Vitamin B1 (Thiamin
 | Category | n |
 | -------- | - |
 | 1 | 25393 |
+| Not NA | 25393 |
 | NA | 76360 |
 
 
@@ -16201,6 +17201,7 @@ S_46_2_8:SKJEMA1E; (S_46_2_8:SKJEMA1C); (S_46_2_8:SKJEMA1B); Vitamin B1 (Thiamin
 | Daily + 4-6 times a week | 30 |
 | 4-6 times per week | 23 |
 | Daily + 4-6 times a week + 1-3 times a week | 15 |
+| Not NA | 31593 |
 | NA | 70160 |
 
 
@@ -16211,6 +17212,7 @@ S_46_3_1:SKJEMA1E; (S_46_3_1:SKJEMA1C); (S_46_3_1:SKJEMA1B); (S_55_1_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11944 |
+| Not NA | 11944 |
 | NA | 89809 |
 
 
@@ -16221,6 +17223,7 @@ S_46_3_2:SKJEMA1E; (S_46_3_2:SKJEMA1C); (S_46_3_2:SKJEMA1B); (S_55_1_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 10992 |
+| Not NA | 10992 |
 | NA | 90761 |
 
 
@@ -16231,6 +17234,7 @@ S_46_3_3:SKJEMA1E; (S_46_3_3:SKJEMA1C); (S_46_3_3:SKJEMA1B); (S_55_1_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12135 |
+| Not NA | 12135 |
 | NA | 89618 |
 
 
@@ -16241,6 +17245,7 @@ S_46_3_4:SKJEMA1E; (S_46_3_4:SKJEMA1C); (S_46_3_4:SKJEMA1B); (S_55_1_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 16620 |
+| Not NA | 16620 |
 | NA | 85133 |
 
 
@@ -16251,6 +17256,7 @@ S_46_3_5:SKJEMA1E; (S_46_3_5:SKJEMA1C); (S_46_3_5:SKJEMA1B); (S_55_1_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 21703 |
+| Not NA | 21703 |
 | NA | 80050 |
 
 
@@ -16261,6 +17267,7 @@ S_46_3_6:SKJEMA1E; (S_46_3_6:SKJEMA1C); (S_46_3_6:SKJEMA1B); (S_55_1_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 23303 |
+| Not NA | 23303 |
 | NA | 78450 |
 
 
@@ -16271,6 +17278,7 @@ S_46_3_7:SKJEMA1E; (S_46_3_7:SKJEMA1C); (S_46_3_7:SKJEMA1B); (S_55_1_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 25848 |
+| Not NA | 25848 |
 | NA | 75905 |
 
 
@@ -16287,6 +17295,7 @@ S_46_3_8:SKJEMA1E; (S_46_3_8:SKJEMA1C); (S_46_3_8:SKJEMA1B); (S_55_1_8:SKJEMA1A)
 | Daily + 4-6 times a week | 29 |
 | 4-6 times per week | 23 |
 | Daily + 4-6 times a week + 1-3 times a week | 17 |
+| Not NA | 32194 |
 | NA | 69559 |
 
 
@@ -16297,6 +17306,7 @@ S_46_4_1:SKJEMA1E; (S_46_4_1:SKJEMA1C); (S_46_4_1:SKJEMA1B); (S_55_2_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12495 |
+| Not NA | 12495 |
 | NA | 89258 |
 
 
@@ -16307,6 +17317,7 @@ S_46_4_2:SKJEMA1E; (S_46_4_2:SKJEMA1C); (S_46_4_2:SKJEMA1B); (S_55_2_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11636 |
+| Not NA | 11636 |
 | NA | 90117 |
 
 
@@ -16317,6 +17328,7 @@ S_46_4_3:SKJEMA1E; (S_46_4_3:SKJEMA1C); (S_46_4_3:SKJEMA1B); (S_55_2_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12875 |
+| Not NA | 12875 |
 | NA | 88878 |
 
 
@@ -16327,6 +17339,7 @@ S_46_4_4:SKJEMA1E; (S_46_4_4:SKJEMA1C); (S_46_4_4:SKJEMA1B); (S_55_2_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 17632 |
+| Not NA | 17632 |
 | NA | 84121 |
 
 
@@ -16337,6 +17350,7 @@ S_46_4_5:SKJEMA1E; (S_46_4_5:SKJEMA1C); (S_46_4_5:SKJEMA1B); (S_55_2_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 23091 |
+| Not NA | 23091 |
 | NA | 78662 |
 
 
@@ -16347,6 +17361,7 @@ S_46_4_6:SKJEMA1E; (S_46_4_6:SKJEMA1C); (S_46_4_6:SKJEMA1B); (S_55_2_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 24746 |
+| Not NA | 24746 |
 | NA | 77007 |
 
 
@@ -16357,6 +17372,7 @@ S_46_4_7:SKJEMA1E; (S_46_4_7:SKJEMA1C); (S_46_4_7:SKJEMA1B); (S_55_2_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 27036 |
+| Not NA | 27036 |
 | NA | 74717 |
 
 
@@ -16373,6 +17389,7 @@ S_46_4_8:SKJEMA1E; (S_46_4_8:SKJEMA1C); (S_46_4_8:SKJEMA1B); (S_55_2_8:SKJEMA1A)
 | Daily + 4-6 times a week | 32 |
 | 4-6 times per week | 24 |
 | Daily + 4-6 times a week + 1-3 times a week | 20 |
+| Not NA | 33742 |
 | NA | 68011 |
 
 
@@ -16383,6 +17400,7 @@ S_46_5_1:SKJEMA1E; (S_46_5_1:SKJEMA1C); (S_46_5_1:SKJEMA1B); (S_55_3_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11630 |
+| Not NA | 11630 |
 | NA | 90123 |
 
 
@@ -16393,6 +17411,7 @@ S_46_5_2:SKJEMA1E; (S_46_5_2:SKJEMA1C); (S_46_5_2:SKJEMA1B); (S_55_3_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 10844 |
+| Not NA | 10844 |
 | NA | 90909 |
 
 
@@ -16403,6 +17422,7 @@ S_46_5_3:SKJEMA1E; (S_46_5_3:SKJEMA1C); (S_46_5_3:SKJEMA1B); (S_55_3_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12039 |
+| Not NA | 12039 |
 | NA | 89714 |
 
 
@@ -16413,6 +17433,7 @@ S_46_5_4:SKJEMA1E; (S_46_5_4:SKJEMA1C); (S_46_5_4:SKJEMA1B); (S_55_3_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 16521 |
+| Not NA | 16521 |
 | NA | 85232 |
 
 
@@ -16423,6 +17444,7 @@ S_46_5_5:SKJEMA1E; (S_46_5_5:SKJEMA1C); (S_46_5_5:SKJEMA1B); (S_55_3_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 21638 |
+| Not NA | 21638 |
 | NA | 80115 |
 
 
@@ -16433,6 +17455,7 @@ S_46_5_6:SKJEMA1E; (S_46_5_6:SKJEMA1C); (S_46_5_6:SKJEMA1B); (S_55_3_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 23159 |
+| Not NA | 23159 |
 | NA | 78594 |
 
 
@@ -16443,6 +17466,7 @@ S_46_5_7:SKJEMA1E; (S_46_5_7:SKJEMA1C); (S_46_5_7:SKJEMA1B); (S_55_3_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 25080 |
+| Not NA | 25080 |
 | NA | 76673 |
 
 
@@ -16459,6 +17483,7 @@ S_46_5_8:SKJEMA1E; (S_46_5_8:SKJEMA1C); (S_46_5_8:SKJEMA1B); (S_55_3_8:SKJEMA1A)
 | Daily + 4-6 times a week | 27 |
 | 4-6 times per week | 24 |
 | Daily + 4-6 times a week + 1-3 times a week | 17 |
+| Not NA | 31405 |
 | NA | 70348 |
 
 
@@ -16469,6 +17494,7 @@ S_46_6_1:SKJEMA1E; (S_46_6_1:SKJEMA1C); (S_46_6_1:SKJEMA1B); Niacin, 26-9 weeks 
 | Category | n |
 | -------- | - |
 | 1 | 7104 |
+| Not NA | 7104 |
 | NA | 94649 |
 
 
@@ -16479,6 +17505,7 @@ S_46_6_2:SKJEMA1E; (S_46_6_2:SKJEMA1C); (S_46_6_2:SKJEMA1B); Niacin, 8-5 weeks b
 | Category | n |
 | -------- | - |
 | 1 | 6897 |
+| Not NA | 6897 |
 | NA | 94856 |
 
 
@@ -16489,6 +17516,7 @@ S_46_6_3:SKJEMA1E; (S_46_6_3:SKJEMA1C); (S_46_6_3:SKJEMA1B); Niacin, 4-0 weeks b
 | Category | n |
 | -------- | - |
 | 1 | 7728 |
+| Not NA | 7728 |
 | NA | 94025 |
 
 
@@ -16499,6 +17527,7 @@ S_46_6_4:SKJEMA1E; (S_46_6_4:SKJEMA1C); (S_46_6_4:SKJEMA1B); Niacin, week 0-4 of
 | Category | n |
 | -------- | - |
 | 1 | 10649 |
+| Not NA | 10649 |
 | NA | 91104 |
 
 
@@ -16509,6 +17538,7 @@ S_46_6_5:SKJEMA1E; (S_46_6_5:SKJEMA1C); (S_46_6_5:SKJEMA1B); Niacin, week 5-8 of
 | Category | n |
 | -------- | - |
 | 1 | 14026 |
+| Not NA | 14026 |
 | NA | 87727 |
 
 
@@ -16519,6 +17549,7 @@ S_46_6_6:SKJEMA1E; (S_46_6_6:SKJEMA1C); (S_46_6_6:SKJEMA1B); Niacin, week 9-12 o
 | Category | n |
 | -------- | - |
 | 1 | 14850 |
+| Not NA | 14850 |
 | NA | 86903 |
 
 
@@ -16529,6 +17560,7 @@ S_46_6_7:SKJEMA1E; (S_46_6_7:SKJEMA1C); (S_46_6_7:SKJEMA1B); Niacin, week 13+ of
 | Category | n |
 | -------- | - |
 | 1 | 15230 |
+| Not NA | 15230 |
 | NA | 86523 |
 
 
@@ -16545,6 +17577,7 @@ S_46_6_8:SKJEMA1E; (S_46_6_8:SKJEMA1C); (S_46_6_8:SKJEMA1B); Niacin, how often?;
 | Daily + 4-6 times a week | 14 |
 | Daily + 4-6 times a week + 1-3 times a week | 9 |
 | 4-6 times per week | 13 |
+| Not NA | 19792 |
 | NA | 81961 |
 
 
@@ -16555,6 +17588,7 @@ S_46_7_1:SKJEMA1E; (S_46_7_1:SKJEMA1C); (S_46_7_1:SKJEMA1B); Pantothenic acid, 2
 | Category | n |
 | -------- | - |
 | 1 | 9212 |
+| Not NA | 9212 |
 | NA | 92541 |
 
 
@@ -16565,6 +17599,7 @@ S_46_7_2:SKJEMA1E; (S_46_7_2:SKJEMA1C); (S_46_7_2:SKJEMA1B); Pantothenic acid, 8
 | Category | n |
 | -------- | - |
 | 1 | 8628 |
+| Not NA | 8628 |
 | NA | 93125 |
 
 
@@ -16575,6 +17610,7 @@ S_46_7_3:SKJEMA1E; (S_46_7_3:SKJEMA1C); (S_46_7_3:SKJEMA1B); Pantothenic acid, 4
 | Category | n |
 | -------- | - |
 | 1 | 9540 |
+| Not NA | 9540 |
 | NA | 92213 |
 
 
@@ -16585,6 +17621,7 @@ S_46_7_4:SKJEMA1E; (S_46_7_4:SKJEMA1C); (S_46_7_4:SKJEMA1B); Pantothenic acid, w
 | Category | n |
 | -------- | - |
 | 1 | 13006 |
+| Not NA | 13006 |
 | NA | 88747 |
 
 
@@ -16595,6 +17632,7 @@ S_46_7_5:SKJEMA1E; (S_46_7_5:SKJEMA1C); (S_46_7_5:SKJEMA1B); Pantothenic acid, w
 | Category | n |
 | -------- | - |
 | 1 | 16957 |
+| Not NA | 16957 |
 | NA | 84796 |
 
 
@@ -16605,6 +17643,7 @@ S_46_7_6:SKJEMA1E; (S_46_7_6:SKJEMA1C); (S_46_7_6:SKJEMA1B); Pantothenic acid, w
 | Category | n |
 | -------- | - |
 | 1 | 18118 |
+| Not NA | 18118 |
 | NA | 83635 |
 
 
@@ -16615,6 +17654,7 @@ S_46_7_7:SKJEMA1E; (S_46_7_7:SKJEMA1C); (S_46_7_7:SKJEMA1B); Pantothenic acid, w
 | Category | n |
 | -------- | - |
 | 1 | 20161 |
+| Not NA | 20161 |
 | NA | 81592 |
 
 
@@ -16631,6 +17671,7 @@ S_46_7_8:SKJEMA1E; (S_46_7_8:SKJEMA1C); (S_46_7_8:SKJEMA1B); Pantotensyre (panto
 | Daily + 4-6 times a week | 16 |
 | 4-6 times per week | 20 |
 | Daily + 4-6 times a week + 1-3 times a week | 10 |
+| Not NA | 24766 |
 | NA | 76987 |
 
 
@@ -16641,6 +17682,7 @@ S_46_8_1:SKJEMA1E; (S_46_8_1:SKJEMA1C); (S_46_8_1:SKJEMA1B); Biotin, 26-9 weeks 
 | Category | n |
 | -------- | - |
 | 1 | 4340 |
+| Not NA | 4340 |
 | NA | 97413 |
 
 
@@ -16651,6 +17693,7 @@ S_46_8_2:SKJEMA1E; (S_46_8_2:SKJEMA1C); (S_46_8_2:SKJEMA1B); Biotin, 8-5 weeks b
 | Category | n |
 | -------- | - |
 | 1 | 4220 |
+| Not NA | 4220 |
 | NA | 97533 |
 
 
@@ -16661,6 +17704,7 @@ S_46_8_3:SKJEMA1E; (S_46_8_3:SKJEMA1C); (S_46_8_3:SKJEMA1B); Biotin, 4-0 weeks b
 | Category | n |
 | -------- | - |
 | 1 | 4656 |
+| Not NA | 4656 |
 | NA | 97097 |
 
 
@@ -16671,6 +17715,7 @@ S_46_8_4:SKJEMA1E; (S_46_8_4:SKJEMA1C); (S_46_8_4:SKJEMA1B); Biotin, week 0-4 of
 | Category | n |
 | -------- | - |
 | 1 | 6650 |
+| Not NA | 6650 |
 | NA | 95103 |
 
 
@@ -16681,6 +17726,7 @@ S_46_8_5:SKJEMA1E; (S_46_8_5:SKJEMA1C); (S_46_8_5:SKJEMA1B); Biotin, week 5-8 of
 | Category | n |
 | -------- | - |
 | 1 | 8844 |
+| Not NA | 8844 |
 | NA | 92909 |
 
 
@@ -16691,6 +17737,7 @@ S_46_8_6:SKJEMA1E; (S_46_8_6:SKJEMA1C); (S_46_8_6:SKJEMA1B); Biotin, week 9-12 o
 | Category | n |
 | -------- | - |
 | 1 | 9461 |
+| Not NA | 9461 |
 | NA | 92292 |
 
 
@@ -16701,6 +17748,7 @@ S_46_8_7:SKJEMA1E; (S_46_8_7:SKJEMA1C); (S_46_8_7:SKJEMA1B); Biotin, week 13+ of
 | Category | n |
 | -------- | - |
 | 1 | 9887 |
+| Not NA | 9887 |
 | NA | 91866 |
 
 
@@ -16717,6 +17765,7 @@ S_46_8_8:SKJEMA1E; (S_46_8_8:SKJEMA1C); (S_46_8_8:SKJEMA1B); Biotin, how often?;
 | Daily + 4-6 times a week | 11 |
 | 4-6 times per week | 10 |
 | Daily + 4-6 times a week + 1-3 times a week | 7 |
+| Not NA | 13091 |
 | NA | 88662 |
 
 
@@ -16727,6 +17776,7 @@ S_46_9_1:SKJEMA1E; (S_46_9_1:SKJEMA1C); (S_46_9_1:SKJEMA1B); (S_55_5_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 15004 |
+| Not NA | 15004 |
 | NA | 86749 |
 
 
@@ -16737,6 +17787,7 @@ S_46_9_2:SKJEMA1E; (S_46_9_2:SKJEMA1C); (S_46_9_2:SKJEMA1B); (S_55_5_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 13456 |
+| Not NA | 13456 |
 | NA | 88297 |
 
 
@@ -16747,6 +17798,7 @@ S_46_9_3:SKJEMA1E; (S_46_9_3:SKJEMA1C); (S_46_9_3:SKJEMA1B); (S_55_5_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 14651 |
+| Not NA | 14651 |
 | NA | 87102 |
 
 
@@ -16757,6 +17809,7 @@ S_46_9_4:SKJEMA1E; (S_46_9_4:SKJEMA1C); (S_46_9_4:SKJEMA1B); (S_55_5_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 19709 |
+| Not NA | 19709 |
 | NA | 82044 |
 
 
@@ -16767,6 +17820,7 @@ S_46_9_5:SKJEMA1E; (S_46_9_5:SKJEMA1C); (S_46_9_5:SKJEMA1B); (S_55_5_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 25195 |
+| Not NA | 25195 |
 | NA | 76558 |
 
 
@@ -16777,6 +17831,7 @@ S_46_9_6:SKJEMA1E; (S_46_9_6:SKJEMA1C); (S_46_9_6:SKJEMA1B); (S_55_5_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 26973 |
+| Not NA | 26973 |
 | NA | 74780 |
 
 
@@ -16787,6 +17842,7 @@ S_46_9_7:SKJEMA1E; (S_46_9_7:SKJEMA1C); (S_46_9_7:SKJEMA1B); (S_55_5_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 29876 |
+| Not NA | 29876 |
 | NA | 71877 |
 
 
@@ -16803,6 +17859,7 @@ S_46_9_8:SKJEMA1E; (S_46_9_8:SKJEMA1C); (S_46_9_8:SKJEMA1B); (S_55_5_8:SKJEMA1A)
 | Daily + 4-6 times a week + 1-3 times a week | 29 |
 | Daily + 4-6 times a week | 71 |
 | 4-6 times per week | 37 |
+| Not NA | 37471 |
 | NA | 64282 |
 
 
@@ -16813,6 +17870,7 @@ S_4610_1:SKJEMA1E; (S_4610_1:SKJEMA1C); (S_4610_1:SKJEMA1B); (S_55_6_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12368 |
+| Not NA | 12368 |
 | NA | 89385 |
 
 
@@ -16823,6 +17881,7 @@ S_4610_2:SKJEMA1E; (S_4610_2:SKJEMA1C); (S_4610_2:SKJEMA1B); (S_55_6_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11244 |
+| Not NA | 11244 |
 | NA | 90509 |
 
 
@@ -16833,6 +17892,7 @@ S_4610_3:SKJEMA1E; (S_4610_3:SKJEMA1C); (S_4610_3:SKJEMA1B); (S_55_6_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12438 |
+| Not NA | 12438 |
 | NA | 89315 |
 
 
@@ -16843,6 +17903,7 @@ S_4610_4:SKJEMA1E; (S_4610_4:SKJEMA1C); (S_4610_4:SKJEMA1B); (S_55_6_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 17365 |
+| Not NA | 17365 |
 | NA | 84388 |
 
 
@@ -16853,6 +17914,7 @@ S_4610_5:SKJEMA1E; (S_4610_5:SKJEMA1C); (S_4610_5:SKJEMA1B); (S_55_6_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 22846 |
+| Not NA | 22846 |
 | NA | 78907 |
 
 
@@ -16863,6 +17925,7 @@ S_4610_6:SKJEMA1E; (S_4610_6:SKJEMA1C); (S_4610_6:SKJEMA1B); (S_55_6_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 24547 |
+| Not NA | 24547 |
 | NA | 77206 |
 
 
@@ -16873,6 +17936,7 @@ S_4610_7:SKJEMA1E; (S_4610_7:SKJEMA1C); (S_4610_7:SKJEMA1B); (S_55_6_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 27134 |
+| Not NA | 27134 |
 | NA | 74619 |
 
 
@@ -16889,6 +17953,7 @@ S_4610_8:SKJEMA1E; (S_4610_8:SKJEMA1C); (S_4610_8:SKJEMA1B); (S_55_6_8:SKJEMA1A)
 | Daily + 4-6 times a week | 35 |
 | Daily + 1-3 times a week | 25 |
 | Daily + 4-6 times a week + 1-3 times a week | 25 |
+| Not NA | 33072 |
 | NA | 68681 |
 
 
@@ -16899,6 +17964,7 @@ S_4611_1:SKJEMA1E; (S_4611_1:SKJEMA1C); (S_4611_1:SKJEMA1B); (S_55_7_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 13232 |
+| Not NA | 13232 |
 | NA | 88521 |
 
 
@@ -16909,6 +17975,7 @@ S_4611_2:SKJEMA1E; (S_4611_2:SKJEMA1C); (S_4611_2:SKJEMA1B); (S_55_7_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12058 |
+| Not NA | 12058 |
 | NA | 89695 |
 
 
@@ -16919,6 +17986,7 @@ S_4611_3:SKJEMA1E; (S_4611_3:SKJEMA1C); (S_4611_3:SKJEMA1B); (S_55_7_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 13337 |
+| Not NA | 13337 |
 | NA | 88416 |
 
 
@@ -16929,6 +17997,7 @@ S_4611_4:SKJEMA1E; (S_4611_4:SKJEMA1C); (S_4611_4:SKJEMA1B); (S_55_7_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 18746 |
+| Not NA | 18746 |
 | NA | 83007 |
 
 
@@ -16939,6 +18008,7 @@ S_4611_5:SKJEMA1E; (S_4611_5:SKJEMA1C); (S_4611_5:SKJEMA1B); (S_55_7_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 24839 |
+| Not NA | 24839 |
 | NA | 76914 |
 
 
@@ -16949,6 +18019,7 @@ S_4611_6:SKJEMA1E; (S_4611_6:SKJEMA1C); (S_4611_6:SKJEMA1B); (S_55_7_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 26835 |
+| Not NA | 26835 |
 | NA | 74918 |
 
 
@@ -16959,6 +18030,7 @@ S_4611_7:SKJEMA1E; (S_4611_7:SKJEMA1C); (S_4611_7:SKJEMA1B); (S_55_7_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 30029 |
+| Not NA | 30029 |
 | NA | 71724 |
 
 
@@ -16975,6 +18047,7 @@ S_4611_8:SKJEMA1E; (S_4611_8:SKJEMA1C); (S_4611_8:SKJEMA1B); (S_55_7_8:SKJEMA1A)
 | 4-6 times per week | 28 |
 | Daily + 1-3 times a week | 22 |
 | Daily + 4-6 times a week + 1-3 times a week | 28 |
+| Not NA | 36056 |
 | NA | 65697 |
 
 
@@ -16985,6 +18058,7 @@ S_4612_1:SKJEMA1E; (S_4612_1:SKJEMA1C); (S_4612_1:SKJEMA1B); (S_55_8_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 14085 |
+| Not NA | 14085 |
 | NA | 87668 |
 
 
@@ -16995,6 +18069,7 @@ S_4612_2:SKJEMA1E; (S_4612_2:SKJEMA1C); (S_4612_2:SKJEMA1B); (S_55_8_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12955 |
+| Not NA | 12955 |
 | NA | 88798 |
 
 
@@ -17005,6 +18080,7 @@ S_4612_3:SKJEMA1E; (S_4612_3:SKJEMA1C); (S_4612_3:SKJEMA1B); (S_55_8_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 14285 |
+| Not NA | 14285 |
 | NA | 87468 |
 
 
@@ -17015,6 +18091,7 @@ S_4612_4:SKJEMA1E; (S_4612_4:SKJEMA1C); (S_4612_4:SKJEMA1B); (S_55_8_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 19739 |
+| Not NA | 19739 |
 | NA | 82014 |
 
 
@@ -17025,6 +18102,7 @@ S_4612_5:SKJEMA1E; (S_4612_5:SKJEMA1C); (S_4612_5:SKJEMA1B); (S_55_8_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 25846 |
+| Not NA | 25846 |
 | NA | 75907 |
 
 
@@ -17035,6 +18113,7 @@ S_4612_6:SKJEMA1E; (S_4612_6:SKJEMA1C); (S_4612_6:SKJEMA1B); (S_55_8_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 27882 |
+| Not NA | 27882 |
 | NA | 73871 |
 
 
@@ -17045,6 +18124,7 @@ S_4612_7:SKJEMA1E; (S_4612_7:SKJEMA1C); (S_4612_7:SKJEMA1B); (S_55_8_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 31268 |
+| Not NA | 31268 |
 | NA | 70485 |
 
 
@@ -17061,6 +18141,7 @@ S_4612_8:SKJEMA1E; (S_4612_8:SKJEMA1C); (S_4612_8:SKJEMA1B); (S_55_8_8:SKJEMA1A)
 | Daily + 1-3 times a week | 31 |
 | 4-6 times per week | 33 |
 | Daily + 4-6 times a week + 1-3 times a week | 31 |
+| Not NA | 37400 |
 | NA | 64353 |
 
 
@@ -17071,6 +18152,7 @@ S_4613_1:SKJEMA1E; (S_4613_1:SKJEMA1C); (S_4613_1:SKJEMA1B); (S_5510_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 10448 |
+| Not NA | 10448 |
 | NA | 91305 |
 
 
@@ -17081,6 +18163,7 @@ S_4613_2:SKJEMA1E; (S_4613_2:SKJEMA1C); (S_4613_2:SKJEMA1B); (S_5510_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9421 |
+| Not NA | 9421 |
 | NA | 92332 |
 
 
@@ -17091,6 +18174,7 @@ S_4613_3:SKJEMA1E; (S_4613_3:SKJEMA1C); (S_4613_3:SKJEMA1B); (S_5510_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 10595 |
+| Not NA | 10595 |
 | NA | 91158 |
 
 
@@ -17101,6 +18185,7 @@ S_4613_4:SKJEMA1E; (S_4613_4:SKJEMA1C); (S_4613_4:SKJEMA1B); (S_5510_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 15215 |
+| Not NA | 15215 |
 | NA | 86538 |
 
 
@@ -17111,6 +18196,7 @@ S_4613_5:SKJEMA1E; (S_4613_5:SKJEMA1C); (S_4613_5:SKJEMA1B); (S_5510_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 21118 |
+| Not NA | 21118 |
 | NA | 80635 |
 
 
@@ -17121,6 +18207,7 @@ S_4613_6:SKJEMA1E; (S_4613_6:SKJEMA1C); (S_4613_6:SKJEMA1B); (S_5510_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 24105 |
+| Not NA | 24105 |
 | NA | 77648 |
 
 
@@ -17131,6 +18218,7 @@ S_4613_7:SKJEMA1E; (S_4613_7:SKJEMA1C); (S_4613_7:SKJEMA1B); (S_5510_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 28957 |
+| Not NA | 28957 |
 | NA | 72796 |
 
 
@@ -17147,6 +18235,7 @@ S_4613_8:SKJEMA1E; (S_4613_8:SKJEMA1C); (S_4613_8:SKJEMA1B); (S_5510_8:SKJEMA1A)
 | Daily + 4-6 times a week | 77 |
 | Daily + 1-3 times a week | 61 |
 | Daily + 4-6 times a week + 1-3 times a week | 18 |
+| Not NA | 37111 |
 | NA | 64642 |
 
 
@@ -17157,6 +18246,7 @@ S_4614_1:SKJEMA1E; (S_4614_1:SKJEMA1C); (S_4614_1:SKJEMA1B); (S_5512_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5227 |
+| Not NA | 5227 |
 | NA | 96526 |
 
 
@@ -17167,6 +18257,7 @@ S_4614_2:SKJEMA1E; (S_4614_2:SKJEMA1C); (S_4614_2:SKJEMA1B); (S_5512_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4796 |
+| Not NA | 4796 |
 | NA | 96957 |
 
 
@@ -17177,6 +18268,7 @@ S_4614_3:SKJEMA1E; (S_4614_3:SKJEMA1C); (S_4614_3:SKJEMA1B); (S_5512_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5334 |
+| Not NA | 5334 |
 | NA | 96419 |
 
 
@@ -17187,6 +18279,7 @@ S_4614_4:SKJEMA1E; (S_4614_4:SKJEMA1C); (S_4614_4:SKJEMA1B); (S_5512_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 7850 |
+| Not NA | 7850 |
 | NA | 93903 |
 
 
@@ -17197,6 +18290,7 @@ S_4614_5:SKJEMA1E; (S_4614_5:SKJEMA1C); (S_4614_5:SKJEMA1B); (S_5512_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 10810 |
+| Not NA | 10810 |
 | NA | 90943 |
 
 
@@ -17207,6 +18301,7 @@ S_4614_6:SKJEMA1E; (S_4614_6:SKJEMA1C); (S_4614_6:SKJEMA1B); (S_5512_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11940 |
+| Not NA | 11940 |
 | NA | 89813 |
 
 
@@ -17217,6 +18312,7 @@ S_4614_7:SKJEMA1E; (S_4614_7:SKJEMA1C); (S_4614_7:SKJEMA1B); (S_5512_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 13103 |
+| Not NA | 13103 |
 | NA | 88650 |
 
 
@@ -17233,6 +18329,7 @@ S_4614_8:SKJEMA1E; (S_4614_8:SKJEMA1C); (S_4614_8:SKJEMA1B); (S_5512_8:SKJEMA1A)
 | Daily + 1-3 times a week | 16 |
 | 4-6 times per week | 17 |
 | Daily + 4-6 times a week + 1-3 times a week | 13 |
+| Not NA | 16978 |
 | NA | 84775 |
 
 
@@ -17243,6 +18340,7 @@ S_4615_1:SKJEMA1E; (S_4615_1:SKJEMA1C); (S_4615_1:SKJEMA1B); Iodine, 26-9 weeks 
 | Category | n |
 | -------- | - |
 | 1 | 7209 |
+| Not NA | 7209 |
 | NA | 94544 |
 
 
@@ -17253,6 +18351,7 @@ S_4615_2:SKJEMA1E; (S_4615_2:SKJEMA1C); (S_4615_2:SKJEMA1B); Iodine, 8-5 weeks b
 | Category | n |
 | -------- | - |
 | 1 | 6737 |
+| Not NA | 6737 |
 | NA | 95016 |
 
 
@@ -17263,6 +18362,7 @@ S_4615_3:SKJEMA1E; (S_4615_3:SKJEMA1C); (S_4615_3:SKJEMA1B); Iodine, 4-0 weeks b
 | Category | n |
 | -------- | - |
 | 1 | 7463 |
+| Not NA | 7463 |
 | NA | 94290 |
 
 
@@ -17273,6 +18373,7 @@ S_4615_4:SKJEMA1E; (S_4615_4:SKJEMA1C); (S_4615_4:SKJEMA1B); Iodine, week 0-4 of
 | Category | n |
 | -------- | - |
 | 1 | 10466 |
+| Not NA | 10466 |
 | NA | 91287 |
 
 
@@ -17283,6 +18384,7 @@ S_4615_5:SKJEMA1E; (S_4615_5:SKJEMA1C); (S_4615_5:SKJEMA1B); Iodine, week 5-8 of
 | Category | n |
 | -------- | - |
 | 1 | 13705 |
+| Not NA | 13705 |
 | NA | 88048 |
 
 
@@ -17293,6 +18395,7 @@ S_4615_6:SKJEMA1E; (S_4615_6:SKJEMA1C); (S_4615_6:SKJEMA1B); Iodine, week 9-12 o
 | Category | n |
 | -------- | - |
 | 1 | 14710 |
+| Not NA | 14710 |
 | NA | 87043 |
 
 
@@ -17303,6 +18406,7 @@ S_4615_7:SKJEMA1E; (S_4615_7:SKJEMA1C); (S_4615_7:SKJEMA1B); Iodine, week 13+ of
 | Category | n |
 | -------- | - |
 | 1 | 16499 |
+| Not NA | 16499 |
 | NA | 85254 |
 
 
@@ -17319,6 +18423,7 @@ S_4615_8:SKJEMA1E; (S_4615_8:SKJEMA1C); (S_4615_8:SKJEMA1B); Iodine, how often?;
 | Daily + 1-3 times a week | 9 |
 | Daily + 4-6 times a week + 1-3 times a week | 11 |
 | 4-6 times per week | 11 |
+| Not NA | 20579 |
 | NA | 81174 |
 
 
@@ -17329,6 +18434,7 @@ S_4616_1:SKJEMA1E; (S_4616_1:SKJEMA1C); (S_4616_1:SKJEMA1B); Zinc, 26-9 weeks be
 | Category | n |
 | -------- | - |
 | 1 | 9759 |
+| Not NA | 9759 |
 | NA | 91994 |
 
 
@@ -17339,6 +18445,7 @@ S_4616_2:SKJEMA1E; (S_4616_2:SKJEMA1C); (S_4616_2:SKJEMA1B); Zinc, 8-5 weeks bef
 | Category | n |
 | -------- | - |
 | 1 | 9214 |
+| Not NA | 9214 |
 | NA | 92539 |
 
 
@@ -17349,6 +18456,7 @@ S_4616_3:SKJEMA1E; (S_4616_3:SKJEMA1C); (S_4616_3:SKJEMA1B); Zinc, 4-0 weeks bef
 | Category | n |
 | -------- | - |
 | 1 | 10228 |
+| Not NA | 10228 |
 | NA | 91525 |
 
 
@@ -17359,6 +18467,7 @@ S_4616_4:SKJEMA1E; (S_4616_4:SKJEMA1C); (S_4616_4:SKJEMA1B); Zinc, week 0-4 of p
 | Category | n |
 | -------- | - |
 | 1 | 14112 |
+| Not NA | 14112 |
 | NA | 87641 |
 
 
@@ -17369,6 +18478,7 @@ S_4616_5:SKJEMA1E; (S_4616_5:SKJEMA1C); (S_4616_5:SKJEMA1B); Zinc, week 5-8 of p
 | Category | n |
 | -------- | - |
 | 1 | 18590 |
+| Not NA | 18590 |
 | NA | 83163 |
 
 
@@ -17379,6 +18489,7 @@ S_4616_6:SKJEMA1E; (S_4616_6:SKJEMA1C); (S_4616_6:SKJEMA1B); Zinc, week 9-12 of 
 | Category | n |
 | -------- | - |
 | 1 | 19828 |
+| Not NA | 19828 |
 | NA | 81925 |
 
 
@@ -17389,6 +18500,7 @@ S_4616_7:SKJEMA1E; (S_4616_7:SKJEMA1C); (S_4616_7:SKJEMA1B); Zinc, week 13+ of p
 | Category | n |
 | -------- | - |
 | 1 | 21431 |
+| Not NA | 21431 |
 | NA | 80322 |
 
 
@@ -17405,6 +18517,7 @@ S_4616_8:SKJEMA1E; (S_4616_8:SKJEMA1C); (S_4616_8:SKJEMA1B); Zinc , how often?; 
 | Daily + 1-3 times a week | 20 |
 | Daily + 4-6 times a week + 1-3 times a week | 17 |
 | 4-6 times per week | 20 |
+| Not NA | 27126 |
 | NA | 74627 |
 
 
@@ -17415,6 +18528,7 @@ S_4617_1:SKJEMA1E; (S_4617_1:SKJEMA1C); (S_4617_1:SKJEMA1B); (S_5511_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9200 |
+| Not NA | 9200 |
 | NA | 92553 |
 
 
@@ -17425,6 +18539,7 @@ S_4617_2:SKJEMA1E; (S_4617_2:SKJEMA1C); (S_4617_2:SKJEMA1B); (S_5511_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 8658 |
+| Not NA | 8658 |
 | NA | 93095 |
 
 
@@ -17435,6 +18550,7 @@ S_4617_3:SKJEMA1E; (S_4617_3:SKJEMA1C); (S_4617_3:SKJEMA1B); (S_5511_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9631 |
+| Not NA | 9631 |
 | NA | 92122 |
 
 
@@ -17445,6 +18561,7 @@ S_4617_4:SKJEMA1E; (S_4617_4:SKJEMA1C); (S_4617_4:SKJEMA1B); (S_5511_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 13499 |
+| Not NA | 13499 |
 | NA | 88254 |
 
 
@@ -17455,6 +18572,7 @@ S_4617_5:SKJEMA1E; (S_4617_5:SKJEMA1C); (S_4617_5:SKJEMA1B); (S_5511_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 17939 |
+| Not NA | 17939 |
 | NA | 83814 |
 
 
@@ -17465,6 +18583,7 @@ S_4617_6:SKJEMA1E; (S_4617_6:SKJEMA1C); (S_4617_6:SKJEMA1B); (S_5511_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 19128 |
+| Not NA | 19128 |
 | NA | 82625 |
 
 
@@ -17475,6 +18594,7 @@ S_4617_7:SKJEMA1E; (S_4617_7:SKJEMA1C); (S_4617_7:SKJEMA1B); (S_5511_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 20759 |
+| Not NA | 20759 |
 | NA | 80994 |
 
 
@@ -17491,6 +18611,7 @@ S_4617_8:SKJEMA1E; (S_4617_8:SKJEMA1C); (S_4617_8:SKJEMA1B); (S_5511_8:SKJEMA1A)
 | Daily + 4-6 times a week | 18 |
 | 4-6 times per week | 17 |
 | Daily + 4-6 times a week + 1-3 times a week | 15 |
+| Not NA | 26041 |
 | NA | 75712 |
 
 
@@ -17501,6 +18622,7 @@ S_4618_1:SKJEMA1E; (S_4618_1:SKJEMA1C); (S_4618_1:SKJEMA1B); Copper, 26-9 weeks 
 | Category | n |
 | -------- | - |
 | 1 | 8012 |
+| Not NA | 8012 |
 | NA | 93741 |
 
 
@@ -17511,6 +18633,7 @@ S_4618_2:SKJEMA1E; (S_4618_2:SKJEMA1C); (S_4618_2:SKJEMA1B); Copper, 8-5 weeks b
 | Category | n |
 | -------- | - |
 | 1 | 7524 |
+| Not NA | 7524 |
 | NA | 94229 |
 
 
@@ -17521,6 +18644,7 @@ S_4618_3:SKJEMA1E; (S_4618_3:SKJEMA1C); (S_4618_3:SKJEMA1B); Copper, 4-0 weeks b
 | Category | n |
 | -------- | - |
 | 1 | 8381 |
+| Not NA | 8381 |
 | NA | 93372 |
 
 
@@ -17531,6 +18655,7 @@ S_4618_4:SKJEMA1E; (S_4618_4:SKJEMA1C); (S_4618_4:SKJEMA1B); Copper, week 0-4 of
 | Category | n |
 | -------- | - |
 | 1 | 11725 |
+| Not NA | 11725 |
 | NA | 90028 |
 
 
@@ -17541,6 +18666,7 @@ S_4618_5:SKJEMA1E; (S_4618_5:SKJEMA1C); (S_4618_5:SKJEMA1B); Copper, week 5-8 of
 | Category | n |
 | -------- | - |
 | 1 | 15469 |
+| Not NA | 15469 |
 | NA | 86284 |
 
 
@@ -17551,6 +18677,7 @@ S_4618_6:SKJEMA1E; (S_4618_6:SKJEMA1C); (S_4618_6:SKJEMA1B); Copper, week 9-12 o
 | Category | n |
 | -------- | - |
 | 1 | 16549 |
+| Not NA | 16549 |
 | NA | 85204 |
 
 
@@ -17561,6 +18688,7 @@ S_4618_7:SKJEMA1E; (S_4618_7:SKJEMA1C); (S_4618_7:SKJEMA1B); Copper, week 13+ of
 | Category | n |
 | -------- | - |
 | 1 | 18325 |
+| Not NA | 18325 |
 | NA | 83428 |
 
 
@@ -17577,6 +18705,7 @@ S_4618_8:SKJEMA1E; (S_4618_8:SKJEMA1C); (S_4618_8:SKJEMA1B); Copper  , how often
 | Daily + 4-6 times a week | 10 |
 | Daily + 4-6 times a week + 1-3 times a week | 14 |
 | 4-6 times per week | 15 |
+| Not NA | 22744 |
 | NA | 79009 |
 
 
@@ -17587,6 +18716,7 @@ S_4619_1:SKJEMA1E; (S_4619_1:SKJEMA1C); (S_4619_1:SKJEMA1B); Chromium, 26-9 week
 | Category | n |
 | -------- | - |
 | 1 | 8922 |
+| Not NA | 8922 |
 | NA | 92831 |
 
 
@@ -17597,6 +18727,7 @@ S_4619_2:SKJEMA1E; (S_4619_2:SKJEMA1C); (S_4619_2:SKJEMA1B); Chromium, 8-5 weeks
 | Category | n |
 | -------- | - |
 | 1 | 8275 |
+| Not NA | 8275 |
 | NA | 93478 |
 
 
@@ -17607,6 +18738,7 @@ S_4619_3:SKJEMA1E; (S_4619_3:SKJEMA1C); (S_4619_3:SKJEMA1B); Chromium, 4-0 weeks
 | Category | n |
 | -------- | - |
 | 1 | 9106 |
+| Not NA | 9106 |
 | NA | 92647 |
 
 
@@ -17617,6 +18749,7 @@ S_4619_4:SKJEMA1E; (S_4619_4:SKJEMA1C); (S_4619_4:SKJEMA1B); Chromium, week 0-4 
 | Category | n |
 | -------- | - |
 | 1 | 12572 |
+| Not NA | 12572 |
 | NA | 89181 |
 
 
@@ -17627,6 +18760,7 @@ S_4619_5:SKJEMA1E; (S_4619_5:SKJEMA1C); (S_4619_5:SKJEMA1B); Chromium, week 5-8 
 | Category | n |
 | -------- | - |
 | 1 | 16230 |
+| Not NA | 16230 |
 | NA | 85523 |
 
 
@@ -17637,6 +18771,7 @@ S_4619_6:SKJEMA1E; (S_4619_6:SKJEMA1C); (S_4619_6:SKJEMA1B); Chromium, week 9-12
 | Category | n |
 | -------- | - |
 | 1 | 17301 |
+| Not NA | 17301 |
 | NA | 84452 |
 
 
@@ -17647,6 +18782,7 @@ S_4619_7:SKJEMA1E; (S_4619_7:SKJEMA1C); (S_4619_7:SKJEMA1B); Chromium, week 13+ 
 | Category | n |
 | -------- | - |
 | 1 | 19167 |
+| Not NA | 19167 |
 | NA | 82586 |
 
 
@@ -17663,6 +18799,7 @@ S_4619_8:SKJEMA1E; (S_4619_8:SKJEMA1C); (S_4619_8:SKJEMA1B); Chromium , how ofte
 | Daily + 4-6 times a week | 21 |
 | 4-6 times per week | 19 |
 | Daily + 4-6 times a week + 1-3 times a week | 16 |
+| Not NA | 24147 |
 | NA | 77606 |
 
 
@@ -17673,6 +18810,7 @@ S_4620_1:SKJEMA1E; (S_4620_1:SKJEMA1C); (S_4620_1:SKJEMA1B); Magnesium, 26-9 wee
 | Category | n |
 | -------- | - |
 | 1 | 7773 |
+| Not NA | 7773 |
 | NA | 93980 |
 
 
@@ -17683,6 +18821,7 @@ S_4620_2:SKJEMA1E; (S_4620_2:SKJEMA1C); (S_4620_2:SKJEMA1B); Magnesium, 8-5 week
 | Category | n |
 | -------- | - |
 | 1 | 7412 |
+| Not NA | 7412 |
 | NA | 94341 |
 
 
@@ -17693,6 +18832,7 @@ S_4620_3:SKJEMA1E; (S_4620_3:SKJEMA1C); (S_4620_3:SKJEMA1B); Magnesium, 4-0 week
 | Category | n |
 | -------- | - |
 | 1 | 8264 |
+| Not NA | 8264 |
 | NA | 93489 |
 
 
@@ -17703,6 +18843,7 @@ S_4620_4:SKJEMA1E; (S_4620_4:SKJEMA1C); (S_4620_4:SKJEMA1B); Magnesium, week 0-4
 | Category | n |
 | -------- | - |
 | 1 | 11730 |
+| Not NA | 11730 |
 | NA | 90023 |
 
 
@@ -17713,6 +18854,7 @@ S_4620_5:SKJEMA1E; (S_4620_5:SKJEMA1C); (S_4620_5:SKJEMA1B); Magnesium, week 5-8
 | Category | n |
 | -------- | - |
 | 1 | 15679 |
+| Not NA | 15679 |
 | NA | 86074 |
 
 
@@ -17723,6 +18865,7 @@ S_4620_6:SKJEMA1E; (S_4620_6:SKJEMA1C); (S_4620_6:SKJEMA1B); Magnesium, week 9-1
 | Category | n |
 | -------- | - |
 | 1 | 16808 |
+| Not NA | 16808 |
 | NA | 84945 |
 
 
@@ -17733,6 +18876,7 @@ S_4620_7:SKJEMA1E; (S_4620_7:SKJEMA1C); (S_4620_7:SKJEMA1B); Magnesium, week 13+
 | Category | n |
 | -------- | - |
 | 1 | 17971 |
+| Not NA | 17971 |
 | NA | 83782 |
 
 
@@ -17749,6 +18893,7 @@ S_4620_8:SKJEMA1E; (S_4620_8:SKJEMA1C); (S_4620_8:SKJEMA1B); Magnesium , how oft
 | Daily + 4-6 times a week | 19 |
 | Daily + 4-6 times a week + 1-3 times a week | 15 |
 | 4-6 times per week | 16 |
+| Not NA | 22804 |
 | NA | 78949 |
 
 
@@ -17759,6 +18904,7 @@ S_4621_1:SKJEMA1E; (S_4621_1:SKJEMA1C); (S_4621_1:SKJEMA1B); (S_55_9_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 12947 |
+| Not NA | 12947 |
 | NA | 88806 |
 
 
@@ -17769,6 +18915,7 @@ S_4621_2:SKJEMA1E; (S_4621_2:SKJEMA1C); (S_4621_2:SKJEMA1B); (S_55_9_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 10954 |
+| Not NA | 10954 |
 | NA | 90799 |
 
 
@@ -17779,6 +18926,7 @@ S_4621_3:SKJEMA1E; (S_4621_3:SKJEMA1C); (S_4621_3:SKJEMA1B); (S_55_9_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11722 |
+| Not NA | 11722 |
 | NA | 90031 |
 
 
@@ -17789,6 +18937,7 @@ S_4621_4:SKJEMA1E; (S_4621_4:SKJEMA1C); (S_4621_4:SKJEMA1B); (S_55_9_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 15567 |
+| Not NA | 15567 |
 | NA | 86186 |
 
 
@@ -17799,6 +18948,7 @@ S_4621_5:SKJEMA1E; (S_4621_5:SKJEMA1C); (S_4621_5:SKJEMA1B); (S_55_9_5:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 19069 |
+| Not NA | 19069 |
 | NA | 82684 |
 
 
@@ -17809,6 +18959,7 @@ S_4621_6:SKJEMA1E; (S_4621_6:SKJEMA1C); (S_4621_6:SKJEMA1B); (S_55_9_6:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 20642 |
+| Not NA | 20642 |
 | NA | 81111 |
 
 
@@ -17819,6 +18970,7 @@ S_4621_7:SKJEMA1E; (S_4621_7:SKJEMA1C); (S_4621_7:SKJEMA1B); (S_55_9_7:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 25089 |
+| Not NA | 25089 |
 | NA | 76664 |
 
 
@@ -17835,6 +18987,7 @@ S_4621_8:SKJEMA1E; (S_4621_8:SKJEMA1C); (S_4621_8:SKJEMA1B); (S_55_9_8:SKJEMA1A)
 | Daily + 4-6 times a week | 83 |
 | 4-6 times per week | 49 |
 | Daily + 4-6 times a week + 1-3 times a week | 18 |
+| Not NA | 30413 |
 | NA | 71340 |
 
 
@@ -17845,6 +18998,7 @@ S_4622_1:SKJEMA1E; (S_4622_1:SKJEMA1C); (S_4622_1:SKJEMA1B); Omega -3 fatty acid
 | Category | n |
 | -------- | - |
 | 1 | 15132 |
+| Not NA | 15132 |
 | NA | 86621 |
 
 
@@ -17855,6 +19009,7 @@ S_4622_2:SKJEMA1E; (S_4622_2:SKJEMA1C); (S_4622_2:SKJEMA1B); Omega -3 fatty acid
 | Category | n |
 | -------- | - |
 | 1 | 13826 |
+| Not NA | 13826 |
 | NA | 87927 |
 
 
@@ -17865,6 +19020,7 @@ S_4622_3:SKJEMA1E; (S_4622_3:SKJEMA1C); (S_4622_3:SKJEMA1B); Omega -3 fatty acid
 | Category | n |
 | -------- | - |
 | 1 | 15127 |
+| Not NA | 15127 |
 | NA | 86626 |
 
 
@@ -17875,6 +19031,7 @@ S_4622_4:SKJEMA1E; (S_4622_4:SKJEMA1C); (S_4622_4:SKJEMA1B); Omega -3 fatty acid
 | Category | n |
 | -------- | - |
 | 1 | 20801 |
+| Not NA | 20801 |
 | NA | 80952 |
 
 
@@ -17885,6 +19042,7 @@ S_4622_5:SKJEMA1E; (S_4622_5:SKJEMA1C); (S_4622_5:SKJEMA1B); Omega -3 fatty acid
 | Category | n |
 | -------- | - |
 | 1 | 26643 |
+| Not NA | 26643 |
 | NA | 75110 |
 
 
@@ -17895,6 +19053,7 @@ S_4622_6:SKJEMA1E; (S_4622_6:SKJEMA1C); (S_4622_6:SKJEMA1B); Omega -3 fatty acid
 | Category | n |
 | -------- | - |
 | 1 | 29108 |
+| Not NA | 29108 |
 | NA | 72645 |
 
 
@@ -17905,6 +19064,7 @@ S_4622_7:SKJEMA1E; (S_4622_7:SKJEMA1C); (S_4622_7:SKJEMA1B); Omega -3 fatty acid
 | Category | n |
 | -------- | - |
 | 1 | 34106 |
+| Not NA | 34106 |
 | NA | 67647 |
 
 
@@ -17921,6 +19081,7 @@ S_4622_8:SKJEMA1E; (S_4622_8:SKJEMA1C); (S_4622_8:SKJEMA1B); Omega -3 fatty acid
 | Daily + 1-3 times a week | 43 |
 | Daily + 4-6 times a week | 88 |
 | 4-6 times per week | 39 |
+| Not NA | 40042 |
 | NA | 61711 |
 
 
@@ -17934,6 +19095,7 @@ S_48:SKJEMA1E; (S_48:SKJEMA1C); (S_48:SKJEMA1B); ; 48. If you use multivitamins 
 | Do not know | 2999 |
 | No | 7628 |
 | More than 1 check box filled in | 31 |
+| Not NA | 44044 |
 | NA | 57709 |
 
 
@@ -17944,6 +19106,7 @@ S_5513_1:SKJEMA1A; Fluorine; When did you use the supplements?; Before your mens
 | Category | n |
 | -------- | - |
 | 1 | 78 |
+| Not NA | 78 |
 | NA | 101675 |
 
 
@@ -17954,6 +19117,7 @@ S_5513_2:SKJEMA1A; Fluorine; When did you use the supplements?; Before your mens
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 101726 |
 
 
@@ -17964,6 +19128,7 @@ S_5513_3:SKJEMA1A; Fluorine; When did you use the supplements?; Before your mens
 | Category | n |
 | -------- | - |
 | 1 | 35 |
+| Not NA | 35 |
 | NA | 101718 |
 
 
@@ -17974,6 +19139,7 @@ S_5513_4:SKJEMA1A; Fluorine; When did you use the supplements?; After your menst
 | Category | n |
 | -------- | - |
 | 1 | 45 |
+| Not NA | 45 |
 | NA | 101708 |
 
 
@@ -17984,6 +19150,7 @@ S_5513_5:SKJEMA1A; Fluorine; When did you use the supplements?; After your menst
 | Category | n |
 | -------- | - |
 | 1 | 42 |
+| Not NA | 42 |
 | NA | 101711 |
 
 
@@ -17994,6 +19161,7 @@ S_5513_6:SKJEMA1A; Fluorine; When did you use the supplements?; After your menst
 | Category | n |
 | -------- | - |
 | 1 | 47 |
+| Not NA | 47 |
 | NA | 101706 |
 
 
@@ -18004,6 +19172,7 @@ S_5513_7:SKJEMA1A; Fluorine; When did you use the supplements?; After your menst
 | Category | n |
 | -------- | - |
 | 1 | 83 |
+| Not NA | 83 |
 | NA | 101670 |
 
 
@@ -18016,6 +19185,7 @@ S_5513_8:SKJEMA1A; Fluorine; How often did you take this?; 55. Fill in the vitam
 | Every day | 83 |
 | 1-3 times a week | 23 |
 | 4-6 times a week | 21 |
+| Not NA | 127 |
 | NA | 101626 |
 
 
@@ -18032,6 +19202,7 @@ S_49:SKJEMA1E; (S_49:SKJEMA1C); (S_49:SKJEMA1B); (S_57:SKJEMA1A); ; 49. What is 
 | Divorced/separated | 302 |
 | Other | 1011 |
 | Widow | 12 |
+| Not NA | 101402 |
 | NA | 351 |
 
 
@@ -18047,6 +19218,7 @@ S_50_1:SKJEMA1E; (S_50_1:SKJEMA1C); (S_50_1:SKJEMA1B); (S_58_1:SKJEMA1A); Educat
 | Higher education (university/college), over 4 years | 22572 |
 | Further education - vocational | 12573 |
 | 9-year elementary education | 2749 |
+| Not NA | 96536 |
 | NA | 5217 |
 
 
@@ -18062,6 +19234,7 @@ S_50_2:SKJEMA1E; (S_50_2:SKJEMA1C); (S_50_2:SKJEMA1B); (S_58_2:SKJEMA1A); Your o
 | Further education - vocational | 796 |
 | Further education 1-2 years | 311 |
 | 9-year elementary education | 42 |
+| Not NA | 8757 |
 | NA | 92996 |
 
 
@@ -18077,6 +19250,7 @@ S_50_3:SKJEMA1E; (S_50_3:SKJEMA1C); (S_50_3:SKJEMA1B); (S_58_3:SKJEMA1A); Educat
 | Further education - vocational | 23960 |
 | Further education 1-2 years | 5556 |
 | 9-year elementary education | 4626 |
+| Not NA | 92495 |
 | NA | 9258 |
 
 
@@ -18092,6 +19266,7 @@ S_50_4:SKJEMA1E; (S_50_4:SKJEMA1C); (S_50_4:SKJEMA1B); (S_58_4:SKJEMA1A); On-goi
 | Further education 1-2 years | 123 |
 | Further education 3 years - (general studies, sixth form) | 269 |
 | 9-year elementary education | 25 |
+| Not NA | 5959 |
 | NA | 95794 |
 
 
@@ -18102,6 +19277,7 @@ S_50_5:SKJEMA1E; (S_50_5:SKJEMA1C); (S_50_5:SKJEMA1B); (S_58_5:SKJEMA1A); Other 
 | Category | n |
 | -------- | - |
 | 1 | 6539 |
+| Not NA | 6539 |
 | NA | 95214 |
 
 
@@ -18112,6 +19288,7 @@ S_50_6:SKJEMA1E; (S_50_6:SKJEMA1C); (S_50_6:SKJEMA1B); (S_58_6:SKJEMA1A); Other 
 | Category | n |
 | -------- | - |
 | 1 | 1741 |
+| Not NA | 1741 |
 | NA | 100012 |
 
 
@@ -18122,6 +19299,7 @@ S_50_7:SKJEMA1E; (S_50_7:SKJEMA1C); (S_50_7:SKJEMA1B); (S_58_7:SKJEMA1A); Other 
 | Category | n |
 | -------- | - |
 | 1 | 7557 |
+| Not NA | 7557 |
 | NA | 94196 |
 
 
@@ -18132,6 +19310,7 @@ S_50_8:SKJEMA1E; (S_50_8:SKJEMA1C); (S_50_8:SKJEMA1B); (S_58_8:SKJEMA1A); Other 
 | Category | n |
 | -------- | - |
 | 1 | 1562 |
+| Not NA | 1562 |
 | NA | 100191 |
 
 
@@ -18142,6 +19321,7 @@ S_51_1_1:SKJEMA1E; (S_51_1_1:SKJEMA1C); (S_51_1_1:SKJEMA1B); (S_59_1_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9596 |
+| Not NA | 9596 |
 | NA | 92157 |
 
 
@@ -18152,6 +19332,7 @@ S_51_1_2:SKJEMA1E; (S_51_1_2:SKJEMA1C); (S_51_1_2:SKJEMA1B); (S_59_1_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5032 |
+| Not NA | 5032 |
 | NA | 96721 |
 
 
@@ -18162,6 +19343,7 @@ S_51_2_1:SKJEMA1E; (S_51_2_1:SKJEMA1C); (S_51_2_1:SKJEMA1B); (S_59_2_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 6233 |
+| Not NA | 6233 |
 | NA | 95520 |
 
 
@@ -18172,6 +19354,7 @@ S_51_2_2:SKJEMA1E; (S_51_2_2:SKJEMA1C); (S_51_2_2:SKJEMA1B); (S_59_2_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 555 |
+| Not NA | 555 |
 | NA | 101198 |
 
 
@@ -18182,6 +19365,7 @@ S_51_3_1:SKJEMA1E; (S_51_3_1:SKJEMA1C); (S_51_3_1:SKJEMA1B); (S_59_3_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1085 |
+| Not NA | 1085 |
 | NA | 100668 |
 
 
@@ -18192,6 +19376,7 @@ S_51_3_2:SKJEMA1E; (S_51_3_2:SKJEMA1C); (S_51_3_2:SKJEMA1B); (S_59_3_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1032 |
+| Not NA | 1032 |
 | NA | 100721 |
 
 
@@ -18202,6 +19387,7 @@ S_51_4_1:SKJEMA1E; (S_51_4_1:SKJEMA1C); (S_51_4_1:SKJEMA1B); (S_59_4_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 101719 |
 
 
@@ -18212,6 +19398,7 @@ S_51_4_2:SKJEMA1E; (S_51_4_2:SKJEMA1C); (S_51_4_2:SKJEMA1B); (S_59_4_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 244 |
+| Not NA | 244 |
 | NA | 101509 |
 
 
@@ -18222,6 +19409,7 @@ S_51_5_1:SKJEMA1E; (S_51_5_1:SKJEMA1C); (S_51_5_1:SKJEMA1B); (S_59_5_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2505 |
+| Not NA | 2505 |
 | NA | 99248 |
 
 
@@ -18232,6 +19420,7 @@ S_51_5_2:SKJEMA1E; (S_51_5_2:SKJEMA1C); (S_51_5_2:SKJEMA1B); (S_59_5_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1774 |
+| Not NA | 1774 |
 | NA | 99979 |
 
 
@@ -18246,6 +19435,7 @@ S_63_1:SKJEMA1A; ; 63. If yes, what caused the absence?
 | Sick leave | 413 |
 | Sick child | 6 |
 | Other | 88 |
+| Not NA | 578 |
 | NA | 101175 |
 
 
@@ -18256,6 +19446,7 @@ S_51_6_1:SKJEMA1E; (S_51_6_1:SKJEMA1C); (S_51_6_1:SKJEMA1B); (S_59_6_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1678 |
+| Not NA | 1678 |
 | NA | 100075 |
 
 
@@ -18266,6 +19457,7 @@ S_51_6_2:SKJEMA1E; (S_51_6_2:SKJEMA1C); (S_51_6_2:SKJEMA1B); (S_59_6_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1230 |
+| Not NA | 1230 |
 | NA | 100523 |
 
 
@@ -18276,6 +19468,7 @@ S_51_7_1:SKJEMA1E; (S_51_7_1:SKJEMA1C); (S_51_7_1:SKJEMA1B); (S_59_7_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 45143 |
+| Not NA | 45143 |
 | NA | 56610 |
 
 
@@ -18286,6 +19479,7 @@ S_51_7_2:SKJEMA1E; (S_51_7_2:SKJEMA1C); (S_51_7_2:SKJEMA1B); (S_59_7_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 22837 |
+| Not NA | 22837 |
 | NA | 78916 |
 
 
@@ -18296,6 +19490,7 @@ S_51_8_1:SKJEMA1E; (S_51_8_1:SKJEMA1C); (S_51_8_1:SKJEMA1B); (S_59_8_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 37519 |
+| Not NA | 37519 |
 | NA | 64234 |
 
 
@@ -18306,6 +19501,7 @@ S_51_8_2:SKJEMA1E; (S_51_8_2:SKJEMA1C); (S_51_8_2:SKJEMA1B); (S_59_8_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 60197 |
+| Not NA | 60197 |
 | NA | 41556 |
 
 
@@ -18316,6 +19512,7 @@ S_51_9_1:SKJEMA1E; (S_51_9_1:SKJEMA1C); (S_51_9_1:SKJEMA1B); (S_59_9_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4035 |
+| Not NA | 4035 |
 | NA | 97718 |
 
 
@@ -18326,6 +19523,7 @@ S_51_9_2:SKJEMA1E; (S_51_9_2:SKJEMA1C); (S_51_9_2:SKJEMA1B); (S_59_9_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 11079 |
+| Not NA | 11079 |
 | NA | 90674 |
 
 
@@ -18336,6 +19534,7 @@ S_5110_1:SKJEMA1E; (S_5110_1:SKJEMA1C); (S_5110_1:SKJEMA1B); (S_5910_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 524 |
+| Not NA | 524 |
 | NA | 101229 |
 
 
@@ -18346,6 +19545,7 @@ S_5110_2:SKJEMA1E; (S_5110_2:SKJEMA1C); (S_5110_2:SKJEMA1B); (S_5910_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 611 |
+| Not NA | 611 |
 | NA | 101142 |
 
 
@@ -18356,6 +19556,7 @@ S_5111_1:SKJEMA1E; (S_5111_1:SKJEMA1C); (S_5111_1:SKJEMA1B); (S_5911_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2494 |
+| Not NA | 2494 |
 | NA | 99259 |
 
 
@@ -18366,6 +19567,7 @@ S_5111_2:SKJEMA1E; (S_5111_2:SKJEMA1C); (S_5111_2:SKJEMA1B); (S_5911_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1293 |
+| Not NA | 1293 |
 | NA | 100460 |
 
 
@@ -18378,6 +19580,7 @@ S_52_1:SKJEMA1E; (S_52_1:SKJEMA1C); (S_52_1:SKJEMA1B); (S_60_1:SKJEMA1A); ; 52. 
 | No | 84211 |
 | Yes | 14702 |
 | More than 1 check box filled in | 9 |
+| Not NA | 98922 |
 | NA | 2831 |
 
 
@@ -18390,6 +19593,7 @@ S_53:SKJEMA1E; (S_53:SKJEMA1C); (S_53:SKJEMA1B); (S_61:SKJEMA1A); ; 53. Have you
 | Yes | 27927 |
 | No | 69619 |
 | More than 1 check box filled in | 15 |
+| Not NA | 97561 |
 | NA | 4192 |
 
 
@@ -18402,6 +19606,7 @@ S_54:SKJEMA1E; (S_54:SKJEMA1C); (S_54:SKJEMA1B); (S_62:SKJEMA1A); ; 54. Are you 
 | Yes | 22055 |
 | No | 75114 |
 | More than 1 check box filled in | 187 |
+| Not NA | 97356 |
 | NA | 4397 |
 
 
@@ -18412,6 +19617,7 @@ S_55_1:SKJEMA1E; (S_55_1:SKJEMA1C); (S_55_1:SKJEMA1B); (S_63_1:SKJEMA1A); Medica
 | Category | n |
 | -------- | - |
 | 1 | 20688 |
+| Not NA | 20688 |
 | NA | 81065 |
 
 
@@ -18422,6 +19628,7 @@ S_55_2:SKJEMA1E; (S_55_2:SKJEMA1C); (S_55_2:SKJEMA1B); (S_63_2:SKJEMA1A); Leave 
 | Category | n |
 | -------- | - |
 | 1 | 1982 |
+| Not NA | 1982 |
 | NA | 99771 |
 
 
@@ -18432,6 +19639,7 @@ S_55_3:SKJEMA1E; (S_55_3:SKJEMA1C); (S_55_3:SKJEMA1B); (S_63_3:SKJEMA1A); Sick c
 | Category | n |
 | -------- | - |
 | 1 | 653 |
+| Not NA | 653 |
 | NA | 101100 |
 
 
@@ -18442,6 +19650,7 @@ S_55_4_1:SKJEMA1E; (S_55_4_1:SKJEMA1C); (S_55_4_1:SKJEMA1B); (S_63_4_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 4596 |
+| Not NA | 4596 |
 | NA | 97157 |
 
 
@@ -18458,6 +19667,7 @@ S_56_1:SKJEMA1E; (S_56_1:SKJEMA1C); (S_56_1:SKJEMA1B); (S_64_1:SKJEMA1A); Before
 | 3rd Qu. | 37.5 |
 | Max. | 99.9 |
 | NA's | 11168 |
+| Not NA | 90585 |
 
 
 ### AA1167
@@ -18473,6 +19683,7 @@ S_56_2:SKJEMA1E; (S_56_2:SKJEMA1C); (S_56_2:SKJEMA1B); (S_64_2:SKJEMA1A); During
 | 3rd Qu. | 37.5 |
 | Max. | 99.9 |
 | NA's | 12967 |
+| Not NA | 88786 |
 
 
 ### AA1172
@@ -18492,6 +19703,7 @@ S_59_1:SKJEMA1E; (S_59_1:SKJEMA1C); (S_59_1:SKJEMA1B); (S_67_1:SKJEMA1A); Do you
 | (2+4) | 6 |
 | (1+2) | 10 |
 | More than 1 check box filled in | 2 |
+| Not NA | 92809 |
 | NA | 8944 |
 
 
@@ -18512,6 +19724,7 @@ S_59_2:SKJEMA1E; (S_59_2:SKJEMA1C); (S_59_2:SKJEMA1B); (S_67_2:SKJEMA1A); Do you
 | (3+4) | 11 |
 | (1+3) | 30 |
 | More than 1 check box filled in | 1 |
+| Not NA | 92846 |
 | NA | 8907 |
 
 
@@ -18531,6 +19744,7 @@ S_59_3:SKJEMA1E; (S_59_3:SKJEMA1C); (S_59_3:SKJEMA1B); (S_67_3:SKJEMA1A); Do you
 | (1+3) | 23 |
 | (2+3) | 19 |
 | (1+2) | 17 |
+| Not NA | 91906 |
 | NA | 9847 |
 
 
@@ -18551,6 +19765,7 @@ S_59_4:SKJEMA1E; (S_59_4:SKJEMA1C); (S_59_4:SKJEMA1B); (S_67_4:SKJEMA1A); Do you
 | (2+4) | 58 |
 | (2+3) | 16 |
 | More than 1 check box filled in | 3 |
+| Not NA | 91918 |
 | NA | 9835 |
 
 
@@ -18572,6 +19787,7 @@ S_59_5:SKJEMA1E; (S_59_5:SKJEMA1C); (S_59_5:SKJEMA1B); (S_67_5:SKJEMA1A); Can yo
 | (1+2) | 4 |
 | More than 1 check box filled in | 4 |
 | 5 | 1 |
+| Not NA | 92195 |
 | NA | 9558 |
 
 
@@ -18591,6 +19807,7 @@ S_59_6:SKJEMA1E; (S_59_6:SKJEMA1C); (S_59_6:SKJEMA1B); (S_67_6:SKJEMA1A); Are yo
 | (2+3) | 11 |
 | (1+2) | 3 |
 | (2+4) | 6 |
+| Not NA | 91227 |
 | NA | 10526 |
 
 
@@ -18608,6 +19825,7 @@ S_59_7:SKJEMA1E; (S_59_7:SKJEMA1C); (S_59_7:SKJEMA1B); (S_67_7:SKJEMA1A); Are yo
 | (3+4) | 12 |
 | (2+3) | 6 |
 | (1+3) | 1 |
+| Not NA | 92370 |
 | NA | 9383 |
 
 
@@ -18626,6 +19844,7 @@ S_60_1:SKJEMA1E; (S_60_1:SKJEMA1C); (S_60_1:SKJEMA1B); (S_68_1:SKJEMA1A); I have
 | (1+3) | 3 |
 | (1+2) | 8 |
 | (3+4) | 5 |
+| Not NA | 92454 |
 | NA | 9299 |
 
 
@@ -18645,6 +19864,7 @@ S_60_2:SKJEMA1E; (S_60_2:SKJEMA1C); (S_60_2:SKJEMA1B); (S_68_2:SKJEMA1A); My wor
 | (1+3) | 4 |
 | (3+4) | 2 |
 | (2+4) | 1 |
+| Not NA | 92786 |
 | NA | 8967 |
 
 
@@ -18665,6 +19885,7 @@ S_60_3:SKJEMA1E; (S_60_3:SKJEMA1C); (S_60_3:SKJEMA1B); (S_68_3:SKJEMA1A); I lear
 | (1+2) | 10 |
 | (3+4) | 2 |
 | More than 1 check box filled in | 1 |
+| Not NA | 92913 |
 | NA | 8840 |
 
 
@@ -18684,6 +19905,7 @@ S_60_4:SKJEMA1E; (S_60_4:SKJEMA1C); (S_60_4:SKJEMA1B); (S_68_4:SKJEMA1A); My wor
 | (1+4) | 8 |
 | (2+4) | 2 |
 | (1+2) | 10 |
+| Not NA | 92778 |
 | NA | 8975 |
 
 
@@ -18703,6 +19925,7 @@ S_60_5:SKJEMA1E; (S_60_5:SKJEMA1C); (S_60_5:SKJEMA1B); (S_68_5:SKJEMA1A); My wor
 | (2+4) | 4 |
 | (1+4) | 11 |
 | (3+4) | 1 |
+| Not NA | 92741 |
 | NA | 9012 |
 
 
@@ -18722,6 +19945,7 @@ S_60_6:SKJEMA1E; (S_60_6:SKJEMA1C); (S_60_6:SKJEMA1B); (S_68_6:SKJEMA1A); I am a
 | (2+4) | 4 |
 | (3+4) | 9 |
 | (1+4) | 2 |
+| Not NA | 92942 |
 | NA | 8811 |
 
 
@@ -18741,6 +19965,7 @@ S_60_7:SKJEMA1E; (S_60_7:SKJEMA1C); (S_60_7:SKJEMA1B); (S_68_7:SKJEMA1A); There 
 | (1+2) | 11 |
 | (3+4) | 1 |
 | (1+4) | 2 |
+| Not NA | 92777 |
 | NA | 8976 |
 
 
@@ -18760,6 +19985,7 @@ S_60_8:SKJEMA1E; (S_60_8:SKJEMA1C); (S_60_8:SKJEMA1B); (S_68_8:SKJEMA1A); I enjo
 | (1+3) | 1 |
 | More than 1 check box filled in | 1 |
 | (1+4) | 1 |
+| Not NA | 93327 |
 | NA | 8426 |
 
 
@@ -18770,6 +19996,7 @@ S_61_1:SKJEMA1E; (S_61_1:SKJEMA1C); (S_61_1:SKJEMA1B); (S_69_1:SKJEMA1A); Perman
 | Category | n |
 | -------- | - |
 | 1 | 62849 |
+| Not NA | 62849 |
 | NA | 38904 |
 
 
@@ -18780,6 +20007,7 @@ S_61_2:SKJEMA1E; (S_61_2:SKJEMA1C); (S_61_2:SKJEMA1B); (S_69_2:SKJEMA1A); Perman
 | Category | n |
 | -------- | - |
 | 1 | 6008 |
+| Not NA | 6008 |
 | NA | 95745 |
 
 
@@ -18790,6 +20018,7 @@ S_61_3:SKJEMA1E; (S_61_3:SKJEMA1C); (S_61_3:SKJEMA1B); (S_69_3:SKJEMA1A); Perman
 | Category | n |
 | -------- | - |
 | 1 | 2240 |
+| Not NA | 2240 |
 | NA | 99513 |
 
 
@@ -18800,6 +20029,7 @@ S_61_4:SKJEMA1E; (S_61_4:SKJEMA1C); (S_61_4:SKJEMA1B); (S_69_4:SKJEMA1A); Shift 
 | Category | n |
 | -------- | - |
 | 1 | 19105 |
+| Not NA | 19105 |
 | NA | 82648 |
 
 
@@ -18810,6 +20040,7 @@ S_61_5:SKJEMA1E; (S_61_5:SKJEMA1C); (S_61_5:SKJEMA1B); (S_69_5:SKJEMA1A); No set
 | Category | n |
 | -------- | - |
 | 1 | 6794 |
+| Not NA | 6794 |
 | NA | 94959 |
 
 
@@ -18820,6 +20051,7 @@ S_61_6:SKJEMA1E; (S_61_6:SKJEMA1C); (S_61_6:SKJEMA1B); (S_69_6:SKJEMA1A); Other;
 | Category | n |
 | -------- | - |
 | 1 | 5176 |
+| Not NA | 5176 |
 | NA | 96577 |
 
 
@@ -18834,6 +20066,7 @@ S_62_1:SKJEMA1E; (S_62_1:SKJEMA1C); (S_62_1:SKJEMA1B); At home; 62. During your 
 | Seldom or never | 41394 |
 | Yes, more than 20 times a week | 13306 |
 | Yes, more than 20 times a day | 3848 |
+| Not NA | 93861 |
 | NA | 7892 |
 
 
@@ -18848,6 +20081,7 @@ S_62_2:SKJEMA1E; (S_62_2:SKJEMA1C); (S_62_2:SKJEMA1B); At work; 62. During your 
 | Yes, more than 20 times a week | 6875 |
 | Yes, 10-20 times a day | 3591 |
 | Yes, more than 20 times a day | 1474 |
+| Not NA | 80078 |
 | NA | 21675 |
 
 
@@ -18863,6 +20097,7 @@ S_70_1:SKJEMA1A; At home; 70. During your pregnancy do you lift anything that we
 | Yes, more than 20 times a day | 146 |
 | Yes, more than 20 times a week | 288 |
 | More than 1 check box filled in | 16 |
+| Not NA | 2353 |
 | NA | 99400 |
 
 
@@ -18878,6 +20113,7 @@ S_70_2:SKJEMA1A; At work; 70. During your pregnancy do you lift anything that we
 | Yes, 10 to 20 times a day | 139 |
 | More than 1 check box filled in | 3 |
 | Yes, more than 20 times a day | 60 |
+| Not NA | 1879 |
 | NA | 99874 |
 
 
@@ -18891,6 +20127,7 @@ S_63:SKJEMA1E; (S_63:SKJEMA1C); (S_63:SKJEMA1B); (S_71:SKJEMA1A); ; 63. How ofte
 | Few times per week | 845 |
 | Daily | 501 |
 | On average more than 1 hour per day | 185 |
+| Not NA | 98940 |
 | NA | 2813 |
 
 
@@ -18904,6 +20141,7 @@ S_64:SKJEMA1E; (S_64:SKJEMA1C); (S_64:SKJEMA1B); (S_72:SKJEMA1A); ; 64. How ofte
 | On average more than 1 hour per day | 4786 |
 | Daily | 48337 |
 | Seldom or never | 10022 |
+| Not NA | 100964 |
 | NA | 789 |
 
 
@@ -18917,6 +20155,7 @@ S_65:SKJEMA1E; (S_65:SKJEMA1C); (S_65:SKJEMA1B); (S_73:SKJEMA1A); ; 65. Do your 
 | Often | 11838 |
 | Never | 34409 |
 | More than 1 check box filled in | 53 |
+| Not NA | 100052 |
 | NA | 1701 |
 
 
@@ -18930,6 +20169,7 @@ S_66_1:SKJEMA1E; (S_66_1:SKJEMA1C); (S_66_1:SKJEMA1B); Computer monitor; 66. How
 | Daily | 27777 |
 | On average more than 1 hour per day | 31926 |
 | Few times per week | 23451 |
+| Not NA | 97364 |
 | NA | 4389 |
 
 
@@ -18943,6 +20183,7 @@ S_66_2:SKJEMA1E; (S_66_2:SKJEMA1C); (S_66_2:SKJEMA1B); Laser printer; 66. How of
 | Daily | 8923 |
 | Few times per week | 10381 |
 | On average more than 1 hour per day | 3659 |
+| Not NA | 69354 |
 | NA | 32399 |
 
 
@@ -18956,6 +20197,7 @@ S_66_3:SKJEMA1E; (S_66_3:SKJEMA1C); (S_66_3:SKJEMA1B); Copying machine; 66. How 
 | Daily | 13974 |
 | Few times per week | 23221 |
 | On average more than 1 hour per day | 2205 |
+| Not NA | 78187 |
 | NA | 23566 |
 
 
@@ -18969,6 +20211,7 @@ S_67:SKJEMA1E; (S_67:SKJEMA1C); (S_67:SKJEMA1B); (S_75:SKJEMA1A); ; 67. How ofte
 | Few times per week | 641 |
 | On average more than 1 hour per day | 205 |
 | Daily | 368 |
+| Not NA | 97880 |
 | NA | 3873 |
 
 
@@ -18982,6 +20225,7 @@ S_74:SKJEMA1A; ; 74. How often do you worked with a computer monitor, laser prin
 | Never | 619 |
 | Daily | 586 |
 | On average more than 1 hour per day | 483 |
+| Not NA | 2529 |
 | NA | 99224 |
 
 
@@ -18994,6 +20238,7 @@ S_68_1_1:SKJEMA1E; (S_68_1_1:SKJEMA1C); (S_68_1_1:SKJEMA1B); (S_79_1_1:SKJEMA1A)
 | No | 92714 |
 | Yes | 720 |
 | More than 1 check box filled in | 1 |
+| Not NA | 93435 |
 | NA | 8318 |
 
 
@@ -19010,6 +20255,7 @@ S_68_1_2:SKJEMA1E; (S_68_1_2:SKJEMA1C); (S_68_1_2:SKJEMA1B); (S_79_1_2:SKJEMA1A)
 | 3rd Qu. | 66 |
 | Max. | 180 |
 | NA's | 101110 |
+| Not NA | 643 |
 
 
 ### AA1204
@@ -19019,6 +20265,7 @@ S_68_1_3:SKJEMA1E; (S_68_1_3:SKJEMA1C); (S_68_1_3:SKJEMA1B); (S_79_1_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 154 |
+| Not NA | 154 |
 | NA | 101599 |
 
 
@@ -19029,6 +20276,7 @@ S_68_1_4:SKJEMA1E; (S_68_1_4:SKJEMA1C); (S_68_1_4:SKJEMA1B); (S_79_1_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 219 |
+| Not NA | 219 |
 | NA | 101534 |
 
 
@@ -19040,6 +20288,7 @@ S_68_2_1:SKJEMA1E; (S_68_2_1:SKJEMA1C); (S_68_2_1:SKJEMA1B); (S_79_2_1:SKJEMA1A)
 | -------- | - |
 | No | 92907 |
 | Yes | 309 |
+| Not NA | 93216 |
 | NA | 8537 |
 
 
@@ -19056,6 +20305,7 @@ S_68_2_2:SKJEMA1E; (S_68_2_2:SKJEMA1C); (S_68_2_2:SKJEMA1B); (S_79_2_2:SKJEMA1A)
 | 3rd Qu. | 33.5 |
 | Max. | 180 |
 | NA's | 101498 |
+| Not NA | 255 |
 
 
 ### AA1208
@@ -19065,6 +20315,7 @@ S_68_2_3:SKJEMA1E; (S_68_2_3:SKJEMA1C); (S_68_2_3:SKJEMA1B); (S_79_2_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 113 |
+| Not NA | 113 |
 | NA | 101640 |
 
 
@@ -19075,6 +20326,7 @@ S_68_2_4:SKJEMA1E; (S_68_2_4:SKJEMA1C); (S_68_2_4:SKJEMA1B); (S_79_2_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 153 |
+| Not NA | 153 |
 | NA | 101600 |
 
 
@@ -19087,6 +20339,7 @@ S_68_3_1:SKJEMA1E; (S_68_3_1:SKJEMA1C); (S_68_3_1:SKJEMA1B); (S_79_3_1:SKJEMA1A)
 | No | 89764 |
 | Yes | 3399 |
 | More than 1 check box filled in | 8 |
+| Not NA | 93171 |
 | NA | 8582 |
 
 
@@ -19103,6 +20356,7 @@ S_68_3_2:SKJEMA1E; (S_68_3_2:SKJEMA1C); (S_68_3_2:SKJEMA1B); (S_79_3_2:SKJEMA1A)
 | 3rd Qu. | 160 |
 | Max. | 350 |
 | NA's | 98917 |
+| Not NA | 2836 |
 
 
 ### AA1212
@@ -19112,6 +20366,7 @@ S_68_3_3:SKJEMA1E; (S_68_3_3:SKJEMA1C); (S_68_3_3:SKJEMA1B); (S_79_3_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 81 |
+| Not NA | 81 |
 | NA | 101672 |
 
 
@@ -19122,6 +20377,7 @@ S_68_3_4:SKJEMA1E; (S_68_3_4:SKJEMA1C); (S_68_3_4:SKJEMA1B); (S_79_3_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 199 |
+| Not NA | 199 |
 | NA | 101554 |
 
 
@@ -19134,6 +20390,7 @@ S_68_4_1:SKJEMA1E; (S_68_4_1:SKJEMA1C); (S_68_4_1:SKJEMA1B); (S_79_4_1:SKJEMA1A)
 | No | 92552 |
 | Yes | 629 |
 | More than 1 check box filled in | 2 |
+| Not NA | 93183 |
 | NA | 8570 |
 
 
@@ -19150,6 +20407,7 @@ S_68_4_2:SKJEMA1E; (S_68_4_2:SKJEMA1C); (S_68_4_2:SKJEMA1B); (S_79_4_2:SKJEMA1A)
 | 3rd Qu. | 120 |
 | Max. | 180 |
 | NA's | 101184 |
+| Not NA | 569 |
 
 
 ### AA1216
@@ -19159,6 +20417,7 @@ S_68_4_3:SKJEMA1E; (S_68_4_3:SKJEMA1C); (S_68_4_3:SKJEMA1B); (S_79_4_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 230 |
+| Not NA | 230 |
 | NA | 101523 |
 
 
@@ -19169,6 +20428,7 @@ S_68_4_4:SKJEMA1E; (S_68_4_4:SKJEMA1C); (S_68_4_4:SKJEMA1B); (S_79_4_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 487 |
+| Not NA | 487 |
 | NA | 101266 |
 
 
@@ -19181,6 +20441,7 @@ S_68_5_1:SKJEMA1E; (S_68_5_1:SKJEMA1C); (S_68_5_1:SKJEMA1B); (S_79_5_1:SKJEMA1A)
 | No | 83195 |
 | Yes | 10013 |
 | More than 1 check box filled in | 7 |
+| Not NA | 93215 |
 | NA | 8538 |
 
 
@@ -19197,6 +20458,7 @@ S_68_5_2:SKJEMA1E; (S_68_5_2:SKJEMA1C); (S_68_5_2:SKJEMA1B); (S_79_5_2:SKJEMA1A)
 | 3rd Qu. | 90 |
 | Max. | 360 |
 | NA's | 92599 |
+| Not NA | 9154 |
 
 
 ### AA1220
@@ -19206,6 +20468,7 @@ S_68_5_3:SKJEMA1E; (S_68_5_3:SKJEMA1C); (S_68_5_3:SKJEMA1B); (S_79_5_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 621 |
+| Not NA | 621 |
 | NA | 101132 |
 
 
@@ -19216,6 +20479,7 @@ S_68_5_4:SKJEMA1E; (S_68_5_4:SKJEMA1C); (S_68_5_4:SKJEMA1B); (S_79_5_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3366 |
+| Not NA | 3366 |
 | NA | 98387 |
 
 
@@ -19228,6 +20492,7 @@ S_68_6_1:SKJEMA1E; (S_68_6_1:SKJEMA1C); (S_68_6_1:SKJEMA1B); (S_79_6_1:SKJEMA1A)
 | No | 88466 |
 | Yes | 4234 |
 | More than 1 check box filled in | 3 |
+| Not NA | 92703 |
 | NA | 9050 |
 
 
@@ -19244,6 +20509,7 @@ S_68_6_2:SKJEMA1E; (S_68_6_2:SKJEMA1C); (S_68_6_2:SKJEMA1B); (S_79_6_2:SKJEMA1A)
 | 3rd Qu. | 3 |
 | Max. | 180 |
 | NA's | 97733 |
+| Not NA | 4020 |
 
 
 ### AA1224
@@ -19253,6 +20519,7 @@ S_68_6_3:SKJEMA1E; (S_68_6_3:SKJEMA1C); (S_68_6_3:SKJEMA1B); (S_79_6_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 263 |
+| Not NA | 263 |
 | NA | 101490 |
 
 
@@ -19263,6 +20530,7 @@ S_68_6_4:SKJEMA1E; (S_68_6_4:SKJEMA1C); (S_68_6_4:SKJEMA1B); (S_79_6_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1611 |
+| Not NA | 1611 |
 | NA | 100142 |
 
 
@@ -19275,6 +20543,7 @@ S_68_7_1:SKJEMA1E; (S_68_7_1:SKJEMA1C); (S_68_7_1:SKJEMA1B); (S_79_7_1:SKJEMA1A)
 | No | 69532 |
 | Yes | 24863 |
 | More than 1 check box filled in | 15 |
+| Not NA | 94410 |
 | NA | 7343 |
 
 
@@ -19291,6 +20560,7 @@ S_68_7_2:SKJEMA1E; (S_68_7_2:SKJEMA1C); (S_68_7_2:SKJEMA1B); (S_79_7_2:SKJEMA1A)
 | 3rd Qu. | 10 |
 | Max. | 200 |
 | NA's | 78190 |
+| Not NA | 23563 |
 
 
 ### AA1228
@@ -19300,6 +20570,7 @@ S_68_7_3:SKJEMA1E; (S_68_7_3:SKJEMA1C); (S_68_7_3:SKJEMA1B); (S_79_7_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2436 |
+| Not NA | 2436 |
 | NA | 99317 |
 
 
@@ -19310,6 +20581,7 @@ S_68_7_4:SKJEMA1E; (S_68_7_4:SKJEMA1C); (S_68_7_4:SKJEMA1B); (S_79_7_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 5048 |
+| Not NA | 5048 |
 | NA | 96705 |
 
 
@@ -19322,6 +20594,7 @@ S_68_8_1:SKJEMA1E; (S_68_8_1:SKJEMA1C); (S_68_8_1:SKJEMA1B); (S_79_8_1:SKJEMA1A)
 | No | 67479 |
 | Yes | 25619 |
 | More than 1 check box filled in | 12 |
+| Not NA | 93110 |
 | NA | 8643 |
 
 
@@ -19338,6 +20611,7 @@ S_68_8_2:SKJEMA1E; (S_68_8_2:SKJEMA1C); (S_68_8_2:SKJEMA1B); (S_79_8_2:SKJEMA1A)
 | 3rd Qu. | 10 |
 | Max. | 311 |
 | NA's | 77698 |
+| Not NA | 24055 |
 
 
 ### AA1232
@@ -19347,6 +20621,7 @@ S_68_8_3:SKJEMA1E; (S_68_8_3:SKJEMA1C); (S_68_8_3:SKJEMA1B); (S_79_8_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1544 |
+| Not NA | 1544 |
 | NA | 100209 |
 
 
@@ -19357,6 +20632,7 @@ S_68_8_4:SKJEMA1E; (S_68_8_4:SKJEMA1C); (S_68_8_4:SKJEMA1B); (S_79_8_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3402 |
+| Not NA | 3402 |
 | NA | 98351 |
 
 
@@ -19369,6 +20645,7 @@ S_68_9_1:SKJEMA1E; (S_68_9_1:SKJEMA1C); (S_68_9_1:SKJEMA1B); (S_79_9_1:SKJEMA1A)
 | No | 71305 |
 | Yes | 20890 |
 | More than 1 check box filled in | 8 |
+| Not NA | 92203 |
 | NA | 9550 |
 
 
@@ -19385,6 +20662,7 @@ S_68_9_2:SKJEMA1E; (S_68_9_2:SKJEMA1C); (S_68_9_2:SKJEMA1B); (S_79_9_2:SKJEMA1A)
 | 3rd Qu. | 8 |
 | Max. | 180 |
 | NA's | 81885 |
+| Not NA | 19868 |
 
 
 ### AA1236
@@ -19394,6 +20672,7 @@ S_68_9_3:SKJEMA1E; (S_68_9_3:SKJEMA1C); (S_68_9_3:SKJEMA1B); (S_79_9_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1632 |
+| Not NA | 1632 |
 | NA | 100121 |
 
 
@@ -19404,6 +20683,7 @@ S_68_9_4:SKJEMA1E; (S_68_9_4:SKJEMA1C); (S_68_9_4:SKJEMA1B); (S_79_9_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2811 |
+| Not NA | 2811 |
 | NA | 98942 |
 
 
@@ -19416,6 +20696,7 @@ S_6810_1:SKJEMA1E; (S_6810_1:SKJEMA1C); (S_6810_1:SKJEMA1B); (S_7910_1:SKJEMA1A)
 | No | 91621 |
 | Yes | 706 |
 | More than 1 check box filled in | 1 |
+| Not NA | 92328 |
 | NA | 9425 |
 
 
@@ -19432,6 +20713,7 @@ S_6810_2:SKJEMA1E; (S_6810_2:SKJEMA1C); (S_6810_2:SKJEMA1B); (S_7910_2:SKJEMA1A)
 | 3rd Qu. | 100 |
 | Max. | 182 |
 | NA's | 101284 |
+| Not NA | 469 |
 
 
 ### AA1240
@@ -19441,6 +20723,7 @@ S_6810_3:SKJEMA1E; (S_6810_3:SKJEMA1C); (S_6810_3:SKJEMA1B); (S_7910_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 78 |
+| Not NA | 78 |
 | NA | 101675 |
 
 
@@ -19451,6 +20734,7 @@ S_6810_4:SKJEMA1E; (S_6810_4:SKJEMA1C); (S_6810_4:SKJEMA1B); (S_7910_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 162 |
+| Not NA | 162 |
 | NA | 101591 |
 
 
@@ -19462,6 +20746,7 @@ S_6811_1:SKJEMA1E; (S_6811_1:SKJEMA1C); (S_6811_1:SKJEMA1B); (S_7911_1:SKJEMA1A)
 | -------- | - |
 | No | 89463 |
 | Yes | 3060 |
+| Not NA | 92523 |
 | NA | 9230 |
 
 
@@ -19478,6 +20763,7 @@ S_6811_2:SKJEMA1E; (S_6811_2:SKJEMA1C); (S_6811_2:SKJEMA1B); (S_7911_2:SKJEMA1A)
 | 3rd Qu. | 10 |
 | Max. | 200 |
 | NA's | 99133 |
+| Not NA | 2620 |
 
 
 ### AA1244
@@ -19487,6 +20773,7 @@ S_6811_3:SKJEMA1E; (S_6811_3:SKJEMA1C); (S_6811_3:SKJEMA1B); (S_7911_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 110 |
+| Not NA | 110 |
 | NA | 101643 |
 
 
@@ -19497,6 +20784,7 @@ S_6811_4:SKJEMA1E; (S_6811_4:SKJEMA1C); (S_6811_4:SKJEMA1B); (S_7911_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 360 |
+| Not NA | 360 |
 | NA | 101393 |
 
 
@@ -19509,6 +20797,7 @@ S_6812_1:SKJEMA1E; (S_6812_1:SKJEMA1C); (S_6812_1:SKJEMA1B); (S_7912_1:SKJEMA1A)
 | No | 91556 |
 | Yes | 948 |
 | More than 1 check box filled in | 1 |
+| Not NA | 92505 |
 | NA | 9248 |
 
 
@@ -19525,6 +20814,7 @@ S_6812_2:SKJEMA1E; (S_6812_2:SKJEMA1C); (S_6812_2:SKJEMA1B); (S_7912_2:SKJEMA1A)
 | 3rd Qu. | 60 |
 | Max. | 180 |
 | NA's | 101021 |
+| Not NA | 732 |
 
 
 ### AA1248
@@ -19534,6 +20824,7 @@ S_6812_3:SKJEMA1E; (S_6812_3:SKJEMA1C); (S_6812_3:SKJEMA1B); (S_7912_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 127 |
+| Not NA | 127 |
 | NA | 101626 |
 
 
@@ -19544,6 +20835,7 @@ S_6812_4:SKJEMA1E; (S_6812_4:SKJEMA1C); (S_6812_4:SKJEMA1B); (S_7912_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 345 |
+| Not NA | 345 |
 | NA | 101408 |
 
 
@@ -19556,6 +20848,7 @@ S_6813_1:SKJEMA1E; (S_6813_1:SKJEMA1C); (S_6813_1:SKJEMA1B); (S_7913_1:SKJEMA1A)
 | No | 91949 |
 | Yes | 438 |
 | More than 1 check box filled in | 1 |
+| Not NA | 92388 |
 | NA | 9365 |
 
 
@@ -19572,6 +20865,7 @@ S_6813_2:SKJEMA1E; (S_6813_2:SKJEMA1C); (S_6813_2:SKJEMA1B); (S_7913_2:SKJEMA1A)
 | 3rd Qu. | 30 |
 | Max. | 450 |
 | NA's | 101532 |
+| Not NA | 221 |
 
 
 ### AA1252
@@ -19581,6 +20875,7 @@ S_6813_3:SKJEMA1E; (S_6813_3:SKJEMA1C); (S_6813_3:SKJEMA1B); (S_7913_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 60 |
+| Not NA | 60 |
 | NA | 101693 |
 
 
@@ -19591,6 +20886,7 @@ S_6813_4:SKJEMA1E; (S_6813_4:SKJEMA1C); (S_6813_4:SKJEMA1B); (S_7913_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 71 |
+| Not NA | 71 |
 | NA | 101682 |
 
 
@@ -19602,6 +20898,7 @@ S_6814_1:SKJEMA1E; (S_6814_1:SKJEMA1C); (S_6814_1:SKJEMA1B); (S_7914_1:SKJEMA1A)
 | -------- | - |
 | No | 91763 |
 | Yes | 651 |
+| Not NA | 92414 |
 | NA | 9339 |
 
 
@@ -19618,6 +20915,7 @@ S_6814_2:SKJEMA1E; (S_6814_2:SKJEMA1C); (S_6814_2:SKJEMA1B); (S_7914_2:SKJEMA1A)
 | 3rd Qu. | 30 |
 | Max. | 185 |
 | NA's | 101312 |
+| Not NA | 441 |
 
 
 ### AA1256
@@ -19627,6 +20925,7 @@ S_6814_3:SKJEMA1E; (S_6814_3:SKJEMA1C); (S_6814_3:SKJEMA1B); (S_7914_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 98 |
+| Not NA | 98 |
 | NA | 101655 |
 
 
@@ -19637,6 +20936,7 @@ S_6814_4:SKJEMA1E; (S_6814_4:SKJEMA1C); (S_6814_4:SKJEMA1B); (S_7914_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 101726 |
 
 
@@ -19648,6 +20948,7 @@ S_6815_1:SKJEMA1E; (S_6815_1:SKJEMA1C); (S_6815_1:SKJEMA1B); (S_7915_1:SKJEMA1A)
 | -------- | - |
 | No | 90461 |
 | Yes | 1802 |
+| Not NA | 92263 |
 | NA | 9490 |
 
 
@@ -19664,6 +20965,7 @@ S_6815_2:SKJEMA1E; (S_6815_2:SKJEMA1C); (S_6815_2:SKJEMA1B); (S_7915_2:SKJEMA1A)
 | 3rd Qu. | 20 |
 | Max. | 180 |
 | NA's | 100210 |
+| Not NA | 1543 |
 
 
 ### AA1260
@@ -19673,6 +20975,7 @@ S_6815_3:SKJEMA1E; (S_6815_3:SKJEMA1C); (S_6815_3:SKJEMA1B); (S_7915_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 558 |
+| Not NA | 558 |
 | NA | 101195 |
 
 
@@ -19683,6 +20986,7 @@ S_6815_4:SKJEMA1E; (S_6815_4:SKJEMA1C); (S_6815_4:SKJEMA1B); (S_7915_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1035 |
+| Not NA | 1035 |
 | NA | 100718 |
 
 
@@ -19695,6 +20999,7 @@ S_6816_1:SKJEMA1E; (S_6816_1:SKJEMA1C); (S_6816_1:SKJEMA1B); (S_7916_1:SKJEMA1A)
 | No | 90977 |
 | Yes | 1257 |
 | More than 1 check box filled in | 1 |
+| Not NA | 92235 |
 | NA | 9518 |
 
 
@@ -19711,6 +21016,7 @@ S_6816_2:SKJEMA1E; (S_6816_2:SKJEMA1C); (S_6816_2:SKJEMA1B); (S_7916_2:SKJEMA1A)
 | 3rd Qu. | 30 |
 | Max. | 180 |
 | NA's | 100752 |
+| Not NA | 1001 |
 
 
 ### AA1264
@@ -19720,6 +21026,7 @@ S_6816_3:SKJEMA1E; (S_6816_3:SKJEMA1C); (S_6816_3:SKJEMA1B); (S_7916_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 320 |
+| Not NA | 320 |
 | NA | 101433 |
 
 
@@ -19730,6 +21037,7 @@ S_6816_4:SKJEMA1E; (S_6816_4:SKJEMA1C); (S_6816_4:SKJEMA1B); (S_7916_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 777 |
+| Not NA | 777 |
 | NA | 100976 |
 
 
@@ -19742,6 +21050,7 @@ S_6817_1:SKJEMA1E; (S_6817_1:SKJEMA1C); (S_6817_1:SKJEMA1B); (S_7917_1:SKJEMA1A)
 | No | 90843 |
 | Yes | 1332 |
 | More than 1 check box filled in | 1 |
+| Not NA | 92176 |
 | NA | 9577 |
 
 
@@ -19758,6 +21067,7 @@ S_6817_2:SKJEMA1E; (S_6817_2:SKJEMA1C); (S_6817_2:SKJEMA1B); (S_7917_2:SKJEMA1A)
 | 3rd Qu. | 50 |
 | Max. | 180 |
 | NA's | 100684 |
+| Not NA | 1069 |
 
 
 ### AA1268
@@ -19767,6 +21077,7 @@ S_6817_3:SKJEMA1E; (S_6817_3:SKJEMA1C); (S_6817_3:SKJEMA1B); (S_7917_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 436 |
+| Not NA | 436 |
 | NA | 101317 |
 
 
@@ -19777,6 +21088,7 @@ S_6817_4:SKJEMA1E; (S_6817_4:SKJEMA1C); (S_6817_4:SKJEMA1B); (S_7917_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 186 |
+| Not NA | 186 |
 | NA | 101567 |
 
 
@@ -19788,6 +21100,7 @@ S_6818_1:SKJEMA1E; (S_6818_1:SKJEMA1C); (S_6818_1:SKJEMA1B); (S_7918_1:SKJEMA1A)
 | -------- | - |
 | No | 63907 |
 | Yes | 3831 |
+| Not NA | 67738 |
 | NA | 34015 |
 
 
@@ -19804,6 +21117,7 @@ S_6818_2:SKJEMA1E; (S_6818_2:SKJEMA1C); (S_6818_2:SKJEMA1B); (S_7918_2:SKJEMA1A)
 | 3rd Qu. | 100 |
 | Max. | 180 |
 | NA's | 98148 |
+| Not NA | 3605 |
 
 
 ### AA1272
@@ -19813,6 +21127,7 @@ S_6818_3:SKJEMA1E; (S_6818_3:SKJEMA1C); (S_6818_3:SKJEMA1B); (S_7918_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1458 |
+| Not NA | 1458 |
 | NA | 100295 |
 
 
@@ -19823,6 +21138,7 @@ S_6818_4:SKJEMA1E; (S_6818_4:SKJEMA1C); (S_6818_4:SKJEMA1B); (S_7918_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2114 |
+| Not NA | 2114 |
 | NA | 99639 |
 
 
@@ -19836,6 +21152,7 @@ S_69:SKJEMA1E; (S_69:SKJEMA1C); (S_69:SKJEMA1B); (S_76:SKJEMA1A); ; 69. How ofte
 | Less often | 16699 |
 | 1-2 times a week | 268 |
 | More than 1 check box filled in | 48 |
+| Not NA | 100874 |
 | NA | 879 |
 
 
@@ -19848,6 +21165,7 @@ S_70:SKJEMA1E; (S_70:SKJEMA1C); (S_70:SKJEMA1B); (S_77:SKJEMA1A); ; 70. Are you 
 | Yes | 59380 |
 | No | 41447 |
 | More than 1 check box filled in | 64 |
+| Not NA | 100891 |
 | NA | 862 |
 
 
@@ -19865,6 +21183,7 @@ S_71_1:SKJEMA1E; (S_71_1:SKJEMA1C); (S_71_1:SKJEMA1B); (S_78_1:SKJEMA1A); Dog; 7
 | Daily + 3-6 times a week | 98 |
 | Daily + 1-2 times a week | 71 |
 | More than 1 check box filled in | 1 |
+| Not NA | 40935 |
 | NA | 60818 |
 
 
@@ -19882,6 +21201,7 @@ S_71_2:SKJEMA1E; (S_71_2:SKJEMA1C); (S_71_2:SKJEMA1B); (S_78_2:SKJEMA1A); Cat; 7
 | Daily + 3-6 times a week | 222 |
 | Daily + 1-2 times a week | 100 |
 | More than 1 check box filled in | 2 |
+| Not NA | 39527 |
 | NA | 62226 |
 
 
@@ -19898,6 +21218,7 @@ S_71_3:SKJEMA1E; (S_71_3:SKJEMA1C); (S_71_3:SKJEMA1B); (S_78_3:SKJEMA1A); Guinea
 | Daily + 1-2 times a week | 4 |
 | Daily + 3-6 times a week | 11 |
 | Daily + Less than once a week | 8 |
+| Not NA | 5274 |
 | NA | 96479 |
 
 
@@ -19914,6 +21235,7 @@ S_71_4:SKJEMA1E; (S_71_4:SKJEMA1C); (S_71_4:SKJEMA1B); (S_78_4:SKJEMA1A); Hamste
 | 1-2 times per week | 206 |
 | Daily + 3-6 times a week | 5 |
 | Daily + 1-2 times a week | 2 |
+| Not NA | 5138 |
 | NA | 96615 |
 
 
@@ -19930,6 +21252,7 @@ S_71_5:SKJEMA1E; (S_71_5:SKJEMA1C); (S_71_5:SKJEMA1B); (S_78_5:SKJEMA1A); Rabbit
 | Daily + 3-6 times a week | 24 |
 | Daily + 1-2 times a week | 19 |
 | Daily + Less than once a week | 46 |
+| Not NA | 8381 |
 | NA | 93372 |
 
 
@@ -19946,6 +21269,7 @@ S_71_6:SKJEMA1E; (S_71_6:SKJEMA1C); (S_71_6:SKJEMA1B); (S_78_6:SKJEMA1A); Canary
 | Daily + Less than once a week | 10 |
 | Daily + 3-6 times a week | 14 |
 | Daily + 1-2 times a week | 5 |
+| Not NA | 6582 |
 | NA | 95171 |
 
 
@@ -19962,6 +21286,7 @@ S_71_7:SKJEMA1E; (S_71_7:SKJEMA1C); (S_71_7:SKJEMA1B); (S_78_7:SKJEMA1A); Aquari
 | Daily + 3-6 times a week | 21 |
 | Daily + Less than once a week | 32 |
 | Daily + 1-2 times a week | 9 |
+| Not NA | 8962 |
 | NA | 92791 |
 
 
@@ -19979,6 +21304,7 @@ S_71_8:SKJEMA1E; (S_71_8:SKJEMA1C); (S_71_8:SKJEMA1B); (S_78_8:SKJEMA1A); Cow; 7
 | More than 1 check box filled in | 1 |
 | Daily + 1-2 times a week | 8 |
 | Daily + 3-6 times a week | 9 |
+| Not NA | 7553 |
 | NA | 94200 |
 
 
@@ -19995,6 +21321,7 @@ S_71_9:SKJEMA1E; (S_71_9:SKJEMA1C); (S_71_9:SKJEMA1B); (S_78_9:SKJEMA1A); Pig; 7
 | Daily + 3-6 times a week | 3 |
 | Daily + Less than once a week | 14 |
 | Daily + 1-2 times a week | 1 |
+| Not NA | 5094 |
 | NA | 96659 |
 
 
@@ -20011,6 +21338,7 @@ S_7110:SKJEMA1E; (S_7110:SKJEMA1C); (S_71_10:SKJEMA1B); (S_78_10:SKJEMA1A); Shee
 | Daily + 3-6 times a week | 13 |
 | 3-6 times a week | 386 |
 | Daily + 1-2 times a week | 12 |
+| Not NA | 7380 |
 | NA | 94373 |
 
 
@@ -20028,6 +21356,7 @@ S_7111:SKJEMA1E; (S_7111:SKJEMA1C); (S_71_11:SKJEMA1B); (S_78_11:SKJEMA1A); Hors
 | Daily + 1-2 times a week | 20 |
 | Daily + 3-6 times a week | 14 |
 | More than 1 check box filled in | 1 |
+| Not NA | 9153 |
 | NA | 92600 |
 
 
@@ -20044,6 +21373,7 @@ S_7112:SKJEMA1E; (S_7112:SKJEMA1C); (S_71_12:SKJEMA1B); (S_78_12:SKJEMA1A); Poul
 | Daily + Less than once a week | 25 |
 | Daily + 3-6 times a week | 12 |
 | Daily + 1-2 times a week | 3 |
+| Not NA | 5855 |
 | NA | 95898 |
 
 
@@ -20060,6 +21390,7 @@ S_7113:SKJEMA1E; (S_7113:SKJEMA1C); (S_71_13:SKJEMA1B); (S_78_13:SKJEMA1A); Othe
 | Daily + 3-6 times a week | 23 |
 | Daily + Less than once a week | 22 |
 | Daily + 1-2 times a week | 10 |
+| Not NA | 4612 |
 | NA | 97141 |
 
 
@@ -20070,6 +21401,7 @@ S_72_1:SKJEMA1E; (S_72_1:SKJEMA1C); (S_72_1:SKJEMA1B); (S_80_1:SKJEMA1A); Spouse
 | Category | n |
 | -------- | - |
 | 1 | 97349 |
+| Not NA | 97349 |
 | NA | 4404 |
 
 
@@ -20080,6 +21412,7 @@ S_72_2:SKJEMA1E; (S_72_2:SKJEMA1C); (S_72_2:SKJEMA1B); (S_80_2:SKJEMA1A); Parent
 | Category | n |
 | -------- | - |
 | 1 | 1387 |
+| Not NA | 1387 |
 | NA | 100366 |
 
 
@@ -20090,6 +21423,7 @@ S_72_3:SKJEMA1E; (S_72_3:SKJEMA1C); (S_72_3:SKJEMA1B); (S_80_3:SKJEMA1A); Parent
 | Category | n |
 | -------- | - |
 | 1 | 551 |
+| Not NA | 551 |
 | NA | 101202 |
 
 
@@ -20100,6 +21434,7 @@ S_72_4:SKJEMA1E; (S_72_4:SKJEMA1C); (S_72_4:SKJEMA1B); (S_80_4:SKJEMA1A); Childr
 | Category | n |
 | -------- | - |
 | 1 | 45215 |
+| Not NA | 45215 |
 | NA | 56538 |
 
 
@@ -20110,6 +21445,7 @@ S_72_5:SKJEMA1E; (S_72_5:SKJEMA1C); (S_72_5:SKJEMA1B); (S_80_5:SKJEMA1A); No one
 | Category | n |
 | -------- | - |
 | 1 | 1553 |
+| Not NA | 1553 |
 | NA | 100200 |
 
 
@@ -20120,6 +21456,7 @@ S_72_6_1:SKJEMA1E; (S_72_6_1:SKJEMA1C); (S_72_6_1:SKJEMA1B); (S_80_6_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2209 |
+| Not NA | 2209 |
 | NA | 99544 |
 
 
@@ -20136,6 +21473,7 @@ S_73_1:SKJEMA1E; (S_73_1:SKJEMA1C); (S_73_1:SKJEMA1B); (S_81_1:SKJEMA1A); Number
 | 3rd Qu. | 2 |
 | Max. | 99 |
 | NA's | 1893 |
+| Not NA | 99860 |
 
 
 ### AA1301
@@ -20155,6 +21493,7 @@ S_73_2:SKJEMA1E; (S_73_2:SKJEMA1C); (S_73_2:SKJEMA1B); (S_81_2:SKJEMA1A); Number
 | 11 | 1 |
 | 12 | 1 |
 | 7 | 2 |
+| Not NA | 12083 |
 | NA | 89670 |
 
 
@@ -20173,6 +21512,7 @@ S_73_3:SKJEMA1E; (S_73_3:SKJEMA1C); (S_73_3:SKJEMA1B); (S_81_3:SKJEMA1A); Number
 | 9 | 1 |
 | 6 | 2 |
 | 8 | 1 |
+| Not NA | 22167 |
 | NA | 79586 |
 
 
@@ -20192,6 +21532,7 @@ S_73_4:SKJEMA1E; (S_73_4:SKJEMA1C); (S_73_4:SKJEMA1B); (S_81_4:SKJEMA1A); Number
 | 7 | 7 |
 | 44 | 1 |
 | 6 | 4 |
+| Not NA | 52143 |
 | NA | 49610 |
 
 
@@ -20207,6 +21548,7 @@ S_74:SKJEMA1E; (S_74:SKJEMA1C); (S_74:SKJEMA1B); (S_82:SKJEMA1A); ; 74. How many
 | 3 | 84 |
 | 8 | 1 |
 | 5 | 1 |
+| Not NA | 57327 |
 | NA | 44426 |
 
 
@@ -20219,6 +21561,7 @@ S_75:SKJEMA1E; (S_75:SKJEMA1C); (S_75:SKJEMA1B); ; 75. Do you or the babys fathe
 | No | 86322 |
 | Yes | 11080 |
 | More than 1 check box filled in | 4 |
+| Not NA | 97406 |
 | NA | 4347 |
 
 
@@ -20231,6 +21574,7 @@ S_77:SKJEMA1E; (S_77:SKJEMA1C); (S_77:SKJEMA1B); ; 77. Do your parents or the ba
 | No | 81536 |
 | Yes | 15618 |
 | More than 1 check box filled in | 20 |
+| Not NA | 97174 |
 | NA | 4579 |
 
 
@@ -20242,6 +21586,7 @@ S_76_1_D:1E;1C;1B); You; 76. If yes, which language? 1 for tick; 0 for no tick;
 | -------- | - |
 | 0 | 93022 |
 | 1 | 6184 |
+| Not NA | 99206 |
 | NA | 2547 |
 
 
@@ -20253,6 +21598,7 @@ S_76_2_D:1E;1C;1B); Baby`s father; 76. If yes, which language? 1 for tick; 0 for
 | -------- | - |
 | 0 | 92600 |
 | 1 | 6606 |
+| Not NA | 99206 |
 | NA | 2547 |
 
 
@@ -20264,6 +21610,7 @@ S_78_1_D:1E;1C;1B); Your mother; 78. If yes, which language? 1 for tick; 0 for n
 | -------- | - |
 | 0 | 92007 |
 | 1 | 7199 |
+| Not NA | 99206 |
 | NA | 2547 |
 
 
@@ -20275,6 +21622,7 @@ S_78_2_D:1E;1C;1B); Your father; 78. If yes, which language? 1 for tick; 0 for n
 | -------- | - |
 | 0 | 92253 |
 | 1 | 6953 |
+| Not NA | 99206 |
 | NA | 2547 |
 
 
@@ -20286,6 +21634,7 @@ S_78_3_D:1E;1C;1B); Mother of the child`s father; 78. If yes, which language? 1 
 | -------- | - |
 | 0 | 91614 |
 | 1 | 7592 |
+| Not NA | 99206 |
 | NA | 2547 |
 
 
@@ -20297,6 +21646,7 @@ S_78_4_D:1E;1C;1B); Father of the child`s father; 78. If yes, which language? 1 
 | -------- | - |
 | 0 | 91949 |
 | 1 | 7257 |
+| Not NA | 99206 |
 | NA | 2547 |
 
 
@@ -20313,6 +21663,7 @@ S_79_1:SKJEMA1E; (S_79_1:SKJEMA1C); (S_79_1:SKJEMA1B); (S_85_1:SKJEMA1A); Your g
 | Less than 150.000 NOK | 15505 |
 | 200-299.999 NOK | 33353 |
 | over 500.000 NOK | 4423 |
+| Not NA | 98126 |
 | NA | 3627 |
 
 
@@ -20330,6 +21681,7 @@ S_79_2:SKJEMA1E; (S_79_2:SKJEMA1C); (S_79_2:SKJEMA1B); (S_85_2:SKJEMA1A); Child`
 | Do not know | 1269 |
 | No income | 984 |
 | Less than 150.000 NOK | 5432 |
+| Not NA | 95802 |
 | NA | 5951 |
 
 
@@ -20343,6 +21695,7 @@ S_80:SKJEMA1E; (S_80:SKJEMA1C); (S_80:SKJEMA1B); (S_86:SKJEMA1A); ; 80. Is it po
 | Yes, without difficulty | 18221 |
 | Yes, but with difficulty | 39410 |
 | More than 1 check box filled in | 111 |
+| Not NA | 99889 |
 | NA | 1864 |
 
 
@@ -20353,6 +21706,7 @@ S_81_1:SKJEMA1E; (S_81_1:SKJEMA1C); (S_81_1:SKJEMA1B); (S_87_1:SKJEMA1A); Detach
 | Category | n |
 | -------- | - |
 | 1 | 46183 |
+| Not NA | 46183 |
 | NA | 55570 |
 
 
@@ -20363,6 +21717,7 @@ S_81_2:SKJEMA1E; (S_81_2:SKJEMA1C); (S_81_2:SKJEMA1B); (S_87_2:SKJEMA1A); Farm; 
 | Category | n |
 | -------- | - |
 | 1 | 4802 |
+| Not NA | 4802 |
 | NA | 96951 |
 
 
@@ -20373,6 +21728,7 @@ S_81_3:SKJEMA1E; (S_81_3:SKJEMA1C); (S_81_3:SKJEMA1B); (S_87_3:SKJEMA1A); Semide
 | Category | n |
 | -------- | - |
 | 1 | 9386 |
+| Not NA | 9386 |
 | NA | 92367 |
 
 
@@ -20383,6 +21739,7 @@ S_81_4:SKJEMA1E; (S_81_4:SKJEMA1C); (S_81_4:SKJEMA1B); (S_87_4:SKJEMA1A); Four-f
 | Category | n |
 | -------- | - |
 | 1 | 3634 |
+| Not NA | 3634 |
 | NA | 98119 |
 
 
@@ -20393,6 +21750,7 @@ S_81_5:SKJEMA1E; (S_81_5:SKJEMA1C); (S_81_5:SKJEMA1B); (S_87_5:SKJEMA1A); Maison
 | Category | n |
 | -------- | - |
 | 1 | 10444 |
+| Not NA | 10444 |
 | NA | 91309 |
 
 
@@ -20403,6 +21761,7 @@ S_81_6:SKJEMA1E; (S_81_6:SKJEMA1C); (S_81_6:SKJEMA1B); (S_87_6:SKJEMA1A); Terrac
 | Category | n |
 | -------- | - |
 | 1 | 2915 |
+| Not NA | 2915 |
 | NA | 98838 |
 
 
@@ -20413,6 +21772,7 @@ S_81_7:SKJEMA1E; (S_81_7:SKJEMA1C); (S_81_7:SKJEMA1B); (S_87_7:SKJEMA1A); Baseme
 | Category | n |
 | -------- | - |
 | 1 | 4774 |
+| Not NA | 4774 |
 | NA | 96979 |
 
 
@@ -20423,6 +21783,7 @@ S_81_8:SKJEMA1E; (S_81_8:SKJEMA1C); (S_81_8:SKJEMA1B); (S_87_8:SKJEMA1A); Apartm
 | Category | n |
 | -------- | - |
 | 1 | 9175 |
+| Not NA | 9175 |
 | NA | 92578 |
 
 
@@ -20433,6 +21794,7 @@ S_81_9_1:SKJEMA1E; (S_81_9_1:SKJEMA1C); (S_81_9_1:SKJEMA1B); (S_87_9_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 7891 |
+| Not NA | 7891 |
 | NA | 93862 |
 
 
@@ -20462,6 +21824,7 @@ S_81_9_2:SKJEMA1E; (S_81_9_2:SKJEMA1C); (S_81_9_2:SKJEMA1B); (S_87_9_2:SKJEMA1A)
 | 20 | 1 |
 | 24 | 1 |
 | 18 | 1 |
+| Not NA | 11327 |
 | NA | 90426 |
 
 
@@ -20472,6 +21835,7 @@ S_8110_1:SKJEMA1E; (S_8110_1:SKJEMA1C); (S_8110_1:SKJEMA1B); (S_8710_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2770 |
+| Not NA | 2770 |
 | NA | 98983 |
 
 
@@ -20485,6 +21849,7 @@ S_87:SKJEMA1E; (S_87:SKJEMA1C); (S_87:SKJEMA1B); (S100:SKJEMA1A); ; 87. Did your
 | Do not know | 10011 |
 | Yes | 24691 |
 | More than 1 check box filled in | 26 |
+| Not NA | 99678 |
 | NA | 2075 |
 
 
@@ -20497,6 +21862,7 @@ S_88:SKJEMA1E; (S_88:SKJEMA1C); (S_88:SKJEMA1B); (S101:SKJEMA1A); ; 88. Are you 
 | No | 95114 |
 | Yes | 5772 |
 | More than 1 check box filled in | 20 |
+| Not NA | 100906 |
 | NA | 847 |
 
 
@@ -20513,6 +21879,7 @@ S_89:SKJEMA1E; (S_89:SKJEMA1C); (S_89:SKJEMA1B); (S102:SKJEMA1A); ; 89. If yes, 
 | 3rd Qu. | 5 |
 | Max. | 24 |
 | NA's | 95617 |
+| Not NA | 6136 |
 
 
 ### AA1351
@@ -20524,6 +21891,7 @@ S_90:SKJEMA1E; (S_90:SKJEMA1C); (S_90:SKJEMA1B); (S103:SKJEMA1A); ; 90. Are you 
 | No | 93528 |
 | Yes | 5867 |
 | More than 1 check box filled in | 14 |
+| Not NA | 99409 |
 | NA | 2344 |
 
 
@@ -20553,6 +21921,7 @@ S_91:SKJEMA1E; (S_91:SKJEMA1C); (S_91:SKJEMA1B); (S104:SKJEMA1A); ; 91. If yes, 
 | 20 | 2 |
 | 16 | 1 |
 | 18 | 1 |
+| Not NA | 6485 |
 | NA | 95268 |
 
 
@@ -20565,6 +21934,7 @@ S_92:SKJEMA1E; (S_92:SKJEMA1C); (S_92:SKJEMA1B); (S105:SKJEMA1A); ; 92. Did the 
 | No | 73323 |
 | Yes | 27513 |
 | More than 1 check box filled in | 17 |
+| Not NA | 100853 |
 | NA | 900 |
 
 
@@ -20577,6 +21947,7 @@ S_93:SKJEMA1E; (S_93:SKJEMA1C); (S_93:SKJEMA1B); (S106:SKJEMA1A); ; 93. Does he 
 | No | 79583 |
 | Yes | 20641 |
 | More than 1 check box filled in | 20 |
+| Not NA | 100244 |
 | NA | 1509 |
 
 
@@ -20589,6 +21960,7 @@ S_94:SKJEMA1E; (S_94:SKJEMA1C); (S_94:SKJEMA1B); ; 94. Have you ever smoked?
 | Yes | 48501 |
 | No | 49875 |
 | More than 1 check box filled in | 7 |
+| Not NA | 98383 |
 | NA | 3370 |
 
 
@@ -20604,6 +21976,7 @@ S_95_1:SKJEMA1E; (S_95_1:SKJEMA1C); (S_95_1:SKJEMA1B); (S110_1:SKJEMA1A); ; 95. 
 | No + Sometimes | 18 |
 | Sometimes + Daily | 52 |
 | No + Daily | 3 |
+| Not NA | 90123 |
 | NA | 11630 |
 
 
@@ -20620,6 +21993,7 @@ S_95_2:SKJEMA1E; (S_95_2:SKJEMA1C); (S_95_2:SKJEMA1B); (S110_2:SKJEMA1A); No. of
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 98873 |
+| Not NA | 2880 |
 
 
 ### AA2009
@@ -20629,6 +22003,7 @@ S112_8_1:SKJEMA1A; Snuff/chewing tobacco/snus; Before pregnancy; 112. What kind 
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 101744 |
 
 
@@ -20639,6 +22014,7 @@ S112_8_2:SKJEMA1A; Snuff/chewing tobacco/snus; During pregnancy; 112. What kind 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -20655,6 +22031,7 @@ S_95_3:SKJEMA1E; (S_95_3:SKJEMA1C); (S_95_3:SKJEMA1B); (S110_3:SKJEMA1A); No. of
 | 3rd Qu. | 10 |
 | Max. | 35 |
 | NA's | 95980 |
+| Not NA | 5773 |
 
 
 ### AA1359
@@ -20669,6 +22046,7 @@ S_96_1:SKJEMA1E; (S_96_1:SKJEMA1C); (S_96_1:SKJEMA1B); (S109_1:SKJEMA1A); ; 96. 
 | No + Sometimes | 17 |
 | Sometimes + Daily | 17 |
 | No + Daily | 4 |
+| Not NA | 89206 |
 | NA | 12547 |
 
 
@@ -20685,6 +22063,7 @@ S_96_2:SKJEMA1E; (S_96_2:SKJEMA1C); (S_96_2:SKJEMA1B); (S109_2:SKJEMA1A); No. of
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 91827 |
+| Not NA | 9926 |
 
 
 ### AA1361
@@ -20700,6 +22079,7 @@ S_96_3:SKJEMA1E; (S_96_3:SKJEMA1C); (S_96_3:SKJEMA1B); (S109_3:SKJEMA1A); No. of
 | 3rd Qu. | 15 |
 | Max. | 78 |
 | NA's | 83533 |
+| Not NA | 18220 |
 
 
 ### AA1362
@@ -20715,6 +22095,7 @@ S_97:SKJEMA1E; (S_97:SKJEMA1C); (S_97:SKJEMA1B); (S108:SKJEMA1A); (Years); 97. H
 | 3rd Qu. | 18 |
 | Max. | 99 |
 | NA's | 59792 |
+| Not NA | 41961 |
 
 
 ### AA1363
@@ -20726,6 +22107,7 @@ S_98:SKJEMA1E; (S_98:SKJEMA1C); (S_98:SKJEMA1B); ; 98. Have you stopped smoking 
 | Yes | 39254 |
 | No | 8705 |
 | More than 1 check box filled in | 32 |
+| Not NA | 47991 |
 | NA | 53762 |
 
 
@@ -20742,6 +22124,7 @@ S_99:SKJEMA1E; (S_99:SKJEMA1C); (S_99:SKJEMA1B); (Years); 99. If yes, how old we
 | 3rd Qu. | 30 |
 | Max. | 99 |
 | NA's | 65285 |
+| Not NA | 36468 |
 
 
 ### AA1365
@@ -20757,6 +22140,7 @@ S100:SKJEMA1E; (S100:SKJEMA1C); (S100:SKJEMA1B); (S111:SKJEMA1A); ; 100. If you 
 | 3rd Qu. | 6 |
 | Max. | 42 |
 | NA's | 86290 |
+| Not NA | 15463 |
 
 
 ### AA1366
@@ -20770,6 +22154,7 @@ S101:SKJEMA1E; (S101:SKJEMA1C); (S101:SKJEMA1B); (S114:SKJEMA1A); ; 101. How lon
 | 5 minutes | 448 |
 | More than one hour | 4674 |
 | More than 1 check box filled in | 38 |
+| Not NA | 9594 |
 | NA | 92159 |
 
 
@@ -20782,6 +22167,7 @@ S102:SKJEMA1E; (S102:SKJEMA1C); (S102:SKJEMA1B); (S115:SKJEMA1A); ; 102. Do you 
 | No | 22495 |
 | Yes | 5251 |
 | More than 1 check box filled in | 19 |
+| Not NA | 27765 |
 | NA | 73988 |
 
 
@@ -20794,6 +22180,7 @@ S103:SKJEMA1E; (S103:SKJEMA1C); (S103:SKJEMA1B); (S116:SKJEMA1A); ; 103. Do you 
 | No | 17779 |
 | Yes | 1884 |
 | More than 1 check box filled in | 2 |
+| Not NA | 19665 |
 | NA | 82088 |
 
 
@@ -20804,6 +22191,7 @@ S104_1_1:SKJEMA1E; (S104_1_1:SKJEMA1C); (S104_1_1:SKJEMA1B); Chewing tobacco/snu
 | Category | n |
 | -------- | - |
 | 1 | 2763 |
+| Not NA | 2763 |
 | NA | 98990 |
 
 
@@ -20814,6 +22202,7 @@ S104_1_2:SKJEMA1E; (S104_1_2:SKJEMA1C); (S104_1_2:SKJEMA1B); Chewing tobacco/snu
 | Category | n |
 | -------- | - |
 | 1 | 575 |
+| Not NA | 575 |
 | NA | 101178 |
 
 
@@ -20824,6 +22213,7 @@ S104_2_1:SKJEMA1E; (S104_2_1:SKJEMA1C); (S104_2_1:SKJEMA1B); (S113_1_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1449 |
+| Not NA | 1449 |
 | NA | 100304 |
 
 
@@ -20834,6 +22224,7 @@ S104_2_2:SKJEMA1E; (S104_2_2:SKJEMA1C); (S104_2_2:SKJEMA1B); (S113_1_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 308 |
+| Not NA | 308 |
 | NA | 101445 |
 
 
@@ -20844,6 +22235,7 @@ S104_3_1:SKJEMA1E; (S104_3_1:SKJEMA1C); (S104_3_1:SKJEMA1B); (S113_2_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 818 |
+| Not NA | 818 |
 | NA | 100935 |
 
 
@@ -20854,6 +22246,7 @@ S104_3_2:SKJEMA1E; (S104_3_2:SKJEMA1C); (S104_3_2:SKJEMA1B); (S113_2_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 80 |
+| Not NA | 80 |
 | NA | 101673 |
 
 
@@ -20864,6 +22257,7 @@ S104_4_1:SKJEMA1E; (S104_4_1:SKJEMA1C); (S104_4_1:SKJEMA1B); (S113_3_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 189 |
+| Not NA | 189 |
 | NA | 101564 |
 
 
@@ -20874,6 +22268,7 @@ S104_4_2:SKJEMA1E; (S104_4_2:SKJEMA1C); (S104_4_2:SKJEMA1B); (S113_3_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 101719 |
 
 
@@ -20888,6 +22283,7 @@ S107:SKJEMA1A; ; 107. Do you smoke or have you ever smoked?
 | Never | 1129 |
 | Have stopped smoking | 587 |
 | Sometimes / party smoking | 414 |
+| Not NA | 2530 |
 | NA | 99223 |
 
 
@@ -20898,6 +22294,7 @@ S112_1_1:SKJEMA1A; Ordinary cigarettes; Before pregnancy; 112. What kind of ciga
 | Category | n |
 | -------- | - |
 | 1 | 139 |
+| Not NA | 139 |
 | NA | 101614 |
 
 
@@ -20908,6 +22305,7 @@ S112_1_2:SKJEMA1A; Ordinary cigarettes; During pregnancy; 112. What kind of ciga
 | Category | n |
 | -------- | - |
 | 1 | 46 |
+| Not NA | 46 |
 | NA | 101707 |
 
 
@@ -20918,6 +22316,7 @@ S112_2_1:SKJEMA1A; Light cigarettes; Before pregnancy; 112. What kind of cigaret
 | Category | n |
 | -------- | - |
 | 1 | 684 |
+| Not NA | 684 |
 | NA | 101069 |
 
 
@@ -20928,6 +22327,7 @@ S112_2_2:SKJEMA1A; Light cigarettes; During pregnancy; 112. What kind of cigaret
 | Category | n |
 | -------- | - |
 | 1 | 380 |
+| Not NA | 380 |
 | NA | 101373 |
 
 
@@ -20938,6 +22338,7 @@ S112_3_1:SKJEMA1A; Filter cigarettes; Before pregnancy; 112. What kind of cigare
 | Category | n |
 | -------- | - |
 | 1 | 515 |
+| Not NA | 515 |
 | NA | 101238 |
 
 
@@ -20948,6 +22349,7 @@ S112_3_2:SKJEMA1A; Filter cigarettes; During pregnancy; 112. What kind of cigare
 | Category | n |
 | -------- | - |
 | 1 | 272 |
+| Not NA | 272 |
 | NA | 101481 |
 
 
@@ -20958,6 +22360,7 @@ S112_4_1:SKJEMA1A; Cigarettes without filter; Before pregnancy; 112. What kind o
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 101742 |
 
 
@@ -20968,6 +22371,7 @@ S112_4_2:SKJEMA1A; Cigarettes without filter; During pregnancy; 112. What kind o
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 101748 |
 
 
@@ -20978,6 +22382,7 @@ S112_5_1:SKJEMA1A; Roll-your-own cigarettes; Before pregnancy; 112. What kind of
 | Category | n |
 | -------- | - |
 | 1 | 162 |
+| Not NA | 162 |
 | NA | 101591 |
 
 
@@ -20988,6 +22393,7 @@ S112_5_2:SKJEMA1A; Roll-your-own cigarettes; During pregnancy; 112. What kind of
 | Category | n |
 | -------- | - |
 | 1 | 99 |
+| Not NA | 99 |
 | NA | 101654 |
 
 
@@ -20998,6 +22404,7 @@ S112_6_1:SKJEMA1A; Pipe tobacco; Before pregnancy; 112. What kind of cigarettes/
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 101752 |
 
 
@@ -21007,6 +22414,7 @@ S112_6_2:SKJEMA1A; Pipe tobacco; During pregnancy; 112. What kind of cigarettes/
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -21017,6 +22425,7 @@ S112_7_1:SKJEMA1A; Cigarillos/cigars; Before pregnancy; 112. What kind of cigare
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 101751 |
 
 
@@ -21026,6 +22435,7 @@ S112_7_2:SKJEMA1A; Cigarillos/cigars; During pregnancy; 112. What kind of cigare
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 101753 |
 
 
@@ -21060,6 +22470,7 @@ S105_1_1:SKJEMA1E; (S105_1_1:SKJEMA1C); (S105_1_1:SKJEMA1B); (S117_1_1:SKJEMA1A)
 | 9 | 35 |
 | Consumption have been reported by a mark but no amount given | 3 |
 | NA's | 33905 |
+| Not NA | 67848 |
 
 
 ### AA1378
@@ -21088,6 +22499,7 @@ S105_1_2:SKJEMA1E; (S105_1_2:SKJEMA1C); (S105_1_2:SKJEMA1B); (S117_1_2:SKJEMA1A)
 | 30 | 1 |
 | 14 | 2 |
 | 25 | 1 |
+| Not NA | 65413 |
 | NA | 36340 |
 
 
@@ -21098,6 +22510,7 @@ S105_1_3:SKJEMA1E; (S105_1_3:SKJEMA1C); (S105_1_3:SKJEMA1B); (S117_1_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 696 |
+| Not NA | 696 |
 | NA | 101057 |
 
 
@@ -21125,6 +22538,7 @@ S105_2_1:SKJEMA1E; (S105_2_1:SKJEMA1C); (S105_2_1:SKJEMA1B); (S117_2_1:SKJEMA1A)
 | 16 | 1 |
 | 15 | 5 |
 | 24 | 1 |
+| Not NA | 40989 |
 | NA | 60764 |
 
 
@@ -21147,6 +22561,7 @@ S105_2_2:SKJEMA1E; (S105_2_2:SKJEMA1C); (S105_2_2:SKJEMA1B); (S117_2_2:SKJEMA1A)
 | 8 | 8 |
 | 14 | 1 |
 | 24 | 1 |
+| Not NA | 40124 |
 | NA | 61629 |
 
 
@@ -21157,6 +22572,7 @@ S105_2_3:SKJEMA1E; (S105_2_3:SKJEMA1C); (S105_2_3:SKJEMA1B); (S117_2_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1189 |
+| Not NA | 1189 |
 | NA | 100564 |
 
 
@@ -21184,6 +22600,7 @@ S105_3_1:SKJEMA1E; (S105_3_1:SKJEMA1C); (S105_3_1:SKJEMA1B); (S117_3_1:SKJEMA1A)
 | Consumption have been reported by a mark but no amount given | 3 |
 | 9 | 3 |
 | 24 | 1 |
+| Not NA | 38597 |
 | NA | 63156 |
 
 
@@ -21208,6 +22625,7 @@ S105_3_2:SKJEMA1E; (S105_3_2:SKJEMA1C); (S105_3_2:SKJEMA1B); (S117_3_2:SKJEMA1A)
 | 16 | 1 |
 | 12 | 3 |
 | 15 | 1 |
+| Not NA | 37745 |
 | NA | 64008 |
 
 
@@ -21218,6 +22636,7 @@ S105_3_3:SKJEMA1E; (S105_3_3:SKJEMA1C); (S105_3_3:SKJEMA1B); (S117_3_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 145 |
+| Not NA | 145 |
 | NA | 101608 |
 
 
@@ -21253,6 +22672,7 @@ S105_4_1:SKJEMA1E; (S105_4_1:SKJEMA1C); (S105_4_1:SKJEMA1B); (S117_4_1:SKJEMA1A)
 | 9 | 18 |
 | Consumption have been reported by a mark but no amount given | 12 |
 | NA's | 37402 |
+| Not NA | 64351 |
 
 
 ### AA1387
@@ -21284,6 +22704,7 @@ S105_4_2:SKJEMA1E; (S105_4_2:SKJEMA1C); (S105_4_2:SKJEMA1B); (S117_4_2:SKJEMA1A)
 | 9 | 9 |
 | Consumption have been reported by a mark but no amount given | 11 |
 | NA's | 35856 |
+| Not NA | 65897 |
 
 
 ### AA1388
@@ -21293,6 +22714,7 @@ S105_4_3:SKJEMA1E; (S105_4_3:SKJEMA1C); (S105_4_3:SKJEMA1B); (S117_4_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 3212 |
+| Not NA | 3212 |
 | NA | 98541 |
 
 
@@ -21320,6 +22742,7 @@ S105_5_1:SKJEMA1E; (S105_5_1:SKJEMA1C); (S105_5_1:SKJEMA1B); (S117_5_1:SKJEMA1A)
 | 18 | 1 |
 | 14 | 1 |
 | 20 | 1 |
+| Not NA | 39114 |
 | NA | 62639 |
 
 
@@ -21345,6 +22768,7 @@ S105_5_2:SKJEMA1E; (S105_5_2:SKJEMA1C); (S105_5_2:SKJEMA1B); (S117_5_2:SKJEMA1A)
 | 16 | 3 |
 | 7 | 13 |
 | 9 | 1 |
+| Not NA | 40406 |
 | NA | 61347 |
 
 
@@ -21355,6 +22779,7 @@ S105_5_3:SKJEMA1E; (S105_5_3:SKJEMA1C); (S105_5_3:SKJEMA1B); (S117_5_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2616 |
+| Not NA | 2616 |
 | NA | 99137 |
 
 
@@ -21396,6 +22821,7 @@ S105_6_1:SKJEMA1E; (S105_6_1:SKJEMA1C); (S105_6_1:SKJEMA1B); (S117_6_1:SKJEMA1A)
 | 90 | 1 |
 | Consumption have been reported by a mark but no amount given | 11 |
 | NA's | 55979 |
+| Not NA | 45774 |
 
 
 ### AA1393
@@ -21431,6 +22857,7 @@ S105_6_2:SKJEMA1E; (S105_6_2:SKJEMA1C); (S105_6_2:SKJEMA1B); (S117_6_2:SKJEMA1A)
 | 9 | 11 |
 | Consumption have been reported by a mark but no amount given | 6 |
 | NA's | 56707 |
+| Not NA | 45046 |
 
 
 ### AA1394
@@ -21440,6 +22867,7 @@ S105_6_3:SKJEMA1E; (S105_6_3:SKJEMA1C); (S105_6_3:SKJEMA1B); (S117_6_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 206 |
+| Not NA | 206 |
 | NA | 101547 |
 
 
@@ -21474,6 +22902,7 @@ S105_7_1:SKJEMA1E; (S105_7_1:SKJEMA1C); (S105_7_1:SKJEMA1B); (S117_7_1:SKJEMA1A)
 | 90 | 1 |
 | Consumption have been reported by a mark but no amount given | 6 |
 | NA's | 62028 |
+| Not NA | 39725 |
 
 
 ### AA1396
@@ -21505,6 +22934,7 @@ S105_7_2:SKJEMA1E; (S105_7_2:SKJEMA1C); (S105_7_2:SKJEMA1B); (S117_7_2:SKJEMA1A)
 | 9 | 7 |
 | Consumption have been reported by a mark but no amount given | 5 |
 | NA's | 61810 |
+| Not NA | 39943 |
 
 
 ### AA1397
@@ -21514,6 +22944,7 @@ S105_7_3:SKJEMA1E; (S105_7_3:SKJEMA1C); (S105_7_3:SKJEMA1B); (S117_7_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 800 |
+| Not NA | 800 |
 | NA | 100953 |
 
 
@@ -21551,6 +22982,7 @@ S105_8_1:SKJEMA1E; (S105_8_1:SKJEMA1C); (S105_8_1:SKJEMA1B); (S117_8_1:SKJEMA1A)
 | 9 | 29 |
 | Consumption have been reported by a mark but no amount given | 6 |
 | NA's | 56214 |
+| Not NA | 45539 |
 
 
 ### AA1399
@@ -21582,6 +23014,7 @@ S105_8_2:SKJEMA1E; (S105_8_2:SKJEMA1C); (S105_8_2:SKJEMA1B); (S117_8_2:SKJEMA1A)
 | 9 | 13 |
 | Consumption have been reported by a mark but no amount given | 4 |
 | NA's | 57561 |
+| Not NA | 44192 |
 
 
 ### AA1400
@@ -21591,6 +23024,7 @@ S105_8_3:SKJEMA1E; (S105_8_3:SKJEMA1C); (S105_8_3:SKJEMA1B); (S117_8_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 272 |
+| Not NA | 272 |
 | NA | 101481 |
 
 
@@ -21622,6 +23056,7 @@ S105_9_1:SKJEMA1E; (S105_9_1:SKJEMA1C); (S105_9_1:SKJEMA1B); (S117_9_1:SKJEMA1A)
 | 9 | 5 |
 | Consumption have been reported by a mark but no amount given | 4 |
 | NA's | 64333 |
+| Not NA | 37420 |
 
 
 ### AA1402
@@ -21649,6 +23084,7 @@ S105_9_2:SKJEMA1E; (S105_9_2:SKJEMA1C); (S105_9_2:SKJEMA1B); (S117_9_2:SKJEMA1A)
 | 24 | 1 |
 | 15 | 1 |
 | 20 | 2 |
+| Not NA | 37256 |
 | NA | 64497 |
 
 
@@ -21659,6 +23095,7 @@ S105_9_3:SKJEMA1E; (S105_9_3:SKJEMA1C); (S105_9_3:SKJEMA1B); (S117_9_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 466 |
+| Not NA | 466 |
 | NA | 101287 |
 
 
@@ -21718,6 +23155,7 @@ S10510_1:SKJEMA1E; (S10510_1:SKJEMA1C); (S10510_1:SKJEMA1B); (S11710_1:SKJEMA1A)
 | 90 | 1 |
 | Consumption have been reported by a mark but no amount given | 12 |
 | NA's | 10092 |
+| Not NA | 91661 |
 
 
 ### AA1405
@@ -21778,6 +23216,7 @@ S10510_2:SKJEMA1E; (S10510_2:SKJEMA1C); (S10510_2:SKJEMA1B); (S11710_2:SKJEMA1A)
 | 98 | 1 |
 | Consumption have been reported by a mark but no amount given | 14 |
 | NA's | 8946 |
+| Not NA | 92807 |
 
 
 ### AA1406
@@ -21817,6 +23256,7 @@ S10511_1:SKJEMA1E; (S10511_1:SKJEMA1C); (S10511_1:SKJEMA1B); (S11711_1:SKJEMA1A)
 | 9 | 17 |
 | Consumption have been reported by a mark but no amount given | 6 |
 | NA's | 54308 |
+| Not NA | 47445 |
 
 
 ### AA1407
@@ -21861,6 +23301,7 @@ S10511_2:SKJEMA1E; (S10511_2:SKJEMA1C); (S10511_2:SKJEMA1B); (S11711_2:SKJEMA1A)
 | 9 | 28 |
 | Consumption have been reported by a mark but no amount given | 8 |
 | NA's | 52573 |
+| Not NA | 49180 |
 
 
 ### AA1408
@@ -21897,6 +23338,7 @@ S10512_1:SKJEMA1E; (S10512_1:SKJEMA1C); (S10512_1:SKJEMA1B); (S11712_1:SKJEMA1A)
 | 92 | 1 |
 | Consumption have been reported by a mark but no amount given | 16 |
 | NA's | 24923 |
+| Not NA | 76830 |
 
 
 ### AA1409
@@ -21934,6 +23376,7 @@ S10512_2:SKJEMA1E; (S10512_2:SKJEMA1C); (S10512_2:SKJEMA1B); (S11712_2:SKJEMA1A)
 | 9 | 31 |
 | Consumption have been reported by a mark but no amount given | 18 |
 | NA's | 22536 |
+| Not NA | 79217 |
 
 
 ### AA1410
@@ -21943,6 +23386,7 @@ S10512_3:SKJEMA1E; (S10512_3:SKJEMA1C); (S10512_3:SKJEMA1B); Juice/squash, Ecolo
 | Category | n |
 | -------- | - |
 | 1 | 970 |
+| Not NA | 970 |
 | NA | 100783 |
 
 
@@ -21974,6 +23418,7 @@ S10513_1:SKJEMA1E; (S10513_1:SKJEMA1C); (S10513_1:SKJEMA1B); (S11713_1:SKJEMA1A)
 | 9 | 5 |
 | Consumption have been reported by a mark but no amount given | 5 |
 | NA's | 60782 |
+| Not NA | 40971 |
 
 
 ### AA1412
@@ -22006,6 +23451,7 @@ S10513_2:SKJEMA1E; (S10513_2:SKJEMA1C); (S10513_2:SKJEMA1B); (S11713_2:SKJEMA1A)
 | 9 | 12 |
 | Consumption have been reported by a mark but no amount given | 7 |
 | NA's | 60589 |
+| Not NA | 41164 |
 
 
 ### AA1413
@@ -22015,6 +23461,7 @@ S10513_3:SKJEMA1E; (S10513_3:SKJEMA1C); (S10513_3:SKJEMA1B); Diet juice/squash, 
 | Category | n |
 | -------- | - |
 | 1 | 80 |
+| Not NA | 80 |
 | NA | 101673 |
 
 
@@ -22055,6 +23502,7 @@ S10514_1:SKJEMA1E; (S10514_1:SKJEMA1C); (S10514_1:SKJEMA1B); Milk (skimmed, low 
 | 90 | 1 |
 | Consumption have been reported by a mark but no amount given | 15 |
 | NA's | 28341 |
+| Not NA | 73412 |
 
 
 ### AA1415
@@ -22092,6 +23540,7 @@ S10514_2:SKJEMA1E; (S10514_2:SKJEMA1C); (S10514_2:SKJEMA1B); Milk (skimmed, low 
 | 95 | 1 |
 | Consumption have been reported by a mark but no amount given | 13 |
 | NA's | 25819 |
+| Not NA | 75934 |
 
 
 ### AA1416
@@ -22101,6 +23550,7 @@ S10514_3:SKJEMA1E; (S10514_3:SKJEMA1C); (S10514_3:SKJEMA1B); Milk (skimmed, low 
 | Category | n |
 | -------- | - |
 | 1 | 1806 |
+| Not NA | 1806 |
 | NA | 99947 |
 
 
@@ -22124,6 +23574,7 @@ S10515_1:SKJEMA1E; (S10515_1:SKJEMA1C); (S10515_1:SKJEMA1B); Yogurt, all types, 
 | 10 | 4 |
 | 14 | 1 |
 | 7 | 1 |
+| Not NA | 36310 |
 | NA | 65443 |
 
 
@@ -22148,6 +23599,7 @@ S10515_2:SKJEMA1E; (S10515_2:SKJEMA1C); (S10515_2:SKJEMA1B); Yogurt, all types, 
 | 20 | 1 |
 | 11 | 2 |
 | 9 | 1 |
+| Not NA | 37096 |
 | NA | 64657 |
 
 
@@ -22158,6 +23610,7 @@ S10515_3:SKJEMA1E; (S10515_3:SKJEMA1C); (S10515_3:SKJEMA1B); Yogurt, all types, 
 | Category | n |
 | -------- | - |
 | 1 | 72 |
+| Not NA | 72 |
 | NA | 101681 |
 
 
@@ -22181,6 +23634,7 @@ S10516_1:SKJEMA1E; (S10516_1:SKJEMA1C); (S10516_1:SKJEMA1B); Yogurt/active Lacto
 | 7 | 1 |
 | 6 | 9 |
 | 14 | 1 |
+| Not NA | 37819 |
 | NA | 63934 |
 
 
@@ -22205,6 +23659,7 @@ S10516_2:SKJEMA1E; (S10516_2:SKJEMA1C); (S10516_2:SKJEMA1B); Yogurt/active Lacto
 | 11 | 1 |
 | 10 | 2 |
 | 17 | 1 |
+| Not NA | 39733 |
 | NA | 62020 |
 
 
@@ -22215,6 +23670,7 @@ S10516_3:SKJEMA1E; (S10516_3:SKJEMA1C); (S10516_3:SKJEMA1B); Yogurt/active Lacto
 | Category | n |
 | -------- | - |
 | 1 | 56 |
+| Not NA | 56 |
 | NA | 101697 |
 
 
@@ -22237,6 +23693,7 @@ S10517_1:SKJEMA1E; (S10517_1:SKJEMA1C); (S10517_1:SKJEMA1B); Other type of cultu
 | 12 | 3 |
 | Consumption have been reported by a mark but no amount given | 2 |
 | 7 | 1 |
+| Not NA | 34940 |
 | NA | 66813 |
 
 
@@ -22263,6 +23720,7 @@ S10517_2:SKJEMA1E; (S10517_2:SKJEMA1C); (S10517_2:SKJEMA1B); Other type of cultu
 | 12 | 2 |
 | 11 | 1 |
 | 19 | 1 |
+| Not NA | 35318 |
 | NA | 66435 |
 
 
@@ -22273,6 +23731,7 @@ S10517_3:SKJEMA1E; (S10517_3:SKJEMA1C); (S10517_3:SKJEMA1B); Other type of cultu
 | Category | n |
 | -------- | - |
 | 1 | 290 |
+| Not NA | 290 |
 | NA | 101463 |
 
 
@@ -22301,6 +23760,7 @@ S10518_1:SKJEMA1E; (S10518_1:SKJEMA1C); (S10518_1:SKJEMA1B); (S11717_1:SKJEMA1A)
 | 11 | 3 |
 | 20 | 1 |
 | 30 | 1 |
+| Not NA | 24928 |
 | NA | 76825 |
 
 
@@ -22334,6 +23794,7 @@ S10518_2:SKJEMA1E; (S10518_2:SKJEMA1C); (S10518_2:SKJEMA1B); (S11717_2:SKJEMA1A)
 | 9 | 2 |
 | Consumption have been reported by a mark but no amount given | 1 |
 | NA's | 76655 |
+| Not NA | 25098 |
 
 
 ### AA1428
@@ -22343,6 +23804,7 @@ S10518_3:SKJEMA1E; (S10518_3:SKJEMA1C); (S10518_3:SKJEMA1B); Other, Ecological; 
 | Category | n |
 | -------- | - |
 | 1 | 189 |
+| Not NA | 189 |
 | NA | 101564 |
 
 
@@ -22364,6 +23826,7 @@ S11714_1:SKJEMA1A; ; 117. What was your fluid consumption (number of cups/glasse
 | 10 | 2 |
 | 7 | 2 |
 | 12 | 1 |
+| Not NA | 1106 |
 | NA | 100647 |
 
 
@@ -22385,6 +23848,7 @@ S11714_2:SKJEMA1A; ; 117. What was your fluid consumption (number of cups/glasse
 | 10 | 5 |
 | 7 | 3 |
 | 12 | 2 |
+| Not NA | 1128 |
 | NA | 100625 |
 
 
@@ -22406,6 +23870,7 @@ S11715_1:SKJEMA1A; ; 117. What was your fluid consumption (number of cups/glasse
 | 14 | 1 |
 | 7 | 6 |
 | 12 | 2 |
+| Not NA | 1490 |
 | NA | 100263 |
 
 
@@ -22429,6 +23894,7 @@ S11715_2:SKJEMA1A; ; 117. What was your fluid consumption (number of cups/glasse
 | 75 | 1 |
 | 16 | 2 |
 | 9 | 1 |
+| Not NA | 1519 |
 | NA | 100234 |
 
 
@@ -22447,6 +23913,7 @@ S11716_1:SKJEMA1A; ; 117. What was your fluid consumption (number of cups/glasse
 | 8 | 3 |
 | 10 | 1 |
 | 12 | 1 |
+| Not NA | 697 |
 | NA | 101056 |
 
 
@@ -22467,6 +23934,7 @@ S11716_2:SKJEMA1A; ; 117. What was your fluid consumption (number of cups/glasse
 | 10 | 1 |
 | 16 | 1 |
 | 12 | 1 |
+| Not NA | 699 |
 | NA | 101054 |
 
 
@@ -22477,6 +23945,7 @@ S106_1_1:SKJEMA1E; (S106_1_1:SKJEMA1C); (S106_1_1:SKJEMA1B); (S118_1_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 85366 |
+| Not NA | 85366 |
 | NA | 16387 |
 
 
@@ -22487,6 +23956,7 @@ S106_1_2:SKJEMA1E; (S106_1_2:SKJEMA1C); (S106_1_2:SKJEMA1B); (S118_1_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 10057 |
+| Not NA | 10057 |
 | NA | 91696 |
 
 
@@ -22497,6 +23967,7 @@ S106_1_3:SKJEMA1E; (S106_1_3:SKJEMA1C); (S106_1_3:SKJEMA1B); (S118_1_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 480 |
+| Not NA | 480 |
 | NA | 101273 |
 
 
@@ -22507,6 +23978,7 @@ S106_1_4:SKJEMA1E; (S106_1_4:SKJEMA1C); (S106_1_4:SKJEMA1B); (S118_1_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 188 |
+| Not NA | 188 |
 | NA | 101565 |
 
 
@@ -22517,6 +23989,7 @@ S106_2_1:SKJEMA1E; (S106_2_1:SKJEMA1C); (S106_2_1:SKJEMA1B); (S118_2_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 89978 |
+| Not NA | 89978 |
 | NA | 11775 |
 
 
@@ -22527,6 +24000,7 @@ S106_2_2:SKJEMA1E; (S106_2_2:SKJEMA1C); (S106_2_2:SKJEMA1B); (S118_2_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 2242 |
+| Not NA | 2242 |
 | NA | 99511 |
 
 
@@ -22537,6 +24011,7 @@ S106_2_3:SKJEMA1E; (S106_2_3:SKJEMA1C); (S106_2_3:SKJEMA1B); (S118_2_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 111 |
+| Not NA | 111 |
 | NA | 101642 |
 
 
@@ -22547,6 +24022,7 @@ S106_2_4:SKJEMA1E; (S106_2_4:SKJEMA1C); (S106_2_4:SKJEMA1B); (S118_2_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 46 |
+| Not NA | 46 |
 | NA | 101707 |
 
 
@@ -22557,6 +24033,7 @@ S106_3_1:SKJEMA1E; (S106_3_1:SKJEMA1C); (S106_3_1:SKJEMA1B); (S118_3_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 90430 |
+| Not NA | 90430 |
 | NA | 11323 |
 
 
@@ -22567,6 +24044,7 @@ S106_3_2:SKJEMA1E; (S106_3_2:SKJEMA1C); (S106_3_2:SKJEMA1B); (S118_3_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1448 |
+| Not NA | 1448 |
 | NA | 100305 |
 
 
@@ -22577,6 +24055,7 @@ S106_3_3:SKJEMA1E; (S106_3_3:SKJEMA1C); (S106_3_3:SKJEMA1B); (S118_3_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 30 |
+| Not NA | 30 |
 | NA | 101723 |
 
 
@@ -22587,6 +24066,7 @@ S106_3_4:SKJEMA1E; (S106_3_4:SKJEMA1C); (S106_3_4:SKJEMA1B); (S118_3_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 101740 |
 
 
@@ -22597,6 +24077,7 @@ S106_4_1:SKJEMA1E; (S106_4_1:SKJEMA1C); (S106_4_1:SKJEMA1B); (S118_4_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 90276 |
+| Not NA | 90276 |
 | NA | 11477 |
 
 
@@ -22607,6 +24088,7 @@ S106_4_2:SKJEMA1E; (S106_4_2:SKJEMA1C); (S106_4_2:SKJEMA1B); (S118_4_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 1622 |
+| Not NA | 1622 |
 | NA | 100131 |
 
 
@@ -22617,6 +24099,7 @@ S106_4_3:SKJEMA1E; (S106_4_3:SKJEMA1C); (S106_4_3:SKJEMA1B); (S118_4_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 89 |
+| Not NA | 89 |
 | NA | 101664 |
 
 
@@ -22627,6 +24110,7 @@ S106_4_4:SKJEMA1E; (S106_4_4:SKJEMA1C); (S106_4_4:SKJEMA1B); (S118_4_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 101732 |
 
 
@@ -22637,6 +24121,7 @@ S106_5_1:SKJEMA1E; (S106_5_1:SKJEMA1C); (S106_5_1:SKJEMA1B); (S118_5_1:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 90878 |
+| Not NA | 90878 |
 | NA | 10875 |
 
 
@@ -22647,6 +24132,7 @@ S106_5_2:SKJEMA1E; (S106_5_2:SKJEMA1C); (S106_5_2:SKJEMA1B); (S118_5_2:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 193 |
+| Not NA | 193 |
 | NA | 101560 |
 
 
@@ -22657,6 +24143,7 @@ S106_5_3:SKJEMA1E; (S106_5_3:SKJEMA1C); (S106_5_3:SKJEMA1B); (S118_5_3:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 101744 |
 
 
@@ -22667,6 +24154,7 @@ S106_5_4:SKJEMA1E; (S106_5_4:SKJEMA1C); (S106_5_4:SKJEMA1B); (S118_5_4:SKJEMA1A)
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 101744 |
 
 
@@ -22679,6 +24167,7 @@ S107:SKJEMA1E; (S107:SKJEMA1C); (S107:SKJEMA1B); ; 107. Have you ever consumed a
 | Yes | 93315 |
 | No | 4281 |
 | More than 1 check box filled in | 5 |
+| Not NA | 97601 |
 | NA | 4152 |
 
 
@@ -22696,6 +24185,7 @@ S108_1:SKJEMA1E; (S108_1:SKJEMA1C); (S108_1:SKJEMA1B); Last 3 months before preg
 | Approximately 4-5 times a week | 846 |
 | Approximately 6-7 times a week | 186 |
 | More than 1 check box filled in | 20 |
+| Not NA | 94506 |
 | NA | 7247 |
 
 
@@ -22713,6 +24203,7 @@ S108_2:SKJEMA1E; (S108_2:SKJEMA1C); (S108_2:SKJEMA1B); During pregnancy; 108. Ho
 | More than 1 check box filled in | 38 |
 | Approximately 6-7 times a week | 15 |
 | Approximately 4-5 times a week | 7 |
+| Not NA | 85807 |
 | NA | 15946 |
 
 
@@ -22723,6 +24214,7 @@ S109_1:SKJEMA1E; (S109_1:SKJEMA1C); (S109_1:SKJEMA1B); (S120_1:SKJEMA1A); Light 
 | Category | n |
 | -------- | - |
 | 1 | 4020 |
+| Not NA | 4020 |
 | NA | 97733 |
 
 
@@ -22733,6 +24225,7 @@ S109_2:SKJEMA1E; (S109_2:SKJEMA1C); (S109_2:SKJEMA1B); (S120_2:SKJEMA1A); Beer; 
 | Category | n |
 | -------- | - |
 | 1 | 46591 |
+| Not NA | 46591 |
 | NA | 55162 |
 
 
@@ -22743,6 +24236,7 @@ S109_3:SKJEMA1E; (S109_3:SKJEMA1C); (S109_3:SKJEMA1B); (S120_3:SKJEMA1A); Red wi
 | Category | n |
 | -------- | - |
 | 1 | 67370 |
+| Not NA | 67370 |
 | NA | 34383 |
 
 
@@ -22753,6 +24247,7 @@ S109_4:SKJEMA1E; (S109_4:SKJEMA1C); (S109_4:SKJEMA1B); (S120_4:SKJEMA1A); White 
 | Category | n |
 | -------- | - |
 | 1 | 33493 |
+| Not NA | 33493 |
 | NA | 68260 |
 
 
@@ -22763,6 +24258,7 @@ S109_5:SKJEMA1E; (S109_5:SKJEMA1C); (S109_5:SKJEMA1B); (S120_5:SKJEMA1A); Low al
 | Category | n |
 | -------- | - |
 | 1 | 18254 |
+| Not NA | 18254 |
 | NA | 83499 |
 
 
@@ -22773,6 +24269,7 @@ S109_6:SKJEMA1E; (S109_6:SKJEMA1C); (S109_6:SKJEMA1B); (S120_6:SKJEMA1A); Fortif
 | Category | n |
 | -------- | - |
 | 1 | 2149 |
+| Not NA | 2149 |
 | NA | 99604 |
 
 
@@ -22783,6 +24280,7 @@ S109_7:SKJEMA1E; (S109_7:SKJEMA1C); (S109_7:SKJEMA1B); (S120_7:SKJEMA1A); Spirit
 | Category | n |
 | -------- | - |
 | 1 | 18268 |
+| Not NA | 18268 |
 | NA | 83485 |
 
 
@@ -22800,6 +24298,7 @@ S119_1:SKJEMA1A; Last 3 months before pregancy; 119. How often did you consume a
 | Approximately 2-3 times a week | 97 |
 | Approximately 4-5 times a week | 9 |
 | More than 1 check box filled in | 2 |
+| Not NA | 2519 |
 | NA | 99234 |
 
 
@@ -22815,6 +24314,7 @@ S119_2:SKJEMA1A; During pregnancy; 119. How often did you consume alcohol before
 | Approximately once a week | 15 |
 | Approximately 2-3 times a week | 5 |
 | More than 1 check box filled in | 5 |
+| Not NA | 2286 |
 | NA | 99467 |
 
 
@@ -22830,6 +24330,7 @@ S110_1:SKJEMA1E; (S110_1:SKJEMA1C); (S110_1:SKJEMA1B); Last 3 months before preg
 | Once per week | 4879 |
 | Several times per week | 701 |
 | More than 1 check box filled in | 13 |
+| Not NA | 93430 |
 | NA | 8323 |
 
 
@@ -22845,6 +24346,7 @@ S110_2:SKJEMA1E; (S110_2:SKJEMA1C); (S110_2:SKJEMA1B); During pregnancy; 110. Di
 | Several times per week | 44 |
 | Once per week | 149 |
 | More than 1 check box filled in | 15 |
+| Not NA | 83125 |
 | NA | 18628 |
 
 
@@ -22861,6 +24363,7 @@ S111_1:SKJEMA1E; (S111_1:SKJEMA1C); (S111_1:SKJEMA1B); Last 3 months before preg
 | Fewer than 1 | 8043 |
 | 10 or more | 1193 |
 | More than 1 check box filled in | 39 |
+| Not NA | 90748 |
 | NA | 11005 |
 
 
@@ -22877,6 +24380,7 @@ S111_2:SKJEMA1E; (S111_2:SKJEMA1C); (S111_2:SKJEMA1B); During pregnancy; 111. Ho
 | 7-9 | 35 |
 | 10 or more | 18 |
 | More than 1 check box filled in | 8 |
+| Not NA | 62725 |
 | NA | 39028 |
 
 
@@ -22893,6 +24397,7 @@ S112:SKJEMA1E; (S112:SKJEMA1C); (S112:SKJEMA1B); (S122:SKJEMA1A); ; 112. How man
 | 3rd Qu. | 4 |
 | Max. | 40 |
 | NA's | 10937 |
+| Not NA | 90816 |
 
 
 ### AA1467
@@ -22904,6 +24409,7 @@ S113:SKJEMA1E; (S113:SKJEMA1C); (S113:SKJEMA1B); (S125:SKJEMA1A); ; 113. Have ot
 | No | 94309 |
 | Yes | 1808 |
 | More than 1 check box filled in | 6 |
+| Not NA | 96123 |
 | NA | 5630 |
 
 
@@ -22916,6 +24422,7 @@ S114:SKJEMA1E; (S114:SKJEMA1C); (S114:SKJEMA1B); (S126:SKJEMA1A); ; 114. Have yo
 | No | 89440 |
 | Yes | 6450 |
 | More than 1 check box filled in | 10 |
+| Not NA | 95900 |
 | NA | 5853 |
 
 
@@ -22928,6 +24435,7 @@ S115:SKJEMA1E; (S115:SKJEMA1C); (S115:SKJEMA1B); (S127:SKJEMA1A); ; 115. Have yo
 | No | 94890 |
 | Yes | 1212 |
 | More than 1 check box filled in | 3 |
+| Not NA | 96105 |
 | NA | 5648 |
 
 
@@ -22941,6 +24449,7 @@ S121_1:SKJEMA1A; ; 121. Thinking about the period you have been pregnant - inclu
 | No | 1512 |
 | Do not know | 55 |
 | More than 1 check box filled in | 6 |
+| Not NA | 2126 |
 | NA | 99627 |
 
 
@@ -22962,6 +24471,7 @@ S121_2:SKJEMA1A; Number of times; 121. Thinking about the period you have been p
 | 8 | 1 |
 | 14 | 2 |
 | 12 | 1 |
+| Not NA | 545 |
 | NA | 101208 |
 
 
@@ -22978,6 +24488,7 @@ S123_1:SKJEMA1A; Last 3 months before pregnancy; 123. How many units of alcohol 
 | Less than 1 | 115 |
 | 10 or more | 18 |
 | More than 1 check box filled in | 28 |
+| Not NA | 1997 |
 | NA | 99756 |
 
 
@@ -22993,6 +24504,7 @@ S123_2:SKJEMA1A; During pregnancy; 123. How many units of alcohol do you usually
 | 0 | 2 |
 | 4 | 4 |
 | 5 | 1 |
+| Not NA | 1438 |
 | NA | 100315 |
 
 
@@ -23006,6 +24518,7 @@ S116_1:SKJEMA1E; (S116_1:SKJEMA1C); (S116_1:SKJEMA1B); Argued with or had negati
 | Once | 5066 |
 | Several times | 1800 |
 | More than 1 check box filled in | 9 |
+| Not NA | 92949 |
 | NA | 8804 |
 
 
@@ -23019,6 +24532,7 @@ S116_2:SKJEMA1E; (S116_2:SKJEMA1C); (S116_2:SKJEMA1B); Suddenly found yourself s
 | Once | 2487 |
 | Several times | 480 |
 | More than 1 check box filled in | 6 |
+| Not NA | 92671 |
 | NA | 9082 |
 
 
@@ -23032,6 +24546,7 @@ S116_3:SKJEMA1E; (S116_3:SKJEMA1C); (S116_3:SKJEMA1B); Been absent from work or 
 | Once | 1457 |
 | Several times | 437 |
 | More than 1 check box filled in | 1 |
+| Not NA | 92594 |
 | NA | 9159 |
 
 
@@ -23045,6 +24560,7 @@ S116_4:SKJEMA1E; (S116_4:SKJEMA1C); (S116_4:SKJEMA1B); Fainted or passed out sud
 | Once | 965 |
 | Several times | 167 |
 | More than 1 check box filled in | 3 |
+| Not NA | 92551 |
 | NA | 9202 |
 
 
@@ -23058,6 +24574,7 @@ S116_5:SKJEMA1E; (S116_5:SKJEMA1C); (S116_5:SKJEMA1B); Had a sad period; 116. Ha
 | Once | 3686 |
 | Several times | 1625 |
 | More than 1 check box filled in | 7 |
+| Not NA | 92720 |
 | NA | 9033 |
 
 
@@ -23068,6 +24585,7 @@ S124_1:SKJEMA1A; Argued with or had negative feelings for a family member; 124. 
 | Category | n |
 | -------- | - |
 | 1 | 94 |
+| Not NA | 94 |
 | NA | 101659 |
 
 
@@ -23078,6 +24596,7 @@ S124_2:SKJEMA1A; Suddenly found yourself somewhere without knowing how you got t
 | Category | n |
 | -------- | - |
 | 1 | 28 |
+| Not NA | 28 |
 | NA | 101725 |
 
 
@@ -23088,6 +24607,7 @@ S124_3:SKJEMA1A; Been absent from work or school; 124. Have you ever experienced
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 101730 |
 
 
@@ -23098,6 +24618,7 @@ S124_4:SKJEMA1A; Fainted or passed out suddenly; 124. Have you ever experienced 
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 101733 |
 
 
@@ -23108,6 +24629,7 @@ S124_5:SKJEMA1A; Had a sad period; 124. Have you ever experienced any of the fol
 | Category | n |
 | -------- | - |
 | 1 | 56 |
+| Not NA | 56 |
 | NA | 101697 |
 
 
@@ -23121,6 +24643,7 @@ S117:SKJEMA1E; (S117:SKJEMA1C); (S117:SKJEMA1B); (S143:SKJEMA1A); ; 117. Do you 
 | No | 50251 |
 | Yes, a little | 38302 |
 | More than 1 check box filled in | 18 |
+| Not NA | 101127 |
 | NA | 626 |
 
 
@@ -23134,6 +24657,7 @@ S118:SKJEMA1E; (S118:SKJEMA1C); (S118:SKJEMA1B); (S144:SKJEMA1A); ; 118. Are you
 | Somewhat worried | 32639 |
 | Yes, very worried | 9736 |
 | More than 1 check box filled in | 45 |
+| Not NA | 100969 |
 | NA | 784 |
 
 
@@ -23147,6 +24671,7 @@ S119:SKJEMA1E; (S119:SKJEMA1C); (S119:SKJEMA1B); (S145:SKJEMA1A); ; 119. Has any
 | Yes, occasionally | 6862 |
 | Yes, often | 870 |
 | More than 1 check box filled in | 9 |
+| Not NA | 101002 |
 | NA | 751 |
 
 
@@ -23160,6 +24685,7 @@ S120_1:SKJEMA1E; (S120_1:SKJEMA1C); (S120_1:SKJEMA1B); Last 6 months before this
 | Seldom | 20372 |
 | Yes, at least once a week | 6401 |
 | More than 1 check box filled in | 101 |
+| Not NA | 98047 |
 | NA | 3706 |
 
 
@@ -23173,6 +24699,7 @@ S120_2:SKJEMA1E; (S120_2:SKJEMA1C); (S120_2:SKJEMA1B); Now; 120. Have you ever f
 | Seldom | 16354 |
 | Yes, at least once a week | 5714 |
 | More than 1 check box filled in | 54 |
+| Not NA | 93700 |
 | NA | 8053 |
 
 
@@ -23185,6 +24712,7 @@ S121_1_1:SKJEMA1E; (S121_1_1:SKJEMA1C); (S121_1_1:SKJEMA1B); (S147_1_1:SKJEMA1A)
 | Seldom/never | 76240 |
 | At least once a week | 960 |
 | More than 1 check box filled in | 4 |
+| Not NA | 77204 |
 | NA | 24549 |
 
 
@@ -23197,6 +24725,7 @@ S121_1_2:SKJEMA1E; (S121_1_2:SKJEMA1C); (S121_1_2:SKJEMA1B); (S147_1_2:SKJEMA1A)
 | Seldom/never | 91041 |
 | At least once a week | 400 |
 | More than 1 check box filled in | 8 |
+| Not NA | 91449 |
 | NA | 10304 |
 
 
@@ -23208,6 +24737,7 @@ S121_2_1:SKJEMA1E; (S121_2_1:SKJEMA1C); (S121_2_1:SKJEMA1B); (S147_2_1:SKJEMA1A)
 | -------- | - |
 | Seldom/never | 76123 |
 | At least once a week | 362 |
+| Not NA | 76485 |
 | NA | 25268 |
 
 
@@ -23220,6 +24750,7 @@ S121_2_2:SKJEMA1E; (S121_2_2:SKJEMA1C); (S121_2_2:SKJEMA1B); (S147_2_2:SKJEMA1A)
 | Seldom/never | 90708 |
 | At least once a week | 81 |
 | More than 1 check box filled in | 6 |
+| Not NA | 90795 |
 | NA | 10958 |
 
 
@@ -23232,6 +24763,7 @@ S121_3_1:SKJEMA1E; (S121_3_1:SKJEMA1C); (S121_3_1:SKJEMA1B); (S147_3_1:SKJEMA1A)
 | Seldom/never | 75661 |
 | At least once a week | 1179 |
 | More than 1 check box filled in | 1 |
+| Not NA | 76841 |
 | NA | 24912 |
 
 
@@ -23244,6 +24776,7 @@ S121_3_2:SKJEMA1E; (S121_3_2:SKJEMA1C); (S121_3_2:SKJEMA1B); (S147_3_2:SKJEMA1A)
 | Seldom/never | 90763 |
 | At least once a week | 64 |
 | More than 1 check box filled in | 6 |
+| Not NA | 90833 |
 | NA | 10920 |
 
 
@@ -23256,6 +24789,7 @@ S121_4_1:SKJEMA1E; (S121_4_1:SKJEMA1C); (S121_4_1:SKJEMA1B); (S147_4_1:SKJEMA1A)
 | Seldom/never | 67715 |
 | At least once a week | 11546 |
 | More than 1 check box filled in | 17 |
+| Not NA | 79278 |
 | NA | 22475 |
 
 
@@ -23268,6 +24802,7 @@ S121_4_2:SKJEMA1E; (S121_4_2:SKJEMA1C); (S121_4_2:SKJEMA1B); (S147_4_2:SKJEMA1A)
 | Seldom/never | 89531 |
 | At least once a week | 2593 |
 | More than 1 check box filled in | 25 |
+| Not NA | 92149 |
 | NA | 9604 |
 
 
@@ -23281,6 +24816,7 @@ S122:SKJEMA1E; (S122:SKJEMA1C); (S122:SKJEMA1B); (S148:SKJEMA1A); ; 122. Is it i
 | No, not especially important | 32466 |
 | Yes, very important | 11062 |
 | More than 1 check box filled in | 80 |
+| Not NA | 100919 |
 | NA | 834 |
 
 
@@ -23293,6 +24829,7 @@ S146_1:SKJEMA1A; ; 146. Have you ever felt that you lost control while eating an
 | Seldom/never | 2264 |
 | Yes, at least once a week | 227 |
 | More than 1 check box filled in | 2 |
+| Not NA | 2493 |
 | NA | 99260 |
 
 
@@ -23305,6 +24842,7 @@ S146_2:SKJEMA1A; ; 146. Have you ever felt that you lost control while eating an
 | Seldom/never | 2180 |
 | Yes, at least once a week | 197 |
 | More than 1 check box filled in | 3 |
+| Not NA | 2380 |
 | NA | 99373 |
 
 
@@ -23320,6 +24858,7 @@ S130_1_1:SKJEMA1E; (S123_1_1:SKJEMA1C); (S123_1_1:SKJEMA1B); Walking, Last 3 mon
 | 1-3 times a month | 16482 |
 | Never | 3470 |
 | More than 1 check box filled in | 123 |
+| Not NA | 89259 |
 | NA | 12494 |
 
 
@@ -23335,6 +24874,7 @@ S130_1_2:SKJEMA1E; (S123_1_2:SKJEMA1C); (S123_1_2:SKJEMA1B); Walking, During thi
 | Once a week | 18663 |
 | Never | 3495 |
 | More than 1 check box filled in | 226 |
+| Not NA | 88868 |
 | NA | 12885 |
 
 
@@ -23350,6 +24890,7 @@ S130_2_1:SKJEMA1E; (S123_2_1:SKJEMA1C); (S123_2_1:SKJEMA1B); Brisk walking, Last
 | Never | 18228 |
 | 1-3 times a month | 20240 |
 | More than 1 check box filled in | 81 |
+| Not NA | 86708 |
 | NA | 15045 |
 
 
@@ -23365,6 +24906,7 @@ S130_2_2:SKJEMA1E; (S123_2_2:SKJEMA1C); (S123_2_2:SKJEMA1B); Brisk walking, Duri
 | Never | 26007 |
 | Twice a week | 10242 |
 | More than 1 check box filled in | 88 |
+| Not NA | 82345 |
 | NA | 19408 |
 
 
@@ -23380,6 +24922,7 @@ S130_3_1:SKJEMA1E; (S123_3_1:SKJEMA1C); (S123_3_1:SKJEMA1B); Running/jogging/ori
 | Twice a week | 3767 |
 | 1-3 times a month | 8725 |
 | More than 1 check box filled in | 110 |
+| Not NA | 79926 |
 | NA | 21827 |
 
 
@@ -23395,6 +24938,7 @@ S130_3_2:SKJEMA1E; (S123_3_2:SKJEMA1C); (S123_3_2:SKJEMA1B); Running/jogging/ori
 | 3 or more times a week | 396 |
 | 1-3 times a month | 3441 |
 | Twice a week | 721 |
+| Not NA | 72748 |
 | NA | 29005 |
 
 
@@ -23410,6 +24954,7 @@ S130_4_1:SKJEMA1E; (S123_4_1:SKJEMA1C); (S123_4_1:SKJEMA1B); Bicycling, Last 3 m
 | Twice a week | 6799 |
 | 1-3 times a month | 19035 |
 | More than 1 check box filled in | 120 |
+| Not NA | 82398 |
 | NA | 19355 |
 
 
@@ -23425,6 +24970,7 @@ S130_4_2:SKJEMA1E; (S123_4_2:SKJEMA1C); (S123_4_2:SKJEMA1B); Bicycling, During t
 | Once a week | 5381 |
 | 3 or more times a week | 4314 |
 | More than 1 check box filled in | 72 |
+| Not NA | 76554 |
 | NA | 25199 |
 
 
@@ -23440,6 +24986,7 @@ S130_5_1:SKJEMA1E; (S123_5_1:SKJEMA1C); (S123_5_1:SKJEMA1B); Training studio/wei
 | 1-3 times a month | 8369 |
 | Twice a week | 7854 |
 | More than 1 check box filled in | 164 |
+| Not NA | 81856 |
 | NA | 19897 |
 
 
@@ -23455,6 +25002,7 @@ S130_5_2:SKJEMA1E; (S123_5_2:SKJEMA1C); (S123_5_2:SKJEMA1B); Training studio/wei
 | Twice a week | 2887 |
 | 3 or more times a week | 855 |
 | More than 1 check box filled in | 41 |
+| Not NA | 75228 |
 | NA | 26525 |
 
 
@@ -23470,6 +25018,7 @@ S130_6_1:SKJEMA1E; (S123_6_1:SKJEMA1C); (S123_6_1:SKJEMA1B); Special gymnastics/
 | 1-3 times a month | 338 |
 | Once a week | 343 |
 | 3 or more times a week | 93 |
+| Not NA | 76289 |
 | NA | 25464 |
 
 
@@ -23485,6 +25034,7 @@ S130_6_2:SKJEMA1E; (S123_6_2:SKJEMA1C); (S123_6_2:SKJEMA1B); Special gymnastics/
 | Once a week | 2474 |
 | 3 or more times a week | 286 |
 | More than 1 check box filled in | 30 |
+| Not NA | 72909 |
 | NA | 28844 |
 
 
@@ -23500,6 +25050,7 @@ S130_7_1:SKJEMA1E; (S123_7_1:SKJEMA1C); (S123_7_1:SKJEMA1B); Aerobics/gymnastics
 | More than 1 check box filled in | 162 |
 | Twice a week | 2013 |
 | 3 or more times a week | 708 |
+| Not NA | 77983 |
 | NA | 23770 |
 
 
@@ -23515,6 +25066,7 @@ S130_7_2:SKJEMA1E; (S123_7_2:SKJEMA1C); (S123_7_2:SKJEMA1B); Aerobics/gymnastics
 | Once a week | 2502 |
 | 3 or more times a week | 287 |
 | More than 1 check box filled in | 20 |
+| Not NA | 73311 |
 | NA | 28442 |
 
 
@@ -23530,6 +25082,7 @@ S130_8_1:SKJEMA1E; (S123_8_1:SKJEMA1C); (S123_8_1:SKJEMA1B); Aerobics/gymnastics
 | More than 1 check box filled in | 197 |
 | 3 or more times a week | 1218 |
 | Twice a week | 3612 |
+| Not NA | 79634 |
 | NA | 22119 |
 
 
@@ -23545,6 +25098,7 @@ S130_8_2:SKJEMA1E; (S123_8_2:SKJEMA1C); (S123_8_2:SKJEMA1B); Aerobics/gymnastics
 | 1-3 times a month | 1768 |
 | 3 or more times a week | 191 |
 | More than 1 check box filled in | 20 |
+| Not NA | 72934 |
 | NA | 28819 |
 
 
@@ -23560,6 +25114,7 @@ S130_9_1:SKJEMA1E; (S123_9_1:SKJEMA1C); (S123_9_1:SKJEMA1B); Dancing (swing/rock
 | Twice a week | 486 |
 | Once a week | 2020 |
 | 3 or more times a week | 300 |
+| Not NA | 77900 |
 | NA | 23853 |
 
 
@@ -23575,6 +25130,7 @@ S130_9_2:SKJEMA1E; (S123_9_2:SKJEMA1C); (S123_9_2:SKJEMA1B); Dancing (swing/rock
 | More than 1 check box filled in | 31 |
 | Twice a week | 206 |
 | 3 or more times a week | 118 |
+| Not NA | 72684 |
 | NA | 29069 |
 
 
@@ -23590,6 +25146,7 @@ S13010_1:SKJEMA1E; (S12310_1:SKJEMA1C); (S12310_1:SKJEMA1B); Skiing, Last 3 mont
 | Once a week | 2605 |
 | Twice a week | 1131 |
 | 3 or more times a week | 458 |
+| Not NA | 78907 |
 | NA | 22846 |
 
 
@@ -23605,6 +25162,7 @@ S13010_2:SKJEMA1E; (S12310_2:SKJEMA1C); (S12310_2:SKJEMA1B); Skiing, During this
 | Twice a week | 649 |
 | More than 1 check box filled in | 35 |
 | 3 or more times a week | 175 |
+| Not NA | 74033 |
 | NA | 27720 |
 
 
@@ -23620,6 +25178,7 @@ S13011_1:SKJEMA1E; (S12311_1:SKJEMA1C); (S12311_1:SKJEMA1B); Ball sports, Last 3
 | More than 1 check box filled in | 190 |
 | Twice a week | 1690 |
 | 3 or more times a week | 877 |
+| Not NA | 78439 |
 | NA | 23314 |
 
 
@@ -23635,6 +25194,7 @@ S13011_2:SKJEMA1E; (S12311_2:SKJEMA1C); (S12311_2:SKJEMA1B); Ball sports, During
 | 3 or more times a week | 102 |
 | Once a week | 1034 |
 | More than 1 check box filled in | 27 |
+| Not NA | 72714 |
 | NA | 29039 |
 
 
@@ -23650,6 +25210,7 @@ S13012_1:SKJEMA1E; (S12312_1:SKJEMA1C); (S12312_1:SKJEMA1B); Swimming, Last 3 mo
 | Twice a week | 1023 |
 | 3 or more times a week | 429 |
 | Once a week | 4734 |
+| Not NA | 79346 |
 | NA | 22407 |
 
 
@@ -23665,6 +25226,7 @@ S13012_2:SKJEMA1E; (S12312_2:SKJEMA1C); (S12312_2:SKJEMA1B); Swimming, During th
 | Twice a week | 1050 |
 | 3 or more times a week | 277 |
 | More than 1 check box filled in | 69 |
+| Not NA | 74958 |
 | NA | 26795 |
 
 
@@ -23680,6 +25242,7 @@ S13013_1:SKJEMA1E; (S12313_1:SKJEMA1C); (S12313_1:SKJEMA1B); Riding, Last 3 mont
 | Twice a week | 409 |
 | Once a week | 682 |
 | 1-3 times a month | 1304 |
+| Not NA | 78024 |
 | NA | 23729 |
 
 
@@ -23695,6 +25258,7 @@ S13013_2:SKJEMA1E; (S12313_2:SKJEMA1C); (S12313_2:SKJEMA1B); Riding, During this
 | 1-3 times a month | 759 |
 | Twice a week | 222 |
 | More than 1 check box filled in | 12 |
+| Not NA | 72772 |
 | NA | 28981 |
 
 
@@ -23710,6 +25274,7 @@ S13014_1:SKJEMA1E; (S12314_1:SKJEMA1C); (S12314_1:SKJEMA1B); Other, Last 3 month
 | 3 or more times a week | 1757 |
 | Twice a week | 1446 |
 | More than 1 check box filled in | 193 |
+| Not NA | 60393 |
 | NA | 41360 |
 
 
@@ -23725,6 +25290,7 @@ S13014_2:SKJEMA1E; (S12314_2:SKJEMA1C); (S12314_2:SKJEMA1B); Other, During this 
 | 3 or more times a week | 1301 |
 | Twice a week | 949 |
 | More than 1 check box filled in | 58 |
+| Not NA | 59649 |
 | NA | 42104 |
 
 
@@ -23740,6 +25306,7 @@ S131_1_1:SKJEMA1E; (S124_1_1:SKJEMA1C); (S124_1_1:SKJEMA1B); Abdominal muscles L
 | 3 or more times a week | 11873 |
 | Never | 36101 |
 | More than 1 check box filled in | 79 |
+| Not NA | 95675 |
 | NA | 6078 |
 
 
@@ -23755,6 +25322,7 @@ S131_1_2:SKJEMA1E; (S124_1_2:SKJEMA1C); (S124_1_2:SKJEMA1B); Abdominal muscles D
 | Twice a week | 6181 |
 | 3 or more times a week | 3409 |
 | More than 1 check box filled in | 58 |
+| Not NA | 89622 |
 | NA | 12131 |
 
 
@@ -23770,6 +25338,7 @@ S131_2_1:SKJEMA1E; (S124_2_1:SKJEMA1C); (S124_2_1:SKJEMA1B); Back muscles Last 3
 | Never | 40540 |
 | Twice a week | 14699 |
 | More than 1 check box filled in | 67 |
+| Not NA | 94430 |
 | NA | 7323 |
 
 
@@ -23785,6 +25354,7 @@ S131_2_2:SKJEMA1E; (S124_2_2:SKJEMA1C); (S124_2_2:SKJEMA1B); Back muscles During
 | 3 or more times a week | 4066 |
 | Twice a week | 7391 |
 | More than 1 check box filled in | 40 |
+| Not NA | 89192 |
 | NA | 12561 |
 
 
@@ -23800,6 +25370,7 @@ S131_3_1:SKJEMA1E; (S124_3_1:SKJEMA1C); (S124_3_1:SKJEMA1B); Pelvic floor muscle
 | Twice a week | 8609 |
 | 3 or more times a week | 9949 |
 | More than 1 check box filled in | 67 |
+| Not NA | 93907 |
 | NA | 7846 |
 
 
@@ -23815,6 +25386,7 @@ S131_3_2:SKJEMA1E; (S124_3_2:SKJEMA1C); (S124_3_2:SKJEMA1B); Pelvic floor muscle
 | Twice a week | 10557 |
 | Once a week | 13148 |
 | More than 1 check box filled in | 87 |
+| Not NA | 91551 |
 | NA | 10202 |
 
 
@@ -23831,6 +25403,7 @@ S132_1:SKJEMA1E; (S125_1:SKJEMA1C); (S125_1:SKJEMA1B); Leisure Last 3 months bef
 | 5 times a week or more | 6679 |
 | Never | 7777 |
 | More than 1 check box filled in | 350 |
+| Not NA | 96500 |
 | NA | 5253 |
 
 
@@ -23847,6 +25420,7 @@ S132_2:SKJEMA1E; (S125_2:SKJEMA1C); (S125_2:SKJEMA1B); At work Last 3 months bef
 | Once a week | 8240 |
 | 5 times a week or more | 4129 |
 | More than 1 check box filled in | 249 |
+| Not NA | 83787 |
 | NA | 17966 |
 
 
@@ -23863,6 +25437,7 @@ S132_3:SKJEMA1E; (S125_3:SKJEMA1C); (S125_3:SKJEMA1B); Leisure During pregnancy;
 | Once a week | 19314 |
 | 5 times a week or more | 4009 |
 | More than 1 check box filled in | 240 |
+| Not NA | 95478 |
 | NA | 6275 |
 
 
@@ -23879,6 +25454,7 @@ S132_4:SKJEMA1E; (S125_4:SKJEMA1C); (S125_4:SKJEMA1B); At work During pregnancy;
 | Once a week | 7511 |
 | 5 times a week or more | 3235 |
 | More than 1 check box filled in | 184 |
+| Not NA | 82398 |
 | NA | 19355 |
 
 
@@ -23889,6 +25465,7 @@ S128_1_1:SKJEMA1A; Walking, Last 3 months before this pregnancy; Never; 128. How
 | Category | n |
 | -------- | - |
 | 1 | 210 |
+| Not NA | 210 |
 | NA | 101543 |
 
 
@@ -23915,6 +25492,7 @@ S128_1_2:SKJEMA1A; Walking, Last 3 months before this pregnancy; Number of times
 | 0 | 7 |
 | 24 | 1 |
 | 21 | 1 |
+| Not NA | 1857 |
 | NA | 99896 |
 
 
@@ -23931,6 +25509,7 @@ S128_1_3:SKJEMA1A; Walking, Last 3 months before this pregnancy; Minutes each ti
 | 3rd Qu. | 50 |
 | Max. | 360 |
 | NA's | 99965 |
+| Not NA | 1788 |
 
 
 ### AA2033
@@ -23940,6 +25519,7 @@ S128_1_4:SKJEMA1A; Walking, During this pregnancy; Never; 128. How often do you 
 | Category | n |
 | -------- | - |
 | 1 | 191 |
+| Not NA | 191 |
 | NA | 101562 |
 
 
@@ -23968,6 +25548,7 @@ S128_1_5:SKJEMA1A; Walking, During this pregnancy; Number of times per week; 128
 | 16 | 1 |
 | 24 | 1 |
 | 21 | 1 |
+| Not NA | 1933 |
 | NA | 99820 |
 
 
@@ -23984,6 +25565,7 @@ S128_1_6:SKJEMA1A; Walking, During this pregnancy; Minutes each time; 128. How o
 | 3rd Qu. | 45 |
 | Max. | 360 |
 | NA's | 99876 |
+| Not NA | 1877 |
 
 
 ### AA2036
@@ -23993,6 +25575,7 @@ S128_2_1:SKJEMA1A; Brisk walking, Last 3 months before this pregnancy; Never; 12
 | Category | n |
 | -------- | - |
 | 1 | 646 |
+| Not NA | 646 |
 | NA | 101107 |
 
 
@@ -24018,6 +25601,7 @@ S128_2_2:SKJEMA1A; Brisk walking, Last 3 months before this pregnancy; Number of
 | 20 | 2 |
 | 21 | 1 |
 | 9 | 1 |
+| Not NA | 1230 |
 | NA | 100523 |
 
 
@@ -24034,6 +25618,7 @@ S128_2_3:SKJEMA1A; Brisk walking, Last 3 months before this pregnancy; Minutes e
 | 3rd Qu. | 60 |
 | Max. | 240 |
 | NA's | 100558 |
+| Not NA | 1195 |
 
 
 ### AA2039
@@ -24043,6 +25628,7 @@ S128_2_4:SKJEMA1A; Brisk walking, During this pregnancy; Never; 128. How often d
 | Category | n |
 | -------- | - |
 | 1 | 684 |
+| Not NA | 684 |
 | NA | 101069 |
 
 
@@ -24069,6 +25655,7 @@ S128_2_5:SKJEMA1A; Brisk walking, During this pregnancy; Number of times per wee
 | 9 | 2 |
 | 21 | 1 |
 | 40 | 1 |
+| Not NA | 984 |
 | NA | 100769 |
 
 
@@ -24085,6 +25672,7 @@ S128_2_6:SKJEMA1A; Brisk walking, During this pregnancy; Minutes each time; 128.
 | 3rd Qu. | 60 |
 | Max. | 240 |
 | NA's | 100801 |
+| Not NA | 952 |
 
 
 ### AA2042
@@ -24094,6 +25682,7 @@ S128_3_1:SKJEMA1A; Running/jogging/orienteering, Last 3 months before this pregn
 | Category | n |
 | -------- | - |
 | 1 | 1395 |
+| Not NA | 1395 |
 | NA | 100358 |
 
 
@@ -24110,6 +25699,7 @@ S128_3_2:SKJEMA1A; Running/jogging/orienteering, Last 3 months before this pregn
 | 3 | 27 |
 | 5 | 5 |
 | 7 | 4 |
+| Not NA | 243 |
 | NA | 101510 |
 
 
@@ -24136,6 +25726,7 @@ S128_3_3:SKJEMA1A; Running/jogging/orienteering, Last 3 months before this pregn
 | 25 | 4 |
 | 100 | 1 |
 | 75 | 1 |
+| Not NA | 211 |
 | NA | 101542 |
 
 
@@ -24146,6 +25737,7 @@ S128_3_4:SKJEMA1A; Running/jogging/orienteering, During this pregnancy; Never; 1
 | Category | n |
 | -------- | - |
 | 1 | 1221 |
+| Not NA | 1221 |
 | NA | 100532 |
 
 
@@ -24161,6 +25753,7 @@ S128_3_5:SKJEMA1A; Running/jogging/orienteering, During this pregnancy; Number o
 | 2 | 8 |
 | 3 | 3 |
 | 5 | 1 |
+| Not NA | 89 |
 | NA | 101664 |
 
 
@@ -24185,6 +25778,7 @@ S128_3_6:SKJEMA1A; Running/jogging/orienteering, During this pregnancy; Minutes 
 | 15 | 3 |
 | 20 | 4 |
 | 40 | 1 |
+| Not NA | 71 |
 | NA | 101682 |
 
 
@@ -24195,6 +25789,7 @@ S128_4_1:SKJEMA1A; Bicycling, Last 3 months before this pregnancy; Never; 128. H
 | Category | n |
 | -------- | - |
 | 1 | 1103 |
+| Not NA | 1103 |
 | NA | 100650 |
 
 
@@ -24219,6 +25814,7 @@ S128_4_2:SKJEMA1A; Bicycling, Last 3 months before this pregnancy; Number of tim
 | 15 | 3 |
 | 20 | 3 |
 | 9 | 1 |
+| Not NA | 565 |
 | NA | 101188 |
 
 
@@ -24235,6 +25831,7 @@ S128_4_3:SKJEMA1A; Bicycling, Last 3 months before this pregnancy; Minutes each 
 | 3rd Qu. | 45 |
 | Max. | 480 |
 | NA's | 101222 |
+| Not NA | 531 |
 
 
 ### AA2051
@@ -24244,6 +25841,7 @@ S128_4_4:SKJEMA1A; Bicycling, During this pregnancy; Never; 128. How often do yo
 | Category | n |
 | -------- | - |
 | 1 | 1068 |
+| Not NA | 1068 |
 | NA | 100685 |
 
 
@@ -24267,6 +25865,7 @@ S128_4_5:SKJEMA1A; Bicycling, During this pregnancy; Number of times per week; 1
 | 15 | 2 |
 | 20 | 1 |
 | 8 | 1 |
+| Not NA | 347 |
 | NA | 101406 |
 
 
@@ -24283,6 +25882,7 @@ S128_4_6:SKJEMA1A; Bicycling, During this pregnancy; Minutes each time; 128. How
 | 3rd Qu. | 30 |
 | Max. | 480 |
 | NA's | 101429 |
+| Not NA | 324 |
 
 
 ### AA2054
@@ -24292,6 +25892,7 @@ S128_5_1:SKJEMA1A; Training studio/weight training, Last 3 months before this pr
 | Category | n |
 | -------- | - |
 | 1 | 1313 |
+| Not NA | 1313 |
 | NA | 100440 |
 
 
@@ -24308,6 +25909,7 @@ S128_5_2:SKJEMA1A; Training studio/weight training, Last 3 months before this pr
 | 4 | 12 |
 | 7 | 1 |
 | 5 | 2 |
+| Not NA | 418 |
 | NA | 101335 |
 
 
@@ -24335,6 +25937,7 @@ S128_5_3:SKJEMA1A; Training studio/weight training, Last 3 months before this pr
 | 100 | 3 |
 | 3 | 1 |
 | 95 | 1 |
+| Not NA | 389 |
 | NA | 101364 |
 
 
@@ -24345,6 +25948,7 @@ S128_5_4:SKJEMA1A; Training studio/weight training, During this pregnancy; Never
 | Category | n |
 | -------- | - |
 | 1 | 1203 |
+| Not NA | 1203 |
 | NA | 100550 |
 
 
@@ -24362,6 +25966,7 @@ S128_5_5:SKJEMA1A; Training studio/weight training, During this pregnancy; Numbe
 | 7 | 2 |
 | 6 | 1 |
 | 5 | 1 |
+| Not NA | 178 |
 | NA | 101575 |
 
 
@@ -24388,6 +25993,7 @@ S128_5_6:SKJEMA1A; Training studio/weight training, During this pregnancy; Minut
 | 120 | 1 |
 | 95 | 1 |
 | 73 | 1 |
+| Not NA | 159 |
 | NA | 101594 |
 
 
@@ -24398,6 +26004,7 @@ S128_6_1:SKJEMA1A; Special gymnastics/aerobics for pregnant women, Last 3 months
 | Category | n |
 | -------- | - |
 | 1 | 1516 |
+| Not NA | 1516 |
 | NA | 100237 |
 
 
@@ -24412,6 +26019,7 @@ S128_6_2:SKJEMA1A; Special gymnastics/aerobics for pregnant women, Last 3 months
 | 1 | 4 |
 | 2 | 2 |
 | 3 | 1 |
+| Not NA | 35 |
 | NA | 101718 |
 
 
@@ -24425,6 +26033,7 @@ S128_6_3:SKJEMA1A; Special gymnastics/aerobics for pregnant women, Last 3 months
 | 0 | 7 |
 | 15 | 1 |
 | 120 | 1 |
+| Not NA | 15 |
 | NA | 101738 |
 
 
@@ -24435,6 +26044,7 @@ S128_6_4:SKJEMA1A; Special gymnastics/aerobics for pregnant women, During this p
 | Category | n |
 | -------- | - |
 | 1 | 1228 |
+| Not NA | 1228 |
 | NA | 100525 |
 
 
@@ -24451,6 +26061,7 @@ S128_6_5:SKJEMA1A; Special gymnastics/aerobics for pregnant women, During this p
 | 4 | 4 |
 | 3 | 7 |
 | 6 | 1 |
+| Not NA | 78 |
 | NA | 101675 |
 
 
@@ -24471,6 +26082,7 @@ S128_6_6:SKJEMA1A; Special gymnastics/aerobics for pregnant women, During this p
 | 20 | 5 |
 | 0 | 4 |
 | 90 | 1 |
+| Not NA | 64 |
 | NA | 101689 |
 
 
@@ -24481,6 +26093,7 @@ S128_7_1:SKJEMA1A; Aerobics/gymnastics/dance without running and jumping, Last 3
 | Category | n |
 | -------- | - |
 | 1 | 1398 |
+| Not NA | 1398 |
 | NA | 100355 |
 
 
@@ -24497,6 +26110,7 @@ S128_7_2:SKJEMA1A; Aerobics/gymnastics/dance without running and jumping, Last 3
 | 4 | 4 |
 | 3 | 8 |
 | 5 | 4 |
+| Not NA | 217 |
 | NA | 101536 |
 
 
@@ -24521,6 +26135,7 @@ S128_7_3:SKJEMA1A; Aerobics/gymnastics/dance without running and jumping, Last 3
 | 10 | 1 |
 | 65 | 1 |
 | 120 | 1 |
+| Not NA | 199 |
 | NA | 101554 |
 
 
@@ -24531,6 +26146,7 @@ S128_7_4:SKJEMA1A; Aerobics/gymnastics/dance without running and jumping, During
 | Category | n |
 | -------- | - |
 | 1 | 1211 |
+| Not NA | 1211 |
 | NA | 100542 |
 
 
@@ -24545,6 +26161,7 @@ S128_7_5:SKJEMA1A; Aerobics/gymnastics/dance without running and jumping, During
 | 0 | 19 |
 | 3 | 4 |
 | 4 | 3 |
+| Not NA | 129 |
 | NA | 101624 |
 
 
@@ -24567,6 +26184,7 @@ S128_7_6:SKJEMA1A; Aerobics/gymnastics/dance without running and jumping, During
 | 0 | 6 |
 | 120 | 1 |
 | 65 | 1 |
+| Not NA | 117 |
 | NA | 101636 |
 
 
@@ -24577,6 +26195,7 @@ S128_8_1:SKJEMA1A; Aerobics/gymnastics/dance with running and jumping, Last 3 mo
 | Category | n |
 | -------- | - |
 | 1 | 1331 |
+| Not NA | 1331 |
 | NA | 100422 |
 
 
@@ -24594,6 +26213,7 @@ S128_8_2:SKJEMA1A; Aerobics/gymnastics/dance with running and jumping, Last 3 mo
 | 5 | 4 |
 | 6 | 2 |
 | 7 | 1 |
+| Not NA | 355 |
 | NA | 101398 |
 
 
@@ -24617,6 +26237,7 @@ S128_8_3:SKJEMA1A; Aerobics/gymnastics/dance with running and jumping, Last 3 mo
 | 75 | 4 |
 | 100 | 1 |
 | 80 | 1 |
+| Not NA | 335 |
 | NA | 101418 |
 
 
@@ -24627,6 +26248,7 @@ S128_8_4:SKJEMA1A; Aerobics/gymnastics/dance with running and jumping, During th
 | Category | n |
 | -------- | - |
 | 1 | 1250 |
+| Not NA | 1250 |
 | NA | 100503 |
 
 
@@ -24640,6 +26262,7 @@ S128_8_5:SKJEMA1A; Aerobics/gymnastics/dance with running and jumping, During th
 | 0 | 17 |
 | 2 | 20 |
 | 3 | 6 |
+| Not NA | 91 |
 | NA | 101662 |
 
 
@@ -24660,6 +26283,7 @@ S128_8_6:SKJEMA1A; Aerobics/gymnastics/dance with running and jumping, During th
 | 50 | 2 |
 | 70 | 1 |
 | 120 | 1 |
+| Not NA | 75 |
 | NA | 101678 |
 
 
@@ -24670,6 +26294,7 @@ S128_9_1:SKJEMA1A; Folk dance/swing, Last 3 months before this pregnancy; Never;
 | Category | n |
 | -------- | - |
 | 1 | 1449 |
+| Not NA | 1449 |
 | NA | 100304 |
 
 
@@ -24684,6 +26309,7 @@ S128_9_2:SKJEMA1A; Folk dance/swing, Last 3 months before this pregnancy; Number
 | 2 | 9 |
 | 3 | 2 |
 | 4 | 1 |
+| Not NA | 94 |
 | NA | 101659 |
 
 
@@ -24707,6 +26333,7 @@ S128_9_3:SKJEMA1A; Folk dance/swing, Last 3 months before this pregnancy; Minute
 | 40 | 1 |
 | 340 | 1 |
 | 15 | 1 |
+| Not NA | 74 |
 | NA | 101679 |
 
 
@@ -24717,6 +26344,7 @@ S128_9_4:SKJEMA1A; Folk dance/swing, During this pregnancy; Never; 128. How ofte
 | Category | n |
 | -------- | - |
 | 1 | 1222 |
+| Not NA | 1222 |
 | NA | 100531 |
 
 
@@ -24730,6 +26358,7 @@ S128_9_5:SKJEMA1A; Folk dance/swing, During this pregnancy; Number of times per 
 | 0 | 18 |
 | 3 | 1 |
 | 2 | 2 |
+| Not NA | 57 |
 | NA | 101696 |
 
 
@@ -24751,6 +26380,7 @@ S128_9_6:SKJEMA1A; Folk dance/swing, During this pregnancy; Minutes each time; 1
 | 0 | 4 |
 | 45 | 1 |
 | 40 | 1 |
+| Not NA | 40 |
 | NA | 101713 |
 
 
@@ -24761,6 +26391,7 @@ S12810_1:SKJEMA1A; Rock/disco dance, Last 3 months before this pregnancy; Never;
 | Category | n |
 | -------- | - |
 | 1 | 1380 |
+| Not NA | 1380 |
 | NA | 100373 |
 
 
@@ -24777,6 +26408,7 @@ S12810_2:SKJEMA1A; Rock/disco dance, Last 3 months before this pregnancy; Number
 | 3 | 4 |
 | 5 | 2 |
 | 7 | 4 |
+| Not NA | 165 |
 | NA | 101588 |
 
 
@@ -24793,6 +26425,7 @@ S12810_3:SKJEMA1A; Rock/disco dance, Last 3 months before this pregnancy; Minute
 | 3rd Qu. | 60 |
 | Max. | 300 |
 | NA's | 101607 |
+| Not NA | 146 |
 
 
 ### AA2087
@@ -24802,6 +26435,7 @@ S12810_4:SKJEMA1A; Rock/disco dance, During this pregnancy; Never; 128. How ofte
 | Category | n |
 | -------- | - |
 | 1 | 1207 |
+| Not NA | 1207 |
 | NA | 100546 |
 
 
@@ -24817,6 +26451,7 @@ S12810_5:SKJEMA1A; Rock/disco dance, During this pregnancy; Number of times per 
 | 5 | 1 |
 | 3 | 2 |
 | 7 | 1 |
+| Not NA | 65 |
 | NA | 101688 |
 
 
@@ -24837,6 +26472,7 @@ S12810_6:SKJEMA1A; Rock/disco dance, During this pregnancy; Minutes each time; 1
 | 40 | 1 |
 | 0 | 3 |
 | 240 | 1 |
+| Not NA | 50 |
 | NA | 101703 |
 
 
@@ -24847,6 +26483,7 @@ S12811_1:SKJEMA1A; Skiing, Last 3 months before this pregnancy; Never; 128. How 
 | Category | n |
 | -------- | - |
 | 1 | 1410 |
+| Not NA | 1410 |
 | NA | 100343 |
 
 
@@ -24862,6 +26499,7 @@ S12811_2:SKJEMA1A; Skiing, Last 3 months before this pregnancy; Number of times 
 | 0 | 21 |
 | 2 | 11 |
 | 3 | 4 |
+| Not NA | 104 |
 | NA | 101649 |
 
 
@@ -24888,6 +26526,7 @@ S12811_3:SKJEMA1A; Skiing, Last 3 months before this pregnancy; Minutes each tim
 | 15 | 2 |
 | 100 | 1 |
 | 200 | 1 |
+| Not NA | 85 |
 | NA | 101668 |
 
 
@@ -24898,6 +26537,7 @@ S12811_4:SKJEMA1A; Skiing, During this pregnancy; Never; 128. How often do you e
 | Category | n |
 | -------- | - |
 | 1 | 1198 |
+| Not NA | 1198 |
 | NA | 100555 |
 
 
@@ -24913,6 +26553,7 @@ S12811_5:SKJEMA1A; Skiing, During this pregnancy; Number of times per week; 128.
 | 20 | 1 |
 | 4 | 2 |
 | 3 | 1 |
+| Not NA | 74 |
 | NA | 101679 |
 
 
@@ -24938,6 +26579,7 @@ S12811_6:SKJEMA1A; Skiing, During this pregnancy; Minutes each time; 128. How of
 | 20 | 1 |
 | 0 | 3 |
 | 90 | 3 |
+| Not NA | 61 |
 | NA | 101692 |
 
 
@@ -24948,6 +26590,7 @@ S12812_1:SKJEMA1A; Ball sports, Last 3 months before this pregnancy; Never; 128.
 | Category | n |
 | -------- | - |
 | 1 | 1423 |
+| Not NA | 1423 |
 | NA | 100330 |
 
 
@@ -24963,6 +26606,7 @@ S12812_2:SKJEMA1A; Ball sports, Last 3 months before this pregnancy; Number of t
 | 3 | 15 |
 | 4 | 5 |
 | 14 | 1 |
+| Not NA | 195 |
 | NA | 101558 |
 
 
@@ -24987,6 +26631,7 @@ S12812_3:SKJEMA1A; Ball sports, Last 3 months before this pregnancy; Minutes eac
 | 105 | 1 |
 | 50 | 1 |
 | 150 | 1 |
+| Not NA | 176 |
 | NA | 101577 |
 
 
@@ -24997,6 +26642,7 @@ S12812_4:SKJEMA1A; Ball sports, During this pregnancy; Never; 128. How often do 
 | Category | n |
 | -------- | - |
 | 1 | 1228 |
+| Not NA | 1228 |
 | NA | 100525 |
 
 
@@ -25011,6 +26657,7 @@ S12812_5:SKJEMA1A; Ball sports, During this pregnancy; Number of times per week;
 | 1 | 49 |
 | 2 | 16 |
 | 4 | 2 |
+| Not NA | 90 |
 | NA | 101663 |
 
 
@@ -25032,6 +26679,7 @@ S12812_6:SKJEMA1A; Ball sports, During this pregnancy; Minutes each time; 128. H
 | 15 | 2 |
 | 75 | 1 |
 | 50 | 1 |
+| Not NA | 74 |
 | NA | 101679 |
 
 
@@ -25042,6 +26690,7 @@ S12813_1:SKJEMA1A; Swimming, Last 3 months before this pregnancy; Never; 128. Ho
 | Category | n |
 | -------- | - |
 | 1 | 1281 |
+| Not NA | 1281 |
 | NA | 100472 |
 
 
@@ -25059,6 +26708,7 @@ S12813_2:SKJEMA1A; Swimming, Last 3 months before this pregnancy; Number of time
 | 0 | 20 |
 | 12 | 1 |
 | 7 | 1 |
+| Not NA | 295 |
 | NA | 101458 |
 
 
@@ -25085,6 +26735,7 @@ S12813_3:SKJEMA1A; Swimming, Last 3 months before this pregnancy; Minutes each t
 | 5 | 3 |
 | 2 | 2 |
 | 35 | 4 |
+| Not NA | 268 |
 | NA | 101485 |
 
 
@@ -25095,6 +26746,7 @@ S12813_4:SKJEMA1A; Swimming, During this pregnancy; Never; 128. How often do you
 | Category | n |
 | -------- | - |
 | 1 | 1072 |
+| Not NA | 1072 |
 | NA | 100681 |
 
 
@@ -25110,6 +26762,7 @@ S12813_5:SKJEMA1A; Swimming, During this pregnancy; Number of times per week; 12
 | 0 | 16 |
 | 5 | 3 |
 | 4 | 1 |
+| Not NA | 280 |
 | NA | 101473 |
 
 
@@ -25135,6 +26788,7 @@ S12813_6:SKJEMA1A; Swimming, During this pregnancy; Minutes each time; 128. How 
 | 35 | 2 |
 | 5 | 2 |
 | 180 | 1 |
+| Not NA | 263 |
 | NA | 101490 |
 
 
@@ -25145,6 +26799,7 @@ S12814_1:SKJEMA1A; Riding, Last 3 months before this pregnancy; Never; 128. How 
 | Category | n |
 | -------- | - |
 | 1 | 1511 |
+| Not NA | 1511 |
 | NA | 100242 |
 
 
@@ -25162,6 +26817,7 @@ S12814_2:SKJEMA1A; Riding, Last 3 months before this pregnancy; Number of times 
 | 3 | 6 |
 | 7 | 2 |
 | 5 | 1 |
+| Not NA | 62 |
 | NA | 101691 |
 
 
@@ -25179,6 +26835,7 @@ S12814_3:SKJEMA1A; Riding, Last 3 months before this pregnancy; Minutes each tim
 | 120 | 4 |
 | 30 | 2 |
 | 180 | 1 |
+| Not NA | 41 |
 | NA | 101712 |
 
 
@@ -25189,6 +26846,7 @@ S12814_4:SKJEMA1A; Riding, During this pregnancy; Never; 128. How often do you e
 | Category | n |
 | -------- | - |
 | 1 | 1258 |
+| Not NA | 1258 |
 | NA | 100495 |
 
 
@@ -25203,6 +26861,7 @@ S12814_5:SKJEMA1A; Riding, During this pregnancy; Number of times per week; 128.
 | 1 | 8 |
 | 4 | 2 |
 | 7 | 2 |
+| Not NA | 31 |
 | NA | 101722 |
 
 
@@ -25220,6 +26879,7 @@ S12814_6:SKJEMA1A; Riding, During this pregnancy; Minutes each time; 128. How of
 | 45 | 5 |
 | 0 | 3 |
 | 40 | 1 |
+| Not NA | 19 |
 | NA | 101734 |
 
 
@@ -25230,6 +26890,7 @@ S12815_1:SKJEMA1A; Other, Last 3 months before this pregnancy; Never; 128. How o
 | Category | n |
 | -------- | - |
 | 1 | 950 |
+| Not NA | 950 |
 | NA | 100803 |
 
 
@@ -25250,6 +26911,7 @@ S12815_2:SKJEMA1A; Other, Last 3 months before this pregnancy; Number of times p
 | 4 | 8 |
 | 6 | 3 |
 | 15 | 1 |
+| Not NA | 122 |
 | NA | 101631 |
 
 
@@ -25266,6 +26928,7 @@ S12815_3:SKJEMA1A; Other, Last 3 months before this pregnancy; Minutes each time
 | 3rd Qu. | 120 |
 | Max. | 420 |
 | NA's | 101645 |
+| Not NA | 108 |
 
 
 ### AA2117
@@ -25275,6 +26938,7 @@ S12815_4:SKJEMA1A; Other, During this pregnancy; Never; 128. How often do you ex
 | Category | n |
 | -------- | - |
 | 1 | 880 |
+| Not NA | 880 |
 | NA | 100873 |
 
 
@@ -25295,6 +26959,7 @@ S12815_5:SKJEMA1A; Other, During this pregnancy; Number of times per week; 128. 
 | 10 | 1 |
 | 6 | 3 |
 | 15 | 1 |
+| Not NA | 104 |
 | NA | 101649 |
 
 
@@ -25323,6 +26988,7 @@ S12815_6:SKJEMA1A; Other, During this pregnancy; Minutes each time; 128. How oft
 | 105 | 1 |
 | 5 | 1 |
 | 6 | 1 |
+| Not NA | 92 |
 | NA | 101661 |
 
 
@@ -25333,6 +26999,7 @@ S129_1_1:SKJEMA1A; Abdominal muscles, Last 3 months before pregnancy; Never; 129
 | Category | n |
 | -------- | - |
 | 1 | 1332 |
+| Not NA | 1332 |
 | NA | 100421 |
 
 
@@ -25354,6 +27021,7 @@ S129_1_2:SKJEMA1A; Abdominal muscles, Last 3 months before pregnancy; Number of 
 | 10 | 2 |
 | 14 | 1 |
 | 13 | 2 |
+| Not NA | 1071 |
 | NA | 100682 |
 
 
@@ -25370,6 +27038,7 @@ S129_1_3:SKJEMA1A; Abdominal muscles, Last 3 months before pregnancy; Minutes ea
 | 3rd Qu. | 10 |
 | Max. | 90 |
 | NA's | 100735 |
+| Not NA | 1018 |
 
 
 ### AA2123
@@ -25379,6 +27048,7 @@ S129_1_4:SKJEMA1A; Abdominal muscles, During pregnancy; Never; 129. How many tim
 | Category | n |
 | -------- | - |
 | 1 | 1598 |
+| Not NA | 1598 |
 | NA | 100155 |
 
 
@@ -25399,6 +27069,7 @@ S129_1_5:SKJEMA1A; Abdominal muscles, During pregnancy; Number of times per week
 | 12 | 1 |
 | 10 | 1 |
 | 14 | 2 |
+| Not NA | 542 |
 | NA | 101211 |
 
 
@@ -25424,6 +27095,7 @@ S129_1_6:SKJEMA1A; Abdominal muscles, During pregnancy; Minutes each time; 129. 
 | 16 | 1 |
 | 40 | 3 |
 | 13 | 1 |
+| Not NA | 511 |
 | NA | 101242 |
 
 
@@ -25434,6 +27106,7 @@ S129_2_1:SKJEMA1A; Back muscles, Last 3 months before pregnancy; Never; 129. How
 | Category | n |
 | -------- | - |
 | 1 | 1445 |
+| Not NA | 1445 |
 | NA | 100308 |
 
 
@@ -25453,6 +27126,7 @@ S129_2_2:SKJEMA1A; Back muscles, Last 3 months before pregnancy; Number of times
 | 15 | 1 |
 | 6 | 9 |
 | 8 | 1 |
+| Not NA | 846 |
 | NA | 100907 |
 
 
@@ -25469,6 +27143,7 @@ S129_2_3:SKJEMA1A; Back muscles, Last 3 months before pregnancy; Minutes each ti
 | 3rd Qu. | 10 |
 | Max. | 90 |
 | NA's | 100949 |
+| Not NA | 804 |
 
 
 ### AA2129
@@ -25478,6 +27153,7 @@ S129_2_4:SKJEMA1A; Back muscles, During pregnancy; Never; 129. How many times a 
 | Category | n |
 | -------- | - |
 | 1 | 1515 |
+| Not NA | 1515 |
 | NA | 100238 |
 
 
@@ -25499,6 +27175,7 @@ S129_2_5:SKJEMA1A; Back muscles, During pregnancy; Number of times per week; 129
 | 12 | 1 |
 | 14 | 1 |
 | 11 | 1 |
+| Not NA | 545 |
 | NA | 101208 |
 
 
@@ -25525,6 +27202,7 @@ S129_2_6:SKJEMA1A; Back muscles, During pregnancy; Minutes each time; 129. How m
 | 1 | 3 |
 | 16 | 1 |
 | 11 | 1 |
+| Not NA | 516 |
 | NA | 101237 |
 
 
@@ -25535,6 +27213,7 @@ S129_3_1:SKJEMA1A; Pelvic floor muscles (muscles around the vagina, urethra, anu
 | Category | n |
 | -------- | - |
 | 1 | 1493 |
+| Not NA | 1493 |
 | NA | 100260 |
 
 
@@ -25559,6 +27238,7 @@ S129_3_2:SKJEMA1A; Pelvic floor muscles (muscles around the vagina, urethra, anu
 | 70 | 1 |
 | 20 | 1 |
 | 13 | 1 |
+| Not NA | 775 |
 | NA | 100978 |
 
 
@@ -25587,6 +27267,7 @@ S129_3_3:SKJEMA1A; Pelvic floor muscles (muscles around the vagina, urethra, anu
 | 23 | 1 |
 | 7 | 1 |
 | 13 | 1 |
+| Not NA | 730 |
 | NA | 101023 |
 
 
@@ -25597,6 +27278,7 @@ S129_3_4:SKJEMA1A; Pelvic floor muscles (muscles around the vagina, urethra, anu
 | Category | n |
 | -------- | - |
 | 1 | 1321 |
+| Not NA | 1321 |
 | NA | 100432 |
 
 
@@ -25624,6 +27306,7 @@ S129_3_5:SKJEMA1A; Pelvic floor muscles (muscles around the vagina, urethra, anu
 | 99 | 1 |
 | 15 | 1 |
 | 35 | 1 |
+| Not NA | 846 |
 | NA | 100907 |
 
 
@@ -25649,6 +27332,7 @@ S129_3_6:SKJEMA1A; Pelvic floor muscles (muscles around the vagina, urethra, anu
 | 8 | 4 |
 | 13 | 1 |
 | 40 | 1 |
+| Not NA | 816 |
 | NA | 100937 |
 
 
@@ -25666,6 +27350,7 @@ S133_1:SKJEMA1E; (S126_1:SKJEMA1C); (S126_1:SKJEMA1B); (S130_1:SKJEMA1A); My lif
 | Disagree | 3102 |
 | Disagree completely | 2025 |
 | More than 1 check box filled in | 52 |
+| Not NA | 99991 |
 | NA | 1762 |
 
 
@@ -25683,6 +27368,7 @@ S133_2:SKJEMA1E; (S126_2:SKJEMA1C); (S126_2:SKJEMA1B); (S130_2:SKJEMA1A); My lif
 | Disagree somewhat | 2411 |
 | Disagree completely | 1444 |
 | More than 1 check box filled in | 42 |
+| Not NA | 99937 |
 | NA | 1816 |
 
 
@@ -25700,6 +27386,7 @@ S133_3:SKJEMA1E; (S126_3:SKJEMA1C); (S126_3:SKJEMA1B); (S130_3:SKJEMA1A); I am s
 | Disagree | 959 |
 | Disagree completely | 1488 |
 | More than 1 check box filled in | 78 |
+| Not NA | 100469 |
 | NA | 1284 |
 
 
@@ -25717,6 +27404,7 @@ S133_4:SKJEMA1E; (S126_4:SKJEMA1C); (S126_4:SKJEMA1B); (S130_4:SKJEMA1A); To dat
 | Disagree somewhat | 3479 |
 | Disagree completely | 1538 |
 | Neither nor | 3335 |
+| Not NA | 100178 |
 | NA | 1575 |
 
 
@@ -25734,6 +27422,7 @@ S133_5:SKJEMA1E; (S126_5:SKJEMA1C); (S126_5:SKJEMA1B); (S130_5:SKJEMA1A); If I c
 | Neither nor | 6437 |
 | Disagree completely | 2790 |
 | More than 1 check box filled in | 57 |
+| Not NA | 100231 |
 | NA | 1522 |
 
 
@@ -25761,6 +27450,7 @@ S134_1:SKJEMA1E; (S127_1:SKJEMA1C); (S127_1:SKJEMA1B); My husband/partner and I 
 | (3+4) | 1 |
 | More than 1 check box filled in | 2 |
 | (4+5) | 1 |
+| Not NA | 97096 |
 | NA | 4657 |
 
 
@@ -25790,6 +27480,7 @@ S134_2:SKJEMA1E; (S127_2:SKJEMA1C); (S127_2:SKJEMA1B); My partner and I have pro
 | (4+5) | 3 |
 | (2+4) | 5 |
 | (1+4) | 2 |
+| Not NA | 96869 |
 | NA | 4884 |
 
 
@@ -25818,6 +27509,7 @@ S134_3:SKJEMA1E; (S127_3:SKJEMA1C); (S127_3:SKJEMA1B); I am very happy in my rel
 | (1+5) | 6 |
 | (1+6) | 7 |
 | (1+3) | 1 |
+| Not NA | 96994 |
 | NA | 4759 |
 
 
@@ -25845,6 +27537,7 @@ S134_4:SKJEMA1E; (S127_4:SKJEMA1C); (S127_4:SKJEMA1B); My partner is usually und
 | (1+3) | 1 |
 | (3+6) | 8 |
 | (4+5) | 2 |
+| Not NA | 97001 |
 | NA | 4752 |
 
 
@@ -25871,6 +27564,7 @@ S134_5:SKJEMA1E; (S127_5:SKJEMA1C); (S127_5:SKJEMA1B); I often think about endin
 | (3+4) | 3 |
 | (3+5) | 5 |
 | (4+5) | 5 |
+| Not NA | 96039 |
 | NA | 5714 |
 
 
@@ -25898,6 +27592,7 @@ S134_6:SKJEMA1E; (S127_6:SKJEMA1C); (S127_6:SKJEMA1B); I am satisfied with my re
 | (3+5) | 4 |
 | (3+4) | 2 |
 | (1+2) | 9 |
+| Not NA | 96689 |
 | NA | 5064 |
 
 
@@ -25931,6 +27626,7 @@ S134_7:SKJEMA1E; (S127_7:SKJEMA1C); (S127_7:SKJEMA1B); We often disagree about i
 | Strongly disagree | 30804 |
 | 7 | 1 |
 | NA's | 5519 |
+| Not NA | 96234 |
 
 
 ### AA1539
@@ -25958,6 +27654,7 @@ S134_8:SKJEMA1E; (S127_8:SKJEMA1C); (S127_8:SKJEMA1B); I have been lucky in my c
 | (3+5) | 2 |
 | (2+6) | 3 |
 | (1+2) | 10 |
+| Not NA | 96666 |
 | NA | 5087 |
 
 
@@ -25974,6 +27671,7 @@ S134_9:SKJEMA1E; (S127_9:SKJEMA1C); (S127_9:SKJEMA1B); We agree about how childe
 | Disagree somewhat | 3661 |
 | Strongly disagree | 418 |
 | More than 1 check box filled in | 52 |
+| Not NA | 96875 |
 | NA | 4878 |
 
 
@@ -25990,6 +27688,7 @@ S13410:SKJEMA1E; (S12710:SKJEMA1C); (S127_10:SKJEMA1B); I think my partner is sa
 | Disagree somewhat | 1612 |
 | Strongly disagree | 329 |
 | More than 1 check box filled in | 29 |
+| Not NA | 97052 |
 | NA | 4701 |
 
 
@@ -26005,6 +27704,7 @@ S133:SKJEMA1A; ; 133. To what extent would you agree to the following: My spouse
 | Partially true | 105 |
 | Absolutely not true | 24 |
 | 0 | 2 |
+| Not NA | 2497 |
 | NA | 99256 |
 
 
@@ -26020,6 +27720,7 @@ S135:SKJEMA1E; (S128:SKJEMA1C); (S128:SKJEMA1B); ; 135. Do you have anyone other
 | (2+3) | 23 |
 | (1+2) | 11 |
 | More than 1 check box filled in | 3 |
+| Not NA | 98234 |
 | NA | 3519 |
 
 
@@ -26037,6 +27738,7 @@ S136:SKJEMA1E; (S129:SKJEMA1C); (S129:SKJEMA1B); ; 136. How often do you meet or
 | (1+2) | 3 |
 | (1+3) | 1 |
 | More than 1 check box filled in | 1 |
+| Not NA | 98336 |
 | NA | 3417 |
 
 
@@ -26059,6 +27761,7 @@ S137:SKJEMA1E; (S130:SKJEMA1C); (S130:SKJEMA1B); (S135:SKJEMA1A); ; 137. Do you 
 | More than 1 check box filled in | 11 |
 | (3+5) | 1 |
 | (1+3) | 2 |
+| Not NA | 100712 |
 | NA | 1041 |
 
 
@@ -26070,6 +27773,7 @@ S131:SKJEMA1A; ; 131. Do you have anyone other than your spouse/partner whom you
 | -------- | - |
 | Yes | 2408 |
 | No | 106 |
+| Not NA | 2514 |
 | NA | 99239 |
 
 
@@ -26099,6 +27803,7 @@ S132:SKJEMA1A; ; 132. If yes, how many?
 | 16 | 1 |
 | 25 | 1 |
 | 14 | 1 |
+| Not NA | 2397 |
 | NA | 99356 |
 
 
@@ -26115,6 +27820,7 @@ S134:SKJEMA1A; Number of times; 134. How often do you see or talk on the telepho
 | 3rd Qu. | 14 |
 | Max. | 99 |
 | NA's | 99254 |
+| Not NA | 2499 |
 
 
 ### AA1548
@@ -26130,6 +27836,7 @@ S138_1:SKJEMA1E; (S131_1:SKJEMA1C); (S131_1:SKJEMA1B); (S136_1:SKJEMA1A); Feelin
 | (1+2) | 7 |
 | (2+3) | 3 |
 | More than 1 check box filled in | 2 |
+| Not NA | 99337 |
 | NA | 2416 |
 
 
@@ -26148,6 +27855,7 @@ S138_2:SKJEMA1E; (S131_2:SKJEMA1C); (S131_2:SKJEMA1B); (S136_2:SKJEMA1A); Nervou
 | (2+4) | 1 |
 | More than 1 check box filled in | 3 |
 | (1+3) | 2 |
+| Not NA | 99347 |
 | NA | 2406 |
 
 
@@ -26165,6 +27873,7 @@ S138_3:SKJEMA1E; (S131_3:SKJEMA1C); (S131_3:SKJEMA1B); (S136_3:SKJEMA1A); Feelin
 | (2+3) | 3 |
 | More than 1 check box filled in | 2 |
 | (1+3) | 2 |
+| Not NA | 99283 |
 | NA | 2470 |
 
 
@@ -26181,6 +27890,7 @@ S138_4:SKJEMA1E; (S131_4:SKJEMA1C); (S131_4:SKJEMA1B); (S136_4:SKJEMA1A); Feelin
 | (1+2) | 10 |
 | (2+3) | 2 |
 | More than 1 check box filled in | 4 |
+| Not NA | 99455 |
 | NA | 2298 |
 
 
@@ -26201,6 +27911,7 @@ S138_5:SKJEMA1E; (S131_5:SKJEMA1C); (S131_5:SKJEMA1B); (S136_5:SKJEMA1A); Worryi
 | (3+4) | 1 |
 | (2+4) | 1 |
 | (1+3) | 2 |
+| Not NA | 99754 |
 | NA | 1999 |
 
 
@@ -26219,6 +27930,7 @@ S141_1:SKJEMA1E; (S134_1:SKJEMA1C); (S134_1:SKJEMA1B); (S139_1:SKJEMA1A); I have
 | (2+3) | 52 |
 | More than 1 check box filled in | 8 |
 | (1+4) | 1 |
+| Not NA | 100278 |
 | NA | 1475 |
 
 
@@ -26238,6 +27950,7 @@ S141_2:SKJEMA1E; (S134_2:SKJEMA1C); (S134_2:SKJEMA1B); (S139_2:SKJEMA1A); I feel
 | (3+4) | 8 |
 | More than 1 check box filled in | 4 |
 | (1+4) | 1 |
+| Not NA | 99329 |
 | NA | 2424 |
 
 
@@ -26257,6 +27970,7 @@ S141_3:SKJEMA1E; (S134_3:SKJEMA1C); (S134_3:SKJEMA1B); (S139_3:SKJEMA1A); I feel
 | (2+3) | 24 |
 | More than 1 check box filled in | 5 |
 | (2+4) | 5 |
+| Not NA | 99267 |
 | NA | 2486 |
 
 
@@ -26275,6 +27989,7 @@ S141_4:SKJEMA1E; (S134_4:SKJEMA1C); (S134_4:SKJEMA1B); (S139_4:SKJEMA1A); I feel
 | (2+4) | 1 |
 | More than 1 check box filled in | 5 |
 | (3+4) | 1 |
+| Not NA | 99796 |
 | NA | 1957 |
 
 
@@ -26287,6 +28002,7 @@ S142_1:SKJEMA1E; (S135_1:SKJEMA1C); (S135_1:SKJEMA1B); (S140_1:SKJEMA1A); Felt d
 | No | 51462 |
 | Yes | 49079 |
 | More than 1 check box filled in | 22 |
+| Not NA | 100563 |
 | NA | 1190 |
 
 
@@ -26299,6 +28015,7 @@ S142_2:SKJEMA1E; (S135_2:SKJEMA1C); (S135_2:SKJEMA1B); (S140_2:SKJEMA1A); Had pr
 | No | 67252 |
 | Yes | 32614 |
 | More than 1 check box filled in | 13 |
+| Not NA | 99879 |
 | NA | 1874 |
 
 
@@ -26312,6 +28029,7 @@ S142_3:SKJEMA1E; (S135_3:SKJEMA1C); (S135_3:SKJEMA1B); (S140_3:SKJEMA1A); Been b
 | Yes | 54374 |
 | More than 1 check box filled in | 17 |
 | 3 | 1 |
+| Not NA | 100027 |
 | NA | 1726 |
 
 
@@ -26324,6 +28042,7 @@ S142_4:SKJEMA1E; (S135_4:SKJEMA1C); (S135_4:SKJEMA1B); (S140_4:SKJEMA1A); Really
 | No | 76898 |
 | Yes | 22389 |
 | More than 1 check box filled in | 12 |
+| Not NA | 99299 |
 | NA | 2454 |
 
 
@@ -26336,6 +28055,7 @@ S142_5:SKJEMA1E; (S135_5:SKJEMA1C); (S135_5:SKJEMA1B); (S140_5:SKJEMA1A); Had pr
 | No | 70849 |
 | Yes | 29084 |
 | More than 1 check box filled in | 35 |
+| Not NA | 99968 |
 | NA | 1785 |
 
 
@@ -26348,6 +28068,7 @@ S142_6:SKJEMA1E; (S135_6:SKJEMA1C); (S135_6:SKJEMA1B); (S140_6:SKJEMA1A); Had at
 | No | 75046 |
 | Yes | 24085 |
 | More than 1 check box filled in | 19 |
+| Not NA | 99150 |
 | NA | 2603 |
 
 
@@ -26364,6 +28085,7 @@ S143:SKJEMA1E; (S136:SKJEMA1C); (S136:SKJEMA1B); (S141:SKJEMA1A); ; 143. If you 
 | 3rd Qu. | 16 |
 | Max. | 99 |
 | NA's | 77025 |
+| Not NA | 24728 |
 
 
 ### AA1579
@@ -26375,6 +28097,7 @@ S144:SKJEMA1E; (S137:SKJEMA1C); (S137:SKJEMA1B); (S142:SKJEMA1A); ; 144. Was the
 | No, no particular reason | 12874 |
 | Yes (ex. death, divorce, miscarriage, accident) | 29355 |
 | More than 1 check box filled in | 270 |
+| Not NA | 42499 |
 | NA | 59254 |
 
 
@@ -26391,6 +28114,7 @@ ALDERUTSENDT_S1:SKJEMA1E; (ALDERUTSENDT_S1:SKJEMA1C); (ALDERUTSENDT_S1:SKJEMA1B)
 | 3rd Qu. | -158 |
 | Max. | 774 |
 | NA's | 241 |
+| Not NA | 101512 |
 
 
 ### ALDERUTFYLT_S1
@@ -26406,6 +28130,7 @@ ALDERUTFYLT:SKJEMA1E; (ALDERUTFYLT:SKJEMA1C); (ALDERUTFYLT:SKJEMA1B); (ALDERUTFY
 | 3rd Qu. | -145 |
 | Max. | 25404 |
 | NA's | 2565 |
+| Not NA | 99188 |
 
 
 ### ALDERRETUR_S1
@@ -26421,6 +28146,7 @@ ALDERRETUR:SKJEMA1E; (ALDERRETUR:SKJEMA1C); (ALDERRETUR:SKJEMA1B); (ALDERRETUR:S
 | 3rd Qu. | -131 |
 | Max. | 2052 |
 | NA's | 241 |
+| Not NA | 101512 |
 
 
 ### MOR_ALDERUTFYLT_S1
@@ -26436,6 +28162,7 @@ MOR_ALDERUTFYLT_S1:SKJEMA1E; (MOR_ALDERUTFYLT_S1:SKJEMA1C); (MOR_ALDERUTFYLT_S1:
 | 3rd Qu. | 33 |
 | Max. | 53 |
 | NA's | 2 |
+| Not NA | 101751 |
 
 
 ### Q1P1
@@ -26463,6 +28190,7 @@ Q1P1:SKJEMA1E; (Q1P1:SKJEMA1C); (Q1P1:SKJEMA1B); (Q1P1:SKJEMA1A); Number of answ
 | 19 | 1 |
 | 1 | 1 |
 | 4 | 5 |
+| Not NA | 101753 |
 | NA | 0 |
 
 
@@ -26478,6 +28206,7 @@ Q1P2:SKJEMA1E; (Q1P2:SKJEMA1C); (Q1P2:SKJEMA1B); (Q1P2:SKJEMA1A); Number of answ
 | Mean | 19.0695016363154 |
 | 3rd Qu. | 20 |
 | Max. | 35 |
+| Not NA | 101753 |
 
 
 ### Q1P3
@@ -26492,6 +28221,7 @@ Q1P3:SKJEMA1E; (Q1P3:SKJEMA1C); (Q1P3:SKJEMA1B); (Q1P3:SKJEMA1A); Number of answ
 | Mean | 11.8824309848358 |
 | 3rd Qu. | 17 |
 | Max. | 71 |
+| Not NA | 101753 |
 
 
 ### Q1P4
@@ -26506,6 +28236,7 @@ Q1P4:SKJEMA1E; (Q1P4:SKJEMA1C); (Q1P4:SKJEMA1B); (Q1P4:SKJEMA1A); Number of answ
 | Mean | 9.28315627057679 |
 | 3rd Qu. | 13 |
 | Max. | 82 |
+| Not NA | 101753 |
 
 
 ### Q1P5
@@ -26520,6 +28251,7 @@ Q1P5:SKJEMA1E; (Q1P5:SKJEMA1C); (Q1P5:SKJEMA1B); (Q1P5:SKJEMA1A); Number of answ
 | Mean | 3.08892121116822 |
 | 3rd Qu. | 4 |
 | Max. | 59 |
+| Not NA | 101753 |
 
 
 ### Q1P6
@@ -26534,6 +28266,7 @@ Q1P6:SKJEMA1E; (Q1P6:SKJEMA1C); (Q1P6:SKJEMA1B); (Q1P6:SKJEMA1A); Number of answ
 | Mean | 3.1676019380264 |
 | 3rd Qu. | 5 |
 | Max. | 50 |
+| Not NA | 101753 |
 
 
 ### Q1P7
@@ -26548,6 +28281,7 @@ Q1P7:SKJEMA1E; (Q1P7:SKJEMA1C); (Q1P7:SKJEMA1B); (Q1P7:SKJEMA1A); Number of answ
 | Mean | 36.226027733826 |
 | 3rd Qu. | 50 |
 | Max. | 192 |
+| Not NA | 101753 |
 
 
 ### Q1P8
@@ -26562,6 +28296,7 @@ Q1P8:SKJEMA1E; (Q1P8:SKJEMA1C); (Q1P8:SKJEMA1B); (Q1P8:SKJEMA1A); Number of answ
 | Mean | 7.56702996471849 |
 | 3rd Qu. | 9 |
 | Max. | 108 |
+| Not NA | 101753 |
 
 
 ### Q1P9
@@ -26576,6 +28311,7 @@ Q1P9:SKJEMA1E; (Q1P9:SKJEMA1C); (Q1P9:SKJEMA1B); (Q1P9:SKJEMA1A); Number of answ
 | Mean | 25.2271579216338 |
 | 3rd Qu. | 28 |
 | Max. | 33 |
+| Not NA | 101753 |
 
 
 ### Q1P10
@@ -26590,6 +28326,7 @@ Q1P10:SKJEMA1E; (Q1P10:SKJEMA1C); (Q1P10:SKJEMA1B); (Q1P10:SKJEMA1A); Number of 
 | Mean | 25.8282605918253 |
 | 3rd Qu. | 28 |
 | Max. | 70 |
+| Not NA | 101753 |
 
 
 ### Q1P11
@@ -26604,6 +28341,7 @@ Q1P11:SKJEMA1E; (Q1P11:SKJEMA1C); (Q1P11:SKJEMA1B); (Q1P11:SKJEMA1A); Number of 
 | Mean | 16.4735486914391 |
 | 3rd Qu. | 18 |
 | Max. | 45 |
+| Not NA | 101753 |
 
 
 ### Q1P12
@@ -26618,6 +28356,7 @@ Q1P12:SKJEMA1E; (Q1P12:SKJEMA1C); (Q1P12:SKJEMA1B); (Q1P12:SKJEMA1A); Number of 
 | Mean | 27.8421471602803 |
 | 3rd Qu. | 42 |
 | Max. | 62 |
+| Not NA | 101753 |
 
 
 ### Q1P13
@@ -26632,6 +28371,7 @@ Q1P13:SKJEMA1E; (Q1P13:SKJEMA1C); (Q1P13:SKJEMA1B); (Q1P13:SKJEMA1A); Number of 
 | Mean | 33.3419850028992 |
 | 3rd Qu. | 37 |
 | Max. | 60 |
+| Not NA | 101753 |
 
 
 ### Q1P14
@@ -26646,6 +28386,7 @@ Q1P14:SKJEMA1E; (Q1P14:SKJEMA1C); (Q1P14:SKJEMA1B); (Q1P14:SKJEMA1A); Number of 
 | Mean | 42.9350584257958 |
 | 3rd Qu. | 53 |
 | Max. | 86 |
+| Not NA | 101753 |
 
 
 ### Q1P15
@@ -26660,6 +28401,7 @@ Q1P15:SKJEMA1E; (Q1P15:SKJEMA1C); (Q1P15:SKJEMA1B); (Q1P15:SKJEMA1A); Number of 
 | Mean | 27.7935982231482 |
 | 3rd Qu. | 30 |
 | Max. | 45 |
+| Not NA | 101753 |
 
 
 ### Q1P16
@@ -26675,5 +28417,6 @@ Q1P16:SKJEMA1E; (Q1P16:SKJEMA1C); (Q1P16:SKJEMA1B); (Q1P16:SKJEMA1A); Number of 
 | 3rd Qu. | 0 |
 | Max. | 22 |
 | NA's | 184 |
+| Not NA | 101569 |
 
 

@@ -245,6 +245,7 @@
 | Category | n |
 | -------- | - |
 | HELSEMODRE_A | 42275 |
+| Not NA | 42275 |
 | NA | 0 |
 
 
@@ -265,6 +266,7 @@ QKHMA__1:HELSEMODRE_A; ; 1. HVOR MANGE BARN HAR DU?
 | 8 BARN | 38 |
 | 0 BARN | 7 |
 | 10 ELLER FLERE BARN | 10 |
+| Not NA | 42114 |
 | NA | 161 |
 
 
@@ -285,6 +287,7 @@ QKHMA__2:HELSEMODRE_A; ; 2. HVOR MANGE BIOLOGISKE BARN HAR DU?
 | 9 BARN | 8 |
 | 8 BARN | 17 |
 | 10 ELLER FLERE BARN | 6 |
+| Not NA | 41680 |
 | NA | 595 |
 
 
@@ -301,6 +304,7 @@ QKHMA__3:HELSEMODRE_A; ; 3. HVOR MANGE ADOPTERTE BARN HAR DU?
 | 4 BARN | 13 |
 | 5 BARN | 3 |
 | 7 BARN | 1 |
+| Not NA | 37882 |
 | NA | 4393 |
 
 
@@ -319,6 +323,7 @@ QKHMA__4:HELSEMODRE_A; ; 4. Hvor mange stebarn (bonusbarn) har du?
 | 6 BARN | 7 |
 | 8 BARN | 1 |
 | 9 BARN | 1 |
+| Not NA | 41615 |
 | NA | 660 |
 
 
@@ -334,6 +339,7 @@ QKHMA__5:HELSEMODRE_A; ; 5. Hvor mange fosterbarn har du nå?
 | 7 BARN | 1 |
 | 3 BARN | 19 |
 | 2 BARN | 75 |
+| Not NA | 40594 |
 | NA | 1681 |
 
 
@@ -354,6 +360,7 @@ QKHMA__6:HELSEMODRE_A; ; 6. HVOR MANGE GANGER HAR DU VÆRT GRAVID?
 | 7 | 618 |
 | 8 | 282 |
 | Ikke aktuelt | 7 |
+| Not NA | 41983 |
 | NA | 292 |
 
 
@@ -365,6 +372,7 @@ QKHMA__6_2:HELSEMODRE_A; Er du gravid nå? (Hvis ja, har vært gravid); 6. Er du
 | -------- | - |
 | Nei | 41751 |
 | Ja | 49 |
+| Not NA | 41800 |
 | NA | 475 |
 
 
@@ -385,6 +393,7 @@ QKHMA__7:HELSEMODRE_A; ; 7. HVOR MANGE AV DISSE SVANGERSKAPENE ENDTE I EN LEVEND
 | 9 | 11 |
 | 8 | 16 |
 | 10 ELLER FLERE GANGER | 7 |
+| Not NA | 42051 |
 | NA | 224 |
 
 
@@ -404,6 +413,7 @@ QKHMA__8:HELSEMODRE_A; ; 8. HVOR MANGE AV DISSE SVANGERSKAPENE ENDTE I EN DØDF�
 | 5 | 8 |
 | 7 | 1 |
 | 8 | 1 |
+| Not NA | 41122 |
 | NA | 1153 |
 
 
@@ -424,6 +434,7 @@ QKHMA__9:HELSEMODRE_A; ; 9. HVOR MANGE AV DISSE SVANGERSKAPENE ENDTE I EN SPONTA
 | 4 | 278 |
 | 5 | 109 |
 | 9 | 11 |
+| Not NA | 41403 |
 | NA | 872 |
 
 
@@ -444,6 +455,7 @@ QKHMA_10:HELSEMODRE_A; ; 10. Hvor mange av disse svangerskapene endte i at du to
 | 9 | 1 |
 | 8 | 1 |
 | 7 | 1 |
+| Not NA | 41569 |
 | NA | 706 |
 
 
@@ -456,6 +468,7 @@ QKHMA_11:HELSEMODRE_A; ; 11. Har du noen gang sammen med en partner forsøkt me
 | Nei | 32642 |
 | Ja | 8408 |
 | Usikker | 1120 |
+| Not NA | 42170 |
 | NA | 105 |
 
 
@@ -466,6 +479,7 @@ QKHMA_12_1:HELSEMODRE_A; Nei.; 12. Har du noen gang gjennomgått fertilitetsbeha
 | Category | n |
 | -------- | - |
 | 1 | 38131 |
+| Not NA | 38131 |
 | NA | 4144 |
 
 
@@ -476,6 +490,7 @@ QKHMA_12_2:HELSEMODRE_A; Ja, kun hormonbehandling for å stimulere eggløsning.;
 | Category | n |
 | -------- | - |
 | 1 | 1833 |
+| Not NA | 1833 |
 | NA | 40442 |
 
 
@@ -486,6 +501,7 @@ QKHMA_12_3:HELSEMODRE_A; Ja, kunstig inseminasjon (IUI).; 12. Har du noen gang g
 | Category | n |
 | -------- | - |
 | 1 | 253 |
+| Not NA | 253 |
 | NA | 42022 |
 
 
@@ -496,6 +512,7 @@ QKHMA_12_4:HELSEMODRE_A; Ja, prøverørsbefruktning uten mikroinjeksjon (IVF).; 
 | Category | n |
 | -------- | - |
 | 1 | 1215 |
+| Not NA | 1215 |
 | NA | 41060 |
 
 
@@ -506,6 +523,7 @@ QKHMA_12_5:HELSEMODRE_A; Ja, prøverørsbefruktning med mikroinjeksjonsbehandlin
 | Category | n |
 | -------- | - |
 | 1 | 1118 |
+| Not NA | 1118 |
 | NA | 41157 |
 
 
@@ -516,6 +534,7 @@ QKHMA_12_6:HELSEMODRE_A; Usikker.; 12. Har du noen gang gjennomgått fertilitets
 | Category | n |
 | -------- | - |
 | 1 | 84 |
+| Not NA | 84 |
 | NA | 42191 |
 
 
@@ -526,6 +545,7 @@ QKHMA_12_2_1:HELSEMODRE_A; Årsaken var hos meg.Hva var årsaken til fertilitets
 | Category | n |
 | -------- | - |
 | 1 | 716 |
+| Not NA | 716 |
 | NA | 41559 |
 
 
@@ -536,6 +556,7 @@ QKHMA_12_2_2:HELSEMODRE_A; Årsaken var hos min partner.Hva var årsaken til fer
 | Category | n |
 | -------- | - |
 | 1 | 597 |
+| Not NA | 597 |
 | NA | 41678 |
 
 
@@ -546,6 +567,7 @@ QKHMA_12_2_3:HELSEMODRE_A; Årsaken var ukjent.Hva var årsaken til fertilitetsb
 | Category | n |
 | -------- | - |
 | 1 | 807 |
+| Not NA | 807 |
 | NA | 41468 |
 
 
@@ -556,6 +578,7 @@ QKHMA_12_2_4:HELSEMODRE_A; Årsaken var hos begge.Hva var årsaken til fertilite
 | Category | n |
 | -------- | - |
 | 1 | 200 |
+| Not NA | 200 |
 | NA | 42075 |
 
 
@@ -566,6 +589,7 @@ QKHMA_12_2_5:HELSEMODRE_A; Jeg har partner av samme kjønn.Hva var årsaken til 
 | Category | n |
 | -------- | - |
 | 1 | 25 |
+| Not NA | 25 |
 | NA | 42250 |
 
 
@@ -576,6 +600,7 @@ QKHMA_12_2_6:HELSEMODRE_A; Andre årsaker.Hva var årsaken til fertilitetsbehand
 | Category | n |
 | -------- | - |
 | 1 | 60 |
+| Not NA | 60 |
 | NA | 42215 |
 
 
@@ -595,6 +620,7 @@ QKHMA_12_3_1:HELSEMODRE_A; Hvor mange ganger har du fått fertilitetsbehandling?
 | 5 | 122 |
 | 9 | 17 |
 | 8 | 33 |
+| Not NA | 2338 |
 | NA | 39937 |
 
 
@@ -611,6 +637,7 @@ QKHMA_12_3_2:HELSEMODRE_A; Fyll ut årstall for når den første behandlingen st
 | 3rd Qu. | 2007 |
 | Max. | 2024 |
 | NA's | 39991 |
+| Not NA | 2284 |
 
 
 ### HM37
@@ -626,6 +653,7 @@ QKHMA_12_3_3:HELSEMODRE_A; Fyll ut årstall for når den andre behandlingen star
 | 3rd Qu. | 2008 |
 | Max. | 2024 |
 | NA's | 40737 |
+| Not NA | 1538 |
 
 
 ### HM38
@@ -641,6 +669,7 @@ QKHMA_12_3_4:HELSEMODRE_A; Fyll ut årstall for når den tredje behandlingen sta
 | 3rd Qu. | 2008.75 |
 | Max. | 2024 |
 | NA's | 41365 |
+| Not NA | 910 |
 
 
 ### HM39
@@ -656,6 +685,7 @@ QKHMA_12_3_5:HELSEMODRE_A; Fyll ut årstall for når den fjerde behandlingen sta
 | 3rd Qu. | 2009 |
 | Max. | 2023 |
 | NA's | 41768 |
+| Not NA | 507 |
 
 
 ### HM40
@@ -671,6 +701,7 @@ QKHMA_12_3_6:HELSEMODRE_A; Fyll ut årstall for når den femte behandlingen star
 | 3rd Qu. | 2009 |
 | Max. | 2023 |
 | NA's | 41977 |
+| Not NA | 298 |
 
 
 ### HM41
@@ -686,6 +717,7 @@ QKHMA_12_3_7:HELSEMODRE_A; Fyll ut årstall for når den sjette behandlingen sta
 | 3rd Qu. | 2010 |
 | Max. | 2023 |
 | NA's | 42091 |
+| Not NA | 184 |
 
 
 ### HM42
@@ -701,6 +733,7 @@ QKHMA_12_3_8:HELSEMODRE_A; Fyll ut årstall for når den syvende behandlingen st
 | 3rd Qu. | 2010 |
 | Max. | 2020 |
 | NA's | 42160 |
+| Not NA | 115 |
 
 
 ### HM43
@@ -710,6 +743,7 @@ QKHMA_12_4_1:HELSEMODRE_A; Nei, vi brukte eget egg og egen sæd.Dersom du har gj
 | Category | n |
 | -------- | - |
 | 1 | 2140 |
+| Not NA | 2140 |
 | NA | 40135 |
 
 
@@ -720,6 +754,7 @@ QKHMA_12_4_2:HELSEMODRE_A; Vi brukte donoregg og egen sæd.Dersom du har gjennom
 | Category | n |
 | -------- | - |
 | 1 | 33 |
+| Not NA | 33 |
 | NA | 42242 |
 
 
@@ -730,6 +765,7 @@ QKHMA_12_4_3:HELSEMODRE_A; Vi brukte eget egg og donorsæd.Dersom du har gjennom
 | Category | n |
 | -------- | - |
 | 1 | 83 |
+| Not NA | 83 |
 | NA | 42192 |
 
 
@@ -740,6 +776,7 @@ QKHMA_12_4_4:HELSEMODRE_A; Vi brukte både donoregg og donorsæd.Dersom du har g
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 42267 |
 
 
@@ -754,6 +791,7 @@ QKHMA_13:HELSEMODRE_A; ; 13. Bodde du sammen med den andre forelderen til ditt y
 | Mitt yngste barn er under 5 år | 222 |
 | Ikke relevant | 136 |
 | Husker ikke | 14 |
+| Not NA | 42174 |
 | NA | 101 |
 
 
@@ -767,6 +805,7 @@ QKHMA_14:HELSEMODRE_A; ; 14. Har du gjennomgått noen kirurgiske inngrep som gj�
 | Ja | 5114 |
 | Vet ikke | 77 |
 | Husker ikke | 13 |
+| Not NA | 42186 |
 | NA | 89 |
 
 
@@ -783,6 +822,7 @@ QKHMA_14_2:HELSEMODRE_A; Hvilket år ble denne operasjonen utført?(Hvis ja, gje
 | 3rd Qu. | 2020 |
 | Max. | 2024 |
 | NA's | 37256 |
+| Not NA | 5019 |
 
 
 ### HM50
@@ -794,6 +834,7 @@ QKHMA_15:HELSEMODRE_A; ; 15. Vet du om noen andre helseforhold - utover at sanns
 | Nei | 36869 |
 | Ja | 4179 |
 | Vet ikke | 1084 |
+| Not NA | 42132 |
 | NA | 143 |
 
 
@@ -807,6 +848,7 @@ QKHMA_16:HELSEMODRE_A; ; 16. Opplevde du spontanabort etter at du fikk ditt yng
 | Ja | 1878 |
 | ØNSKER IKKE Å SVARE | 18 |
 | Vet ikke | 142 |
+| Not NA | 42168 |
 | NA | 107 |
 
 
@@ -820,6 +862,7 @@ QKHMA_17:HELSEMODRE_A; ; 17. Har du tatt abort (provosert abort) etter at du fi
 | Ja | 2474 |
 | ØNSKER IKKE Å SVARE | 41 |
 | Vet ikke | 11 |
+| Not NA | 42161 |
 | NA | 114 |
 
 
@@ -832,6 +875,7 @@ M1_QKHMA_18_1:HELSEMODRE_A; Å oppdra barn var/er slik jeg forventet.; 18. Neden
 | Ja | 27712 |
 | Nei | 9845 |
 | Usikker | 4574 |
+| Not NA | 42131 |
 | NA | 144 |
 
 
@@ -844,6 +888,7 @@ M1_QKHMA_18_2:HELSEMODRE_A; Å oppdra barn var/er mer belastende eller stressend
 | Ja | 16331 |
 | Nei | 22853 |
 | Usikker | 2938 |
+| Not NA | 42122 |
 | NA | 153 |
 
 
@@ -856,6 +901,7 @@ M1_QKHMA_18_3:HELSEMODRE_A; Å ha barn har gitt mer mening og glede enn jeg forv
 | Ja | 36045 |
 | Usikker | 2308 |
 | Nei | 3766 |
+| Not NA | 42119 |
 | NA | 156 |
 
 
@@ -870,6 +916,7 @@ QKHMA_19:HELSEMODRE_A; ; 19. Tenk tilbake til da du ble gravid med ditt yngste b
 | Jeg ønsket et barn, men hadde håpet å få det senere | 2521 |
 | Jeg ønsket et barn, men hadde håpet å få det tidligere | 5085 |
 | Jeg ønsket ikke et barn | 624 |
+| Not NA | 42024 |
 | NA | 251 |
 
 
@@ -880,6 +927,7 @@ QKHMA_20_1:HELSEMODRE_A; Jeg vil/ville ikke ha flere barn.; 20. Hva vil du si er
 | Category | n |
 | -------- | - |
 | 1 | 29093 |
+| Not NA | 29093 |
 | NA | 13182 |
 
 
@@ -890,6 +938,7 @@ QKHMA_20_2:HELSEMODRE_A; Partneren min vil/ville ikke ha flere barn.; 20. Hva vi
 | Category | n |
 | -------- | - |
 | 1 | 9682 |
+| Not NA | 9682 |
 | NA | 32593 |
 
 
@@ -900,6 +949,7 @@ QKHMA_20_3:HELSEMODRE_A; Jeg hadde ikke partner da det kunne være aktuelt å f�
 | Category | n |
 | -------- | - |
 | 1 | 1527 |
+| Not NA | 1527 |
 | NA | 40748 |
 
 
@@ -910,6 +960,7 @@ QKHMA_20_4:HELSEMODRE_A; Jeg/partneren min prøvde å få barn, men ble ikke gra
 | Category | n |
 | -------- | - |
 | 1 | 1401 |
+| Not NA | 1401 |
 | NA | 40874 |
 
 
@@ -920,6 +971,7 @@ QKHMA_20_5:HELSEMODRE_A; Jeg planlegger/ønsker å få flere barn.; 20. Hva vil 
 | Category | n |
 | -------- | - |
 | 1 | 193 |
+| Not NA | 193 |
 | NA | 42082 |
 
 
@@ -930,6 +982,7 @@ QKHMA_20_6:HELSEMODRE_A; Annet.; 20. Hva vil du si er de(n) viktigste grunnen(e)
 | Category | n |
 | -------- | - |
 | 1 | 6475 |
+| Not NA | 6475 |
 | NA | 35800 |
 
 
@@ -944,6 +997,7 @@ QKHMA_20_2_1:HELSEMODRE_A; Forestill deg, helt hypotetisk, at du faktisk hadde f
 | Litt positivt | 7140 |
 | Veldig positivt | 6770 |
 | Veldig negativt | 2711 |
+| Not NA | 35152 |
 | NA | 7123 |
 
 
@@ -956,6 +1010,7 @@ M2_QKHMA_20_3_1:HELSEMODRE_A; Et barn til ville påvirket partnerforholdet mitt 
 | Ikke viktig | 17773 |
 | Litt viktig | 7649 |
 | Veldig viktig | 3555 |
+| Not NA | 28977 |
 | NA | 13298 |
 
 
@@ -968,6 +1023,7 @@ M2_QKHMA_20_3_2:HELSEMODRE_A; Et barn til ville påvirket karriere og jobbmuligh
 | Ikke viktig | 19285 |
 | Litt viktig | 7741 |
 | Veldig viktig | 1952 |
+| Not NA | 28978 |
 | NA | 13297 |
 
 
@@ -980,6 +1036,7 @@ M2_QKHMA_20_3_3:HELSEMODRE_A; Et barn til ville gitt mindre tid til fritidsaktiv
 | Litt viktig | 11208 |
 | Ikke viktig | 14073 |
 | Veldig viktig | 3697 |
+| Not NA | 28978 |
 | NA | 13297 |
 
 
@@ -992,6 +1049,7 @@ M2_QKHMA_20_3_4:HELSEMODRE_A; Et barn til ville krevd en større bolig.(Hvis vil
 | Litt viktig | 7256 |
 | Ikke viktig | 18016 |
 | Veldig viktig | 3695 |
+| Not NA | 28967 |
 | NA | 13308 |
 
 
@@ -1004,6 +1062,7 @@ M2_QKHMA_20_3_5:HELSEMODRE_A; Et barn til ville påvirket helsen min negativt.(H
 | Veldig viktig | 6904 |
 | Ikke viktig | 12538 |
 | Litt viktig | 9524 |
+| Not NA | 28966 |
 | NA | 13309 |
 
 
@@ -1016,6 +1075,7 @@ M2_QKHMA_20_3_6:HELSEMODRE_A; Et barn til ville vært vanskelig på grunn av sø
 | Veldig viktig | 3931 |
 | Ikke viktig | 16268 |
 | Litt viktig | 8773 |
+| Not NA | 28972 |
 | NA | 13303 |
 
 
@@ -1028,6 +1088,7 @@ M2_QKHMA_20_3_7:HELSEMODRE_A; Et barn til ville påvirket eldre søsken negativt
 | Litt viktig | 7043 |
 | Ikke viktig | 19297 |
 | Veldig viktig | 2623 |
+| Not NA | 28963 |
 | NA | 13312 |
 
 
@@ -1040,6 +1101,7 @@ M2_QKHMA_20_3_8:HELSEMODRE_A; Et barn til ville vært vanskelig, siden minst ett
 | Ikke viktig | 22702 |
 | Litt viktig | 3324 |
 | Veldig viktig | 2872 |
+| Not NA | 28898 |
 | NA | 13377 |
 
 
@@ -1052,6 +1114,7 @@ M2_QKHMA_20_3_9:HELSEMODRE_A; Et barn til ville vært en belastning for miljøet
 | Ikke viktig | 26715 |
 | Litt viktig | 1894 |
 | Veldig viktig | 324 |
+| Not NA | 28933 |
 | NA | 13342 |
 
 
@@ -1064,6 +1127,7 @@ M2_QKHMA_20_310:HELSEMODRE_A; Tidligere svangerskap/fødsel har vært vanskelige
 | Ikke viktig | 19467 |
 | Litt viktig | 6070 |
 | Veldig viktig | 3417 |
+| Not NA | 28954 |
 | NA | 13321 |
 
 
@@ -1075,6 +1139,7 @@ M3_QKHMA_21_1:HELSEMODRE_A; 20% kortere arbeidsuke med full lønn for foreldre.;
 | -------- | - |
 | Kunne påvirket meg | 21641 |
 | Ikke relevant | 20457 |
+| Not NA | 42098 |
 | NA | 177 |
 
 
@@ -1086,6 +1151,7 @@ M3_QKHMA_21_2:HELSEMODRE_A; Lengre samlet lønnet foreldrepermisjon.; 21. Her li
 | -------- | - |
 | Kunne påvirket meg | 19735 |
 | Ikke relevant | 22280 |
+| Not NA | 42015 |
 | NA | 260 |
 
 
@@ -1097,6 +1163,7 @@ M3_QKHMA_21_3:HELSEMODRE_A; Friere fordeling av lønnet foreldrepermisjon mellom
 | -------- | - |
 | Ikke relevant | 27977 |
 | Kunne påvirket meg | 13989 |
+| Not NA | 41966 |
 | NA | 309 |
 
 
@@ -1108,6 +1175,7 @@ M3_QKHMA_21_4:HELSEMODRE_A; Bedre inntektssikring og permisjonsrettigheter for s
 | -------- | - |
 | Ikke relevant | 36696 |
 | Kunne påvirket meg | 5250 |
+| Not NA | 41946 |
 | NA | 329 |
 
 
@@ -1119,6 +1187,7 @@ M3_QKHMA_21_5:HELSEMODRE_A; Dobling av barnetrygden.; 21. Her lister vi opp noen
 | -------- | - |
 | Kunne påvirket meg | 16398 |
 | Ikke relevant | 25576 |
+| Not NA | 41974 |
 | NA | 301 |
 
 
@@ -1130,6 +1199,7 @@ M3_QKHMA_21_6:HELSEMODRE_A; Gratis barnehage/skolefritidsordning.; 21. Her liste
 | -------- | - |
 | Kunne påvirket meg | 18360 |
 | Ikke relevant | 23598 |
+| Not NA | 41958 |
 | NA | 317 |
 
 
@@ -1141,6 +1211,7 @@ M3_QKHMA_21_7:HELSEMODRE_A; Bedre kvalitet i barnehage og skolefritidsordning.; 
 | -------- | - |
 | Kunne påvirket meg | 13707 |
 | Ikke relevant | 28174 |
+| Not NA | 41881 |
 | NA | 394 |
 
 
@@ -1152,6 +1223,7 @@ M3_QKHMA_21_8:HELSEMODRE_A; Barnehageplass fra måneden barnet fyller ett år.; 
 | -------- | - |
 | Kunne påvirket meg | 14113 |
 | Ikke relevant | 27861 |
+| Not NA | 41974 |
 | NA | 301 |
 
 
@@ -1166,6 +1238,7 @@ QKHMA_22:HELSEMODRE_A; ; 22. Har du hatt menstruasjon de siste tolv månedene?
 | NEI, JEG HAR IKKE HATT MENSTRUASJON DE SISTE 12 MÅNEDENE | 21864 |
 | Vet ikke | 1439 |
 | HUSKER IKKE | 183 |
+| Not NA | 42091 |
 | NA | 184 |
 
 
@@ -1187,6 +1260,7 @@ QKHMA_22_2:HELSEMODRE_A; Hvis nei, hva er årsaken til at du ikke har hatt menst
 | Graviditet/amming | 26 |
 | Underliggende hormonforstyrrende tilstander som for eksempel PCOS | 42 |
 | Ukjent årsak | 85 |
+| Not NA | 21817 |
 | NA | 20458 |
 
 
@@ -1203,6 +1277,7 @@ QKHMA_22_2_2:HELSEMODRE_A; Oppgi antall år:Hvor gammel var du når du fjernet l
 | 3rd Qu. | 47 |
 | Max. | 58 |
 | NA's | 40246 |
+| Not NA | 2029 |
 
 
 ### HM85
@@ -1218,6 +1293,7 @@ QKHMA_22_2_3:HELSEMODRE_A; Oppgi antall år:Hvor gammel var du når du fjernet b
 | 3rd Qu. | 50 |
 | Max. | 60 |
 | NA's | 41760 |
+| Not NA | 515 |
 
 
 ### HM86
@@ -1243,6 +1319,7 @@ QKHMA_22_3:HELSEMODRE_A; Hvor mange ganger har du hatt menstruasjon de siste 12 
 | 7 | 554 |
 | 1 | 331 |
 | 0 | 35 |
+| Not NA | 18342 |
 | NA | 23933 |
 
 
@@ -1296,6 +1373,7 @@ QKHMA_23:HELSEMODRE_A; Oppgi årstall:; 23. NÅR HADDE DU DIN SISTE MENSTRUASJON
 | 2040 | 2 |
 | Vet ikke / husker ikke | 476 |
 | NA's | 3197 |
+| Not NA | 39078 |
 
 
 ### HM88
@@ -1317,6 +1395,7 @@ QKHMA_23_2:HELSEMODRE_A; Oppgi måned:; 23. NÅR HADDE DU DIN SISTE MENSTRUASJON
 | September | 3464 |
 | Desember | 652 |
 | Oktober | 708 |
+| Not NA | 36476 |
 | NA | 5799 |
 
 
@@ -1333,6 +1412,7 @@ QKHMA_24:HELSEMODRE_A; ; 24. HVOR MANGE DAGER HADDE DU BLØDNING SISTE GANG DU H
 | 3rd Qu. | 6 |
 | Max. | 300 |
 | NA's | 20949 |
+| Not NA | 21326 |
 
 
 ### HM90
@@ -1342,6 +1422,7 @@ QKHMA_24_2:HELSEMODRE_A; Husker ikke.; 24. HVOR MANGE DAGER HADDE DU BLØDNING S
 | Category | n |
 | -------- | - |
 | Husker ikke | 20303 |
+| Not NA | 20303 |
 | NA | 21972 |
 
 
@@ -1356,6 +1437,7 @@ QKHMA_25:HELSEMODRE_A; ; 25. Hvor ofte har du vært plaget med at du svetter om 
 | Hver natt | 2779 |
 | 6-8 netter | 1968 |
 | 9-13 netter | 1183 |
+| Not NA | 41946 |
 | NA | 329 |
 
 
@@ -1370,6 +1452,7 @@ QKHMA_26:HELSEMODRE_A; ; 26. Hvor ofte har du vært plaget av hetetokter (der du
 | Hver dag | 2684 |
 | 6-8 DAGER | 1654 |
 | 9-13 DAGER | 1056 |
+| Not NA | 42116 |
 | NA | 159 |
 
 
@@ -1382,6 +1465,7 @@ QKHMA_27:HELSEMODRE_A; ; 27. HAR DU NOEN GANG BRUKT HORMONELL PREVENSJON, INKLUD
 | Ja | 38687 |
 | Nei | 3362 |
 | Husker ikke | 92 |
+| Not NA | 42141 |
 | NA | 134 |
 
 
@@ -1392,6 +1476,7 @@ QKHMA_27_2_1:HELSEMODRE_A; P-piller.Hvis ja, hvilken hormonell prevensjon har du
 | Category | n |
 | -------- | - |
 | 1 | 26069 |
+| Not NA | 26069 |
 | NA | 16206 |
 
 
@@ -1402,6 +1487,7 @@ QKHMA_27_2_2:HELSEMODRE_A; Minipiller.Hvis ja, hvilken hormonell prevensjon har 
 | Category | n |
 | -------- | - |
 | 1 | 6885 |
+| Not NA | 6885 |
 | NA | 35390 |
 
 
@@ -1412,6 +1498,7 @@ QKHMA_27_2_3:HELSEMODRE_A; P-ring.Hvis ja, hvilken hormonell prevensjon har du b
 | Category | n |
 | -------- | - |
 | 1 | 1683 |
+| Not NA | 1683 |
 | NA | 40592 |
 
 
@@ -1422,6 +1509,7 @@ QKHMA_27_2_4:HELSEMODRE_A; P-plaster.Hvis ja, hvilken hormonell prevensjon har d
 | Category | n |
 | -------- | - |
 | 1 | 939 |
+| Not NA | 939 |
 | NA | 41336 |
 
 
@@ -1432,6 +1520,7 @@ QKHMA_27_2_5:HELSEMODRE_A; Hormonspiral.Hvis ja, hvilken hormonell prevensjon ha
 | Category | n |
 | -------- | - |
 | 1 | 25330 |
+| Not NA | 25330 |
 | NA | 16945 |
 
 
@@ -1442,6 +1531,7 @@ QKHMA_27_2_6:HELSEMODRE_A; P-stav.Hvis ja, hvilken hormonell prevensjon har du b
 | Category | n |
 | -------- | - |
 | 1 | 1361 |
+| Not NA | 1361 |
 | NA | 40914 |
 
 
@@ -1452,6 +1542,7 @@ QKHMA_27_2_7:HELSEMODRE_A; P-sprøyte.Hvis ja, hvilken hormonell prevensjon har 
 | Category | n |
 | -------- | - |
 | 1 | 1888 |
+| Not NA | 1888 |
 | NA | 40387 |
 
 
@@ -1467,6 +1558,7 @@ QKHMA_27_3:HELSEMODRE_A; Hvis ja, hvor mange år til sammen har du brukt hormone
 | 11 - 15 år | 7650 |
 | 6 - 10 år | 7049 |
 | Mindre enn 1 år | 1314 |
+| Not NA | 38607 |
 | NA | 3668 |
 
 
@@ -1478,6 +1570,7 @@ QKHMA_28:HELSEMODRE_A; ; 28. Bruker du for tiden noen form for prevensjon?
 | -------- | - |
 | Nei | 24633 |
 | Ja | 17469 |
+| Not NA | 42102 |
 | NA | 173 |
 
 
@@ -1488,6 +1581,7 @@ QKHMA_28_2_1:HELSEMODRE_A; Minipiller.Hvis ja, hvilken type prevensjon bruker du
 | Category | n |
 | -------- | - |
 | 1 | 843 |
+| Not NA | 843 |
 | NA | 41432 |
 
 
@@ -1498,6 +1592,7 @@ QKHMA_28_2_2:HELSEMODRE_A; P-piller.Hvis ja, hvilken type prevensjon bruker du?;
 | Category | n |
 | -------- | - |
 | 1 | 992 |
+| Not NA | 992 |
 | NA | 41283 |
 
 
@@ -1508,6 +1603,7 @@ QKHMA_28_2_3:HELSEMODRE_A; Hormonspiral.Hvis ja, hvilken type prevensjon bruker 
 | Category | n |
 | -------- | - |
 | 1 | 14143 |
+| Not NA | 14143 |
 | NA | 28132 |
 
 
@@ -1518,6 +1614,7 @@ QKHMA_28_2_4:HELSEMODRE_A; Kobberspiral.Hvis ja, hvilken type prevensjon bruker 
 | Category | n |
 | -------- | - |
 | 1 | 709 |
+| Not NA | 709 |
 | NA | 41566 |
 
 
@@ -1528,6 +1625,7 @@ QKHMA_28_2_5:HELSEMODRE_A; P-stav.Hvis ja, hvilken type prevensjon bruker du?; 2
 | Category | n |
 | -------- | - |
 | 1 | 216 |
+| Not NA | 216 |
 | NA | 42059 |
 
 
@@ -1538,6 +1636,7 @@ QKHMA_28_2_6:HELSEMODRE_A; P-sprøyte.Hvis ja, hvilken type prevensjon bruker du
 | Category | n |
 | -------- | - |
 | 1 | 131 |
+| Not NA | 131 |
 | NA | 42144 |
 
 
@@ -1548,6 +1647,7 @@ QKHMA_28_2_7:HELSEMODRE_A; P-plaster.Hvis ja, hvilken type prevensjon bruker du?
 | Category | n |
 | -------- | - |
 | 1 | 31 |
+| Not NA | 31 |
 | NA | 42244 |
 
 
@@ -1558,6 +1658,7 @@ QKHMA_28_2_8:HELSEMODRE_A; P-ring.Hvis ja, hvilken type prevensjon bruker du?; 2
 | Category | n |
 | -------- | - |
 | 1 | 87 |
+| Not NA | 87 |
 | NA | 42188 |
 
 
@@ -1568,6 +1669,7 @@ QKHMA_28_2_9:HELSEMODRE_A; Pessar.Hvis ja, hvilken type prevensjon bruker du?; 2
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 42269 |
 
 
@@ -1578,6 +1680,7 @@ QKHMA_28_2_10:HELSEMODRE_A; Kondom.Hvis ja, hvilken type prevensjon bruker du?; 
 | Category | n |
 | -------- | - |
 | 1 | 331 |
+| Not NA | 331 |
 | NA | 41944 |
 
 
@@ -1588,6 +1691,7 @@ QKHMA_28_2_11:HELSEMODRE_A; Femidom.Hvis ja, hvilken type prevensjon bruker du?;
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 42274 |
 
 
@@ -1598,6 +1702,7 @@ QKHMA_28_2_12:HELSEMODRE_A; «Sikre perioder».Hvis ja, hvilken type prevensjon 
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 42251 |
 
 
@@ -1608,6 +1713,7 @@ QKHMA_28_2_13:HELSEMODRE_A; Avbrutt samleie.Hvis ja, hvilken type prevensjon bru
 | Category | n |
 | -------- | - |
 | 1 | 42 |
+| Not NA | 42 |
 | NA | 42233 |
 
 
@@ -1618,6 +1724,7 @@ QKHMA_28_2_14:HELSEMODRE_A; Jeg er sterilisert.Hvis ja, hvilken type prevensjon 
 | Category | n |
 | -------- | - |
 | 1 | 106 |
+| Not NA | 106 |
 | NA | 42169 |
 
 
@@ -1628,6 +1735,7 @@ QKHMA_28_2_15:HELSEMODRE_A; Min partner er sterilisert.Hvis ja, hvilken type pre
 | Category | n |
 | -------- | - |
 | 1 | 397 |
+| Not NA | 397 |
 | NA | 41878 |
 
 
@@ -1638,6 +1746,7 @@ QKHMA_28_2_16:HELSEMODRE_A; Ingen.Hvis ja, hvilken type prevensjon bruker du?; 2
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 42270 |
 
 
@@ -1648,6 +1757,7 @@ QKHMA_28_2_17:HELSEMODRE_A; Annen type.Hvis ja, hvilken type prevensjon bruker d
 | Category | n |
 | -------- | - |
 | 1 | 25 |
+| Not NA | 25 |
 | NA | 42250 |
 
 
@@ -1658,6 +1768,7 @@ QKHMA_28_2_18:HELSEMODRE_A; Vet ikke.Hvis ja, hvilken type prevensjon bruker du?
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 42270 |
 
 
@@ -1670,6 +1781,7 @@ QKHMA_29:HELSEMODRE_A; ; 29. Har du noen gang brukt hormonbehandling (østrogent
 | Nei | 30361 |
 | Ja | 10994 |
 | IKKE RELEVANT | 790 |
+| Not NA | 42145 |
 | NA | 130 |
 
 
@@ -1684,6 +1796,7 @@ QKHMA_29_2_1:HELSEMODRE_A; Hvis ja, hvor mange år har du brukt hormonbehandling
 | 3-4 ÅR | 1461 |
 | MER ENN 6 ÅR | 700 |
 | 5-6 ÅR | 528 |
+| Not NA | 10950 |
 | NA | 31325 |
 
 
@@ -1695,6 +1808,7 @@ QKHMA_29_2_2:HELSEMODRE_A; Bruker du fortsatt hormonbehandling mot plager i over
 | -------- | - |
 | Ja | 9145 |
 | Nei | 1802 |
+| Not NA | 10947 |
 | NA | 31328 |
 
 
@@ -1705,6 +1819,7 @@ QKHMA_29_3_1:HELSEMODRE_A; Østrogentabletter.Hvis ja, hvilken type hormonbehand
 | Category | n |
 | -------- | - |
 | 1 | 2420 |
+| Not NA | 2420 |
 | NA | 39855 |
 
 
@@ -1715,6 +1830,7 @@ QKHMA_29_3_2:HELSEMODRE_A; Østrogenplaster.Hvis ja, hvilken type hormonbehandli
 | Category | n |
 | -------- | - |
 | 1 | 3018 |
+| Not NA | 3018 |
 | NA | 39257 |
 
 
@@ -1725,6 +1841,7 @@ QKHMA_29_3_3:HELSEMODRE_A; Østrogenspray.Hvis ja, hvilken type hormonbehandling
 | Category | n |
 | -------- | - |
 | 1 | 3062 |
+| Not NA | 3062 |
 | NA | 39213 |
 
 
@@ -1735,6 +1852,7 @@ QKHMA_29_3_4:HELSEMODRE_A; Østrogengel.Hvis ja, hvilken type hormonbehandling h
 | Category | n |
 | -------- | - |
 | 1 | 1111 |
+| Not NA | 1111 |
 | NA | 41164 |
 
 
@@ -1745,6 +1863,7 @@ QKHMA_29_3_5:HELSEMODRE_A; Kombinasjonstabletter.Hvis ja, hvilken type hormonbeh
 | Category | n |
 | -------- | - |
 | 1 | 1201 |
+| Not NA | 1201 |
 | NA | 41074 |
 
 
@@ -1755,6 +1874,7 @@ QKHMA_29_3_6:HELSEMODRE_A; Kombinasjonsplaster.Hvis ja, hvilken type hormonbehan
 | Category | n |
 | -------- | - |
 | 1 | 563 |
+| Not NA | 563 |
 | NA | 41712 |
 
 
@@ -1765,6 +1885,7 @@ QKHMA_29_3_7:HELSEMODRE_A; Hormonspiral.Hvis ja, hvilken type hormonbehandling h
 | Category | n |
 | -------- | - |
 | 1 | 1690 |
+| Not NA | 1690 |
 | NA | 40585 |
 
 
@@ -1775,6 +1896,7 @@ QKHMA_29_3_8:HELSEMODRE_A; Gestagentablett.Hvis ja, hvilken type hormonbehandlin
 | Category | n |
 | -------- | - |
 | 1 | 1138 |
+| Not NA | 1138 |
 | NA | 41137 |
 
 
@@ -1785,6 +1907,7 @@ QKHMA_29_3_9:HELSEMODRE_A; Vaginalt (tabletter/-krem/-vagitorie/-ring/-gel).Hvis
 | Category | n |
 | -------- | - |
 | 1 | 1434 |
+| Not NA | 1434 |
 | NA | 40841 |
 
 
@@ -1795,6 +1918,7 @@ QKHMA_29_3_10:HELSEMODRE_A; Annet.Hvis ja, hvilken type hormonbehandling har du 
 | Category | n |
 | -------- | - |
 | 1 | 583 |
+| Not NA | 583 |
 | NA | 41692 |
 
 
@@ -1805,6 +1929,7 @@ QKHMA_29_3_11:HELSEMODRE_A; Vet ikke.Hvis ja, hvilken type hormonbehandling har 
 | Category | n |
 | -------- | - |
 | 1 | 85 |
+| Not NA | 85 |
 | NA | 42190 |
 
 
@@ -1821,6 +1946,7 @@ M4_QKHMA_30_1:HELSEMODRE_A; Hetetokter.; 30. Hvor plaget har du vært av følgen
 | 2 | 3626 |
 | 5 | 1119 |
 | Veldig plaget | 816 |
+| Not NA | 42149 |
 | NA | 126 |
 
 
@@ -1837,6 +1963,7 @@ M4_QKHMA_30_2:HELSEMODRE_A; Svette på nattestid.; 30. Hvor plaget har du vært 
 | 4 | 2741 |
 | 3 | 3384 |
 | Veldig plaget | 1102 |
+| Not NA | 42167 |
 | NA | 108 |
 
 
@@ -1853,6 +1980,7 @@ M4_QKHMA_30_3:HELSEMODRE_A; Svette på dagtid.; 30. Hvor plaget har du vært av 
 | 5 | 980 |
 | 3 | 3039 |
 | Veldig plaget | 646 |
+| Not NA | 42133 |
 | NA | 142 |
 
 
@@ -1869,6 +1997,7 @@ M4_QKHMA_30_4:HELSEMODRE_A; Misfornøyd med privatlivet.; 30. Hvor plaget har du
 | Ikke plaget i det hele tatt | 16772 |
 | 5 | 1447 |
 | Veldig plaget | 822 |
+| Not NA | 42148 |
 | NA | 127 |
 
 
@@ -1885,6 +2014,7 @@ M4_QKHMA_30_5:HELSEMODRE_A; Følelse av angst eller nervøsitet.; 30. Hvor plage
 | 4 | 2574 |
 | 5 | 1252 |
 | Veldig plaget | 597 |
+| Not NA | 42160 |
 | NA | 115 |
 
 
@@ -1901,6 +2031,7 @@ M4_QKHMA_30_6:HELSEMODRE_A; Dårlig hukommelse.; 30. Hvor plaget har du vært av
 | 3 | 7460 |
 | Ikke plaget i det hele tatt | 7985 |
 | Veldig plaget | 1555 |
+| Not NA | 42164 |
 | NA | 111 |
 
 
@@ -1917,6 +2048,7 @@ M4_QKHMA_30_7:HELSEMODRE_A; Utrettet mindre enn vanlig / det jeg er vant til.; 3
 | Ikke plaget i det hele tatt | 12859 |
 | Veldig plaget | 1510 |
 | 4 | 4633 |
+| Not NA | 42131 |
 | NA | 144 |
 
 
@@ -1933,6 +2065,7 @@ M4_QKHMA_30_8:HELSEMODRE_A; Følelse av å være deprimert eller nedstemt.; 30. 
 | 4 | 3486 |
 | 5 | 1765 |
 | Veldig plaget | 827 |
+| Not NA | 42160 |
 | NA | 115 |
 
 
@@ -1949,6 +2082,7 @@ M4_QKHMA_30_9:HELSEMODRE_A; Å ha lite tålmodighet med andre.; 30. Hvor plaget 
 | Ikke plaget i det hele tatt | 12125 |
 | 5 | 1509 |
 | Veldig plaget | 558 |
+| Not NA | 42163 |
 | NA | 112 |
 
 
@@ -1965,6 +2099,7 @@ M4_QKHMA_3010:HELSEMODRE_A; Ønsket om være alene.; 30. Hvor plaget har du vær
 | Veldig plaget | 1233 |
 | 4 | 4646 |
 | 2 | 6325 |
+| Not NA | 42133 |
 | NA | 142 |
 
 
@@ -1981,6 +2116,7 @@ M4_QKHMA_3011:HELSEMODRE_A; Fjerting eller luftsmerter i magen.; 30. Hvor plaget
 | 4 | 4549 |
 | 3 | 6069 |
 | Veldig plaget | 1641 |
+| Not NA | 42146 |
 | NA | 129 |
 
 
@@ -1997,6 +2133,7 @@ M4_QKHMA_3012:HELSEMODRE_A; Smerter i muskler eller ledd.; 30. Hvor plaget har d
 | 3 | 6193 |
 | 2 | 6003 |
 | Veldig plaget | 3586 |
+| Not NA | 42147 |
 | NA | 128 |
 
 
@@ -2013,6 +2150,7 @@ M4_QKHMA_3013:HELSEMODRE_A; Følelse av å være trøtt og sliten.; 30. Hvor pla
 | 4 | 7230 |
 | 3 | 7351 |
 | Ikke plaget i det hele tatt | 3850 |
+| Not NA | 42144 |
 | NA | 131 |
 
 
@@ -2029,6 +2167,7 @@ M4_QKHMA_3014:HELSEMODRE_A; Problemer med søvn.; 30. Hvor plaget har du vært a
 | Veldig plaget | 3218 |
 | 1 | 6819 |
 | 5 | 4157 |
+| Not NA | 42152 |
 | NA | 123 |
 
 
@@ -2045,6 +2184,7 @@ M4_QKHMA_3015:HELSEMODRE_A; Smerter i nakken eller hode.; 30. Hvor plaget har du
 | 4 | 5061 |
 | 2 | 5647 |
 | Veldig plaget | 2937 |
+| Not NA | 42129 |
 | NA | 146 |
 
 
@@ -2061,6 +2201,7 @@ M4_QKHMA_3016:HELSEMODRE_A; Redusert fysisk styrke.; 30. Hvor plaget har du vær
 | 5 | 2228 |
 | 1 | 7472 |
 | Veldig plaget | 1141 |
+| Not NA | 42140 |
 | NA | 135 |
 
 
@@ -2077,6 +2218,7 @@ M4_QKHMA_3017:HELSEMODRE_A; Redusert utholdenhet/stamina.; 30. Hvor plaget har d
 | 1 | 8087 |
 | 2 | 6676 |
 | Veldig plaget | 1273 |
+| Not NA | 42108 |
 | NA | 167 |
 
 
@@ -2093,6 +2235,7 @@ M4_QKHMA_3018:HELSEMODRE_A; Lite energi.; 30. Hvor plaget har du vært av følge
 | 5 | 4010 |
 | Veldig plaget | 3106 |
 | Ikke plaget i det hele tatt | 6727 |
+| Not NA | 42101 |
 | NA | 174 |
 
 
@@ -2109,6 +2252,7 @@ M4_QKHMA_3019:HELSEMODRE_A; Tørr hud.; 30. Hvor plaget har du vært av følgend
 | 2 | 5971 |
 | 5 | 1333 |
 | Veldig plaget | 653 |
+| Not NA | 42125 |
 | NA | 150 |
 
 
@@ -2125,6 +2269,7 @@ M4_QKHMA_3020:HELSEMODRE_A; Vektøkning.; 30. Hvor plaget har du vært av følge
 | 5 | 2724 |
 | Veldig plaget | 1991 |
 | 2 | 5878 |
+| Not NA | 42117 |
 | NA | 158 |
 
 
@@ -2141,6 +2286,7 @@ M4_QKHMA_3021:HELSEMODRE_A; Mer hår i ansiktet.; 30. Hvor plaget har du vært a
 | 5 | 1642 |
 | 4 | 3297 |
 | 3 | 4349 |
+| Not NA | 42134 |
 | NA | 141 |
 
 
@@ -2157,6 +2303,7 @@ M4_QKHMA_3022:HELSEMODRE_A; Endringer i hudens utseende/tekstur/farge.; 30. Hvor
 | 1 | 9122 |
 | 5 | 1199 |
 | Veldig plaget | 396 |
+| Not NA | 42092 |
 | NA | 183 |
 
 
@@ -2173,6 +2320,7 @@ M4_QKHMA_3023:HELSEMODRE_A; Følelse av å være oppblåst.; 30. Hvor plaget har
 | Ikke plaget i det hele tatt | 10648 |
 | 3 | 6462 |
 | Veldig plaget | 1788 |
+| Not NA | 42112 |
 | NA | 163 |
 
 
@@ -2189,6 +2337,7 @@ M4_QKHMA_3024:HELSEMODRE_A; Smerter i nedre rygg.; 30. Hvor plaget har du vært 
 | 3 | 4816 |
 | 4 | 4058 |
 | 5 | 2773 |
+| Not NA | 42118 |
 | NA | 157 |
 
 
@@ -2205,6 +2354,7 @@ M4_QKHMA_3025:HELSEMODRE_A; Hyppig vannlatning.; 30. Hvor plaget har du vært av
 | 3 | 5272 |
 | 5 | 2199 |
 | Veldig plaget | 1389 |
+| Not NA | 42116 |
 | NA | 159 |
 
 
@@ -2221,6 +2371,7 @@ M4_QKHMA_3026:HELSEMODRE_A; Lekkasje av urin ved latter/hoste.; 30. Hvor plaget 
 | 1 | 8512 |
 | 3 | 4354 |
 | 4 | 3708 |
+| Not NA | 42126 |
 | NA | 149 |
 
 
@@ -2237,6 +2388,7 @@ M4_QKHMA_3027:HELSEMODRE_A; Redusert sexlyst.; 30. Hvor plaget har du vært av f
 | 5 | 4080 |
 | Ikke plaget i det hele tatt | 10253 |
 | 1 | 5617 |
+| Not NA | 42041 |
 | NA | 234 |
 
 
@@ -2253,6 +2405,7 @@ M4_QKHMA_3028:HELSEMODRE_A; Vaginal tørrhet.; 30. Hvor plaget har du vært av f
 | 4 | 3365 |
 | Ikke plaget i det hele tatt | 19316 |
 | 5 | 2172 |
+| Not NA | 42000 |
 | NA | 275 |
 
 
@@ -2269,6 +2422,7 @@ M4_QKHMA_3029:HELSEMODRE_A; Ønske om å unngå intimitet.; 30. Hvor plaget har 
 | 4 | 3819 |
 | Ikke plaget i det hele tatt | 15932 |
 | Veldigplaget | 2578 |
+| Not NA | 42000 |
 | NA | 275 |
 
 
@@ -2282,6 +2436,7 @@ QKHMA_31:HELSEMODRE_A; ; 31. Har du noen gang blitt diagnostisert med endometrio
 | Ja, adenomyose | 344 |
 | Ja, endometriose | 1797 |
 | Ja, begge deler | 182 |
+| Not NA | 42100 |
 | NA | 175 |
 
 
@@ -2292,6 +2447,7 @@ QKHMA_31_2_1:HELSEMODRE_A; Nei.Hvis ja, var tilstanden bekreftet med laparoskopi
 | Category | n |
 | -------- | - |
 | 1 | 241 |
+| Not NA | 241 |
 | NA | 42034 |
 
 
@@ -2302,6 +2458,7 @@ QKHMA_31_2_2:HELSEMODRE_A; Ja, laparoskopi.Hvis ja, var tilstanden bekreftet med
 | Category | n |
 | -------- | - |
 | 1 | 1360 |
+| Not NA | 1360 |
 | NA | 40915 |
 
 
@@ -2312,6 +2469,7 @@ QKHMA_31_2_3:HELSEMODRE_A; Ja, ultralyd.Hvis ja, var tilstanden bekreftet med la
 | Category | n |
 | -------- | - |
 | 1 | 689 |
+| Not NA | 689 |
 | NA | 41586 |
 
 
@@ -2322,6 +2480,7 @@ QKHMA_31_2_4:HELSEMODRE_A; Ja, MR.Hvis ja, var tilstanden bekreftet med laparosk
 | Category | n |
 | -------- | - |
 | 1 | 160 |
+| Not NA | 160 |
 | NA | 42115 |
 
 
@@ -2332,6 +2491,7 @@ QKHMA_31_2_5:HELSEMODRE_A; Usikker.Hvis ja, var tilstanden bekreftet med laparos
 | Category | n |
 | -------- | - |
 | 1 | 145 |
+| Not NA | 145 |
 | NA | 42130 |
 
 
@@ -2346,6 +2506,7 @@ QKHMA_32:HELSEMODRE_A; ; 32. Har du hatt svangerskapsforgiftning, høyt blodtryk
 | Vet ikke | 565 |
 | Ja, svangerskapsdiabetes | 1158 |
 | Ja, både svangerskapsdiabetes og enten svangerskapsforgiftning eller høyt blodtrykk | 506 |
+| Not NA | 42092 |
 | NA | 183 |
 
 
@@ -2360,6 +2521,7 @@ QKHMA_32_2_1:HELSEMODRE_A; Fikk du noen oppfølging av svangerskapsforgiftningen
 | Ja, 1 gang | 844 |
 | HUSKER IKKE | 518 |
 | Ja, og jeg følges fortsatt opp regelmessig | 535 |
+| Not NA | 5860 |
 | NA | 36415 |
 
 
@@ -2380,6 +2542,7 @@ QKHMA_32_2_2:HELSEMODRE_A; På en skala fra 0 - 10, der 0 er ikke tilfreds og 10
 | 4 | 143 |
 | 1 | 85 |
 | 3 | 132 |
+| Not NA | 2499 |
 | NA | 39776 |
 
 
@@ -2394,6 +2557,7 @@ QKHMA_32_2_3:HELSEMODRE_A; Fikk du informasjon om risiko for senere sykdom på g
 | HUSKER IKKE | 666 |
 | Ja, informasjon | 470 |
 | Ja, begge deler | 94 |
+| Not NA | 5867 |
 | NA | 36408 |
 
 
@@ -2408,6 +2572,7 @@ QKHMA_32_3_1:HELSEMODRE_A; Fikk du noen oppfølging av svangerskapsdiabetesen/bl
 | HUSKER IKKE | 97 |
 | Ja, 2 eller flere ganger | 246 |
 | Ja, og jeg følges fortsatt opp regelmessig | 144 |
+| Not NA | 1657 |
 | NA | 40618 |
 
 
@@ -2428,6 +2593,7 @@ QKHMA_32_3_2:HELSEMODRE_A; På en skala fra 0 - 10, der 0 er ikke tilfreds og 10
 | 9 | 55 |
 | 3 | 55 |
 | 0 | 25 |
+| Not NA | 759 |
 | NA | 41516 |
 
 
@@ -2442,6 +2608,7 @@ QKHMA_32_3_3:HELSEMODRE_A; Fikk du informasjon om risiko for senere sykdom på g
 | HUSKER IKKE | 201 |
 | Ja, begge deler | 138 |
 | Ja, livsstilsråd | 57 |
+| Not NA | 1658 |
 | NA | 40617 |
 
 
@@ -2454,6 +2621,7 @@ QKHMA_33:HELSEMODRE_A; ; 33. Kjenner eller ser du ofte noe som buler eller falle
 | Nei | 37289 |
 | Ja | 2952 |
 | Vet ikke | 1922 |
+| Not NA | 42163 |
 | NA | 112 |
 
 
@@ -2467,6 +2635,7 @@ QKHMA_33_2:HELSEMODRE_A; Hvor mye plager det deg?(Hvis ja, kjenner/ser noe som b
 | I noen grad | 885 |
 | Ganske mye | 476 |
 | Ikke i det hele tatt | 316 |
+| Not NA | 2937 |
 | NA | 39338 |
 
 
@@ -2478,6 +2647,7 @@ QKHMA_34:HELSEMODRE_A; ; 34. Opplever du så sterk vannlatningstrang av du ikke 
 | -------- | - |
 | Nei | 33623 |
 | Ja | 8482 |
+| Not NA | 42105 |
 | NA | 170 |
 
 
@@ -2491,6 +2661,7 @@ QKHMA_34_2:HELSEMODRE_A; Hvor mye plager det deg?(Hvis ja, opplever sterk vannla
 | I noen grad | 2445 |
 | Litt | 4248 |
 | Ikke i det hele tatt | 247 |
+| Not NA | 8451 |
 | NA | 33824 |
 
 
@@ -2502,6 +2673,7 @@ QKHMA_35:HELSEMODRE_A; ; 35. Har du ofte urinlekkasje når du hoster, nyser elle
 | -------- | - |
 | Nei | 29079 |
 | Ja | 12987 |
+| Not NA | 42066 |
 | NA | 209 |
 
 
@@ -2515,6 +2687,7 @@ QKHMA_35_2:HELSEMODRE_A; Hvor mye plager det deg?(Hvis ja, ofte urinlekkasje nå
 | Ikke i det hele tatt | 291 |
 | Ganske mye | 2520 |
 | Litt | 5795 |
+| Not NA | 12938 |
 | NA | 29337 |
 
 
@@ -2526,6 +2699,7 @@ QKHMA_36:HELSEMODRE_A; ; 36. Har du ofte avføringslekkasje når avføringen er 
 | -------- | - |
 | Nei | 41227 |
 | Ja | 866 |
+| Not NA | 42093 |
 | NA | 182 |
 
 
@@ -2539,6 +2713,7 @@ QKHMA_36_2:HELSEMODRE_A; Hvor mye plager det deg?(Hvis ja,har ofte avføringslek
 | I noen grad | 296 |
 | Litt | 246 |
 | Ikke i det hele tatt | 29 |
+| Not NA | 860 |
 | NA | 41415 |
 
 
@@ -2550,6 +2725,7 @@ QKHMA_37:HELSEMODRE_A; ; 37. Har du ofte ufrivillig lekkasje av luft fra tarmen?
 | -------- | - |
 | Nei | 32811 |
 | Ja | 9325 |
+| Not NA | 42136 |
 | NA | 139 |
 
 
@@ -2563,6 +2739,7 @@ QKHMA_37_2:HELSEMODRE_A; Hvor mye plager det deg?(Hvis ja, har ofte ufrivillig l
 | I noen grad | 3165 |
 | Ganske mye | 1559 |
 | Ikke i det hele tatt | 226 |
+| Not NA | 9316 |
 | NA | 32959 |
 
 
@@ -2576,6 +2753,7 @@ M5_QKHMA_38_1:HELSEMODRE_A; Opplever du at skjedeåpningen er for vid / for stor
 | Stemmer dårlig | 11312 |
 | STEMMER DELVIS | 7155 |
 | Stemmer helt | 1232 |
+| Not NA | 42038 |
 | NA | 237 |
 
 
@@ -2589,6 +2767,7 @@ M5_QKHMA_38_2:HELSEMODRE_A; Opplever du en følelse av vidhet dypt inne i skjede
 | Stemmer dårlig | 10530 |
 | STEMMER DELVIS | 5101 |
 | Stemmer helt | 754 |
+| Not NA | 41936 |
 | NA | 339 |
 
 
@@ -2602,6 +2781,7 @@ M5_QKHMA_38_3:HELSEMODRE_A; Har du underlivsplager som begrenser din seksuelle a
 | STEMMER IKKE I DET HELE TATT | 25294 |
 | Stemmer helt | 1534 |
 | Stemmer dårlig | 8708 |
+| Not NA | 41965 |
 | NA | 310 |
 
 
@@ -2615,6 +2795,7 @@ M5_QKHMA_38_4:HELSEMODRE_A; Har du underlivsplager som påvirker din livskvalite
 | STEMMER DELVIS | 6184 |
 | Stemmer dårlig | 9084 |
 | Stemmer helt | 1175 |
+| Not NA | 42045 |
 | NA | 230 |
 
 
@@ -2628,6 +2809,7 @@ M6_QKHMA_39_1:HELSEMODRE_A; Plages du med at det kommer luft inn i skjeden?; 38.
 | Iblant | 16630 |
 | Ofte | 889 |
 | Alltid | 82 |
+| Not NA | 42083 |
 | NA | 192 |
 
 
@@ -2641,6 +2823,7 @@ M6_QKHMA_39_2:HELSEMODRE_A; Plages du av prompelyder/luftlyder fra skjeden?; 39.
 | Iblant | 17606 |
 | Ofte | 747 |
 | Alltid | 69 |
+| Not NA | 42092 |
 | NA | 183 |
 
 
@@ -2654,6 +2837,7 @@ M6_QKHMA_39_3:HELSEMODRE_A; Plages du med tyngdefølelse i underlivet?; 39. Unde
 | Ofte | 1131 |
 | Iblant | 9292 |
 | Alltid | 180 |
+| Not NA | 42057 |
 | NA | 218 |
 
 
@@ -2667,6 +2851,7 @@ M6_QKHMA_39_4:HELSEMODRE_A; Plages du av avføringslekkasje hvis avføringen er 
 | Aldri | 33864 |
 | Ofte | 782 |
 | Alltid | 138 |
+| Not NA | 42114 |
 | NA | 161 |
 
 
@@ -2680,6 +2865,7 @@ M6_QKHMA_39_5:HELSEMODRE_A; Må du hjelpe til med fingrene fra innsiden av skjed
 | Iblant | 6073 |
 | Ofte | 1617 |
 | Alltid | 396 |
+| Not NA | 42104 |
 | NA | 171 |
 
 
@@ -2693,6 +2879,7 @@ M6_QKHMA_39_6:HELSEMODRE_A; Må du sitte eller stå på en bestemt måte for å 
 | Iblant | 7715 |
 | Ofte | 1374 |
 | Alltid | 355 |
+| Not NA | 42095 |
 | NA | 180 |
 
 
@@ -2706,6 +2893,7 @@ M6_QKHMA_39_7:HELSEMODRE_A; Plages du av smerte i underlivet når du har sex?; 3
 | Iblant | 10949 |
 | Aldri | 28882 |
 | Ofte | 1250 |
+| Not NA | 41789 |
 | NA | 486 |
 
 
@@ -2716,6 +2904,7 @@ QKHMA_40_1:HELSEMODRE_A; Ja, urinveislekkasje.; 40. Har du tidligere gjennomgåt
 | Category | n |
 | -------- | - |
 | 1 | 2220 |
+| Not NA | 2220 |
 | NA | 40055 |
 
 
@@ -2726,6 +2915,7 @@ QKHMA_40_2:HELSEMODRE_A; Ja, vaginale plager.; 40. Har du tidligere gjennomgått
 | Category | n |
 | -------- | - |
 | 1 | 1649 |
+| Not NA | 1649 |
 | NA | 40626 |
 
 
@@ -2736,6 +2926,7 @@ QKHMA_40_3:HELSEMODRE_A; Nei.; 40. Har du tidligere gjennomgått en operasjon fo
 | Category | n |
 | -------- | - |
 | 1 | 38551 |
+| Not NA | 38551 |
 | NA | 3724 |
 
 
@@ -2746,6 +2937,7 @@ QKHMA_40_2_1_1:HELSEMODRE_A; Slyngeoperasjon.; 40. Hvordan har du blitt operert 
 | Category | n |
 | -------- | - |
 | 1 | 1569 |
+| Not NA | 1569 |
 | NA | 40706 |
 
 
@@ -2756,6 +2948,7 @@ QKHMA_40_2_1_2:HELSEMODRE_A; Annet.; 40. Hvordan har du blitt operert for urinve
 | Category | n |
 | -------- | - |
 | 1 | 645 |
+| Not NA | 645 |
 | NA | 41630 |
 
 
@@ -2766,6 +2959,7 @@ QKHMA_40_2_2_1:HELSEMODRE_A; Fremfallsoperasjon.; 40. Hvordan har du blitt opere
 | Category | n |
 | -------- | - |
 | 1 | 798 |
+| Not NA | 798 |
 | NA | 41477 |
 
 
@@ -2776,6 +2970,7 @@ QKHMA_40_2_2_2:HELSEMODRE_A; Annet.; 40. Hvordan har du blitt operert for vagina
 | Category | n |
 | -------- | - |
 | 1 | 869 |
+| Not NA | 869 |
 | NA | 41406 |
 
 
@@ -2791,6 +2986,7 @@ QKHMA_51:HELSEMODRE_A; ; 51. PÅ EN TYPISK UKEDAG: OMTRENT HVOR MANGE TIMER OM D
 | 11 TIMER ELLER MER | 2191 |
 | MINDRE ENN 1 TIME | 575 |
 | 1-2 timer | 3799 |
+| Not NA | 42112 |
 | NA | 163 |
 
 
@@ -2806,6 +3002,7 @@ QKHMA_52:HELSEMODRE_A; ; 52. Hvor mange timer per uke er du fysisk aktiv (ta et 
 | 1-2 timer | 5493 |
 | 3-4 timer | 10109 |
 | MINDRE ENN 1 TIME | 1939 |
+| Not NA | 42181 |
 | NA | 94 |
 
 
@@ -2821,6 +3018,7 @@ QKHMA_53:HELSEMODRE_A; ; 53. Hvor mange timer per uke er denne aktiviteten av en
 | 5-7 TIMER | 4482 |
 | 11 TIMER ELLER MER | 238 |
 | 8-10 TIMER | 912 |
+| Not NA | 42151 |
 | NA | 124 |
 
 
@@ -2835,6 +3033,7 @@ QKHMA_54:HELSEMODRE_A; ; 54. Tenk tilbake til da du var 10 år gammel. Sammenlig
 | Tynnere | 13445 |
 | Vet ikke | 303 |
 | Ønsker ikke å svare | 30 |
+| Not NA | 42202 |
 | NA | 73 |
 
 
@@ -2849,6 +3048,7 @@ QKHMA_55:HELSEMODRE_A; ; 55. Da du var 10 år gammel, hvor høy var du i forhold
 | Lavere | 7641 |
 | Vet ikke | 685 |
 | Ønsker ikke å svare | 14 |
+| Not NA | 42194 |
 | NA | 81 |
 
 
@@ -2863,6 +3063,7 @@ QKHMA_56:HELSEMODRE_A; ; 56. Som baby - var du rund eller tynn når du begynte �
 | Tynnere | 4654 |
 | Lubnere/rundere | 10929 |
 | Ønsker ikke å svare | 21 |
+| Not NA | 42190 |
 | NA | 85 |
 
 
@@ -2877,6 +3078,7 @@ M7_QKHMA_57_1:HELSEMODRE_A; "Når jeg ser eller lukter mat jeg liker får jeg ly
 | Hverken enig eller uenig | 9985 |
 | Svært uenig | 576 |
 | Uenig | 1320 |
+| Not NA | 42131 |
 | NA | 144 |
 
 
@@ -2891,6 +3093,7 @@ M7_QKHMA_57_2:HELSEMODRE_A; "Jeg blir fort mett"; 57. Ta stilling til følgende 
 | Enig | 10488 |
 | Svært enig | 1700 |
 | Svært uenig | 2131 |
+| Not NA | 42171 |
 | NA | 104 |
 
 
@@ -2905,6 +3108,7 @@ M7_QKHMA_57_3:HELSEMODRE_A; "Jeg er interessert i å smake mat jeg ikke har smak
 | Svært uenig | 1642 |
 | Uenig | 3505 |
 | Enig | 18659 |
+| Not NA | 42167 |
 | NA | 108 |
 
 
@@ -2918,6 +3122,7 @@ QKHMA_58:HELSEMODRE_A; ; 58. I hvilken grad opplever du misnøye med egen kropp 
 | En god del misnøye | 17144 |
 | Svært lite misnøye | 19489 |
 | Veldig mye misnøye | 3110 |
+| Not NA | 42179 |
 | NA | 96 |
 
 
@@ -2930,6 +3135,7 @@ QKHMA_59:HELSEMODRE_A; ; 59. I hvilken grad føler du at du kan akseptere og væ
 | Stort sett aksepterer jeg kroppen min slik den er | 24349 |
 | I noe grad | 15405 |
 | Ikke i det hele tatt | 2404 |
+| Not NA | 42158 |
 | NA | 117 |
 
 
@@ -2946,6 +3152,7 @@ QKHMA_60:HELSEMODRE_A; Oppgi i centimeter.; 60. Hvor høy er du?
 | 3rd Qu. | 172 |
 | Max. | 197 |
 | NA's | 148 |
+| Not NA | 42127 |
 
 
 ### HM260
@@ -2961,6 +3168,7 @@ QKHMA_61:HELSEMODRE_A; Uten klær og sko. Oppgi i hele kilo; 61. .Hvor mye veier
 | 3rd Qu. | 80 |
 | Max. | 500 |
 | NA's | 516 |
+| Not NA | 41759 |
 
 
 ### HM261
@@ -2972,6 +3180,7 @@ QKHMA_62:HELSEMODRE_A; ; 62. Røyker du nå for tiden?
 | Nei | 38757 |
 | Ja, daglig | 1780 |
 | JA, AV OG TIL (IKKE HVER DAG) | 1481 |
+| Not NA | 42018 |
 | NA | 257 |
 
 
@@ -2988,6 +3197,7 @@ QKHMA_62_2_1:HELSEMODRE_A; Oppgi antall sigaretter hver dag:Hvis du røyker dagl
 | 3rd Qu. | 15 |
 | Max. | 99 |
 | NA's | 40508 |
+| Not NA | 1767 |
 
 
 ### HM263
@@ -3003,6 +3213,7 @@ QKHMA_62_2_2:HELSEMODRE_A; Oppgi antall sigaretter hver uke:Hvis du røyker av o
 | 3rd Qu. | 12.25 |
 | Max. | 70 |
 | NA's | 40839 |
+| Not NA | 1436 |
 
 
 ### HM264
@@ -3016,6 +3227,7 @@ QKHMA_63:HELSEMODRE_A; ; 63. Hvor ofte drikker du alkohol nå for tiden?
 | To til fire ganger i måneden | 14314 |
 | Aldri | 5148 |
 | Fire ganger i uken eller mer | 953 |
+| Not NA | 42216 |
 | NA | 59 |
 
 
@@ -3030,6 +3242,7 @@ QKHMA_63_2:HELSEMODRE_A; Hvor ofte drikker du 5 eller flere enheter alkohol når
 | To til fire ganger i måneden | 3825 |
 | To til tre ganger i uken | 688 |
 | Fire ganger i uken eller mer | 63 |
+| Not NA | 41666 |
 | NA | 609 |
 
 
@@ -3042,6 +3255,7 @@ QKHMA_64:HELSEMODRE_A; ; 64. HAR DU NOEN GANG TATT EN KOSMETISK OPERASJON (SKJØ
 | Nei | 37210 |
 | Ja, én kosmetisk operasjon | 3851 |
 | Ja, to eller flere kosmetiske operasjoner | 1105 |
+| Not NA | 42166 |
 | NA | 109 |
 
 
@@ -3052,6 +3266,7 @@ QKHMA_64_2_1_1:HELSEMODRE_A; Brystforstørrelse.Hvilken type kosmetisk operasjon
 | Category | n |
 | -------- | - |
 | 1 | 1633 |
+| Not NA | 1633 |
 | NA | 40642 |
 
 
@@ -3062,6 +3277,7 @@ QKHMA_64_2_1_2:HELSEMODRE_A; Brystreduksjon.Hvilken type kosmetisk operasjon har
 | Category | n |
 | -------- | - |
 | 1 | 858 |
+| Not NA | 858 |
 | NA | 41417 |
 
 
@@ -3072,6 +3288,7 @@ QKHMA_64_2_1_3:HELSEMODRE_A; Brystløft.Hvilken type kosmetisk operasjon har du 
 | Category | n |
 | -------- | - |
 | 1 | 343 |
+| Not NA | 343 |
 | NA | 41932 |
 
 
@@ -3082,6 +3299,7 @@ QKHMA_64_2_1_4:HELSEMODRE_A; Fettsuging.Hvilken type kosmetisk operasjon har du 
 | Category | n |
 | -------- | - |
 | 1 | 621 |
+| Not NA | 621 |
 | NA | 41654 |
 
 
@@ -3092,6 +3310,7 @@ QKHMA_64_2_1_5:HELSEMODRE_A; Neseoperasjon.Hvilken type kosmetisk operasjon har 
 | Category | n |
 | -------- | - |
 | 1 | 161 |
+| Not NA | 161 |
 | NA | 42114 |
 
 
@@ -3102,6 +3321,7 @@ QKHMA_64_2_1_6:HELSEMODRE_A; Øyelokksoperasjon.Hvilken type kosmetisk operasjon
 | Category | n |
 | -------- | - |
 | 1 | 1264 |
+| Not NA | 1264 |
 | NA | 41011 |
 
 
@@ -3112,6 +3332,7 @@ QKHMA_64_2_1_7:HELSEMODRE_A; Mageplastikk.Hvilken type kosmetisk operasjon har d
 | Category | n |
 | -------- | - |
 | 1 | 1197 |
+| Not NA | 1197 |
 | NA | 41078 |
 
 
@@ -3122,6 +3343,7 @@ QKHMA_64_2_1_8:HELSEMODRE_A; Ansiktsløfting.Hvilken type kosmetisk operasjon ha
 | Category | n |
 | -------- | - |
 | 1 | 59 |
+| Not NA | 59 |
 | NA | 42216 |
 
 
@@ -3132,6 +3354,7 @@ QKHMA_64_2_1_9:HELSEMODRE_A; Øreoperasjon.Hvilken type kosmetisk operasjon har 
 | Category | n |
 | -------- | - |
 | 1 | 209 |
+| Not NA | 209 |
 | NA | 42066 |
 
 
@@ -3142,6 +3365,7 @@ QKHMA_64_2_1_10:HELSEMODRE_A; Hårtransplantasjon.Hvilken type kosmetisk operasj
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 42270 |
 
 
@@ -3152,6 +3376,7 @@ QKHMA_64_2_1_11:HELSEMODRE_A; Annet.Hvilken type kosmetisk operasjon har du tatt
 | Category | n |
 | -------- | - |
 | 1 | 323 |
+| Not NA | 323 |
 | NA | 41952 |
 
 
@@ -3194,6 +3419,7 @@ QKHMA_64_2_2:HELSEMODRE_A; Oppgi antall år:Hvor gammel var du da (den første) 
 | 44 | 126 |
 | 45 år eller eldre | 983 |
 | NA's | 37398 |
+| Not NA | 4877 |
 
 
 ### HM279
@@ -3204,6 +3430,7 @@ QKHMA_64_3:HELSEMODRE_A; Hvem har betalt for operasjonene?(Hvis ja, har tatt kos
 | -------- | - |
 | Alle operasjoner ble dekket av det offentlige | 1395 |
 | Jeg har betalt for minst en av operasjonene selv | 3356 |
+| Not NA | 4751 |
 | NA | 37524 |
 
 
@@ -3215,6 +3442,7 @@ QKHMA_64_4:HELSEMODRE_A; Har du vært plaget av vedvarende eller tilbakevendende
 | -------- | - |
 | Nei | 4670 |
 | Ja | 264 |
+| Not NA | 4934 |
 | NA | 37341 |
 
 
@@ -3228,6 +3456,7 @@ QKHMA_64_5:HELSEMODRE_A; Har du opplevd smertene som behandlingstrengende og ble
 | Nei | 177 |
 | Ja, behandling i privat sektor | 36 |
 | Ja, regelmessig brukt smertestillende legemidler | 18 |
+| Not NA | 264 |
 | NA | 42011 |
 
 
@@ -3240,6 +3469,7 @@ QKHMA_65:HELSEMODRE_A; ; 65. Har du noen gang tatt en ikke-kirurgisk kosmetisk b
 | Nei | 35346 |
 | Ja, flere ganger | 3892 |
 | Ja, én gang | 2950 |
+| Not NA | 42188 |
 | NA | 87 |
 
 
@@ -3250,6 +3480,7 @@ QKHMA_65_2_1_1:HELSEMODRE_A; Botox.Hvilken type kosmetisk behandling har du tatt
 | Category | n |
 | -------- | - |
 | 1 | 3234 |
+| Not NA | 3234 |
 | NA | 39041 |
 
 
@@ -3260,6 +3491,7 @@ QKHMA_65_2_1_2:HELSEMODRE_A; Fillere (Restylan) / kollageninjeksjon / leppeforst
 | Category | n |
 | -------- | - |
 | 1 | 1580 |
+| Not NA | 1580 |
 | NA | 40695 |
 
 
@@ -3270,6 +3502,7 @@ QKHMA_65_2_1_3:HELSEMODRE_A; Kjemisk peeling av hud.Hvilken type kosmetisk behan
 | Category | n |
 | -------- | - |
 | 1 | 793 |
+| Not NA | 793 |
 | NA | 41482 |
 
 
@@ -3280,6 +3513,7 @@ QKHMA_65_2_1_4:HELSEMODRE_A; Laser- eller lysbasert behandling (ansiktshud/fjern
 | Category | n |
 | -------- | - |
 | 1 | 783 |
+| Not NA | 783 |
 | NA | 41492 |
 
 
@@ -3290,6 +3524,7 @@ QKHMA_65_2_1_5:HELSEMODRE_A; Bleking av tenner.Hvilken type kosmetisk behandling
 | Category | n |
 | -------- | - |
 | 1 | 3998 |
+| Not NA | 3998 |
 | NA | 38277 |
 
 
@@ -3300,6 +3535,7 @@ QKHMA_65_2_1_6:HELSEMODRE_A; Annet.Hvilken type kosmetisk behandling har du tatt
 | Category | n |
 | -------- | - |
 | 1 | 214 |
+| Not NA | 214 |
 | NA | 42061 |
 
 
@@ -3342,6 +3578,7 @@ QKHMA_65_2_2:HELSEMODRE_A; Hvor gammel var du da (den første) ikke-kirurgisk ko
 | 44 | 242 |
 | 45 år eller eldre | 2385 |
 | NA's | 35627 |
+| Not NA | 6648 |
 
 
 ### AGE_YRS_HM
@@ -3356,5 +3593,6 @@ AGE_YRS_HM; HELSEMODRE_A MORS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0.
 | Mean | 49.9380011827321 |
 | 3rd Qu. | 53 |
 | Max. | 68 |
+| Not NA | 42275 |
 
 

@@ -296,6 +296,7 @@
 | 1 | 6507 |
 | 2 | 111 |
 | 3 | 1 |
+| Not NA | 6619 |
 | NA | 0 |
 
 
@@ -305,6 +306,7 @@
 | Category | n |
 | -------- | - |
 | UNGHELSE2_A | 6619 |
+| Not NA | 6619 |
 | NA | 0 |
 
 
@@ -315,6 +317,7 @@ QUH2A_1_1:UNGHELSE2_A; Går på videregående.; 1. Hva gjør du til vanlig? Du k
 | Category | n |
 | -------- | - |
 | 1 | 258 |
+| Not NA | 258 |
 | NA | 6361 |
 
 
@@ -325,6 +328,7 @@ QUH2A_1_2:UNGHELSE2_A; Studerer.; 1. Hva gjør du til vanlig? Du kan krysse av f
 | Category | n |
 | -------- | - |
 | 1 | 3741 |
+| Not NA | 3741 |
 | NA | 2878 |
 
 
@@ -335,6 +339,7 @@ QUH2A_1_3:UNGHELSE2_A; Har yrkespraksis / er lærling.; 1. Hva gjør du til vanl
 | Category | n |
 | -------- | - |
 | 1 | 382 |
+| Not NA | 382 |
 | NA | 6237 |
 
 
@@ -345,6 +350,7 @@ QUH2A_1_4:UNGHELSE2_A; Er i militærtjeneste.; 1. Hva gjør du til vanlig? Du ka
 | Category | n |
 | -------- | - |
 | 1 | 357 |
+| Not NA | 357 |
 | NA | 6262 |
 
 
@@ -355,6 +361,7 @@ QUH2A_1_5:UNGHELSE2_A; Går på folkehøgskole.; 1. Hva gjør du til vanlig? Du 
 | Category | n |
 | -------- | - |
 | 1 | 281 |
+| Not NA | 281 |
 | NA | 6338 |
 
 
@@ -365,6 +372,7 @@ QUH2A_1_6:UNGHELSE2_A; Har et friår.; 1. Hva gjør du til vanlig? Du kan krysse
 | Category | n |
 | -------- | - |
 | 1 | 583 |
+| Not NA | 583 |
 | NA | 6036 |
 
 
@@ -375,6 +383,7 @@ QUH2A_1_7:UNGHELSE2_A; Er arbeidssøkende/permittert.; 1. Hva gjør du til vanli
 | Category | n |
 | -------- | - |
 | 1 | 74 |
+| Not NA | 74 |
 | NA | 6545 |
 
 
@@ -385,6 +394,7 @@ QUH2A_1_8:UNGHELSE2_A; Er sykemeldt / ufør / under arbeidsavklaring.; 1. Hva gj
 | Category | n |
 | -------- | - |
 | 1 | 202 |
+| Not NA | 202 |
 | NA | 6417 |
 
 
@@ -395,6 +405,7 @@ QUH2A_1_9:UNGHELSE2_A; Er ansatt i privat virksomhet.; 1. Hva gjør du til vanli
 | Category | n |
 | -------- | - |
 | 1 | 1361 |
+| Not NA | 1361 |
 | NA | 5258 |
 
 
@@ -405,6 +416,7 @@ QUH2A_1_10:UNGHELSE2_A; Er ansatt i offentlig virksomhet.; 1. Hva gjør du til v
 | Category | n |
 | -------- | - |
 | 1 | 1138 |
+| Not NA | 1138 |
 | NA | 5481 |
 
 
@@ -415,6 +427,7 @@ QUH2A_1_11:UNGHELSE2_A; Er selvstendig næringsdrivende.; 1. Hva gjør du til va
 | Category | n |
 | -------- | - |
 | 1 | 86 |
+| Not NA | 86 |
 | NA | 6533 |
 
 
@@ -425,6 +438,7 @@ QUH2A_1_12:UNGHELSE2_A; Er freelancer.; 1. Hva gjør du til vanlig? Du kan kryss
 | Category | n |
 | -------- | - |
 | 1 | 65 |
+| Not NA | 65 |
 | NA | 6554 |
 
 
@@ -435,6 +449,7 @@ QUH2A_1_13:UNGHELSE2_A; Annet.; 1. Hva gjør du til vanlig? Du kan krysse av for
 | Category | n |
 | -------- | - |
 | 1 | 134 |
+| Not NA | 134 |
 | NA | 6485 |
 
 
@@ -445,6 +460,7 @@ QUH2A_2_1:UNGHELSE2_A; Ungdomsskole.; 2. Hva er ditt nåværende høyeste fullf�
 | Category | n |
 | -------- | - |
 | 1 | 279 |
+| Not NA | 279 |
 | NA | 6340 |
 
 
@@ -455,6 +471,7 @@ QUH2A_2_2:UNGHELSE2_A; Vg1/grunnkompetanse (yrkesfaglig).; 2. Hva er ditt nåvæ
 | Category | n |
 | -------- | - |
 | 1 | 163 |
+| Not NA | 163 |
 | NA | 6456 |
 
 
@@ -465,6 +482,7 @@ QUH2A_2_3:UNGHELSE2_A; Vg1 (studieforberedende).; 2. Hva er ditt nåværende hø
 | Category | n |
 | -------- | - |
 | 1 | 144 |
+| Not NA | 144 |
 | NA | 6475 |
 
 
@@ -475,6 +493,7 @@ QUH2A_2_4:UNGHELSE2_A; Vg2 (yrkesfaglig).; 2. Hva er ditt nåværende høyeste f
 | Category | n |
 | -------- | - |
 | 1 | 539 |
+| Not NA | 539 |
 | NA | 6080 |
 
 
@@ -485,6 +504,7 @@ QUH2A_2_5:UNGHELSE2_A; Vg2 (studieforberedende).; 2. Hva er ditt nåværende hø
 | Category | n |
 | -------- | - |
 | 1 | 234 |
+| Not NA | 234 |
 | NA | 6385 |
 
 
@@ -495,6 +515,7 @@ QUH2A_2_6:UNGHELSE2_A; Fagbrev /svennebrev (yrkesfaglig).; 2. Hva er ditt nåvæ
 | Category | n |
 | -------- | - |
 | 1 | 690 |
+| Not NA | 690 |
 | NA | 5929 |
 
 
@@ -505,6 +526,7 @@ QUH2A_2_7:UNGHELSE2_A; Vg3 (studieforberedende).; 2. Hva er ditt nåværende hø
 | Category | n |
 | -------- | - |
 | 1 | 3998 |
+| Not NA | 3998 |
 | NA | 2621 |
 
 
@@ -515,6 +537,7 @@ QUH2A_2_8:UNGHELSE2_A; Påbygging til generell studiekompetanse.; 2. Hva er ditt
 | Category | n |
 | -------- | - |
 | 1 | 600 |
+| Not NA | 600 |
 | NA | 6019 |
 
 
@@ -525,6 +548,7 @@ QUH2A_2_9:UNGHELSE2_A; Fagskolegrad/mesterbrev.; 2. Hva er ditt nåværende høy
 | Category | n |
 | -------- | - |
 | 1 | 44 |
+| Not NA | 44 |
 | NA | 6575 |
 
 
@@ -535,6 +559,7 @@ QUH2A_2_10:UNGHELSE2_A; Høyskole/universitet opp til 4 år (bachelorgrad).; 2. 
 | Category | n |
 | -------- | - |
 | 1 | 730 |
+| Not NA | 730 |
 | NA | 5889 |
 
 
@@ -545,6 +570,7 @@ QUH2A_2_11:UNGHELSE2_A; Høyskole/universitet over 4 år (mastergrad).; 2. Hva e
 | Category | n |
 | -------- | - |
 | 1 | 73 |
+| Not NA | 73 |
 | NA | 6546 |
 
 
@@ -555,6 +581,7 @@ QUH2A_2_12:UNGHELSE2_A; Doktorgrad.; 2. Hva er ditt nåværende høyeste fullfø
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 6618 |
 
 
@@ -565,6 +592,7 @@ QUH2A_2_13:UNGHELSE2_A; Annet.; 2. Hva er ditt nåværende høyeste fullførte (
 | Category | n |
 | -------- | - |
 | 1 | 149 |
+| Not NA | 149 |
 | NA | 6470 |
 
 
@@ -575,6 +603,7 @@ QUH2A_2_14:UNGHELSE2_A; Vet ikke.; 2. Hva er ditt nåværende høyeste fullført
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 6606 |
 
 
@@ -585,6 +614,7 @@ QUH2A_3_1:UNGHELSE2_A; Ungdomsskole eller ingen planlagt utdanning.; 3. Hvilke u
 | Category | n |
 | -------- | - |
 | 1 | 50 |
+| Not NA | 50 |
 | NA | 6569 |
 
 
@@ -595,6 +625,7 @@ QUH2A_3_2:UNGHELSE2_A; Vg1/grunnkompetanse (yrkesfaglig).; 3. Hvilke utdanningsn
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 6585 |
 
 
@@ -605,6 +636,7 @@ QUH2A_3_3:UNGHELSE2_A; Vg1 (studieforberedende).; 3. Hvilke utdanningsnivå forv
 | Category | n |
 | -------- | - |
 | 1 | 31 |
+| Not NA | 31 |
 | NA | 6588 |
 
 
@@ -615,6 +647,7 @@ QUH2A_3_4:UNGHELSE2_A; Vg2 (yrkesfaglig).; 3. Hvilke utdanningsnivå forventer d
 | Category | n |
 | -------- | - |
 | 1 | 72 |
+| Not NA | 72 |
 | NA | 6547 |
 
 
@@ -625,6 +658,7 @@ QUH2A_3_5:UNGHELSE2_A; Vg2 (studieforberedende).; 3. Hvilke utdanningsnivå forv
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 6585 |
 
 
@@ -635,6 +669,7 @@ QUH2A_3_6:UNGHELSE2_A; Fagbrev /svennebrev (yrkesfaglig).; 3. Hvilke utdanningsn
 | Category | n |
 | -------- | - |
 | 1 | 548 |
+| Not NA | 548 |
 | NA | 6071 |
 
 
@@ -645,6 +680,7 @@ QUH2A_3_7:UNGHELSE2_A; Vg3 (studieforberedende).; 3. Hvilke utdanningsnivå forv
 | Category | n |
 | -------- | - |
 | 1 | 166 |
+| Not NA | 166 |
 | NA | 6453 |
 
 
@@ -655,6 +691,7 @@ QUH2A_3_8:UNGHELSE2_A; Påbygging til generell studiekompetanse.; 3. Hvilke utda
 | Category | n |
 | -------- | - |
 | 1 | 202 |
+| Not NA | 202 |
 | NA | 6417 |
 
 
@@ -665,6 +702,7 @@ QUH2A_3_9:UNGHELSE2_A; Fagskolegrad/mesterbrev.; 3. Hvilke utdanningsnivå forve
 | Category | n |
 | -------- | - |
 | 1 | 270 |
+| Not NA | 270 |
 | NA | 6349 |
 
 
@@ -675,6 +713,7 @@ QUH2A_3_10:UNGHELSE2_A; Høyskole/universitet opp til 4 år (bachelorgrad).; 3. 
 | Category | n |
 | -------- | - |
 | 1 | 2375 |
+| Not NA | 2375 |
 | NA | 4244 |
 
 
@@ -685,6 +724,7 @@ QUH2A_3_11:UNGHELSE2_A; Høyskole/universitet over 4 år (mastergrad).; 3. Hvilk
 | Category | n |
 | -------- | - |
 | 1 | 3572 |
+| Not NA | 3572 |
 | NA | 3047 |
 
 
@@ -695,6 +735,7 @@ QUH2A_3_12:UNGHELSE2_A; Doktorgrad.; 3. Hvilke utdanningsnivå forventer du å f
 | Category | n |
 | -------- | - |
 | 1 | 233 |
+| Not NA | 233 |
 | NA | 6386 |
 
 
@@ -705,6 +746,7 @@ QUH2A_3_13:UNGHELSE2_A; Annet.; 3. Hvilke utdanningsnivå forventer du å fullf�
 | Category | n |
 | -------- | - |
 | 1 | 104 |
+| Not NA | 104 |
 | NA | 6515 |
 
 
@@ -715,6 +757,7 @@ QUH2A_3_14:UNGHELSE2_A; Vet ikke.; 3. Hvilke utdanningsnivå forventer du å ful
 | Category | n |
 | -------- | - |
 | 1 | 371 |
+| Not NA | 371 |
 | NA | 6248 |
 
 
@@ -740,6 +783,7 @@ QUH2A_4:UNGHELSE2_A; ; 4. Hva var din årlige inntekt i fjor før skatt (inklude
 | 400.000 - 449.999 kr | 159 |
 | 450.000 - 499.999 kr | 129 |
 | 600.000 -  699.999 kr | 102 |
+| Not NA | 6592 |
 | NA | 27 |
 
 
@@ -756,6 +800,7 @@ QUH2A_5:UNGHELSE2_A; Hvor høy er du? Oppgi i centimeter:; 5. Høyde og vekt.
 | 3rd Qu. | 179 |
 | Max. | 205 |
 | NA's | 32 |
+| Not NA | 6587 |
 
 
 ### HT54
@@ -771,6 +816,7 @@ QUH2A_6:UNGHELSE2_A; Hvor mye veier du? Oppgi i hele kilo:; 6. Høyde og vekt.
 | 3rd Qu. | 80 |
 | Max. | 400 |
 | NA's | 161 |
+| Not NA | 6458 |
 
 
 ### HT55
@@ -781,6 +827,7 @@ QUH2A_7:UNGHELSE2_A; ; 7. Hvilket biologisk kjønn hadde du ved fødsel?
 | -------- | - |
 | Kvinne | 4550 |
 | Mann | 2069 |
+| Not NA | 6619 |
 | NA | 0 |
 
 
@@ -792,6 +839,7 @@ QUH2A_8:UNGHELSE2_A; ; 8. Har du barn?
 | -------- | - |
 | Nei | 6536 |
 | Ja | 83 |
+| Not NA | 6619 |
 | NA | 0 |
 
 
@@ -805,6 +853,7 @@ QUH2A_8_2_1:UNGHELSE2_A; Ønsker du å få biologiske barn?(Hvis nei); 8. Har du
 | Vet ikke | 944 |
 | Nei, jeg ønsker ikke å få biologiske barn | 538 |
 | Jeg kan ikke få biologiske barn | 32 |
+| Not NA | 6524 |
 | NA | 95 |
 
 
@@ -818,6 +867,7 @@ QUH2A_8_2_2:UNGHELSE2_A; Når regner du med å få biologiske barn?(Hvis ja, øn
 | Vet ikke | 724 |
 | I løpet av de neste 1-2 årene | 198 |
 | I løpet av de neste 3-4 årene | 894 |
+| Not NA | 5946 |
 | NA | 673 |
 
 
@@ -834,6 +884,7 @@ QUH2A_8_2_3:UNGHELSE2_A; Hvor mange biologiske barn ønsker du deg?(Hvis ja, øn
 | 4 | 224 |
 | 1 | 106 |
 | 6 eller flere | 18 |
+| Not NA | 5950 |
 | NA | 669 |
 
 
@@ -848,6 +899,7 @@ QUH2A_8_2_4:UNGHELSE2_A; Hvordan ser du for deg å bli gravid / at din partner b
 | Vet ikke | 345 |
 | Ikke aktuelt | 44 |
 | Annet | 23 |
+| Not NA | 5940 |
 | NA | 679 |
 
 
@@ -864,6 +916,7 @@ QUH2A_8_2_5_1:UNGHELSE2_A; Ved hvilken alder ønsker du å få ditt første biol
 | 3rd Qu. | 29 |
 | Max. | 50 |
 | NA's | 1546 |
+| Not NA | 5073 |
 
 
 ### HT62
@@ -873,6 +926,7 @@ QUH2A_8_2_5_2:UNGHELSE2_A; Vet ikke.Ved hvilken alder ønsker du å få ditt fø
 | Category | n |
 | -------- | - |
 | Vet ikke | 986 |
+| Not NA | 986 |
 | NA | 5633 |
 
 
@@ -889,6 +943,7 @@ QUH2A_8_2_6_1:UNGHELSE2_A; Ved hvilken alder ønsker du å få ditt siste biolog
 | 3rd Qu. | 35 |
 | Max. | 70 |
 | NA's | 1844 |
+| Not NA | 4775 |
 
 
 ### HT64
@@ -898,6 +953,7 @@ QUH2A_8_2_6_2:UNGHELSE2_A; Vet ikke.Ved hvilken alder ønsker du å få ditt sis
 | Category | n |
 | -------- | - |
 | Vet ikke | 1284 |
+| Not NA | 1284 |
 | NA | 5335 |
 
 
@@ -910,6 +966,7 @@ QUH2A_8_3_1:UNGHELSE2_A; Ønsker du å få flere biologiske barn? (Hvis ja); 8. 
 | Ja, jeg ønsker å få flere biologiske barn | 68 |
 | Nei, jeg ønsker ikke å få flere biologiske barn | 7 |
 | Vet ikke | 8 |
+| Not NA | 83 |
 | NA | 6536 |
 
 
@@ -923,6 +980,7 @@ QUH2A_8_3_2:UNGHELSE2_A; Når regner du med å få ditt neste biologiske barn?(H
 | I løpet av de neste 3-4 årene | 29 |
 | Om 5 år eller senere | 8 |
 | Vet ikke | 3 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -938,6 +996,7 @@ QUH2A_8_3_3:UNGHELSE2_A; Hvor mange flere biologiske barn ønsker du deg?(Hvis j
 | 4 | 7 |
 | 6 eller flere | 1 |
 | Vet ikke | 4 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -950,6 +1009,7 @@ QUH2A_8_3_4:UNGHELSE2_A; Hvordan ser du for deg å bli gravid / at din partner b
 | Ved samleie | 72 |
 | Vet ikke | 1 |
 | Ved hjelp av fertilitetsbehandling | 3 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -968,6 +1028,7 @@ QUH2A_8_3_5_1:UNGHELSE2_A; Ved hvilken alder ønsker du å få ditt neste biolog
 | 22 | 5 |
 | 30 | 1 |
 | 21 | 2 |
+| Not NA | 69 |
 | NA | 6550 |
 
 
@@ -978,6 +1039,7 @@ QUH2A_8_3_5_2:UNGHELSE2_A; Vet ikke.Ved hvilken alder ønsker du å få ditt nes
 | Category | n |
 | -------- | - |
 | Vet ikke | 9 |
+| Not NA | 9 |
 | NA | 6610 |
 
 
@@ -999,6 +1061,7 @@ QUH2A_8_3_6_1:UNGHELSE2_A; Ved hvilken alder ønsker du å få ditt siste biolog
 | 36 | 1 |
 | 29 | 6 |
 | 33 | 2 |
+| Not NA | 65 |
 | NA | 6554 |
 
 
@@ -1009,6 +1072,7 @@ QUH2A_8_3_6_2:UNGHELSE2_A; Vet ikke.Ved hvilken alder ønsker du å få ditt sis
 | Category | n |
 | -------- | - |
 | Vet ikke | 12 |
+| Not NA | 12 |
 | NA | 6607 |
 
 
@@ -1021,6 +1085,7 @@ M1_QUH2A_8_4_1:UNGHELSE2_A; At jeg har en partner som gjerne vil ha barn.Hvor vi
 | Veldig viktig | 60 |
 | Litt viktig | 2 |
 | Viktig | 12 |
+| Not NA | 74 |
 | NA | 6545 |
 
 
@@ -1035,6 +1100,7 @@ M1_QUH2A_8_4_2:UNGHELSE2_A; At jeg har fullført utdannelsen min.Hvor viktig er 
 | Viktig | 14 |
 | Ikke viktig i det hele tatt | 15 |
 | Veldig viktig | 9 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -1049,6 +1115,7 @@ M1_QUH2A_8_4_3:UNGHELSE2_A; At jeg har fast jobb.Hvor viktig er disse faktorene 
 | Litt viktig | 18 |
 | Viktig | 20 |
 | Ikke viktig i det hele tatt | 9 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -1063,6 +1130,7 @@ M1_QUH2A_8_4_4:UNGHELSE2_A; At jeg/vi har et hjem som er stort nok.Hvor viktig e
 | Litt viktig | 16 |
 | Ikke særlig viktig | 3 |
 | Ikke viktig i det hele tatt | 1 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -1076,6 +1144,7 @@ M1_QUH2A_8_4_5:UNGHELSE2_A; At vennene mine har fått barn eller venter barn.Hvo
 | Ikke særlig viktig | 26 |
 | Litt viktig | 5 |
 | Viktig | 1 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -1090,6 +1159,7 @@ M1_QUH2A_8_4_6:UNGHELSE2_A; At jeg begynner å få barn tidlig nok, så jeg ikke
 | Veldig viktig | 18 |
 | Ikke viktig i det hele tatt | 8 |
 | Ikke særlig viktig | 10 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -1104,6 +1174,7 @@ M1_QUH2A_8_4_7:UNGHELSE2_A; Betalt foreldrepermisjon og barnehageplass.Hvor vikt
 | Litt viktig | 8 |
 | Ikke særlig viktig | 2 |
 | Ikke viktig i det hele tatt | 3 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -1114,6 +1185,7 @@ QUH2A_9_1_1:UNGHELSE2_A; Jeg ønsker å adoptere.; 9. Å få biologiske barn er 
 | Category | n |
 | -------- | - |
 | 1 | 929 |
+| Not NA | 929 |
 | NA | 5690 |
 
 
@@ -1124,6 +1196,7 @@ QUH2A_9_1_2:UNGHELSE2_A; Jeg ønsker å ha fosterbarn.; 9. Å få biologiske bar
 | Category | n |
 | -------- | - |
 | 1 | 738 |
+| Not NA | 738 |
 | NA | 5881 |
 
 
@@ -1134,6 +1207,7 @@ QUH2A_9_1_3:UNGHELSE2_A; Jeg ønsker å møte en partner som har barn.; 9. Å f�
 | Category | n |
 | -------- | - |
 | 1 | 376 |
+| Not NA | 376 |
 | NA | 6243 |
 
 
@@ -1146,6 +1220,7 @@ QUH2A_9_2_1:UNGHELSE2_A; Når regner du med å få barn (som ikke er biologiske)
 | Om 5 år eller senere | 743 |
 | Vet ikke | 519 |
 | I løpet av de neste 3-4 årene | 19 |
+| Not NA | 1281 |
 | NA | 5338 |
 
 
@@ -1161,6 +1236,7 @@ QUH2A_9_2_2:UNGHELSE2_A; Hvor mange barn (som ikke er biologiske) ønsker du deg
 | 3 | 30 |
 | 4 | 3 |
 | 6 eller flere | 1 |
+| Not NA | 1281 |
 | NA | 5338 |
 
 
@@ -1177,6 +1253,7 @@ QUH2A_9_3_1:UNGHELSE2_A; Ved hvilken alder ønsker du å få ditt første/neste 
 | 3rd Qu. | 35 |
 | Max. | 59 |
 | NA's | 5967 |
+| Not NA | 652 |
 
 
 ### HT86
@@ -1186,6 +1263,7 @@ QUH2A_9_3_2:UNGHELSE2_A; Vet ikke.Ved hvilken alder ønsker du å få ditt førs
 | Category | n |
 | -------- | - |
 | Vet ikke | 659 |
+| Not NA | 659 |
 | NA | 5960 |
 
 
@@ -1202,6 +1280,7 @@ QUH2A_9_4_1:UNGHELSE2_A; Ved hvilken alder ønsker du å få ditt siste barn (so
 | 3rd Qu. | 40 |
 | Max. | 70 |
 | NA's | 6064 |
+| Not NA | 555 |
 
 
 ### HT88
@@ -1211,6 +1290,7 @@ QUH2A_9_4_2:UNGHELSE2_A; Vet ikke.Ved hvilken alder ønsker du å få ditt siste
 | Category | n |
 | -------- | - |
 | Vet ikke | 744 |
+| Not NA | 744 |
 | NA | 5875 |
 
 
@@ -1231,6 +1311,7 @@ QUH2A_9_5:UNGHELSE2_A; Er du bekymret for at alder skal gjøre at du ikke får d
 | 10 | 83 |
 | 8 | 207 |
 | 4 | 498 |
+| Not NA | 5920 |
 | NA | 699 |
 
 
@@ -1251,6 +1332,7 @@ QUH2A_9_6:UNGHELSE2_A; Er du bekymret for at ulike risikofaktorer, som f.eks. r�
 | 9 | 44 |
 | 10 | 69 |
 | 8 | 103 |
+| Not NA | 5899 |
 | NA | 720 |
 
 
@@ -1270,6 +1352,7 @@ QUH2A_9_7:UNGHELSE2_A; Er du bekymret for at alder skal gjøre at du ikke får d
 | 9 | 1 |
 | 10 | 3 |
 | 4 | 4 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -1286,6 +1369,7 @@ QUH2A_9_8:UNGHELSE2_A; Er du bekymret for at ulike risikofaktorer, som f.eks. r�
 | 4 | 2 |
 | 3 | 3 |
 | 6 | 1 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -1298,6 +1382,7 @@ M2_QUH2A_11_1:UNGHELSE2_A; Det er vanskeligere for en kvinne å bli gravid etter
 | Sant | 5885 |
 | Vet ikke | 417 |
 | Usant | 290 |
+| Not NA | 6592 |
 | NA | 27 |
 
 
@@ -1310,6 +1395,7 @@ M2_QUH2A_11_2:UNGHELSE2_A; Et par har nedsatt fruktbarhet hvis de ikke har blitt
 | Sant | 3058 |
 | Vet ikke | 1945 |
 | Usant | 1581 |
+| Not NA | 6584 |
 | NA | 35 |
 
 
@@ -1322,6 +1408,7 @@ M2_QUH2A_11_3:UNGHELSE2_A; Røyking reduserer kvinners fruktbarhet.; 11. Angi om
 | Sant | 5146 |
 | Vet ikke | 1234 |
 | Usant | 203 |
+| Not NA | 6583 |
 | NA | 36 |
 
 
@@ -1334,6 +1421,7 @@ M2_QUH2A_11_4:UNGHELSE2_A; Røyking reduserer menns fruktbarhet.; 11. Angi om du
 | Sant | 5002 |
 | Vet ikke | 1334 |
 | Usant | 251 |
+| Not NA | 6587 |
 | NA | 32 |
 
 
@@ -1346,6 +1434,7 @@ M2_QUH2A_11_5:UNGHELSE2_A; Omtrent 1 av 10 har nedsatt fruktbarhet.; 11. Angi om
 | Sant | 3677 |
 | Vet ikke | 2663 |
 | Usant | 244 |
+| Not NA | 6584 |
 | NA | 35 |
 
 
@@ -1358,6 +1447,7 @@ M2_QUH2A_11_6:UNGHELSE2_A; Hvis en mann produserer sædceller er han fruktbar.; 
 | Sant | 688 |
 | Usant | 5028 |
 | Vet ikke | 866 |
+| Not NA | 6582 |
 | NA | 37 |
 
 
@@ -1370,6 +1460,7 @@ M2_QUH2A_11_7:UNGHELSE2_A; En kvinne i 40-årene har like stor sannsynlighet for
 | Usant | 5934 |
 | Vet ikke | 511 |
 | Sant | 140 |
+| Not NA | 6585 |
 | NA | 34 |
 
 
@@ -1382,6 +1473,7 @@ M2_QUH2A_11_8:UNGHELSE2_A; Sunn livsstil gjør deg mer fruktbar; 11. Angi om du 
 | Sant | 5195 |
 | Vet ikke | 1004 |
 | Usant | 391 |
+| Not NA | 6590 |
 | NA | 29 |
 
 
@@ -1394,6 +1486,7 @@ M2_QUH2A_11_9:UNGHELSE2_A; Hvis en mann får kusma etter puberteten har han stø
 | Vet ikke | 4950 |
 | Sant | 1501 |
 | Usant | 128 |
+| Not NA | 6579 |
 | NA | 40 |
 
 
@@ -1406,6 +1499,7 @@ M2_QUH2A_11_10:UNGHELSE2_A; En kvinne som aldri har menstruasjon er allikevel fr
 | Usant | 3084 |
 | Vet ikke | 2537 |
 | Sant | 956 |
+| Not NA | 6577 |
 | NA | 42 |
 
 
@@ -1418,6 +1512,7 @@ M2_QUH2A_11_11:UNGHELSE2_A; Hvis en kvinne er overvektig (veier minst 13 kg over
 | Sant | 3597 |
 | Vet ikke | 2028 |
 | Usant | 960 |
+| Not NA | 6585 |
 | NA | 34 |
 
 
@@ -1430,6 +1525,7 @@ M2_QUH2A_11_12:UNGHELSE2_A; Hvis en mann kan få ereksjon betyr det at han er fr
 | Usant | 6094 |
 | Vet ikke | 435 |
 | Sant | 58 |
+| Not NA | 6587 |
 | NA | 32 |
 
 
@@ -1442,6 +1538,7 @@ M2_QUH2A_11_13:UNGHELSE2_A; Hvis man har hatt en kjønnssykdom har man økt risi
 | Sant | 4506 |
 | Vet ikke | 1535 |
 | Usant | 541 |
+| Not NA | 6582 |
 | NA | 37 |
 
 
@@ -1454,6 +1551,7 @@ M2_QUH2A_11_14:UNGHELSE2_A; En mann er mindre fruktbar etter han har blitt 40 å
 | Sant | 2509 |
 | Vet ikke | 1549 |
 | Usant | 2522 |
+| Not NA | 6580 |
 | NA | 39 |
 
 
@@ -1466,6 +1564,7 @@ M2_QUH2A_11_15:UNGHELSE2_A; Hvis en kvinnes menstruasjonssyklus varer 28 dager, 
 | Sant | 3220 |
 | Vet ikke | 3081 |
 | Usant | 276 |
+| Not NA | 6577 |
 | NA | 42 |
 
 
@@ -1483,6 +1582,7 @@ QUH2A_12:UNGHELSE2_A; Hvis en kvinne på 30-35 år har regelmessig ubeskyttet sa
 | 50-69 % | 1957 |
 | 90-100 % | 184 |
 | 0-9 % | 8 |
+| Not NA | 6534 |
 | NA | 85 |
 
 
@@ -1500,6 +1600,7 @@ QUH2A_13:UNGHELSE2_A; Hvis en kvinne på 40-45 år har regelmessig ubeskyttet sa
 | 10-19 % | 1420 |
 | 70-89 % | 120 |
 | 90-100 % | 12 |
+| Not NA | 6535 |
 | NA | 84 |
 
 
@@ -1515,6 +1616,7 @@ QUH2A_14:UNGHELSE2_A; Hvis en kvinne på 40-45 år gjennomgår to til tre behand
 | 50 eller høyere | 546 |
 | 30-39 % | 1605 |
 | 0-9 % | 472 |
+| Not NA | 6511 |
 | NA | 108 |
 
 
@@ -1530,6 +1632,7 @@ QUH2A_15_1:UNGHELSE2_A; Hvis du røyker, hvor sannsynlig er det at du vil prøve
 | Veldig usannsynlig | 18 |
 | Litt usannsynlig | 67 |
 | Verken sannsynlig eller usannsynlig | 92 |
+| Not NA | 6534 |
 | NA | 85 |
 
 
@@ -1545,6 +1648,7 @@ QUH2A_15_2:UNGHELSE2_A; Jeg ville testet meg for klamydia hvis jeg hadde hatt ub
 | Verken sannsynlig eller usannsynlig | 878 |
 | Ønsker ikke å svare | 108 |
 | Veldig usannsynlig | 184 |
+| Not NA | 6575 |
 | NA | 44 |
 
 
@@ -1559,6 +1663,7 @@ QUH2A_15_3:UNGHELSE2_A; Jeg vil unngå anabole steroider.; 15. Helse- og livssti
 | Verken sannsynlig eller usannsynlig | 79 |
 | Veldig usannsynlig | 36 |
 | Litt usannsynlig | 18 |
+| Not NA | 6585 |
 | NA | 34 |
 
 
@@ -1573,6 +1678,7 @@ QUH2A_20:UNGHELSE2_A; ; 20. Hvordan er din helse alt i alt nå?
 | God | 2060 |
 | Mindre god | 492 |
 | Dårlig | 162 |
+| Not NA | 6605 |
 | NA | 14 |
 
 
@@ -1589,6 +1695,7 @@ QUH2A_21:UNGHELSE2_A; ; 21. Hvor fornøyd er du med livet ditt alt i alt nå?
 | Ganske lite fornøyd | 225 |
 | Lite fornøyd | 318 |
 | Ikke fornøyd i det hele tatt | 93 |
+| Not NA | 6592 |
 | NA | 27 |
 
 
@@ -1603,6 +1710,7 @@ M4_QUH2A_22_1:UNGHELSE2_A; Jeg skaper liv på en fest.; 22. Beskriv deg selv sli
 | Helt feil | 682 |
 | Nokså feil | 915 |
 | Helt riktig | 736 |
+| Not NA | 6594 |
 | NA | 25 |
 
 
@@ -1617,6 +1725,7 @@ M4_QUH2A_22_2:UNGHELSE2_A; Jeg har medfølelse med andre.; 22. Beskriv deg selv 
 | Nokså feil | 86 |
 | Verken eller | 277 |
 | Helt feil | 14 |
+| Not NA | 6601 |
 | NA | 18 |
 
 
@@ -1631,6 +1740,7 @@ M4_QUH2A_22_3:UNGHELSE2_A; Jeg får oppgaver unnagjort med en gang.; 22. Beskriv
 | Verken eller | 1932 |
 | Nokså feil | 1301 |
 | Helt feil | 376 |
+| Not NA | 6602 |
 | NA | 17 |
 
 
@@ -1645,6 +1755,7 @@ M4_QUH2A_22_4:UNGHELSE2_A; Humøret mitt svinger ofte.; 22. Beskriv deg selv sli
 | Verken eller | 1692 |
 | Nokså feil | 1577 |
 | Helt feil | 463 |
+| Not NA | 6600 |
 | NA | 19 |
 
 
@@ -1659,6 +1770,7 @@ M4_QUH2A_22_5:UNGHELSE2_A; Jeg har en livlig fantasi.; 22. Beskriv deg selv slik
 | Helt riktig | 1479 |
 | Verken eller | 1647 |
 | Helt feil | 151 |
+| Not NA | 6594 |
 | NA | 25 |
 
 
@@ -1673,6 +1785,7 @@ M4_QUH2A_22_6:UNGHELSE2_A; Jeg snakker ikke mye.; 22. Beskriv deg selv slik du v
 | Helt riktig | 448 |
 | Verken eller | 1848 |
 | Nokså feil | 2055 |
+| Not NA | 6600 |
 | NA | 19 |
 
 
@@ -1687,6 +1800,7 @@ M4_QUH2A_22_7:UNGHELSE2_A; Jeg er ikke interessert i andres problemer.; 22. Besk
 | Nokså riktig | 524 |
 | Helt feil | 1618 |
 | Helt riktig | 123 |
+| Not NA | 6594 |
 | NA | 25 |
 
 
@@ -1701,6 +1815,7 @@ M4_QUH2A_22_8:UNGHELSE2_A; Jeg glemmer ofte å sette ting tilbake på plass.; 22
 | Nokså riktig | 1255 |
 | Verken eller | 1301 |
 | Helt riktig | 434 |
+| Not NA | 6602 |
 | NA | 17 |
 
 
@@ -1715,6 +1830,7 @@ M4_QUH2A_22_9:UNGHELSE2_A; Jeg er helt avslappet mesteparten av tiden.; 22. Besk
 | Nokså feil | 2239 |
 | Helt riktig | 301 |
 | Helt feil | 917 |
+| Not NA | 6604 |
 | NA | 15 |
 
 
@@ -1729,6 +1845,7 @@ M4_QUH2A_22_10:UNGHELSE2_A; Jeg er interessert i kompliserte tanker.; 22. Beskri
 | Helt riktig | 1561 |
 | Verken eller | 1661 |
 | Helt feil | 207 |
+| Not NA | 6589 |
 | NA | 30 |
 
 
@@ -1743,6 +1860,7 @@ M4_QUH2A_22_11:UNGHELSE2_A; Jeg snakker med mange mennesker på en fest.; 22. Be
 | Nokså feil | 1298 |
 | Helt feil | 802 |
 | Helt riktig | 945 |
+| Not NA | 6597 |
 | NA | 22 |
 
 
@@ -1757,6 +1875,7 @@ M4_QUH2A_22_12:UNGHELSE2_A; Jeg er oppmerksom på andres følelser.; 22. Beskriv
 | Helt feil | 27 |
 | Nokså riktig | 3266 |
 | Nokså feil | 216 |
+| Not NA | 6593 |
 | NA | 26 |
 
 
@@ -1771,6 +1890,7 @@ M4_QUH2A_22_13:UNGHELSE2_A; Jeg liker orden og ryddighet.; 22. Beskriv deg selv 
 | Verken eller | 931 |
 | Nokså feil | 189 |
 | Helt feil | 32 |
+| Not NA | 6592 |
 | NA | 27 |
 
 
@@ -1785,6 +1905,7 @@ M4_QUH2A_22_14:UNGHELSE2_A; Jeg blir lett opprørt (urolig, irritert, sint).; 22
 | Nokså feil | 1728 |
 | Helt feil | 705 |
 | Helt riktig | 654 |
+| Not NA | 6595 |
 | NA | 24 |
 
 
@@ -1799,6 +1920,7 @@ M4_QUH2A_22_15:UNGHELSE2_A; Jeg har problemer med å forstå nye idéer.; 22. Be
 | Verken eller | 1554 |
 | Nokså riktig | 376 |
 | Helt riktig | 50 |
+| Not NA | 6596 |
 | NA | 23 |
 
 
@@ -1813,6 +1935,7 @@ M4_QUH2A_22_16:UNGHELSE2_A; Jeg holder meg i bakgrunnen.; 22. Beskriv deg selv s
 | Helt riktig | 521 |
 | Verken eller | 2300 |
 | Nokså feil | 1597 |
+| Not NA | 6594 |
 | NA | 25 |
 
 
@@ -1827,6 +1950,7 @@ M4_QUH2A_22_17:UNGHELSE2_A; Jeg er egentlig ikke interessert i andre mennesker.;
 | Nokså riktig | 370 |
 | Helt riktig | 50 |
 | Verken eller | 838 |
+| Not NA | 6596 |
 | NA | 23 |
 
 
@@ -1841,6 +1965,7 @@ M4_QUH2A_22_18:UNGHELSE2_A; Jeg roter ofte til ting.; 22. Beskriv deg selv slik 
 | Verken eller | 1682 |
 | Nokså riktig | 919 |
 | Helt riktig | 207 |
+| Not NA | 6593 |
 | NA | 26 |
 
 
@@ -1855,6 +1980,7 @@ M4_QUH2A_22_19:UNGHELSE2_A; Jeg føler meg ofte nedfor, trist.; 22. Beskriv deg 
 | Nokså riktig | 1238 |
 | Helt riktig | 389 |
 | Helt feil | 1192 |
+| Not NA | 6592 |
 | NA | 27 |
 
 
@@ -1869,6 +1995,7 @@ M4_QUH2A_22_20:UNGHELSE2_A; Jeg har ikke god fantasi.; 22. Beskriv deg selv slik
 | Helt feil | 2027 |
 | Verken eller | 1374 |
 | Helt riktig | 186 |
+| Not NA | 6593 |
 | NA | 26 |
 
 
@@ -1883,6 +2010,7 @@ M5_QUH2A_23_1:UNGHELSE2_A; Nervøs, engstelig eller anspent; 23. Hvor ofte har d
 | Nesten hver dag | 753 |
 | Ikke i det hele tatt | 734 |
 | Mer enn halvparten av dagene | 719 |
+| Not NA | 6595 |
 | NA | 24 |
 
 
@@ -1897,6 +2025,7 @@ M5_QUH2A_23_2:UNGHELSE2_A; Ikke klart å stoppe eller kontrollere bekymringene d
 | Flere dager | 1583 |
 | Nesten hver dag | 521 |
 | Mer enn halvparten av dagene | 540 |
+| Not NA | 6590 |
 | NA | 29 |
 
 
@@ -1911,6 +2040,7 @@ M5_QUH2A_23_3:UNGHELSE2_A; Liten interesse for eller glede av å gjøre ting; 23
 | Én dag | 1873 |
 | Nesten hver dag | 367 |
 | Mer enn halvparten av dagene | 468 |
+| Not NA | 6583 |
 | NA | 36 |
 
 
@@ -1925,6 +2055,7 @@ M5_QUH2A_23_4:UNGHELSE2_A; Nedtrykt, håpløs eller deprimert.; 23. Hvor ofte ha
 | Flere dager | 1113 |
 | Nesten hver dag | 334 |
 | Mer enn halvparten av dagene | 349 |
+| Not NA | 6588 |
 | NA | 31 |
 
 
@@ -1938,6 +2069,7 @@ M6_QUH2A_24_1:UNGHELSE2_A; Følt deg isolert fra andre.; 24. Hvor ofte har du ha
 | Sjeldent | 1970 |
 | Ofte | 598 |
 | En gang iblant | 1500 |
+| Not NA | 6588 |
 | NA | 31 |
 
 
@@ -1951,6 +2083,7 @@ M6_QUH2A_24_2:UNGHELSE2_A; Følt at du savner noen å være sammen med.; 24. Hvo
 | Aldri | 1792 |
 | En gang iblant | 2031 |
 | Ofte | 960 |
+| Not NA | 6587 |
 | NA | 32 |
 
 
@@ -1964,6 +2097,7 @@ M6_QUH2A_24_3:UNGHELSE2_A; Følt deg utenfor.; 24. Hvor ofte har du hatt følgen
 | Aldri | 2775 |
 | En gang iblant | 1340 |
 | Ofte | 474 |
+| Not NA | 6593 |
 | NA | 26 |
 
 
@@ -1978,6 +2112,7 @@ M7_QUH2A_25_1:UNGHELSE2_A; Vært opprørt på grunn av noe som skjedde uventet?;
 | Aldri | 1262 |
 | Svært ofte | 203 |
 | Ganske ofte | 585 |
+| Not NA | 6585 |
 | NA | 34 |
 
 
@@ -1992,6 +2127,7 @@ M7_QUH2A_25_2:UNGHELSE2_A; Følt at du ikke greide å kontrollere de viktige tin
 | Noen ganger | 1846 |
 | Svært ofte | 344 |
 | Ganske ofte | 948 |
+| Not NA | 6582 |
 | NA | 37 |
 
 
@@ -2006,6 +2142,7 @@ M7_QUH2A_25_3:UNGHELSE2_A; Følt deg nervøs og «stresset»?; 25. I løpet av d
 | Nesten aldri | 1169 |
 | Aldri | 428 |
 | Svært ofte | 878 |
+| Not NA | 6588 |
 | NA | 31 |
 
 
@@ -2020,6 +2157,7 @@ M7_QUH2A_25_4:UNGHELSE2_A; Følt deg sikker på at du kunne klare å håndtere d
 | Noen ganger | 1863 |
 | Aldri | 312 |
 | Nesten aldri | 623 |
+| Not NA | 6571 |
 | NA | 48 |
 
 
@@ -2034,6 +2172,7 @@ M7_QUH2A_25_5:UNGHELSE2_A; Følt at du lyktes med alt?; 25. I løpet av den sist
 | Nesten aldri | 1657 |
 | Aldri | 724 |
 | Svært ofte | 133 |
+| Not NA | 6584 |
 | NA | 35 |
 
 
@@ -2048,6 +2187,7 @@ M7_QUH2A_25_6:UNGHELSE2_A; Opplevd at du ikke kunne håndtere alt det du måtte 
 | Aldri | 491 |
 | Ganske ofte | 1264 |
 | Svært ofte | 442 |
+| Not NA | 6574 |
 | NA | 45 |
 
 
@@ -2062,6 +2202,7 @@ M7_QUH2A_25_7:UNGHELSE2_A; Vært i stand til å kontrollere irritasjoner i livet
 | Noen ganger | 2120 |
 | Aldri | 143 |
 | Nesten aldri | 554 |
+| Not NA | 6553 |
 | NA | 66 |
 
 
@@ -2076,6 +2217,7 @@ M7_QUH2A_25_8:UNGHELSE2_A; Følt at du mestret alt?; 25. I løpet av den siste m
 | Nesten aldri | 1649 |
 | Aldri | 861 |
 | Svært ofte | 125 |
+| Not NA | 6566 |
 | NA | 53 |
 
 
@@ -2090,6 +2232,7 @@ M7_QUH2A_25_9:UNGHELSE2_A; Blitt sint på grunn av ting du ikke har hatt kontrol
 | Noen ganger | 2297 |
 | Ganske ofte | 843 |
 | Svært ofte | 237 |
+| Not NA | 6565 |
 | NA | 54 |
 
 
@@ -2104,6 +2247,7 @@ M7_QUH2A_25_10:UNGHELSE2_A; Følt at problemene samlet seg opp så mye at du ikk
 | Ganske ofte | 682 |
 | Noen ganger | 1691 |
 | Svært ofte | 361 |
+| Not NA | 6570 |
 | NA | 49 |
 
 
@@ -2114,6 +2258,7 @@ QUH2A_26_1:UNGHELSE2_A; Nei, jeg er vanligvis ikke trett og sliten.; 26. Er du t
 | Category | n |
 | -------- | - |
 | 1 | 2429 |
+| Not NA | 2429 |
 | NA | 4190 |
 
 
@@ -2124,6 +2269,7 @@ QUH2A_26_2:UNGHELSE2_A; Jeg er ofte trett og sliten, men kan være i vanlig dagl
 | Category | n |
 | -------- | - |
 | 1 | 3719 |
+| Not NA | 3719 |
 | NA | 2900 |
 
 
@@ -2134,6 +2280,7 @@ QUH2A_26_3:UNGHELSE2_A; Jeg er ofte så trett og sliten at jeg må være borte f
 | Category | n |
 | -------- | - |
 | 1 | 548 |
+| Not NA | 548 |
 | NA | 6071 |
 
 
@@ -2144,6 +2291,7 @@ QUH2A_26_4:UNGHELSE2_A; Jeg er ofte så trett og sliten at jeg ikke deltar i sos
 | Category | n |
 | -------- | - |
 | 1 | 804 |
+| Not NA | 804 |
 | NA | 5815 |
 
 
@@ -2154,6 +2302,7 @@ QUH2A_26_5:UNGHELSE2_A; Jeg er ofte så trett og sliten at jeg er sengeliggende.
 | Category | n |
 | -------- | - |
 | 1 | 309 |
+| Not NA | 309 |
 | NA | 6310 |
 
 
@@ -2164,6 +2313,7 @@ QUH2A_26_6:UNGHELSE2_A; Vet ikke.; 26. Er du trett og sliten nå for tiden? Med 
 | Category | n |
 | -------- | - |
 | 1 | 68 |
+| Not NA | 68 |
 | NA | 6551 |
 
 
@@ -2174,6 +2324,7 @@ QUH2A_26_7:UNGHELSE2_A; Ønsker ikke å svare.; 26. Er du trett og sliten nå fo
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 6604 |
 
 
@@ -2192,6 +2343,7 @@ QUH2A_27:UNGHELSE2_A; Kontakt med biologisk mor.; 27. Hvor ofte har du kontakt m
 | Sjeldnere enn 1-2 ganger per måned | 58 |
 | Aldri | 31 |
 | Ønsker ikke å svare | 8 |
+| Not NA | 6595 |
 | NA | 24 |
 
 
@@ -2210,6 +2362,7 @@ QUH2A_28:UNGHELSE2_A; Kontakt med biologisk far.; 28. Hvor ofte har du kontakt m
 | 5-6 dager i uken | 734 |
 | Sjeldnere enn 1-2 ganger per måned | 272 |
 | Ikke relevant | 106 |
+| Not NA | 6597 |
 | NA | 22 |
 
 
@@ -2228,6 +2381,7 @@ QUH2A_29:UNGHELSE2_A; Kontakt med steforelder / annen en biologisk forelder.; 29
 | Aldri | 135 |
 | 1-2 ganger per måned | 252 |
 | 5-6 dager i uken | 87 |
+| Not NA | 6408 |
 | NA | 211 |
 
 
@@ -2243,6 +2397,7 @@ QUH2A_31:UNGHELSE2_A; ; 31. Røyker du sigaretter? Ikke inkluder e-sigaretter
 | Ja, av og til | 380 |
 | Ja, daglig | 49 |
 | Nei, men jeg røykte tidligere daglig | 76 |
+| Not NA | 6597 |
 | NA | 22 |
 
 
@@ -2259,6 +2414,7 @@ QUH2A_31_2_1:UNGHELSE2_A; Antall år. Du kan oppgi hele og halve år. Hvor gamme
 | 3rd Qu. | 18 |
 | Max. | 60 |
 | NA's | 5822 |
+| Not NA | 797 |
 
 
 ### HT221
@@ -2274,6 +2430,7 @@ QUH2A_31_2_2:UNGHELSE2_A; Hvor mange sigaretter røykte/røyker du i snitt per m
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 5951 |
+| Not NA | 668 |
 
 
 ### HT222
@@ -2299,6 +2456,7 @@ QUH2A_31_2_3:UNGHELSE2_A; Hvor mange sigaretter røykte/røyker du i snitt per d
 | 14 | 1 |
 | 13 | 1 |
 | 9 | 2 |
+| Not NA | 124 |
 | NA | 6495 |
 
 
@@ -2315,6 +2473,7 @@ QUH2A_31_2_4:UNGHELSE2_A; Antall år: Du kan oppgi hele og halve år. Hvor gamme
 | 3rd Qu. | 20 |
 | Max. | 25 |
 | NA's | 6261 |
+| Not NA | 358 |
 
 
 ### HT224
@@ -2329,6 +2488,7 @@ QUH2A_32:UNGHELSE2_A; ; 32. Vaper/puffer du e-sigaretter?
 | Nei, men jeg brukte tidligere e-sigaretter daglig | 74 |
 | Ja, av og til | 211 |
 | Ja, daglig | 34 |
+| Not NA | 6595 |
 | NA | 24 |
 
 
@@ -2345,6 +2505,7 @@ QUH2A_32_2_1:UNGHELSE2_A; Antall år. Du kan oppgi hele og halve år. Hvor gamme
 | 3rd Qu. | 19 |
 | Max. | 23.5 |
 | NA's | 6062 |
+| Not NA | 557 |
 
 
 ### HT226
@@ -2360,6 +2521,7 @@ QUH2A_32_2_2:UNGHELSE2_A; Hvor mange ganger brukte/bruker du e-sigaretter i snit
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 6187 |
+| Not NA | 432 |
 
 
 ### HT227
@@ -2388,6 +2550,7 @@ QUH2A_32_2_3:UNGHELSE2_A; Hvor mange ganger brukte/bruker du e-sigaretter i snit
 | 12 | 1 |
 | 89 | 1 |
 | 70 | 1 |
+| Not NA | 97 |
 | NA | 6522 |
 
 
@@ -2410,6 +2573,7 @@ QUH2A_32_2_4:UNGHELSE2_A; Antall år. Du kan oppgi hele og halve år. Hvor gamme
 | 15 | 5 |
 | 24 | 3 |
 | 50 | 1 |
+| Not NA | 299 |
 | NA | 6320 |
 
 
@@ -2425,6 +2589,7 @@ QUH2A_33:UNGHELSE2_A; ; 33. Snuser du?
 | Nei, men jeg brukte tidligere snus daglig | 173 |
 | Ja, av og til | 242 |
 | Nei, men jeg brukte tidligere snus av og til | 111 |
+| Not NA | 6597 |
 | NA | 22 |
 
 
@@ -2441,6 +2606,7 @@ QUH2A_33_2_1:UNGHELSE2_A; Antall år. Du kan oppgi hele og halve år. Hvor gamme
 | 3rd Qu. | 18 |
 | Max. | 24 |
 | NA's | 5247 |
+| Not NA | 1372 |
 
 
 ### HT231
@@ -2456,6 +2622,7 @@ QUH2A_33_2_2:UNGHELSE2_A; Hvor mange poser snus tar/tok du i snitt per måned? (
 | 3rd Qu. | 33.75 |
 | Max. | 99 |
 | NA's | 6289 |
+| Not NA | 330 |
 
 
 ### HT232
@@ -2471,6 +2638,7 @@ QUH2A_33_2_3:UNGHELSE2_A; Hvor mange poser snus tar/tok du i snitt per dag? (Hvi
 | 3rd Qu. | 15 |
 | Max. | 78 |
 | NA's | 5596 |
+| Not NA | 1023 |
 
 
 ### HT233
@@ -2499,6 +2667,7 @@ QUH2A_33_2_4:UNGHELSE2_A; Antall år. Du kan oppgi hele og halve år. Hvor gamme
 | 18.5 | 3 |
 | 15.5 | 2 |
 | 18.9 | 1 |
+| Not NA | 276 |
 | NA | 6343 |
 
 
@@ -2510,6 +2679,7 @@ QUH2A_34:UNGHELSE2_A; ; 34. Drikker du alkohol?
 | -------- | - |
 | Ja | 5612 |
 | Nei | 998 |
+| Not NA | 6610 |
 | NA | 9 |
 
 
@@ -2522,6 +2692,7 @@ QUH2A_34_2_1:UNGHELSE2_A; Hvor ofte drikker du alkohol?(Hvis ja, drikker alkohol
 | Mindre enn 1 gang i måneden | 2012 |
 | 1-3 ganger i måneden | 2795 |
 | 1 gang i uken eller mer | 794 |
+| Not NA | 5601 |
 | NA | 1018 |
 
 
@@ -2538,6 +2709,7 @@ QUH2A_34_2_2:UNGHELSE2_A; Hvor mange enheter alkohol (øl, vin eller sprit) drik
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 5842 |
+| Not NA | 777 |
 
 
 ### HT237
@@ -2554,6 +2726,7 @@ QUH2A_34_2_3:UNGHELSE2_A; Hvor ofte drikker du fire enheter eller mer ved samme 
 | Hver dag | 10 |
 | 3-4 ganger i uken | 15 |
 | 5-6 ganger i uken | 2 |
+| Not NA | 5593 |
 | NA | 1026 |
 
 
@@ -2564,6 +2737,7 @@ QUH2A_36_1_1:UNGHELSE2_A; Nei, jeg bruker ikke hormonell prevensjon. (Du kan kry
 | Category | n |
 | -------- | - |
 | 1 | 1597 |
+| Not NA | 1597 |
 | NA | 5022 |
 
 
@@ -2574,6 +2748,7 @@ QUH2A_36_1_2:UNGHELSE2_A; Ja, p-piller. (Du kan krysse av for ett eller flere sv
 | Category | n |
 | -------- | - |
 | 1 | 1214 |
+| Not NA | 1214 |
 | NA | 5405 |
 
 
@@ -2584,6 +2759,7 @@ QUH2A_36_1_3:UNGHELSE2_A; Ja, minipiller. (Du kan krysse av for ett eller flere 
 | Category | n |
 | -------- | - |
 | 1 | 265 |
+| Not NA | 265 |
 | NA | 6354 |
 
 
@@ -2594,6 +2770,7 @@ QUH2A_36_1_4:UNGHELSE2_A; Ja, hormonspiral. (Du kan krysse av for ett eller fler
 | Category | n |
 | -------- | - |
 | 1 | 818 |
+| Not NA | 818 |
 | NA | 5801 |
 
 
@@ -2604,6 +2781,7 @@ QUH2A_36_1_5:UNGHELSE2_A; Ja, p-stav. (Du kan krysse av for ett eller flere svar
 | Category | n |
 | -------- | - |
 | 1 | 625 |
+| Not NA | 625 |
 | NA | 5994 |
 
 
@@ -2614,6 +2792,7 @@ QUH2A_36_1_6:UNGHELSE2_A; Ja, p-sprøyte. (Du kan krysse av for ett eller flere 
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 6599 |
 
 
@@ -2624,6 +2803,7 @@ QUH2A_36_1_7:UNGHELSE2_A; Ja, p-plaster. (Du kan krysse av for ett eller flere s
 | Category | n |
 | -------- | - |
 | 1 | 38 |
+| Not NA | 38 |
 | NA | 6581 |
 
 
@@ -2634,6 +2814,7 @@ QUH2A_36_1_8:UNGHELSE2_A; Ja, p-ring. (Du kan krysse av for ett eller flere svar
 | Category | n |
 | -------- | - |
 | 1 | 29 |
+| Not NA | 29 |
 | NA | 6590 |
 
 
@@ -2644,6 +2825,7 @@ QUH2A_36_1_9:UNGHELSE2_A; Annen hormonell prevensjon. (Du kan krysse av for ett 
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 6599 |
 
 
@@ -2661,6 +2843,7 @@ QUH2A_36_2:UNGHELSE2_A; Før du begynte på hormonell prevensjon, hvor mange dag
 | Mer enn 35 dager | 83 |
 | 32-35 dager | 121 |
 | Ikke relevant | 15 |
+| Not NA | 2951 |
 | NA | 3668 |
 
 
@@ -2671,6 +2854,7 @@ QUH2A_36_3_1:UNGHELSE2_A; Det holdt med truseinnlegg.Før du begynte på hormone
 | Category | n |
 | -------- | - |
 | 1 | 72 |
+| Not NA | 72 |
 | NA | 6547 |
 
 
@@ -2681,6 +2865,7 @@ QUH2A_36_3_2:UNGHELSE2_A; Byttet bind/tampong 5 eller færre ganger per dag.Før
 | Category | n |
 | -------- | - |
 | 1 | 1682 |
+| Not NA | 1682 |
 | NA | 4937 |
 
 
@@ -2691,6 +2876,7 @@ QUH2A_36_3_3:UNGHELSE2_A; Byttet bind/tampong mellom 6 og 9 ganger per dag.Før 
 | Category | n |
 | -------- | - |
 | 1 | 710 |
+| Not NA | 710 |
 | NA | 5909 |
 
 
@@ -2701,6 +2887,7 @@ QUH2A_36_3_4:UNGHELSE2_A; Trengte 9 eller flere tamponger eller bind på dagene 
 | Category | n |
 | -------- | - |
 | 1 | 158 |
+| Not NA | 158 |
 | NA | 6461 |
 
 
@@ -2711,6 +2898,7 @@ QUH2A_36_3_5:UNGHELSE2_A; Byttet bind/tampong før det hadde gått to timer.Før
 | Category | n |
 | -------- | - |
 | 1 | 362 |
+| Not NA | 362 |
 | NA | 6257 |
 
 
@@ -2721,6 +2909,7 @@ QUH2A_36_3_6:UNGHELSE2_A; Det kom blodklumper.Før du begynte på hormonell prev
 | Category | n |
 | -------- | - |
 | 1 | 711 |
+| Not NA | 711 |
 | NA | 5908 |
 
 
@@ -2731,6 +2920,7 @@ QUH2A_36_3_7:UNGHELSE2_A; Blødde ofte gjennom bind eller tamponger.Før du begy
 | Category | n |
 | -------- | - |
 | 1 | 666 |
+| Not NA | 666 |
 | NA | 5953 |
 
 
@@ -2741,6 +2931,7 @@ QUH2A_36_3_8:UNGHELSE2_A; Brukte både tampong og bind for å unngå gjennomblø
 | Category | n |
 | -------- | - |
 | 1 | 543 |
+| Not NA | 543 |
 | NA | 6076 |
 
 
@@ -2751,6 +2942,7 @@ QUH2A_36_3_9:UNGHELSE2_A; Stod opp om natten for å skifte bind eller tampong.F�
 | Category | n |
 | -------- | - |
 | 1 | 307 |
+| Not NA | 307 |
 | NA | 6312 |
 
 
@@ -2761,6 +2953,7 @@ QUH2A_36_3_10:UNGHELSE2_A; Det kom ofte blod på sengetøyet selv om jeg brukte 
 | Category | n |
 | -------- | - |
 | 1 | 421 |
+| Not NA | 421 |
 | NA | 6198 |
 
 
@@ -2771,6 +2964,7 @@ QUH2A_36_3_11:UNGHELSE2_A; Jeg  holdt deg hjemme under menstruasjonen i frykt fo
 | Category | n |
 | -------- | - |
 | 1 | 99 |
+| Not NA | 99 |
 | NA | 6520 |
 
 
@@ -2781,6 +2975,7 @@ QUH2A_36_3_12:UNGHELSE2_A; Husker ikke.Før du begynte på hormonell prevensjon,
 | Category | n |
 | -------- | - |
 | 1 | 226 |
+| Not NA | 226 |
 | NA | 6393 |
 
 
@@ -2791,6 +2986,7 @@ QUH2A_36_3_13:UNGHELSE2_A; Ikke relevant.Før du begynte på hormonell prevensjo
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 6602 |
 
 
@@ -2805,6 +3001,7 @@ QUH2A_36_4:UNGHELSE2_A; Før du begynte på hormonell prevensjon, hadde du blød
 | Usikker | 416 |
 | Ja, vanligvis | 123 |
 | Ikke relevant | 6 |
+| Not NA | 2948 |
 | NA | 3671 |
 
 
@@ -2815,6 +3012,7 @@ QUH2A_36_5_1:UNGHELSE2_A; Jeg hadde så vondt at jeg ofte var sengeliggende.Før
 | Category | n |
 | -------- | - |
 | 1 | 565 |
+| Not NA | 565 |
 | NA | 6054 |
 
 
@@ -2825,6 +3023,7 @@ QUH2A_36_5_2:UNGHELSE2_A; Jeg hadde så vondt at jeg måtte være borte fra vanl
 | Category | n |
 | -------- | - |
 | 1 | 866 |
+| Not NA | 866 |
 | NA | 5753 |
 
 
@@ -2835,6 +3034,7 @@ QUH2A_36_5_3:UNGHELSE2_A; Jeg hadde vondt, men kunne være i vanlig daglig aktiv
 | Category | n |
 | -------- | - |
 | 1 | 1774 |
+| Not NA | 1774 |
 | NA | 4845 |
 
 
@@ -2845,6 +3045,7 @@ QUH2A_36_5_4:UNGHELSE2_A; Vet ikke.Før du begynte på hormonell prevensjon, hvo
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 6585 |
 
 
@@ -2855,6 +3056,7 @@ QUH2A_36_5_5:UNGHELSE2_A; Husker ikke.Før du begynte på hormonell prevensjon, 
 | Category | n |
 | -------- | - |
 | 1 | 117 |
+| Not NA | 117 |
 | NA | 6502 |
 
 
@@ -2865,6 +3067,7 @@ QUH2A_36_5_6:UNGHELSE2_A; Ikke relevant.Før du begynte på hormonell prevensjon
 | Category | n |
 | -------- | - |
 | 1 | 220 |
+| Not NA | 220 |
 | NA | 6399 |
 
 
@@ -2955,6 +3158,7 @@ QUH2A_36_6:UNGHELSE2_A; De siste 6 månedene, hvor mange dager er det vanligvis 
 | Vet ikke | 36 |
 | Ikke relevant | 46 |
 | NA's | 5082 |
+| Not NA | 1537 |
 
 
 ### HT279
@@ -2964,6 +3168,7 @@ QUH2A_36_7_1:UNGHELSE2_A; Det holder med truseinnlegg.Omtrent hvor mye blør du 
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 6580 |
 
 
@@ -2974,6 +3179,7 @@ QUH2A_36_7_2:UNGHELSE2_A; Bytter bind/tampong 5 eller færre ganger per dag.Omtr
 | Category | n |
 | -------- | - |
 | 1 | 1066 |
+| Not NA | 1066 |
 | NA | 5553 |
 
 
@@ -2984,6 +3190,7 @@ QUH2A_36_7_3:UNGHELSE2_A; Bytter bind/tampong mellom 6 og 9 ganger per dag.Omtre
 | Category | n |
 | -------- | - |
 | 1 | 340 |
+| Not NA | 340 |
 | NA | 6279 |
 
 
@@ -2994,6 +3201,7 @@ QUH2A_36_7_4:UNGHELSE2_A; Trenger 9 eller flere tamponger eller bind på dagene 
 | Category | n |
 | -------- | - |
 | 1 | 40 |
+| Not NA | 40 |
 | NA | 6579 |
 
 
@@ -3004,6 +3212,7 @@ QUH2A_36_7_5:UNGHELSE2_A; Bytter bind/tampong før det har gått to timer.Omtren
 | Category | n |
 | -------- | - |
 | 1 | 144 |
+| Not NA | 144 |
 | NA | 6475 |
 
 
@@ -3014,6 +3223,7 @@ QUH2A_36_7_6:UNGHELSE2_A; Det kommer blodklumper.Omtrent hvor mye blør du på d
 | Category | n |
 | -------- | - |
 | 1 | 389 |
+| Not NA | 389 |
 | NA | 6230 |
 
 
@@ -3024,6 +3234,7 @@ QUH2A_36_7_7:UNGHELSE2_A; Blør ofte gjennom bind eller tamponger.Omtrent hvor m
 | Category | n |
 | -------- | - |
 | 1 | 239 |
+| Not NA | 239 |
 | NA | 6380 |
 
 
@@ -3034,6 +3245,7 @@ QUH2A_36_7_8:UNGHELSE2_A; Bruker både tampong og bind for å unngå gjennomblø
 | Category | n |
 | -------- | - |
 | 1 | 271 |
+| Not NA | 271 |
 | NA | 6348 |
 
 
@@ -3044,6 +3256,7 @@ QUH2A_36_7_9:UNGHELSE2_A; Står opp om natten for å skifte bind eller tampong.O
 | Category | n |
 | -------- | - |
 | 1 | 107 |
+| Not NA | 107 |
 | NA | 6512 |
 
 
@@ -3054,6 +3267,7 @@ QUH2A_36_7_10:UNGHELSE2_A; Det kommer ofte blod på sengetøyet selv om du bruke
 | Category | n |
 | -------- | - |
 | 1 | 129 |
+| Not NA | 129 |
 | NA | 6490 |
 
 
@@ -3064,6 +3278,7 @@ QUH2A_36_7_11:UNGHELSE2_A; Du holder deg hjemme under menstruasjonen i frykt for
 | Category | n |
 | -------- | - |
 | 1 | 33 |
+| Not NA | 33 |
 | NA | 6586 |
 
 
@@ -3074,6 +3289,7 @@ QUH2A_36_7_12:UNGHELSE2_A; Usikker.Omtrent hvor mye blør du på dagene med de k
 | Category | n |
 | -------- | - |
 | 1 | 43 |
+| Not NA | 43 |
 | NA | 6576 |
 
 
@@ -3084,6 +3300,7 @@ QUH2A_36_7_13:UNGHELSE2_A; Ikke relevant.Omtrent hvor mye blør du på dagene me
 | Category | n |
 | -------- | - |
 | 1 | 57 |
+| Not NA | 57 |
 | NA | 6562 |
 
 
@@ -3098,6 +3315,7 @@ QUH2A_36_8:UNGHELSE2_A; De siste 6 månedene, har du hatt blødning mellom menst
 | Ja, av og til | 184 |
 | Ikke relevant | 68 |
 | Usikker | 82 |
+| Not NA | 1584 |
 | NA | 5035 |
 
 
@@ -3108,6 +3326,7 @@ QUH2A_36_9_1:UNGHELSE2_A; Jeg har så vondt at jeg ofte er sengeliggende.Hvor st
 | Category | n |
 | -------- | - |
 | 1 | 230 |
+| Not NA | 230 |
 | NA | 6389 |
 
 
@@ -3118,6 +3337,7 @@ QUH2A_36_9_2:UNGHELSE2_A; Jeg har så vondt at jeg må være borte fra vanlig da
 | Category | n |
 | -------- | - |
 | 1 | 413 |
+| Not NA | 413 |
 | NA | 6206 |
 
 
@@ -3128,6 +3348,7 @@ QUH2A_36_9_3:UNGHELSE2_A; Jeg har vondt, men kan være i vanlig daglig aktivitet
 | Category | n |
 | -------- | - |
 | 1 | 1020 |
+| Not NA | 1020 |
 | NA | 5599 |
 
 
@@ -3138,6 +3359,7 @@ QUH2A_36_9_4:UNGHELSE2_A; Vet ikke.Hvor sterke er dine menstruasjonssmerter hvis
 | Category | n |
 | -------- | - |
 | 1 | 44 |
+| Not NA | 44 |
 | NA | 6575 |
 
 
@@ -3148,6 +3370,7 @@ QUH2A_36_9_5:UNGHELSE2_A; Ikke relevant.Hvor sterke er dine menstruasjonssmerter
 | Category | n |
 | -------- | - |
 | 1 | 187 |
+| Not NA | 187 |
 | NA | 6432 |
 
 
@@ -3158,6 +3381,7 @@ QUH2A_37_1_1:UNGHELSE2_A; Smerter ved samleie.; 37. Har du opplevd noen av de f�
 | Category | n |
 | -------- | - |
 | 1 | 1143 |
+| Not NA | 1143 |
 | NA | 5476 |
 
 
@@ -3168,6 +3392,7 @@ QUH2A_37_1_2:UNGHELSE2_A; Smerter i forbindelse med avføring.; 37. Har du opple
 | Category | n |
 | -------- | - |
 | 1 | 1074 |
+| Not NA | 1074 |
 | NA | 5545 |
 
 
@@ -3178,6 +3403,7 @@ QUH2A_37_1_3:UNGHELSE2_A; Smerter nederst i magen.; 37. Har du opplevd noen av d
 | Category | n |
 | -------- | - |
 | 1 | 2641 |
+| Not NA | 2641 |
 | NA | 3978 |
 
 
@@ -3188,6 +3414,7 @@ QUH2A_37_1_4:UNGHELSE2_A; Ingen av disse.; 37. Har du opplevd noen av de følgen
 | Category | n |
 | -------- | - |
 | 1 | 1288 |
+| Not NA | 1288 |
 | NA | 5331 |
 
 
@@ -3198,6 +3425,7 @@ QUH2A_37_2_1:UNGHELSE2_A; Nei, smertene varierte, men hadde ikke et syklisk møn
 | Category | n |
 | -------- | - |
 | 1 | 644 |
+| Not NA | 644 |
 | NA | 5975 |
 
 
@@ -3208,6 +3436,7 @@ QUH2A_37_2_2:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret før min mens
 | Category | n |
 | -------- | - |
 | 1 | 86 |
+| Not NA | 86 |
 | NA | 6533 |
 
 
@@ -3218,6 +3447,7 @@ QUH2A_37_2_3:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret under min men
 | Category | n |
 | -------- | - |
 | 1 | 68 |
+| Not NA | 68 |
 | NA | 6551 |
 
 
@@ -3228,6 +3458,7 @@ QUH2A_37_2_4:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret etter min men
 | Category | n |
 | -------- | - |
 | 1 | 29 |
+| Not NA | 29 |
 | NA | 6590 |
 
 
@@ -3238,6 +3469,7 @@ QUH2A_37_2_5:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret under min egg
 | Category | n |
 | -------- | - |
 | 1 | 45 |
+| Not NA | 45 |
 | NA | 6574 |
 
 
@@ -3248,6 +3480,7 @@ QUH2A_37_2_6:UNGHELSE2_A; Smertene var konstante.Følger/fulgte smertene ved sam
 | Category | n |
 | -------- | - |
 | 1 | 103 |
+| Not NA | 103 |
 | NA | 6516 |
 
 
@@ -3258,6 +3491,7 @@ QUH2A_37_2_7:UNGHELSE2_A; Vet ikke.Følger/fulgte smertene ved samleie et syklis
 | Category | n |
 | -------- | - |
 | 1 | 311 |
+| Not NA | 311 |
 | NA | 6308 |
 
 
@@ -3268,6 +3502,7 @@ QUH2A_37_3_1:UNGHELSE2_A; Nei, smertene varierte, men hadde ikke et syklisk møn
 | Category | n |
 | -------- | - |
 | 1 | 510 |
+| Not NA | 510 |
 | NA | 6109 |
 
 
@@ -3278,6 +3513,7 @@ QUH2A_37_3_2:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret før min mens
 | Category | n |
 | -------- | - |
 | 1 | 154 |
+| Not NA | 154 |
 | NA | 6465 |
 
 
@@ -3288,6 +3524,7 @@ QUH2A_37_3_3:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret under min men
 | Category | n |
 | -------- | - |
 | 1 | 295 |
+| Not NA | 295 |
 | NA | 6324 |
 
 
@@ -3298,6 +3535,7 @@ QUH2A_37_3_4:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret etter min men
 | Category | n |
 | -------- | - |
 | 1 | 37 |
+| Not NA | 37 |
 | NA | 6582 |
 
 
@@ -3308,6 +3546,7 @@ QUH2A_37_3_5:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret under min egg
 | Category | n |
 | -------- | - |
 | 1 | 54 |
+| Not NA | 54 |
 | NA | 6565 |
 
 
@@ -3318,6 +3557,7 @@ QUH2A_37_3_6:UNGHELSE2_A; Smertene var konstante.Følger/fulgte smertene i forbi
 | Category | n |
 | -------- | - |
 | 1 | 43 |
+| Not NA | 43 |
 | NA | 6576 |
 
 
@@ -3328,6 +3568,7 @@ QUH2A_37_3_7:UNGHELSE2_A; Vet ikke.Følger/fulgte smertene i forbindelse med avf
 | Category | n |
 | -------- | - |
 | 1 | 206 |
+| Not NA | 206 |
 | NA | 6413 |
 
 
@@ -3338,6 +3579,7 @@ QUH2A_37_4_1:UNGHELSE2_A; Nei, smertene varierte, men hadde ikke et syklisk møn
 | Category | n |
 | -------- | - |
 | 1 | 776 |
+| Not NA | 776 |
 | NA | 5843 |
 
 
@@ -3348,6 +3590,7 @@ QUH2A_37_4_2:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret før min mens
 | Category | n |
 | -------- | - |
 | 1 | 928 |
+| Not NA | 928 |
 | NA | 5691 |
 
 
@@ -3358,6 +3601,7 @@ QUH2A_37_4_3:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret under min men
 | Category | n |
 | -------- | - |
 | 1 | 1152 |
+| Not NA | 1152 |
 | NA | 5467 |
 
 
@@ -3368,6 +3612,7 @@ QUH2A_37_4_4:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret etter min men
 | Category | n |
 | -------- | - |
 | 1 | 121 |
+| Not NA | 121 |
 | NA | 6498 |
 
 
@@ -3378,6 +3623,7 @@ QUH2A_37_4_5:UNGHELSE2_A; Ja, smertene oppstod eller ble forverret under min egg
 | Category | n |
 | -------- | - |
 | 1 | 347 |
+| Not NA | 347 |
 | NA | 6272 |
 
 
@@ -3388,6 +3634,7 @@ QUH2A_37_4_6:UNGHELSE2_A; Smertene var konstante.Følger/fulgte smertene nederst
 | Category | n |
 | -------- | - |
 | 1 | 76 |
+| Not NA | 76 |
 | NA | 6543 |
 
 
@@ -3398,6 +3645,7 @@ QUH2A_37_4_7:UNGHELSE2_A; Vet ikke.Følger/fulgte smertene nederst i magen et sy
 | Category | n |
 | -------- | - |
 | 1 | 381 |
+| Not NA | 381 |
 | NA | 6238 |
 
 
@@ -3412,6 +3660,7 @@ QUH2A_38:UNGHELSE2_A; ; 38. Hvor ofte har du hatt sex med en annen person de sis
 | Sjeldnere enn én gang per måned | 1245 |
 | 2-3 ganger per uke | 1081 |
 | 4 eller flere ganger per uke | 371 |
+| Not NA | 6565 |
 | NA | 54 |
 
 
@@ -3431,6 +3680,7 @@ QUH2A_38_2:UNGHELSE2_A; Hvor mange personer har du hatt sex med i de siste 12 m�
 | 8 | 40 |
 | 10 ELLER FLERE | 59 |
 | 6 | 65 |
+| Not NA | 4238 |
 | NA | 2381 |
 
 
@@ -3444,6 +3694,7 @@ QUH2A_39:UNGHELSE2_A; ; 39. Har du vært gravid i løpet av det siste året? Eve
 | Ja | 84 |
 | Vet ikke | 12 |
 | Ønsker ikke å svare | 3 |
+| Not NA | 4536 |
 | NA | 2083 |
 
 
@@ -3456,6 +3707,7 @@ QUH2A_39_2:UNGHELSE2_A; Hvor mange ganger har du vært gravid i løpet av det si
 | 1 | 78 |
 | 2 | 5 |
 | 3 | 1 |
+| Not NA | 84 |
 | NA | 6535 |
 
 
@@ -3484,6 +3736,7 @@ QUH2A_40_1_1:UNGHELSE2_A; I hvilken svangerskapsuke endte den første graviditet
 | 43 | 2 |
 | 12 | 3 |
 | 36 | 1 |
+| Not NA | 79 |
 | NA | 6540 |
 
 
@@ -3499,6 +3752,7 @@ QUH2A_40_1_2:UNGHELSE2_A; Hvordan endte din første graviditet?(Hvis ja, antall 
 | Spontanabort | 9 |
 | Graviditet utenfor livmoren | 1 |
 | Dødfødt barn | 1 |
+| Not NA | 83 |
 | NA | 6536 |
 
 
@@ -3512,6 +3766,7 @@ QUH2A_40_1_3:UNGHELSE2_A; Hvilket årstall er barnet fra den første graviditete
 | 2023 | 2 |
 | 2024 | 24 |
 | 2022 | 1 |
+| Not NA | 37 |
 | NA | 6582 |
 
 
@@ -3525,6 +3780,7 @@ QUH2A_40_2_1:UNGHELSE2_A; I hvilken svangerskapsuke endte den andre graviditeten
 | 7 | 1 |
 | 6 | 1 |
 | 8 | 1 |
+| Not NA | 4 |
 | NA | 6615 |
 
 
@@ -3538,6 +3794,7 @@ QUH2A_40_2_2:UNGHELSE2_A; Hvordan endte din andre graviditet?(Hvis ja, antall gr
 | Provosert abort | 1 |
 | Spontanabort | 2 |
 | Vet ikke / ønsker ikke å svare | 2 |
+| Not NA | 6 |
 | NA | 6613 |
 
 
@@ -3548,6 +3805,7 @@ QUH2A_40_2_3:UNGHELSE2_A; Hvilket årstall er barnet fra den andre graviditeten 
 | Category | n |
 | -------- | - |
 | 2024 | 1 |
+| Not NA | 1 |
 | NA | 6618 |
 
 
@@ -3558,6 +3816,7 @@ QUH2A_40_3_1:UNGHELSE2_A; I hvilken svangerskapsuke endte den tredje graviditete
 | Category | n |
 | -------- | - |
 | 4 | 1 |
+| Not NA | 1 |
 | NA | 6618 |
 
 
@@ -3568,6 +3827,7 @@ QUH2A_40_3_2:UNGHELSE2_A; Hvordan endte din tredje graviditet?(Hvis ja, antall g
 | Category | n |
 | -------- | - |
 | Spontanabort | 1 |
+| Not NA | 1 |
 | NA | 6618 |
 
 
@@ -3577,6 +3837,7 @@ QUH2A_40_3_3:UNGHELSE2_A; Hvilket årstall er barnet fra den tredje graviditeten
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3586,6 +3847,7 @@ QUH2A_40_4_1:UNGHELSE2_A; I hvilken svangerskapsuke endte den fjerde graviditete
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3595,6 +3857,7 @@ QUH2A_40_4_2:UNGHELSE2_A; Hvordan endte din fjerde graviditet?(Hvis ja, antall g
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3604,6 +3867,7 @@ QUH2A_40_4_3:UNGHELSE2_A; Hvilket årstall er barnet fra den fjerde graviditeten
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3613,6 +3877,7 @@ QUH2A_40_5_1:UNGHELSE2_A; I hvilken svangerskapsuke endte den femte graviditeten
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3622,6 +3887,7 @@ QUH2A_40_5_2:UNGHELSE2_A; Hvordan endte din femte graviditet?(Hvis ja, antall gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3631,6 +3897,7 @@ QUH2A_40_5_3:UNGHELSE2_A; Hvilket årstall er barnet fra den femte graviditeten 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3640,6 +3907,7 @@ QUH2A_40_6_1:UNGHELSE2_A; I hvilken svangerskapsuke endte den sjette graviditete
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3649,6 +3917,7 @@ QUH2A_40_6_2:UNGHELSE2_A; Hvordan endte din sjette graviditet?(Hvis ja, antall g
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3658,6 +3927,7 @@ QUH2A_40_6_3:UNGHELSE2_A; Hvilket årstall er barnet fra den sjette graviditeten
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3667,6 +3937,7 @@ QUH2A_40_7_1:UNGHELSE2_A; I hvilken svangerskapsuke endte den syvende graviditet
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3676,6 +3947,7 @@ QUH2A_40_7_2:UNGHELSE2_A; Hvordan endte din syvende graviditet?(Hvis ja, antall 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3685,6 +3957,7 @@ QUH2A_40_7_3:UNGHELSE2_A; Hvilket årstall er barnet fra den syvende graviditete
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3694,6 +3967,7 @@ QUH2A_40_8_1:UNGHELSE2_A; I hvilken svangerskapsuke endte den åttende gravidite
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3703,6 +3977,7 @@ QUH2A_40_8_2:UNGHELSE2_A; Hvordan endte din åttemde graviditet?(Hvis ja, antall
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3712,6 +3987,7 @@ QUH2A_40_8_3:UNGHELSE2_A; Hvilket årstall er barnet fra den åttende graviditet
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3721,6 +3997,7 @@ QUH2A_40_9_1:UNGHELSE2_A; I hvilken svangerskapsuke endte den niende graviditete
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3730,6 +4007,7 @@ QUH2A_40_9_2:UNGHELSE2_A; Hvordan endte din niende graviditet?(Hvis ja, antall g
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3739,6 +4017,7 @@ QUH2A_40_9_3:UNGHELSE2_A; Hvilket årstall er barnet fra den niende graviditeten
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3748,6 +4027,7 @@ QUH2A_40_10_1:UNGHELSE2_A; I hvilken svangerskapsuke endte den tiende graviditet
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3757,6 +4037,7 @@ QUH2A_40_10_2:UNGHELSE2_A; Hvordan endte din tiende graviditet?(Hvis ja, antall 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3766,6 +4047,7 @@ QUH2A_40_10_3:UNGHELSE2_A; Hvilket årstall er barnet fra den tiende graviditete
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 6619 |
 
 
@@ -3779,6 +4061,7 @@ QUH2A_41:UNGHELSE2_A; ; 41. Har du gjort en kvinne gravid i løpet av det siste 
 | Vet ikke | 20 |
 | Ja | 26 |
 | Ønsker ikke å svare | 3 |
+| Not NA | 2060 |
 | NA | 4559 |
 
 
@@ -3790,6 +4073,7 @@ QUH2A_41_2:UNGHELSE2_A; Hvor mange ganger har du gjort en kvinne gravid i løpet
 | -------- | - |
 | 1 | 25 |
 | 3 | 1 |
+| Not NA | 26 |
 | NA | 6593 |
 
 
@@ -3804,6 +4088,7 @@ QUH2A_42:UNGHELSE2_A; ; 42. Har du en partner som er gravid nå?
 | Vet ikke | 11 |
 | Ønsker ikke å svare | 2 |
 | Ja | 9 |
+| Not NA | 6605 |
 | NA | 14 |
 
 
@@ -3818,6 +4103,7 @@ QUH2A_43:UNGHELSE2_A; ; 43. Er du gravid nå eller planlegger du å bli gravid i
 | Jeg er gravid nå og planlegger å gjennomføre graviditeten | 36 |
 | Ønsker ikke å svare | 21 |
 | Jeg er gravid nå, men jeg ønsker ikke å gjennomføre graviditeten | 1 |
+| Not NA | 4550 |
 | NA | 2069 |
 
 
@@ -3834,6 +4120,7 @@ AGE_YRS_HT; UNGHELSE2_A BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0.
 | 19 | 1213 |
 | 24 | 324 |
 | 25 | 109 |
+| Not NA | 6619 |
 | NA | 0 |
 
 

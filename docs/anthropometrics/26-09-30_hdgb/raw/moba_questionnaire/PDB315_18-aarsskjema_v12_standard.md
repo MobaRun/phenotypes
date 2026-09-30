@@ -51,6 +51,7 @@
 | -------- | - |
 | 1 | 7162 |
 | 2 | 101 |
+| Not NA | 7263 |
 | NA | 0 |
 
 
@@ -61,6 +62,7 @@
 | -------- | - |
 | VEL18_A | 4956 |
 | VEL18_B | 2307 |
+| Not NA | 7263 |
 | NA | 0 |
 
 
@@ -72,6 +74,7 @@ Q18B_1_1:VEL18_B; (QV2G_1_1:VEL18_A); Går på videregående skole.; 1. HVA GJØ
 | -------- | - |
 | 1 | 3518 |
 | 0 | 405 |
+| Not NA | 3923 |
 | NA | 3340 |
 
 
@@ -83,6 +86,7 @@ Q18B_1_2:VEL18_B; (QV2G_1_2:VEL18_A); Studerer.; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 2269 |
 | 1 | 1419 |
+| Not NA | 3688 |
 | NA | 3575 |
 
 
@@ -94,6 +98,7 @@ Q18B_1_3:VEL18_B; (QV2G_1_3:VEL18_A); Har yrkespraksis / er lærling.; 1. HVA GJ
 | -------- | - |
 | 0 | 1971 |
 | 1 | 890 |
+| Not NA | 2861 |
 | NA | 4402 |
 
 
@@ -105,6 +110,7 @@ Q18B_1_4:VEL18_B; (QV2G_1_4:VEL18_A); Er i militærtjeneste.; 1. HVA GJØR DU TI
 | -------- | - |
 | 0 | 2297 |
 | 1 | 371 |
+| Not NA | 2668 |
 | NA | 4595 |
 
 
@@ -116,6 +122,7 @@ Q18B_1_5:VEL18_B; (QV2G_1_5:VEL18_A); Går på folkehøgskole.; 1. HVA GJØR DU 
 | -------- | - |
 | 0 | 2288 |
 | 1 | 256 |
+| Not NA | 2544 |
 | NA | 4719 |
 
 
@@ -127,6 +134,7 @@ Q18B_1_6:VEL18_B; (QV2G_1_6:VEL18_A); Har et friår.; 1. HVA GJØR DU TIL VANLIG
 | -------- | - |
 | 0 | 2277 |
 | 1 | 534 |
+| Not NA | 2811 |
 | NA | 4452 |
 
 
@@ -138,6 +146,7 @@ Q18B_1_7:VEL18_B; (QV2G_1_7:VEL18_A); Er arbeidssøkende / permittert.; 1. HVA G
 | -------- | - |
 | 0 | 2297 |
 | 1 | 64 |
+| Not NA | 2361 |
 | NA | 4902 |
 
 
@@ -149,6 +158,7 @@ Q18B_1_8:VEL18_B; (QV2G_1_8:VEL18_A); Er sykmeldt / ufør / under attføring.; 1
 | -------- | - |
 | 0 | 2281 |
 | 1 | 99 |
+| Not NA | 2380 |
 | NA | 4883 |
 
 
@@ -160,6 +170,7 @@ Q18B_1_9:VEL18_B; (QV2G_1_9:VEL18_A); Er ansatt i privat virksomhet.; 1. HVA GJ�
 | -------- | - |
 | 0 | 2076 |
 | 1 | 1021 |
+| Not NA | 3097 |
 | NA | 4166 |
 
 
@@ -171,6 +182,7 @@ Q18B_1_10:VEL18_B; (QV2G_1_10:VEL18_A); Er ansatt i offentlig virksomhet.; 1. HV
 | -------- | - |
 | 1 | 732 |
 | 0 | 2123 |
+| Not NA | 2855 |
 | NA | 4408 |
 
 
@@ -182,6 +194,7 @@ Q18B_1_11:VEL18_B; (QV2G_1_11:VEL18_A); Er selvstendig næringsdrivende.; 1. HVA
 | -------- | - |
 | 0 | 2297 |
 | 1 | 49 |
+| Not NA | 2346 |
 | NA | 4917 |
 
 
@@ -193,6 +206,7 @@ Q18B_1_12:VEL18_B; (QV2G_1_12:VEL18_A); Er freelancer.; 1. HVA GJØR DU TIL VANL
 | -------- | - |
 | 0 | 2286 |
 | 1 | 75 |
+| Not NA | 2361 |
 | NA | 4902 |
 
 
@@ -204,6 +218,7 @@ Q18B_1_13:VEL18_B; (QV2G_1_13:VEL18_A); Annet.; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 2285 |
 | 1 | 118 |
+| Not NA | 2403 |
 | NA | 4860 |
 
 
@@ -215,6 +230,7 @@ Q18B_2:VEL18_B; (QV2G_2:VEL18_A); ; 2. HAR DU FULLFØRT VIDEREGÅENDE SKOLE?
 | -------- | - |
 | JA | 4345 |
 | NEI | 2891 |
+| Not NA | 7236 |
 | NA | 27 |
 
 
@@ -226,6 +242,7 @@ Q18B_3:VEL18_B; (QV2G_3:VEL18_A); ; 3. BOR DU SAMMEN MED NOEN?
 | -------- | - |
 | JEG BOR SAMMEN MED NOEN | 6639 |
 | JEG BOR ALENE | 611 |
+| Not NA | 7250 |
 | NA | 13 |
 
 
@@ -237,6 +254,7 @@ Q18B_3_1_1:VEL18_B; (QV2G_3_1_1:VEL18_A); Med kjæreste / samboer / ektefelle. H
 | -------- | - |
 | 1 | 613 |
 | 0 | 2088 |
+| Not NA | 2701 |
 | NA | 4562 |
 
 
@@ -248,6 +266,7 @@ Q18B_3_1_2:VEL18_B; (QV2G_3_1_2:VEL18_A); Med en eller to foreldre/steforeldre. 
 | -------- | - |
 | 1 | 5148 |
 | 0 | 233 |
+| Not NA | 5381 |
 | NA | 1882 |
 
 
@@ -259,6 +278,7 @@ Q18B_3_1_3:VEL18_B; (QV2G_3_1_3:VEL18_A); Med søsken / halvsøsken / stesøsken
 | -------- | - |
 | 0 | 1064 |
 | 1 | 2953 |
+| Not NA | 4017 |
 | NA | 3246 |
 
 
@@ -270,6 +290,7 @@ Q18B_3_1_4:VEL18_B; (QV2G_3_1_4:VEL18_A); Med venner. Hvem bor du sammen med? (H
 | -------- | - |
 | 0 | 2057 |
 | 1 | 783 |
+| Not NA | 2840 |
 | NA | 4423 |
 
 
@@ -281,6 +302,7 @@ Q18B_3_1_5:VEL18_B; (QV2G_3_1_5:VEL18_A); Med egne / andres barn. Hvem bor du sa
 | -------- | - |
 | 0 | 2179 |
 | 1 | 19 |
+| Not NA | 2198 |
 | NA | 5065 |
 
 
@@ -292,6 +314,7 @@ Q18B_3_1_6:VEL18_B; (QV2G_3_1_6:VEL18_A); Med andre. Hvem bor du sammen med? (Hv
 | -------- | - |
 | 0 | 2093 |
 | 1 | 396 |
+| Not NA | 2489 |
 | NA | 4774 |
 
 
@@ -304,6 +327,7 @@ Q18B_4:VEL18_B; (QV2G_4:VEL18_A); ; 4. HVILKET KJØNN ER DU?
 | KVINNE | 4698 |
 | MANN | 2447 |
 | ANNET | 115 |
+| Not NA | 7260 |
 | NA | 3 |
 
 
@@ -326,6 +350,7 @@ Q18B_4_1:VEL18_B; (QV2G_4_1:VEL18_A); Hvor gammel var du da du hadde din første
 | 19 ÅR | 14 |
 | 17 ÅR | 10 |
 | 20 ÅR ELLER ELDRE | 1 |
+| Not NA | 2315 |
 | NA | 4948 |
 
 
@@ -347,6 +372,7 @@ Q18B_4_2:VEL18_B; (QV2G_4_2:VEL18_A); og: (måned) Hvor gammel var du da du hadd
 | 7 MÅNEDER | 33 |
 | 9 MÅNEDER | 20 |
 | 2 MÅNEDER | 49 |
+| Not NA | 2106 |
 | NA | 5157 |
 
 
@@ -369,6 +395,7 @@ Q18B_4_3:VEL18_B; (QV2G_4_3:VEL18_A); Hvor gammel var du da du fikk din første 
 | 18 ÅR | 20 |
 | 17 ÅR | 15 |
 | 20 ÅR ELLER ELDRE | 1 |
+| Not NA | 4674 |
 | NA | 2589 |
 
 
@@ -390,6 +417,7 @@ Q18B_4_4:VEL18_B; (QV2G_4_4:VEL18_A); og: (måned) Hvor gammel var du da du fikk
 | 9 MÅNEDER | 186 |
 | 5 MÅNEDER | 300 |
 | 8 MÅNEDER | 215 |
+| Not NA | 4215 |
 | NA | 3048 |
 
 
@@ -404,6 +432,7 @@ Q18B_4_5:VEL18_B; (QV2G_4_5:VEL18_A); Kryss av for det svaret som i dag passer b
 | MANN/TRANSMANN | 14 |
 | KVINNE/TRANSKVINNE | 11 |
 | ANNET | 2 |
+| Not NA | 115 |
 | NA | 7148 |
 
 
@@ -415,6 +444,7 @@ Q18B_5:VEL18_B; (QV2G_5:VEL18_A); ; 5. HAR DU SKIFTET JURIDISK KJØNN ETTER FØD
 | -------- | - |
 | NEI | 7089 |
 | JA | 160 |
+| Not NA | 7249 |
 | NA | 14 |
 
 
@@ -430,6 +460,7 @@ Q18B_6:VEL18_B; (QV2G_6:VEL18_A); ; 6. HVILKEN SEKSUELL ORIENTERING HAR DU?
 | ANNET | 136 |
 | HOMOFIL | 144 |
 | ØNSKER IKKE Å SVARE | 86 |
+| Not NA | 7244 |
 | NA | 19 |
 
 
@@ -446,6 +477,7 @@ Q18B10:VEL18_B; (QV2G10:VEL18_A); ; 10. HVOR HØY ER DU UTEN SKO?
 | 3rd Qu. | 180 |
 | Max. | 283 |
 | NA's | 26 |
+| Not NA | 7237 |
 
 
 ### VE44
@@ -461,6 +493,7 @@ Q18B11:VEL18_B; (QV2G11:VEL18_A); ; 11. HVOR MYE VEIER DU UTEN KLÆR OG SKO?
 | 3rd Qu. | 77 |
 | Max. | 195 |
 | NA's | 254 |
+| Not NA | 7009 |
 
 
 ### VE45
@@ -480,6 +513,7 @@ Q18B12:VEL18_B; (QV2G12:VEL18_A); ; 12. HVOR SUNT MENER DU KOSTHOLDET DITT ER N�
 | 3 | 373 |
 | 1 | 28 |
 | 0 | 29 |
+| Not NA | 7242 |
 | NA | 21 |
 
 
@@ -494,6 +528,7 @@ Q18B13:VEL18_B; (QV2G13:VEL18_A); ; 13. OMTRENT HVOR OFTE SPISER DU MÅLTIDER EL
 | 2 - 3 GANGER PER UKE | 2332 |
 | 4 - 5 GANGER PER UKE | 410 |
 | 6 - 7 GANGER PER UKE | 87 |
+| Not NA | 7233 |
 | NA | 30 |
 
 
@@ -509,6 +544,7 @@ Q18B14:VEL18_B; (QV2G14:VEL18_A); ; 14. HVOR OFTE DRIVER DU MOSJON? (TA ET GJENN
 | 2 - 3 GANGER I UKEN | 2241 |
 | SJELDNERE ENN EN GANG I UKEN | 825 |
 | ALDRI | 133 |
+| Not NA | 7238 |
 | NA | 25 |
 
 
@@ -529,6 +565,7 @@ Q18B30:VEL18_B; (QV2G30:VEL18_A); Ikke lov å drive organisert idrett.; 30. NÅ 
 | 8 | 536 |
 | 9 | 208 |
 | 2 | 327 |
+| Not NA | 7249 |
 | NA | 14 |
 
 
@@ -550,6 +587,7 @@ Q18B31:VEL18_B; (QV2G31:VEL18_A); Bare lov til å møte et begrenset antall pers
 | 9 | 371 |
 | JEG HAR IKKE FULGT DENNE ANBEFALINGEN | 202 |
 | IKKE RELEVANT FOR MEG | 123 |
+| Not NA | 7244 |
 | NA | 19 |
 
 
@@ -570,6 +608,7 @@ Q18B32:VEL18_B; (QV2G32:VEL18_A); Ikke lov til å være på treningssenter.; 32.
 | 6 | 381 |
 | 7 | 450 |
 | 9 | 206 |
+| Not NA | 7245 |
 | NA | 18 |
 
 
@@ -590,6 +629,7 @@ Q18B33:VEL18_B; (QV2G33:VEL18_A); Hjemmeundervisning.; 33. NÅ ØNSKER VI AT DU 
 | 9 | 371 |
 | 3 | 614 |
 | IKKE RELEVANT FOR MEG | 237 |
+| Not NA | 7241 |
 | NA | 22 |
 
 
@@ -610,6 +650,7 @@ Q18B34:VEL18_B; (QV2G34:VEL18_A); Å holde avstand til andre (for eksempel å ik
 | JEG HAR IKKE FULGT DENNE ANBEFALINGEN | 207 |
 | 9 | 266 |
 | 7 | 716 |
+| Not NA | 7245 |
 | NA | 18 |
 
 
@@ -626,6 +667,7 @@ Q18B35:VEL18_B; (QV2G35:VEL18_A); Nedstengingen hadde en positiv innvirkning på
 | MEGET UENIG | 1148 |
 | HELT ENIG | 234 |
 | HELT UENIG | 804 |
+| Not NA | 7243 |
 | NA | 20 |
 
 
@@ -640,6 +682,7 @@ AGE_YRS_VE; VEL18_A; BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0.
 | 18 | 2852 |
 | 20 | 1102 |
 | 22 | 214 |
+| Not NA | 7263 |
 | NA | 0 |
 
 

@@ -112,6 +112,7 @@ BARN_NR
 | -------- | - |
 | 1 | 481 |
 | 2 | 4 |
+| Not NA | 485 |
 | NA | 0 |
 
 
@@ -123,6 +124,7 @@ BARN_NR
 | WFKLINIKK_C | 151 |
 | WFKLINIKK_B | 244 |
 | WFKLINIKK_A | 90 |
+| Not NA | 485 |
 | NA | 0 |
 
 
@@ -138,6 +140,7 @@ QWFKC_3:WFKLINIKK_C; (QWFKB_3:WFKLINIKK_B); (QWFK_3:WFKLINIKK_A); ; 3. OPPGI PAS
 | Mean | 168.488659793814 |
 | 3rd Qu. | 173 |
 | Max. | 188 |
+| Not NA | 485 |
 
 
 ### WK13
@@ -152,6 +155,7 @@ QWFKC_4:WFKLINIKK_C; (QWFKB_4:WFKLINIKK_B); (QWFK_4:WFKLINIKK_A); ; 4. OPPGI PAS
 | Mean | 76.8948453608247 |
 | 3rd Qu. | 82 |
 | Max. | 122 |
+| Not NA | 485 |
 
 
 ### WK14
@@ -166,6 +170,7 @@ QWFKC_5:WFKLINIKK_C; (QWFKB_5:WFKLINIKK_B); (QWFK_5:WFKLINIKK_A); ; 5. OPPGI PAS
 | Mean | 100.430927835052 |
 | 3rd Qu. | 105 |
 | Max. | 135 |
+| Not NA | 485 |
 
 
 ### WK15
@@ -180,6 +185,7 @@ QWFKC_6:WFKLINIKK_C; (QWFKB_6:WFKLINIKK_B); (QWFK_6:WFKLINIKK_A); ; 6. OPPGI PAS
 | Mean | 67.7278350515464 |
 | 3rd Qu. | 74 |
 | Max. | 128 |
+| Not NA | 485 |
 
 
 ### WK16
@@ -194,6 +200,7 @@ QWFKC_7:WFKLINIKK_C; (QWFKB_7:WFKLINIKK_B); (QWFK_7:WFKLINIKK_A); ; 7. OPPGI PAS
 | Mean | 28.7896907216495 |
 | 3rd Qu. | 33 |
 | Max. | 49 |
+| Not NA | 485 |
 
 
 ### WK17
@@ -208,6 +215,7 @@ QWFKC_8:WFKLINIKK_C; (QWFKB_8:WFKLINIKK_B); (QWFK_8:WFKLINIKK_A); ; 8. OPPGI PAS
 | Mean | 50.0123711340206 |
 | 3rd Qu. | 53 |
 | Max. | 67 |
+| Not NA | 485 |
 
 
 ### WK18
@@ -222,6 +230,7 @@ QWFKC_9:WFKLINIKK_C; (QWFKB_9:WFKLINIKK_B); (QWFK_9:WFKLINIKK_A); ; 9. OPPGI PAS
 | Mean | 45.0474226804124 |
 | 3rd Qu. | 48 |
 | Max. | 63 |
+| Not NA | 485 |
 
 
 ### WK19
@@ -236,6 +245,7 @@ QWFKC_10:WFKLINIKK_C; (QWFKB_10:WFKLINIKK_B); (QWFK_10:WFKLINIKK_A); ; 10. OPPGI
 | Mean | 22.3340206185567 |
 | 3rd Qu. | 32 |
 | Max. | 37 |
+| Not NA | 485 |
 
 
 ### WK20
@@ -250,6 +260,7 @@ QWFKC_11:WFKLINIKK_C; (QWFKB_11:WFKLINIKK_B); (QWFK_11:WFKLINIKK_A); ; 11. OPPGI
 | Mean | 1491.64536082474 |
 | 3rd Qu. | 1579 |
 | Max. | 2163 |
+| Not NA | 485 |
 
 
 ### WK21
@@ -276,6 +287,7 @@ QWFKC_12:WFKLINIKK_C; (QWFKB_12:WFKLINIKK_B); (QWFK_12:WFKLINIKK_A); ; 12. OPPGI
 | 1.6 | 1 |
 | 3.3 | 2 |
 | 1.7 | 1 |
+| Not NA | 485 |
 | NA | 0 |
 
 
@@ -296,6 +308,7 @@ QWFKC_7_1:WFKLINIKK_C; (QWFKB_7_1:WFKLINIKK_B); Oppgi personens viserale fett (n
 | 11 | 2 |
 | 10 | 2 |
 | 9 | 1 |
+| Not NA | 395 |
 | NA | 90 |
 
 
@@ -312,6 +325,7 @@ QWFKC_13:WFKLINIKK_C; (QWFKB_13:WFKLINIKK_B); (QWFK_13:WFKLINIKK_A); SYSTOLISK; 
 | 3rd Qu. | 122 |
 | Max. | 159 |
 | NA's | 1 |
+| Not NA | 484 |
 
 
 ### WK23
@@ -327,6 +341,7 @@ QWFKC_13_1:WFKLINIKK_C; (QWFKB_13_1:WFKLINIKK_B); (QWFK_13_1:WFKLINIKK_A); DIAST
 | 3rd Qu. | 75 |
 | Max. | 94 |
 | NA's | 1 |
+| Not NA | 484 |
 
 
 ### WK24
@@ -342,6 +357,7 @@ QWFKC_14:WFKLINIKK_C; (QWFKB_14:WFKLINIKK_B); (QWFK_14:WFKLINIKK_A); SYSTOLISK; 
 | 3rd Qu. | 121 |
 | Max. | 141 |
 | NA's | 1 |
+| Not NA | 484 |
 
 
 ### WK25
@@ -357,6 +373,7 @@ QWFKC_14_1:WFKLINIKK_C; (QWFKB_14_1:WFKLINIKK_B); (QWFK_14_1:WFKLINIKK_A); DIAST
 | 3rd Qu. | 74 |
 | Max. | 93 |
 | NA's | 1 |
+| Not NA | 484 |
 
 
 ### WK26
@@ -372,6 +389,7 @@ QWFKC_15:WFKLINIKK_C; (QWFKB_15:WFKLINIKK_B); (QWFK_15:WFKLINIKK_A); SYSTOLISK; 
 | 3rd Qu. | 119 |
 | Max. | 148 |
 | NA's | 1 |
+| Not NA | 484 |
 
 
 ### WK27
@@ -387,6 +405,7 @@ QWFKC_15_1:WFKLINIKK_C; (QWFKB_15_1:WFKLINIKK_B); (QWFK_15_1:WFKLINIKK_A); DIAST
 | 3rd Qu. | 73.25 |
 | Max. | 94 |
 | NA's | 1 |
+| Not NA | 484 |
 
 
 ### WK28
@@ -402,6 +421,7 @@ QWFKC_16:WFKLINIKK_C; (QWFKB_16:WFKLINIKK_B); (QWFK_16:WFKLINIKK_A); SYSTOLISK; 
 | 3rd Qu. | 120 |
 | Max. | 146 |
 | NA's | 1 |
+| Not NA | 484 |
 
 
 ### WK29
@@ -417,6 +437,7 @@ QWFKC_16_1:WFKLINIKK_C; (QWFKB_16_1:WFKLINIKK_B); (QWFK_16_1:WFKLINIKK_A); DIAST
 | 3rd Qu. | 74 |
 | Max. | 92 |
 | NA's | 1 |
+| Not NA | 484 |
 
 
 ### WK31
@@ -431,6 +452,7 @@ QWFKC_16_2:WFKLINIKK_C; (QWFKB_16_2:WFKLINIKK_B); (QWFK_16_2:WFKLINIKK_A); OPPGI
 | Mean | 67.2144329896907 |
 | 3rd Qu. | 73 |
 | Max. | 102 |
+| Not NA | 485 |
 
 
 ### WK93
@@ -441,6 +463,7 @@ QWFKC_52:WFKLINIKK_C; Brukte du hormonell prevensjon før du deltok i denne unde
 | -------- | - |
 | Nei | 55 |
 | Ja | 84 |
+| Not NA | 139 |
 | NA | 346 |
 
 
@@ -458,6 +481,7 @@ QWFKC_52_1:WFKLINIKK_C; I hvor mange år har du totalt brukt hormonell prevensjo
 | 6 | 5 |
 | 2 | 18 |
 | 7 | 1 |
+| Not NA | 82 |
 | NA | 403 |
 
 
@@ -468,6 +492,7 @@ QWFKC_52_2_1:WFKLINIKK_C; Prevensjon.Hvorfor startet du på hormonell prevensjon
 | Category | n |
 | -------- | - |
 | 1 | 43 |
+| Not NA | 43 |
 | NA | 442 |
 
 
@@ -478,6 +503,7 @@ QWFKC_52_2_2:WFKLINIKK_C; Uren hud.Hvorfor startet du på hormonell prevensjon?;
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 477 |
 
 
@@ -488,6 +514,7 @@ QWFKC_52_2_3:WFKLINIKK_C; Menstruasjonssmerter.Hvorfor startet du på hormonell 
 | Category | n |
 | -------- | - |
 | 1 | 42 |
+| Not NA | 42 |
 | NA | 443 |
 
 
@@ -498,6 +525,7 @@ QWFKC_52_2_4:WFKLINIKK_C; Kraftige blødninger.Hvorfor startet du på hormonell 
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 476 |
 
 
@@ -508,6 +536,7 @@ QWFKC_52_2_5:WFKLINIKK_C; Uregelmessige menstruasjoner.Hvorfor startet du på ho
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 474 |
 
 
@@ -517,6 +546,7 @@ QWFKC_52_2_6:WFKLINIKK_C; Endometriose.Hvorfor startet du på hormonell prevensj
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -526,6 +556,7 @@ QWFKC_52_2_7:WFKLINIKK_C; PCOS.Hvorfor startet du på hormonell prevensjon?; 52.
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -536,6 +567,7 @@ QWFKC_52_2_8:WFKLINIKK_C; Ønske om å styre menstruasjonen.Hvorfor startet du p
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 465 |
 
 
@@ -546,6 +578,7 @@ QWFKC_52_2_9:WFKLINIKK_C; Annet.Hvorfor startet du på hormonell prevensjon?; 52
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 483 |
 
 
@@ -558,6 +591,7 @@ QWFKC_52_3:WFKLINIKK_C; Hvis du bruker/brukte p-pille, hvordan bruker du den?; 5
 | Kontinuerlig: jeg har ikke pause | 34 |
 | 21/7  jeg tar ett brett med piller og har deretter 7 dager pause | 27 |
 | Annet | 4 |
+| Not NA | 65 |
 | NA | 420 |
 
 
@@ -570,6 +604,7 @@ QWFKC_52_4:WFKLINIKK_C; Hadde du regelmessig syklus før du startet på hormonel
 | Ja | 59 |
 | Nei | 19 |
 | Vet ikke | 3 |
+| Not NA | 81 |
 | NA | 404 |
 
 
@@ -582,6 +617,7 @@ QWFKC_52_5:WFKLINIKK_C; Under pause fra bruken av hormonell prevensjon (pausen i
 | Ja | 73 |
 | Vet ikke | 1 |
 | Nei | 8 |
+| Not NA | 82 |
 | NA | 403 |
 
 
@@ -592,6 +628,7 @@ QWFKC_53_1:WFKLINIKK_C; Nei.Har du vært operert i magen eller i bekkenet?; 53. 
 | Category | n |
 | -------- | - |
 | 1 | 132 |
+| Not NA | 132 |
 | NA | 353 |
 
 
@@ -602,6 +639,7 @@ QWFKC_53_2:WFKLINIKK_C; Ja, tarmoperasjon.Har du vært operert i magen eller i b
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 482 |
 
 
@@ -611,6 +649,7 @@ QWFKC_53_3:WFKLINIKK_C; Ja, i eggstokkene.Har du vært operert i magen eller i b
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -620,6 +659,7 @@ QWFKC_53_4:WFKLINIKK_C; Ja, i egglederen.Har du vært operert i magen eller i be
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -631,6 +671,7 @@ QWFKC_54:WFKLINIKK_C; Har du tidligere fått kjemoterapi?; 54. Spørsmål stille
 | -------- | - |
 | Nei | 135 |
 | Ja | 1 |
+| Not NA | 136 |
 | NA | 349 |
 
 
@@ -643,6 +684,7 @@ QWFKC_55:WFKLINIKK_C; Hvor gammel var din mor da hun kom i overgangsalderen?; 55
 | VET IKKE | 67 |
 | Over 50 år | 39 |
 | 45 - 50 år | 13 |
+| Not NA | 119 |
 | NA | 366 |
 
 
@@ -654,6 +696,7 @@ QWFKC_56:WFKLINIKK_C; Drikker du alkohol?; 56. Spørsmål stilles av kliniker
 | -------- | - |
 | Ja | 114 |
 | Nei | 21 |
+| Not NA | 135 |
 | NA | 350 |
 
 
@@ -675,6 +718,7 @@ QWFKC_56_1:WFKLINIKK_C; Hvor mange alkoholenheter drikker du i gjennomsnitt per 
 | 8 | 2 |
 | 9 | 1 |
 | 7 | 1 |
+| Not NA | 116 |
 | NA | 369 |
 
 
@@ -686,6 +730,7 @@ QWFKC_57:WFKLINIKK_C; Drikker du koffeinholdige drikkevarer som kaffe, te, brus,
 | -------- | - |
 | Ja | 120 |
 | Nei | 16 |
+| Not NA | 136 |
 | NA | 349 |
 
 
@@ -700,6 +745,7 @@ QWFKC_57_1:WFKLINIKK_C; Hvor mange enheter (glass/kopper) koffeinholdig drikkeva
 | 3 | 12 |
 | 4 | 5 |
 | 5 | 1 |
+| Not NA | 117 |
 | NA | 368 |
 
 
@@ -712,6 +758,7 @@ QWFKC_58:WFKLINIKK_C; Driver du med hard fysisk aktivitet på fritiden?; 58. Sp�
 | Nei | 56 |
 | Ja, under fem timer per uke | 39 |
 | Ja, over 5 timer per uke | 42 |
+| Not NA | 137 |
 | NA | 348 |
 
 
@@ -723,6 +770,7 @@ QWFKC_59:WFKLINIKK_C; Har du på noen tidspunkt forsøkt å bli gravid med en pa
 | -------- | - |
 | Nei | 133 |
 | Ja, 6-12 mnd | 1 |
+| Not NA | 134 |
 | NA | 351 |
 
 
@@ -734,6 +782,7 @@ QWFKC_60:WFKLINIKK_C; Har du tidligere hatt en underlivsinfeksjon?; 60. Spørsm�
 | -------- | - |
 | Nei (0 infeksjoner) | 127 |
 | Ja, 1-2 ganger | 9 |
+| Not NA | 136 |
 | NA | 349 |
 
 
@@ -744,6 +793,7 @@ QWFKC_61:WFKLINIKK_C; Har du vært gravid utenfor livmoren?; 61. Spørsmål stil
 | Category | n |
 | -------- | - |
 | Nei | 136 |
+| Not NA | 136 |
 | NA | 349 |
 
 
@@ -755,6 +805,7 @@ QWFKC_62:WFKLINIKK_C; Har du smerter selv om du bruker smertestillende under men
 | -------- | - |
 | Nei | 85 |
 | Ja, uansett om jeg bruker smertestillende eller ikke | 46 |
+| Not NA | 131 |
 | NA | 354 |
 
 
@@ -768,6 +819,7 @@ QWFKC_63:WFKLINIKK_C; Har du smerter omkring menstruasjon hvis du ikke bruker sm
 | Jeg har ikke vondt | 25 |
 | Ja, Jeg har så vondt at jeg ofte er sengeliggende | 10 |
 | Ja, jeg har så vondt at jeg må redusere vanlig daglig aktivitet (men er ikke sengeliggende) | 42 |
+| Not NA | 135 |
 | NA | 350 |
 
 
@@ -788,6 +840,7 @@ QWFKC_64:WFKLINIKK_C; På en skala fra 0-10 hvor 10 er det mest smertefulle du k
 | 4 | 20 |
 | 7 | 11 |
 | 10 | 1 |
+| Not NA | 136 |
 | NA | 349 |
 
 
@@ -798,6 +851,7 @@ QWFKC_65_1:WFKLINIKK_C; Jeg har ikke menstruasjonssmerter.Ved menstruasjonssmert
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 470 |
 
 
@@ -808,6 +862,7 @@ QWFKC_65_2:WFKLINIKK_C; Nederst i magen.Ved menstruasjonssmerter, hvor har du vo
 | Category | n |
 | -------- | - |
 | 1 | 112 |
+| Not NA | 112 |
 | NA | 373 |
 
 
@@ -818,6 +873,7 @@ QWFKC_65_3:WFKLINIKK_C; I korsryggen.Ved menstruasjonssmerter, hvor har du vondt
 | Category | n |
 | -------- | - |
 | 1 | 57 |
+| Not NA | 57 |
 | NA | 428 |
 
 
@@ -828,6 +884,7 @@ QWFKC_65_4:WFKLINIKK_C; Nedover langs bena.Ved menstruasjonssmerter, hvor har du
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 469 |
 
 
@@ -838,6 +895,7 @@ QWFKC_65_5:WFKLINIKK_C; Når jeg går på do for å late vannet.Ved menstruasjon
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 479 |
 
 
@@ -848,6 +906,7 @@ QWFKC_65_6:WFKLINIKK_C; Når jeg går på do for å ha avføring.Ved menstruasjo
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 468 |
 
 
@@ -858,6 +917,7 @@ QWFKC_65_7:WFKLINIKK_C; Andre steder.Ved menstruasjonssmerter, hvor har du vondt
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 472 |
 
 
@@ -869,6 +929,7 @@ QWFKC_66:WFKLINIKK_C; Er du borte fra jobb eller skole pga menstruasjonssmerter?
 | -------- | - |
 | Nei | 111 |
 | Ja | 23 |
+| Not NA | 134 |
 | NA | 351 |
 
 
@@ -882,6 +943,7 @@ QWFKC_66_1:WFKLINIKK_C; Hvor mange dager er du hjemme pga menstruasjonssmerter p
 | 2 | 7 |
 | 1 | 9 |
 | 3 | 1 |
+| Not NA | 39 |
 | NA | 446 |
 
 
@@ -893,6 +955,7 @@ QWFKC_67:WFKLINIKK_C; Har du smerter under menstruasjon selv om du bruker hormon
 | -------- | - |
 | Ja | 34 |
 | Nei | 51 |
+| Not NA | 85 |
 | NA | 400 |
 
 
@@ -903,6 +966,7 @@ QWFKC_67_1_1:WFKLINIKK_C; I magen.Hvor har du smerter?; 67. Spørsmål stilles a
 | Category | n |
 | -------- | - |
 | 1 | 35 |
+| Not NA | 35 |
 | NA | 450 |
 
 
@@ -913,6 +977,7 @@ QWFKC_67_1_2:WFKLINIKK_C; I korsryggen.Hvor har du smerter?; 67. Spørsmål stil
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 467 |
 
 
@@ -923,6 +988,7 @@ QWFKC_67_1_3:WFKLINIKK_C; Nedover bena.Hvor har du smerter?; 67. Spørsmål stil
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 484 |
 
 
@@ -933,6 +999,7 @@ QWFKC_67_1_4:WFKLINIKK_C; Andre steder.Hvor har du smerter?; 67. Spørsmål stil
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 483 |
 
 
@@ -943,6 +1010,7 @@ QWFKC_68_1:WFKLINIKK_C; Paracet / Pinex.Hvis du bruker smertestillende i forbind
 | Category | n |
 | -------- | - |
 | 1 | 83 |
+| Not NA | 83 |
 | NA | 402 |
 
 
@@ -953,6 +1021,7 @@ QWFKC_68_2:WFKLINIKK_C; Ibux.Hvis du bruker smertestillende i forbindelse med me
 | Category | n |
 | -------- | - |
 | 1 | 69 |
+| Not NA | 69 |
 | NA | 416 |
 
 
@@ -963,6 +1032,7 @@ QWFKC_68_3:WFKLINIKK_C; Vimovo / Naproxen.Hvis du bruker smertestillende i forbi
 | Category | n |
 | -------- | - |
 | 1 | 25 |
+| Not NA | 25 |
 | NA | 460 |
 
 
@@ -973,6 +1043,7 @@ QWFKC_68_4:WFKLINIKK_C; Voltaren / Diclofenac.Hvis du bruker smertestillende i f
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 481 |
 
 
@@ -982,6 +1053,7 @@ QWFKC_68_5:WFKLINIKK_C; Paralgin Forte / Pinex Forte.Hvis du bruker smertestille
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -991,6 +1063,7 @@ QWFKC_68_6:WFKLINIKK_C; Tramadol.Hvis du bruker smertestillende i forbindelse me
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1000,6 +1073,7 @@ QWFKC_68_7:WFKLINIKK_C; Oxynorm / Oxycontin.Hvis du bruker smertestillende i for
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1010,6 +1084,7 @@ QWFKC_68_8:WFKLINIKK_C; Annet.Hvis du bruker smertestillende i forbindelse med m
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 483 |
 
 
@@ -1021,6 +1096,7 @@ QWFKC_69:WFKLINIKK_C; Har du brukt kontinuerlig prevensjon i minst 6 måneder ut
 | -------- | - |
 | Nei | 84 |
 | Ja | 11 |
+| Not NA | 95 |
 | NA | 390 |
 
 
@@ -1032,6 +1108,7 @@ QWFKC_70:WFKLINIKK_C; Når du har menstruasjon, føler du deg mer trett og slite
 | -------- | - |
 | Ja | 79 |
 | Nei | 57 |
+| Not NA | 136 |
 | NA | 349 |
 
 
@@ -1043,6 +1120,7 @@ QWFKC_71:WFKLINIKK_C; Har du smerter under samleie?; 71. Spørsmål stilles av k
 | -------- | - |
 | Nei | 85 |
 | Ja | 23 |
+| Not NA | 108 |
 | NA | 377 |
 
 
@@ -1053,6 +1131,7 @@ QWFKC_71_1_1:WFKLINIKK_C; Smerter ved inntrengning.Hva slags type smerter er det
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 474 |
 
 
@@ -1063,6 +1142,7 @@ QWFKC_71_1_2:WFKLINIKK_C; Støtsmerter.Hva slags type smerter er det snakk om?; 
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 469 |
 
 
@@ -1073,6 +1153,7 @@ QWFKC_71_1_3:WFKLINIKK_C; Smerter i etterkant.Hva slags type smerter er det snak
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 478 |
 
 
@@ -1084,6 +1165,7 @@ QWFKC_72:WFKLINIKK_C; Har du blitt henvist til, eller undersøkt av gynekolog pg
 | -------- | - |
 | Nei | 129 |
 | Ja | 7 |
+| Not NA | 136 |
 | NA | 349 |
 
 
@@ -1096,6 +1178,7 @@ QWFKC_73:WFKLINIKK_C; Har din mor eller søster endometriose eller adenomyose?; 
 | Nei | 109 |
 | Vet ikke | 14 |
 | Ja | 12 |
+| Not NA | 135 |
 | NA | 350 |
 
 
@@ -1108,6 +1191,7 @@ QWFKC_74:WFKLINIKK_C; Har din mor eller søster plagsomme menstruasjonssmerter?;
 | Nei | 64 |
 | Ja | 52 |
 | Vet ikke | 20 |
+| Not NA | 136 |
 | NA | 349 |
 
 
@@ -1121,6 +1205,7 @@ QWFKC_75:WFKLINIKK_C; Har du blitt diagnostisert med endometriose?; 75. Spørsm�
 | Nei, men legen min mistenker at jeg har det | 4 |
 | Nei, men jeg mistenker at jeg har det | 8 |
 | JA | 1 |
+| Not NA | 136 |
 | NA | 349 |
 
 
@@ -1130,6 +1215,7 @@ QWFKC_75_1_1:WFKLINIKK_C; Ved laparoskopisk kirurgi.Hvordan har du fått påvist
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1139,6 +1225,7 @@ QWFKC_75_1_2:WFKLINIKK_C; Innvendig ultralyd hos gynekolog.Hvordan har du fått 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1148,6 +1235,7 @@ QWFKC_75_1_3:WFKLINIKK_C; MR undersøkelse.Hvordan har du fått påvist dette?; 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1157,6 +1245,7 @@ QWFKC_75_1_4:WFKLINIKK_C; Etter annen kirurgi.Hvordan har du fått påvist dette
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1166,6 +1255,7 @@ QWFKC_75_1_5:WFKLINIKK_C; Annet.Hvordan har du fått påvist dette?; 75. Spørsm
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1175,6 +1265,7 @@ QWFKC_75_2:WFKLINIKK_C; Oppgi år for diagnose:; 75. Spørsmål stilles av klini
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1184,6 +1275,7 @@ QWFKC_75_3:WFKLINIKK_C; Oppgi måned for diagnose:; 75. Spørsmål stilles av kl
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1194,6 +1286,7 @@ QWFKC_76:WFKLINIKK_C; Har du blitt diagnostisert med adenomyose?; 76. Spørsmål
 | Category | n |
 | -------- | - |
 | Nei | 135 |
+| Not NA | 135 |
 | NA | 350 |
 
 
@@ -1203,6 +1296,7 @@ QWFKC_76_1_1:WFKLINIKK_C; Innvendig ultralyd undersøkelse hos gynekolog.Hvordan
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1212,6 +1306,7 @@ QWFKC_76_1_2:WFKLINIKK_C; Via MR undersøkelse.Hvordan har du fått påvist dett
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1221,6 +1316,7 @@ QWFKC_76_2:WFKLINIKK_C; Oppgi år for diagnose:; 76. Spørsmål stilles av klini
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1230,6 +1326,7 @@ QWFKC_76_3:WFKLINIKK_C; Oppgi måned for diagnose:; 76. Spørsmål stilles av kl
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1239,6 +1336,7 @@ QWFKC_77_1:WFKLINIKK_C; Muskelknuter.Har du blitt diagnostisert med noen av føl
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1248,6 +1346,7 @@ QWFKC_77_2:WFKLINIKK_C; Polypper i livmorslimhinnen.Har du blitt diagnostisert m
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1257,6 +1356,7 @@ QWFKC_77_3:WFKLINIKK_C; Hydrosalpinx.Har du blitt diagnostisert med noen av føl
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1266,6 +1366,7 @@ QWFKC_77_4:WFKLINIKK_C; Malformasjoner (bicorn uterus, septum).Har du blitt diag
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 485 |
 
 
@@ -1278,6 +1379,7 @@ QWFKC_78:WFKLINIKK_C; Alt i alt, hvor stressende er din jobbhverdag/skolehverdag
 | Veldig stressende | 31 |
 | Litt stressende | 100 |
 | Ikke stressende i det hele tatt | 5 |
+| Not NA | 136 |
 | NA | 349 |
 
 
@@ -1292,6 +1394,7 @@ AGE_YRS_WK;WFKLINIKK_C; (QWFKB_1:WFKLINIKK_B); (QWFK_1:WFKLINIKK_A);  BARNETS AL
 | 21 | 60 |
 | 19 | 103 |
 | 22 | 19 |
+| Not NA | 485 |
 | NA | 0 |
 
 

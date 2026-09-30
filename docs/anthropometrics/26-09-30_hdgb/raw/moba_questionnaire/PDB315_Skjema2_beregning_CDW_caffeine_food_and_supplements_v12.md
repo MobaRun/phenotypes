@@ -27,6 +27,7 @@
 | SKJEMA2DBG | 5564 |
 | SKJEMA2C | 18744 |
 | SKJEMA2W | 4836 |
+| Not NA | 87333 |
 | NA | 0 |
 
 
@@ -42,6 +43,7 @@ Kilojoules (kJ) from food and beverages (kJ/day) (M_KJ:KOST_B; (KJ:KOST_A); Ener
 | Mean | 9836.17054492574 |
 | 3rd Qu. | 11202.36 |
 | Max. | 118973.74 |
+| Not NA | 87333 |
 
 
 ### f_kcal
@@ -56,6 +58,7 @@ Kilocalories (kcal) from food and beverages (kcal/day) (M_KCAL:KOST_B; (KCAL:KOS
 | Mean | 2339.01304959179 |
 | 3rd Qu. | 2663.98 |
 | Max. | 28159.87 |
+| Not NA | 87333 |
 
 
 ### f_caff_tot
@@ -70,6 +73,7 @@ Total caffeine intake from food and beverages (mg/day)
 | Mean | 90.619733862343 |
 | 3rd Qu. | 124.99 |
 | Max. | 2676.5944 |
+| Not NA | 87333 |
 
 
 ### f_caff_gr1
@@ -84,6 +88,7 @@ Caffeine intake from Sandwich spread containing cocoa (mg/day)
 | Mean | 0.0783330104313375 |
 | 3rd Qu. | 0 |
 | Max. | 11.25 |
+| Not NA | 87333 |
 
 
 ### f_caff_gr2
@@ -103,6 +108,7 @@ Caffeine intake from Milk containing cocoa (mg/day)
 | 40.0001 | 13 |
 | 30 | 29 |
 | 20 | 100 |
+| Not NA | 87333 |
 | NA | 0 |
 
 
@@ -123,6 +129,7 @@ Caffeine intake from Caffeinated soft drink, artificial sweetened (mg/day)
 | 59.2501 | 2639 |
 | 177.7503 | 327 |
 | 237.0003 | 241 |
+| Not NA | 87333 |
 | NA | 0 |
 
 
@@ -138,6 +145,7 @@ Caffeine intake from Caffeinated soft drink, sugar sweetened (cola- and energy d
 | Mean | 6.67082662681919 |
 | 3rd Qu. | 4.2206 |
 | Max. | 537.0008 |
+| Not NA | 87333 |
 
 
 ### f_caff_gr5
@@ -152,6 +160,7 @@ Caffeine intake from Coffee (filtered, percolated/pressed, powdered instant and 
 | Mean | 45.4654218886332 |
 | 3rd Qu. | 61.9748 |
 | Max. | 1840.0825 |
+| Not NA | 87333 |
 
 
 ### f_caff_gr6
@@ -171,6 +180,7 @@ Caffeine intake from Decaffeinated coffee (mg/day)
 | 18 | 8 |
 | 12 | 37 |
 | 24 | 3 |
+| Not NA | 87333 |
 | NA | 0 |
 
 
@@ -191,6 +201,7 @@ Caffeine intake from Black tea (mg/day)
 | 1.3151 | 5663 |
 | 240.0003 | 156 |
 | 320.0005 | 63 |
+| Not NA | 87333 |
 | NA | 0 |
 
 
@@ -208,6 +219,7 @@ Caffeine intake from Dessert containing cocoa (mg/day)
 | 1.9589 | 58 |
 | 2.5 | 70 |
 | 5 | 10 |
+| Not NA | 87333 |
 | NA | 0 |
 
 
@@ -227,6 +239,7 @@ Caffeine intake from Cake containing cocoa (mg/day)
 | 3.8395 | 44 |
 | 9.8 | 13 |
 | 14.7 | 8 |
+| Not NA | 87333 |
 | NA | 0 |
 
 
@@ -242,6 +255,7 @@ Caffeine intake from Chocolate (mg/day)
 | Mean | 6.14627464990324 |
 | 3rd Qu. | 9.474 |
 | Max. | 106.0002 |
+| Not NA | 87333 |
 
 
 ### f_caff_gr11
@@ -260,6 +274,7 @@ Caffeine intake from Sweets containing cocoa (mg/day)
 | 11.256 | 133 |
 | 22.512 | 42 |
 | 16.884 | 48 |
+| Not NA | 87333 |
 | NA | 0 |
 
 
@@ -280,6 +295,7 @@ Caffeine intake from Cappuccino and cafe latte (coffe with milk) (mg/day)
 | 420.0006 | 4 |
 | 210.0003 | 24 |
 | 315.0005 | 8 |
+| Not NA | 87333 |
 | NA | 0 |
 
 
@@ -295,5 +311,6 @@ Caffeine intake from Supplements (mg/day). NOTE: Calculations are based on an ol
 | Mean | 0.0151136397467166 |
 | 3rd Qu. | 0 |
 | Max. | 90.5999 |
+| Not NA | 87333 |
 
 

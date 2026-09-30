@@ -607,6 +607,7 @@
 | 1 | 53799 |
 | 2 | 807 |
 | 3 | 5 |
+| Not NA | 54611 |
 | NA | 0 |
 
 
@@ -619,6 +620,7 @@
 | SKJEMA7B | 4758 |
 | SKJEMA7A | 2037 |
 | SKJEMA7W | 669 |
+| Not NA | 54611 |
 | NA | 0 |
 
 
@@ -635,6 +637,7 @@ JJ11:SKJEMA7W; (Q__0_3:SKJEMA7C); (Q__0_3:SKJEMA7B); (Q__0_3:SKJEMA7A); Year; . 
 | 3rd Qu. | 2014 |
 | Max. | 9999 |
 | NA's | 620 |
+| Not NA | 53991 |
 
 
 ### JJ324
@@ -650,6 +653,7 @@ Q_27_1:SKJEMA7A; Height; m; 27. What is the child`s height and weight?
 | 3rd Qu. | 1.31 |
 | Max. | 1.5 |
 | NA's | 52848 |
+| Not NA | 1763 |
 
 
 ### JJ325
@@ -665,6 +669,7 @@ Q__1_2:SKJEMA7W; (Q__1_2:SKJEMA7C); (Q__1_2:SKJEMA7B); (Q_27_2:SKJEMA7A); Weight
 | 3rd Qu. | 27.4 |
 | Max. | 99.9 |
 | NA's | 4614 |
+| Not NA | 49997 |
 
 
 ### JJ329
@@ -676,6 +681,7 @@ Q_27_4:SKJEMA7A; ; 27. What is the child`s height and weight?
 | Measured myself | 1355 |
 | Measured by doctor/school nurse | 348 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1705 |
 | NA | 52906 |
 
 
@@ -692,6 +698,7 @@ Q__1_1:SKJEMA7W; (Q__1_1:SKJEMA7C); (Q__1_1:SKJEMA7B); Height (cm); . Child‘s 
 | 3rd Qu. | 130 |
 | Max. | 455 |
 | NA's | 5336 |
+| Not NA | 49275 |
 
 
 ### JJ281
@@ -707,6 +714,7 @@ Q__3_1:SKJEMA7W; (Q__3_1:SKJEMA7C); (Q__3_1:SKJEMA7B); (Q__8_1:SKJEMA7A); Summer
 | 8-10 hours a week | 7720 |
 | Less than 1 hour a week | 1556 |
 | More than 1 check box filled in | 17 |
+| Not NA | 53815 |
 | NA | 796 |
 
 
@@ -723,6 +731,7 @@ Q__3_2:SKJEMA7W; (Q__3_2:SKJEMA7C); (Q__3_2:SKJEMA7B); (Q__8_2:SKJEMA7A); Winter
 | Less than 1 hour a week | 1525 |
 | 11 hours a week or more | 2102 |
 | More than 1 check box filled in | 27 |
+| Not NA | 53807 |
 | NA | 804 |
 
 
@@ -739,6 +748,7 @@ Q__4_1:SKJEMA7W; (Q__4_1:SKJEMA7C); (Q__4_1:SKJEMA7B); (Q__9_1:SKJEMA7A); Summer
 | 3rd Qu. | 5 |
 | Max. | 80 |
 | NA's | 534 |
+| Not NA | 54077 |
 
 
 ### JJ284
@@ -754,6 +764,7 @@ Q__4_2:SKJEMA7W; (Q__4_2:SKJEMA7C); (Q__4_2:SKJEMA7B); (Q__9_2:SKJEMA7A); Winter
 | 3rd Qu. | 3 |
 | Max. | 70 |
 | NA's | 554 |
+| Not NA | 54057 |
 
 
 ### JJ409
@@ -769,6 +780,7 @@ Q__2:SKJEMA7W; (Q__2:SKJEMA7C); (Q__2:SKJEMA7B); Times per week; . Outside of sc
 | 3rd Qu. | 5 |
 | Max. | 99 |
 | NA's | 2618 |
+| Not NA | 51993 |
 
 
 ### JJ285
@@ -782,6 +794,7 @@ Q__5_1:SKJEMA7W; (Q__5_1:SKJEMA7C); (Q__5_1:SKJEMA7B); (Q_10_1:SKJEMA7A); Summer
 | Less than 1 hour a day | 28183 |
 | 5 hours or more a day | 43 |
 | More than 1 check box filled in | 3 |
+| Not NA | 54276 |
 | NA | 335 |
 
 
@@ -796,6 +809,7 @@ Q__5_2:SKJEMA7W; (Q__5_2:SKJEMA7C); (Q__5_2:SKJEMA7B); (Q_10_2:SKJEMA7A); Winter
 | Less than 1 hour a day | 8413 |
 | 5 hours or more a day | 133 |
 | More than 1 check box filled in | 5 |
+| Not NA | 54186 |
 | NA | 425 |
 
 
@@ -812,6 +826,7 @@ Q__6:SKJEMA7W; (Q__6:SKJEMA7C); (Q__6:SKJEMA7B); (Q__7_1:SKJEMA7A); Days; . How 
 | 3rd Qu. | 2 |
 | Max. | 60 |
 | NA's | 501 |
+| Not NA | 54110 |
 
 
 ### JJ280
@@ -837,6 +852,7 @@ Q__7_2:SKJEMA7A; ; 7. How many schooldays has the child missed because of illnes
 | 12 | 5 |
 | 21 | 2 |
 | 15 | 4 |
+| Not NA | 1774 |
 | NA | 52837 |
 
 
@@ -848,6 +864,7 @@ Q_15:SKJEMA7A; ; 15. Do you live with the childs father
 | -------- | - |
 | Yes | 1677 |
 | No | 280 |
+| Not NA | 1957 |
 | NA | 52654 |
 
 
@@ -860,6 +877,7 @@ Q_16_1:SKJEMA7A; Mother; 16. If no, how much time does your child spend with his
 | More than half the time | 213 |
 | Roughly half the time | 79 |
 | Less than half the time | 6 |
+| Not NA | 298 |
 | NA | 54313 |
 
 
@@ -875,6 +893,7 @@ Q_16_2:SKJEMA7A; Father; 16. If no, how much time does your child spend with his
 | More than half the time | 11 |
 | Seldom | 36 |
 | More than 1 check box filled in | 3 |
+| Not NA | 308 |
 | NA | 54303 |
 
 
@@ -887,6 +906,7 @@ Q_11_1:SKJEMA7W; (Q_11_1:SKJEMA7C); (Q_11_1:SKJEMA7B); ; . Are you living togeth
 | Yes | 46495 |
 | No | 6001 |
 | More than 1 check box filled in | 9 |
+| Not NA | 52505 |
 | NA | 2106 |
 
 
@@ -900,6 +920,7 @@ Q_11_2:SKJEMA7W; (Q_11_2:SKJEMA7C); (Q_11_2:SKJEMA7B); If not, how much of the t
 | Half the time or more | 3032 |
 | More than 1 check box filled in | 9 |
 | Less than half the time | 191 |
+| Not NA | 5885 |
 | NA | 48726 |
 
 
@@ -916,6 +937,7 @@ Q_12:SKJEMA7W; (Q_12:SKJEMA7C); (Q_12:SKJEMA7B); Year; . When did you move to yo
 | 3rd Qu. | 2009 |
 | Max. | 2016 |
 | NA's | 2496 |
+| Not NA | 52115 |
 
 
 ### JJ417
@@ -940,6 +962,7 @@ Q_13:SKJEMA7W; (Q_13:SKJEMA7C); (Q_13:SKJEMA7B); Floor (write 0 for basement or 
 | 12 | 3 |
 | 10 | 4 |
 | 19 | 1 |
+| Not NA | 52175 |
 | NA | 2436 |
 
 
@@ -956,6 +979,7 @@ Q_14:SKJEMA7A; ; 14. How many hours does the child on average sleep per night on
 | 12 | 39 |
 | 8 | 32 |
 | 17 | 1 |
+| Not NA | 1950 |
 | NA | 52661 |
 
 
@@ -975,6 +999,7 @@ Q_14:SKJEMA7W; (Q_14:SKJEMA7C); (Q_14:SKJEMA7B); ; . How many hours does the chi
 | 8 hours or less + 9 hours | 9 |
 | 11 hours + 12 hours or more | 19 |
 | More than 1 check box filled in | 4 |
+| Not NA | 52198 |
 | NA | 2413 |
 
 
@@ -990,6 +1015,7 @@ Q_15:SKJEMA7W; (Q_15:SKJEMA7C); (Q_15:SKJEMA7B); ; . How often does the child sn
 | Almost every night | 1237 |
 | Several nights a week | 3498 |
 | More than 1 check box filled in | 34 |
+| Not NA | 51778 |
 | NA | 2833 |
 
 
@@ -1006,6 +1032,7 @@ Q_17_1:SKJEMA7W; (Q_17_1:SKJEMA7C); (Q_17_1:SKJEMA7B); (Q_17_1_1:SKJEMA7A); ; . 
 | (1+2) No + Yes, sometimes | 2 |
 | (1+2+3) No + Yes, sometimes + Yes, daily | 1 |
 | (1+3) No + Yes, daily | 2 |
+| Not NA | 54163 |
 | NA | 448 |
 
 
@@ -1022,6 +1049,7 @@ Q_17_3:SKJEMA7W; (Q_17_3:SKJEMA7C); (Q_17_3:SKJEMA7B); (Q_17_1_2:SKJEMA7A); ciga
 | 3rd Qu. | 12 |
 | Max. | 84 |
 | NA's | 51369 |
+| Not NA | 3242 |
 
 
 ### JJ302
@@ -1037,6 +1065,7 @@ Q_17_2:SKJEMA7W; (Q_17_2:SKJEMA7C); (Q_17_2:SKJEMA7B); (Q_17_1_3:SKJEMA7A); ciga
 | 3rd Qu. | 10 |
 | Max. | 95 |
 | NA's | 52154 |
+| Not NA | 2457 |
 
 
 ### JJ303
@@ -1051,6 +1080,7 @@ Q_18_1:SKJEMA7W; (Q_18_1:SKJEMA7C); (Q_18_1:SKJEMA7B); (Q_17_2_1:SKJEMA7A); ; . 
 | (1+3) No + Yes, daily | 7 |
 | (2+3) Yes, sometimes + Yes, daily | 7 |
 | (1+2) No + Yes, sometimes | 6 |
+| Not NA | 53191 |
 | NA | 1420 |
 
 
@@ -1067,6 +1097,7 @@ Q_18_3:SKJEMA7W; (Q_18_3:SKJEMA7C); (Q_18_3:SKJEMA7B); (Q_17_2_2:SKJEMA7A); ciga
 | 3rd Qu. | 15 |
 | Max. | 70 |
 | NA's | 50864 |
+| Not NA | 3747 |
 
 
 ### JJ305
@@ -1082,6 +1113,7 @@ Q_18_2:SKJEMA7W; (Q_18_2:SKJEMA7C); (Q_18_2:SKJEMA7B); (Q_17_2_3:SKJEMA7A); ciga
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 52840 |
+| Not NA | 1771 |
 
 
 ### JJ306
@@ -1093,6 +1125,7 @@ Q_21_1:SKJEMA7W; (Q_21_1:SKJEMA7C); (Q_21_1:SKJEMA7B); (Q_18:SKJEMA7A); ; . Duri
 | Yes | 40962 |
 | No | 12485 |
 | More than 1 check box filled in | 7 |
+| Not NA | 53454 |
 | NA | 1157 |
 
 
@@ -1105,6 +1138,7 @@ Q_21_2:SKJEMA7W; (Q_21_2:SKJEMA7C); (Q_21_2:SKJEMA7B); (Q_19:SKJEMA7A); If yes, 
 | No | 28091 |
 | Yes | 11999 |
 | More than 1 check box filled in | 35 |
+| Not NA | 40125 |
 | NA | 14486 |
 
 
@@ -1117,6 +1151,7 @@ Q_20:SKJEMA7A; ; 20. If yes, are you using a wood burning stove made before 1997
 | No | 695 |
 | Yes | 406 |
 | More than 1 check box filled in | 4 |
+| Not NA | 1105 |
 | NA | 53506 |
 
 
@@ -1131,6 +1166,7 @@ Q_21:SKJEMA7A; ; 21. During the last year, did you ever use an open fire?
 | Yes, sometimes | 330 |
 | More than 1 check box filled in | 1 |
 | Yes, often in the winter time | 74 |
+| Not NA | 1935 |
 | NA | 52676 |
 
 
@@ -1142,6 +1178,7 @@ Q_22:SKJEMA7A; ; 22. Did you use wood-burning heating in the child`s home in the
 | -------- | - |
 | No | 596 |
 | Yes | 1345 |
+| Not NA | 1941 |
 | NA | 52670 |
 
 
@@ -1156,6 +1193,7 @@ Q_19:SKJEMA7W; (Q_19:SKJEMA7C); (Q_19:SKJEMA7B); ; . Did you ever burn wood (sto
 | Never | 9184 |
 | Seldom | 5668 |
 | More than 1 check box filled in | 16 |
+| Not NA | 51634 |
 | NA | 2977 |
 
 
@@ -1170,6 +1208,7 @@ Q_20:SKJEMA7W; (Q_20:SKJEMA7C); (Q_20:SKJEMA7B); ; . During the past year, did y
 | Sometimes | 4883 |
 | Often | 1117 |
 | More than 1 check box filled in | 12 |
+| Not NA | 51582 |
 | NA | 3029 |
 
 
@@ -1187,6 +1226,7 @@ Q_22:SKJEMA7W; (Q_22:SKJEMA7C); (Q_22:SKJEMA7B); ; . How often do you burn candl
 | More than once a day most of the days | 1097 |
 | Never/less than 4 times during half a year | 2466 |
 | More than 1 check box filled in | 70 |
+| Not NA | 51613 |
 | NA | 2998 |
 
 
@@ -1200,6 +1240,7 @@ Q_21_3:SKJEMA7W; (Q_21_3:SKJEMA7C); If yes, are you using a wood burning stove m
 | Yes | 5944 |
 | Do not know | 2199 |
 | More than 1 check box filled in | 49 |
+| Not NA | 25371 |
 | NA | 29240 |
 
 
@@ -1212,6 +1253,7 @@ Q_23_1:SKJEMA7W; (Q_23_1:SKJEMA7C); (Q_23_1:SKJEMA7B); (Q_23:SKJEMA7A); ; . Are 
 | No | 31175 |
 | Yes | 22357 |
 | More than 1 check box filled in | 20 |
+| Not NA | 53552 |
 | NA | 1059 |
 
 
@@ -1222,6 +1264,7 @@ Q_23_2_1:SKJEMA7W; (Q_23_2_1:SKJEMA7C); (Q_23_2_1:SKJEMA7B); (Q_24_1:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 7673 |
+| Not NA | 7673 |
 | NA | 46938 |
 
 
@@ -1232,6 +1275,7 @@ Q_23_2_4:SKJEMA7W; (Q_23_2_4:SKJEMA7C); (Q_23_2_4:SKJEMA7B); (Q_24_2:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 747 |
+| Not NA | 747 |
 | NA | 53864 |
 
 
@@ -1242,6 +1286,7 @@ Q_23_2_2:SKJEMA7W; (Q_23_2_2:SKJEMA7C); (Q_23_2_2:SKJEMA7B); (Q_24_3:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 13465 |
+| Not NA | 13465 |
 | NA | 41146 |
 
 
@@ -1252,6 +1297,7 @@ Q_23_2_5:SKJEMA7W; (Q_23_2_5:SKJEMA7C); (Q_23_2_5:SKJEMA7B); (Q_24_4:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 1132 |
+| Not NA | 1132 |
 | NA | 53479 |
 
 
@@ -1262,6 +1308,7 @@ Q_23_2_3:SKJEMA7W; (Q_23_2_3:SKJEMA7C); (Q_23_2_3:SKJEMA7B); (Q_24_5:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 4394 |
+| Not NA | 4394 |
 | NA | 50217 |
 
 
@@ -1274,6 +1321,7 @@ Q_24_1:SKJEMA7W; (Q_24_1:SKJEMA7C); (Q_24_1:SKJEMA7B); (Q_25:SKJEMA7A); ; . Is t
 | No | 47968 |
 | Yes | 5481 |
 | More than 1 check box filled in | 3 |
+| Not NA | 53452 |
 | NA | 1159 |
 
 
@@ -1284,6 +1332,7 @@ Q_24_2_1:SKJEMA7W; (Q_24_2_1:SKJEMA7C); (Q_24_2_1:SKJEMA7B); (Q_26_1:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 2489 |
+| Not NA | 2489 |
 | NA | 52122 |
 
 
@@ -1294,6 +1343,7 @@ Q_24_2_2:SKJEMA7W; (Q_24_2_2:SKJEMA7C); (Q_24_2_2:SKJEMA7B); (Q_26_2:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 365 |
+| Not NA | 365 |
 | NA | 54246 |
 
 
@@ -1304,6 +1354,7 @@ Q_24_2_5:SKJEMA7W; (Q_24_2_5:SKJEMA7C); (Q_24_2_5:SKJEMA7B); (Q_26_3:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 1600 |
+| Not NA | 1600 |
 | NA | 53011 |
 
 
@@ -1314,6 +1365,7 @@ Q_24_2_3:SKJEMA7W; (Q_24_2_3:SKJEMA7C); (Q_24_2_3:SKJEMA7B); (Q_26_4:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 1826 |
+| Not NA | 1826 |
 | NA | 52785 |
 
 
@@ -1324,6 +1376,7 @@ Q_24_2_4:SKJEMA7W; (Q_24_2_4:SKJEMA7C); (Q_24_2_4:SKJEMA7B); (Q_26_5:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 1348 |
+| Not NA | 1348 |
 | NA | 53263 |
 
 
@@ -1334,6 +1387,7 @@ Q_24_2_6:SKJEMA7W; (Q_24_2_6:SKJEMA7C); (Q_24_2_6:SKJEMA7B); (Q_26_6:SKJEMA7A); 
 | Category | n |
 | -------- | - |
 | 1 | 702 |
+| Not NA | 702 |
 | NA | 53909 |
 
 
@@ -1344,6 +1398,7 @@ Q_26_8_1:SKJEMA7B; (Q__1_1_1:SKJEMA7A); Asthma; Yes; 26. Does the child have or 
 | Category | n |
 | -------- | - |
 | 1 | 713 |
+| Not NA | 713 |
 | NA | 53898 |
 
 
@@ -1361,6 +1416,7 @@ Q_26_8_3:SKJEMA7W; (Q_26_8_3:SKJEMA7C); (Q_26_8_3:SKJEMA7B); (Q__1_1_2:SKJEMA7A)
 | 6 | 184 |
 | 5 | 217 |
 | 7 | 37 |
+| Not NA | 6458 |
 | NA | 48153 |
 
 
@@ -1378,6 +1434,7 @@ Q_26_8_5:SKJEMA7W; (Q_26_8_5:SKJEMA7C); (Q_26_8_5:SKJEMA7B); (Q__1_1_3:SKJEMA7A)
 | 1 | 115 |
 | 3 | 660 |
 | 0 | 11 |
+| Not NA | 3333 |
 | NA | 51278 |
 
 
@@ -1388,6 +1445,7 @@ Q__1_1_4:SKJEMA7A; Asthma;Yes, still has the health problem/illness; 1. Does the
 | Category | n |
 | -------- | - |
 | 1 | 134 |
+| Not NA | 134 |
 | NA | 54477 |
 
 
@@ -1398,6 +1456,7 @@ Q_26_8_2:SKJEMA7W; (Q_26_8_2:SKJEMA7C); (Q_26_8_2:SKJEMA7B); (Q__1_1_5:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 5968 |
+| Not NA | 5968 |
 | NA | 48643 |
 
 
@@ -1408,6 +1467,7 @@ Q__1_2_1:SKJEMA7A; Allergy in eyes or nose/hay fever; Yes; 1. Does the child hav
 | Category | n |
 | -------- | - |
 | 1 | 235 |
+| Not NA | 235 |
 | NA | 54376 |
 
 
@@ -1425,6 +1485,7 @@ Q__1_2_2:SKJEMA7A; Allergy in eyes or nose/hay fever; Health problems started at
 | 5 | 40 |
 | 6 | 49 |
 | 1 | 20 |
+| Not NA | 233 |
 | NA | 54378 |
 
 
@@ -1440,6 +1501,7 @@ Q__1_2_3:SKJEMA7A; Allergy in eyes or nose/hay fever; Child no longer has the he
 | 7 | 5 |
 | 4 | 1 |
 | 2 | 1 |
+| Not NA | 19 |
 | NA | 54592 |
 
 
@@ -1450,6 +1512,7 @@ Q__1_2_4:SKJEMA7A; Allergy in eyes or nose/hay fever; Yes, still has the health 
 | Category | n |
 | -------- | - |
 | 1 | 195 |
+| Not NA | 195 |
 | NA | 54416 |
 
 
@@ -1460,6 +1523,7 @@ Q__1_2_5:SKJEMA7A; Allergy in eyes or nose/hay fever; Confirmed by doctor; 1. Do
 | Category | n |
 | -------- | - |
 | 1 | 183 |
+| Not NA | 183 |
 | NA | 54428 |
 
 
@@ -1470,6 +1534,7 @@ Q_2611_1:SKJEMA7B; (Q__1_3_1:SKJEMA7A); Atopic eczema/atopic dermatitis; Yes; 26
 | Category | n |
 | -------- | - |
 | 1 | 1238 |
+| Not NA | 1238 |
 | NA | 53373 |
 
 
@@ -1487,6 +1552,7 @@ Q_26_11_3:SKJEMA7W; (Q_2611_3:SKJEMA7C); (Q_2611_3:SKJEMA7B); (Q__1_3_2:SKJEMA7A
 | 3 | 850 |
 | 5 | 388 |
 | 7 | 93 |
+| Not NA | 11631 |
 | NA | 42980 |
 
 
@@ -1505,6 +1571,7 @@ Q_26_11_5:SKJEMA7W; (Q_2611_5:SKJEMA7C); (Q_2611_5:SKJEMA7B); (Q__1_3_3:SKJEMA7A
 | 6 | 523 |
 | 7 | 121 |
 | 8 | 3 |
+| Not NA | 4537 |
 | NA | 50074 |
 
 
@@ -1515,6 +1582,7 @@ Q__1_3_4:SKJEMA7A; Atopic eczema/atopic dermatitis;Yes, still has the health pro
 | Category | n |
 | -------- | - |
 | 1 | 270 |
+| Not NA | 270 |
 | NA | 54341 |
 
 
@@ -1525,6 +1593,7 @@ Q_26_11_2:SKJEMA7W; (Q_2611_2:SKJEMA7C); (Q_2611_2:SKJEMA7B); (Q__1_3_5:SKJEMA7A
 | Category | n |
 | -------- | - |
 | 1 | 8368 |
+| Not NA | 8368 |
 | NA | 46243 |
 
 
@@ -1535,6 +1604,7 @@ Q__1_4_1:SKJEMA7A; Impaired hearing;Yes; 1. Does the child have or has he/she ev
 | Category | n |
 | -------- | - |
 | 1 | 132 |
+| Not NA | 132 |
 | NA | 54479 |
 
 
@@ -1552,6 +1622,7 @@ Q__1_4_2:SKJEMA7A; Impaired hearing; Health problems started at (age); 1. Does t
 | 2 | 22 |
 | 6 | 16 |
 | 0 | 2 |
+| Not NA | 131 |
 | NA | 54480 |
 
 
@@ -1569,6 +1640,7 @@ Q__1_4_3:SKJEMA7A; Impaired hearing; Child no longer has the health problem (age
 | 1 | 2 |
 | 2 | 2 |
 | 8 | 1 |
+| Not NA | 83 |
 | NA | 54528 |
 
 
@@ -1579,6 +1651,7 @@ Q__1_4_4:SKJEMA7A; Impaired hearing; Yes, still has the health problem/illness; 
 | Category | n |
 | -------- | - |
 | 1 | 45 |
+| Not NA | 45 |
 | NA | 54566 |
 
 
@@ -1589,6 +1662,7 @@ Q__1_4_5:SKJEMA7A; Impaired hearing; Confirmed by doctor; 1. Does the child have
 | Category | n |
 | -------- | - |
 | 1 | 105 |
+| Not NA | 105 |
 | NA | 54506 |
 
 
@@ -1599,6 +1673,7 @@ Q__1_5_1:SKJEMA7A; Impaired vision;Yes; 1. Does the child have or has he/she eve
 | Category | n |
 | -------- | - |
 | 1 | 92 |
+| Not NA | 92 |
 | NA | 54519 |
 
 
@@ -1616,6 +1691,7 @@ Q__1_5_2:SKJEMA7A; Impaired vision; Health problems started at (age); 1. Does th
 | 2 | 8 |
 | 0 | 8 |
 | 7 | 4 |
+| Not NA | 91 |
 | NA | 54520 |
 
 
@@ -1626,6 +1702,7 @@ Q__1_5_3:SKJEMA7A; Impaired vision; Child no longer has the health problem (age)
 | Category | n |
 | -------- | - |
 | 7 | 1 |
+| Not NA | 1 |
 | NA | 54610 |
 
 
@@ -1636,6 +1713,7 @@ Q__1_5_4:SKJEMA7A; Impaired vision;Yes, still has the health problem/illness; 1.
 | Category | n |
 | -------- | - |
 | 1 | 87 |
+| Not NA | 87 |
 | NA | 54524 |
 
 
@@ -1646,6 +1724,7 @@ Q__1_5_5:SKJEMA7A; Impaired vision; Confirmed by doctor; 1. Does the child have 
 | Category | n |
 | -------- | - |
 | 1 | 81 |
+| Not NA | 81 |
 | NA | 54530 |
 
 
@@ -1656,6 +1735,7 @@ Q_26_7_1:SKJEMA7B; (Q__1_6_1:SKJEMA7A); Overweight; Yes; 26. Does the child have
 | Category | n |
 | -------- | - |
 | 1 | 92 |
+| Not NA | 92 |
 | NA | 54519 |
 
 
@@ -1673,6 +1753,7 @@ Q_26_7_3:SKJEMA7W; (Q_26_7_3:SKJEMA7C); (Q_26_7_3:SKJEMA7B); (Q__1_6_2:SKJEMA7A)
 | 3 | 82 |
 | 7 | 19 |
 | 1 | 36 |
+| Not NA | 710 |
 | NA | 53901 |
 
 
@@ -1690,6 +1771,7 @@ Q_26_7_5:SKJEMA7W; (Q_26_7_5:SKJEMA7C); (Q_26_7_5:SKJEMA7B); (Q__1_6_3:SKJEMA7A)
 | 2 | 6 |
 | 3 | 9 |
 | 0 | 2 |
+| Not NA | 92 |
 | NA | 54519 |
 
 
@@ -1700,6 +1782,7 @@ Q__1_6_4:SKJEMA7A; Overweight; Yes, still has the health problem/illness; 1. Doe
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 54590 |
 
 
@@ -1710,6 +1793,7 @@ Q_26_7_2:SKJEMA7W; (Q_26_7_2:SKJEMA7C); (Q_26_7_2:SKJEMA7B); (Q__1_6_5:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 216 |
+| Not NA | 216 |
 | NA | 54395 |
 
 
@@ -1720,6 +1804,7 @@ Q__1_7_1:SKJEMA7A; Too little weight gain; Yes; 1. Does the child have or has he
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 54572 |
 
 
@@ -1737,6 +1822,7 @@ Q__1_7_2:SKJEMA7A; Too little weight gain; Health problems started at (age); 1. 
 | 3 | 1 |
 | 2 | 2 |
 | 6 | 2 |
+| Not NA | 38 |
 | NA | 54573 |
 
 
@@ -1753,6 +1839,7 @@ Q__1_7_3:SKJEMA7A; Too little weight gain; Child no longer has the health proble
 | 6 | 3 |
 | 3 | 2 |
 | 0 | 2 |
+| Not NA | 22 |
 | NA | 54589 |
 
 
@@ -1763,6 +1850,7 @@ Q__1_7_4:SKJEMA7A; Too little weight gain; Yes, still has the health problem/ill
 | Category | n |
 | -------- | - |
 | 1 | 12 |
+| Not NA | 12 |
 | NA | 54599 |
 
 
@@ -1773,6 +1861,7 @@ Q__1_7_5:SKJEMA7A; Too little weight gain; Confirmed by doctor; 1. Does the chil
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 54593 |
 
 
@@ -1783,6 +1872,7 @@ Q_26_1_1:SKJEMA7B; (Q__1_8_1:SKJEMA7A); Sleeping problems;Yes; 26. Does the chil
 | Category | n |
 | -------- | - |
 | 1 | 358 |
+| Not NA | 358 |
 | NA | 54253 |
 
 
@@ -1800,6 +1890,7 @@ Q_26_1_3:SKJEMA7W; (Q_26_1_3:SKJEMA7C); (Q_26_1_3:SKJEMA7B); (Q__1_8_2:SKJEMA7A)
 | 5 | 182 |
 | 4 | 187 |
 | 7 | 42 |
+| Not NA | 3813 |
 | NA | 50798 |
 
 
@@ -1817,6 +1908,7 @@ Q_26_1_5:SKJEMA7W; (Q_26_1_5:SKJEMA7C); (Q_26_1_5:SKJEMA7B); (Q__1_8_3:SKJEMA7A)
 | 1 | 258 |
 | 0 | 76 |
 | 7 | 138 |
+| Not NA | 2415 |
 | NA | 52196 |
 
 
@@ -1827,6 +1919,7 @@ Q__1_8_4:SKJEMA7A; Sleeping problems; Yes, still has the health problem/illness;
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 54598 |
 
 
@@ -1837,6 +1930,7 @@ Q_26_1_2:SKJEMA7W; (Q_26_1_2:SKJEMA7C); (Q_26_1_2:SKJEMA7B); (Q__1_8_5:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 1273 |
+| Not NA | 1273 |
 | NA | 53338 |
 
 
@@ -1847,6 +1941,7 @@ Q__1_9_1:SKJEMA7A; Rheumatoid arthritis/chronic joint inflammation; Yes; 1. Does
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -1860,6 +1955,7 @@ Q__1_9_2:SKJEMA7A; Rheumatoid arthritis/chronic joint inflammation; Health probl
 | 6 | 1 |
 | 3 | 1 |
 | 2 | 1 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -1870,6 +1966,7 @@ Q__1_9_3:SKJEMA7A; Rheumatoid arthritis/chronic joint inflammation; Child no lon
 | Category | n |
 | -------- | - |
 | 6 | 1 |
+| Not NA | 1 |
 | NA | 54610 |
 
 
@@ -1880,6 +1977,7 @@ Q__1_9_4:SKJEMA7A; Rheumatoid arthritis/chronic joint inflammation; Yes, still h
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 54608 |
 
 
@@ -1890,6 +1988,7 @@ Q__1_9_5:SKJEMA7A; Rheumatoid arthritis/chronic joint inflammation; Confirmed by
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -1900,6 +1999,7 @@ Q__110_1:SKJEMA7A; Heart defect; Yes; 1. Does the child have or has he/she ever 
 | Category | n |
 | -------- | - |
 | 1 | 25 |
+| Not NA | 25 |
 | NA | 54586 |
 
 
@@ -1916,6 +2016,7 @@ Q__110_2:SKJEMA7A; Heart defect; Health problems started at (age); 1. Does the c
 | 3 | 3 |
 | 4 | 1 |
 | 1 | 3 |
+| Not NA | 22 |
 | NA | 54589 |
 
 
@@ -1928,6 +2029,7 @@ Q__110_3:SKJEMA7A; Heart defect; Child no longer has the health problem (age); 1
 | 3 | 4 |
 | 6 | 2 |
 | 1 | 2 |
+| Not NA | 8 |
 | NA | 54603 |
 
 
@@ -1938,6 +2040,7 @@ Q__110_4:SKJEMA7A; Heart defect; Yes, still has the health problem/illness; 1. D
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 54598 |
 
 
@@ -1948,6 +2051,7 @@ Q__110_5:SKJEMA7A; Heart defect; Confirmed by doctor; 1. Does the child have or 
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 54593 |
 
 
@@ -1957,6 +2061,7 @@ Q__111_1:SKJEMA7A; Chron`s disease; Yes; 1. Does the child have or has he/she ev
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -1966,6 +2071,7 @@ Q__111_2:SKJEMA7A; Chron`s disease; Health problems started at (age); 1. Does th
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -1975,6 +2081,7 @@ Q__111_3:SKJEMA7A; Chron`s disease; Child no longer has the health problem (age)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -1984,6 +2091,7 @@ Q__111_4:SKJEMA7A; Chron`s disease; Yes, still has the health problem/illness; 1
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -1993,6 +2101,7 @@ Q__111_5:SKJEMA7A; Chron`s disease; Confirmed by doctor; 1. Does the child have 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2002,6 +2111,7 @@ Q__112_1:SKJEMA7A; Ulcerative colitis; Yes; 1. Does the child have or has he/she
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2011,6 +2121,7 @@ Q__112_2:SKJEMA7A; Ulcerative colitis; Health problems started at (age); 1. Does
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2020,6 +2131,7 @@ Q__112_3:SKJEMA7A; Ulcerative colitis; Child no longer has the health problem (a
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2029,6 +2141,7 @@ Q__112_4:SKJEMA7A; Ulcerative colitis; Yes, still has the health problem/illness
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2038,6 +2151,7 @@ Q__112_5:SKJEMA7A; Ulcerative colitis; Confirmed by doctor; 1. Does the child ha
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2047,6 +2161,7 @@ Q__113_1:SKJEMA7A; Chronic fatigue syndrome/ME; Yes; 1. Does the child have or h
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2056,6 +2171,7 @@ Q__113_2:SKJEMA7A; Chronic fatigue syndrome/ME; Health problems started at (age)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2065,6 +2181,7 @@ Q__113_3:SKJEMA7A; Chronic fatigue syndrome/ME; Child no longer has the health p
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2074,6 +2191,7 @@ Q__113_4:SKJEMA7A; Chronic fatigue syndrome/ME; Yes, still has the health proble
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2083,6 +2201,7 @@ Q__113_5:SKJEMA7A; Chronic fatigue syndrome/ME; Confirmed by doctor; 1. Does the
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2093,6 +2212,7 @@ Q__114_1:SKJEMA7A; Coeliac disease; Yes; 1. Does the child have or has he/she ev
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 54601 |
 
 
@@ -2107,6 +2227,7 @@ Q__114_2:SKJEMA7A; Coeliac disease; Health problems started at (age); 1. Does th
 | 0 | 1 |
 | 4 | 1 |
 | 5 | 2 |
+| Not NA | 10 |
 | NA | 54601 |
 
 
@@ -2116,6 +2237,7 @@ Q__114_3:SKJEMA7A; Coeliac disease; Child no longer has the health problem (age)
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2126,6 +2248,7 @@ Q__114_4:SKJEMA7A; Coeliac disease; Yes, still has the health problem/illness; 1
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 54602 |
 
 
@@ -2136,6 +2259,7 @@ Q__114_5:SKJEMA7A; Coeliac disease; Confirmed by doctor; 1. Does the child have 
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 54601 |
 
 
@@ -2146,6 +2270,7 @@ Q__115_1:SKJEMA7A; Diabetes; Yes; 1. Does the child have or has he/she ever had,
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 54609 |
 
 
@@ -2158,6 +2283,7 @@ Q__115_2:SKJEMA7A; Diabetes; Health problems started at (age); 1. Does the child
 | 7 | 1 |
 | 4 | 1 |
 | 1 | 1 |
+| Not NA | 3 |
 | NA | 54608 |
 
 
@@ -2167,6 +2293,7 @@ Q__115_3:SKJEMA7A; Diabetes; Child no longer has the health problem (age); 1. Do
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2177,6 +2304,7 @@ Q__115_4:SKJEMA7A; Diabetes; Yes, still has the health problem/illness; 1. Does 
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 54608 |
 
 
@@ -2187,6 +2315,7 @@ Q__115_5:SKJEMA7A; Diabetes; Confirmed by doctor; 1. Does the child have or has 
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 54608 |
 
 
@@ -2197,6 +2326,7 @@ Q__116_1:SKJEMA7A; Epilepsy; Yes; 1. Does the child have or has he/she ever had,
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 54594 |
 
 
@@ -2213,6 +2343,7 @@ Q__116_2:SKJEMA7A; Epilepsy; Health problems started at (age); 1. Does the child
 | 4 | 3 |
 | 1 | 3 |
 | 7 | 1 |
+| Not NA | 18 |
 | NA | 54593 |
 
 
@@ -2227,6 +2358,7 @@ Q__116_3:SKJEMA7A; Epilepsy; Child no longer has the health problem (age); 1. Do
 | 2 | 1 |
 | 6 | 1 |
 | 5 | 2 |
+| Not NA | 7 |
 | NA | 54604 |
 
 
@@ -2237,6 +2369,7 @@ Q__116_4:SKJEMA7A; Epilepsy; Yes, still has the health problem/illness; 1. Does 
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 54602 |
 
 
@@ -2247,6 +2380,7 @@ Q__116_5:SKJEMA7A; Epilepsy; Confirmed by doctor; 1. Does the child have or has 
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 54598 |
 
 
@@ -2257,6 +2391,7 @@ Q__117_1:SKJEMA7A; Cerebral palsy; Yes; 1. Does the child have or has he/she eve
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 54606 |
 
 
@@ -2269,6 +2404,7 @@ Q__117_2:SKJEMA7A; Cerebral palsy; Health problems started at (age); 1. Does the
 | 1 | 2 |
 | 2 | 1 |
 | 0 | 1 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -2278,6 +2414,7 @@ Q__117_3:SKJEMA7A; Cerebral palsy; Child no longer has the health problem (age);
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2288,6 +2425,7 @@ Q__117_4:SKJEMA7A; Cerebral palsy; Yes, still has the health problem/illness; 1.
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -2298,6 +2436,7 @@ Q__117_5:SKJEMA7A; Cerebral palsy; Confirmed by doctor; 1. Does the child have o
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 54606 |
 
 
@@ -2308,6 +2447,7 @@ Q_26_2_1:SKJEMA7B; (Q__118_1:SKJEMA7A); Anemia; Yes; 26. Does the child have or 
 | Category | n |
 | -------- | - |
 | 1 | 106 |
+| Not NA | 106 |
 | NA | 54505 |
 
 
@@ -2326,6 +2466,7 @@ Q_26_2_3:SKJEMA7W; (Q_26_2_3:SKJEMA7C); (Q_26_2_3:SKJEMA7B); (Q__118_2:SKJEMA7A)
 | 4 | 177 |
 | 7 | 42 |
 | 8 | 2 |
+| Not NA | 1239 |
 | NA | 53372 |
 
 
@@ -2344,6 +2485,7 @@ Q_26_2_5:SKJEMA7W; (Q_26_2_5:SKJEMA7C); (Q_26_2_5:SKJEMA7B); (Q__118_3:SKJEMA7A)
 | 1 | 95 |
 | 0 | 62 |
 | 9 | 1 |
+| Not NA | 947 |
 | NA | 53664 |
 
 
@@ -2354,6 +2496,7 @@ Q__118_4:SKJEMA7A; Anemia; Yes, still has the health problem/illness; 1. Does th
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 54602 |
 
 
@@ -2364,6 +2507,7 @@ Q_26_2_2:SKJEMA7W; (Q_26_2_2:SKJEMA7C); (Q_26_2_2:SKJEMA7B); (Q__118_5:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 1197 |
+| Not NA | 1197 |
 | NA | 53414 |
 
 
@@ -2374,6 +2518,7 @@ Q__119_1:SKJEMA7A; Cancer; Yes; 1. Does the child have or has he/she ever had, a
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -2387,6 +2532,7 @@ Q__119_2:SKJEMA7A; Cancer; Health problems started at (age); 1. Does the child h
 | 7 | 1 |
 | 4 | 1 |
 | 3 | 1 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -2398,6 +2544,7 @@ Q__119_3:SKJEMA7A; Cancer; Child no longer has the health problem (age); 1. Does
 | -------- | - |
 | 4 | 2 |
 | 5 | 1 |
+| Not NA | 3 |
 | NA | 54608 |
 
 
@@ -2408,6 +2555,7 @@ Q__119_4:SKJEMA7A; Cancer; Yes, still has the health problem/illness; 1. Does th
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 54610 |
 
 
@@ -2418,6 +2566,7 @@ Q__119_5:SKJEMA7A; Cancer; Confirmed by doctor; 1. Does the child have or has he
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 54608 |
 
 
@@ -2428,6 +2577,7 @@ Q_26_3_1:SKJEMA7B; (Q__120_1:SKJEMA7A); Delayed motor development; Yes; 26. Does
 | Category | n |
 | -------- | - |
 | 1 | 154 |
+| Not NA | 154 |
 | NA | 54457 |
 
 
@@ -2445,6 +2595,7 @@ Q_26_3_3:SKJEMA7W; (Q_26_3_3:SKJEMA7C); (Q_26_3_3:SKJEMA7B); (Q__120_2:SKJEMA7A)
 | 6 | 25 |
 | 5 | 26 |
 | 7 | 1 |
+| Not NA | 1421 |
 | NA | 53190 |
 
 
@@ -2463,6 +2614,7 @@ Q_26_3_5:SKJEMA7W; (Q_26_3_5:SKJEMA7C); (Q_26_3_5:SKJEMA7B); (Q__120_3:SKJEMA7A)
 | 5 | 105 |
 | 7 | 24 |
 | 8 | 1 |
+| Not NA | 685 |
 | NA | 53926 |
 
 
@@ -2473,6 +2625,7 @@ Q__120_4:SKJEMA7A; Delayed motor development; Yes, still has the health problem/
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 54589 |
 
 
@@ -2483,6 +2636,7 @@ Q_26_3_2:SKJEMA7W; (Q_26_3_2:SKJEMA7C); (Q_26_3_2:SKJEMA7B); (Q__120_5:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 1049 |
+| Not NA | 1049 |
 | NA | 53562 |
 
 
@@ -2493,6 +2647,7 @@ Q_26_4_1:SKJEMA7B; (Q__121_1:SKJEMA7A); Delayed or abnormal language development
 | Category | n |
 | -------- | - |
 | 1 | 379 |
+| Not NA | 379 |
 | NA | 54232 |
 
 
@@ -2511,6 +2666,7 @@ Q_26_4_3:SKJEMA7W; (Q_26_4_3:SKJEMA7C); (Q_26_4_3:SKJEMA7B); (Q__121_2:SKJEMA7A)
 | 7 | 7 |
 | 6 | 43 |
 | 8 | 1 |
+| Not NA | 3099 |
 | NA | 51512 |
 
 
@@ -2529,6 +2685,7 @@ Q_26_4_5:SKJEMA7W; (Q_26_4_5:SKJEMA7C); (Q_26_4_5:SKJEMA7B); (Q__121_3:SKJEMA7A)
 | 1 | 8 |
 | 8 | 2 |
 | 0 | 3 |
+| Not NA | 1731 |
 | NA | 52880 |
 
 
@@ -2539,6 +2696,7 @@ Q__121_4:SKJEMA7A; Delayed or deviating language development; Yes, still has the
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 54572 |
 
 
@@ -2549,6 +2707,7 @@ Q_26_4_2:SKJEMA7W; (Q_26_4_2:SKJEMA7C); (Q_26_4_2:SKJEMA7B); (Q__121_5:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 1555 |
+| Not NA | 1555 |
 | NA | 53056 |
 
 
@@ -2559,6 +2718,7 @@ Q__122_1:SKJEMA7A; Hyperactivity/ADHD; Yes; 1. Does the child have or has he/she
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 54597 |
 
 
@@ -2576,6 +2736,7 @@ Q__122_2:SKJEMA7A; Hyperactivity/ADHD; Health problems started at (age); 1. Does
 | 7 | 2 |
 | 8 | 1 |
 | 0 | 1 |
+| Not NA | 16 |
 | NA | 54595 |
 
 
@@ -2587,6 +2748,7 @@ Q__122_3:SKJEMA7A; Hyperactivity/ADHD; Child no longer has the health problem (a
 | -------- | - |
 | 6 | 1 |
 | 7 | 1 |
+| Not NA | 2 |
 | NA | 54609 |
 
 
@@ -2597,6 +2759,7 @@ Q__122_4:SKJEMA7A; Hyperactivity/ADHD; Yes, still has the health problem/illness
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 54600 |
 
 
@@ -2607,6 +2770,7 @@ Q__122_5:SKJEMA7A; Hyperactivity/ADHD; Confirmed by doctor; 1. Does the child ha
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 54603 |
 
 
@@ -2617,6 +2781,7 @@ Q__123_1:SKJEMA7A; Autistic traits/autism; Yes; 1. Does the child have or has he
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 54605 |
 
 
@@ -2630,6 +2795,7 @@ Q__123_2:SKJEMA7A; Autistic traits/autism; Health problems started at (age); 1. 
 | 4 | 1 |
 | 2 | 1 |
 | 1 | 1 |
+| Not NA | 5 |
 | NA | 54606 |
 
 
@@ -2639,6 +2805,7 @@ Q__123_3:SKJEMA7A; Autistic traits/autism; Child no longer has the health proble
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2649,6 +2816,7 @@ Q__123_4:SKJEMA7A; Autistic traits/autism; Yes, still has the health problem/ill
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -2659,6 +2827,7 @@ Q__123_5:SKJEMA7A; Autistic traits/autism; Confirmed by doctor; 1. Does the chil
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 54608 |
 
 
@@ -2669,6 +2838,7 @@ Q__124_1:SKJEMA7A; Asperger`s Syndrome; Yes; 1. Does the child have or has he/sh
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -2680,6 +2850,7 @@ Q__124_2:SKJEMA7A; Asperger`s Syndrome; Health problems started at (age); 1. Doe
 | -------- | - |
 | 6 | 3 |
 | 2 | 1 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -2689,6 +2860,7 @@ Q__124_3:SKJEMA7A; Asperger`s Syndrome; Child no longer has the health problem (
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -2699,6 +2871,7 @@ Q__124_4:SKJEMA7A; Asperger`s Syndrome; Yes, still has the health problem/illnes
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 54608 |
 
 
@@ -2709,6 +2882,7 @@ Q__124_5:SKJEMA7A; Asperger`s Syndrome; Confirmed by doctor; 1. Does the child h
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 54608 |
 
 
@@ -2719,6 +2893,7 @@ Q_26_5_1:SKJEMA7B; (Q__125_1:SKJEMA7A); Behavioural problems (difficult and unru
 | Category | n |
 | -------- | - |
 | 1 | 211 |
+| Not NA | 211 |
 | NA | 54400 |
 
 
@@ -2737,6 +2912,7 @@ Q_26_5_3:SKJEMA7W; (Q_26_5_3:SKJEMA7C); (Q_26_5_3:SKJEMA7B); (Q__125_2:SKJEMA7A)
 | 1 | 226 |
 | 7 | 30 |
 | 8 | 1 |
+| Not NA | 2260 |
 | NA | 52351 |
 
 
@@ -2754,6 +2930,7 @@ Q_26_5_5:SKJEMA7W; (Q_26_5_5:SKJEMA7C); (Q_26_5_5:SKJEMA7B); (Q__125_3:SKJEMA7A)
 | 1 | 3 |
 | 2 | 3 |
 | 0 | 2 |
+| Not NA | 540 |
 | NA | 54071 |
 
 
@@ -2764,6 +2941,7 @@ Q__125_4:SKJEMA7A; Behavioural problems (difficult and unruly); Yes, still has t
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 54590 |
 
 
@@ -2774,6 +2952,7 @@ Q_26_5_2:SKJEMA7W; (Q_26_5_2:SKJEMA7C); (Q_26_5_2:SKJEMA7B); (Q__125_5:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 659 |
+| Not NA | 659 |
 | NA | 53952 |
 
 
@@ -2784,6 +2963,7 @@ Q_26_6_1:SKJEMA7B; (Q__126_1:SKJEMA7A); Emotional difficulties (sad or anxious);
 | Category | n |
 | -------- | - |
 | 1 | 212 |
+| Not NA | 212 |
 | NA | 54399 |
 
 
@@ -2801,6 +2981,7 @@ Q_26_6_3:SKJEMA7W; (Q_26_6_3:SKJEMA7C); (Q_26_6_3:SKJEMA7B); (Q__126_2:SKJEMA7A)
 | 0 | 90 |
 | 1 | 108 |
 | 7 | 96 |
+| Not NA | 2375 |
 | NA | 52236 |
 
 
@@ -2819,6 +3000,7 @@ Q_26_6_5:SKJEMA7W; (Q_26_6_5:SKJEMA7C); (Q_26_6_5:SKJEMA7B); (Q__126_3:SKJEMA7A)
 | 1 | 4 |
 | 0 | 4 |
 | 2 | 3 |
+| Not NA | 764 |
 | NA | 53847 |
 
 
@@ -2829,6 +3011,7 @@ Q__126_4:SKJEMA7A; Emotional difficulties (sad and anxious); Yes, still has the 
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 54597 |
 
 
@@ -2839,6 +3022,7 @@ Q_26_6_2:SKJEMA7W; (Q_26_6_2:SKJEMA7C); (Q_26_6_2:SKJEMA7B); (Q__126_5:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 455 |
+| Not NA | 455 |
 | NA | 54156 |
 
 
@@ -2849,6 +3033,7 @@ Q_2612_1:SKJEMA7B; (Q__127_1:SKJEMA7A); Allergy/intolerance to milk; Yes; 26. Do
 | Category | n |
 | -------- | - |
 | 1 | 324 |
+| Not NA | 324 |
 | NA | 54287 |
 
 
@@ -2866,6 +3051,7 @@ Q_26_12_3:SKJEMA7W; (Q_2612_3:SKJEMA7C); (Q_2612_3:SKJEMA7B); (Q__127_2:SKJEMA7A
 | 0 | 1186 |
 | 4 | 174 |
 | 7 | 51 |
+| Not NA | 3055 |
 | NA | 51556 |
 
 
@@ -2883,6 +3069,7 @@ Q_26_12_5:SKJEMA7W; (Q_2612_5:SKJEMA7C); (Q_2612_5:SKJEMA7B); (Q__127_3:SKJEMA7A
 | 7 | 60 |
 | 5 | 216 |
 | 0 | 25 |
+| Not NA | 1440 |
 | NA | 53171 |
 
 
@@ -2893,6 +3080,7 @@ Q__127_4:SKJEMA7A; Allergy/intolerance to milk; Yes, still has the health proble
 | Category | n |
 | -------- | - |
 | 1 | 60 |
+| Not NA | 60 |
 | NA | 54551 |
 
 
@@ -2903,6 +3091,7 @@ Q_26_12_2:SKJEMA7W; (Q_2612_2:SKJEMA7C); (Q_2612_2:SKJEMA7B); (Q__127_5:SKJEMA7A
 | Category | n |
 | -------- | - |
 | 1 | 1902 |
+| Not NA | 1902 |
 | NA | 52709 |
 
 
@@ -2913,6 +3102,7 @@ Q_2613_1:SKJEMA7B; (Q__128_1:SKJEMA7A); Allergy/intolerance to egg; Yes; 26. Doe
 | Category | n |
 | -------- | - |
 | 1 | 150 |
+| Not NA | 150 |
 | NA | 54461 |
 
 
@@ -2930,6 +3120,7 @@ Q_26_13_3:SKJEMA7W; (Q_2613_3:SKJEMA7C); (Q_2613_3:SKJEMA7B); (Q__128_2:SKJEMA7A
 | 6 | 52 |
 | 5 | 41 |
 | 7 | 18 |
+| Not NA | 1342 |
 | NA | 53269 |
 
 
@@ -2948,6 +3139,7 @@ Q_26_13_5:SKJEMA7W; (Q_2613_5:SKJEMA7C); (Q_2613_5:SKJEMA7B); (Q__128_3:SKJEMA7A
 | 7 | 23 |
 | 0 | 11 |
 | 8 | 1 |
+| Not NA | 728 |
 | NA | 53883 |
 
 
@@ -2958,6 +3150,7 @@ Q__128_4:SKJEMA7A; Allergy to egg; Yes, still has the health problem/illness; 1.
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 54584 |
 
 
@@ -2968,6 +3161,7 @@ Q_26_13_2:SKJEMA7W; (Q_2613_2:SKJEMA7C); (Q_2613_2:SKJEMA7B); (Q__128_5:SKJEMA7A
 | Category | n |
 | -------- | - |
 | 1 | 1202 |
+| Not NA | 1202 |
 | NA | 53409 |
 
 
@@ -2978,6 +3172,7 @@ Q_2616_1:SKJEMA7B; (Q__129_1:SKJEMA7A); Allergy/intolerance to fish; Yes; 26. Do
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 54584 |
 
 
@@ -2994,6 +3189,7 @@ Q_26_16_3:SKJEMA7W; (Q_2616_3:SKJEMA7C); (Q_2616_3:SKJEMA7B); (Q__129_2:SKJEMA7A
 | 5 | 11 |
 | 2 | 31 |
 | 4 | 12 |
+| Not NA | 211 |
 | NA | 54400 |
 
 
@@ -3011,6 +3207,7 @@ Q_26_16_5:SKJEMA7W; (Q_2616_5:SKJEMA7C); (Q_2616_5:SKJEMA7B); (Q__129_3:SKJEMA7A
 | 6 | 7 |
 | 1 | 3 |
 | 7 | 4 |
+| Not NA | 79 |
 | NA | 54532 |
 
 
@@ -3021,6 +3218,7 @@ Q__129_4:SKJEMA7A; Allergy/intolerance to fish; Yes, still has the health proble
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -3031,6 +3229,7 @@ Q_26_16_2:SKJEMA7W; (Q_2616_2:SKJEMA7C); (Q_2616_2:SKJEMA7B); (Q__129_5:SKJEMA7A
 | Category | n |
 | -------- | - |
 | 1 | 171 |
+| Not NA | 171 |
 | NA | 54440 |
 
 
@@ -3041,6 +3240,7 @@ Q_2619_1:SKJEMA7B; (Q__130_1:SKJEMA7A); Allergy to other foods; Yes; 26. Does th
 | Category | n |
 | -------- | - |
 | 1 | 217 |
+| Not NA | 217 |
 | NA | 54394 |
 
 
@@ -3058,6 +3258,7 @@ Q_26_19_3:SKJEMA7W; (Q_2619_3:SKJEMA7C); (Q_2619_3:SKJEMA7B); (Q__130_2:SKJEMA7A
 | 3 | 121 |
 | 4 | 92 |
 | 6 | 113 |
+| Not NA | 923 |
 | NA | 53688 |
 
 
@@ -3075,6 +3276,7 @@ Q_26_19_5:SKJEMA7W; (Q_2619_5:SKJEMA7C); (Q_2619_5:SKJEMA7B); (Q__130_3:SKJEMA7A
 | 7 | 16 |
 | 1 | 4 |
 | 0 | 2 |
+| Not NA | 201 |
 | NA | 54410 |
 
 
@@ -3085,6 +3287,7 @@ Q__130_4:SKJEMA7A; Allergy/intolerance to other foods; Yes, still has the health
 | Category | n |
 | -------- | - |
 | 1 | 83 |
+| Not NA | 83 |
 | NA | 54528 |
 
 
@@ -3095,6 +3298,7 @@ Q_26_19_2:SKJEMA7W; (Q_2619_2:SKJEMA7C); (Q_2619_2:SKJEMA7B); (Q__130_5:SKJEMA7A
 | Category | n |
 | -------- | - |
 | 1 | 498 |
+| Not NA | 498 |
 | NA | 54113 |
 
 
@@ -3105,6 +3309,7 @@ Q__618_1:SKJEMA7A; Bone fracture; Had symptoms? Yes; 6. Has the child ever had a
 | Category | n |
 | -------- | - |
 | 1 | 142 |
+| Not NA | 142 |
 | NA | 54469 |
 
 
@@ -3115,6 +3320,7 @@ Q__618_2:SKJEMA7A; Bone fracture; At what age? Before 3 years; 6. Has the child 
 | Category | n |
 | -------- | - |
 | 1 | 37 |
+| Not NA | 37 |
 | NA | 54574 |
 
 
@@ -3125,6 +3331,7 @@ Q__618_3:SKJEMA7A; Bone fracture; At what age? 3-5 years; 6. Has the child ever 
 | Category | n |
 | -------- | - |
 | 1 | 63 |
+| Not NA | 63 |
 | NA | 54548 |
 
 
@@ -3135,6 +3342,7 @@ Q__618_4:SKJEMA7A; Bone fracture; At what age? 6-7 years; 6. Has the child ever 
 | Category | n |
 | -------- | - |
 | 1 | 51 |
+| Not NA | 51 |
 | NA | 54560 |
 
 
@@ -3148,6 +3356,7 @@ Q__618_5:SKJEMA7A; Bone fracture; Times during the last 12 months?; 6. Has the c
 | 0 | 39 |
 | 3 | 1 |
 | 2 | 1 |
+| Not NA | 84 |
 | NA | 54527 |
 
 
@@ -3158,6 +3367,7 @@ Q__619_1:SKJEMA7A; Other injuries; Had symptoms? Yes;; 6. Has the child ever had
 | Category | n |
 | -------- | - |
 | 1 | 87 |
+| Not NA | 87 |
 | NA | 54524 |
 
 
@@ -3168,6 +3378,7 @@ Q__619_2:SKJEMA7A; Other injuries; At what age? Before 3 years; 6. Has the child
 | Category | n |
 | -------- | - |
 | 1 | 26 |
+| Not NA | 26 |
 | NA | 54585 |
 
 
@@ -3178,6 +3389,7 @@ Q__619_3:SKJEMA7A; Other injuries; At what age? 3-5 years; 6. Has the child ever
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 54575 |
 
 
@@ -3188,6 +3400,7 @@ Q__619_4:SKJEMA7A; Other injuries; At what age? 6-7 years; 6. Has the child ever
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 54572 |
 
 
@@ -3202,6 +3415,7 @@ Q__619_5:SKJEMA7A; Other injuries; Times during the last 12 months?; 6. Has the 
 | 10 | 1 |
 | 2 | 3 |
 | 3 | 1 |
+| Not NA | 59 |
 | NA | 54552 |
 
 
@@ -3212,6 +3426,7 @@ Q_25_1:SKJEMA7W; (Q_25_1:SKJEMA7C); (Q_25_1:SKJEMA7B); Rheumatoid arthritis; . H
 | Category | n |
 | -------- | - |
 | 1 | 79 |
+| Not NA | 79 |
 | NA | 54532 |
 
 
@@ -3222,6 +3437,7 @@ Q_25_2:SKJEMA7W; (Q_25_2:SKJEMA7C); (Q_25_2:SKJEMA7B); Cancer; . Has the child e
 | Category | n |
 | -------- | - |
 | 1 | 42 |
+| Not NA | 42 |
 | NA | 54569 |
 
 
@@ -3232,6 +3448,7 @@ Q_25_3:SKJEMA7W; (Q_25_3:SKJEMA7C); (Q_25_3:SKJEMA7B); Diabetes; . Has the child
 | Category | n |
 | -------- | - |
 | 1 | 120 |
+| Not NA | 120 |
 | NA | 54491 |
 
 
@@ -3242,6 +3459,7 @@ Q_25_4:SKJEMA7W; (Q_25_4:SKJEMA7C); (Q_25_4:SKJEMA7B); Cerebral palsy; . Has the
 | Category | n |
 | -------- | - |
 | 1 | 101 |
+| Not NA | 101 |
 | NA | 54510 |
 
 
@@ -3252,6 +3470,7 @@ Q_25_5:SKJEMA7W; (Q_25_5:SKJEMA7C); (Q_25_5:SKJEMA7B); Hyperactivity/ADHD; . Has
 | Category | n |
 | -------- | - |
 | 1 | 296 |
+| Not NA | 296 |
 | NA | 54315 |
 
 
@@ -3262,6 +3481,7 @@ Q_25_6:SKJEMA7W; (Q_25_6:SKJEMA7C); (Q_25_6:SKJEMA7B); Celiac disease; . Has the
 | Category | n |
 | -------- | - |
 | 1 | 413 |
+| Not NA | 413 |
 | NA | 54198 |
 
 
@@ -3272,6 +3492,7 @@ Q_25_7:SKJEMA7W; (Q_25_7:SKJEMA7C); (Q_25_7:SKJEMA7B); Fracture injuries; . Has 
 | Category | n |
 | -------- | - |
 | 1 | 3081 |
+| Not NA | 3081 |
 | NA | 51530 |
 
 
@@ -3282,6 +3503,7 @@ Q_25_8:SKJEMA7W; (Q_25_8:SKJEMA7C); (Q_25_8:SKJEMA7B); Epilepsy; . Has the child
 | Category | n |
 | -------- | - |
 | 1 | 257 |
+| Not NA | 257 |
 | NA | 54354 |
 
 
@@ -3292,6 +3514,7 @@ Q_25_9:SKJEMA7W; (Q_25_9:SKJEMA7C); (Q_25_9:SKJEMA7B); Mental retardation; . Has
 | Category | n |
 | -------- | - |
 | 1 | 138 |
+| Not NA | 138 |
 | NA | 54473 |
 
 
@@ -3302,6 +3525,7 @@ Q_25_10:SKJEMA7W; (Q_2510:SKJEMA7C); (Q_2510:SKJEMA7B); Autistic features/autism
 | Category | n |
 | -------- | - |
 | 1 | 179 |
+| Not NA | 179 |
 | NA | 54432 |
 
 
@@ -3312,6 +3536,7 @@ Q_25_11:SKJEMA7W; (Q_2511:SKJEMA7C); (Q_2511:SKJEMA7B); Aspergers syndrome; . Ha
 | Category | n |
 | -------- | - |
 | 1 | 66 |
+| Not NA | 66 |
 | NA | 54545 |
 
 
@@ -3322,6 +3547,7 @@ Q_25_12:SKJEMA7W; (Q_2512:SKJEMA7C); (Q_2512:SKJEMA7B); Chronic Fatigue syndrome
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 54610 |
 
 
@@ -3332,6 +3558,7 @@ Q_25_13:SKJEMA7W; (Q_2513:SKJEMA7C); (Q_2513:SKJEMA7B); Removed tonsils; . Has t
 | Category | n |
 | -------- | - |
 | 1 | 3826 |
+| Not NA | 3826 |
 | NA | 50785 |
 
 
@@ -3342,6 +3569,7 @@ Q_25_14:SKJEMA7W; (Q_2514:SKJEMA7C); (Q_2514:SKJEMA7B); Had an ear drain; . Has 
 | Category | n |
 | -------- | - |
 | 1 | 4312 |
+| Not NA | 4312 |
 | NA | 50299 |
 
 
@@ -3352,6 +3580,7 @@ Q_25_15:SKJEMA7W; (Q_2515_1:SKJEMA7C); (Q_2515_1:SKJEMA7B); Other conditions, co
 | Category | n |
 | -------- | - |
 | 1 | 4632 |
+| Not NA | 4632 |
 | NA | 49979 |
 
 
@@ -3364,6 +3593,7 @@ Q_26_1_4:SKJEMA7W; (Q_26_1_4:SKJEMA7C); (Q_26_1_4:SKJEMA7B); Sleeping problems; 
 | No | 3510 |
 | Yes | 1528 |
 | More than 1 check box filled in | 2 |
+| Not NA | 5040 |
 | NA | 49571 |
 
 
@@ -3375,6 +3605,7 @@ Q_26_2_4:SKJEMA7W; (Q_26_2_4:SKJEMA7C); (Q_26_2_4:SKJEMA7B); Anemia; Symptoms th
 | -------- | - |
 | No | 2172 |
 | Yes | 322 |
+| Not NA | 2494 |
 | NA | 52117 |
 
 
@@ -3387,6 +3618,7 @@ Q_26_3_4:SKJEMA7W; (Q_26_3_4:SKJEMA7C); (Q_26_3_4:SKJEMA7B); Delayed motor devel
 | No | 1988 |
 | Yes | 671 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2660 |
 | NA | 51951 |
 
 
@@ -3399,6 +3631,7 @@ Q_26_4_4:SKJEMA7W; (Q_26_4_4:SKJEMA7C); (Q_26_4_4:SKJEMA7B); Delayed or deviatin
 | No | 2773 |
 | Yes | 1516 |
 | More than 1 check box filled in | 6 |
+| Not NA | 4295 |
 | NA | 50316 |
 
 
@@ -3411,6 +3644,7 @@ Q_26_5_4:SKJEMA7W; (Q_26_5_4:SKJEMA7C); (Q_26_5_4:SKJEMA7B); Behavioural problem
 | No | 1643 |
 | Yes | 1803 |
 | More than 1 check box filled in | 4 |
+| Not NA | 3450 |
 | NA | 51161 |
 
 
@@ -3423,6 +3657,7 @@ Q_26_6_4:SKJEMA7W; (Q_26_6_4:SKJEMA7C); (Q_26_6_4:SKJEMA7B); Emotional difficult
 | Yes | 1857 |
 | No | 1684 |
 | More than 1 check box filled in | 2 |
+| Not NA | 3543 |
 | NA | 51068 |
 
 
@@ -3435,6 +3670,7 @@ Q_26_7_4:SKJEMA7W; (Q_26_7_4:SKJEMA7C); (Q_26_7_4:SKJEMA7B); Overweight; Symptom
 | Yes | 520 |
 | No | 1387 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1909 |
 | NA | 52702 |
 
 
@@ -3447,6 +3683,7 @@ Q_26_8_4:SKJEMA7W; (Q_26_8_4:SKJEMA7C); (Q_26_8_4:SKJEMA7B); Asthma; Symptoms th
 | Yes | 2808 |
 | No | 4486 |
 | More than 1 check box filled in | 5 |
+| Not NA | 7299 |
 | NA | 47312 |
 
 
@@ -3457,6 +3694,7 @@ Q_26_9_1:SKJEMA7B; Allergy in eyes or nose/hay fever; Yes; 26. Does the child ha
 | Category | n |
 | -------- | - |
 | 1 | 372 |
+| Not NA | 372 |
 | NA | 54239 |
 
 
@@ -3467,6 +3705,7 @@ Q_26_9_2:SKJEMA7W; (Q_26_9_2:SKJEMA7C); (Q_26_9_2:SKJEMA7B); Allergy in eyes or 
 | Category | n |
 | -------- | - |
 | 1 | 3867 |
+| Not NA | 3867 |
 | NA | 50744 |
 
 
@@ -3485,6 +3724,7 @@ Q_26_9_3:SKJEMA7W; (Q_26_9_3:SKJEMA7C); (Q_26_9_3:SKJEMA7B); Allergy in eyes or 
 | 7 | 196 |
 | 0 | 121 |
 | 9 | 1 |
+| Not NA | 4760 |
 | NA | 49851 |
 
 
@@ -3497,6 +3737,7 @@ Q_26_9_4:SKJEMA7W; (Q_26_9_4:SKJEMA7C); (Q_26_9_4:SKJEMA7B); Allergy in eyes or 
 | Yes | 4233 |
 | No | 1628 |
 | More than 1 check box filled in | 4 |
+| Not NA | 5865 |
 | NA | 48746 |
 
 
@@ -3514,6 +3755,7 @@ Q_26_9_5:SKJEMA7W; (Q_26_9_5:SKJEMA7C); (Q_26_9_5:SKJEMA7B); Allergy in eyes or 
 | 7 | 52 |
 | 0 | 5 |
 | 1 | 5 |
+| Not NA | 280 |
 | NA | 54331 |
 
 
@@ -3524,6 +3766,7 @@ Q_2610_1:SKJEMA7B; Allergy to cats or dogs; Yes; 26. Does the child have or has 
 | Category | n |
 | -------- | - |
 | 1 | 211 |
+| Not NA | 211 |
 | NA | 54400 |
 
 
@@ -3534,6 +3777,7 @@ Q_26_10_2:SKJEMA7W; (Q_2610_2:SKJEMA7C); (Q_2610_2:SKJEMA7B); Allergy to cats or
 | Category | n |
 | -------- | - |
 | 1 | 2078 |
+| Not NA | 2078 |
 | NA | 52533 |
 
 
@@ -3551,6 +3795,7 @@ Q_26_10_3:SKJEMA7W; (Q_2610_3:SKJEMA7C); (Q_2610_3:SKJEMA7B); Allergy to cats or
 | 5 | 398 |
 | 6 | 421 |
 | 7 | 88 |
+| Not NA | 2502 |
 | NA | 52109 |
 
 
@@ -3563,6 +3808,7 @@ Q_26_10_4:SKJEMA7W; (Q_2610_4:SKJEMA7C); (Q_2610_4:SKJEMA7B); Allergy to cats or
 | Yes | 1834 |
 | No | 1865 |
 | More than 1 check box filled in | 1 |
+| Not NA | 3700 |
 | NA | 50911 |
 
 
@@ -3580,6 +3826,7 @@ Q_26_10_5:SKJEMA7W; (Q_2610_5:SKJEMA7C); (Q_2610_5:SKJEMA7B); Allergy to cats or
 | 2 | 7 |
 | 0 | 3 |
 | 1 | 8 |
+| Not NA | 204 |
 | NA | 54407 |
 
 
@@ -3592,6 +3839,7 @@ Q_26_11_4:SKJEMA7W; (Q_2611_4:SKJEMA7C); (Q_2611_4:SKJEMA7B); Atopic eczema/atop
 | Yes | 6347 |
 | No | 5635 |
 | More than 1 check box filled in | 1 |
+| Not NA | 11983 |
 | NA | 42628 |
 
 
@@ -3604,6 +3852,7 @@ Q_26_12_4:SKJEMA7W; (Q_2612_4:SKJEMA7C); (Q_2612_4:SKJEMA7B); Allergy/intoleranc
 | Yes | 1407 |
 | No | 2664 |
 | More than 1 check box filled in | 3 |
+| Not NA | 4074 |
 | NA | 50537 |
 
 
@@ -3616,6 +3865,7 @@ Q_26_13_4:SKJEMA7W; (Q_2613_4:SKJEMA7C); (Q_2613_4:SKJEMA7B); Allergy/intoleranc
 | No | 2081 |
 | Yes | 429 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2511 |
 | NA | 52100 |
 
 
@@ -3626,6 +3876,7 @@ Q_2614_1:SKJEMA7B; Allergy to peanuts; Yes; 26. Does the child have or has he/sh
 | Category | n |
 | -------- | - |
 | 1 | 97 |
+| Not NA | 97 |
 | NA | 54514 |
 
 
@@ -3636,6 +3887,7 @@ Q_26_14_2:SKJEMA7W; (Q_2614_2:SKJEMA7C); (Q_2614_2:SKJEMA7B); Allergy/intoleranc
 | Category | n |
 | -------- | - |
 | 1 | 1056 |
+| Not NA | 1056 |
 | NA | 53555 |
 
 
@@ -3653,6 +3905,7 @@ Q_26_14_3:SKJEMA7W; (Q_2614_3:SKJEMA7C); (Q_2614_3:SKJEMA7B); Allergy/intoleranc
 | 2 | 242 |
 | 5 | 115 |
 | 7 | 33 |
+| Not NA | 1253 |
 | NA | 53358 |
 
 
@@ -3665,6 +3918,7 @@ Q_26_14_4:SKJEMA7W; (Q_2614_4:SKJEMA7C); (Q_2614_4:SKJEMA7B); Allergy/intoleranc
 | Yes | 659 |
 | No | 1758 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2418 |
 | NA | 52193 |
 
 
@@ -3682,6 +3936,7 @@ Q_26_14_5:SKJEMA7W; (Q_2614_5:SKJEMA7C); (Q_2614_5:SKJEMA7B); Allergy/intoleranc
 | 7 | 9 |
 | 1 | 4 |
 | 0 | 2 |
+| Not NA | 104 |
 | NA | 54507 |
 
 
@@ -3692,6 +3947,7 @@ Q_2615_1:SKJEMA7B; Allergy to other nuts; Yes; 26. Does the child have or has he
 | Category | n |
 | -------- | - |
 | 1 | 97 |
+| Not NA | 97 |
 | NA | 54514 |
 
 
@@ -3702,6 +3958,7 @@ Q_26_15_2:SKJEMA7W; (Q_2615_2:SKJEMA7C); (Q_2615_2:SKJEMA7B); Allergy/intoleranc
 | Category | n |
 | -------- | - |
 | 1 | 971 |
+| Not NA | 971 |
 | NA | 53640 |
 
 
@@ -3719,6 +3976,7 @@ Q_26_15_3:SKJEMA7W; (Q_2615_3:SKJEMA7C); (Q_2615_3:SKJEMA7B); Allergy/intoleranc
 | 2 | 238 |
 | 6 | 144 |
 | 7 | 40 |
+| Not NA | 1270 |
 | NA | 53341 |
 
 
@@ -3730,6 +3988,7 @@ Q_26_15_4:SKJEMA7W; (Q_2615_4:SKJEMA7C); (Q_2615_4:SKJEMA7B); Allergy/intoleranc
 | -------- | - |
 | No | 1691 |
 | Yes | 732 |
+| Not NA | 2423 |
 | NA | 52188 |
 
 
@@ -3747,6 +4006,7 @@ Q_26_15_5:SKJEMA7W; (Q_2615_5:SKJEMA7C); (Q_2615_5:SKJEMA7B); Allergy/intoleranc
 | 7 | 6 |
 | 1 | 3 |
 | 0 | 2 |
+| Not NA | 98 |
 | NA | 54513 |
 
 
@@ -3758,6 +4018,7 @@ Q_26_16_4:SKJEMA7W; (Q_2616_4:SKJEMA7C); (Q_2616_4:SKJEMA7B); Allergy/intoleranc
 | -------- | - |
 | No | 1399 |
 | Yes | 93 |
+| Not NA | 1492 |
 | NA | 53119 |
 
 
@@ -3768,6 +4029,7 @@ Q_2617_1:SKJEMA7B; Allergy to shellfish;Yes; 26. Does the child have or has he/s
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 54592 |
 
 
@@ -3778,6 +4040,7 @@ Q_26_17_2:SKJEMA7W; (Q_2617_2:SKJEMA7C); (Q_2617_2:SKJEMA7B); Allergy/intoleranc
 | Category | n |
 | -------- | - |
 | 1 | 92 |
+| Not NA | 92 |
 | NA | 54519 |
 
 
@@ -3795,6 +4058,7 @@ Q_26_17_3:SKJEMA7W; (Q_2617_3:SKJEMA7C); (Q_2617_3:SKJEMA7B); Allergy/intoleranc
 | 3 | 29 |
 | 2 | 18 |
 | 7 | 3 |
+| Not NA | 156 |
 | NA | 54455 |
 
 
@@ -3806,6 +4070,7 @@ Q_26_17_4:SKJEMA7W; (Q_2617_4:SKJEMA7C); (Q_2617_4:SKJEMA7B); Allergy/intoleranc
 | -------- | - |
 | No | 1380 |
 | Yes | 70 |
+| Not NA | 1450 |
 | NA | 53161 |
 
 
@@ -3823,6 +4088,7 @@ Q_26_17_5:SKJEMA7W; (Q_2617_5:SKJEMA7C); (Q_2617_5:SKJEMA7B); Allergy/intoleranc
 | 4 | 5 |
 | 7 | 2 |
 | 0 | 2 |
+| Not NA | 30 |
 | NA | 54581 |
 
 
@@ -3833,6 +4099,7 @@ Q_2618_1:SKJEMA7B; Allergy to fruit; Yes; 26. Does the child have or has he/she 
 | Category | n |
 | -------- | - |
 | 1 | 97 |
+| Not NA | 97 |
 | NA | 54514 |
 
 
@@ -3843,6 +4110,7 @@ Q_26_18_2:SKJEMA7W; (Q_2618_2:SKJEMA7C); (Q_2618_2:SKJEMA7B); Allergy/intoleranc
 | Category | n |
 | -------- | - |
 | 1 | 463 |
+| Not NA | 463 |
 | NA | 54148 |
 
 
@@ -3860,6 +4128,7 @@ Q_26_18_3:SKJEMA7W; (Q_2618_3:SKJEMA7C); (Q_2618_3:SKJEMA7B); Allergy/intoleranc
 | 2 | 160 |
 | 5 | 166 |
 | 0 | 135 |
+| Not NA | 1182 |
 | NA | 53429 |
 
 
@@ -3872,6 +4141,7 @@ Q_26_18_4:SKJEMA7W; (Q_2618_4:SKJEMA7C); (Q_2618_4:SKJEMA7B); Allergy/intoleranc
 | No | 1578 |
 | Yes | 780 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2359 |
 | NA | 52252 |
 
 
@@ -3889,6 +4159,7 @@ Q_26_18_5:SKJEMA7W; (Q_2618_5:SKJEMA7C); (Q_2618_5:SKJEMA7B); Allergy/intoleranc
 | 4 | 37 |
 | 2 | 15 |
 | 0 | 3 |
+| Not NA | 200 |
 | NA | 54411 |
 
 
@@ -3901,6 +4172,7 @@ Q_26_19_4:SKJEMA7W; (Q_2619_4:SKJEMA7C); (Q_2619_4:SKJEMA7B); Allergy/intoleranc
 | No | 1504 |
 | Yes | 506 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2011 |
 | NA | 52600 |
 
 
@@ -3911,6 +4183,7 @@ Q_26_19_6:SKJEMA7W; (Q_2619_6:SKJEMA7C); (Q_2619_6:SKJEMA7B); Allergy/intoleranc
 | Category | n |
 | -------- | - |
 | 1 | 631 |
+| Not NA | 631 |
 | NA | 53980 |
 
 
@@ -3921,6 +4194,7 @@ Q_26_19_7:SKJEMA7W; (Q_2619_7:SKJEMA7C); (Q_2619_7:SKJEMA7B); Allergy/intoleranc
 | Category | n |
 | -------- | - |
 | 1 | 195 |
+| Not NA | 195 |
 | NA | 54416 |
 
 
@@ -3931,6 +4205,7 @@ Q_26_19_8:SKJEMA7W; (Q_2619_8:SKJEMA7C); (Q_2619_8:SKJEMA7B); Allergy/intoleranc
 | Category | n |
 | -------- | - |
 | 1 | 256 |
+| Not NA | 256 |
 | NA | 54355 |
 
 
@@ -3941,6 +4216,7 @@ Q_26_19_9:SKJEMA7W; (Q_2619_9:SKJEMA7C); (Q_2619_9:SKJEMA7B); Allergy/intoleranc
 | Category | n |
 | -------- | - |
 | 1 | 702 |
+| Not NA | 702 |
 | NA | 53909 |
 
 
@@ -3953,6 +4229,7 @@ Q_26_1_1:SKJEMA7W; (Q_26_1_1:SKJEMA7C); Sleeping problems; Have or had symptoms?
 | No | 42957 |
 | Yes | 3553 |
 | More than 1 check box filled in | 7 |
+| Not NA | 46517 |
 | NA | 8094 |
 
 
@@ -3965,6 +4242,7 @@ Q_26_2_1:SKJEMA7W; (Q_26_2_1:SKJEMA7C); Anemia; Have or had symptoms?; . Does th
 | No | 45481 |
 | Yes | 1101 |
 | More than 1 check box filled in | 1 |
+| Not NA | 46583 |
 | NA | 8028 |
 
 
@@ -3977,6 +4255,7 @@ Q_26_3_1:SKJEMA7W; (Q_26_3_1:SKJEMA7C); Delayed motor development; Have or had s
 | No | 45289 |
 | Yes | 1327 |
 | More than 1 check box filled in | 2 |
+| Not NA | 46618 |
 | NA | 7993 |
 
 
@@ -3989,6 +4268,7 @@ Q_26_4_1:SKJEMA7W; (Q_26_4_1:SKJEMA7C); Delayed or deviating language developmen
 | No | 43537 |
 | Yes | 3029 |
 | More than 1 check box filled in | 4 |
+| Not NA | 46570 |
 | NA | 8041 |
 
 
@@ -4001,6 +4281,7 @@ Q_26_5_1:SKJEMA7W; (Q_26_5_1:SKJEMA7C); Behavioural problems (difficult); Have o
 | No | 44352 |
 | Yes | 2139 |
 | More than 1 check box filled in | 12 |
+| Not NA | 46503 |
 | NA | 8108 |
 
 
@@ -4013,6 +4294,7 @@ Q_26_6_1:SKJEMA7W; (Q_26_6_1:SKJEMA7C); Emotional difficulties (sad and anxious)
 | No | 44210 |
 | Yes | 2293 |
 | More than 1 check box filled in | 5 |
+| Not NA | 46508 |
 | NA | 8103 |
 
 
@@ -4025,6 +4307,7 @@ Q_26_7_1:SKJEMA7W; (Q_26_7_1:SKJEMA7C); Overweight; Have or had symptoms?; . Doe
 | No | 45906 |
 | Yes | 708 |
 | More than 1 check box filled in | 2 |
+| Not NA | 46616 |
 | NA | 7995 |
 
 
@@ -4037,6 +4320,7 @@ Q_26_8_1:SKJEMA7W; (Q_26_8_1:SKJEMA7C); Asthma; Have or had symptoms?; . Does th
 | No | 40953 |
 | Yes | 5666 |
 | More than 1 check box filled in | 9 |
+| Not NA | 46628 |
 | NA | 7983 |
 
 
@@ -4049,6 +4333,7 @@ Q_26_9_1:SKJEMA7W; (Q_26_9_1:SKJEMA7C); Allergy in eyes or nose/hay fever; Have 
 | No | 42132 |
 | Yes | 4427 |
 | More than 1 check box filled in | 2 |
+| Not NA | 46561 |
 | NA | 8050 |
 
 
@@ -4061,6 +4346,7 @@ Q_26_10_1:SKJEMA7W; (Q_2610_1:SKJEMA7C); Allergy to cats or dogs; Have or had sy
 | No | 44191 |
 | Yes | 2403 |
 | More than 1 check box filled in | 1 |
+| Not NA | 46595 |
 | NA | 8016 |
 
 
@@ -4073,6 +4359,7 @@ Q_26_11_1:SKJEMA7W; (Q_2611_1:SKJEMA7C); Atopic eczema/atopic dermatitis; Have o
 | No | 36024 |
 | Yes | 10513 |
 | More than 1 check box filled in | 6 |
+| Not NA | 46543 |
 | NA | 8068 |
 
 
@@ -4085,6 +4372,7 @@ Q_26_12_1:SKJEMA7W; (Q_2612_1:SKJEMA7C); Allergy/intolerance to milk; Have or ha
 | No | 43802 |
 | Yes | 2793 |
 | More than 1 check box filled in | 7 |
+| Not NA | 46602 |
 | NA | 8009 |
 
 
@@ -4097,6 +4385,7 @@ Q_26_13_1:SKJEMA7W; (Q_2613_1:SKJEMA7C); Allergy/intolerance to egg; Have or had
 | No | 45410 |
 | Yes | 1215 |
 | More than 1 check box filled in | 4 |
+| Not NA | 46629 |
 | NA | 7982 |
 
 
@@ -4108,6 +4397,7 @@ Q_26_14_1:SKJEMA7W; (Q_2614_1:SKJEMA7C); Allergy/intolerance to peanuts; Have or
 | -------- | - |
 | No | 45354 |
 | Yes | 1252 |
+| Not NA | 46606 |
 | NA | 8005 |
 
 
@@ -4120,6 +4410,7 @@ Q_26_15_1:SKJEMA7W; (Q_2615_1:SKJEMA7C); Allergy/intolerance to nuts (other than
 | No | 45325 |
 | Yes | 1281 |
 | More than 1 check box filled in | 1 |
+| Not NA | 46607 |
 | NA | 8004 |
 
 
@@ -4132,6 +4423,7 @@ Q_26_16_1:SKJEMA7W; (Q_2616_1:SKJEMA7C); Allergy/intolerance to fish; Have or ha
 | No | 46402 |
 | Yes | 216 |
 | More than 1 check box filled in | 1 |
+| Not NA | 46619 |
 | NA | 7992 |
 
 
@@ -4143,6 +4435,7 @@ Q_26_17_1:SKJEMA7W; (Q_2617_1:SKJEMA7C); Allergy/intolerance to shellfish; Have 
 | -------- | - |
 | No | 46382 |
 | Yes | 185 |
+| Not NA | 46567 |
 | NA | 8044 |
 
 
@@ -4155,6 +4448,7 @@ Q_26_18_1:SKJEMA7W; (Q_2618_1:SKJEMA7C); Allergy/intolerance to fruit; Have or h
 | No | 45399 |
 | Yes | 1193 |
 | More than 1 check box filled in | 3 |
+| Not NA | 46595 |
 | NA | 8016 |
 
 
@@ -4167,6 +4461,7 @@ Q_26_19_1:SKJEMA7W; (Q_2619_1:SKJEMA7C); Allergy/intolerance to other foods; Hav
 | No | 45097 |
 | Yes | 1254 |
 | More than 1 check box filled in | 10 |
+| Not NA | 46361 |
 | NA | 8250 |
 
 
@@ -4179,6 +4474,7 @@ Q_27_1:SKJEMA7W; (Q_27_1:SKJEMA7C); (Q_27_1:SKJEMA7B); (Q__2:SKJEMA7A); ; . Duri
 | No | 49285 |
 | Yes | 4160 |
 | More than 1 check box filled in | 1 |
+| Not NA | 53446 |
 | NA | 1165 |
 
 
@@ -4193,6 +4489,7 @@ Q_27_4:SKJEMA7W; (Q_27_4:SKJEMA7C); (Q_27_4:SKJEMA7B); (Q__5:SKJEMA7A); When was
 | Last week | 403 |
 | Last year | 1382 |
 | More than 1 check box filled in | 17 |
+| Not NA | 4036 |
 | NA | 50575 |
 
 
@@ -4203,6 +4500,7 @@ Q__6_1_1:SKJEMA7A; Short breath/Whistling in the chest; Had symptoms; Yes; 6. Ha
 | Category | n |
 | -------- | - |
 | 1 | 288 |
+| Not NA | 288 |
 | NA | 54323 |
 
 
@@ -4213,6 +4511,7 @@ Q__6_1_2:SKJEMA7A; Short breath/Whistling in the chest; At what age? Before 3 ye
 | Category | n |
 | -------- | - |
 | 1 | 206 |
+| Not NA | 206 |
 | NA | 54405 |
 
 
@@ -4223,6 +4522,7 @@ Q__6_1_3:SKJEMA7A; Short breath/Whistling in the chest; At what age? 3-5 years; 
 | Category | n |
 | -------- | - |
 | 1 | 141 |
+| Not NA | 141 |
 | NA | 54470 |
 
 
@@ -4233,6 +4533,7 @@ Q__6_1_4:SKJEMA7A; Short breath/Whistling in the chest; At what age? 6-7 years; 
 | Category | n |
 | -------- | - |
 | 1 | 84 |
+| Not NA | 84 |
 | NA | 54527 |
 
 
@@ -4256,6 +4557,7 @@ Q__6_1_5:SKJEMA7A; Short breath/Whistling in the chest; Times during the last 12
 | 30 | 3 |
 | 10 | 7 |
 | 12 | 3 |
+| Not NA | 209 |
 | NA | 54402 |
 
 
@@ -4266,6 +4568,7 @@ Q__6_2_1:SKJEMA7A; Tightness in chest; Had symptoms? Yes; 6. Has the child ever 
 | Category | n |
 | -------- | - |
 | 1 | 279 |
+| Not NA | 279 |
 | NA | 54332 |
 
 
@@ -4276,6 +4579,7 @@ Q__6_2_2:SKJEMA7A; Tightness in chest; At what age? Before 3 years; 6. Has the c
 | Category | n |
 | -------- | - |
 | 1 | 195 |
+| Not NA | 195 |
 | NA | 54416 |
 
 
@@ -4286,6 +4590,7 @@ Q__6_2_3:SKJEMA7A; Tightness in chest; At what age? 3-5 years; 6. Has the child 
 | Category | n |
 | -------- | - |
 | 1 | 146 |
+| Not NA | 146 |
 | NA | 54465 |
 
 
@@ -4296,6 +4601,7 @@ Q__6_2_4:SKJEMA7A; Tightness in chest; At what age? 6-7 years; 6. Has the child 
 | Category | n |
 | -------- | - |
 | 1 | 95 |
+| Not NA | 95 |
 | NA | 54516 |
 
 
@@ -4319,6 +4625,7 @@ Q__6_2_5:SKJEMA7A; Tightness in chest; Times during the last 12 months?; 6. Has 
 | 10 | 9 |
 | 6 | 8 |
 | 12 | 2 |
+| Not NA | 211 |
 | NA | 54400 |
 
 
@@ -4329,6 +4636,7 @@ Q_28_2_1:SKJEMA7B; (Q__6_3_1:SKJEMA7A); Night cough without cold; Yes; 28. Has t
 | Category | n |
 | -------- | - |
 | 1 | 1083 |
+| Not NA | 1083 |
 | NA | 53528 |
 
 
@@ -4339,6 +4647,7 @@ Q_28_2_2:SKJEMA7W; (Q_28_2_2:SKJEMA7C); (Q_28_2_2:SKJEMA7B); (Q__6_3_2:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 5383 |
+| Not NA | 5383 |
 | NA | 49228 |
 
 
@@ -4349,6 +4658,7 @@ Q__6_3_3:SKJEMA7A; Night cough without cold; At what age? 3-5 years; 6. Has the 
 | Category | n |
 | -------- | - |
 | 1 | 209 |
+| Not NA | 209 |
 | NA | 54402 |
 
 
@@ -4359,6 +4669,7 @@ Q__6_3_4:SKJEMA7A; Night cough without cold; At what age? 6-7 years; 6. Has the 
 | Category | n |
 | -------- | - |
 | 1 | 161 |
+| Not NA | 161 |
 | NA | 54450 |
 
 
@@ -4413,6 +4724,7 @@ Q_28_2_4:SKJEMA7W; (Q_28_2_4:SKJEMA7C); (Q_28_2_4:SKJEMA7B); (Q__6_3_5:SKJEMA7A)
 | 98 | 12 |
 | Filled in text or mark instead of number | 35 |
 | NA's | 47511 |
+| Not NA | 7100 |
 
 
 ### JJ188
@@ -4422,6 +4734,7 @@ Q_28_3_1:SKJEMA7B; (Q__6_4_1:SKJEMA7A); Wheezing/tightness in the chest during o
 | Category | n |
 | -------- | - |
 | 1 | 359 |
+| Not NA | 359 |
 | NA | 54252 |
 
 
@@ -4432,6 +4745,7 @@ Q_28_3_2:SKJEMA7W; (Q_28_3_2:SKJEMA7C); (Q_28_3_2:SKJEMA7B); (Q__6_4_2:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 1677 |
+| Not NA | 1677 |
 | NA | 52934 |
 
 
@@ -4442,6 +4756,7 @@ Q__6_4_3:SKJEMA7A; Wheezing/tightness in the chest during or after physical exer
 | Category | n |
 | -------- | - |
 | 1 | 44 |
+| Not NA | 44 |
 | NA | 54567 |
 
 
@@ -4452,6 +4767,7 @@ Q__6_4_4:SKJEMA7A; Wheezing/tightness in the chest during or after physical exer
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 54575 |
 
 
@@ -4501,6 +4817,7 @@ Q_28_3_4:SKJEMA7W; (Q_28_3_4:SKJEMA7C); (Q_28_3_4:SKJEMA7B); (Q__6_4_5:SKJEMA7A)
 | 98 | 3 |
 | Filled in text or mark instead of number | 19 |
 | NA's | 52159 |
+| Not NA | 2452 |
 
 
 ### JJ193
@@ -4510,6 +4827,7 @@ Q_28_4_1:SKJEMA7B; (Q__6_5_1:SKJEMA7A); Runny nose without cold; Yes; 28. Has th
 | Category | n |
 | -------- | - |
 | 1 | 559 |
+| Not NA | 559 |
 | NA | 54052 |
 
 
@@ -4520,6 +4838,7 @@ Q_28_4_2:SKJEMA7W; (Q_28_4_2:SKJEMA7C); (Q_28_4_2:SKJEMA7B); (Q__6_5_2:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 2423 |
+| Not NA | 2423 |
 | NA | 52188 |
 
 
@@ -4530,6 +4849,7 @@ Q__6_5_3:SKJEMA7A; Runny nose without cold; At what age? 3-5 years; 6. Has the c
 | Category | n |
 | -------- | - |
 | 1 | 103 |
+| Not NA | 103 |
 | NA | 54508 |
 
 
@@ -4540,6 +4860,7 @@ Q__6_5_4:SKJEMA7A; Runny nose without cold; At what age? 6-7 years; 6. Has the c
 | Category | n |
 | -------- | - |
 | 1 | 114 |
+| Not NA | 114 |
 | NA | 54497 |
 
 
@@ -4591,6 +4912,7 @@ Q_28_4_4:SKJEMA7W; (Q_28_4_4:SKJEMA7C); (Q_28_4_4:SKJEMA7B); (Q__6_5_5:SKJEMA7A)
 | 98 | 11 |
 | Filled in text or mark instead of number | 69 |
 | NA's | 50829 |
+| Not NA | 3782 |
 
 
 ### JJ198
@@ -4600,6 +4922,7 @@ Q_28_5_1:SKJEMA7B; (Q__6_6_1:SKJEMA7A); Itchy/runny eyes without cold; Yes; 28. 
 | Category | n |
 | -------- | - |
 | 1 | 619 |
+| Not NA | 619 |
 | NA | 53992 |
 
 
@@ -4610,6 +4933,7 @@ Q_28_5_2:SKJEMA7W; (Q_28_5_2:SKJEMA7C); (Q_28_5_2:SKJEMA7B); (Q__6_6_2:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 1300 |
+| Not NA | 1300 |
 | NA | 53311 |
 
 
@@ -4620,6 +4944,7 @@ Q__6_6_3:SKJEMA7A; Itchy/runny eyes without cold; At what age? 3-5 years; 6. Has
 | Category | n |
 | -------- | - |
 | 1 | 105 |
+| Not NA | 105 |
 | NA | 54506 |
 
 
@@ -4630,6 +4955,7 @@ Q__6_6_4:SKJEMA7A; Itchy/runny eyes without cold; At what age? 6-7 years; 6. Has
 | Category | n |
 | -------- | - |
 | 1 | 115 |
+| Not NA | 115 |
 | NA | 54496 |
 
 
@@ -4681,6 +5007,7 @@ Q_28_5_4:SKJEMA7W; (Q_28_5_4:SKJEMA7C); (Q_28_5_4:SKJEMA7B); (Q__6_6_5:SKJEMA7A)
 | 98 | 10 |
 | Filled in text or mark instead of number | 39 |
 | NA's | 50531 |
+| Not NA | 4080 |
 
 
 ### JJ203
@@ -4690,6 +5017,7 @@ Q_28_6_1:SKJEMA7B; (Q__6_7_1:SKJEMA7A); Itchy rash that comes and goes for at le
 | Category | n |
 | -------- | - |
 | 1 | 498 |
+| Not NA | 498 |
 | NA | 54113 |
 
 
@@ -4700,6 +5028,7 @@ Q_28_6_2:SKJEMA7W; (Q_28_6_2:SKJEMA7C); (Q_28_6_2:SKJEMA7B); (Q__6_7_2:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 2595 |
+| Not NA | 2595 |
 | NA | 52016 |
 
 
@@ -4710,6 +5039,7 @@ Q__6_7_3:SKJEMA7A; Itchy rash that comes and goes for at least 6 months; At what
 | Category | n |
 | -------- | - |
 | 1 | 98 |
+| Not NA | 98 |
 | NA | 54513 |
 
 
@@ -4720,6 +5050,7 @@ Q__6_7_4:SKJEMA7A; Itchy rash that comes and goes for at least 6 months; At what
 | Category | n |
 | -------- | - |
 | 1 | 112 |
+| Not NA | 112 |
 | NA | 54499 |
 
 
@@ -4769,6 +5100,7 @@ Q_28_6_4:SKJEMA7W; (Q_28_6_4:SKJEMA7C); (Q_28_6_4:SKJEMA7B); (Q__6_7_5:SKJEMA7A)
 | 98 | 23 |
 | Filled in text or mark instead of number | 52 |
 | NA's | 51059 |
+| Not NA | 3552 |
 
 
 ### JJ208
@@ -4778,6 +5110,7 @@ Q_28_8_1:SKJEMA7B; (Q__6_8_1:SKJEMA7A); Stomach pain; Yes; 28. Has the child eve
 | Category | n |
 | -------- | - |
 | 1 | 1419 |
+| Not NA | 1419 |
 | NA | 53192 |
 
 
@@ -4788,6 +5121,7 @@ Q_28_8_2:SKJEMA7W; (Q_28_8_2:SKJEMA7C); (Q_28_8_2:SKJEMA7B); (Q__6_8_2:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 4289 |
+| Not NA | 4289 |
 | NA | 50322 |
 
 
@@ -4798,6 +5132,7 @@ Q__6_8_3:SKJEMA7A; Stomach pain; At what age? 3-5 years; 6. Has the child ever h
 | Category | n |
 | -------- | - |
 | 1 | 219 |
+| Not NA | 219 |
 | NA | 54392 |
 
 
@@ -4808,6 +5143,7 @@ Q__6_8_4:SKJEMA7A; Stomach pain; At what age? 6-7 years; 6. Has the child ever h
 | Category | n |
 | -------- | - |
 | 1 | 356 |
+| Not NA | 356 |
 | NA | 54255 |
 
 
@@ -4876,6 +5212,7 @@ Q_28_8_4:SKJEMA7W; (Q_28_8_4:SKJEMA7C); (Q_28_8_4:SKJEMA7B); (Q__6_8_5:SKJEMA7A)
 | 98 | 77 |
 | Filled in text or mark instead of number | 230 |
 | NA's | 41902 |
+| Not NA | 12709 |
 
 
 ### JJ213
@@ -4885,6 +5222,7 @@ Q_28_9_1:SKJEMA7B; (Q__6_9_1:SKJEMA7A); Migraine; Yes; 28. Has the child ever ha
 | Category | n |
 | -------- | - |
 | 1 | 113 |
+| Not NA | 113 |
 | NA | 54498 |
 
 
@@ -4895,6 +5233,7 @@ Q_28_9_2:SKJEMA7W; (Q_28_9_2:SKJEMA7C); (Q_28_9_2:SKJEMA7B); (Q__6_9_2:SKJEMA7A)
 | Category | n |
 | -------- | - |
 | 1 | 95 |
+| Not NA | 95 |
 | NA | 54516 |
 
 
@@ -4905,6 +5244,7 @@ Q__6_9_3:SKJEMA7A; Migraine; At what age? 3-5 years; 6. Has the child ever had a
 | Category | n |
 | -------- | - |
 | 1 | 17 |
+| Not NA | 17 |
 | NA | 54594 |
 
 
@@ -4915,6 +5255,7 @@ Q__6_9_4:SKJEMA7A; Migraine; At what age? 6-7 years; 6. Has the child ever had a
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 54589 |
 
 
@@ -4957,6 +5298,7 @@ Q_28_9_4:SKJEMA7W; (Q_28_9_4:SKJEMA7C); (Q_28_9_4:SKJEMA7B); (Q__6_9_5:SKJEMA7A)
 | 98 | 1 |
 | Filled in text or mark instead of number | 2 |
 | NA's | 53734 |
+| Not NA | 877 |
 
 
 ### JJ218
@@ -4966,6 +5308,7 @@ Q_2810_1:SKJEMA7B; (Q__610_1:SKJEMA7A); Other headache; Yes; 28. Has the child e
 | Category | n |
 | -------- | - |
 | 1 | 935 |
+| Not NA | 935 |
 | NA | 53676 |
 
 
@@ -4976,6 +5319,7 @@ Q_28_10_2:SKJEMA7W; (Q_2810_2:SKJEMA7C); (Q_2810_2:SKJEMA7B); (Q__610_2:SKJEMA7A
 | Category | n |
 | -------- | - |
 | 1 | 366 |
+| Not NA | 366 |
 | NA | 54245 |
 
 
@@ -4986,6 +5330,7 @@ Q__610_3:SKJEMA7A; Other headache; At what age? 3-5 years; 6. Has the child ever
 | Category | n |
 | -------- | - |
 | 1 | 68 |
+| Not NA | 68 |
 | NA | 54543 |
 
 
@@ -4996,6 +5341,7 @@ Q__610_4:SKJEMA7A; Other headache; At what age? 6-7 years; 6. Has the child ever
 | Category | n |
 | -------- | - |
 | 1 | 244 |
+| Not NA | 244 |
 | NA | 54367 |
 
 
@@ -5051,6 +5397,7 @@ Q_28_10_4:SKJEMA7W; (Q_2810_4:SKJEMA7C); (Q_2810_4:SKJEMA7B); (Q__610_5:SKJEMA7A
 | 98 | 3 |
 | Filled in text or mark instead of number | 19 |
 | NA's | 46420 |
+| Not NA | 8191 |
 
 
 ### JJ223
@@ -5060,6 +5407,7 @@ Q__611_1:SKJEMA7A; Vomit/Diarrhoea; Had symptoms? Yes; 6. Has the child ever had
 | Category | n |
 | -------- | - |
 | 1 | 923 |
+| Not NA | 923 |
 | NA | 53688 |
 
 
@@ -5070,6 +5418,7 @@ Q__611_2:SKJEMA7A; Vomit/Diarrhoea; At what age? Before 3 years; 6. Has the chil
 | Category | n |
 | -------- | - |
 | 1 | 475 |
+| Not NA | 475 |
 | NA | 54136 |
 
 
@@ -5080,6 +5429,7 @@ Q__611_3:SKJEMA7A; Vomit/Diarrhoea; At what age? 3-5 years; 6. Has the child eve
 | Category | n |
 | -------- | - |
 | 1 | 603 |
+| Not NA | 603 |
 | NA | 54008 |
 
 
@@ -5090,6 +5440,7 @@ Q__611_4:SKJEMA7A; Vomit/Diarrhoea; At what age? 6-7 years; 6. Has the child eve
 | Category | n |
 | -------- | - |
 | 1 | 671 |
+| Not NA | 671 |
 | NA | 53940 |
 
 
@@ -5116,6 +5467,7 @@ Q__611_5:SKJEMA7A; Vomit/Diarrhoea; Times during the last 12 months?; 6. Has the
 | 30 | 1 |
 | 20 | 1 |
 | 24 | 1 |
+| Not NA | 860 |
 | NA | 53751 |
 
 
@@ -5126,6 +5478,7 @@ Q__612_1:SKJEMA7A; Febrile seizures; Had symptoms? Yes; 6. Has the child ever ha
 | Category | n |
 | -------- | - |
 | 1 | 76 |
+| Not NA | 76 |
 | NA | 54535 |
 
 
@@ -5136,6 +5489,7 @@ Q__612_2:SKJEMA7A; Febrile seizures; At what age? Before 3 years; 6. Has the chi
 | Category | n |
 | -------- | - |
 | 1 | 61 |
+| Not NA | 61 |
 | NA | 54550 |
 
 
@@ -5146,6 +5500,7 @@ Q__612_3:SKJEMA7A; Febrile seizures; At what age? 3-5 years; 6. Has the child ev
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 54592 |
 
 
@@ -5156,6 +5511,7 @@ Q__612_4:SKJEMA7A; Febrile seizures; At what age? 6-7 years; 6. Has the child ev
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 54602 |
 
 
@@ -5170,6 +5526,7 @@ Q__612_5:SKJEMA7A; Febrile seizures; Times during the last 12 months?; 6. Has th
 | 3 | 1 |
 | 4 | 1 |
 | 2 | 1 |
+| Not NA | 51 |
 | NA | 54560 |
 
 
@@ -5180,6 +5537,7 @@ Q__613_1:SKJEMA7A; Throat infection; Had symptoms? Yes; 6. Has the child ever ha
 | Category | n |
 | -------- | - |
 | 1 | 426 |
+| Not NA | 426 |
 | NA | 54185 |
 
 
@@ -5190,6 +5548,7 @@ Q__613_2:SKJEMA7A; Throat infection; At what age? Before 3 years; 6. Has the chi
 | Category | n |
 | -------- | - |
 | 1 | 172 |
+| Not NA | 172 |
 | NA | 54439 |
 
 
@@ -5200,6 +5559,7 @@ Q__613_3:SKJEMA7A; Throat infection; At what age? 3-5 years; 6. Has the child ev
 | Category | n |
 | -------- | - |
 | 1 | 274 |
+| Not NA | 274 |
 | NA | 54337 |
 
 
@@ -5210,6 +5570,7 @@ Q__613_4:SKJEMA7A; Throat infection; At what age? 6-7 years; 6. Has the child ev
 | Category | n |
 | -------- | - |
 | 1 | 202 |
+| Not NA | 202 |
 | NA | 54409 |
 
 
@@ -5228,6 +5589,7 @@ Q__613_5:SKJEMA7A; Throat infection; Times during the last 12 months?; 6. Has th
 | 4 | 9 |
 | 6 | 4 |
 | 7 | 1 |
+| Not NA | 313 |
 | NA | 54298 |
 
 
@@ -5238,6 +5600,7 @@ Q_2813_1:SKJEMA7B; (Q__614_1:SKJEMA7A); Ear infections; Yes; 28. Has the child e
 | Category | n |
 | -------- | - |
 | 1 | 1865 |
+| Not NA | 1865 |
 | NA | 52746 |
 
 
@@ -5248,6 +5611,7 @@ Q_28_13_2:SKJEMA7W; (Q_2813_2:SKJEMA7C); (Q_2813_2:SKJEMA7B); (Q__614_2:SKJEMA7A
 | Category | n |
 | -------- | - |
 | 1 | 11423 |
+| Not NA | 11423 |
 | NA | 43188 |
 
 
@@ -5258,6 +5622,7 @@ Q__614_3:SKJEMA7A; Ear infections; At what age? 3-5 years; 6. Has the child ever
 | Category | n |
 | -------- | - |
 | 1 | 349 |
+| Not NA | 349 |
 | NA | 54262 |
 
 
@@ -5268,6 +5633,7 @@ Q__614_4:SKJEMA7A; Ear infections; At what age? 6-7 years; 6. Has the child ever
 | Category | n |
 | -------- | - |
 | 1 | 206 |
+| Not NA | 206 |
 | NA | 54405 |
 
 
@@ -5300,6 +5666,7 @@ Q_28_13_4:SKJEMA7W; (Q_2813_4:SKJEMA7C); (Q_2813_4:SKJEMA7B); (Q__614_5:SKJEMA7A
 | 9 | 1 |
 | Filled in text or mark instead of number | 1 |
 | NA's | 40569 |
+| Not NA | 14042 |
 
 
 ### JJ243
@@ -5309,6 +5676,7 @@ Q__615_1:SKJEMA7A; Bronchitis; Had symptoms? Yes; 6. Has the child ever had any 
 | Category | n |
 | -------- | - |
 | 1 | 113 |
+| Not NA | 113 |
 | NA | 54498 |
 
 
@@ -5319,6 +5687,7 @@ Q__615_2:SKJEMA7A; Bronchitis; At what age? Before 3 years; 6. Has the child eve
 | Category | n |
 | -------- | - |
 | 1 | 66 |
+| Not NA | 66 |
 | NA | 54545 |
 
 
@@ -5329,6 +5698,7 @@ Q__615_3:SKJEMA7A; Bronchitis; At what age? 3-5 years; 6. Has the child ever had
 | Category | n |
 | -------- | - |
 | 1 | 49 |
+| Not NA | 49 |
 | NA | 54562 |
 
 
@@ -5339,6 +5709,7 @@ Q__615_4:SKJEMA7A; Bronchitis; At what age? 6-7 years; 6. Has the child ever had
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 54590 |
 
 
@@ -5353,6 +5724,7 @@ Q__615_5:SKJEMA7A; Bronchitis; Times during the last 12 months?; 6. Has the chil
 | 2 | 4 |
 | 7 | 1 |
 | 5 | 2 |
+| Not NA | 64 |
 | NA | 54547 |
 
 
@@ -5363,6 +5735,7 @@ Q__616_1:SKJEMA7A; Pneumonia; Had symptoms? Yes; 6. Has the child ever had any o
 | Category | n |
 | -------- | - |
 | 1 | 172 |
+| Not NA | 172 |
 | NA | 54439 |
 
 
@@ -5373,6 +5746,7 @@ Q__616_2:SKJEMA7A; Pneumonia; At what age? Before 3 years; 6. Has the child ever
 | Category | n |
 | -------- | - |
 | 1 | 75 |
+| Not NA | 75 |
 | NA | 54536 |
 
 
@@ -5383,6 +5757,7 @@ Q__616_3:SKJEMA7A; Pneumonia; At what age? 3-5 years; 6. Has the child ever had 
 | Category | n |
 | -------- | - |
 | 1 | 78 |
+| Not NA | 78 |
 | NA | 54533 |
 
 
@@ -5393,6 +5768,7 @@ Q__616_4:SKJEMA7A; Pneumonia; At what age? 6-7 years; 6. Has the child ever had 
 | Category | n |
 | -------- | - |
 | 1 | 45 |
+| Not NA | 45 |
 | NA | 54566 |
 
 
@@ -5408,6 +5784,7 @@ Q__616_5:SKJEMA7A; Pneumonia; Times during the last 12 months?; 6. Has the child
 | 5 | 1 |
 | 4 | 1 |
 | 3 | 2 |
+| Not NA | 119 |
 | NA | 54492 |
 
 
@@ -5418,6 +5795,7 @@ Q_2815_1:SKJEMA7B; (Q__617_1:SKJEMA7A); Urinary tract infection; Yes; 28. Has th
 | Category | n |
 | -------- | - |
 | 1 | 527 |
+| Not NA | 527 |
 | NA | 54084 |
 
 
@@ -5428,6 +5806,7 @@ Q_28_15_2:SKJEMA7W; (Q_2815_2:SKJEMA7C); (Q_2815_2:SKJEMA7B); (Q__617_2:SKJEMA7A
 | Category | n |
 | -------- | - |
 | 1 | 2166 |
+| Not NA | 2166 |
 | NA | 52445 |
 
 
@@ -5438,6 +5817,7 @@ Q__617_3:SKJEMA7A; Urinary tract infection; At what age? 3-5 years; 6. Has the c
 | Category | n |
 | -------- | - |
 | 1 | 76 |
+| Not NA | 76 |
 | NA | 54535 |
 
 
@@ -5448,6 +5828,7 @@ Q__617_4:SKJEMA7A; Urinary tract infection; At what age? 6-7 years; 6. Has the c
 | Category | n |
 | -------- | - |
 | 1 | 50 |
+| Not NA | 50 |
 | NA | 54561 |
 
 
@@ -5471,6 +5852,7 @@ Q_28_15_4:SKJEMA7W; (Q_2815_4:SKJEMA7C); (Q_2815_4:SKJEMA7B); (Q__617_5:SKJEMA7A
 | 98 | 1 |
 | 9 | 3 |
 | 12 | 1 |
+| Not NA | 4094 |
 | NA | 50517 |
 
 
@@ -5481,6 +5863,7 @@ Q__620_1:SKJEMA7A; Meningitis; Had symptoms? Yes; 6. Has the child ever had any 
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -5491,6 +5874,7 @@ Q__620_2:SKJEMA7A; Meningitis; At what age? Before 3 years; 6. Has the child eve
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 54608 |
 
 
@@ -5501,6 +5885,7 @@ Q__620_3:SKJEMA7A; Meningitis; At what age? 3-5 years; 6. Has the child ever had
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 54610 |
 
 
@@ -5510,6 +5895,7 @@ Q__620_4:SKJEMA7A; Meningitis; At what age? 6-7 years; 6. Has the child ever had
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 54611 |
 
 
@@ -5520,6 +5906,7 @@ Q__620_5:SKJEMA7A; Meningitis; Times during the last 12 months?; 6. Has the chil
 | Category | n |
 | -------- | - |
 | 0 | 4 |
+| Not NA | 4 |
 | NA | 54607 |
 
 
@@ -5530,6 +5917,7 @@ Q_2816_1:SKJEMA7B; (Q__621_1:SKJEMA7A); Other, describe; Yes; 28. Has the child 
 | Category | n |
 | -------- | - |
 | 1 | 473 |
+| Not NA | 473 |
 | NA | 54138 |
 
 
@@ -5540,6 +5928,7 @@ Q_28_16_2:SKJEMA7W; (Q_2816_2:SKJEMA7C); (Q_2816_2:SKJEMA7B); (Q__621_2:SKJEMA7A
 | Category | n |
 | -------- | - |
 | 1 | 1775 |
+| Not NA | 1775 |
 | NA | 52836 |
 
 
@@ -5550,6 +5939,7 @@ Q__621_3:SKJEMA7A; Other, describe; At what age? 3-5 years; 6. Has the child eve
 | Category | n |
 | -------- | - |
 | 1 | 88 |
+| Not NA | 88 |
 | NA | 54523 |
 
 
@@ -5560,6 +5950,7 @@ Q__621_4:SKJEMA7A; Other, describe; At what age? 6-7 years; 6. Has the child eve
 | Category | n |
 | -------- | - |
 | 1 | 110 |
+| Not NA | 110 |
 | NA | 54501 |
 
 
@@ -5613,6 +6004,7 @@ Q_28_16_4:SKJEMA7W; (Q_2816_4:SKJEMA7C); (Q_2816_4:SKJEMA7B); (Q__621_5:SKJEMA7A
 | 98 | 37 |
 | Filled in text or mark instead of number | 78 |
 | NA's | 51234 |
+| Not NA | 3377 |
 
 
 ### JJ491
@@ -5622,6 +6014,7 @@ Q_28_1_1:SKJEMA7B; Short breath/Tightness/Whistling in the chest; Yes; 28. Has t
 | Category | n |
 | -------- | - |
 | 1 | 922 |
+| Not NA | 922 |
 | NA | 53689 |
 
 
@@ -5632,6 +6025,7 @@ Q_28_1_2:SKJEMA7W; (Q_28_1_2:SKJEMA7C); (Q_28_1_2:SKJEMA7B); Short breath/Tightn
 | Category | n |
 | -------- | - |
 | 1 | 8238 |
+| Not NA | 8238 |
 | NA | 46373 |
 
 
@@ -5642,6 +6036,7 @@ Q_28_1_3:SKJEMA7W; (Q_28_1_3:SKJEMA7C); (Q_28_1_3:SKJEMA7B); Short breath/Tightn
 | Category | n |
 | -------- | - |
 | 1 | 4827 |
+| Not NA | 4827 |
 | NA | 49784 |
 
 
@@ -5658,6 +6053,7 @@ Q_28_1_4:SKJEMA7W; (Q_28_1_4:SKJEMA7C); (Q_28_1_4:SKJEMA7B); Short breath/Tightn
 | 3rd Qu. | 2 |
 | Max. | 99 |
 | NA's | 46313 |
+| Not NA | 8298 |
 
 
 ### JJ495
@@ -5667,6 +6063,7 @@ Q_28_2_3:SKJEMA7W; (Q_28_2_3:SKJEMA7C); (Q_28_2_3:SKJEMA7B); Night cough without
 | Category | n |
 | -------- | - |
 | 1 | 5373 |
+| Not NA | 5373 |
 | NA | 49238 |
 
 
@@ -5677,6 +6074,7 @@ Q_28_3_3:SKJEMA7W; (Q_28_3_3:SKJEMA7C); (Q_28_3_3:SKJEMA7B); Wheezing/tightness 
 | Category | n |
 | -------- | - |
 | 1 | 1922 |
+| Not NA | 1922 |
 | NA | 52689 |
 
 
@@ -5687,6 +6085,7 @@ Q_28_4_3:SKJEMA7W; (Q_28_4_3:SKJEMA7C); (Q_28_4_3:SKJEMA7B); Runny nose without 
 | Category | n |
 | -------- | - |
 | 1 | 3349 |
+| Not NA | 3349 |
 | NA | 51262 |
 
 
@@ -5697,6 +6096,7 @@ Q_28_5_3:SKJEMA7W; (Q_28_5_3:SKJEMA7C); (Q_28_5_3:SKJEMA7B); Itchy/runny eyes wi
 | Category | n |
 | -------- | - |
 | 1 | 3935 |
+| Not NA | 3935 |
 | NA | 50676 |
 
 
@@ -5707,6 +6107,7 @@ Q_28_6_3:SKJEMA7W; (Q_28_6_3:SKJEMA7C); (Q_28_6_3:SKJEMA7B); Itchy rash that com
 | Category | n |
 | -------- | - |
 | 1 | 2846 |
+| Not NA | 2846 |
 | NA | 51765 |
 
 
@@ -5717,6 +6118,7 @@ Q_28_7_1:SKJEMA7B; Hives/urticaria; Yes; 28. Has the child ever had any of the f
 | Category | n |
 | -------- | - |
 | 1 | 269 |
+| Not NA | 269 |
 | NA | 54342 |
 
 
@@ -5727,6 +6129,7 @@ Q_28_7_2:SKJEMA7W; (Q_28_7_2:SKJEMA7C); (Q_28_7_2:SKJEMA7B); Hives/urticaria; At
 | Category | n |
 | -------- | - |
 | 1 | 1647 |
+| Not NA | 1647 |
 | NA | 52964 |
 
 
@@ -5737,6 +6140,7 @@ Q_28_7_3:SKJEMA7W; (Q_28_7_3:SKJEMA7C); (Q_28_7_3:SKJEMA7B); Hives/urticaria; At
 | Category | n |
 | -------- | - |
 | 1 | 2302 |
+| Not NA | 2302 |
 | NA | 52309 |
 
 
@@ -5753,6 +6157,7 @@ Q_28_7_4:SKJEMA7W; (Q_28_7_4:SKJEMA7C); (Q_28_7_4:SKJEMA7B); Hives/urticaria; Ti
 | 3rd Qu. | 1 |
 | Max. | 99 |
 | NA's | 51432 |
+| Not NA | 3179 |
 
 
 ### JJ504
@@ -5762,6 +6167,7 @@ Q_28_8_3:SKJEMA7W; (Q_28_8_3:SKJEMA7C); (Q_28_8_3:SKJEMA7B); Stomach pain; At wh
 | Category | n |
 | -------- | - |
 | 1 | 12006 |
+| Not NA | 12006 |
 | NA | 42605 |
 
 
@@ -5772,6 +6178,7 @@ Q_28_9_3:SKJEMA7W; (Q_28_9_3:SKJEMA7C); (Q_28_9_3:SKJEMA7B); Migraine; At what a
 | Category | n |
 | -------- | - |
 | 1 | 656 |
+| Not NA | 656 |
 | NA | 53955 |
 
 
@@ -5782,6 +6189,7 @@ Q_28_10_3:SKJEMA7W; (Q_2810_3:SKJEMA7C); (Q_2810_3:SKJEMA7B); Other headache; At
 | Category | n |
 | -------- | - |
 | 1 | 7633 |
+| Not NA | 7633 |
 | NA | 46978 |
 
 
@@ -5792,6 +6200,7 @@ Q_2811_1:SKJEMA7B; Diarrhoea; Yes; 28. Has the child ever had any of the followi
 | Category | n |
 | -------- | - |
 | 1 | 890 |
+| Not NA | 890 |
 | NA | 53721 |
 
 
@@ -5802,6 +6211,7 @@ Q_28_11_2:SKJEMA7W; (Q_2811_2:SKJEMA7C); (Q_2811_2:SKJEMA7B); Diarrhoea; At what
 | Category | n |
 | -------- | - |
 | 1 | 8525 |
+| Not NA | 8525 |
 | NA | 46086 |
 
 
@@ -5812,6 +6222,7 @@ Q_28_11_3:SKJEMA7W; (Q_2811_3:SKJEMA7C); (Q_2811_3:SKJEMA7B); Diarrhoea; At what
 | Category | n |
 | -------- | - |
 | 1 | 11167 |
+| Not NA | 11167 |
 | NA | 43444 |
 
 
@@ -5828,6 +6239,7 @@ Q_28_11_4:SKJEMA7W; (Q_2811_4:SKJEMA7C); (Q_2811_4:SKJEMA7B); Diarrhoea; Times d
 | 3rd Qu. | 3 |
 | Max. | 99 |
 | NA's | 41793 |
+| Not NA | 12818 |
 
 
 ### JJ511
@@ -5837,6 +6249,7 @@ Q_2812_1:SKJEMA7B; Heartburn/hyperacidity; Yes; 28. Has the child ever had any o
 | Category | n |
 | -------- | - |
 | 1 | 78 |
+| Not NA | 78 |
 | NA | 54533 |
 
 
@@ -5847,6 +6260,7 @@ Q_28_12_2:SKJEMA7W; (Q_2812_2:SKJEMA7C); (Q_2812_2:SKJEMA7B); Heartburn/hyperaci
 | Category | n |
 | -------- | - |
 | 1 | 436 |
+| Not NA | 436 |
 | NA | 54175 |
 
 
@@ -5857,6 +6271,7 @@ Q_28_12_3:SKJEMA7W; (Q_2812_3:SKJEMA7C); (Q_2812_3:SKJEMA7B); Heartburn/hyperaci
 | Category | n |
 | -------- | - |
 | 1 | 973 |
+| Not NA | 973 |
 | NA | 53638 |
 
 
@@ -5873,6 +6288,7 @@ Q_28_12_4:SKJEMA7W; (Q_2812_4:SKJEMA7C); (Q_2812_4:SKJEMA7B); Heartburn/hyperaci
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 53406 |
+| Not NA | 1205 |
 
 
 ### JJ515
@@ -5882,6 +6298,7 @@ Q_28_13_3:SKJEMA7W; (Q_2813_3:SKJEMA7C); (Q_2813_3:SKJEMA7B); Ear infections; At
 | Category | n |
 | -------- | - |
 | 1 | 9551 |
+| Not NA | 9551 |
 | NA | 45060 |
 
 
@@ -5892,6 +6309,7 @@ Q_2814_1:SKJEMA7B; Pneumonia/ bronchitis; Yes; 28. Has the child ever had any of
 | Category | n |
 | -------- | - |
 | 1 | 414 |
+| Not NA | 414 |
 | NA | 54197 |
 
 
@@ -5902,6 +6320,7 @@ Q_28_14_2:SKJEMA7W; (Q_2814_2:SKJEMA7C); (Q_2814_2:SKJEMA7B); Pneumonia/ bronchi
 | Category | n |
 | -------- | - |
 | 1 | 3485 |
+| Not NA | 3485 |
 | NA | 51126 |
 
 
@@ -5912,6 +6331,7 @@ Q_28_14_3:SKJEMA7W; (Q_2814_3:SKJEMA7C); (Q_2814_3:SKJEMA7B); Pneumonia/ bronchi
 | Category | n |
 | -------- | - |
 | 1 | 2359 |
+| Not NA | 2359 |
 | NA | 52252 |
 
 
@@ -5937,6 +6357,7 @@ Q_28_14_4:SKJEMA7W; (Q_2814_4:SKJEMA7C); (Q_2814_4:SKJEMA7B); Pneumonia/ bronchi
 | 9 | 1 |
 | 7 | 1 |
 | 15 | 1 |
+| Not NA | 4034 |
 | NA | 50577 |
 
 
@@ -5947,6 +6368,7 @@ Q_28_15_3:SKJEMA7W; (Q_2815_3:SKJEMA7C); (Q_2815_3:SKJEMA7B); Urinary tract infe
 | Category | n |
 | -------- | - |
 | 1 | 2863 |
+| Not NA | 2863 |
 | NA | 51748 |
 
 
@@ -5957,6 +6379,7 @@ Q_28_16_3:SKJEMA7W; (Q_2816_3:SKJEMA7C); (Q_2816_3:SKJEMA7B); Other, describe: A
 | Category | n |
 | -------- | - |
 | 1 | 3137 |
+| Not NA | 3137 |
 | NA | 51474 |
 
 
@@ -5969,6 +6392,7 @@ Q_28_1_1:SKJEMA7W; (Q_28_1_1:SKJEMA7C); Short breath/Tightness/Whistling in the 
 | Yes | 9304 |
 | No | 37270 |
 | More than 1 check box filled in | 3 |
+| Not NA | 46577 |
 | NA | 8034 |
 
 
@@ -5981,6 +6405,7 @@ Q_28_2_1:SKJEMA7W; (Q_28_2_1:SKJEMA7C); Night cough without cold; . Has the chil
 | No | 39100 |
 | Yes | 7508 |
 | More than 1 check box filled in | 2 |
+| Not NA | 46610 |
 | NA | 8001 |
 
 
@@ -5993,6 +6418,7 @@ Q_28_3_1:SKJEMA7W; (Q_28_3_1:SKJEMA7C); Wheezing/tightness in the chest during o
 | No | 44077 |
 | Yes | 2561 |
 | More than 1 check box filled in | 1 |
+| Not NA | 46639 |
 | NA | 7972 |
 
 
@@ -6005,6 +6431,7 @@ Q_28_4_1:SKJEMA7W; (Q_28_4_1:SKJEMA7C); Runny nose without cold; . Has the child
 | No | 42381 |
 | Yes | 4283 |
 | More than 1 check box filled in | 7 |
+| Not NA | 46671 |
 | NA | 7940 |
 
 
@@ -6017,6 +6444,7 @@ Q_28_5_1:SKJEMA7W; (Q_28_5_1:SKJEMA7C); Itchy/runny eyes without cold; . Has the
 | Yes | 4343 |
 | No | 42340 |
 | More than 1 check box filled in | 2 |
+| Not NA | 46685 |
 | NA | 7926 |
 
 
@@ -6029,6 +6457,7 @@ Q_28_6_1:SKJEMA7W; (Q_28_6_1:SKJEMA7C); Itchy rash that comes and goes for at le
 | Yes | 3866 |
 | No | 42709 |
 | More than 1 check box filled in | 2 |
+| Not NA | 46577 |
 | NA | 8034 |
 
 
@@ -6041,6 +6470,7 @@ Q_28_7_1:SKJEMA7W; (Q_28_7_1:SKJEMA7C); Hives/urticaria; . Has the child ever ha
 | No | 43348 |
 | Yes | 3291 |
 | More than 1 check box filled in | 1 |
+| Not NA | 46640 |
 | NA | 7971 |
 
 
@@ -6053,6 +6483,7 @@ Q_28_8_1:SKJEMA7W; (Q_28_8_1:SKJEMA7C); Stomach pain; . Has the child ever had, 
 | Yes | 12550 |
 | No | 34009 |
 | More than 1 check box filled in | 2 |
+| Not NA | 46561 |
 | NA | 8050 |
 
 
@@ -6065,6 +6496,7 @@ Q_28_9_1:SKJEMA7W; (Q_28_9_1:SKJEMA7C); Migraine; . Has the child ever had, or d
 | No | 46002 |
 | Yes | 661 |
 | More than 1 check box filled in | 1 |
+| Not NA | 46664 |
 | NA | 7947 |
 
 
@@ -6077,6 +6509,7 @@ Q_28_10_1:SKJEMA7W; (Q_2810_1:SKJEMA7C); Other headache; . Has the child ever ha
 | Yes | 7670 |
 | No | 38975 |
 | More than 1 check box filled in | 6 |
+| Not NA | 46651 |
 | NA | 7960 |
 
 
@@ -6089,6 +6522,7 @@ Q_28_11_1:SKJEMA7W; (Q_2811_1:SKJEMA7C); Diarrhoea; . Has the child ever had, or
 | Yes | 13247 |
 | No | 33075 |
 | More than 1 check box filled in | 10 |
+| Not NA | 46332 |
 | NA | 8279 |
 
 
@@ -6101,6 +6535,7 @@ Q_28_12_1:SKJEMA7W; (Q_2812_1:SKJEMA7C); Heartburn/hyperacidity;; . Has the chil
 | No | 45367 |
 | Yes | 1281 |
 | More than 1 check box filled in | 2 |
+| Not NA | 46650 |
 | NA | 7961 |
 
 
@@ -6113,6 +6548,7 @@ Q_28_13_1:SKJEMA7W; (Q_2813_1:SKJEMA7C); Ear infections; . Has the child ever ha
 | Yes | 14967 |
 | No | 31391 |
 | More than 1 check box filled in | 10 |
+| Not NA | 46368 |
 | NA | 8243 |
 
 
@@ -6125,6 +6561,7 @@ Q_28_14_1:SKJEMA7W; (Q_2814_1:SKJEMA7C); Pneumonia/ bronchitis; . Has the child 
 | No | 41784 |
 | Yes | 4813 |
 | More than 1 check box filled in | 4 |
+| Not NA | 46601 |
 | NA | 8010 |
 
 
@@ -6137,6 +6574,7 @@ Q_28_15_1:SKJEMA7W; (Q_2815_1:SKJEMA7C); Urinary tract infection; . Has the chil
 | No | 42404 |
 | Yes | 4231 |
 | More than 1 check box filled in | 2 |
+| Not NA | 46637 |
 | NA | 7974 |
 
 
@@ -6148,6 +6586,7 @@ Q_28_16_1:SKJEMA7W; (Q_2816_1:SKJEMA7C); Other, describe; . Has the child ever h
 | -------- | - |
 | No | 10583 |
 | Yes | 3433 |
+| Not NA | 14016 |
 | NA | 40595 |
 
 
@@ -6161,6 +6600,7 @@ Q_41_1:SKJEMA7A; Cod liver oil; 41. Does your child normally take any of the fol
 | Yes, sometimes | 638 |
 | No | 899 |
 | More than 1 check box filled in | 3 |
+| Not NA | 1858 |
 | NA | 52753 |
 
 
@@ -6173,6 +6613,7 @@ Q_41_2:SKJEMA7A; Other types of fish oil/omega-3; 41. Does your child normally t
 | No | 1340 |
 | Yes, sometimes | 246 |
 | Yes, daily | 149 |
+| Not NA | 1735 |
 | NA | 52876 |
 
 
@@ -6186,6 +6627,7 @@ Q_41_3_1:SKJEMA7A; Multivitamins; 41. Does your child normally take any of the f
 | No | 906 |
 | Yes, sometimes | 559 |
 | More than 1 check box filled in | 3 |
+| Not NA | 1909 |
 | NA | 52702 |
 
 
@@ -6198,6 +6640,7 @@ Q_41_4_1:SKJEMA7A; Other dieatry supplement; 41. Does your child normally take a
 | No | 603 |
 | Yes, daily | 94 |
 | Yes, sometimes | 118 |
+| Not NA | 815 |
 | NA | 53796 |
 
 
@@ -6213,6 +6656,7 @@ Q_29_1_1:SKJEMA7W; (Q_29_1_1:SKJEMA7C); (Q_29_1_1:SKJEMA7B); Liquid supplements;
 | 6-7 | 5614 |
 | Less than 1 | 3956 |
 | More than 1 check box filled in | 21 |
+| Not NA | 39324 |
 | NA | 15287 |
 
 
@@ -6226,6 +6670,7 @@ Q_29_1_2:SKJEMA7W; (Q_29_1_2:SKJEMA7C); (Q_29_1_2:SKJEMA7B); Liquid supplements;
 | 1 tbsp | 7679 |
 | 1 tsp    | 2735 |
 | More than 1 check box filled in | 6 |
+| Not NA | 18234 |
 | NA | 36377 |
 
 
@@ -6241,6 +6686,7 @@ Q_29_2_1:SKJEMA7W; (Q_29_2_1:SKJEMA7C); (Q_29_2_1:SKJEMA7B); Liquid supplements;
 | 6-7 | 660 |
 | 4-5 | 400 |
 | More than 1 check box filled in | 10 |
+| Not NA | 29360 |
 | NA | 25251 |
 
 
@@ -6254,6 +6700,7 @@ Q_29_2_2:SKJEMA7W; (Q_29_2_2:SKJEMA7C); (Q_29_2_2:SKJEMA7B); Liquid supplements;
 | 1 tsp    | 471 |
 | 1 dsp     | 515 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1521 |
 | NA | 53090 |
 
 
@@ -6269,6 +6716,7 @@ Q_29_3_1:SKJEMA7W; (Q_29_3_1:SKJEMA7C); (Q_29_3_1:SKJEMA7B); Liquid supplements;
 | Less than 1 | 3880 |
 | 4-5 | 3535 |
 | More than 1 check box filled in | 15 |
+| Not NA | 36827 |
 | NA | 17784 |
 
 
@@ -6282,6 +6730,7 @@ Q_29_3_2:SKJEMA7W; (Q_29_3_2:SKJEMA7C); (Q_29_3_2:SKJEMA7B); Liquid supplements;
 | 1 tbsp | 6437 |
 | 1 tsp    | 2199 |
 | More than 1 check box filled in | 4 |
+| Not NA | 14859 |
 | NA | 39752 |
 
 
@@ -6297,6 +6746,7 @@ Q_29_4_1:SKJEMA7W; (Q_29_4_1:SKJEMA7C); (Q_29_4_1:SKJEMA7B); Liquid supplements;
 | 1-3 | 307 |
 | 6-7 | 528 |
 | More than 1 check box filled in | 10 |
+| Not NA | 27953 |
 | NA | 26658 |
 
 
@@ -6309,6 +6759,7 @@ Q_29_4_2:SKJEMA7W; (Q_29_4_2:SKJEMA7C); (Q_29_4_2:SKJEMA7B); Liquid supplements;
 | 1 dsp     | 401 |
 | 1 tsp    | 288 |
 | 1 tbsp | 249 |
+| Not NA | 938 |
 | NA | 53673 |
 
 
@@ -6324,6 +6775,7 @@ Q_29_5_1:SKJEMA7W; (Q_29_5_1:SKJEMA7C); (Q_29_5_1:SKJEMA7B); Capsules/tablets; O
 | 1-3 | 1035 |
 | Less than 1 | 514 |
 | More than 1 check box filled in | 3 |
+| Not NA | 30111 |
 | NA | 24500 |
 
 
@@ -6337,6 +6789,7 @@ Q_29_5_2:SKJEMA7W; (Q_29_5_2:SKJEMA7C); (Q_29_5_2:SKJEMA7B); Capsules/tablets; O
 | 2 | 1664 |
 | 3+ at a time | 127 |
 | More than 1 check box filled in | 2 |
+| Not NA | 3572 |
 | NA | 51039 |
 
 
@@ -6352,6 +6805,7 @@ Q_29_6_1:SKJEMA7W; (Q_29_6_1:SKJEMA7C); (Q_29_6_1:SKJEMA7B); Capsules/tablets; F
 | Less than 1 | 261 |
 | 4-5 | 217 |
 | More than 1 check box filled in | 3 |
+| Not NA | 27706 |
 | NA | 26905 |
 
 
@@ -6364,6 +6818,7 @@ Q_29_6_2:SKJEMA7W; (Q_29_6_2:SKJEMA7C); (Q_29_6_2:SKJEMA7B); Capsules/tablets; F
 | 2 | 341 |
 | 1 | 544 |
 | 3+ at a time | 13 |
+| Not NA | 898 |
 | NA | 53713 |
 
 
@@ -6379,6 +6834,7 @@ Q_29_7_1:SKJEMA7W; (Q_29_7_1:SKJEMA7C); (Q_29_7_1:SKJEMA7B); Capsules/tablets; M
 | 1-3 | 2869 |
 | Less than 1 | 968 |
 | More than 1 check box filled in | 10 |
+| Not NA | 33950 |
 | NA | 20661 |
 
 
@@ -6392,6 +6848,7 @@ Q_29_7_2:SKJEMA7W; (Q_29_7_2:SKJEMA7C); (Q_29_7_2:SKJEMA7B); Capsules/tablets; M
 | 2 | 682 |
 | More than 1 check box filled in | 5 |
 | 3+ at a time | 24 |
+| Not NA | 9839 |
 | NA | 44772 |
 
 
@@ -6407,6 +6864,7 @@ Q_29_8_1:SKJEMA7W; (Q_29_8_1:SKJEMA7C); (Q_29_8_1:SKJEMA7B); Capsules/tablets; F
 | None | 8489 |
 | Less than 1 | 1289 |
 | More than 1 check box filled in | 51 |
+| Not NA | 41570 |
 | NA | 13041 |
 
 
@@ -6420,6 +6878,7 @@ Q_29_8_2:SKJEMA7W; (Q_29_8_2:SKJEMA7C); (Q_29_8_2:SKJEMA7B); Capsules/tablets; F
 | 2 | 1215 |
 | 3+ at a time | 34 |
 | More than 1 check box filled in | 5 |
+| Not NA | 25579 |
 | NA | 29032 |
 
 
@@ -6435,6 +6894,7 @@ Q_29_9_1:SKJEMA7W; (Q_29_9_1:SKJEMA7C); (Q_29_9_1:SKJEMA7B); Capsules/tablets; O
 | 4-5 | 765 |
 | Less than 1 | 294 |
 | More than 1 check box filled in | 9 |
+| Not NA | 27529 |
 | NA | 27082 |
 
 
@@ -6448,6 +6908,7 @@ Q_29_9_2:SKJEMA7W; (Q_29_9_2:SKJEMA7C); (Q_29_9_2:SKJEMA7B); Capsules/tablets; O
 | 3+ at a time | 74 |
 | 2 | 296 |
 | More than 1 check box filled in | 3 |
+| Not NA | 2901 |
 | NA | 51710 |
 
 
@@ -6468,6 +6929,7 @@ Q_30_1:SKJEMA7W; (Q_30_1:SKJEMA7C); (Q_30_1:SKJEMA7B); (Q_34_1:SKJEMA7A); Number
 | 6 | 17 |
 | 15 | 1 |
 | 8 | 1 |
+| Not NA | 16677 |
 | NA | 37934 |
 
 
@@ -6484,6 +6946,7 @@ Q_30_2:SKJEMA7W; (Q_30_2:SKJEMA7C); (Q_30_2:SKJEMA7B); (Q_34_2:SKJEMA7A); Number
 | 3rd Qu. | 4 |
 | Max. | 42 |
 | NA's | 25305 |
+| Not NA | 29306 |
 
 
 ### JJ341
@@ -6499,6 +6962,7 @@ Q_30_3:SKJEMA7W; (Q_30_3:SKJEMA7C); (Q_30_3:SKJEMA7B); (Q_34_3:SKJEMA7A); Number
 | 3rd Qu. | 5 |
 | Max. | 66 |
 | NA's | 12653 |
+| Not NA | 41958 |
 
 
 ### JJ342
@@ -6525,6 +6989,7 @@ Q_30_4:SKJEMA7W; (Q_30_4:SKJEMA7C); (Q_30_4:SKJEMA7B); (Q_34_4:SKJEMA7A); Number
 | 12 | 2 |
 | 20 | 3 |
 | 16 | 1 |
+| Not NA | 27269 |
 | NA | 27342 |
 
 
@@ -6541,6 +7006,7 @@ Q_31_13:SKJEMA7W; (Q_3113:SKJEMA7C); (Q_3113:SKJEMA7B); (Q_35_1:SKJEMA7A); Chees
 | Once a day or more | 8588 |
 | Never / seldom | 2900 |
 | More than 1 check box filled in | 86 |
+| Not NA | 53526 |
 | NA | 1085 |
 
 
@@ -6557,6 +7023,7 @@ Q_31_11:SKJEMA7W; (Q_3111:SKJEMA7C); (Q_3111:SKJEMA7B); (Q_35_2:SKJEMA7A); Slice
 | Never / seldom | 2603 |
 | 1-2 times a week | 8364 |
 | More than 1 check box filled in | 96 |
+| Not NA | 53478 |
 | NA | 1133 |
 
 
@@ -6573,6 +7040,7 @@ Q_31_12:SKJEMA7W; (Q_3112:SKJEMA7C); (Q_3112:SKJEMA7B); (Q_35_3:SKJEMA7A); Fish 
 | 5-6 times a week | 3615 |
 | More than 1 check box filled in | 331 |
 | 1-3 times per month | 9821 |
+| Not NA | 53524 |
 | NA | 1087 |
 
 
@@ -6589,6 +7057,7 @@ Q_31_20:SKJEMA7W; (Q_3120:SKJEMA7C); (Q_3120:SKJEMA7B); (Q_35_4:SKJEMA7A); Egg; 
 | 3-4 times a week | 3891 |
 | More than 1 check box filled in | 147 |
 | 5-6 times a week | 662 |
+| Not NA | 53701 |
 | NA | 910 |
 
 
@@ -6605,6 +7074,7 @@ Q_35_5:SKJEMA7A; Jam/honey; 35. How often does your child usually eat the follow
 | Never | 264 |
 | Once a day or more | 135 |
 | More than 1 check box filled in | 8 |
+| Not NA | 1908 |
 | NA | 52703 |
 
 
@@ -6621,6 +7091,7 @@ Q_31_15:SKJEMA7W; (Q_3115:SKJEMA7C); (Q_3115:SKJEMA7B); (Q_35_6:SKJEMA7A); Choco
 | Once a day or more | 990 |
 | 5-6 times a week | 1513 |
 | More than 1 check box filled in | 56 |
+| Not NA | 53707 |
 | NA | 904 |
 
 
@@ -6637,6 +7108,7 @@ Q_31_17:SKJEMA7W; (Q_3117:SKJEMA7C); (Q_3117:SKJEMA7B); (Q_35_7:SKJEMA7A); Corn 
 | 5-6 times a week | 1742 |
 | Once a day or more | 821 |
 | More than 1 check box filled in | 99 |
+| Not NA | 53622 |
 | NA | 989 |
 
 
@@ -6653,6 +7125,7 @@ Q_35_8:SKJEMA7A; Muesli/oatmeal/cereal; 35. How often does your child usually ea
 | 3-4 times a week | 257 |
 | 1-2 times a week | 380 |
 | More than 1 check box filled in | 3 |
+| Not NA | 1890 |
 | NA | 52721 |
 
 
@@ -6669,6 +7142,7 @@ Q_35_9:SKJEMA7A; Yoghurt natural; 35. How often does your child usually eat the 
 | 3-4 times a week | 27 |
 | 1-2 times a week | 67 |
 | More than 1 check box filled in | 5 |
+| Not NA | 1837 |
 | NA | 52774 |
 
 
@@ -6685,6 +7159,7 @@ Q_3510:SKJEMA7A; Fruit yoghurt/yoghurt to drink; 35. How often does your child u
 | 5-6 times a week | 169 |
 | 3-4 times a week | 423 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1944 |
 | NA | 52667 |
 
 
@@ -6701,6 +7176,7 @@ Q_31_22:SKJEMA7W; (Q_3122:SKJEMA7C); (Q_3122:SKJEMA7B); (Q_37_1:SKJEMA7A); Fat f
 | 5-6 times a week | 269 |
 | More than 1 check box filled in | 81 |
 | Once a day or more | 102 |
+| Not NA | 53708 |
 | NA | 903 |
 
 
@@ -6717,6 +7193,7 @@ Q_31_23:SKJEMA7W; (Q_3123:SKJEMA7C); (Q_3123:SKJEMA7B); (Q_37_2:SKJEMA7A); Other
 | 5-6 times a week | 60 |
 | Once a day or more | 14 |
 | More than 1 check box filled in | 42 |
+| Not NA | 53625 |
 | NA | 986 |
 
 
@@ -6733,6 +7210,7 @@ Q_31_24:SKJEMA7W; (Q_3124:SKJEMA7C); (Q_3124:SKJEMA7B); (Q_37_3:SKJEMA7A); Fish 
 | Once a day or more | 12 |
 | More than 1 check box filled in | 35 |
 | 5-6 times a week | 45 |
+| Not NA | 53703 |
 | NA | 908 |
 
 
@@ -6748,6 +7226,7 @@ Q_37_4:SKJEMA7A; Chicken/turkey; 37. How often does your child usually eat the f
 | Never | 74 |
 | 5-6 times a week | 4 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1949 |
 | NA | 52662 |
 
 
@@ -6763,6 +7242,7 @@ Q_37_5:SKJEMA7A; Pure meat; 37. How often does your child usually eat the follow
 | Never | 122 |
 | 5-6 times a week | 2 |
 | More than 1 check box filled in | 7 |
+| Not NA | 1911 |
 | NA | 52700 |
 
 
@@ -6778,6 +7258,7 @@ Q_37_6:SKJEMA7A; Sausages; 37. How often does your child usually eat the followi
 | Never | 31 |
 | More than 1 check box filled in | 5 |
 | 5-6 times a week | 2 |
+| Not NA | 1945 |
 | NA | 52666 |
 
 
@@ -6793,6 +7274,7 @@ Q_37_7:SKJEMA7A; Minced meat (hamburgers etc.); 37. How often does your child us
 | Never | 25 |
 | 5-6 times a week | 3 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1941 |
 | NA | 52670 |
 
 
@@ -6809,6 +7291,7 @@ Q_31_27:SKJEMA7W; (Q_3127:SKJEMA7C); (Q_3127:SKJEMA7B); (Q_37_8:SKJEMA7A); Pizza
 | More than 1 check box filled in | 114 |
 | 3-4 times a week | 187 |
 | 5-6 times a week | 22 |
+| Not NA | 53811 |
 | NA | 800 |
 
 
@@ -6825,6 +7308,7 @@ Q_31_30:SKJEMA7W; (Q_3130:SKJEMA7C); (Q_3130:SKJEMA7B); (Q_37_9:SKJEMA7A); Panca
 | 5-6 times a week | 24 |
 | More than 1 check box filled in | 29 |
 | Once a day or more | 11 |
+| Not NA | 53834 |
 | NA | 777 |
 
 
@@ -6841,6 +7325,7 @@ Q_31_29:SKJEMA7W; (Q_3129:SKJEMA7C); (Q_3129:SKJEMA7B); (Q_3710:SKJEMA7A); Veget
 | Once a day or more | 68 |
 | More than 1 check box filled in | 62 |
 | 5-6 times a week | 103 |
+| Not NA | 53378 |
 | NA | 1233 |
 
 
@@ -6857,6 +7342,7 @@ Q_31_4:SKJEMA7W; (Q_31_4:SKJEMA7C); (Q_31_4:SKJEMA7B); (Q_3711:SKJEMA7A); Potato
 | Once a day or more | 506 |
 | More than 1 check box filled in | 190 |
 | 5-6 times a week | 4060 |
+| Not NA | 53521 |
 | NA | 1090 |
 
 
@@ -6873,6 +7359,7 @@ Q_31_21:SKJEMA7W; (Q_3121:SKJEMA7C); (Q_3121:SKJEMA7B); (Q_3712:SKJEMA7A); Rice,
 | Never / seldom | 315 |
 | Once a day or more | 319 |
 | More than 1 check box filled in | 60 |
+| Not NA | 53736 |
 | NA | 875 |
 
 
@@ -6889,6 +7376,7 @@ Q_31_1:SKJEMA7W; (Q_31_1:SKJEMA7C); (Q_31_1:SKJEMA7B); (Q_38_1:SKJEMA7A); Carrot
 | Once a day or more | 1896 |
 | 5-6 times a week | 5952 |
 | More than 1 check box filled in | 42 |
+| Not NA | 53927 |
 | NA | 684 |
 
 
@@ -6905,6 +7393,7 @@ Q_38_2:SKJEMA7A; Yellow turnip; 38. How often does your child usually eat the fo
 | 5-6 times a week | 9 |
 | More than 1 check box filled in | 6 |
 | Once a day or more | 2 |
+| Not NA | 1935 |
 | NA | 52676 |
 
 
@@ -6921,6 +7410,7 @@ Q_31_2:SKJEMA7W; (Q_31_2:SKJEMA7C); (Q_31_2:SKJEMA7B); (Q_38_3:SKJEMA7A); Cabbag
 | Once a day or more | 320 |
 | 5-6 times a week | 2122 |
 | More than 1 check box filled in | 65 |
+| Not NA | 53737 |
 | NA | 874 |
 
 
@@ -6937,6 +7427,7 @@ Q_38_4:SKJEMA7A; Spinach, green beans; 38. How often does your child usually eat
 | Once a day or more | 2 |
 | 5-6 times a week | 2 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1934 |
 | NA | 52677 |
 
 
@@ -6953,6 +7444,7 @@ Q_38_5:SKJEMA7A; Peas; 38. How often does your child usually eat the following? 
 | 3-4 times a week | 30 |
 | 5-6 times a week | 7 |
 | Once a day or more | 1 |
+| Not NA | 1939 |
 | NA | 52672 |
 
 
@@ -6969,6 +7461,7 @@ Q_31_5:SKJEMA7W; (Q_31_5:SKJEMA7C); (Q_31_5:SKJEMA7B); (Q_38_6:SKJEMA7A); Other 
 | Once a day or more | 3637 |
 | 5-6 times a week | 4966 |
 | More than 1 check box filled in | 129 |
+| Not NA | 51967 |
 | NA | 2644 |
 
 
@@ -6985,6 +7478,7 @@ Q_31_6:SKJEMA7W; (Q_31_6:SKJEMA7C); (Q_31_6:SKJEMA7B); (Q_38_7:SKJEMA7A); Orange
 | More than 1 check box filled in | 322 |
 | 5-6 times a week | 1327 |
 | Once a day or more | 589 |
+| Not NA | 53333 |
 | NA | 1278 |
 
 
@@ -7001,6 +7495,7 @@ Q_31_8:SKJEMA7W; (Q_31_8:SKJEMA7C); (Q_31_8:SKJEMA7B); (Q_38_8:SKJEMA7A); Banana
 | Once a day or more | 1559 |
 | 5-6 times a week | 4051 |
 | More than 1 check box filled in | 192 |
+| Not NA | 53585 |
 | NA | 1026 |
 
 
@@ -7017,6 +7512,7 @@ Q_38_9:SKJEMA7A; Apple, pear; 38. How often does your child usually eat the foll
 | 1-3 times per month or less | 101 |
 | Never | 33 |
 | More than 1 check box filled in | 3 |
+| Not NA | 1950 |
 | NA | 52661 |
 
 
@@ -7032,6 +7528,7 @@ Q_3810:SKJEMA7A; Grapes, melon; 38. How often does your child usually eat the fo
 | 5-6 times a week | 110 |
 | Never | 112 |
 | Once a day or more | 56 |
+| Not NA | 1943 |
 | NA | 52668 |
 
 
@@ -7048,6 +7545,7 @@ Q_31_9:SKJEMA7W; (Q_31_9:SKJEMA7C); (Q_31_9:SKJEMA7B); (Q_3811:SKJEMA7A); Other 
 | 5-6 times a week | 4193 |
 | Once a day or more | 3069 |
 | More than 1 check box filled in | 91 |
+| Not NA | 52654 |
 | NA | 1957 |
 
 
@@ -7064,6 +7562,7 @@ Q_31_10:SKJEMA7W; (Q_3110:SKJEMA7C); (Q_3110:SKJEMA7B); (Q_3812:SKJEMA7A); Organ
 | 3-4 times a week | 2327 |
 | 5-6 times a week | 992 |
 | More than 1 check box filled in | 390 |
+| Not NA | 52783 |
 | NA | 1828 |
 
 
@@ -7080,6 +7579,7 @@ Q_31_31:SKJEMA7W; (Q_3131:SKJEMA7C); (Q_3131:SKJEMA7B); (Q_39_1:SKJEMA7A); Buns/
 | Once a day or more | 12 |
 | More than 1 check box filled in | 37 |
 | 5-6 times a week | 32 |
+| Not NA | 53916 |
 | NA | 695 |
 
 
@@ -7096,6 +7596,7 @@ Q_31_32:SKJEMA7W; (Q_3132:SKJEMA7C); (Q_3132:SKJEMA7B); (Q_39_2:SKJEMA7A); Ice c
 | 5-6 times a week | 270 |
 | Once a day or more | 74 |
 | More than 1 check box filled in | 61 |
+| Not NA | 53857 |
 | NA | 754 |
 
 
@@ -7112,6 +7613,7 @@ Q_31_33:SKJEMA7W; (Q_3133:SKJEMA7C); (Q_3133:SKJEMA7B); (Q_39_3:SKJEMA7A); Choco
 | More than 1 check box filled in | 45 |
 | 5-6 times a week | 130 |
 | Once a day or more | 49 |
+| Not NA | 53887 |
 | NA | 724 |
 
 
@@ -7128,6 +7630,7 @@ Q_31_34:SKJEMA7W; (Q_3134:SKJEMA7C); (Q_3134:SKJEMA7B); (Q_39_4:SKJEMA7A); Peanu
 | More than 1 check box filled in | 58 |
 | Once a day or more | 12 |
 | 5-6 times a week | 17 |
+| Not NA | 53767 |
 | NA | 844 |
 
 
@@ -7144,6 +7647,7 @@ Q_31_36:SKJEMA7W; (Q_3136:SKJEMA7C); (Q_3136:SKJEMA7B); (Q_39_5:SKJEMA7A); Potat
 | More than 1 check box filled in | 28 |
 | Once a day or more | 12 |
 | 5-6 times a week | 12 |
+| Not NA | 53911 |
 | NA | 700 |
 
 
@@ -7160,6 +7664,7 @@ Q_31_3:SKJEMA7W; (Q_31_3:SKJEMA7C); (Q_31_3:SKJEMA7B); Lettuce; . How often does
 | 5-6 times a week | 1075 |
 | More than 1 check box filled in | 417 |
 | Once a day or more | 217 |
+| Not NA | 51363 |
 | NA | 3248 |
 
 
@@ -7176,6 +7681,7 @@ Q_31_7:SKJEMA7W; (Q_31_7:SKJEMA7C); (Q_31_7:SKJEMA7B); Apple, pear, grapes; . Ho
 | Never / seldom | 1193 |
 | 1-3 times per month | 3669 |
 | More than 1 check box filled in | 121 |
+| Not NA | 51780 |
 | NA | 2831 |
 
 
@@ -7192,6 +7698,7 @@ Q_31_14:SKJEMA7W; (Q_3114:SKJEMA7C); (Q_3114:SKJEMA7B); Jam; . How often does yo
 | 1-3 times per month | 12857 |
 | Once a day or more | 2169 |
 | More than 1 check box filled in | 107 |
+| Not NA | 51425 |
 | NA | 3186 |
 
 
@@ -7208,6 +7715,7 @@ Q_31_16:SKJEMA7W; (Q_3116:SKJEMA7C); (Q_3116:SKJEMA7B); Peanut butter; . How oft
 | 5-6 times a week | 265 |
 | Once a day or more | 125 |
 | More than 1 check box filled in | 75 |
+| Not NA | 51608 |
 | NA | 3003 |
 
 
@@ -7224,6 +7732,7 @@ Q_31_18:SKJEMA7W; (Q_3118:SKJEMA7C); (Q_3118:SKJEMA7B); Müsli/rolled oats; . Ho
 | 3-4 times a week | 7148 |
 | More than 1 check box filled in | 134 |
 | Once a day or more | 3388 |
+| Not NA | 51590 |
 | NA | 3021 |
 
 
@@ -7240,6 +7749,7 @@ Q_31_19:SKJEMA7W; (Q_3119:SKJEMA7C); (Q_3119:SKJEMA7B); Yoghurt (all types); . H
 | 1-2 times a week | 17360 |
 | 5-6 times a week | 6911 |
 | More than 1 check box filled in | 61 |
+| Not NA | 51735 |
 | NA | 2876 |
 
 
@@ -7256,6 +7766,7 @@ Q_31_25:SKJEMA7W; (Q_3125:SKJEMA7C); (Q_3125:SKJEMA7B); Shellfish; . How often d
 | More than 1 check box filled in | 199 |
 | 5-6 times a week | 14 |
 | Once a day or more | 5 |
+| Not NA | 51714 |
 | NA | 2897 |
 
 
@@ -7272,6 +7783,7 @@ Q_31_26:SKJEMA7W; (Q_3126:SKJEMA7C); (Q_3126:SKJEMA7B); Meat (chops, beaf etc); 
 | 5-6 times a week | 267 |
 | Once a day or more | 32 |
 | More than 1 check box filled in | 58 |
+| Not NA | 51677 |
 | NA | 2934 |
 
 
@@ -7288,6 +7800,7 @@ Q_31_28:SKJEMA7W; (Q_3128:SKJEMA7C); (Q_3128:SKJEMA7B); Processed meats (beef-pa
 | Never / seldom | 1611 |
 | Once a day or more | 44 |
 | More than 1 check box filled in | 37 |
+| Not NA | 51743 |
 | NA | 2868 |
 
 
@@ -7304,6 +7817,7 @@ Q_31_35:SKJEMA7W; (Q_3135:SKJEMA7C); (Q_3135:SKJEMA7B); Other nuts; . How often 
 | More than 1 check box filled in | 76 |
 | Once a day or more | 98 |
 | 5-6 times a week | 232 |
+| Not NA | 51773 |
 | NA | 2838 |
 
 
@@ -7320,6 +7834,7 @@ Q_32_1:SKJEMA7W; (Q_32_1:SKJEMA7C); (Q_32_1:SKJEMA7B); (Q_36_1:SKJEMA7A); Whole 
 | More than 1 check box filled in | 94 |
 | 1-3 glasses a day | 2276 |
 | 4 glasses or more a day | 119 |
+| Not NA | 53016 |
 | NA | 1595 |
 
 
@@ -7336,6 +7851,7 @@ Q_32_2:SKJEMA7W; (Q_32_2:SKJEMA7C); (Q_32_2:SKJEMA7B); (Q_36_2:SKJEMA7A); Low fa
 | 1-3 glasses a month | 2493 |
 | 4 glasses or more a day | 1442 |
 | More than 1 check box filled in | 57 |
+| Not NA | 53628 |
 | NA | 983 |
 
 
@@ -7352,6 +7868,7 @@ Q_32_3:SKJEMA7W; (Q_32_3:SKJEMA7C); (Q_32_3:SKJEMA7B); (Q_36_3:SKJEMA7A); Chocol
 | 1-3 glasses a day | 1233 |
 | More than 1 check box filled in | 83 |
 | 4 glasses or more a day | 18 |
+| Not NA | 53449 |
 | NA | 1162 |
 
 
@@ -7368,6 +7885,7 @@ Q_32_4:SKJEMA7W; (Q_32_4:SKJEMA7C); (Q_32_4:SKJEMA7B); (Q_36_4:SKJEMA7A); Biola/
 | 4-6 glasses a week | 3386 |
 | More than 1 check box filled in | 140 |
 | 4 glasses or more a day | 33 |
+| Not NA | 53596 |
 | NA | 1015 |
 
 
@@ -7384,6 +7902,7 @@ Q_32_5:SKJEMA7W; (Q_32_5:SKJEMA7C); (Q_32_5:SKJEMA7B); (Q_36_5:SKJEMA7A); Orange
 | 1-3 glasses a day | 6008 |
 | 4 glasses or more a day | 71 |
 | More than 1 check box filled in | 49 |
+| Not NA | 53649 |
 | NA | 962 |
 
 
@@ -7400,6 +7919,7 @@ Q_32_6:SKJEMA7W; (Q_32_6:SKJEMA7C); (Q_32_6:SKJEMA7B); (Q_36_6:SKJEMA7A); Apple 
 | 1-3 glasses a day | 1473 |
 | More than 1 check box filled in | 53 |
 | 4 glasses or more a day | 21 |
+| Not NA | 53334 |
 | NA | 1277 |
 
 
@@ -7416,6 +7936,7 @@ Q_32_7:SKJEMA7W; (Q_32_7:SKJEMA7C); (Q_32_7:SKJEMA7B); (Q_36_7:SKJEMA7A); Diluti
 | 4-6 glasses a week | 4156 |
 | More than 1 check box filled in | 68 |
 | 4 glasses or more a day | 46 |
+| Not NA | 53634 |
 | NA | 977 |
 
 
@@ -7432,6 +7953,7 @@ Q_32_8:SKJEMA7W; (Q_32_8:SKJEMA7C); (Q_32_8:SKJEMA7B); (Q_36_8:SKJEMA7A); Artifi
 | 1-3 glasses a day | 1987 |
 | 4 glasses or more a day | 72 |
 | More than 1 check box filled in | 62 |
+| Not NA | 53449 |
 | NA | 1162 |
 
 
@@ -7448,6 +7970,7 @@ Q_32_9:SKJEMA7W; (Q_32_9:SKJEMA7C); (Q_32_9:SKJEMA7B); (Q_36_9:SKJEMA7A); Sodas 
 | 1-3 glasses a day | 66 |
 | More than 1 check box filled in | 61 |
 | 4 glasses or more a day | 5 |
+| Not NA | 53703 |
 | NA | 908 |
 
 
@@ -7464,6 +7987,7 @@ Q_32_10:SKJEMA7W; (Q_3210:SKJEMA7C); (Q_3210:SKJEMA7B); (Q_3610:SKJEMA7A); Diet 
 | More than 1 check box filled in | 50 |
 | 1-3 glasses a day | 141 |
 | 4 glasses or more a day | 7 |
+| Not NA | 53640 |
 | NA | 971 |
 
 
@@ -7480,6 +8004,7 @@ Q_32_11:SKJEMA7W; (Q_3211:SKJEMA7C); (Q_3211:SKJEMA7B); (Q_3611:SKJEMA7A); Water
 | 1-3 glasses a week | 1419 |
 | Never / seldom | 140 |
 | More than 1 check box filled in | 69 |
+| Not NA | 53928 |
 | NA | 683 |
 
 
@@ -7496,6 +8021,7 @@ Q_28_1:SKJEMA7A; Months; 28. How old was the child when he/she lost his/her firs
 | 3rd Qu. | 8 |
 | Max. | 93 |
 | NA's | 53383 |
+| Not NA | 1228 |
 
 
 ### JJ331
@@ -7505,6 +8031,7 @@ Q_28_2:SKJEMA7A; Do not remember; 28. How old was the child when he/she lost his
 | Category | n |
 | -------- | - |
 | 1 | 636 |
+| Not NA | 636 |
 | NA | 53975 |
 
 
@@ -7524,6 +8051,7 @@ Q_33_1:SKJEMA7W; (Q_33_1:SKJEMA7C); (Q_33_1:SKJEMA7B); (Q_29_1:SKJEMA7A); Age (y
 | 2 | 38 |
 | 8 | 3 |
 | 13 | 1 |
+| Not NA | 46829 |
 | NA | 7782 |
 
 
@@ -7534,6 +8062,7 @@ Q_33_2:SKJEMA7W; (Q_33_2:SKJEMA7C); (Q_33_2:SKJEMA7B); (Q_29_2:SKJEMA7A); Do not
 | Category | n |
 | -------- | - |
 | 1 | 4576 |
+| Not NA | 4576 |
 | NA | 50035 |
 
 
@@ -7544,6 +8073,7 @@ Q_33_3:SKJEMA7W; (Q_33_3:SKJEMA7C); (Q_33_3:SKJEMA7B); (Q_29_3:SKJEMA7A); Have n
 | Category | n |
 | -------- | - |
 | 1 | 2445 |
+| Not NA | 2445 |
 | NA | 52166 |
 
 
@@ -7561,6 +8091,7 @@ Q_34:SKJEMA7W; (Q_34:SKJEMA7C); (Q_34:SKJEMA7B); (Q_30:SKJEMA7A); ; . How often 
 | Twice a day or more often + Never or rarely | 1 |
 | Twice a day or more often + Sometimes | 1 |
 | Once a day + Sometimes | 3 |
+| Not NA | 54376 |
 | NA | 235 |
 
 
@@ -7573,6 +8104,7 @@ Q_31:SKJEMA7A; ; 31. Does the child get help when brushing teeth?
 | Every day | 1033 |
 | Seldom or never | 337 |
 | Several times a week | 558 |
+| Not NA | 1928 |
 | NA | 52683 |
 
 
@@ -7584,6 +8116,7 @@ Q_32:SKJEMA7A; ; 32. Has the child had fillings in any of his/her teeth?
 | -------- | - |
 | No | 1577 |
 | Yes | 352 |
+| Not NA | 1929 |
 | NA | 52682 |
 
 
@@ -7598,6 +8131,7 @@ Q_33:SKJEMA7A; ; 33. Does the child take fluoride tablets?
 | Sometimes + Yes | 1 |
 | No | 249 |
 | No + Yes | 1 |
+| Not NA | 1928 |
 | NA | 52683 |
 
 
@@ -7609,6 +8143,7 @@ Q_35:SKJEMA7W; (Q_35:SKJEMA7C); (Q_35:SKJEMA7B); ; . Are there cavities or begin
 | -------- | - |
 | No | 44596 |
 | Yes | 7794 |
+| Not NA | 52390 |
 | NA | 2221 |
 
 
@@ -7627,6 +8162,7 @@ Q_36:SKJEMA7W; (Q_36:SKJEMA7C); (Q_36:SKJEMA7B); ; . Does the child get help whe
 | Once a day + Sometimes | 15 |
 | Twice a day or more often + Sometimes | 1 |
 | Sometimes + Never or rarely | 1 |
+| Not NA | 52428 |
 | NA | 2183 |
 
 
@@ -7642,6 +8178,7 @@ Q_37:SKJEMA7W; (Q_37:SKJEMA7C); (Q_37:SKJEMA7B); ; . Does the child use dental f
 | Sometimes + Never or rarely | 7 |
 | Once a day + Never or rarely | 1 |
 | Once a day + Sometimes | 2 |
+| Not NA | 51179 |
 | NA | 3432 |
 
 
@@ -7652,6 +8189,7 @@ Q_38_1_1:SKJEMA7W; (Q_38_1_1:SKJEMA7C); (Q_38_1_1:SKJEMA7B); Asthma; Yes; . Have
 | Category | n |
 | -------- | - |
 | 1 | 5207 |
+| Not NA | 5207 |
 | NA | 49404 |
 
 
@@ -7662,6 +8200,7 @@ Q_38_1_2:SKJEMA7W; (Q_38_1_2:SKJEMA7C); (Q_38_1_2:SKJEMA7B); Asthma; Confirmed b
 | Category | n |
 | -------- | - |
 | 1 | 5722 |
+| Not NA | 5722 |
 | NA | 48889 |
 
 
@@ -7678,6 +8217,7 @@ Q_38_1_3:SKJEMA7W; (Q_38_1_3:SKJEMA7C); (Q_38_1_3:SKJEMA7B); Asthma; Symptoms st
 | 3rd Qu. | 20 |
 | Max. | 99 |
 | NA's | 48786 |
+| Not NA | 5825 |
 
 
 ### JJ559
@@ -7689,6 +8229,7 @@ Q_38_1_4:SKJEMA7W; (Q_38_1_4:SKJEMA7C); (Q_38_1_4:SKJEMA7B); Asthma; Symptoms du
 | No | 9484 |
 | Yes | 2889 |
 | More than 1 check box filled in | 1 |
+| Not NA | 12374 |
 | NA | 42237 |
 
 
@@ -7699,6 +8240,7 @@ Q_38_1_5:SKJEMA7W; (Q_38_1_5:SKJEMA7C); (Q_38_1_5:SKJEMA7B); Asthma; Used medici
 | Category | n |
 | -------- | - |
 | 1 | 2794 |
+| Not NA | 2794 |
 | NA | 51817 |
 
 
@@ -7709,6 +8251,7 @@ Q_38_2_1:SKJEMA7W; (Q_38_2_1:SKJEMA7C); (Q_38_2_1:SKJEMA7B); Allergy in eyes or 
 | Category | n |
 | -------- | - |
 | 1 | 12878 |
+| Not NA | 12878 |
 | NA | 41733 |
 
 
@@ -7719,6 +8262,7 @@ Q_38_2_2:SKJEMA7W; (Q_38_2_2:SKJEMA7C); (Q_38_2_2:SKJEMA7B); Allergy in eyes or 
 | Category | n |
 | -------- | - |
 | 1 | 12004 |
+| Not NA | 12004 |
 | NA | 42607 |
 
 
@@ -7735,6 +8279,7 @@ Q_38_2_3:SKJEMA7W; (Q_38_2_3:SKJEMA7C); (Q_38_2_3:SKJEMA7B); Allergy in eyes or 
 | 3rd Qu. | 25 |
 | Max. | 51 |
 | NA's | 40354 |
+| Not NA | 14257 |
 
 
 ### JJ564
@@ -7746,6 +8291,7 @@ Q_38_2_4:SKJEMA7W; (Q_38_2_4:SKJEMA7C); (Q_38_2_4:SKJEMA7B); Allergy in eyes or 
 | No | 7551 |
 | Yes | 12384 |
 | More than 1 check box filled in | 1 |
+| Not NA | 19936 |
 | NA | 34675 |
 
 
@@ -7756,6 +8302,7 @@ Q_38_2_5:SKJEMA7W; (Q_38_2_5:SKJEMA7C); (Q_38_2_5:SKJEMA7B); Allergy in eyes or 
 | Category | n |
 | -------- | - |
 | 1 | 10495 |
+| Not NA | 10495 |
 | NA | 44116 |
 
 
@@ -7766,6 +8313,7 @@ Q_38_3_1:SKJEMA7W; (Q_38_3_1:SKJEMA7C); (Q_38_3_1:SKJEMA7B); Wheezing/tightness 
 | Category | n |
 | -------- | - |
 | 1 | 3905 |
+| Not NA | 3905 |
 | NA | 50706 |
 
 
@@ -7776,6 +8324,7 @@ Q_38_3_2:SKJEMA7W; (Q_38_3_2:SKJEMA7C); (Q_38_3_2:SKJEMA7B); Wheezing/tightness 
 | Category | n |
 | -------- | - |
 | 1 | 3197 |
+| Not NA | 3197 |
 | NA | 51414 |
 
 
@@ -7792,6 +8341,7 @@ Q_38_3_3:SKJEMA7W; (Q_38_3_3:SKJEMA7C); (Q_38_3_3:SKJEMA7B); Wheezing/tightness 
 | 3rd Qu. | 28 |
 | Max. | 50 |
 | NA's | 50838 |
+| Not NA | 3773 |
 
 
 ### JJ569
@@ -7803,6 +8353,7 @@ Q_38_3_4:SKJEMA7W; (Q_38_3_4:SKJEMA7C); (Q_38_3_4:SKJEMA7B); Wheezing/tightness 
 | No | 7860 |
 | Yes | 2531 |
 | More than 1 check box filled in | 3 |
+| Not NA | 10394 |
 | NA | 44217 |
 
 
@@ -7813,6 +8364,7 @@ Q_38_3_5:SKJEMA7W; (Q_38_3_5:SKJEMA7C); (Q_38_3_5:SKJEMA7B); Wheezing/tightness 
 | Category | n |
 | -------- | - |
 | 1 | 1876 |
+| Not NA | 1876 |
 | NA | 52735 |
 
 
@@ -7826,6 +8378,7 @@ Q_39:SKJEMA7W; (Q_39:SKJEMA7C); (Q_39:SKJEMA7B); ; . Have you ever had any food 
 | Do not know | 3772 |
 | Yes | 10060 |
 | More than 1 check box filled in | 52 |
+| Not NA | 51138 |
 | NA | 3473 |
 
 
@@ -7836,6 +8389,7 @@ Q_40_1_1:SKJEMA7W; (Q_40_1_1:SKJEMA7C); (Q_40_1_1:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 2454 |
+| Not NA | 2454 |
 | NA | 52157 |
 
 
@@ -7848,6 +8402,7 @@ Q_40_1_2:SKJEMA7W; (Q_40_1_2:SKJEMA7C); (Q_40_1_2:SKJEMA7B); Allergy/intolerance
 | 18 years or older | 1225 |
 | Before 18 years | 1048 |
 | More than 1 check box filled in | 87 |
+| Not NA | 2360 |
 | NA | 52251 |
 
 
@@ -7860,6 +8415,7 @@ Q_40_1_3:SKJEMA7W; (Q_40_1_3:SKJEMA7C); (Q_40_1_3:SKJEMA7B); Allergy/intolerance
 | No | 944 |
 | Yes | 1963 |
 | More than 1 check box filled in | 3 |
+| Not NA | 2910 |
 | NA | 51701 |
 
 
@@ -7872,6 +8428,7 @@ Q_40_1_4:SKJEMA7W; (Q_40_1_4:SKJEMA7C); (Q_40_1_4:SKJEMA7B); Allergy/intolerance
 | Yes | 1696 |
 | No | 907 |
 | More than 1 check box filled in | 13 |
+| Not NA | 2616 |
 | NA | 51995 |
 
 
@@ -7882,6 +8439,7 @@ Q_40_2_1:SKJEMA7W; (Q_40_2_1:SKJEMA7C); (Q_40_2_1:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 1089 |
+| Not NA | 1089 |
 | NA | 53522 |
 
 
@@ -7894,6 +8452,7 @@ Q_40_2_2:SKJEMA7W; (Q_40_2_2:SKJEMA7C); (Q_40_2_2:SKJEMA7B); Allergy/intolerance
 | 18 years or older | 296 |
 | Before 18 years | 729 |
 | More than 1 check box filled in | 19 |
+| Not NA | 1044 |
 | NA | 53567 |
 
 
@@ -7906,6 +8465,7 @@ Q_40_2_3:SKJEMA7W; (Q_40_2_3:SKJEMA7C); (Q_40_2_3:SKJEMA7B); Allergy/intolerance
 | No | 502 |
 | Yes | 1086 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1590 |
 | NA | 53021 |
 
 
@@ -7918,6 +8478,7 @@ Q_40_2_4:SKJEMA7W; (Q_40_2_4:SKJEMA7C); (Q_40_2_4:SKJEMA7B); Allergy/intolerance
 | Yes | 371 |
 | No | 869 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1242 |
 | NA | 53369 |
 
 
@@ -7928,6 +8489,7 @@ Q_40_3_1:SKJEMA7W; (Q_40_3_1:SKJEMA7C); (Q_40_3_1:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 1417 |
+| Not NA | 1417 |
 | NA | 53194 |
 
 
@@ -7940,6 +8502,7 @@ Q_40_3_2:SKJEMA7W; (Q_40_3_2:SKJEMA7C); (Q_40_3_2:SKJEMA7B); Allergy/intolerance
 | Before 18 years | 777 |
 | 18 years or older | 470 |
 | More than 1 check box filled in | 49 |
+| Not NA | 1296 |
 | NA | 53315 |
 
 
@@ -7952,6 +8515,7 @@ Q_40_3_3:SKJEMA7W; (Q_40_3_3:SKJEMA7C); (Q_40_3_3:SKJEMA7B); Allergy/intolerance
 | Yes | 877 |
 | No | 948 |
 | More than 1 check box filled in | 3 |
+| Not NA | 1828 |
 | NA | 52783 |
 
 
@@ -7964,6 +8528,7 @@ Q_40_3_4:SKJEMA7W; (Q_40_3_4:SKJEMA7C); (Q_40_3_4:SKJEMA7B); Allergy/intolerance
 | Yes | 966 |
 | No | 513 |
 | More than 1 check box filled in | 4 |
+| Not NA | 1483 |
 | NA | 53128 |
 
 
@@ -7974,6 +8539,7 @@ Q_40_4_1:SKJEMA7W; (Q_40_4_1:SKJEMA7C); (Q_40_4_1:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 4227 |
+| Not NA | 4227 |
 | NA | 50384 |
 
 
@@ -7986,6 +8552,7 @@ Q_40_4_2:SKJEMA7W; (Q_40_4_2:SKJEMA7C); (Q_40_4_2:SKJEMA7B); Allergy/intolerance
 | Before 18 years | 1918 |
 | 18 years or older | 1861 |
 | More than 1 check box filled in | 143 |
+| Not NA | 3922 |
 | NA | 50689 |
 
 
@@ -7998,6 +8565,7 @@ Q_40_4_3:SKJEMA7W; (Q_40_4_3:SKJEMA7C); (Q_40_4_3:SKJEMA7B); Allergy/intolerance
 | Yes | 2193 |
 | No | 2175 |
 | More than 1 check box filled in | 6 |
+| Not NA | 4374 |
 | NA | 50237 |
 
 
@@ -8010,6 +8578,7 @@ Q_40_4_4:SKJEMA7W; (Q_40_4_4:SKJEMA7C); (Q_40_4_4:SKJEMA7B); Allergy/intolerance
 | Yes | 3312 |
 | No | 752 |
 | More than 1 check box filled in | 8 |
+| Not NA | 4072 |
 | NA | 50539 |
 
 
@@ -8020,6 +8589,7 @@ Q_40_5_1:SKJEMA7W; (Q_40_5_1:SKJEMA7C); (Q_40_5_1:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 1735 |
+| Not NA | 1735 |
 | NA | 52876 |
 
 
@@ -8032,6 +8602,7 @@ Q_40_5_2:SKJEMA7W; (Q_40_5_2:SKJEMA7C); (Q_40_5_2:SKJEMA7B); Allergy/intolerance
 | Before 18 years | 888 |
 | 18 years or older | 683 |
 | More than 1 check box filled in | 59 |
+| Not NA | 1630 |
 | NA | 52981 |
 
 
@@ -8044,6 +8615,7 @@ Q_40_5_3:SKJEMA7W; (Q_40_5_3:SKJEMA7C); (Q_40_5_3:SKJEMA7B); Allergy/intolerance
 | Yes | 975 |
 | No | 1172 |
 | More than 1 check box filled in | 3 |
+| Not NA | 2150 |
 | NA | 52461 |
 
 
@@ -8056,6 +8628,7 @@ Q_40_5_4:SKJEMA7W; (Q_40_5_4:SKJEMA7C); (Q_40_5_4:SKJEMA7B); Allergy/intolerance
 | Yes | 1092 |
 | No | 670 |
 | More than 1 check box filled in | 7 |
+| Not NA | 1769 |
 | NA | 52842 |
 
 
@@ -8066,6 +8639,7 @@ Q_40_6_1:SKJEMA7W; (Q_40_6_1:SKJEMA7C); (Q_40_6_1:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 536 |
+| Not NA | 536 |
 | NA | 54075 |
 
 
@@ -8078,6 +8652,7 @@ Q_40_6_2:SKJEMA7W; (Q_40_6_2:SKJEMA7C); (Q_40_6_2:SKJEMA7B); Allergy/intolerance
 | Before 18 years | 326 |
 | 18 years or older | 148 |
 | More than 1 check box filled in | 18 |
+| Not NA | 492 |
 | NA | 54119 |
 
 
@@ -8090,6 +8665,7 @@ Q_40_6_3:SKJEMA7W; (Q_40_6_3:SKJEMA7C); (Q_40_6_3:SKJEMA7B); Allergy/intolerance
 | No | 554 |
 | Yes | 508 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1064 |
 | NA | 53547 |
 
 
@@ -8101,6 +8677,7 @@ Q_40_6_4:SKJEMA7W; (Q_40_6_4:SKJEMA7C); (Q_40_6_4:SKJEMA7B); Allergy/intolerance
 | -------- | - |
 | Yes | 295 |
 | No | 412 |
+| Not NA | 707 |
 | NA | 53904 |
 
 
@@ -8111,6 +8688,7 @@ Q_40_7_1:SKJEMA7W; (Q_40_7_1:SKJEMA7C); (Q_40_7_1:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 4579 |
+| Not NA | 4579 |
 | NA | 50032 |
 
 
@@ -8123,6 +8701,7 @@ Q_40_7_2:SKJEMA7W; (Q_40_7_2:SKJEMA7C); (Q_40_7_2:SKJEMA7B); Allergy/intolerance
 | 18 years or older | 1917 |
 | Before 18 years | 2204 |
 | More than 1 check box filled in | 168 |
+| Not NA | 4289 |
 | NA | 50322 |
 
 
@@ -8135,6 +8714,7 @@ Q_40_7_3:SKJEMA7W; (Q_40_7_3:SKJEMA7C); (Q_40_7_3:SKJEMA7B); Allergy/intolerance
 | Yes | 3142 |
 | No | 1554 |
 | More than 1 check box filled in | 7 |
+| Not NA | 4703 |
 | NA | 49908 |
 
 
@@ -8147,6 +8727,7 @@ Q_40_7_4:SKJEMA7W; (Q_40_7_4:SKJEMA7C); (Q_40_7_4:SKJEMA7B); Allergy/intolerance
 | Yes | 3174 |
 | No | 1248 |
 | More than 1 check box filled in | 10 |
+| Not NA | 4432 |
 | NA | 50179 |
 
 
@@ -8157,6 +8738,7 @@ Q_40_8_1:SKJEMA7W; (Q_40_8_1:SKJEMA7C); (Q_40_8_1:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 2890 |
+| Not NA | 2890 |
 | NA | 51721 |
 
 
@@ -8169,6 +8751,7 @@ Q_40_8_2:SKJEMA7W; (Q_40_8_2:SKJEMA7C); (Q_40_8_2:SKJEMA7B); Allergy/intolerance
 | Before 18 years | 688 |
 | 18 years or older | 950 |
 | More than 1 check box filled in | 63 |
+| Not NA | 1701 |
 | NA | 52910 |
 
 
@@ -8181,6 +8764,7 @@ Q_40_8_3:SKJEMA7W; (Q_40_8_3:SKJEMA7C); (Q_40_8_3:SKJEMA7B); Allergy/intolerance
 | No | 978 |
 | Yes | 1187 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2166 |
 | NA | 52445 |
 
 
@@ -8193,6 +8777,7 @@ Q_40_8_4:SKJEMA7W; (Q_40_8_4:SKJEMA7C); (Q_40_8_4:SKJEMA7B); Allergy/intolerance
 | Yes | 1406 |
 | No | 542 |
 | More than 1 check box filled in | 3 |
+| Not NA | 1951 |
 | NA | 52660 |
 
 
@@ -8203,6 +8788,7 @@ Q_40_8_5:SKJEMA7W; (Q_40_8_5:SKJEMA7C); (Q_40_8_5:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 1300 |
+| Not NA | 1300 |
 | NA | 53311 |
 
 
@@ -8213,6 +8799,7 @@ Q_40_8_6:SKJEMA7W; (Q_40_8_6:SKJEMA7C); (Q_40_8_6:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 225 |
+| Not NA | 225 |
 | NA | 54386 |
 
 
@@ -8223,6 +8810,7 @@ Q_40_8_7:SKJEMA7W; (Q_40_8_7:SKJEMA7C); (Q_40_8_7:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 480 |
+| Not NA | 480 |
 | NA | 54131 |
 
 
@@ -8233,6 +8821,7 @@ Q_40_8_8:SKJEMA7W; (Q_40_8_8:SKJEMA7C); (Q_40_8_8:SKJEMA7B); Allergy/intolerance
 | Category | n |
 | -------- | - |
 | 1 | 1741 |
+| Not NA | 1741 |
 | NA | 52870 |
 
 
@@ -8261,6 +8850,7 @@ AGE_SENT_MTHS_Q7:SKJEMA7B; (AGE_SENT_MTHS_Q7:SKJEMA7A); Childs age in months whe
 | 97 | 79 |
 | 101 | 1 |
 | 100 | 3 |
+| Not NA | 54611 |
 | NA | 0 |
 
 
@@ -8277,6 +8867,7 @@ AGE_MTHS_Q7:SKJEMA7B; (AGE_MTHS_Q7:SKJEMA7A); Childs age in months when question
 | 3rd Qu. | 86 |
 | Max. | 1284 |
 | NA's | 711 |
+| Not NA | 53900 |
 
 
 ### AGE_RETURN_MTHS_Q7
@@ -8291,6 +8882,7 @@ AGE_RETURN_MTHS_Q7:SKJEMA7B; (AGE_RETURN_MTHS_Q7:SKJEMA7A); Childs age in months
 | Mean | 86.1685740967937 |
 | 3rd Qu. | 87 |
 | Max. | 149 |
+| Not NA | 54611 |
 
 
 ### Q7P1
@@ -8306,6 +8898,7 @@ Q7P1:SKJEMA7C; (Q7P1:SKJEMA7B); (Q7P1:SKJEMA7A); Number of answered questions on
 | 3rd Qu. | 23 |
 | Max. | 26 |
 | NA's | 669 |
+| Not NA | 53942 |
 
 
 ### Q7P2
@@ -8321,6 +8914,7 @@ Q7P2:SKJEMA7C; (Q7P2:SKJEMA7B); (Q7P2:SKJEMA7A); Number of answered questions on
 | 3rd Qu. | 15 |
 | Max. | 47 |
 | NA's | 669 |
+| Not NA | 53942 |
 
 
 ### Q7P3
@@ -8336,6 +8930,7 @@ Q7P3:SKJEMA7C; (Q7P3:SKJEMA7B); (Q7P3:SKJEMA7A); Number of answered questions on
 | 3rd Qu. | 24 |
 | Max. | 77 |
 | NA's | 669 |
+| Not NA | 53942 |
 
 
 ### Q7P4
@@ -8351,6 +8946,7 @@ Q7P4:SKJEMA7C; (Q7P4:SKJEMA7B); (Q7P4:SKJEMA7A); Number of answered questions on
 | 3rd Qu. | 30 |
 | Max. | 70 |
 | NA's | 669 |
+| Not NA | 53942 |
 
 
 ### Q7P5
@@ -8366,6 +8962,7 @@ Q7P5:SKJEMA7C; (Q7P5:SKJEMA7B); (Q7P5:SKJEMA7A); Number of answered questions on
 | 3rd Qu. | 50 |
 | Max. | 52 |
 | NA's | 669 |
+| Not NA | 53942 |
 
 
 ### Q7P6
@@ -8381,5 +8978,6 @@ Q7P6:SKJEMA7C; (Q7P6:SKJEMA7B); (Q7P6:SKJEMA7A); Number of answered questions on
 | 3rd Qu. | 11 |
 | Max. | 55 |
 | NA's | 669 |
+| Not NA | 53942 |
 
 
