@@ -910,11 +910,6 @@ rawPheno <- rawPheno %>%
     unrelated_children = ifelse(child_sentrix_id %in% unrelatedDF$sentrix_id, 1, 0)
   )
 
-## --- CHANGED START ---
-# CHANGED: Create `unrelated` alias to keep downstream references working.
-rawPheno <- rawPheno %>% mutate(unrelated = unrelated_children)
-## --- CHANGED END ---
-
 print(glue("Unrelated children:"))
 print(glue("- Children genotyped: {sum(!is.na(rawPheno$child_sentrix_id) & rawPheno$unrelated_children == 1)}"))
 print(glue("- Mothers genotyped linked to a child: {length(unique(rawPheno$mother_sentrix_id[rawPheno$unrelated_children == 1]))}"))
@@ -995,6 +990,21 @@ new_variables[["pregnancy"]] <- c(new_variables[["pregnancy"]], c("pregnancy_dur
 print(glue("{term_pregnancies} genotyped children with delivery at term ({round(term_pregnancies / n_genotyped * 100)} %)"))
 
 
+# Placental weight
+rawPheno$placental_weight[rawPheno$placental_weight < 100] <- NA
+rawPheno$placental_weight[rawPheno$placental_weight == rawPheno$weight_birth] <- NA
+
+
+# Length at birth
+rawPheno$length_birth[rawPheno$length_birth < 20] <- NA
+rawPheno$length_birth[!is.na(rawPheno$weight_birth) & rawPheno$length_birth > 35 + (8 * rawPheno$weight_birth/1000)] <- NA
+rawPheno$length_birth[!is.na(rawPheno$weight_birth) & rawPheno$length_birth < 29 + (3 * rawPheno$weight_birth/1000) & rawPheno$weight_birth > 1000] <- NA
+
+
+# head circumference at birth
+rawPheno$hc_birth[rawPheno$hc_birth < 15] <- NA
+
+
 # Set zeros to NA for longitudinal values
 
 print(paste(Sys.time(), " Formatting"))
@@ -1040,7 +1050,7 @@ for (column in c(weight_columns, length_columns, head_circumference_columns)) {
     phenotype = column,
     n_values = sum(!is.na(rawPheno[[column]])),
     n_genotyped = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$child_sentrix_id)),
-    n_genotyped_unrelated = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$child_sentrix_id) & rawPheno$unrelated == 1),
+    n_genotyped_unrelated = sum(!is.na(rawPheno[[column]]) & !is.na(rawPheno$child_sentrix_id) & rawPheno$unrelated_children == 1),
     stringsAsFactors = F
   )
   
@@ -1066,7 +1076,7 @@ for (column in breastFeedingColumns) {
       phenotype = column,
       n_breast_feeding = sum(!is.na(values[[column]])),
       n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id)),
-      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id) & values$unrelated == 1),
+      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id) & values$unrelated_children == 1),
       stringsAsFactors = F
     )
   }
@@ -1105,7 +1115,7 @@ for (column in breastFeedingColumns) {
       phenotype = column,
       n_breast_feeding = sum(!is.na(values[[column]])),
       n_breast_feeding_genotyped = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id)),
-      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id) & values$unrelated == 1),
+      n_breast_feeding_genotyped_unrelated = sum(!is.na(values[[column]]) & !is.na(values$child_sentrix_id) & values$unrelated_children == 1),
       stringsAsFactors = F
     )
   }
@@ -1128,7 +1138,7 @@ for (column in diabetesColumns) {
       phenotype = column,
       n_diabetes = sum(!is.na(values[[column]]) & values[[column]] == 1),
       n_diabetes_genotyped = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id)),
-      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id) & values$unrelated == 1),
+      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id) & values$unrelated_children == 1),
       stringsAsFactors = F
     )
   }
@@ -1188,7 +1198,7 @@ for (column in diabetesColumns) {
       phenotype = column,
       n_diabetes = sum(!is.na(values[[column]]) & values[[column]] == 1),
       n_diabetes_genotyped = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id)),
-      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id) & values$unrelated == 1),
+      n_diabetes_unrelated = sum(!is.na(values[[column]]) & values[[column]] == 1 & !is.na(values$child_sentrix_id) & values$unrelated_children == 1),
       stringsAsFactors = F
     )
   }

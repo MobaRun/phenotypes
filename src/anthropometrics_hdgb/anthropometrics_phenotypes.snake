@@ -36,8 +36,8 @@ psam_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/moba_genotypes_
 genotyping_batch_file = "/mnt/archive/moba/geno/HDGB-MoBaGenetics/2025.09.25/batch/moba_genotypes_2025.09.25_batches"
 
 # Raw phenotype files
-linkage_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/linkage"
-moba_phenotypes_folder = "/mnt/archive/moba/transfer_tsd/p2137-member-group/phenotypes"
+linkage_folder = "/mnt/archive/moba/transfer_tsd/linkage"
+moba_phenotypes_folder = "/mnt/archive/moba/transfer_tsd/input_pipeline"
 
 # Docs folders
 docs_folder = f"docs/anthropometrics/{suffix}"
@@ -84,6 +84,7 @@ f2_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_numb
 ungdomsskjema_mor_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ungdomsskjema_Mor_v12_standard.gz')
 kosthold_ungdom_beregnet_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Kosthold_ungdom_beregnet_v12.gz')
 kosthold_ungdom_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Kosthold_ungdom_v12.gz')
+ultralyd_table = os.path.join(raw_tables_folder, 'phenotypes', f'PDB{moba_project_number}_Ultralyd.gz')
 
 # Raw linkage tables
 child_id_linkage_raw_table = os.path.join(raw_tables_folder, 'linkage', f'PDB{moba_project_number}_MoBaGeneticsTot_Child_{moba_genotypes_linkage_relase_date}.gz')
