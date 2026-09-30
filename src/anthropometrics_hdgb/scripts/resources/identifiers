@@ -50,4 +50,4 @@ MoBaUng_skjema1_v12	PREG_ID_{project_number}	preg_id
 MoBaUng_skjema1_v12	BARN_NR	rank_siblings
 MoBaUng_skjema3_v12	PREG_ID_{project_number}	preg_id
 MoBaUng_skjema3_v12	BARN_NR	rank_siblings
-Ultralyd	PREG_ID_{project_number}	preg_id
+Ultralyd  PREG_ID_{project_number}	preg_id
