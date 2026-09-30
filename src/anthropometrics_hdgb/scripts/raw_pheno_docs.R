@@ -209,6 +209,11 @@ generateDocsSav <- function(
                 }
                 
                 write(
+                  x = glue("| Not NA | {sum(!is.na(savDF[[phenoName]]))} |"), 
+                  file = savDocsFile, 
+                  append = T
+                )
+                write(
                     x = glue("| NA | {sum(is.na(savDF[[phenoName]]))} |"), 
                     file = savDocsFile, 
                     append = T
@@ -239,6 +244,12 @@ generateDocsSav <- function(
                     )
                     
                 }
+                
+                write(
+                  x = glue("| Not NA | {sum(!is.na(savDF[[phenoName]]))} |"), 
+                  file = savDocsFile, 
+                  append = T
+                )
             }
             
             write(
