@@ -483,6 +483,7 @@
 | FARE | 4913 |
 | FARC | 36803 |
 | FARB | 5662 |
+| Not NA | 76873 |
 | NA | 0 |
 
 
@@ -503,6 +504,7 @@ F__0_3:FARE; (F__0_3:FARD); (F__0_3:FARC); (F__0_3:FARB); Year; 0. Date on which
 | 2001 | 1211 |
 | 2009 | 131 |
 | 2000 | 5 |
+| Not NA | 75110 |
 | NA | 1763 |
 
 
@@ -519,6 +521,7 @@ F__2:FARE; (F__2:FARD); (F__2:FARC); (F__2:FARB); ; 2. What is your marital stat
 | More than 1 check box filled in | 40 |
 | Divorced/separated | 241 |
 | Widower | 8 |
+| Not NA | 76387 |
 | NA | 486 |
 
 
@@ -535,6 +538,7 @@ F__3:FARE; (F__3:FARD); Cm; 3. How tall are you?
 | 3rd Qu. | 186 |
 | Max. | 210 |
 | NA's | 42558 |
+| Not NA | 34315 |
 
 
 ### FF334
@@ -550,6 +554,7 @@ F__4:FARE; (F__4:FARD); Kg; 4. What weight are you?
 | 3rd Qu. | 93 |
 | Max. | 202 |
 | NA's | 42603 |
+| Not NA | 34270 |
 
 
 ### FF335
@@ -565,6 +570,7 @@ F__5:FARE; (F__5:FARD); Kg; 5. What is the heaviest you have weighed since you w
 | 3rd Qu. | 98 |
 | Max. | 243 |
 | NA's | 42644 |
+| Not NA | 34229 |
 
 
 ### FF336
@@ -580,6 +586,7 @@ F__6:FARE; (F__6:FARD); Kg; 6. What is the lightest you have weighed since you w
 | 3rd Qu. | 80 |
 | Max. | 186 |
 | NA's | 43029 |
+| Not NA | 33844 |
 
 
 ### FF337
@@ -591,6 +598,7 @@ F__7:FARE; (F__7:FARD); ; 7. Have you ever dieted or limited your food intake?
 | Yes | 7858 |
 | No | 26441 |
 | More than 1 check box filled in | 3 |
+| Not NA | 34302 |
 | NA | 42571 |
 
 
@@ -607,6 +615,7 @@ F__8:FARE; (F__8:FARD); Years; 8. If yes, how old were you the first time you di
 | 3rd Qu. | 29 |
 | Max. | 58 |
 | NA's | 69143 |
+| Not NA | 7730 |
 
 
 ### FF339
@@ -618,6 +627,7 @@ F__9:FARE; (F__9:FARD); ; 9. Are you the type of person who can eat as much as y
 | No | 22590 |
 | Yes | 11645 |
 | More than 1 check box filled in | 25 |
+| Not NA | 34260 |
 | NA | 42613 |
 
 
@@ -633,6 +643,7 @@ F_10_1:FARE; (F_10_1:FARD); (F__3_1:FARC); (F__3_1:FARB); Completed; 10. What le
 | Higher education (university/college), up to and including 4 years | 19950 |
 | Further education 3 years - (general studies, sixth form) | 9143 |
 | Further education - vocational | 19142 |
+| Not NA | 73860 |
 | NA | 3013 |
 
 
@@ -648,6 +659,7 @@ F_10_2:FARE; (F_10_2:FARD); (F__3_2:FARC); (F__3_2:FARB); Ongoing; 10. What leve
 | Further education 3 years - (general studies, sixth form) | 179 |
 | Further education 1-2 years | 75 |
 | 9-year elementary education | 21 |
+| Not NA | 4684 |
 | NA | 72189 |
 
 
@@ -658,6 +670,7 @@ F_10_3:FARE; (F_10_3:FARD); (F__3_3:FARC); (F__3_3:FARB); Completed; Other educa
 | Category | n |
 | -------- | - |
 | 1 | 8092 |
+| Not NA | 8092 |
 | NA | 68781 |
 
 
@@ -668,6 +681,7 @@ F_10_4:FARE; (F_10_4:FARD); (F__3_4:FARC); (F__3_4:FARB); Ongoing; Other educati
 | Category | n |
 | -------- | - |
 | 1 | 1508 |
+| Not NA | 1508 |
 | NA | 75365 |
 
 
@@ -678,6 +692,7 @@ F_11_1:FARE; (F_11_1:FARD); (F__4_1:FARC); (F__4_1:FARB); Pupil/student; 11. Wha
 | Category | n |
 | -------- | - |
 | 1 | 3821 |
+| Not NA | 3821 |
 | NA | 73052 |
 
 
@@ -688,6 +703,7 @@ F_11_2:FARE; (F_11_2:FARD); (F__4_2:FARC); (F__4_2:FARB); At home; 11. What is y
 | Category | n |
 | -------- | - |
 | 1 | 349 |
+| Not NA | 349 |
 | NA | 76524 |
 
 
@@ -698,6 +714,7 @@ F_11_3:FARE; (F_11_3:FARD); (F__4_3:FARC); (F__4_3:FARB); Intern/apprentice; 11.
 | Category | n |
 | -------- | - |
 | 1 | 825 |
+| Not NA | 825 |
 | NA | 76048 |
 
 
@@ -708,6 +725,7 @@ F_11_4:FARE; (F_11_4:FARD); (F__4_4:FARC); (F__4_4:FARB); Military service; 11. 
 | Category | n |
 | -------- | - |
 | 1 | 170 |
+| Not NA | 170 |
 | NA | 76703 |
 
 
@@ -718,6 +736,7 @@ F_11_5:FARE; (F_11_5:FARD); (F__4_5:FARC); (F__4_5:FARB); Unemployed/laid off; 1
 | Category | n |
 | -------- | - |
 | 1 | 1506 |
+| Not NA | 1506 |
 | NA | 75367 |
 
 
@@ -728,6 +747,7 @@ F_11_6:FARE; (F_11_6:FARD); (F__4_6:FARC); (F__4_6:FARB); Rehabilitation/disable
 | Category | n |
 | -------- | - |
 | 1 | 1088 |
+| Not NA | 1088 |
 | NA | 75785 |
 
 
@@ -739,6 +759,7 @@ F_11_7:FARE; (F_11_7:FARD); (F__4_7:FARC); (F__4_7:FARB); Employed in public sec
 | -------- | - |
 | 1 | 17247 |
 | 0 | 1 |
+| Not NA | 17248 |
 | NA | 59625 |
 
 
@@ -749,6 +770,7 @@ F_11_8:FARE; (F_11_8:FARD); (F__4_8:FARC); (F__4_8:FARB); Employed in private se
 | Category | n |
 | -------- | - |
 | 1 | 48375 |
+| Not NA | 48375 |
 | NA | 28498 |
 
 
@@ -759,6 +781,7 @@ F_11_9:FARE; (F_11_9:FARD); (F__4_9:FARC); (F__4_9:FARB); Self-employed; 11. Wha
 | Category | n |
 | -------- | - |
 | 1 | 8751 |
+| Not NA | 8751 |
 | NA | 68122 |
 
 
@@ -769,6 +792,7 @@ F_1110:FARE; (F_1110:FARD); (F__410:FARC); (F__410:FARB); Family member without 
 | Category | n |
 | -------- | - |
 | 1 | 342 |
+| Not NA | 342 |
 | NA | 76531 |
 
 
@@ -779,6 +803,7 @@ F_1111_1:FARE; (F_1111_1:FARD); (F__411_1:FARC); (F__411_1:FARB); Other (Mark); 
 | Category | n |
 | -------- | - |
 | 1 | 1436 |
+| Not NA | 1436 |
 | NA | 75437 |
 
 
@@ -795,6 +820,7 @@ F_14:FARE; (F_14:FARD); ; 14. How many hours of paid labour do you do per week?
 | 3rd Qu. | 40 |
 | Max. | 99.9 |
 | NA's | 44016 |
+| Not NA | 32857 |
 
 
 ### FF341
@@ -811,6 +837,7 @@ F_15:FARE; (F_15:FARD); ; 15. What was your gross income (before tax) last year?
 | Less than 150.000 NOK | 1802 |
 | No income | 229 |
 | More than 1 check box filled in | 11 |
+| Not NA | 33863 |
 | NA | 43010 |
 
 
@@ -822,6 +849,7 @@ F_16_1:FARE; (F_16_1:FARD); Without medical certificate (self-notification); 16.
 | -------- | - |
 | No | 14413 |
 | Yes | 17338 |
+| Not NA | 31751 |
 | NA | 45122 |
 
 
@@ -834,6 +862,7 @@ F_16_2:FARE; (F_16_2:FARD); With medical certificate from doctor; 16. In the las
 | Yes | 8271 |
 | No | 20246 |
 | More than 1 check box filled in | 2 |
+| Not NA | 28519 |
 | NA | 48354 |
 
 
@@ -848,6 +877,7 @@ F_17:FARE; (F_17:FARD); ; 17. If yes, how long in total?
 | 1-2 weeks | 3972 |
 | 2-8 weeks | 2197 |
 | More than 1 check box filled in | 12 |
+| Not NA | 20352 |
 | NA | 56521 |
 
 
@@ -860,6 +890,7 @@ F_18_1_1:FARE; (F_18_1_1:FARD); Sick pay/ rehabilitation money; 18. Are you curr
 | Yes | 851 |
 | No | 30286 |
 | More than 1 check box filled in | 1 |
+| Not NA | 31138 |
 | NA | 45735 |
 
 
@@ -881,6 +912,7 @@ F_18_1_2:FARE; (F_18_1_2:FARD); Sick pay/ rehabilitation money; If yes, from whe
 | 7 | 37 |
 | 12 | 49 |
 | 10 | 64 |
+| Not NA | 670 |
 | NA | 76203 |
 
 
@@ -904,6 +936,7 @@ F_18_1_3:FARE; (F_18_1_3:FARD); Sick pay/ rehabilitation money; If yes, from whe
 | 1995 | 1 |
 | 1981 | 1 |
 | 1997 | 1 |
+| Not NA | 682 |
 | NA | 76191 |
 
 
@@ -916,6 +949,7 @@ F_18_2_1:FARE; (F_18_2_1:FARD); Benefits for vocational rehabilitation; 18. Are 
 | No | 30377 |
 | Yes | 455 |
 | More than 1 check box filled in | 1 |
+| Not NA | 30833 |
 | NA | 46040 |
 
 
@@ -939,6 +973,7 @@ F_18_2_2:FARE; (F_18_2_2:FARD); Benefits for vocational rehabilitation; If yes, 
 | 2 | 16 |
 | 24 | 1 |
 | 18 | 1 |
+| Not NA | 273 |
 | NA | 76600 |
 
 
@@ -962,6 +997,7 @@ F_18_2_3:FARE; (F_18_2_3:FARD); Benefits for vocational rehabilitation; If yes, 
 | 1991 | 1 |
 | 1999 | 2 |
 | 1994 | 1 |
+| Not NA | 287 |
 | NA | 76586 |
 
 
@@ -973,6 +1009,7 @@ F_18_3_1:FARE; (F_18_3_1:FARD); Disability pension/ limited disability pension; 
 | -------- | - |
 | No | 30374 |
 | Yes | 287 |
+| Not NA | 30661 |
 | NA | 46212 |
 
 
@@ -994,6 +1031,7 @@ F_18_3_2:FARE; (F_18_3_2:FARD); Disability pension/ limited disability pension; 
 | 8 | 7 |
 | 4 | 10 |
 | 5 | 6 |
+| Not NA | 124 |
 | NA | 76749 |
 
 
@@ -1010,6 +1048,7 @@ F_18_3_3:FARE; (F_18_3_3:FARD); Disability pension/ limited disability pension; 
 | 3rd Qu. | 2006 |
 | Max. | 2008 |
 | NA's | 76739 |
+| Not NA | 134 |
 
 
 ### FF354
@@ -1020,6 +1059,7 @@ F_18_4_1:FARE; (F_18_4_1:FARD); Social security payments; 18. Are you currently 
 | -------- | - |
 | No | 30404 |
 | Yes | 219 |
+| Not NA | 30623 |
 | NA | 46250 |
 
 
@@ -1042,6 +1082,7 @@ F_18_4_2:FARE; (F_18_4_2:FARD); Social security payments; If yes, from when? (Mo
 | 2 | 4 |
 | 4 | 2 |
 | 72 | 1 |
+| Not NA | 55 |
 | NA | 76818 |
 
 
@@ -1061,6 +1102,7 @@ F_18_4_3:FARE; (F_18_4_3:FARD); Social security payments; If yes, from when? (Ye
 | 2007 | 12 |
 | 2004 | 4 |
 | 2000 | 2 |
+| Not NA | 60 |
 | NA | 76813 |
 
 
@@ -1072,6 +1114,7 @@ F_18_5_1:FARE; (F_18_5_1:FARD); Unemployment benefit; 18. Are you currently rece
 | -------- | - |
 | No | 30342 |
 | Yes | 394 |
+| Not NA | 30736 |
 | NA | 46137 |
 
 
@@ -1094,6 +1137,7 @@ F_18_5_2:FARE; (F_18_5_2:FARD); Unemployment benefit; If yes, from when? (Month)
 | 4 | 9 |
 | 20 | 1 |
 | 5 | 17 |
+| Not NA | 234 |
 | NA | 76639 |
 
 
@@ -1117,6 +1161,7 @@ F_18_5_3:FARE; (F_18_5_3:FARD); Unemployment benefit; If yes, from when? (Year);
 | 1993 | 2 |
 | 2000 | 1 |
 | 1990 | 1 |
+| Not NA | 239 |
 | NA | 76634 |
 
 
@@ -1129,6 +1174,7 @@ F_18_6_1:FARE; (F_18_6_1:FARD); Other benefits; 18. Are you currently receiving 
 | No | 29923 |
 | Yes | 639 |
 | More than 1 check box filled in | 1 |
+| Not NA | 30563 |
 | NA | 46310 |
 
 
@@ -1150,6 +1196,7 @@ F_18_6_2:FARE; (F_18_6_2:FARD); Other benefits; If yes, from when? (Month); 18. 
 | 7 | 22 |
 | 9 | 41 |
 | 2 | 17 |
+| Not NA | 461 |
 | NA | 76412 |
 
 
@@ -1166,6 +1213,7 @@ F_18_6_3:FARE; (F_18_6_3:FARD); Other benefits; If yes, from when? (Year); 18. A
 | 3rd Qu. | 2006 |
 | Max. | 3000 |
 | NA's | 76404 |
+| Not NA | 469 |
 
 
 ### FF363
@@ -1178,6 +1226,7 @@ F_19:FARE; (F_19:FARD); ; 19. Could you/your household cover an unexpected expen
 | No | 4492 |
 | Do not know | 1690 |
 | More than 1 check box filled in | 21 |
+| Not NA | 33813 |
 | NA | 43060 |
 
 
@@ -1190,6 +1239,7 @@ F_20_1_1:FARE; (F_20_1_1:FARD); (F__7_1_1:FARC); (F__7_1_1:FARB); No/Yes; Lead v
 | No | 71645 |
 | Yes | 3190 |
 | More than 1 check box filled in | 9 |
+| Not NA | 74844 |
 | NA | 2029 |
 
 
@@ -1206,6 +1256,7 @@ F_20_1_2:FARE; (F_20_1_2:FARD); (F__7_1_2:FARC); (F__7_1_2:FARB); If yes, number
 | 3rd Qu. | 40 |
 | Max. | 270 |
 | NA's | 74001 |
+| Not NA | 2872 |
 
 
 ### FF36
@@ -1215,6 +1266,7 @@ F_20_1_3:FARE; (F_20_1_3:FARD); (F__7_1_3:FARC); (F__7_1_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 730 |
+| Not NA | 730 |
 | NA | 76143 |
 
 
@@ -1225,6 +1277,7 @@ F_20_1_4:FARE; (F_20_1_4:FARD); (F__7_1_4:FARC); (F__7_1_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 918 |
+| Not NA | 918 |
 | NA | 75955 |
 
 
@@ -1237,6 +1290,7 @@ F_20_2_1:FARE; (F_20_2_1:FARD); (F__7_2_1:FARC); (F__7_2_1:FARB); No/Yes; Chromi
 | No | 73361 |
 | Yes | 1333 |
 | More than 1 check box filled in | 1 |
+| Not NA | 74695 |
 | NA | 2178 |
 
 
@@ -1253,6 +1307,7 @@ F_20_2_2:FARE; (F_20_2_2:FARD); (F__7_2_2:FARC); (F__7_2_2:FARB); If yes, number
 | 3rd Qu. | 90 |
 | Max. | 360 |
 | NA's | 75749 |
+| Not NA | 1124 |
 
 
 ### FF40
@@ -1262,6 +1317,7 @@ F_20_2_3:FARE; (F_20_2_3:FARD); (F__7_2_3:FARC); (F__7_2_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 411 |
+| Not NA | 411 |
 | NA | 76462 |
 
 
@@ -1272,6 +1328,7 @@ F_20_2_4:FARE; (F_20_2_4:FARD); (F__7_2_4:FARC); (F__7_2_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 560 |
+| Not NA | 560 |
 | NA | 76313 |
 
 
@@ -1284,6 +1341,7 @@ F_20_3_1:FARE; (F_20_3_1:FARD); (F__7_3_1:FARC); (F__7_3_1:FARB); No/Yes; Petrol
 | No | 64289 |
 | Yes | 10614 |
 | More than 1 check box filled in | 9 |
+| Not NA | 74912 |
 | NA | 1961 |
 
 
@@ -1300,6 +1358,7 @@ F_20_3_2:FARE; (F_20_3_2:FARD); (F__7_3_2:FARC); (F__7_3_2:FARB); If yes, number
 | 3rd Qu. | 150 |
 | Max. | 375 |
 | NA's | 67871 |
+| Not NA | 9002 |
 
 
 ### FF44
@@ -1309,6 +1368,7 @@ F_20_3_3:FARE; (F_20_3_3:FARD); (F__7_3_3:FARC); (F__7_3_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 1425 |
+| Not NA | 1425 |
 | NA | 75448 |
 
 
@@ -1319,6 +1379,7 @@ F_20_3_4:FARE; (F_20_3_4:FARD); (F__7_3_4:FARC); (F__7_3_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 1870 |
+| Not NA | 1870 |
 | NA | 75003 |
 
 
@@ -1331,6 +1392,7 @@ F_20_4_1:FARE; (F_20_4_1:FARD); (F__7_4_1:FARC); (F__7_4_1:FARB); No/Yes; Mercur
 | No | 74147 |
 | Yes | 438 |
 | More than 1 check box filled in | 2 |
+| Not NA | 74587 |
 | NA | 2286 |
 
 
@@ -1347,6 +1409,7 @@ F_20_4_2:FARE; (F_20_4_2:FARD); (F__7_4_2:FARC); (F__7_4_2:FARB); If yes, number
 | 3rd Qu. | 140 |
 | Max. | 250 |
 | NA's | 76528 |
+| Not NA | 345 |
 
 
 ### FF48
@@ -1356,6 +1419,7 @@ F_20_4_3:FARE; (F_20_4_3:FARD); (F__7_4_3:FARC); (F__7_4_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 132 |
+| Not NA | 132 |
 | NA | 76741 |
 
 
@@ -1366,6 +1430,7 @@ F_20_4_4:FARE; (F_20_4_4:FARD); (F__7_4_4:FARC); (F__7_4_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 225 |
+| Not NA | 225 |
 | NA | 76648 |
 
 
@@ -1378,6 +1443,7 @@ F_20_5_1:FARE; (F_20_5_1:FARD); (F__7_5_1:FARC); (F__7_5_1:FARB); No/Yes; Disinf
 | Yes | 6938 |
 | No | 67651 |
 | More than 1 check box filled in | 1 |
+| Not NA | 74590 |
 | NA | 2283 |
 
 
@@ -1394,6 +1460,7 @@ F_20_5_2:FARE; (F_20_5_2:FARD); (F__7_5_2:FARC); (F__7_5_2:FARB); If yes, number
 | 3rd Qu. | 30 |
 | Max. | 365 |
 | NA's | 70774 |
+| Not NA | 6099 |
 
 
 ### FF52
@@ -1403,6 +1470,7 @@ F_20_5_3:FARE; (F_20_5_3:FARD); (F__7_5_3:FARC); (F__7_5_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 849 |
+| Not NA | 849 |
 | NA | 76024 |
 
 
@@ -1413,6 +1481,7 @@ F_20_5_4:FARE; (F_20_5_4:FARD); (F__7_5_4:FARC); (F__7_5_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 2222 |
+| Not NA | 2222 |
 | NA | 74651 |
 
 
@@ -1425,6 +1494,7 @@ F_20_6_1:FARE; (F_20_6_1:FARD); (F__7_6_1:FARC); (F__7_6_1:FARB); No/Yes; Plant 
 | No | 65938 |
 | Yes | 8642 |
 | More than 1 check box filled in | 2 |
+| Not NA | 74582 |
 | NA | 2291 |
 
 
@@ -1441,6 +1511,7 @@ F_20_6_2:FARE; (F_20_6_2:FARD); (F__7_6_2:FARC); (F__7_6_2:FARB); If yes, number
 | 3rd Qu. | 3 |
 | Max. | 200 |
 | NA's | 69224 |
+| Not NA | 7649 |
 
 
 ### FF56
@@ -1450,6 +1521,7 @@ F_20_6_3:FARE; (F_20_6_3:FARD); (F__7_6_3:FARC); (F__7_6_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 1166 |
+| Not NA | 1166 |
 | NA | 75707 |
 
 
@@ -1460,6 +1532,7 @@ F_20_6_4:FARE; (F_20_6_4:FARD); (F__7_6_4:FARC); (F__7_6_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 3174 |
+| Not NA | 3174 |
 | NA | 73699 |
 
 
@@ -1472,6 +1545,7 @@ F_20_7_1:FARE; (F_20_7_1:FARD); (F__7_7_1:FARC); (F__7_7_1:FARB); No/Yes; Oil-ba
 | No | 42028 |
 | Yes | 33241 |
 | More than 1 check box filled in | 22 |
+| Not NA | 75291 |
 | NA | 1582 |
 
 
@@ -1488,6 +1562,7 @@ F_20_7_2:FARE; (F_20_7_2:FARD); (F__7_7_2:FARC); (F__7_7_2:FARB); If yes, number
 | 3rd Qu. | 10 |
 | Max. | 720 |
 | NA's | 47848 |
+| Not NA | 29025 |
 
 
 ### FF60
@@ -1497,6 +1572,7 @@ F_20_7_3:FARE; (F_20_7_3:FARD); (F__7_7_3:FARC); (F__7_7_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 2479 |
+| Not NA | 2479 |
 | NA | 74394 |
 
 
@@ -1507,6 +1583,7 @@ F_20_7_4:FARE; (F_20_7_4:FARD); (F__7_7_4:FARC); (F__7_7_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 6024 |
+| Not NA | 6024 |
 | NA | 70849 |
 
 
@@ -1519,6 +1596,7 @@ F_20_8_1:FARE; (F_20_8_1:FARD); (F__7_8_1:FARC); (F__7_8_1:FARB); No/Yes; Water-
 | No | 42408 |
 | Yes | 32220 |
 | More than 1 check box filled in | 16 |
+| Not NA | 74644 |
 | NA | 2229 |
 
 
@@ -1535,6 +1613,7 @@ F_20_8_2:FARE; (F_20_8_2:FARD); (F__7_8_2:FARC); (F__7_8_2:FARB); If yes, number
 | 3rd Qu. | 10 |
 | Max. | 540 |
 | NA's | 49027 |
+| Not NA | 27846 |
 
 
 ### FF64
@@ -1544,6 +1623,7 @@ F_20_8_3:FARE; (F_20_8_3:FARD); (F__7_8_3:FARC); (F__7_8_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 1414 |
+| Not NA | 1414 |
 | NA | 75459 |
 
 
@@ -1554,6 +1634,7 @@ F_20_8_4:FARE; (F_20_8_4:FARD); (F__7_8_4:FARC); (F__7_8_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 3939 |
+| Not NA | 3939 |
 | NA | 72934 |
 
 
@@ -1566,6 +1647,7 @@ F_20_9_1:FARE; (F_20_9_1:FARD); (F__7_9_1:FARC); (F__7_9_1:FARB); No/Yes; Paint 
 | Yes | 37636 |
 | No | 37216 |
 | More than 1 check box filled in | 12 |
+| Not NA | 74864 |
 | NA | 2009 |
 
 
@@ -1582,6 +1664,7 @@ F_20_9_2:FARE; (F_20_9_2:FARD); (F__7_9_2:FARC); (F__7_9_2:FARB); If yes, number
 | 3rd Qu. | 10 |
 | Max. | 800 |
 | NA's | 44045 |
+| Not NA | 32828 |
 
 
 ### FF68
@@ -1591,6 +1674,7 @@ F_20_9_3:FARE; (F_20_9_3:FARD); (F__7_9_3:FARC); (F__7_9_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 3359 |
+| Not NA | 3359 |
 | NA | 73514 |
 
 
@@ -1601,6 +1685,7 @@ F_20_9_4:FARE; (F_20_9_4:FARD); (F__7_9_4:FARC); (F__7_9_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 5597 |
+| Not NA | 5597 |
 | NA | 71276 |
 
 
@@ -1613,6 +1698,7 @@ F_2010_1:FARE; (F_2010_1:FARD); (F__710_1:FARC); (F__710_1:FARB); No/Yes; Indust
 | No | 73087 |
 | Yes | 1342 |
 | More than 1 check box filled in | 6 |
+| Not NA | 74435 |
 | NA | 2438 |
 
 
@@ -1629,6 +1715,7 @@ F_2010_2:FARE; (F_2010_2:FARD); (F__710_2:FARC); (F__710_2:FARB); If yes, number
 | 3rd Qu. | 150 |
 | Max. | 365 |
 | NA's | 75895 |
+| Not NA | 978 |
 
 
 ### FF72
@@ -1638,6 +1725,7 @@ F_2010_3:FARE; (F_2010_3:FARD); (F__710_3:FARC); (F__710_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 179 |
+| Not NA | 179 |
 | NA | 76694 |
 
 
@@ -1648,6 +1736,7 @@ F_2010_4:FARE; (F_2010_4:FARD); (F__710_4:FARC); (F__710_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 324 |
+| Not NA | 324 |
 | NA | 76549 |
 
 
@@ -1660,6 +1749,7 @@ F_2011_1:FARE; (F_2011_1:FARD); (F__711_1:FARC); (F__711_1:FARB); No/Yes; Motor 
 | Yes | 28916 |
 | No | 46329 |
 | More than 1 check box filled in | 8 |
+| Not NA | 75253 |
 | NA | 1620 |
 
 
@@ -1676,6 +1766,7 @@ F_2011_2:FARE; (F_2011_2:FARD); (F__711_2:FARC); (F__711_2:FARB); If yes, number
 | 3rd Qu. | 20 |
 | Max. | 999 |
 | NA's | 52404 |
+| Not NA | 24469 |
 
 
 ### FF76
@@ -1685,6 +1776,7 @@ F_2011_3:FARE; (F_2011_3:FARD); (F__711_3:FARC); (F__711_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 877 |
+| Not NA | 877 |
 | NA | 75996 |
 
 
@@ -1695,6 +1787,7 @@ F_2011_4:FARE; (F_2011_4:FARD); (F__711_4:FARC); (F__711_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 4824 |
+| Not NA | 4824 |
 | NA | 72049 |
 
 
@@ -1707,6 +1800,7 @@ F_2012_1:FARE; (F_2012_1:FARD); (F__712_1:FARC); (F__712_1:FARB); No/Yes; Photog
 | No | 73780 |
 | Yes | 788 |
 | More than 1 check box filled in | 2 |
+| Not NA | 74570 |
 | NA | 2303 |
 
 
@@ -1723,6 +1817,7 @@ F_2012_2:FARE; (F_2012_2:FARD); (F__712_2:FARC); (F__712_2:FARB); If yes, number
 | 3rd Qu. | 40 |
 | Max. | 290 |
 | NA's | 76332 |
+| Not NA | 541 |
 
 
 ### FF80
@@ -1732,6 +1827,7 @@ F_2012_3:FARE; (F_2012_3:FARD); (F__712_3:FARC); (F__712_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 75 |
+| Not NA | 75 |
 | NA | 76798 |
 
 
@@ -1742,6 +1838,7 @@ F_2012_4:FARE; (F_2012_4:FARD); (F__712_4:FARC); (F__712_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 181 |
+| Not NA | 181 |
 | NA | 76692 |
 
 
@@ -1754,6 +1851,7 @@ F_2013_1:FARE; (F_2013_1:FARD); (F__713_1:FARC); (F__713_1:FARB); No/Yes; Substa
 | No | 65935 |
 | Yes | 9056 |
 | More than 1 check box filled in | 7 |
+| Not NA | 74998 |
 | NA | 1875 |
 
 
@@ -1770,6 +1868,7 @@ F_2013_2:FARE; (F_2013_2:FARD); (F__713_2:FARC); (F__713_2:FARB); If yes, number
 | 3rd Qu. | 40 |
 | Max. | 365 |
 | NA's | 69272 |
+| Not NA | 7601 |
 
 
 ### FF84
@@ -1779,6 +1878,7 @@ F_2013_3:FARE; (F_2013_3:FARD); (F__713_3:FARC); (F__713_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 2014 |
+| Not NA | 2014 |
 | NA | 74859 |
 
 
@@ -1789,6 +1889,7 @@ F_2013_4:FARE; (F_2013_4:FARD); (F__713_4:FARC); (F__713_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 3459 |
+| Not NA | 3459 |
 | NA | 73414 |
 
 
@@ -1801,6 +1902,7 @@ F_2014_1:FARE; (F_2014_1:FARD); (F__714_1:FARC); (F__714_1:FARB); No/Yes; Substa
 | Yes | 7378 |
 | No | 67367 |
 | More than 1 check box filled in | 4 |
+| Not NA | 74749 |
 | NA | 2124 |
 
 
@@ -1817,6 +1919,7 @@ F_2014_2:FARE; (F_2014_2:FARD); (F__714_2:FARC); (F__714_2:FARB); If yes, number
 | 3rd Qu. | 20 |
 | Max. | 365 |
 | NA's | 70590 |
+| Not NA | 6283 |
 
 
 ### FF88
@@ -1826,6 +1929,7 @@ F_2014_3:FARE; (F_2014_3:FARD); (F__714_3:FARC); (F__714_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 733 |
+| Not NA | 733 |
 | NA | 76140 |
 
 
@@ -1836,6 +1940,7 @@ F_2014_4:FARE; (F_2014_4:FARD); (F__714_4:FARC); (F__714_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 795 |
+| Not NA | 795 |
 | NA | 76078 |
 
 
@@ -1848,6 +1953,7 @@ F_2015_1:FARE; (F_2015_1:FARD); (F__715_1:FARC); (F__715_1:FARB); No/Yes; Formal
 | No | 73427 |
 | Yes | 1105 |
 | More than 1 check box filled in | 1 |
+| Not NA | 74533 |
 | NA | 2340 |
 
 
@@ -1864,6 +1970,7 @@ F_2015_2:FARE; (F_2015_2:FARD); (F__715_2:FARC); (F__715_2:FARB); If yes, number
 | 3rd Qu. | 20 |
 | Max. | 300 |
 | NA's | 76072 |
+| Not NA | 801 |
 
 
 ### FF92
@@ -1873,6 +1980,7 @@ F_2015_3:FARE; (F_2015_3:FARD); (F__715_3:FARC); (F__715_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 270 |
+| Not NA | 270 |
 | NA | 76603 |
 
 
@@ -1883,6 +1991,7 @@ F_2015_4:FARE; (F_2015_4:FARD); (F__715_4:FARC); (F__715_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 470 |
+| Not NA | 470 |
 | NA | 76403 |
 
 
@@ -1894,6 +2003,7 @@ F_2016_1:FARE; (F_2016_1:FARD); (F__716_1:FARC); (F__716_1:FARB); No/Yes; Chemot
 | -------- | - |
 | No | 74098 |
 | Yes | 412 |
+| Not NA | 74510 |
 | NA | 2363 |
 
 
@@ -1910,6 +2020,7 @@ F_2016_2:FARE; (F_2016_2:FARD); (F__716_2:FARC); (F__716_2:FARB); If yes, number
 | 3rd Qu. | 50 |
 | Max. | 230 |
 | NA's | 76663 |
+| Not NA | 210 |
 
 
 ### FF96
@@ -1919,6 +2030,7 @@ F_2016_3:FARE; (F_2016_3:FARD); (F__716_3:FARC); (F__716_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 75 |
+| Not NA | 75 |
 | NA | 76798 |
 
 
@@ -1929,6 +2041,7 @@ F_2016_4:FARE; (F_2016_4:FARD); (F__716_4:FARC); (F__716_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 134 |
+| Not NA | 134 |
 | NA | 76739 |
 
 
@@ -1941,6 +2054,7 @@ F_2018_1:FARE; (F_2018_1:FARD); (F__717_1:FARC); (F__717_1:FARB); No/Yes; Nitrou
 | No | 73833 |
 | Yes | 755 |
 | More than 1 check box filled in | 2 |
+| Not NA | 74590 |
 | NA | 2283 |
 
 
@@ -1957,6 +2071,7 @@ F_2018_2:FARE; (F_2018_2:FARD); (F__717_2:FARC); (F__717_2:FARB); If yes, number
 | 3rd Qu. | 90 |
 | Max. | 200 |
 | NA's | 76377 |
+| Not NA | 496 |
 
 
 ### FF100
@@ -1966,6 +2081,7 @@ F_2018_3:FARE; (F_2018_3:FARD); (F__717_3:FARC); (F__717_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 183 |
+| Not NA | 183 |
 | NA | 76690 |
 
 
@@ -1976,6 +2092,7 @@ F_2018_4:FARE; (F_2018_4:FARD); (F__717_4:FARC); (F__717_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 122 |
+| Not NA | 122 |
 | NA | 76751 |
 
 
@@ -1988,6 +2105,7 @@ F_2019_1:FARE; (F_2019_1:FARD); (F__718_1:FARC); (F__718_1:FARB); No/Yes; Other 
 | No | 62575 |
 | Yes | 3939 |
 | More than 1 check box filled in | 1 |
+| Not NA | 66515 |
 | NA | 10358 |
 
 
@@ -2004,6 +2122,7 @@ F_2019_2:FARE; (F_2019_2:FARD); (F__718_2:FARC); (F__718_2:FARB); If yes, number
 | 3rd Qu. | 150 |
 | Max. | 600 |
 | NA's | 73491 |
+| Not NA | 3382 |
 
 
 ### FF104
@@ -2013,6 +2132,7 @@ F_2019_3:FARE; (F_2019_3:FARD); (F__718_3:FARC); (F__718_3:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 1146 |
+| Not NA | 1146 |
 | NA | 75727 |
 
 
@@ -2023,6 +2143,7 @@ F_2019_4:FARE; (F_2019_4:FARD); (F__718_4:FARC); (F__718_4:FARB); Tick if you ha
 | Category | n |
 | -------- | - |
 | 1 | 1750 |
+| Not NA | 1750 |
 | NA | 75123 |
 
 
@@ -2034,6 +2155,7 @@ F_2017_1:FARE; (F_2017_1:FARD); No/Yes; Chemotherapy (taken in treatment as a pa
 | -------- | - |
 | No | 33434 |
 | Yes | 133 |
+| Not NA | 33567 |
 | NA | 43306 |
 
 
@@ -2063,6 +2185,7 @@ F_2017_2:FARE; (F_2017_2:FARD); If yes, number of days (daily = 180 days); Chemo
 | 80 | 1 |
 | 45 | 1 |
 | 40 | 1 |
+| Not NA | 42 |
 | NA | 76831 |
 
 
@@ -2073,6 +2196,7 @@ F_2017_3:FARE; (F_2017_3:FARD); Tick if you have used extractor fan or breathing
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 76872 |
 
 
@@ -2083,6 +2207,7 @@ F_2017_4:FARE; (F_2017_4:FARD); Tick if you have used protective gloves; Chemoth
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 76871 |
 
 
@@ -2096,6 +2221,7 @@ F_21:FARE; (F_21:FARD); (F__8:FARC); (F__8:FARB); ; 21. How often have you worke
 | On average more than 1 hour per day | 713 |
 | Daily | 1485 |
 | Few times per week | 2305 |
+| Not NA | 76091 |
 | NA | 782 |
 
 
@@ -2110,6 +2236,7 @@ F__9:FARC; (F__9:FARB); ; 9. How often did you talk on a mobile phone in the six
 | Seldom/never | 2360 |
 | On average more than 1 hour per day | 4972 |
 | More than 1 check box filled in | 1 |
+| Not NA | 42356 |
 | NA | 34517 |
 
 
@@ -2123,6 +2250,7 @@ F_22:FARE; (F_22:FARD); (F_10:FARC); (F_10:FARB); ; 22.  How often have you work
 | Daily | 216 |
 | Few times per week | 810 |
 | On average more than 1 hour per day | 76 |
+| Not NA | 75645 |
 | NA | 1228 |
 
 
@@ -2137,6 +2265,7 @@ F_29_1:FARE; (F_29_1:FARD); (F_11_1:FARC); (F_11_1:FARB); Computer screen; 29. H
 | Daily | 17295 |
 | Seldom/never | 8239 |
 | More than 1 check box filled in | 4 |
+| Not NA | 76532 |
 | NA | 341 |
 
 
@@ -2150,6 +2279,7 @@ F_29_2:FARE; (F_29_2:FARD); (F_11_2:FARC); (F_11_2:FARB); Laser printer; 29. How
 | Seldom/never | 41787 |
 | Daily | 11199 |
 | Few times per week | 13391 |
+| Not NA | 71286 |
 | NA | 5587 |
 
 
@@ -2164,6 +2294,7 @@ F_29_3:FARE; (F_29_3:FARD); (F_11_3:FARC); (F_11_3:FARB); Copying machine; 29. H
 | Daily | 11351 |
 | Seldom/never | 39890 |
 | More than 1 check box filled in | 1 |
+| Not NA | 71900 |
 | NA | 4973 |
 
 
@@ -2175,6 +2306,7 @@ F_23:FARE; (F_23:FARD); ; 23. Do you use a mobile phone?
 | -------- | - |
 | Yes | 34058 |
 | No | 204 |
+| Not NA | 34262 |
 | NA | 42611 |
 
 
@@ -2191,6 +2323,7 @@ F_24:FARE; (F_24:FARD); Years; 24. If yes, how old were you when you got your fi
 | 3rd Qu. | 25 |
 | Max. | 99 |
 | NA's | 42917 |
+| Not NA | 33956 |
 
 
 ### FF371
@@ -2203,6 +2336,7 @@ F_25:FARE; (F_25:FARD); ; 25. Do you use «hands-free»?
 | Only for longer conservations | 6010 |
 | As a rule | 4002 |
 | More than 1 check box filled in | 36 |
+| Not NA | 34109 |
 | NA | 42764 |
 
 
@@ -2222,6 +2356,7 @@ F_26:FARE; (F_26:FARD); ; 26. If/when you use «hands-free», where is the phone
 | (3+4) Other places on the body + Away from the body | 72 |
 | (1+4) In front trouser pocket + Away from the body | 50 |
 | More than 1 check box filled in | 38 |
+| Not NA | 22303 |
 | NA | 54570 |
 
 
@@ -2241,6 +2376,7 @@ F_28:FARE; (F_28:FARD); ; 28. How long on average do you talk in total on the da
 | (2+3) 1-10 minutes + 11-30 minutes | 11 |
 | (1+2) Less than 1 minute + 1-10 minutes | 8 |
 | More than 1 check box filled in | 5 |
+| Not NA | 33048 |
 | NA | 43825 |
 
 
@@ -2255,6 +2391,7 @@ F_27:FARE; (F_27:FARD); ; 27. How often did you talk on a mobile phone in the si
 | 3-6 times per week | 5276 |
 | 1-2 times per week | 1316 |
 | Less than once a week | 379 |
+| Not NA | 33031 |
 | NA | 43842 |
 
 
@@ -2265,6 +2402,7 @@ F_30_1_1:FARE; (F_30_1_1:FARD); (F_12_1_1:FARC); (F_12_1_1:FARB); Hay fever, pol
 | Category | n |
 | -------- | - |
 | 1 | 14596 |
+| Not NA | 14596 |
 | NA | 62277 |
 
 
@@ -2281,6 +2419,7 @@ F_30_1_2:FARE; (F_30_1_2:FARD); (F_12_1_2:FARC); (F_12_1_2:FARB); Hay fever, pol
 | 3rd Qu. | 16 |
 | Max. | 50 |
 | NA's | 63827 |
+| Not NA | 13046 |
 
 
 ### FF118
@@ -2296,6 +2435,7 @@ F_30_1_3:FARE; (F_30_1_3:FARD); (F_12_1_3:FARC); (F_12_1_3:FARB); Hay fever, pol
 | 3rd Qu. | 25 |
 | Max. | 50 |
 | NA's | 75286 |
+| Not NA | 1587 |
 
 
 ### FF119
@@ -2305,6 +2445,7 @@ F_30_2_1:FARE; (F_30_2_1:FARD); (F_12_2_1:FARC); (F_12_2_1:FARB); Urticaria (hiv
 | Category | n |
 | -------- | - |
 | 1 | 5139 |
+| Not NA | 5139 |
 | NA | 71734 |
 
 
@@ -2321,6 +2462,7 @@ F_30_2_2:FARE; (F_30_2_2:FARD); (F_12_2_2:FARC); (F_12_2_2:FARB); Urticaria (hiv
 | 3rd Qu. | 22 |
 | Max. | 50 |
 | NA's | 72322 |
+| Not NA | 4551 |
 
 
 ### FF121
@@ -2336,6 +2478,7 @@ F_30_2_3:FARE; (F_30_2_3:FARD); (F_12_2_3:FARC); (F_12_2_3:FARB); Urticaria (hiv
 | 3rd Qu. | 23 |
 | Max. | 51 |
 | NA's | 73678 |
+| Not NA | 3195 |
 
 
 ### FF122
@@ -2345,6 +2488,7 @@ F_30_3_1:FARE; (F_30_3_1:FARD); (F_12_3_1:FARC); (F_12_3_1:FARB); Asthma; If yes
 | Category | n |
 | -------- | - |
 | 1 | 6898 |
+| Not NA | 6898 |
 | NA | 69975 |
 
 
@@ -2361,6 +2505,7 @@ F_30_3_2:FARE; (F_30_3_2:FARD); (F_12_3_2:FARC); (F_12_3_2:FARB); Asthma; If yes
 | 3rd Qu. | 16 |
 | Max. | 50 |
 | NA's | 70443 |
+| Not NA | 6430 |
 
 
 ### FF124
@@ -2376,6 +2521,7 @@ F_30_3_3:FARE; (F_30_3_3:FARD); (F_12_3_3:FARC); (F_12_3_3:FARB); Asthma; If you
 | 3rd Qu. | 19 |
 | Max. | 46 |
 | NA's | 74192 |
+| Not NA | 2681 |
 
 
 ### FF125
@@ -2385,6 +2531,7 @@ F_30_4_1:FARE; (F_30_4_1:FARD); (F_12_4_1:FARC); (F_12_4_1:FARB); Atopic dermati
 | Category | n |
 | -------- | - |
 | 1 | 4694 |
+| Not NA | 4694 |
 | NA | 72179 |
 
 
@@ -2401,6 +2548,7 @@ F_30_4_2:FARE; (F_30_4_2:FARD); (F_12_4_2:FARC); (F_12_4_2:FARB); Atopic dermati
 | 3rd Qu. | 9 |
 | Max. | 47 |
 | NA's | 72801 |
+| Not NA | 4072 |
 
 
 ### FF127
@@ -2416,6 +2564,7 @@ F_30_4_3:FARE; (F_30_4_3:FARD); (F_12_4_3:FARC); (F_12_4_3:FARB); Atopic dermati
 | 3rd Qu. | 16 |
 | Max. | 47 |
 | NA's | 74972 |
+| Not NA | 1901 |
 
 
 ### FF128
@@ -2425,6 +2574,7 @@ F_30_5_1:FARE; (F_30_5_1:FARD); (F_12_5_1:FARC); (F_12_5_1:FARB); Psoriasis; If 
 | Category | n |
 | -------- | - |
 | 1 | 3252 |
+| Not NA | 3252 |
 | NA | 73621 |
 
 
@@ -2441,6 +2591,7 @@ F_30_5_2:FARE; (F_30_5_2:FARD); (F_12_5_2:FARC); (F_12_5_2:FARB); Psoriasis; If 
 | 3rd Qu. | 25 |
 | Max. | 58 |
 | NA's | 73820 |
+| Not NA | 3053 |
 
 
 ### FF130
@@ -2456,6 +2607,7 @@ F_30_5_3:FARE; (F_30_5_3:FARD); (F_12_5_3:FARC); (F_12_5_3:FARB); Psoriasis; If 
 | 3rd Qu. | 25 |
 | Max. | 57 |
 | NA's | 76377 |
+| Not NA | 496 |
 
 
 ### FF131
@@ -2465,6 +2617,7 @@ F_30_6_1:FARE; (F_30_6_1:FARD); (F_12_6_1:FARC); (F_12_6_1:FARB); Other eczema/s
 | Category | n |
 | -------- | - |
 | 1 | 7431 |
+| Not NA | 7431 |
 | NA | 69442 |
 
 
@@ -2481,6 +2634,7 @@ F_30_6_2:FARE; (F_30_6_2:FARD); (F_12_6_2:FARC); (F_12_6_2:FARB); Other eczema/s
 | 3rd Qu. | 25 |
 | Max. | 99 |
 | NA's | 69956 |
+| Not NA | 6917 |
 
 
 ### FF133
@@ -2496,6 +2650,7 @@ F_30_6_3:FARE; (F_30_6_3:FARD); (F_12_6_3:FARC); (F_12_6_3:FARB); Other eczema/s
 | 3rd Qu. | 28 |
 | Max. | 99 |
 | NA's | 75052 |
+| Not NA | 1821 |
 
 
 ### FF134
@@ -2505,6 +2660,7 @@ F_3011_1:FARE; (F_3011_1:FARD); (F_12_7_1:FARC); (F_12_7_1:FARB); Migraine; If y
 | Category | n |
 | -------- | - |
 | 1 | 5308 |
+| Not NA | 5308 |
 | NA | 71565 |
 
 
@@ -2521,6 +2677,7 @@ F_3011_2:FARE; (F_3011_2:FARD); (F_12_7_2:FARC); (F_12_7_2:FARB); Migraine; If y
 | 3rd Qu. | 20 |
 | Max. | 99 |
 | NA's | 71895 |
+| Not NA | 4978 |
 
 
 ### FF136
@@ -2536,6 +2693,7 @@ F_3011_3:FARE; (F_3011_3:FARD); (F_12_7_3:FARC); (F_12_7_3:FARB); Migraine; If y
 | 3rd Qu. | 24 |
 | Max. | 98 |
 | NA's | 75234 |
+| Not NA | 1639 |
 
 
 ### FF137
@@ -2545,6 +2703,7 @@ F_3012_1:FARE; (F_3012_1:FARD); (F_12_8_1:FARC); (F_12_8_1:FARB); Other frequent
 | Category | n |
 | -------- | - |
 | 1 | 5758 |
+| Not NA | 5758 |
 | NA | 71115 |
 
 
@@ -2561,6 +2720,7 @@ F_3012_2:FARE; (F_3012_2:FARD); (F_12_8_2:FARC); (F_12_8_2:FARB); Other frequent
 | 3rd Qu. | 25 |
 | Max. | 99 |
 | NA's | 71817 |
+| Not NA | 5056 |
 
 
 ### FF139
@@ -2576,6 +2736,7 @@ F_3012_3:FARE; (F_3012_3:FARD); (F_12_8_3:FARC); (F_12_8_3:FARB); Other frequent
 | 3rd Qu. | 28 |
 | Max. | 98 |
 | NA's | 75584 |
+| Not NA | 1289 |
 
 
 ### FF140
@@ -2585,6 +2746,7 @@ F_3013_1:FARE; (F_3013_1:FARD); (F_12_9_1:FARC); (F_12_9_1:FARB); Constant aches
 | Category | n |
 | -------- | - |
 | 1 | 2926 |
+| Not NA | 2926 |
 | NA | 73947 |
 
 
@@ -2601,6 +2763,7 @@ F_3013_2:FARE; (F_3013_2:FARD); (F_12_9_2:FARC); (F_12_9_2:FARB); Constant aches
 | 3rd Qu. | 29 |
 | Max. | 99 |
 | NA's | 74083 |
+| Not NA | 2790 |
 
 
 ### FF142
@@ -2616,6 +2779,7 @@ F_3013_3:FARE; (F_3013_3:FARD); (F_12_9_3:FARC); (F_12_9_3:FARB); Constant aches
 | 3rd Qu. | 33 |
 | Max. | 99 |
 | NA's | 76075 |
+| Not NA | 798 |
 
 
 ### FF143
@@ -2625,6 +2789,7 @@ F_3014_1:FARE; (F_3014_1:FARD); (F_1210_1:FARC); (F_1210_1:FARB); Crohn`s diseas
 | Category | n |
 | -------- | - |
 | 1 | 2418 |
+| Not NA | 2418 |
 | NA | 74455 |
 
 
@@ -2641,6 +2806,7 @@ F_3014_2:FARE; (F_3014_2:FARD); (F_1210_2:FARC); (F_1210_2:FARB); Crohn`s diseas
 | 3rd Qu. | 26 |
 | Max. | 99 |
 | NA's | 74803 |
+| Not NA | 2070 |
 
 
 ### FF145
@@ -2656,6 +2822,7 @@ F_3014_3:FARE; (F_3014_3:FARD); (F_1210_3:FARC); (F_1210_3:FARB); Crohn`s diseas
 | 3rd Qu. | 31 |
 | Max. | 99 |
 | NA's | 76343 |
+| Not NA | 530 |
 
 
 ### FF146
@@ -2665,6 +2832,7 @@ F_3015_1:FARE; (F_3015_1:FARD); (F_1211_1:FARC); (F_1211_1:FARB); Sleep problems
 | Category | n |
 | -------- | - |
 | 1 | 4378 |
+| Not NA | 4378 |
 | NA | 72495 |
 
 
@@ -2681,6 +2849,7 @@ F_3015_2:FARE; (F_3015_2:FARD); (F_1211_2:FARC); (F_1211_2:FARB); Sleep problems
 | 3rd Qu. | 29 |
 | Max. | 99 |
 | NA's | 72918 |
+| Not NA | 3955 |
 
 
 ### FF148
@@ -2696,6 +2865,7 @@ F_3015_3:FARE; (F_3015_3:FARD); (F_1211_3:FARC); (F_1211_3:FARB); Sleep problems
 | 3rd Qu. | 32 |
 | Max. | 98 |
 | NA's | 75761 |
+| Not NA | 1112 |
 
 
 ### FF149
@@ -2705,6 +2875,7 @@ F_3016_1:FARE; (F_3016_1:FARD); (F_1212_1:FARC); (F_1212_1:FARB); Diabetes; If y
 | Category | n |
 | -------- | - |
 | 1 | 690 |
+| Not NA | 690 |
 | NA | 76183 |
 
 
@@ -2721,6 +2892,7 @@ F_3016_2:FARE; (F_3016_2:FARD); (F_1212_2:FARC); (F_1212_2:FARB); Diabetes; If y
 | 3rd Qu. | 30 |
 | Max. | 96 |
 | NA's | 76182 |
+| Not NA | 691 |
 
 
 ### FF151
@@ -2742,6 +2914,7 @@ F_3016_3:FARE; (F_3016_3:FARD); (F_1212_3:FARC); (F_1212_3:FARB); Diabetes; If y
 | 38 | 1 |
 | 5 | 1 |
 | 15 | 1 |
+| Not NA | 16 |
 | NA | 76857 |
 
 
@@ -2752,6 +2925,7 @@ F_3017_1:FARE; (F_3017_1:FARD); (F_1213_1:FARC); (F_1213_1:FARB); Cancer; If yes
 | Category | n |
 | -------- | - |
 | 1 | 579 |
+| Not NA | 579 |
 | NA | 76294 |
 
 
@@ -2768,6 +2942,7 @@ F_3017_2:FARE; (F_3017_2:FARD); (F_1213_2:FARC); (F_1213_2:FARB); Cancer; If yes
 | 3rd Qu. | 32 |
 | Max. | 98 |
 | NA's | 76297 |
+| Not NA | 576 |
 
 
 ### FF154
@@ -2783,6 +2958,7 @@ F_3017_3:FARE; (F_3017_3:FARD); (F_1213_3:FARC); (F_1213_3:FARB); Cancer; If you
 | 3rd Qu. | 32 |
 | Max. | 99 |
 | NA's | 76367 |
+| Not NA | 506 |
 
 
 ### FF155
@@ -2792,6 +2968,7 @@ F_3018_1:FARE; (F_3018_1:FARD); (F_1214_1:FARC); (F_1214_1:FARB); Cardiovascular
 | Category | n |
 | -------- | - |
 | 1 | 551 |
+| Not NA | 551 |
 | NA | 76322 |
 
 
@@ -2808,6 +2985,7 @@ F_3018_2:FARE; (F_3018_2:FARD); (F_1214_2:FARC); (F_1214_2:FARB); Cardiovascular
 | 3rd Qu. | 34 |
 | Max. | 98 |
 | NA's | 76343 |
+| Not NA | 530 |
 
 
 ### FF157
@@ -2823,6 +3001,7 @@ F_3018_3:FARE; (F_3018_3:FARD); (F_1214_3:FARC); (F_1214_3:FARB); Cardiovascular
 | 3rd Qu. | 34 |
 | Max. | 58 |
 | NA's | 76672 |
+| Not NA | 201 |
 
 
 ### FF158
@@ -2832,6 +3011,7 @@ F_3019_1:FARE; (F_3019_1:FARD); (F_1215_1:FARC); (F_1215_1:FARB); Epilepsy; If y
 | Category | n |
 | -------- | - |
 | 1 | 646 |
+| Not NA | 646 |
 | NA | 76227 |
 
 
@@ -2848,6 +3028,7 @@ F_3019_2:FARE; (F_3019_2:FARD); (F_1215_2:FARC); (F_1215_2:FARB); Epilepsy; If y
 | 3rd Qu. | 19 |
 | Max. | 47 |
 | NA's | 76247 |
+| Not NA | 626 |
 
 
 ### FF160
@@ -2863,6 +3044,7 @@ F_3019_3:FARE; (F_3019_3:FARD); (F_1215_3:FARC); (F_1215_3:FARB); Epilepsy; If y
 | 3rd Qu. | 20 |
 | Max. | 48 |
 | NA's | 76457 |
+| Not NA | 416 |
 
 
 ### FF161
@@ -2872,6 +3054,7 @@ F_3020_1:FARE; (F_3020_1:FARD); (F_1216_1:FARC); (F_1216_1:FARB); Repeated neck 
 | Category | n |
 | -------- | - |
 | 1 | 9551 |
+| Not NA | 9551 |
 | NA | 67322 |
 
 
@@ -2888,6 +3071,7 @@ F_3020_2:FARE; (F_3020_2:FARD); (F_1216_2:FARC); (F_1216_2:FARB); Repeated neck 
 | 3rd Qu. | 30 |
 | Max. | 99 |
 | NA's | 67858 |
+| Not NA | 9015 |
 
 
 ### FF163
@@ -2903,6 +3087,7 @@ F_3020_3:FARE; (F_3020_3:FARD); (F_1216_3:FARC); (F_1216_3:FARB); Repeated neck 
 | 3rd Qu. | 33 |
 | Max. | 99 |
 | NA's | 75671 |
+| Not NA | 1202 |
 
 
 ### FF164
@@ -2912,6 +3097,7 @@ F_3021_1:FARE; (F_3021_1:FARD); (F_1217_1:FARC); (F_1217_1:FARB); Lower back pai
 | Category | n |
 | -------- | - |
 | 1 | 14671 |
+| Not NA | 14671 |
 | NA | 62202 |
 
 
@@ -2928,6 +3114,7 @@ F_3021_2:FARE; (F_3021_2:FARD); (F_1217_2:FARC); (F_1217_2:FARB); Lower back pai
 | 3rd Qu. | 28 |
 | Max. | 99 |
 | NA's | 62998 |
+| Not NA | 13875 |
 
 
 ### FF166
@@ -2943,6 +3130,7 @@ F_3021_3:FARE; (F_3021_3:FARD); (F_1217_3:FARC); (F_1217_3:FARB); Lower back pai
 | 3rd Qu. | 32 |
 | Max. | 99 |
 | NA's | 74095 |
+| Not NA | 2778 |
 
 
 ### FF167
@@ -2952,6 +3140,7 @@ F_3022_1:FARE; (F_3022_1:FARD); (F_1218_1:FARC); (F_1218_1:FARB); Prolonged musc
 | Category | n |
 | -------- | - |
 | 1 | 2696 |
+| Not NA | 2696 |
 | NA | 74177 |
 
 
@@ -2968,6 +3157,7 @@ F_3022_2:FARE; (F_3022_2:FARD); (F_1218_2:FARC); (F_1218_2:FARB); Prolonged musc
 | 3rd Qu. | 30 |
 | Max. | 99 |
 | NA's | 74323 |
+| Not NA | 2550 |
 
 
 ### FF169
@@ -2983,6 +3173,7 @@ F_3022_3:FARE; (F_3022_3:FARD); (F_1218_3:FARC); (F_1218_3:FARB); Prolonged musc
 | 3rd Qu. | 33 |
 | Max. | 99 |
 | NA's | 76440 |
+| Not NA | 433 |
 
 
 ### FF170
@@ -2992,6 +3183,7 @@ F_3023_1:FARE; (F_3023_1:FARD); (F_1219_1:FARC); (F_1219_1:FARB); Bechterew`s di
 | Category | n |
 | -------- | - |
 | 1 | 623 |
+| Not NA | 623 |
 | NA | 76250 |
 
 
@@ -3008,6 +3200,7 @@ F_3023_2:FARE; (F_3023_2:FARD); (F_1219_2:FARC); (F_1219_2:FARB); Bechterew`s di
 | 3rd Qu. | 27.25 |
 | Max. | 99 |
 | NA's | 76273 |
+| Not NA | 600 |
 
 
 ### FF172
@@ -3023,6 +3216,7 @@ F_3023_3:FARE; (F_3023_3:FARD); (F_1219_3:FARC); (F_1219_3:FARB); Bechterew`s di
 | 3rd Qu. | 30.5 |
 | Max. | 42 |
 | NA's | 76829 |
+| Not NA | 44 |
 
 
 ### FF173
@@ -3032,6 +3226,7 @@ F_3024_1:FARE; (F_3024_1:FARD); (F_1220_1:FARC); (F_1220_1:FARB); High blood pre
 | Category | n |
 | -------- | - |
 | 1 | 2165 |
+| Not NA | 2165 |
 | NA | 74708 |
 
 
@@ -3048,6 +3243,7 @@ F_3024_2:FARE; (F_3024_2:FARD); (F_1220_2:FARC); (F_1220_2:FARB); High blood pre
 | 3rd Qu. | 33 |
 | Max. | 99 |
 | NA's | 74801 |
+| Not NA | 2072 |
 
 
 ### FF175
@@ -3063,6 +3259,7 @@ F_3024_3:FARE; (F_3024_3:FARD); (F_1220_3:FARC); (F_1220_3:FARB); High blood pre
 | 3rd Qu. | 34 |
 | Max. | 99 |
 | NA's | 76306 |
+| Not NA | 567 |
 
 
 ### FF176
@@ -3072,6 +3269,7 @@ F_1221_1:FARC; (F_1221_1:FARB); If yes, check; Psychological problems (e.g. depr
 | Category | n |
 | -------- | - |
 | 1 | 1913 |
+| Not NA | 1913 |
 | NA | 74960 |
 
 
@@ -3088,6 +3286,7 @@ F_1221_2:FARC; (F_1221_2:FARB); Years. If yes, do you remember how old you were 
 | 3rd Qu. | 30 |
 | Max. | 99 |
 | NA's | 75037 |
+| Not NA | 1836 |
 
 
 ### FF178
@@ -3103,6 +3302,7 @@ F_1221_3:FARC; (F_1221_3:FARB); Years. How old were you when you recovered?; Psy
 | 3rd Qu. | 32 |
 | Max. | 99 |
 | NA's | 75910 |
+| Not NA | 963 |
 
 
 ### FF179
@@ -3112,6 +3312,7 @@ F_3030_1:FARE; (F_3030_1:FARD); (F_1222_1:FARC); (F_1222_1:FARB); Other long-ter
 | Category | n |
 | -------- | - |
 | 1 | 4682 |
+| Not NA | 4682 |
 | NA | 72191 |
 
 
@@ -3128,6 +3329,7 @@ F_3030_2:FARE; (F_3030_2:FARD); (F_1222_2:FARC); (F_1222_2:FARB); Other long-ter
 | 3rd Qu. | 29 |
 | Max. | 99 |
 | NA's | 73033 |
+| Not NA | 3840 |
 
 
 ### FF181
@@ -3143,6 +3345,7 @@ F_3030_3:FARE; (F_3030_3:FARD); (F_1222_3:FARC); (F_1222_3:FARB); Other long-ter
 | 3rd Qu. | 32 |
 | Max. | 99 |
 | NA's | 75934 |
+| Not NA | 939 |
 
 
 ### FF374
@@ -3152,6 +3355,7 @@ F_30_7_1:FARE; (F_30_7_1:FARD); Chlamydia; If yes, tick; 30. Do you have or have
 | Category | n |
 | -------- | - |
 | 1 | 3497 |
+| Not NA | 3497 |
 | NA | 73376 |
 
 
@@ -3168,6 +3372,7 @@ F_30_7_2:FARE; (F_30_7_2:FARD); Chlamydia; If yes, do you remember how old you w
 | 3rd Qu. | 26 |
 | Max. | 99 |
 | NA's | 73483 |
+| Not NA | 3390 |
 
 
 ### FF376
@@ -3183,6 +3388,7 @@ F_30_7_3:FARE; (F_30_7_3:FARD); Chlamydia; If you became well or the problem sto
 | 3rd Qu. | 27 |
 | Max. | 99 |
 | NA's | 73630 |
+| Not NA | 3243 |
 
 
 ### FF377
@@ -3192,6 +3398,7 @@ F_30_8_1:FARE; (F_30_8_1:FARD); Herpes; If yes, tick; 30. Do you have or have yo
 | Category | n |
 | -------- | - |
 | 1 | 1481 |
+| Not NA | 1481 |
 | NA | 75392 |
 
 
@@ -3208,6 +3415,7 @@ F_30_8_2:FARE; (F_30_8_2:FARD); Herpes; If yes, do you remember how old you were
 | 3rd Qu. | 26 |
 | Max. | 45 |
 | NA's | 75517 |
+| Not NA | 1356 |
 
 
 ### FF379
@@ -3223,6 +3431,7 @@ F_30_8_3:FARE; (F_30_8_3:FARD); Herpes; If you became well or the problem stoppe
 | 3rd Qu. | 30 |
 | Max. | 58 |
 | NA's | 76636 |
+| Not NA | 237 |
 
 
 ### FF380
@@ -3232,6 +3441,7 @@ F_30_9_1:FARE; (F_30_9_1:FARD); Genital warts; If yes, tick; 30. Do you have or 
 | Category | n |
 | -------- | - |
 | 1 | 1994 |
+| Not NA | 1994 |
 | NA | 74879 |
 
 
@@ -3248,6 +3458,7 @@ F_30_9_2:FARE; (F_30_9_2:FARD); Genital warts; If yes, do you remember how old y
 | 3rd Qu. | 28 |
 | Max. | 54 |
 | NA's | 74952 |
+| Not NA | 1921 |
 
 
 ### FF382
@@ -3263,6 +3474,7 @@ F_30_9_3:FARE; (F_30_9_3:FARD); Genital warts; If you became well or the problem
 | 3rd Qu. | 28 |
 | Max. | 54 |
 | NA's | 75359 |
+| Not NA | 1514 |
 
 
 ### FF383
@@ -3272,6 +3484,7 @@ F_3010_1:FARE; (F_3010_1:FARD); Gonorrhea; If yes, tick; 30. Do you have or have
 | Category | n |
 | -------- | - |
 | 1 | 168 |
+| Not NA | 168 |
 | NA | 76705 |
 
 
@@ -3288,6 +3501,7 @@ F_3010_2:FARE; (F_3010_2:FARD); Gonorrhea; If yes, do you remember how old you w
 | 3rd Qu. | 24 |
 | Max. | 36 |
 | NA's | 76719 |
+| Not NA | 154 |
 
 
 ### FF385
@@ -3303,6 +3517,7 @@ F_3010_3:FARE; (F_3010_3:FARD); Gonorrhea; If you became well or the problem sto
 | 3rd Qu. | 24 |
 | Max. | 36 |
 | NA's | 76729 |
+| Not NA | 144 |
 
 
 ### FF386
@@ -3312,6 +3527,7 @@ F_3025_1:FARE; (F_3025_1:FARD); ADHD; If yes, tick; 30. Do you have or have you 
 | Category | n |
 | -------- | - |
 | 1 | 149 |
+| Not NA | 149 |
 | NA | 76724 |
 
 
@@ -3328,6 +3544,7 @@ F_3025_2:FARE; (F_3025_2:FARD); ADHD; If yes, do you remember how old you were a
 | 3rd Qu. | 11 |
 | Max. | 35 |
 | NA's | 76747 |
+| Not NA | 126 |
 
 
 ### FF388
@@ -3352,6 +3569,7 @@ F_3025_3:FARE; (F_3025_3:FARD); ADHD; If you became well or the problem stopped,
 | 21 | 1 |
 | 12 | 1 |
 | 11 | 1 |
+| Not NA | 34 |
 | NA | 76839 |
 
 
@@ -3362,6 +3580,7 @@ F_3026_1:FARE; (F_3026_1:FARD); Anorexia/bulimia/eating disorders; If yes, tick;
 | Category | n |
 | -------- | - |
 | 1 | 74 |
+| Not NA | 74 |
 | NA | 76799 |
 
 
@@ -3378,6 +3597,7 @@ F_3026_2:FARE; (F_3026_2:FARD); Anorexia/bulimia/eating disorders; If yes, do yo
 | 3rd Qu. | 20 |
 | Max. | 90 |
 | NA's | 76803 |
+| Not NA | 70 |
 
 
 ### FF391
@@ -3393,6 +3613,7 @@ F_3026_3:FARE; (F_3026_3:FARD); Anorexia/bulimia/eating disorders; If you became
 | 3rd Qu. | 24 |
 | Max. | 91 |
 | NA's | 76816 |
+| Not NA | 57 |
 
 
 ### FF392
@@ -3402,6 +3623,7 @@ F_3027_1:FARE; (F_3027_1:FARD); Manic depressive illness; If yes, tick; 30. Do y
 | Category | n |
 | -------- | - |
 | 1 | 118 |
+| Not NA | 118 |
 | NA | 76755 |
 
 
@@ -3418,6 +3640,7 @@ F_3027_2:FARE; (F_3027_2:FARD); Manic depressive illness; If yes, do you remembe
 | 3rd Qu. | 26 |
 | Max. | 52 |
 | NA's | 76760 |
+| Not NA | 113 |
 
 
 ### FF394
@@ -3433,6 +3656,7 @@ F_3027_3:FARE; (F_3027_3:FARD); Manic depressive illness; If you became well or 
 | 3rd Qu. | 31.25 |
 | Max. | 52 |
 | NA's | 76817 |
+| Not NA | 56 |
 
 
 ### FF395
@@ -3442,6 +3666,7 @@ F_3028_1:FARE; (F_3028_1:FARD); Schizophrenia; If yes, tick; 30. Do you have or 
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 76865 |
 
 
@@ -3457,6 +3682,7 @@ F_3028_2:FARE; (F_3028_2:FARD); Schizophrenia; If yes, do you remember how old y
 | 26 | 1 |
 | 18 | 1 |
 | 43 | 1 |
+| Not NA | 6 |
 | NA | 76867 |
 
 
@@ -3469,6 +3695,7 @@ F_3028_3:FARE; (F_3028_3:FARD); Schizophrenia; If you became well or the problem
 | 0 | 3 |
 | 26 | 1 |
 | 45 | 1 |
+| Not NA | 5 |
 | NA | 76868 |
 
 
@@ -3479,6 +3706,7 @@ F_3029_1:FARE; (F_3029_1:FARD); Other long-term mental illnesses or health probl
 | Category | n |
 | -------- | - |
 | 1 | 778 |
+| Not NA | 778 |
 | NA | 76095 |
 
 
@@ -3495,6 +3723,7 @@ F_3029_2:FARE; (F_3029_2:FARD); Other long-term mental illnesses or health probl
 | 3rd Qu. | 29 |
 | Max. | 90 |
 | NA's | 76121 |
+| Not NA | 752 |
 
 
 ### FF400
@@ -3510,6 +3739,7 @@ F_3029_3:FARE; (F_3029_3:FARD); Other long-term mental illnesses or health probl
 | 3rd Qu. | 32 |
 | Max. | 98 |
 | NA's | 76529 |
+| Not NA | 344 |
 
 
 ### FF183
@@ -3521,6 +3751,7 @@ F_33:FARE; (F_33:FARD); (F_13:FARC); (F_13:FARB); ; 33.  Did you use medicines i
 | Yes | 24395 |
 | No | 49425 |
 | More than 1 check box filled in | 78 |
+| Not NA | 73898 |
 | NA | 2975 |
 
 
@@ -3534,6 +3765,7 @@ F_34_1_2:FARE; (F_34_1_2:FARD); (F_14_1_2:FARC); (F_14_1_2:FARB); How long did y
 | More than 1 month | 10317 |
 | Less than 1 week | 10133 |
 | More than 1 check box filled in | 10 |
+| Not NA | 24454 |
 | NA | 52419 |
 
 
@@ -3547,6 +3779,7 @@ F_34_2_2:FARE; (F_34_2_2:FARD); (F_14_2_2:FARC); (F_14_2_2:FARB); How long did y
 | 1 week -1 month | 1878 |
 | Less than 1 week | 3133 |
 | More than 1 check box filled in | 5 |
+| Not NA | 8756 |
 | NA | 68117 |
 
 
@@ -3560,6 +3793,7 @@ F_34_3_2:FARE; (F_34_3_2:FARD); (F_14_3_2:FARC); (F_14_3_2:FARB); How long did y
 | Less than 1 week | 909 |
 | More than 1 month | 1438 |
 | More than 1 check box filled in | 1 |
+| Not NA | 3060 |
 | NA | 73813 |
 
 
@@ -3573,6 +3807,7 @@ F_34_4_2:FARE; (F_34_4_2:FARD); (F_14_4_2:FARC); (F_14_4_2:FARB); How long did y
 | Less than 1 week | 258 |
 | More than 1 month | 488 |
 | More than 1 check box filled in | 2 |
+| Not NA | 970 |
 | NA | 75903 |
 
 
@@ -3585,6 +3820,7 @@ F_31:FARE; (F_31:FARD); (F_17:FARC); (F_17:FARB); ; 31. Do you have a congenital
 | No | 70679 |
 | Yes | 3291 |
 | More than 1 check box filled in | 5 |
+| Not NA | 73975 |
 | NA | 2898 |
 
 
@@ -3597,6 +3833,7 @@ F_35:FARE; (F_35:FARD); (F_19:FARC); (F_19:FARB); ; 35. Did you have any X-rays 
 | Yes | 21395 |
 | No | 53793 |
 | More than 1 check box filled in | 63 |
+| Not NA | 75251 |
 | NA | 1622 |
 
 
@@ -3607,6 +3844,7 @@ F_36_1_1:FARE; (F_36_1_1:FARD); (F_20_1_1:FARC); (F_20_1_1:FARB); (Check box); T
 | Category | n |
 | -------- | - |
 | 1 | 14360 |
+| Not NA | 14360 |
 | NA | 62513 |
 
 
@@ -3635,6 +3873,7 @@ F_36_1_2:FARE; (F_36_1_2:FARD); (F_20_1_2:FARC); (F_20_1_2:FARB); Number of time
 | 40 | 1 |
 | 14 | 1 |
 | 11 | 1 |
+| Not NA | 13814 |
 | NA | 63059 |
 
 
@@ -3645,6 +3884,7 @@ F_36_2_1:FARE; (F_36_2_1:FARD); (F_20_2_1:FARC); (F_20_2_1:FARB); (Check box); L
 | Category | n |
 | -------- | - |
 | 1 | 1903 |
+| Not NA | 1903 |
 | NA | 74970 |
 
 
@@ -3666,6 +3906,7 @@ F_36_2_2:FARE; (F_36_2_2:FARD); (F_20_2_2:FARC); (F_20_2_2:FARB); Number of time
 | 12 | 1 |
 | 15 | 1 |
 | 20 | 1 |
+| Not NA | 1864 |
 | NA | 75009 |
 
 
@@ -3676,6 +3917,7 @@ F_36_4_1:FARE; (F_36_4_1:FARD); (F_20_3_1:FARC); (F_20_3_1:FARB); (Check box); A
 | Category | n |
 | -------- | - |
 | 1 | 3467 |
+| Not NA | 3467 |
 | NA | 73406 |
 
 
@@ -3704,6 +3946,7 @@ F_36_4_2:FARE; (F_36_4_2:FARD); (F_20_3_2:FARC); (F_20_3_2:FARB); Number of time
 | 12 | 1 |
 | 25 | 1 |
 | 78 | 1 |
+| Not NA | 3372 |
 | NA | 73501 |
 
 
@@ -3714,6 +3957,7 @@ F_36_3_1:FARE; (F_36_3_1:FARD); (F_20_4_1:FARC); (F_20_4_1:FARB); (Check box); P
 | Category | n |
 | -------- | - |
 | 1 | 2608 |
+| Not NA | 2608 |
 | NA | 74265 |
 
 
@@ -3736,6 +3980,7 @@ F_36_3_2:FARE; (F_36_3_2:FARD); (F_20_4_2:FARC); (F_20_4_2:FARB); Number of time
 | 15 | 3 |
 | 20 | 2 |
 | 9 | 7 |
+| Not NA | 2769 |
 | NA | 74104 |
 
 
@@ -3746,6 +3991,7 @@ F_36_5_1:FARE; (F_36_5_1:FARD); (F_20_5_1:FARC); (F_20_5_1:FARB); (Check box); O
 | Category | n |
 | -------- | - |
 | 1 | 1462 |
+| Not NA | 1462 |
 | NA | 75411 |
 
 
@@ -3769,6 +4015,7 @@ F_36_5_2:FARE; (F_36_5_2:FARD); (F_20_5_2:FARC); (F_20_5_2:FARB); Number of time
 | 40 | 1 |
 | 19 | 1 |
 | 9 | 3 |
+| Not NA | 1505 |
 | NA | 75368 |
 
 
@@ -3784,6 +4031,7 @@ F_37:FARE; (F_37:FARD); ; 37. How many children do you have from before?
 | 3 | 897 |
 | 4 | 199 |
 | 5+ | 67 |
+| Not NA | 32534 |
 | NA | 44339 |
 
 
@@ -3799,6 +4047,7 @@ F_38:FARE; (F_38:FARD); ; 38. How many of these are with your present partner?
 | 0 | 10998 |
 | 4 | 59 |
 | 5+ | 20 |
+| Not NA | 25109 |
 | NA | 51764 |
 
 
@@ -3826,6 +4075,7 @@ F_39_1:FARE; (F_39_1:FARD); White bread (incl. bread rolls, baguettes, pitta, ci
 | 30 | 1 |
 | 16 | 1 |
 | 18 | 1 |
+| Not NA | 17625 |
 | NA | 59248 |
 
 
@@ -3842,6 +4092,7 @@ F_39_2:FARE; (F_39_2:FARD); Medium coarse-grain bread (incl. rolls); 39. How man
 | 3rd Qu. | 5 |
 | Max. | 50 |
 | NA's | 51021 |
+| Not NA | 25852 |
 
 
 ### FF405
@@ -3857,6 +4108,7 @@ F_39_3:FARE; (F_39_3:FARD); Coarse-grain bread; 39. How many slices of bread do 
 | 3rd Qu. | 5 |
 | Max. | 80 |
 | NA's | 51647 |
+| Not NA | 25226 |
 
 
 ### FF406
@@ -3872,6 +4124,7 @@ F_39_4:FARE; (F_39_4:FARD); Crispbread/biscuits; 39. How many slices of bread do
 | 3rd Qu. | 2 |
 | Max. | 60 |
 | NA's | 58428 |
+| Not NA | 18445 |
 
 
 ### FF407
@@ -3884,6 +4137,7 @@ F_40:FARE; (F_40:FARD); ; 40. Do you use butter, margarine or oil on bread?
 | No, almost never | 7350 |
 | Yes, sometimes | 5932 |
 | More than 1 check box filled in | 6 |
+| Not NA | 34211 |
 | NA | 42662 |
 
 
@@ -3899,6 +4153,7 @@ F_41_1:FARE; (F_41_1:FARD); Reduced fat cheese; 41. How often do you add these t
 | 3-4 times per week | 1937 |
 | Several times per day | 306 |
 | More than 1 check box filled in | 30 |
+| Not NA | 30902 |
 | NA | 45971 |
 
 
@@ -3914,6 +4169,7 @@ F_41_2:FARE; (F_41_2:FARD); Regular cheese (yellow/brown); 41. How often do you 
 | 3-4 times per week | 9973 |
 | Several times per day | 3357 |
 | More than 1 check box filled in | 66 |
+| Not NA | 33835 |
 | NA | 43038 |
 
 
@@ -3929,6 +4185,7 @@ F_41_3:FARE; (F_41_3:FARD); Prawns/Italian salad or similar; 41. How often do yo
 | 5-7 times per week | 850 |
 | Several times per day | 165 |
 | More than 1 check box filled in | 76 |
+| Not NA | 32827 |
 | NA | 44046 |
 
 
@@ -3944,6 +4201,7 @@ F_41_4:FARE; (F_41_4:FARD); Lean meat; 41. How often do you add these to bread?
 | 5-7 times per week | 4175 |
 | Several times per day | 1270 |
 | More than 1 check box filled in | 47 |
+| Not NA | 33054 |
 | NA | 43819 |
 
 
@@ -3959,6 +4217,7 @@ F_41_5:FARE; (F_41_5:FARD); Servelat sausage, salami or similar; 41. How often d
 | 3-4 times per week | 8168 |
 | 5-7 times per week | 3398 |
 | More than 1 check box filled in | 49 |
+| Not NA | 33257 |
 | NA | 43616 |
 
 
@@ -3974,6 +4233,7 @@ F_41_6:FARE; (F_41_6:FARD); Liver pate or similar; 41. How often do you add thes
 | 5-7 times per week | 3062 |
 | Several times per day | 696 |
 | More than 1 check box filled in | 33 |
+| Not NA | 33315 |
 | NA | 43558 |
 
 
@@ -3989,6 +4249,7 @@ F_41_7:FARE; (F_41_7:FARD); Fish; 41. How often do you add these to bread?
 | Several times per day | 343 |
 | 5-7 times per week | 1861 |
 | More than 1 check box filled in | 71 |
+| Not NA | 33025 |
 | NA | 43848 |
 
 
@@ -4004,6 +4265,7 @@ F_41_8:FARE; (F_41_8:FARD); Preserves (jam/jelly), other sweet spreads; 41. How 
 | 5-7 times per week | 3724 |
 | Several times per day | 1035 |
 | More than 1 check box filled in | 30 |
+| Not NA | 33285 |
 | NA | 43588 |
 
 
@@ -4019,6 +4281,7 @@ F_41_9:FARE; (F_41_9:FARD); Egg (boiled, fried, scrambled); 41. How often do you
 | 5-7 times per week | 1350 |
 | Several times per day | 120 |
 | More than 1 check box filled in | 16 |
+| Not NA | 33779 |
 | NA | 43094 |
 
 
@@ -4034,6 +4297,7 @@ F_42_1:FARE; (F_42_1:FARD); Whole milk,buttermilk, yoghurt; 42. How often do you
 | 2-3 glasses per day | 725 |
 | 4 glasses or more a day | 241 |
 | More than 1 check box filled in | 18 |
+| Not NA | 33003 |
 | NA | 43870 |
 
 
@@ -4049,6 +4313,7 @@ F_42_2:FARE; (F_42_2:FARD); Low-fat and skimmed milk; 42. How often do you drink
 | 1-6 glasses per week | 8247 |
 | 4 glasses or more a day | 2467 |
 | More than 1 check box filled in | 33 |
+| Not NA | 33980 |
 | NA | 42893 |
 
 
@@ -4064,6 +4329,7 @@ F_42_3:FARE; (F_42_3:FARD); Fruit juice; 42. How often do you drink the followin
 | 2-3 glasses per day | 4692 |
 | 4 glasses or more a day | 401 |
 | More than 1 check box filled in | 34 |
+| Not NA | 33881 |
 | NA | 42992 |
 
 
@@ -4079,6 +4345,7 @@ F_42_4:FARE; (F_42_4:FARD); Coca Cola/Pepsi with sugar; 42. How often do you dri
 | 4 glasses or more a day | 704 |
 | 1 glass per day | 1707 |
 | More than 1 check box filled in | 24 |
+| Not NA | 33708 |
 | NA | 43165 |
 
 
@@ -4094,6 +4361,7 @@ F_42_5:FARE; (F_42_5:FARD); Coca Cola/Pepsi sugar-free; 42. How often do you dri
 | 1-6 glasses per week | 7385 |
 | 1 glass per day | 1541 |
 | More than 1 check box filled in | 15 |
+| Not NA | 33496 |
 | NA | 43377 |
 
 
@@ -4109,6 +4377,7 @@ F_42_6:FARE; (F_42_6:FARD); Other sugar-free fizzy drinks; 42. How often do you 
 | 2-3 glasses per day | 361 |
 | 4 glasses or more a day | 129 |
 | More than 1 check box filled in | 4 |
+| Not NA | 33356 |
 | NA | 43517 |
 
 
@@ -4124,6 +4393,7 @@ F_42_7:FARE; (F_42_7:FARD); Energy drinks, Battery or similar; 42. How often do 
 | 4 glasses or more a day | 17 |
 | 2-3 glasses per day | 31 |
 | More than 1 check box filled in | 36 |
+| Not NA | 33482 |
 | NA | 43391 |
 
 
@@ -4139,6 +4409,7 @@ F_42_8:FARE; (F_42_8:FARD); Filter-and instant coffee; 42. How often do you drin
 | 2-3 glasses per day | 10740 |
 | 1 glass per day | 2985 |
 | More than 1 check box filled in | 23 |
+| Not NA | 33755 |
 | NA | 43118 |
 
 
@@ -4154,6 +4425,7 @@ F_42_9:FARE; (F_42_9:FARD); Boiled/Cafetiere coffee; 42. How often do you drink 
 | 2-3 glasses per day | 1554 |
 | 4 glasses or more a day | 669 |
 | More than 1 check box filled in | 13 |
+| Not NA | 33165 |
 | NA | 43708 |
 
 
@@ -4169,6 +4441,7 @@ F_4210:FARE; (F_4210:FARD); Other coffee, espresso or similar; 42. How often do 
 | 1 glass per day | 1622 |
 | 4 glasses or more a day | 345 |
 | More than 1 check box filled in | 10 |
+| Not NA | 33478 |
 | NA | 43395 |
 
 
@@ -4184,6 +4457,7 @@ F_4211:FARE; (F_4211:FARD); Tea; 42. How often do you drink the following?
 | 1-6 glasses per week | 9762 |
 | 4 glasses or more a day | 243 |
 | More than 1 check box filled in | 7 |
+| Not NA | 33580 |
 | NA | 43293 |
 
 
@@ -4199,6 +4473,7 @@ F_43_1:FARE; (F_43_1:FARD); Sausages, hamburger; 43. How often do you eat these 
 | Seldom/never | 4323 |
 | 4 times or more per week | 164 |
 | More than 1 check box filled in | 10 |
+| Not NA | 34097 |
 | NA | 42776 |
 
 
@@ -4214,6 +4489,7 @@ F_43_2:FARE; (F_43_2:FARD); Kebab; 43. How often do you eat these meals?
 | More than 1 check box filled in | 54 |
 | 2-3 times per week | 76 |
 | 4 times or more per week | 12 |
+| Not NA | 33900 |
 | NA | 42973 |
 
 
@@ -4229,6 +4505,7 @@ F_43_3:FARE; (F_43_3:FARD); Pizza; 43. How often do you eat these meals?
 | 1-2 times per month | 13277 |
 | 4 times or more per week | 57 |
 | More than 1 check box filled in | 26 |
+| Not NA | 34118 |
 | NA | 42755 |
 
 
@@ -4244,6 +4521,7 @@ F_43_4:FARE; (F_43_4:FARD); Meals with minced meat; 43. How often do you eat the
 | Seldom/never | 1152 |
 | 4 times or more per week | 339 |
 | More than 1 check box filled in | 39 |
+| Not NA | 34089 |
 | NA | 42784 |
 
 
@@ -4259,6 +4537,7 @@ F_43_5:FARE; (F_43_5:FARD); Pure meat; 43. How often do you eat these meals?
 | Seldom/never | 1578 |
 | 4 times or more per week | 253 |
 | More than 1 check box filled in | 41 |
+| Not NA | 34000 |
 | NA | 42873 |
 
 
@@ -4274,6 +4553,7 @@ F_43_6:FARE; (F_43_6:FARD); Chicken/turkey; 43. How often do you eat these meals
 | Seldom/never | 1344 |
 | 4 times or more per week | 325 |
 | More than 1 check box filled in | 40 |
+| Not NA | 34114 |
 | NA | 42759 |
 
 
@@ -4289,6 +4569,7 @@ F_43_7:FARE; (F_43_7:FARD); Lean fish (cod, pollock, haddock etc.); 43. How ofte
 | 2-3 times per week | 2047 |
 | More than 1 check box filled in | 19 |
 | 4 times or more per week | 64 |
+| Not NA | 34022 |
 | NA | 42851 |
 
 
@@ -4304,6 +4585,7 @@ F_43_8:FARE; (F_43_8:FARD); Fatty fish (trout, salmon, mackerel, herring); 43. H
 | 2-3 times per week | 1367 |
 | 4 times or more per week | 80 |
 | More than 1 check box filled in | 22 |
+| Not NA | 34017 |
 | NA | 42856 |
 
 
@@ -4319,6 +4601,7 @@ F_43_9:FARE; (F_43_9:FARD); Fish balls/fish cakes; 43. How often do you eat thes
 | 2-3 times per week | 625 |
 | 4 times or more per week | 19 |
 | More than 1 check box filled in | 19 |
+| Not NA | 33978 |
 | NA | 42895 |
 
 
@@ -4334,6 +4617,7 @@ F_4310:FARE; (F_4310:FARD); Vegetarian meals; 43. How often do you eat these mea
 | 3-4 times per month | 2331 |
 | 4 times or more per week | 321 |
 | More than 1 check box filled in | 10 |
+| Not NA | 33844 |
 | NA | 43029 |
 
 
@@ -4349,6 +4633,7 @@ F_4311:FARE; (F_4311:FARD); Other; 43. How often do you eat these meals?
 | Seldom/never | 12356 |
 | 4 times or more per week | 413 |
 | More than 1 check box filled in | 30 |
+| Not NA | 24401 |
 | NA | 52472 |
 
 
@@ -4364,6 +4649,7 @@ F_44_1:FARE; (F_44_1:FARD); Raw vegetables/salads; 44. How often do you eat vege
 | 5 times or more per week | 4119 |
 | Seldom/never | 1985 |
 | More than 1 check box filled in | 10 |
+| Not NA | 34023 |
 | NA | 42850 |
 
 
@@ -4379,6 +4665,7 @@ F_44_2:FARE; (F_44_2:FARD); Cooked vegetables in stews; 44. How often do you eat
 | 3-4 times per week | 4158 |
 | 5 times or more per week | 878 |
 | More than 1 check box filled in | 15 |
+| Not NA | 33659 |
 | NA | 43214 |
 
 
@@ -4394,6 +4681,7 @@ F_44_3:FARE; (F_44_3:FARD); Cooked vegetables; 44. How often do you eat vegetabl
 | Seldom/never | 1894 |
 | 5 times or more per week | 2313 |
 | More than 1 check box filled in | 21 |
+| Not NA | 33985 |
 | NA | 42888 |
 
 
@@ -4409,6 +4697,7 @@ F_44_4:FARE; (F_44_4:FARD); Fruit; 44. How often do you eat vegetables and fruit
 | 5 times or more per week | 11828 |
 | Seldom/never | 1224 |
 | More than 1 check box filled in | 17 |
+| Not NA | 33977 |
 | NA | 42896 |
 
 
@@ -4424,6 +4713,7 @@ F_45_1:FARE; (F_45_1:FARD); Canteen/cafeteria/lunch bar; 45. How often do you ea
 | 1-4 times per week | 6768 |
 | Several times per day | 248 |
 | More than 1 check box filled in | 12 |
+| Not NA | 34000 |
 | NA | 42873 |
 
 
@@ -4439,6 +4729,7 @@ F_45_2:FARE; (F_45_2:FARD); Restaurant; 45. How often do you eat food bought fro
 | 5-7 times per week | 77 |
 | More than 1 check box filled in | 9 |
 | Several times per day | 18 |
+| Not NA | 33982 |
 | NA | 42891 |
 
 
@@ -4454,6 +4745,7 @@ F_45_3:FARE; (F_45_3:FARD); Kiosk/snack bar; 45. How often do you eat food bough
 | 5-7 times per week | 89 |
 | More than 1 check box filled in | 10 |
 | Several times per day | 9 |
+| Not NA | 33926 |
 | NA | 42947 |
 
 
@@ -4469,6 +4761,7 @@ F_45_4:FARE; (F_45_4:FARD); Petrol/gasoline station; 45. How often do you eat fo
 | 5-7 times per week | 157 |
 | Several times per day | 18 |
 | More than 1 check box filled in | 8 |
+| Not NA | 33974 |
 | NA | 42899 |
 
 
@@ -4484,6 +4777,7 @@ F_45_5:FARE; (F_45_5:FARD); McDonalds, Burger King etc.; 45. How often do you ea
 | 5-7 times per week | 13 |
 | Several times per day | 3 |
 | More than 1 check box filled in | 5 |
+| Not NA | 34030 |
 | NA | 42843 |
 
 
@@ -4494,6 +4788,7 @@ F_46_1:FARE; (F_46_1:FARD); I have a varied diet; 46. How would you describe you
 | Category | n |
 | -------- | - |
 | 1 | 32347 |
+| Not NA | 32347 |
 | NA | 44526 |
 
 
@@ -4504,6 +4799,7 @@ F_46_2:FARE; (F_46_2:FARD); I do not eat fish; 46. How would you describe your d
 | Category | n |
 | -------- | - |
 | 1 | 2133 |
+| Not NA | 2133 |
 | NA | 74740 |
 
 
@@ -4514,6 +4810,7 @@ F_46_3:FARE; (F_46_3:FARD); I do not eat meat; 46. How would you describe your d
 | Category | n |
 | -------- | - |
 | 1 | 136 |
+| Not NA | 136 |
 | NA | 76737 |
 
 
@@ -4524,6 +4821,7 @@ F_46_4:FARE; (F_46_4:FARD); I am a vegetarian; 46. How would you describe your d
 | Category | n |
 | -------- | - |
 | 1 | 113 |
+| Not NA | 113 |
 | NA | 76760 |
 
 
@@ -4536,6 +4834,7 @@ F_15:FARC; (F_15:FARB); ; 15. Have you taken vitamins, minerals or other nutriti
 | No | 27144 |
 | Yes | 13250 |
 | More than 1 check box filled in | 6 |
+| Not NA | 40400 |
 | NA | 36473 |
 
 
@@ -4548,6 +4847,7 @@ F_47:FARE; (F_47:FARD); ; 47. Do you use any form of dietary supplement?
 | Yes | 13631 |
 | No | 20342 |
 | More than 1 check box filled in | 36 |
+| Not NA | 34009 |
 | NA | 42864 |
 
 
@@ -4558,6 +4858,7 @@ F_48_1:FARE; (F_48_1:FARD); Multivitamin-/mineral supplement; 48. If yes, which 
 | Category | n |
 | -------- | - |
 | 1 | 7308 |
+| Not NA | 7308 |
 | NA | 69565 |
 
 
@@ -4568,6 +4869,7 @@ F_48_2:FARE; (F_48_2:FARD); Cod-liver oil/fish oil; 48. If yes, which type?
 | Category | n |
 | -------- | - |
 | 1 | 10892 |
+| Not NA | 10892 |
 | NA | 65981 |
 
 
@@ -4578,6 +4880,7 @@ F_48_3:FARE; (F_48_3:FARD); Protein supplement; 48. If yes, which type?
 | Category | n |
 | -------- | - |
 | 1 | 1534 |
+| Not NA | 1534 |
 | NA | 75339 |
 
 
@@ -4590,6 +4893,7 @@ F_49:FARE; (F_49:FARD); (F_21:FARC); (F_21:FARB); ; 49. Have you ever smoked?
 | Yes | 39719 |
 | No | 36470 |
 | More than 1 check box filled in | 5 |
+| Not NA | 76194 |
 | NA | 679 |
 
 
@@ -4607,6 +4911,7 @@ F_50_1:FARE; (F_50_1:FARD); (F_22_1:FARC); (F_22_1:FARB); ; 50. Did you smoke in
 | (1+3) No + Yes, daily | 3 |
 | (1+2+3) No + Yes, sometimes + Yes, daily | 1 |
 | More than 1 check box filled in | 1 |
+| Not NA | 45194 |
 | NA | 31679 |
 
 
@@ -4623,6 +4928,7 @@ F_50_2:FARE; (F_50_2:FARD); (F_22_2:FARC); (F_22_2:FARB); Number of cigarettes /
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 68407 |
+| Not NA | 8466 |
 
 
 ### FF217
@@ -4638,6 +4944,7 @@ F_50_3:FARE; (F_50_3:FARD); (F_22_3:FARC); (F_22_3:FARB); Number of cigarettes /
 | 3rd Qu. | 20 |
 | Max. | 95 |
 | NA's | 62784 |
+| Not NA | 14089 |
 
 
 ### FF218
@@ -4653,6 +4960,7 @@ F_51_1:FARE; (F_51_1:FARD); (F_23_1:FARC); (F_23_1:FARB); ; 51. Do you smoke now
 | (1+2) No + Yes, sometimes | 14 |
 | (1+3) No + Yes, daily | 2 |
 | More than 1 check box filled in | 1 |
+| Not NA | 44728 |
 | NA | 32145 |
 
 
@@ -4669,6 +4977,7 @@ F_51_2:FARE; (F_51_2:FARD); (F_23_2:FARC); (F_23_2:FARB); Number of cigarettes /
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 69826 |
+| Not NA | 7047 |
 
 
 ### FF220
@@ -4684,6 +4993,7 @@ F_51_3:FARE; (F_51_3:FARD); (F_23_3:FARC); (F_23_3:FARB); Number of cigarettes /
 | 3rd Qu. | 15 |
 | Max. | 70 |
 | NA's | 66300 |
+| Not NA | 10573 |
 
 
 ### FF221
@@ -4698,6 +5008,7 @@ F_52:FARE; (F_52:FARD); (F_24:FARC); (F_24:FARB); ; 52. If yes, where do you smo
 | (1+3) Only outside + Only inside | 1 |
 | (1+2) Only outside + Both inside and outside | 11 |
 | (1+2+3) Only outside + Both inside and outside + Only inside | 2 |
+| Not NA | 18389 |
 | NA | 58484 |
 
 
@@ -4709,6 +5020,7 @@ F_53:FARE; (F_53:FARD); ; 53. Have you ever used smokeless/chewing tobacco («sn
 | -------- | - |
 | No | 20009 |
 | Yes | 14078 |
+| Not NA | 34087 |
 | NA | 42786 |
 
 
@@ -4723,6 +5035,7 @@ F_54:FARE; (F_54:FARD); ; 54. If yes, did you use smokeless /chewing tobacco in 
 | Less often than weekly | 2038 |
 | Yes, many times per week, but not daily | 1509 |
 | More than 1 check box filled in | 4 |
+| Not NA | 15082 |
 | NA | 61791 |
 
 
@@ -4737,6 +5050,7 @@ F_55:FARE; (F_55:FARD); ; 55. What type of smokeless/chewing tobacco do you usua
 | About the same of each type | 591 |
 | Mini-pouches | 438 |
 | More than 1 check box filled in | 321 |
+| Not NA | 13787 |
 | NA | 63086 |
 
 
@@ -4751,6 +5065,7 @@ F_56_1:FARE; (F_56_1:FARD); ; 56. How much smokeless /chewing tobacco do you use
 | Half box | 1326 |
 | Quarter box | 748 |
 | More than 1 check box filled in | 8 |
+| Not NA | 10591 |
 | NA | 66282 |
 
 
@@ -4770,6 +5085,7 @@ F_56_2:FARE; (F_56_2:FARD); Number of boxes; 56. How much smokeless /chewing tob
 | 0 | 163 |
 | 9 | 17 |
 | 8 | 12 |
+| Not NA | 7586 |
 | NA | 69287 |
 
 
@@ -4782,6 +5098,7 @@ F_58:FARE; (F_58:FARD); (F_26:FARC); (F_26:FARB); ; 58. Have you ever drunk alco
 | Yes | 74363 |
 | No | 1932 |
 | More than 1 check box filled in | 1 |
+| Not NA | 76296 |
 | NA | 577 |
 
 
@@ -4799,6 +5116,7 @@ F_59_1:FARE; (F_59_1:FARD); (F_27:FARC); (F_27:FARB); ; 59. How often did you dr
 | (7) Never | 1681 |
 | Approximately 6-7 times a week | 392 |
 | More than 1 check box filled in | 8 |
+| Not NA | 74249 |
 | NA | 2624 |
 
 
@@ -4816,6 +5134,7 @@ F_59_2:FARE; (F_59_2:FARD); (F_28:FARC); (F_28:FARB); ; 59. How often do you dri
 | (7) Never | 3000 |
 | Approximately 6-7 times a week | 247 |
 | More than 1 check box filled in | 1 |
+| Not NA | 73528 |
 | NA | 3345 |
 
 
@@ -4832,6 +5151,7 @@ F_29:FARC; (F_29:FARB); ; 29. How many alcohol units do you normally drink when 
 | More than 1 check box filled in | 54 |
 | 7-9 | 4808 |
 | Fewer than 1 | 1123 |
+| Not NA | 40787 |
 | NA | 36086 |
 
 
@@ -4848,6 +5168,7 @@ F_60_1:FARE; (F_60_1:FARD); Before; Weekend; 60. How many alcohol units did you 
 | 7-9 | 3984 |
 | 10 or more | 3205 |
 | More than 1 check box filled in | 9 |
+| Not NA | 32825 |
 | NA | 44048 |
 
 
@@ -4864,6 +5185,7 @@ F_60_2:FARE; (F_60_2:FARD); Before; Weekdays; 60. How many alcohol units did you
 | 5-6 | 381 |
 | 10 or more | 90 |
 | More than 1 check box filled in | 7 |
+| Not NA | 25009 |
 | NA | 51864 |
 
 
@@ -4880,6 +5202,7 @@ F_60_3:FARE; (F_60_3:FARD); Now; Weekend; 60. How many alcohol units did you nor
 | 7-9 | 2683 |
 | 10 or more | 1646 |
 | More than 1 check box filled in | 21 |
+| Not NA | 32580 |
 | NA | 44293 |
 
 
@@ -4896,6 +5219,7 @@ F_60_4:FARE; (F_60_4:FARD); Now; Weekdays; 60. How many alcohol units did you no
 | 5-6 | 232 |
 | 10 or more | 41 |
 | More than 1 check box filled in | 10 |
+| Not NA | 24838 |
 | NA | 52035 |
 
 
@@ -4911,6 +5235,7 @@ F_61_1:FARE; (F_61_1:FARD); Before; 61. Have you drunk 5 alcohol units or more o
 | Once per week | 4051 |
 | Several times per week | 753 |
 | More than 1 check box filled in | 18 |
+| Not NA | 33103 |
 | NA | 43770 |
 
 
@@ -4926,6 +5251,7 @@ F_61_2:FARE; (F_61_2:FARD); Now; 61. Have you drunk 5 alcohol units or more on a
 | Once per week | 2398 |
 | Several times per week | 334 |
 | More than 1 check box filled in | 13 |
+| Not NA | 32399 |
 | NA | 44474 |
 
 
@@ -4942,6 +5268,7 @@ F_62_1:FARE; (F_62_1:FARD); (F_30_1:FARC); (F_30_1:FARB); In leisure time; 62. H
 | Never | 3064 |
 | Approximately every day | 4577 |
 | More than 1 check box filled in | 61 |
+| Not NA | 74824 |
 | NA | 2049 |
 
 
@@ -4958,6 +5285,7 @@ F_62_2:FARE; (F_62_2:FARD); (F_30_2:FARC); (F_30_2:FARB); At work; 62. How often
 | Less than once per week | 10541 |
 | 4-6 times per week | 4954 |
 | More than 1 check box filled in | 83 |
+| Not NA | 63635 |
 | NA | 13238 |
 
 
@@ -4972,6 +5300,7 @@ F_63_1:FARE; (F_63_1:FARD); Hours per week: Light physical activity (not sweatin
 | Less than 1 | 5046 |
 | None | 951 |
 | More than 1 check box filled in | 18 |
+| Not NA | 30361 |
 | NA | 46512 |
 
 
@@ -4986,6 +5315,7 @@ F_63_2:FARE; (F_63_2:FARD); Hours per week: Heavy physical activity (sweating/ou
 | Less than 1 | 8649 |
 | None | 3479 |
 | More than 1 check box filled in | 19 |
+| Not NA | 32907 |
 | NA | 43966 |
 
 
@@ -5000,6 +5330,7 @@ F_64:FARE; (F_64:FARD); ; 64. Describe your exercise and physical exertion in yo
 | Walking, cycling or other motion, at least 4 hours per week? (here you...) | 12073 |
 | Take part in sports/athletics, heavy garden work etc at least 4 hours per week? (Note that ...) | 6929 |
 | Hard training or take part in competetive sport regulary and several times a week | 2566 |
+| Not NA | 31937 |
 | NA | 44936 |
 
 
@@ -5010,6 +5341,7 @@ F_65_1_1:FARE; (F_65_1_1:FARD); (F_31_1_1:FARC); (F_31_1_1:FARB); Never; Anaboli
 | Category | n |
 | -------- | - |
 | 1 | 74835 |
+| Not NA | 74835 |
 | NA | 2038 |
 
 
@@ -5020,6 +5352,7 @@ F_65_1_2:FARE; (F_65_1_2:FARD); (F_31_1_2:FARC); (F_31_1_2:FARB); Previously; An
 | Category | n |
 | -------- | - |
 | 1 | 890 |
+| Not NA | 890 |
 | NA | 75983 |
 
 
@@ -5030,6 +5363,7 @@ F_65_1_3:FARE; (F_65_1_3:FARD); (F_31_1_3:FARC); (F_31_1_3:FARB); Six months bef
 | Category | n |
 | -------- | - |
 | 1 | 67 |
+| Not NA | 67 |
 | NA | 76806 |
 
 
@@ -5040,6 +5374,7 @@ F_65_1_4:FARE; (F_65_1_4:FARD); (F_31_1_4:FARC); (F_31_1_4:FARB); Now; Anabolic 
 | Category | n |
 | -------- | - |
 | 1 | 32 |
+| Not NA | 32 |
 | NA | 76841 |
 
 
@@ -5050,6 +5385,7 @@ F_65_2_1:FARE; (F_65_2_1:FARD); (F_31_2_1:FARC); (F_31_2_1:FARB); Never; Testost
 | Category | n |
 | -------- | - |
 | 1 | 74879 |
+| Not NA | 74879 |
 | NA | 1994 |
 
 
@@ -5060,6 +5396,7 @@ F_65_2_2:FARE; (F_65_2_2:FARD); (F_31_2_2:FARC); (F_31_2_2:FARB); Previously; Te
 | Category | n |
 | -------- | - |
 | 1 | 676 |
+| Not NA | 676 |
 | NA | 76197 |
 
 
@@ -5070,6 +5407,7 @@ F_65_2_3:FARE; (F_65_2_3:FARD); (F_31_2_3:FARC); (F_31_2_3:FARB); Six months bef
 | Category | n |
 | -------- | - |
 | 1 | 62 |
+| Not NA | 62 |
 | NA | 76811 |
 
 
@@ -5080,6 +5418,7 @@ F_65_2_4:FARE; (F_65_2_4:FARD); (F_31_2_4:FARC); (F_31_2_4:FARB); Now; Testoster
 | Category | n |
 | -------- | - |
 | 1 | 54 |
+| Not NA | 54 |
 | NA | 76819 |
 
 
@@ -5090,6 +5429,7 @@ F_65_3_1:FARE; (F_65_3_1:FARD); (F_31_3_1:FARC); (F_31_3_1:FARB); Never; Growth 
 | Category | n |
 | -------- | - |
 | 1 | 75217 |
+| Not NA | 75217 |
 | NA | 1656 |
 
 
@@ -5100,6 +5440,7 @@ F_65_3_2:FARE; (F_65_3_2:FARD); (F_31_3_2:FARC); (F_31_3_2:FARB); Previously; Gr
 | Category | n |
 | -------- | - |
 | 1 | 196 |
+| Not NA | 196 |
 | NA | 76677 |
 
 
@@ -5110,6 +5451,7 @@ F_65_3_3:FARE; (F_65_3_3:FARD); (F_31_3_3:FARC); (F_31_3_3:FARB); Six months bef
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 76860 |
 
 
@@ -5120,6 +5462,7 @@ F_65_3_4:FARE; (F_65_3_4:FARD); (F_31_3_4:FARC); (F_31_3_4:FARB); Now; Growth ho
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 76864 |
 
 
@@ -5134,6 +5477,7 @@ F_66_1:FARE; (F_66_1:FARD); (F_32_1:FARC); (F_32_1:FARB); Feeling fearful; 66.  
 | Quite bothered | 361 |
 | Very bothered | 99 |
 | More than 1 check box filled in | 3 |
+| Not NA | 75979 |
 | NA | 894 |
 
 
@@ -5148,6 +5492,7 @@ F_66_2:FARE; (F_66_2:FARD); (F_32_2:FARC); (F_32_2:FARB); Nervousness or shakine
 | Quite bothered | 1145 |
 | Very bothered | 180 |
 | More than 1 check box filled in | 11 |
+| Not NA | 76050 |
 | NA | 823 |
 
 
@@ -5162,6 +5507,7 @@ F_66_3:FARE; (F_66_3:FARD); (F_32_3:FARC); (F_32_3:FARB); Feeling hopeless about
 | Quite bothered | 777 |
 | Very bothered | 179 |
 | More than 1 check box filled in | 14 |
+| Not NA | 76028 |
 | NA | 845 |
 
 
@@ -5176,6 +5522,7 @@ F_66_4:FARE; (F_66_4:FARD); (F_32_4:FARC); (F_32_4:FARB); Feeling blue; 66.  Hav
 | Quite bothered | 808 |
 | Very bothered | 134 |
 | More than 1 check box filled in | 10 |
+| Not NA | 75964 |
 | NA | 909 |
 
 
@@ -5190,6 +5537,7 @@ F_66_5:FARE; (F_66_5:FARD); (F_32_5:FARC); (F_32_5:FARB); Worrying too much abou
 | Quite bothered | 1433 |
 | Very bothered | 193 |
 | More than 1 check box filled in | 23 |
+| Not NA | 76010 |
 | NA | 863 |
 
 
@@ -5204,6 +5552,7 @@ F_66_6:FARE; (F_66_6:FARD); (F_32_6:FARC); (F_32_6:FARB); Feeling everything is 
 | Quite bothered | 1459 |
 | Very bothered | 268 |
 | More than 1 check box filled in | 27 |
+| Not NA | 75988 |
 | NA | 885 |
 
 
@@ -5218,6 +5567,7 @@ F_66_7:FARE; (F_66_7:FARD); (F_32_7:FARC); (F_32_7:FARB); Feeling tense or keyed
 | Quite bothered | 1524 |
 | Very bothered | 186 |
 | More than 1 check box filled in | 13 |
+| Not NA | 75993 |
 | NA | 880 |
 
 
@@ -5232,6 +5582,7 @@ F_66_8:FARE; (F_66_8:FARD); (F_32_8:FARC); (F_32_8:FARB); Suddenly scared for no
 | Quite bothered | 277 |
 | Very bothered | 83 |
 | More than 1 check box filled in | 3 |
+| Not NA | 75890 |
 | NA | 983 |
 
 
@@ -5244,6 +5595,7 @@ F_67_1:FARE; (F_67_1:FARD); (F_33_1:FARC); (F_33_1:FARB); Felt depressed, sad; 6
 | No | 53653 |
 | Yes | 22460 |
 | More than 1 check box filled in | 7 |
+| Not NA | 76120 |
 | NA | 753 |
 
 
@@ -5256,6 +5608,7 @@ F_67_2:FARE; (F_67_2:FARD); (F_33_2:FARC); (F_33_2:FARB); Had problems with appe
 | Yes | 9732 |
 | No | 66214 |
 | More than 1 check box filled in | 7 |
+| Not NA | 75953 |
 | NA | 920 |
 
 
@@ -5268,6 +5621,7 @@ F_67_3:FARE; (F_67_3:FARD); (F_33_3:FARC); (F_33_3:FARB); Been bothered by feeli
 | Yes | 23519 |
 | No | 52530 |
 | More than 1 check box filled in | 13 |
+| Not NA | 76062 |
 | NA | 811 |
 
 
@@ -5280,6 +5634,7 @@ F_67_4:FARE; (F_67_4:FARD); (F_33_4:FARC); (F_33_4:FARB); Really blamed yourself
 | No | 66904 |
 | Yes | 8950 |
 | More than 1 check box filled in | 7 |
+| Not NA | 75861 |
 | NA | 1012 |
 
 
@@ -5292,6 +5647,7 @@ F_67_5:FARE; (F_67_5:FARD); (F_33_5:FARC); (F_33_5:FARB); Had problems with conc
 | No | 62423 |
 | Yes | 13514 |
 | More than 1 check box filled in | 10 |
+| Not NA | 75947 |
 | NA | 926 |
 
 
@@ -5304,6 +5660,7 @@ F_67_6:FARE; (F_67_6:FARD); (F_33_6:FARC); (F_33_6:FARB); Had at least 3 of the 
 | No | 67291 |
 | Yes | 8245 |
 | More than 1 check box filled in | 5 |
+| Not NA | 75541 |
 | NA | 1332 |
 
 
@@ -5320,6 +5677,7 @@ F_68_1:FARE; (F_68_1:FARD); How many times has it occurred?; 68. If you have had
 | 3rd Qu. | 3 |
 | Max. | 99 |
 | NA's | 71111 |
+| Not NA | 5762 |
 
 
 ### FF479
@@ -5335,6 +5693,7 @@ F_68_2:FARE; (F_68_2:FARD); How many weeks did the longest period last? (weeks);
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 71156 |
+| Not NA | 5717 |
 
 
 ### FF265
@@ -5348,6 +5707,7 @@ F_69_1:FARE; (F_69_1:FARD); (F_34_1:FARC); (F_34_1:FARB); I have a positive atti
 | Disagree | 1438 |
 | More than 1 check box filled in | 23 |
 | Strongly disagree | 129 |
+| Not NA | 76250 |
 | NA | 623 |
 
 
@@ -5362,6 +5722,7 @@ F_69_2:FARE; (F_69_2:FARD); (F_34_2:FARC); (F_34_2:FARB); I feel completely usel
 | Disagree | 30932 |
 | Strongly agree | 852 |
 | More than 1 check box filled in | 33 |
+| Not NA | 75725 |
 | NA | 1148 |
 
 
@@ -5376,6 +5737,7 @@ F_69_3:FARE; (F_69_3:FARD); (F_34_3:FARC); (F_34_3:FARB); I feel that I don‘t 
 | Agree | 3000 |
 | Strongly agree | 1614 |
 | More than 1 check box filled in | 42 |
+| Not NA | 75715 |
 | NA | 1158 |
 
 
@@ -5390,6 +5752,7 @@ F_69_4:FARE; (F_69_4:FARD); (F_34_4:FARC); (F_34_4:FARB); I feel that I am a val
 | Strongly disagree | 722 |
 | Disagree | 992 |
 | More than 1 check box filled in | 31 |
+| Not NA | 76027 |
 | NA | 846 |
 
 
@@ -5405,6 +5768,7 @@ F_70_1:FARE; (F_70_1:FARD); Liven up in a party ; 70. Describe yourself as you u
 | Disagree somewhat | 2170 |
 | Strongly agree | 5618 |
 | More than 1 check box filled in | 22 |
+| Not NA | 34156 |
 | NA | 42717 |
 
 
@@ -5420,6 +5784,7 @@ F_70_2:FARE; (F_70_2:FARD); Care little about others ; 70. Describe yourself as 
 | Neither nor | 2097 |
 | Strongly agree | 587 |
 | More than 1 check box filled in | 41 |
+| Not NA | 34175 |
 | NA | 42698 |
 
 
@@ -5435,6 +5800,7 @@ F_70_3:FARE; (F_70_3:FARD); Am always well prepared ; 70. Describe yourself as y
 | Disagree somewhat | 3933 |
 | Strongly disagree | 519 |
 | More than 1 check box filled in | 30 |
+| Not NA | 34190 |
 | NA | 42683 |
 
 
@@ -5450,6 +5816,7 @@ F_70_4:FARE; (F_70_4:FARD); Become easily stressed ; 70. Describe yourself as yo
 | Disagree somewhat | 12280 |
 | Neither nor | 8335 |
 | More than 1 check box filled in | 44 |
+| Not NA | 34192 |
 | NA | 42681 |
 
 
@@ -5465,6 +5832,7 @@ F_70_5:FARE; (F_70_5:FARD); Have a rich vocabulary ; 70. Describe yourself as yo
 | Strongly disagree | 473 |
 | Disagree somewhat | 2424 |
 | More than 1 check box filled in | 34 |
+| Not NA | 34145 |
 | NA | 42728 |
 
 
@@ -5480,6 +5848,7 @@ F_70_6:FARE; (F_70_6:FARD); Do not say much ; 70. Describe yourself as you usual
 | Agree somewhat | 5614 |
 | Strongly agree | 867 |
 | More than 1 check box filled in | 47 |
+| Not NA | 34158 |
 | NA | 42715 |
 
 
@@ -5495,6 +5864,7 @@ F_70_7:FARE; (F_70_7:FARD); Am interested in other people ; 70. Describe yoursel
 | Strongly disagree | 272 |
 | Disagree somewhat | 1180 |
 | More than 1 check box filled in | 30 |
+| Not NA | 34171 |
 | NA | 42702 |
 
 
@@ -5510,6 +5880,7 @@ F_70_8:FARE; (F_70_8:FARD); Leave things lying around ; 70. Describe yourself as
 | Strongly agree | 3032 |
 | Neither nor | 6909 |
 | More than 1 check box filled in | 34 |
+| Not NA | 34152 |
 | NA | 42721 |
 
 
@@ -5525,6 +5896,7 @@ F_70_9:FARE; (F_70_9:FARD); Am usually relaxed ; 70. Describe yourself as you us
 | Strongly agree | 5637 |
 | Strongly disagree | 430 |
 | More than 1 check box filled in | 28 |
+| Not NA | 34145 |
 | NA | 42728 |
 
 
@@ -5540,6 +5912,7 @@ F_7010:FARE; (F_7010:FARD); Have problems understanding abstract ideas ; 70. Des
 | Agree somewhat | 2715 |
 | Strongly agree | 816 |
 | More than 1 check box filled in | 33 |
+| Not NA | 34102 |
 | NA | 42771 |
 
 
@@ -5555,6 +5928,7 @@ F_7011:FARE; (F_7011:FARD); Feel at ease with other people ; 70. Describe yourse
 | Disagree somewhat | 734 |
 | Strongly disagree | 183 |
 | More than 1 check box filled in | 30 |
+| Not NA | 34153 |
 | NA | 42720 |
 
 
@@ -5570,6 +5944,7 @@ F_7012:FARE; (F_7012:FARD); Offend people ; 70. Describe yourself as you usually
 | Disagree somewhat | 12383 |
 | Strongly agree | 314 |
 | More than 1 check box filled in | 36 |
+| Not NA | 34017 |
 | NA | 42856 |
 
 
@@ -5585,6 +5960,7 @@ F_7013:FARE; (F_7013:FARD); Am attentive to detail ; 70. Describe yourself as yo
 | Disagree somewhat | 2341 |
 | Strongly disagree | 398 |
 | More than 1 check box filled in | 42 |
+| Not NA | 34161 |
 | NA | 42712 |
 
 
@@ -5600,6 +5976,7 @@ F_7014:FARE; (F_7014:FARD); Worry about many things ; 70. Describe yourself as y
 | Neither nor | 8306 |
 | Disagree somewhat | 11392 |
 | More than 1 check box filled in | 24 |
+| Not NA | 34178 |
 | NA | 42695 |
 
 
@@ -5615,6 +5992,7 @@ F_7015:FARE; (F_7015:FARD); Have a lively imagination ; 70. Describe yourself as
 | Disagree somewhat | 3170 |
 | Strongly agree | 7556 |
 | More than 1 check box filled in | 36 |
+| Not NA | 34184 |
 | NA | 42689 |
 
 
@@ -5630,6 +6008,7 @@ F_7016:FARE; (F_7016:FARD); Stay in the background ; 70. Describe yourself as yo
 | Agree somewhat | 6001 |
 | Strongly agree | 708 |
 | More than 1 check box filled in | 23 |
+| Not NA | 34172 |
 | NA | 42701 |
 
 
@@ -5645,6 +6024,7 @@ F_7017:FARE; (F_7017:FARD); Have empathy with other people ; 70. Describe yourse
 | Disagree somewhat | 747 |
 | Strongly disagree | 215 |
 | More than 1 check box filled in | 34 |
+| Not NA | 34146 |
 | NA | 42727 |
 
 
@@ -5660,6 +6040,7 @@ F_7018:FARE; (F_7018:FARD); Mess things up ; 70. Describe yourself as you usuall
 | Neither nor | 6650 |
 | Strongly agree | 448 |
 | More than 1 check box filled in | 24 |
+| Not NA | 34100 |
 | NA | 42773 |
 
 
@@ -5675,6 +6056,7 @@ F_7019:FARE; (F_7019:FARD); Rarely feel in low spirits ; 70. Describe yourself a
 | Neither nor | 5809 |
 | Strongly disagree | 835 |
 | More than 1 check box filled in | 33 |
+| Not NA | 34079 |
 | NA | 42794 |
 
 
@@ -5690,6 +6072,7 @@ F_7020:FARE; (F_7020:FARD); Am not interested in abstract ideas ; 70. Describe y
 | Agree somewhat | 3761 |
 | Strongly agree | 1294 |
 | More than 1 check box filled in | 15 |
+| Not NA | 33979 |
 | NA | 42894 |
 
 
@@ -5705,6 +6088,7 @@ F_7021:FARE; (F_7021:FARD); Initiate conversations ; 70. Describe yourself as yo
 | Strongly disagree | 372 |
 | Disagree somewhat | 2767 |
 | More than 1 check box filled in | 19 |
+| Not NA | 34101 |
 | NA | 42772 |
 
 
@@ -5720,6 +6104,7 @@ F_7022:FARE; (F_7022:FARD); Am not interested in other peoples, problems ; 70. D
 | Agree somewhat | 2265 |
 | Strongly agree | 393 |
 | More than 1 check box filled in | 27 |
+| Not NA | 34078 |
 | NA | 42795 |
 
 
@@ -5735,6 +6120,7 @@ F_7023:FARE; (F_7023:FARD); Complete tasks at once ; 70. Describe yourself as yo
 | Strongly disagree | 943 |
 | Strongly agree | 3431 |
 | More than 1 check box filled in | 34 |
+| Not NA | 34133 |
 | NA | 42740 |
 
 
@@ -5750,6 +6136,7 @@ F_7024:FARE; (F_7024:FARD); Am easily interrupted ; 70. Describe yourself as you
 | Strongly disagree | 2299 |
 | Strongly agree | 1310 |
 | More than 1 check box filled in | 27 |
+| Not NA | 34133 |
 | NA | 42740 |
 
 
@@ -5765,6 +6152,7 @@ F_7025:FARE; (F_7025:FARD); Have excellent ideas ; 70. Describe yourself as you 
 | Disagree somewhat | 1219 |
 | Strongly disagree | 206 |
 | More than 1 check box filled in | 29 |
+| Not NA | 34126 |
 | NA | 42747 |
 
 
@@ -5780,6 +6168,7 @@ F_7026:FARE; (F_7026:FARD); Have little to say ; 70. Describe yourself as you us
 | Strongly agree | 381 |
 | Neither nor | 7137 |
 | More than 1 check box filled in | 26 |
+| Not NA | 34118 |
 | NA | 42755 |
 
 
@@ -5795,6 +6184,7 @@ F_7027:FARE; (F_7027:FARD); Am good-natured ; 70. Describe yourself as you usual
 | Strongly agree | 12337 |
 | Strongly disagree | 172 |
 | More than 1 check box filled in | 24 |
+| Not NA | 34134 |
 | NA | 42739 |
 
 
@@ -5810,6 +6200,7 @@ F_7028:FARE; (F_7028:FARD); Often forget to put things back ; 70. Describe yours
 | Neither nor | 7655 |
 | Strongly agree | 2408 |
 | More than 1 check box filled in | 28 |
+| Not NA | 34140 |
 | NA | 42733 |
 
 
@@ -5825,6 +6216,7 @@ F_7029:FARE; (F_7029:FARD); Become easily upset ; 70. Describe yourself as you u
 | Disagree somewhat | 13623 |
 | Strongly agree | 536 |
 | More than 1 check box filled in | 12 |
+| Not NA | 34158 |
 | NA | 42715 |
 
 
@@ -5840,6 +6232,7 @@ F_7030:FARE; (F_7030:FARD); Do not have a good imagination ; 70. Describe yourse
 | Strongly agree | 503 |
 | Neither nor | 5621 |
 | More than 1 check box filled in | 4 |
+| Not NA | 34153 |
 | NA | 42720 |
 
 
@@ -5855,6 +6248,7 @@ F_7031:FARE; (F_7031:FARD); Talk to many people at a party ; 70. Describe yourse
 | Strongly disagree | 807 |
 | Strongly agree | 6139 |
 | More than 1 check box filled in | 13 |
+| Not NA | 34013 |
 | NA | 42860 |
 
 
@@ -5870,6 +6264,7 @@ F_7032:FARE; (F_7032:FARD); Am not interested in other people ; 70. Describe you
 | Agree somewhat | 890 |
 | Strongly agree | 139 |
 | More than 1 check box filled in | 15 |
+| Not NA | 33979 |
 | NA | 42894 |
 
 
@@ -5885,6 +6280,7 @@ F_7033:FARE; (F_7033:FARD); Like order and tidiness ; 70. Describe yourself as y
 | Disagree somewhat | 1395 |
 | Strongly disagree | 212 |
 | More than 1 check box filled in | 26 |
+| Not NA | 33953 |
 | NA | 42920 |
 
 
@@ -5900,6 +6296,7 @@ F_7034:FARE; (F_7034:FARD); Lot of mood changes ; 70. Describe yourself as you u
 | Strongly disagree | 7082 |
 | Strongly agree | 577 |
 | More than 1 check box filled in | 26 |
+| Not NA | 33960 |
 | NA | 42913 |
 
 
@@ -5915,6 +6312,7 @@ F_7035:FARE; (F_7035:FARD); Am quick to understand things ; 70. Describe yoursel
 | Neither nor | 4924 |
 | Strongly disagree | 126 |
 | More than 1 check box filled in | 26 |
+| Not NA | 33927 |
 | NA | 42946 |
 
 
@@ -5930,6 +6328,7 @@ F_7036:FARE; (F_7036:FARD); Do not like to attract attention ; 70. Describe your
 | Strongly agree | 2033 |
 | Strongly disagree | 2324 |
 | More than 1 check box filled in | 20 |
+| Not NA | 33955 |
 | NA | 42918 |
 
 
@@ -5945,6 +6344,7 @@ F_7037:FARE; (F_7037:FARD); Take time to help others ; 70. Describe yourself as 
 | Disagree somewhat | 1101 |
 | Strongly disagree | 210 |
 | More than 1 check box filled in | 16 |
+| Not NA | 33932 |
 | NA | 42941 |
 
 
@@ -5960,6 +6360,7 @@ F_7038:FARE; (F_7038:FARD); Shirk from responsibilities ; 70. Describe yourself 
 | Neither nor | 3705 |
 | Strongly agree | 228 |
 | More than 1 check box filled in | 12 |
+| Not NA | 33935 |
 | NA | 42938 |
 
 
@@ -5975,6 +6376,7 @@ F_7039:FARE; (F_7039:FARD); Often have mood swings ; 70. Describe yourself as yo
 | Strongly disagree | 11551 |
 | Strongly agree | 493 |
 | More than 1 check box filled in | 20 |
+| Not NA | 33948 |
 | NA | 42925 |
 
 
@@ -5990,6 +6392,7 @@ F_7040:FARE; (F_7040:FARD); Often use difficult words ; 70. Describe yourself as
 | Strongly disagree | 4707 |
 | Disagree somewhat | 10722 |
 | More than 1 check box filled in | 11 |
+| Not NA | 33963 |
 | NA | 42910 |
 
 
@@ -6005,6 +6408,7 @@ F_7041:FARE; (F_7041:FARD); Have nothing against being the centre of attention ;
 | Neither nor | 10556 |
 | Strongly disagree | 1996 |
 | More than 1 check box filled in | 22 |
+| Not NA | 33972 |
 | NA | 42901 |
 
 
@@ -6020,6 +6424,7 @@ F_7042:FARE; (F_7042:FARD); Am sensitive to other peoples, feelings ; 70. Descri
 | Strongly agree | 4680 |
 | Strongly disagree | 163 |
 | More than 1 check box filled in | 20 |
+| Not NA | 33975 |
 | NA | 42898 |
 
 
@@ -6035,6 +6440,7 @@ F_7043:FARE; (F_7043:FARD); Perform according to plan ; 70. Describe yourself as
 | Disagree somewhat | 1942 |
 | Strongly disagree | 195 |
 | More than 1 check box filled in | 16 |
+| Not NA | 33967 |
 | NA | 42906 |
 
 
@@ -6050,6 +6456,7 @@ F_7044:FARE; (F_7044:FARD); Become easily irritated ; 70. Describe yourself as y
 | Neither nor | 10211 |
 | Strongly disagree | 3637 |
 | More than 1 check box filled in | 25 |
+| Not NA | 33959 |
 | NA | 42914 |
 
 
@@ -6065,6 +6472,7 @@ F_7045:FARE; (F_7045:FARD); Use time to think things over ; 70. Describe yoursel
 | Disagree somewhat | 2070 |
 | Strongly disagree | 232 |
 | More than 1 check box filled in | 18 |
+| Not NA | 33941 |
 | NA | 42932 |
 
 
@@ -6080,6 +6488,7 @@ F_7046:FARE; (F_7046:FARD); Am quiet in company with strangers ; 70. Describe yo
 | Strongly disagree | 3299 |
 | Strongly agree | 1629 |
 | More than 1 check box filled in | 15 |
+| Not NA | 33949 |
 | NA | 42924 |
 
 
@@ -6095,6 +6504,7 @@ F_7047:FARE; (F_7047:FARD); Put others at their ease ; 70. Describe yourself as 
 | Disagree somewhat | 534 |
 | Strongly disagree | 75 |
 | More than 1 check box filled in | 15 |
+| Not NA | 33953 |
 | NA | 42920 |
 
 
@@ -6110,6 +6520,7 @@ F_7048:FARE; (F_7048:FARD); Am thorough in my work ; 70. Describe yourself as yo
 | Strongly disagree | 63 |
 | Disagree somewhat | 383 |
 | More than 1 check box filled in | 24 |
+| Not NA | 33965 |
 | NA | 42908 |
 
 
@@ -6125,6 +6536,7 @@ F_7049:FARE; (F_7049:FARD); Often feel down ; 70. Describe yourself as you usual
 | Neither nor | 6018 |
 | Strongly agree | 273 |
 | More than 1 check box filled in | 16 |
+| Not NA | 33960 |
 | NA | 42913 |
 
 
@@ -6140,6 +6552,7 @@ F_7050:FARE; (F_7050:FARD); Am full of ideas ; 70. Describe yourself as you usua
 | Strongly agree | 6301 |
 | Strongly disagree | 193 |
 | More than 1 check box filled in | 18 |
+| Not NA | 33991 |
 | NA | 42882 |
 
 
@@ -6157,6 +6570,7 @@ F_71_1:FARE; (F_71_1:FARD); (F_35_1:FARC); (F_35_1:FARB); My life is largely wha
 | Disagree somewhat | 4475 |
 | Disagree completely | 879 |
 | More than 1 check box filled in | 53 |
+| Not NA | 75941 |
 | NA | 932 |
 
 
@@ -6174,6 +6588,7 @@ F_71_2:FARE; (F_71_2:FARD); (F_35_2:FARC); (F_35_2:FARB); My life is very good; 
 | Disagree somewhat | 1585 |
 | Disagree completely | 562 |
 | More than 1 check box filled in | 25 |
+| Not NA | 75973 |
 | NA | 900 |
 
 
@@ -6191,6 +6606,7 @@ F_71_3:FARE; (F_71_3:FARD); (F_35_3:FARC); (F_35_3:FARB); I am satisfied with my
 | Disagree somewhat | 1183 |
 | Disagree completely | 553 |
 | More than 1 check box filled in | 43 |
+| Not NA | 76112 |
 | NA | 761 |
 
 
@@ -6208,6 +6624,7 @@ F_71_4:FARE; (F_71_4:FARD); (F_35_4:FARC); (F_35_4:FARB); To date, I  have achie
 | Disagree | 1243 |
 | Disagree somewhat | 2451 |
 | More than 1 check box filled in | 35 |
+| Not NA | 75993 |
 | NA | 880 |
 
 
@@ -6225,6 +6642,7 @@ F_71_5:FARE; (F_71_5:FARD); (F_35_5:FARC); (F_35_5:FARB); If I could start all o
 | Aagree somewhat | 16299 |
 | Disagree completely | 2273 |
 | More than 1 check box filled in | 34 |
+| Not NA | 76030 |
 | NA | 843 |
 
 
@@ -6240,6 +6658,7 @@ F_72_1:FARE; (F_72_1:FARD); How often do you have problems completing the final 
 | Never | 4888 |
 | Often | 3125 |
 | More than 1 check box filled in | 6 |
+| Not NA | 33975 |
 | NA | 42898 |
 
 
@@ -6255,6 +6674,7 @@ F_72_2:FARE; (F_72_2:FARD); How often do you have problems putting things in the
 | Often | 986 |
 | Very often | 105 |
 | More than 1 check box filled in | 10 |
+| Not NA | 33967 |
 | NA | 42906 |
 
 
@@ -6270,6 +6690,7 @@ F_72_3:FARE; (F_72_3:FARD); When you have a task which requires a great deal of 
 | Never | 3455 |
 | Very often | 271 |
 | More than 1 check box filled in | 12 |
+| Not NA | 33948 |
 | NA | 42925 |
 
 
@@ -6285,6 +6706,7 @@ F_72_4:FARE; (F_72_4:FARD); How often do you have problems remembering appointme
 | Never | 5444 |
 | Very often | 307 |
 | More than 1 check box filled in | 27 |
+| Not NA | 33934 |
 | NA | 42939 |
 
 
@@ -6300,6 +6722,7 @@ F_72_5:FARE; (F_72_5:FARD); When you have to sit still for a long time, how ofte
 | Very often | 2241 |
 | Never | 3485 |
 | More than 1 check box filled in | 19 |
+| Not NA | 33946 |
 | NA | 42927 |
 
 
@@ -6315,6 +6738,7 @@ F_72_6:FARE; (F_72_6:FARD); How often do you feel hyperactive and obliged to do 
 | Often | 2357 |
 | Very often | 540 |
 | More than 1 check box filled in | 13 |
+| Not NA | 33933 |
 | NA | 42940 |
 
 
@@ -6327,6 +6751,7 @@ F_73_1:FARE; (F_73_1:FARD); (F_37_1:FARC); (F_37_1:FARB); Problems at work/study
 | No | 52596 |
 | Yes | 23539 |
 | More than 1 check box filled in | 18 |
+| Not NA | 76153 |
 | NA | 720 |
 
 
@@ -6339,6 +6764,7 @@ F_73_2:FARE; (F_73_2:FARD); (F_37_2:FARC); (F_37_2:FARB); Financial problems ; 7
 | Yes | 12991 |
 | No | 63229 |
 | More than 1 check box filled in | 25 |
+| Not NA | 76245 |
 | NA | 628 |
 
 
@@ -6351,6 +6777,7 @@ F_73_3:FARE; (F_73_3:FARD); (F_37_3:FARC); (F_37_3:FARB); Got divorced, separate
 | No | 74504 |
 | Yes | 1714 |
 | More than 1 check box filled in | 5 |
+| Not NA | 76223 |
 | NA | 650 |
 
 
@@ -6363,6 +6790,7 @@ F_73_4:FARE; (F_73_4:FARD); (F_37_4:FARC); (F_37_4:FARB); Problems or conflicts 
 | Yes | 12297 |
 | No | 63865 |
 | More than 1 check box filled in | 17 |
+| Not NA | 76179 |
 | NA | 694 |
 
 
@@ -6375,6 +6803,7 @@ F_37_5:FARC; (F_37_5:FARB); Serious accident or illness among relatives, close f
 | No | 34710 |
 | Yes | 7410 |
 | More than 1 check box filled in | 4 |
+| Not NA | 42124 |
 | NA | 34749 |
 
 
@@ -6387,6 +6816,7 @@ F_73_9:FARE; (F_73_9:FARD); (F_37_6:FARC); (F_37_6:FARB); Have lost someone clos
 | No | 67006 |
 | Yes | 9137 |
 | More than 1 check box filled in | 8 |
+| Not NA | 76151 |
 | NA | 722 |
 
 
@@ -6399,6 +6829,7 @@ F_7312_1:FARE; (F_7312_1:FARD); (F_37_7_1:FARC); (F_37_7_1:FARB); Other; 73.  Ha
 | No | 37994 |
 | Yes | 956 |
 | More than 1 check box filled in | 3 |
+| Not NA | 38953 |
 | NA | 37920 |
 
 
@@ -6411,6 +6842,7 @@ F_73_5:FARE; (F_73_5:FARD); Serious concerns that something is wrong with the ba
 | No | 30508 |
 | Yes | 3498 |
 | More than 1 check box filled in | 13 |
+| Not NA | 34019 |
 | NA | 42854 |
 
 
@@ -6423,6 +6855,7 @@ F_73_6:FARE; (F_73_6:FARD); Serious personal illness or injury ; 73.  Have you e
 | No | 32544 |
 | Yes | 1481 |
 | More than 1 check box filled in | 7 |
+| Not NA | 34032 |
 | NA | 42841 |
 
 
@@ -6435,6 +6868,7 @@ F_73_7:FARE; (F_73_7:FARD); Close relative has been seriously ill or injured ; 7
 | Yes | 6062 |
 | No | 27952 |
 | More than 1 check box filled in | 6 |
+| Not NA | 34020 |
 | NA | 42853 |
 
 
@@ -6447,6 +6881,7 @@ F_73_8:FARE; (F_73_8:FARD); Involved in a serious traffic accident, fire or robb
 | No | 33421 |
 | Yes | 623 |
 | More than 1 check box filled in | 1 |
+| Not NA | 34045 |
 | NA | 42828 |
 
 
@@ -6459,6 +6894,7 @@ F_7310:FARE; (F_7310:FARD); Forced into sexual activity ; 73.  Have you experien
 | No | 33957 |
 | Yes | 80 |
 | More than 1 check box filled in | 1 |
+| Not NA | 34038 |
 | NA | 42835 |
 
 
@@ -6470,6 +6906,7 @@ F_7311:FARE; (F_7311:FARD); Exposed to physical violence ; 73.  Have you experie
 | -------- | - |
 | No | 33530 |
 | Yes | 502 |
+| Not NA | 34032 |
 | NA | 42841 |
 
 
@@ -6486,6 +6923,7 @@ F_74_1:FARE; (F_74_1:FARD); (F_38_2:FARC); (F_38_2:FARB); My partner and I have 
 | Disagree somewhat | 4314 |
 | Strongly agree | 563 |
 | More than 1 check box filled in | 66 |
+| Not NA | 75919 |
 | NA | 954 |
 
 
@@ -6502,6 +6940,7 @@ F_74_2:FARE; (F_74_2:FARD); (F_38_3:FARC); (F_38_3:FARB); I am very happy in my 
 | More than 1 check box filled in | 38 |
 | Strongly disagree | 325 |
 | Disagree | 395 |
+| Not NA | 75941 |
 | NA | 932 |
 
 
@@ -6518,6 +6957,7 @@ F_74_3:FARE; (F_74_3:FARD); (F_38_4:FARC); (F_38_4:FARB); My partner is usually 
 | Disagree somewhat | 2002 |
 | Strongly disagree | 347 |
 | More than 1 check box filled in | 102 |
+| Not NA | 75957 |
 | NA | 916 |
 
 
@@ -6534,6 +6974,7 @@ F_74_4:FARE; (F_74_4:FARD); (F_38_6:FARC); (F_38_6:FARB); I am satisfied with my
 | More than 1 check box filled in | 70 |
 | Strongly disagree | 371 |
 | Disagree | 453 |
+| Not NA | 75935 |
 | NA | 938 |
 
 
@@ -6550,6 +6991,7 @@ F_74_5:FARE; (F_74_5:FARD); (F_38_9:FARC); (F_38_9:FARB); We agree about how chi
 | Disagree | 547 |
 | Strongly disagree | 317 |
 | More than 1 check box filled in | 41 |
+| Not NA | 75972 |
 | NA | 901 |
 
 
@@ -6566,6 +7008,7 @@ F_38_1:FARC; (F_38_1:FARB); My partner and I have a close relationship; 38. How 
 | Disagree somewhat | 301 |
 | Strongly disagree | 76 |
 | More than 1 check box filled in | 34 |
+| Not NA | 42046 |
 | NA | 34827 |
 
 
@@ -6582,6 +7025,7 @@ F_38_5:FARC; (F_38_5:FARB); I often think about ending our relationship; 38. How
 | More than 1 check box filled in | 36 |
 | Agree somewhat | 501 |
 | Strongly agree | 178 |
+| Not NA | 41957 |
 | NA | 34916 |
 
 
@@ -6598,6 +7042,7 @@ F_38_7:FARC; (F_38_7:FARB); We often disagree about important decisions; 38. How
 | Agree | 1612 |
 | Strongly agree | 579 |
 | More than 1 check box filled in | 25 |
+| Not NA | 41951 |
 | NA | 34922 |
 
 
@@ -6614,6 +7059,7 @@ F_38_8:FARC; (F_38_8:FARB); I have been lucky in my choice of a partner; 38. How
 | Strongly disagree | 148 |
 | Disagree | 127 |
 | More than 1 check box filled in | 20 |
+| Not NA | 41948 |
 | NA | 34925 |
 
 
@@ -6630,6 +7076,7 @@ F_3810:FARC; (F_3810:FARB); I think my partner is satisfied with our relationshi
 | Disagree | 308 |
 | More than 1 check box filled in | 11 |
 | Strongly disagree | 130 |
+| Not NA | 42067 |
 | NA | 34806 |
 
 
@@ -6643,6 +7090,7 @@ F_75:FARE; (F_75:FARD); ; 75. Do you have anyone other than your wife/partner yo
 | Yes, more than 2 people | 12300 |
 | Yes, 1-2 people | 17524 |
 | More than 1 check box filled in | 18 |
+| Not NA | 34020 |
 | NA | 42853 |
 
 
@@ -6656,6 +7104,7 @@ F_76:FARE; (F_76:FARD); ; 76. How often do you meet or talk on the telephone wit
 | 2-8 times a month | 11554 |
 | Once a month or less | 830 |
 | More than 1 check box filled in | 17 |
+| Not NA | 33951 |
 | NA | 42922 |
 
 
@@ -6671,6 +7120,7 @@ F_77:FARE; (F_77:FARD); ; 77. Do you often feel lonely?
 | Usually | 167 |
 | Almost always | 125 |
 | More than 1 check box filled in | 14 |
+| Not NA | 33766 |
 | NA | 43107 |
 
 
@@ -6686,6 +7136,7 @@ F_78_1:FARE; (F_78_1:FARD); (F_36_1:FARC); (F_36_1:FARB); Feel pleased about som
 | Seldom | 447 |
 | Never | 27 |
 | More than 1 check box filled in | 21 |
+| Not NA | 76219 |
 | NA | 654 |
 
 
@@ -6701,6 +7152,7 @@ F_78_2:FARE; (F_78_2:FARD); (F_36_2:FARC); (F_36_2:FARB); Feel happy ; 78.  How 
 | Sometimes | 16559 |
 | Never | 84 |
 | More than 1 check box filled in | 26 |
+| Not NA | 76172 |
 | NA | 701 |
 
 
@@ -6716,6 +7168,7 @@ F_78_3:FARE; (F_78_3:FARD); (F_36_3:FARC); (F_36_3:FARB); Feel joyful as though 
 | Very often | 5282 |
 | Never | 314 |
 | More than 1 check box filled in | 38 |
+| Not NA | 75996 |
 | NA | 877 |
 
 
@@ -6731,6 +7184,7 @@ F_78_4:FARE; (F_78_4:FARD); (F_36_4:FARC); (F_36_4:FARB); Feel that you will scr
 | Often | 2070 |
 | Very often | 464 |
 | More than 1 check box filled in | 52 |
+| Not NA | 76009 |
 | NA | 864 |
 
 
@@ -6746,6 +7200,7 @@ F_78_5:FARE; (F_78_5:FARD); (F_36_5:FARC); (F_36_5:FARB); Feel angry, irritated 
 | Never | 2783 |
 | Very often | 564 |
 | More than 1 check box filled in | 40 |
+| Not NA | 76146 |
 | NA | 727 |
 
 
@@ -6761,6 +7216,7 @@ F_78_6:FARE; (F_78_6:FARD); (F_36_6:FARC); (F_36_6:FARB); Feel mad with someone 
 | Often | 1172 |
 | More than 1 check box filled in | 53 |
 | Very often | 257 |
+| Not NA | 76121 |
 | NA | 752 |
 
 
@@ -6777,6 +7233,7 @@ ALDERUTSENDT:FARE; (ALDERUTSENDT:FARD); (ALDERUTSENDT:FARC); (ALDERUTSENDT:FARB)
 | 3rd Qu. | -158 |
 | Max. | 383 |
 | NA's | 163 |
+| Not NA | 76710 |
 
 
 ### ALDERUTFYLT
@@ -6792,6 +7249,7 @@ ALDERUTFYLT:FARE; (ALDERUTFYLT:FARD); (ALDERUTFYLT:FARC); (ALDERUTFYLT:FARB); (A
 | 3rd Qu. | -141 |
 | Max. | 2000 |
 | NA's | 2431 |
+| Not NA | 74442 |
 
 
 ### ALDERRETUR
@@ -6807,6 +7265,7 @@ ALDERRETUR:FARE; (ALDERRETUR:FARD); (ALDERRETUR:FARC); (ALDERRETUR:FARB); (ALDER
 | 3rd Qu. | -130 |
 | Max. | 2633 |
 | NA's | 163 |
+| Not NA | 76710 |
 
 
 ### QFP1
@@ -6829,6 +7288,7 @@ QFP1:FARE; (QFP1:FARD); (QFP1:FARC); (QFP1:FARB); (QFP1:FARA); Number of answere
 | 4 | 16 |
 | 2 | 7 |
 | 1 | 2 |
+| Not NA | 76873 |
 | NA | 0 |
 
 
@@ -6844,6 +7304,7 @@ QFP2:FARE; (QFP2:FARD); (QFP2:FARC); (QFP2:FARB); (QFP2:FARA); Number of answere
 | Mean | 19.5778882052216 |
 | 3rd Qu. | 23 |
 | Max. | 77 |
+| Not NA | 76873 |
 
 
 ### QFP3
@@ -6858,6 +7319,7 @@ QFP3:FARE; (QFP3:FARD); (QFP3:FARC); (QFP3:FARB); (QFP3:FARA); Number of answere
 | Mean | 14.60878331794 |
 | 3rd Qu. | 22 |
 | Max. | 74 |
+| Not NA | 76873 |
 
 
 ### QFP4
@@ -6872,6 +7334,7 @@ QFP4:FARE; (QFP4:FARD); (QFP4:FARC); (QFP4:FARB); (QFP4:FARA); Number of answere
 | Mean | 8.3475732701989 |
 | 3rd Qu. | 10 |
 | Max. | 32 |
+| Not NA | 76873 |
 
 
 ### QFP5
@@ -6886,6 +7349,7 @@ QFP5:FARE; (QFP5:FARD); (QFP5:FARC); (QFP5:FARB); (QFP5:FARA); Number of answere
 | Mean | 8.22476031896765 |
 | 3rd Qu. | 14 |
 | Max. | 32 |
+| Not NA | 76873 |
 
 
 ### QFP6
@@ -6900,6 +7364,7 @@ QFP6:FARE; (QFP6:FARD); (QFP6:FARC); (QFP6:FARB); (QFP6:FARA); Number of answere
 | Mean | 18.7524878696031 |
 | 3rd Qu. | 26 |
 | Max. | 30 |
+| Not NA | 76873 |
 
 
 ### QFP7
@@ -6914,6 +7379,7 @@ QFP7:FARE; (QFP7:FARD); (QFP7:FARC); (QFP7:FARB); (QFP7:FARA); Number of answere
 | Mean | 25.7116672954093 |
 | 3rd Qu. | 31 |
 | Max. | 31 |
+| Not NA | 76873 |
 
 
 ### QFP8
@@ -6929,6 +7395,7 @@ QFP8:FARE; (QFP8:FARD); (QFP8:FARC); (QFP8:FARB); (QFP8:FARA); Number of answere
 | 3rd Qu. | 16 |
 | Max. | 22 |
 | NA's | 42465 |
+| Not NA | 34408 |
 
 
 ### QFP9
@@ -6944,6 +7411,7 @@ QFP9:FARE; (QFP9:FARD); (QFP9:FARC); (QFP9:FARB); (QFP9:FARA); Number of answere
 | 3rd Qu. | 18 |
 | Max. | 23 |
 | NA's | 42465 |
+| Not NA | 34408 |
 
 
 ### QFP10
@@ -6959,6 +7427,7 @@ QFP10:FARE; (QFP10:FARD); (QFP10:FARC); (QFP10:FARB); (QFP10:FARA); Number of an
 | 3rd Qu. | 22 |
 | Max. | 30 |
 | NA's | 42465 |
+| Not NA | 34408 |
 
 
 ### QFP11
@@ -6974,6 +7443,7 @@ QFP11:FARE; (QFP11:FARD); (QFP11:FARC); (QFP11:FARB); (QFP11:FARA); Number of an
 | 3rd Qu. | 34 |
 | Max. | 36 |
 | NA's | 42465 |
+| Not NA | 34408 |
 
 
 ### QFP12
@@ -6989,6 +7459,7 @@ QFP12:FARE; (QFP12:FARD); (QFP12:FARC); (QFP12:FARB); (QFP12:FARA); Number of an
 | 3rd Qu. | 31 |
 | Max. | 31 |
 | NA's | 42465 |
+| Not NA | 34408 |
 
 
 ### QFP13
@@ -7004,6 +7475,7 @@ QFP13:FARE; (QFP13:FARD); (QFP13:FARC); (QFP13:FARB); (QFP13:FARA); Number of an
 | 3rd Qu. | 26 |
 | Max. | 27 |
 | NA's | 42465 |
+| Not NA | 34408 |
 
 
 ### QFP14
@@ -7012,6 +7484,7 @@ QFP14:FARE; (QFP14:FARD); (QFP14:FARC); (QFP14:FARB); (QFP14:FARA); Number of an
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 76873 |
 
 

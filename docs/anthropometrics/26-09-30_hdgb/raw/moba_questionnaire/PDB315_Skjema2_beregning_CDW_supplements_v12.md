@@ -49,6 +49,7 @@
 | SKJEMA2DBG | 4968 |
 | SKJEMA2C | 14493 |
 | SKJEMA2W | 4328 |
+| Not NA | 74338 |
 | NA | 0 |
 
 
@@ -64,6 +65,7 @@ B1 (thiamine) from supplements, mg/d
 | Mean | 0.87498871371304 |
 | 3rd Qu. | 1.4 |
 | Max. | 197.9998 |
+| Not NA | 74338 |
 
 
 ### s_b2
@@ -78,6 +80,7 @@ B2 (riboflavin) from supplements, mg/d
 | Mean | 0.948706509456805 |
 | 3rd Qu. | 1.6 |
 | Max. | 197.9998 |
+| Not NA | 74338 |
 
 
 ### s_niacin
@@ -92,6 +95,7 @@ B3 (niacin) from supplements, mg/d
 | Mean | 7.37285509698943 |
 | 3rd Qu. | 12.8571 |
 | Max. | 267.9997 |
+| Not NA | 74338 |
 
 
 ### s_b6
@@ -106,6 +110,7 @@ B6 (pyridoxine) from supplements, mg/d
 | Mean | 1.2485184912158 |
 | 3rd Qu. | 2 |
 | Max. | 197.9998 |
+| Not NA | 74338 |
 
 
 ### s_biotin
@@ -120,6 +125,7 @@ B7 (biotin) from supplements, mcg/d
 | Mean | 14.2799944429498 |
 | 3rd Qu. | 0 |
 | Max. | 7499.9926 |
+| Not NA | 74338 |
 
 
 ### s_b12
@@ -134,6 +140,7 @@ B12 (cobalamins) from supplements, mcg/d
 | Mean | 3.84075216040249 |
 | 3rd Qu. | 1.4286 |
 | Max. | 5099.9951 |
+| Not NA | 74338 |
 
 
 ### s_folat
@@ -148,6 +155,7 @@ Folic acid from supplements, mcg/d
 | Mean | 259.933207104038 |
 | 3rd Qu. | 399.9996 |
 | Max. | 5399.9946 |
+| Not NA | 74338 |
 
 
 ### s_beta_karoten
@@ -162,6 +170,7 @@ Beta-carotene from supplements, mcg/d
 | Mean | 164.074398314456 |
 | 3rd Qu. | 0 |
 | Max. | 134999.8593 |
+| Not NA | 74338 |
 
 
 ### s_retinol
@@ -176,6 +185,7 @@ Retinol from supplements, mcg/d
 | Mean | 412.558856751594 |
 | 3rd Qu. | 557.1423 |
 | Max. | 6582.1362 |
+| Not NA | 74338 |
 
 
 ### s_vitamin_a
@@ -190,6 +200,7 @@ Total vitamin A from supplements, mcg/d
 | Mean | 444.431050953752 |
 | 3rd Qu. | 621.428 |
 | Max. | 27396.4003 |
+| Not NA | 74338 |
 
 
 ### s_vitamin_c
@@ -204,6 +215,7 @@ Vitamin C (ascorbic acid) from supplements, mg/d
 | Mean | 42.3526791385294 |
 | 3rd Qu. | 59.9999 |
 | Max. | 3119.997 |
+| Not NA | 74338 |
 
 
 ### s_vitamin_d
@@ -218,6 +230,7 @@ Vitamin D (D2/D3) from supplements, mcg/d
 | Mean | 6.66231807958245 |
 | 3rd Qu. | 9.8 |
 | Max. | 1516.3985 |
+| Not NA | 74338 |
 
 
 ### s_vitamin_e
@@ -232,6 +245,7 @@ Vitamin E (tocopherols) from supplements, mg/d
 | Mean | 10.6694291573623 |
 | 3rd Qu. | 13.7143 |
 | Max. | 1185.8559 |
+| Not NA | 74338 |
 
 
 ### s_epa
@@ -246,6 +260,7 @@ Eicosapentaenoic acid (20:5n-3) from supplements, g/d
 | Mean | 0.194214384298744 |
 | 3rd Qu. | 0.3429 |
 | Max. | 4.9 |
+| Not NA | 74338 |
 
 
 ### s_dha
@@ -260,6 +275,7 @@ Docosahexaenoic acid (22:6n-3) from supplements, g/d
 | Mean | 0.266957071753343 |
 | 3rd Qu. | 0.4 |
 | Max. | 4.3 |
+| Not NA | 74338 |
 
 
 ### s_dpa
@@ -274,6 +290,7 @@ Docosapentaenoic acid (22:5n-3) from supplements, g/d
 | Mean | 0.000832445048292932 |
 | 3rd Qu. | 0 |
 | Max. | 1.2 |
+| Not NA | 74338 |
 
 
 ### s_alfa_linolensyre
@@ -288,6 +305,7 @@ Alpha-linolenic acid from supplements, g/d
 | Mean | 0.00769461513626947 |
 | 3rd Qu. | 0 |
 | Max. | 10.7143 |
+| Not NA | 74338 |
 
 
 ### s_cla
@@ -302,6 +320,7 @@ Conjugated linoleic acid from supplements, mg/d
 | Mean | 0.347390052194033 |
 | 3rd Qu. | 0 |
 | Max. | 2999.997 |
+| Not NA | 74338 |
 
 
 ### s_gla
@@ -316,6 +335,7 @@ Gamma linolenic acid  from supplements, mg/d
 | Mean | 1.19487447066103 |
 | 3rd Qu. | 0 |
 | Max. | 3999.996 |
+| Not NA | 74338 |
 
 
 ### s_betaine
@@ -330,6 +350,7 @@ Betaine from supplements, mg/d
 | Mean | 0.0183061395248729 |
 | 3rd Qu. | 0 |
 | Max. | 284.2854 |
+| Not NA | 74338 |
 
 
 ### s_kolin
@@ -344,6 +365,7 @@ Choline from supplements, mg/d
 | Mean | 0.173540423471172 |
 | 3rd Qu. | 0 |
 | Max. | 197.9998 |
+| Not NA | 74338 |
 
 
 ### s_hemjern
@@ -358,6 +380,7 @@ Haeme iron from supplements, mg/d
 | Mean | 0.475202568000215 |
 | 3rd Qu. | 0 |
 | Max. | 1049.9989 |
+| Not NA | 74338 |
 
 
 ### s_jern_totalt
@@ -372,6 +395,7 @@ Total iron from supplements, mg/d
 | Mean | 15.1279726546315 |
 | 3rd Qu. | 14 |
 | Max. | 472.8567 |
+| Not NA | 74338 |
 
 
 ### s_fosfor
@@ -386,6 +410,7 @@ Phosphorus from supplements, mg/d
 | Mean | 0.934744566708816 |
 | 3rd Qu. | 0 |
 | Max. | 2252.1977 |
+| Not NA | 74338 |
 
 
 ### s_jod
@@ -400,6 +425,7 @@ Iodine from supplements, mcg/d
 | Mean | 41.2167697557104 |
 | 3rd Qu. | 74.9999 |
 | Max. | 1529.9984 |
+| Not NA | 74338 |
 
 
 ### s_kalium
@@ -414,6 +440,7 @@ Potassium from supplements, mg/d
 | Mean | 1.15298006403185 |
 | 3rd Qu. | 0 |
 | Max. | 2547.9975 |
+| Not NA | 74338 |
 
 
 ### s_kalsium
@@ -428,6 +455,7 @@ Calcium from supplements, mg/dd
 | Mean | 48.2228266176115 |
 | 3rd Qu. | 0 |
 | Max. | 3001.997 |
+| Not NA | 74338 |
 
 
 ### s_kobber
@@ -442,6 +470,7 @@ Copper from supplements, mg/d
 | Mean | 0.536589020420243 |
 | 3rd Qu. | 0.8571 |
 | Max. | 308.5711 |
+| Not NA | 74338 |
 
 
 ### s_krom
@@ -456,6 +485,7 @@ Cromium from supplements, mcg/d
 | Mean | 23.5047514528236 |
 | 3rd Qu. | 42.8571 |
 | Max. | 53999.9453 |
+| Not NA | 74338 |
 
 
 ### s_magnesium
@@ -470,6 +500,7 @@ Magnesium from supplements, mg/d
 | Mean | 24.7771759288655 |
 | 3rd Qu. | 21.4286 |
 | Max. | 1989.998 |
+| Not NA | 74338 |
 
 
 ### s_mangan
@@ -484,6 +515,7 @@ Manganese from supplements, mg/d
 | Mean | 0.786388051871183 |
 | 3rd Qu. | 1 |
 | Max. | 502.4995 |
+| Not NA | 74338 |
 
 
 ### s_natrium
@@ -498,6 +530,7 @@ Sodium from supplements, mg/d
 | Mean | 0.103652370254782 |
 | 3rd Qu. | 0 |
 | Max. | 1239.9987 |
+| Not NA | 74338 |
 
 
 ### s_selen
@@ -512,6 +545,7 @@ Selenium from supplements, mcg/d
 | Mean | 24.2472013949797 |
 | 3rd Qu. | 35.7142 |
 | Max. | 150074.8437 |
+| Not NA | 74338 |
 
 
 ### s_sink
@@ -526,6 +560,7 @@ Zink from supplements, mg/d
 | Mean | 4.5290044216955 |
 | 3rd Qu. | 8.5714 |
 | Max. | 122.857 |
+| Not NA | 74338 |
 
 
 ### s_fiber
@@ -540,6 +575,7 @@ Dietary fibre from supplements, g/d
 | Mean | 0.0569538002098523 |
 | 3rd Qu. | 0 |
 | Max. | 2079.9978 |
+| Not NA | 74338 |
 
 
 ### s_protein
@@ -554,6 +590,7 @@ Protein from supplements, g/d
 | Mean | 0.0164217587236676 |
 | 3rd Qu. | 0 |
 | Max. | 103.9999 |
+| Not NA | 74338 |
 
 
 ### s_lactobakterier
@@ -568,6 +605,7 @@ Lactobacillus from supplements, mill/d
 | Mean | 6.90807730232183 |
 | 3rd Qu. | 0 |
 | Max. | 47999.9531 |
+| Not NA | 74338 |
 
 
 ### s_koffein
@@ -582,5 +620,6 @@ Caffein from supplements, mg/d
 | Mean | 0.0177556498695149 |
 | 3rd Qu. | 0 |
 | Max. | 90.5999 |
+| Not NA | 74338 |
 
 

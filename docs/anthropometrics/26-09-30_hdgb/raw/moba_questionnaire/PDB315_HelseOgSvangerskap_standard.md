@@ -369,6 +369,7 @@
 | -------- | - |
 | 1 | 108 |
 | 2 | 1 |
+| Not NA | 109 |
 | NA | 0 |
 
 
@@ -380,6 +381,7 @@
 | HELSEOGSV_20_A | 54 |
 | HELSEOGSV_UH_A | 48 |
 | HELSEOGSV_19_A | 7 |
+| Not NA | 109 |
 | NA | 0 |
 
 
@@ -391,6 +393,7 @@ Rekkefølge på innsendte besvarelser;0.
 | -------- | - |
 | 1 | 97 |
 | 2 | 12 |
+| Not NA | 109 |
 | NA | 0 |
 
 
@@ -407,6 +410,7 @@ HelseOgSvangerskap_A;Generated variable; Antall uker mellom utfylling av spørre
 | 3rd Qu. | 28 |
 | Max. | 45 |
 | NA's | 5 |
+| Not NA | 104 |
 
 
 ### HS_WEEKS_UNTIL_TERMIN
@@ -422,6 +426,7 @@ HelseOgSvangerskap_A;Generated variable; Antall uker mellom utfylling av spørre
 | 3rd Qu. | 29 |
 | Max. | 38 |
 | NA's | 7 |
+| Not NA | 102 |
 
 
 ### HS13
@@ -475,6 +480,7 @@ QHSUH__3:HELSEOGSV_UH_A; ; 3. Hvilken graviditetsuke er du i nå?
 | Uke 43 | 0 |
 | Vet ikke | 3 |
 | NA's | 3 |
+| Not NA | 106 |
 
 
 ### HS14
@@ -490,6 +496,7 @@ QHSUH__4:HELSEOGSV_UH_A; Oppgi svaret ditt i hele kilo:; 4. Hvor mye veide du re
 | 3rd Qu. | 79.25 |
 | Max. | 114 |
 | NA's | 5 |
+| Not NA | 104 |
 
 
 ### HS15
@@ -500,6 +507,7 @@ QHSUH__5:HELSEOGSV_UH_A; ; 5. Hvor mange barn venter du i denne graviditeten?
 | -------- | - |
 | Vet ikke | 25 |
 | Ett barn | 82 |
+| Not NA | 107 |
 | NA | 2 |
 
 
@@ -513,6 +521,7 @@ QHSUH__6:HELSEOGSV_UH_A; ; 6. Er denne graviditeten planlagt, delvis planlagt el
 | Delvis planlagt | 38 |
 | Overhodet ikke planlagt | 29 |
 | Vet ikke | 1 |
+| Not NA | 108 |
 | NA | 1 |
 
 
@@ -523,6 +532,7 @@ QHSUH__6_1_1_1:HELSEOGSV_UH_A; Nei.Gjorde du noe for å finne ut når i menstrua
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 85 |
 
 
@@ -533,6 +543,7 @@ QHSUH__6_1_1_2:HELSEOGSV_UH_A; Ja, tok eggløsningstest.Gjorde du noe for å fin
 | Category | n |
 | -------- | - |
 | 1 | 30 |
+| Not NA | 30 |
 | NA | 79 |
 
 
@@ -543,6 +554,7 @@ QHSUH__6_1_1_3:HELSEOGSV_UH_A; Ja, brukte tracker/fertilitetsapp.Gjorde du noe f
 | Category | n |
 | -------- | - |
 | 1 | 31 |
+| Not NA | 31 |
 | NA | 78 |
 
 
@@ -553,6 +565,7 @@ QHSUH__6_1_1_4:HELSEOGSV_UH_A; Ja, målte morgentemperatur.Gjorde du noe for å 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -563,6 +576,7 @@ QHSUH__6_1_1_5:HELSEOGSV_UH_A; Ja, observerte vaginal utflod.Gjorde du noe for �
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 98 |
 
 
@@ -573,6 +587,7 @@ QHSUH__6_1_1_6:HELSEOGSV_UH_A; Ja, talte dager fra forrige menstruasjon.Gjorde d
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 95 |
 
 
@@ -583,6 +598,7 @@ QHSUH__6_1_1_7:HELSEOGSV_UH_A; Ja, jeg merket når jeg hadde eggløsning.Gjorde 
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 96 |
 
 
@@ -595,6 +611,7 @@ QHSUH__6_2_1:HELSEOGSV_UH_A; Planla du samleie rundt eggløsningen?(Hvis planlag
 | Ja | 52 |
 | Nei | 25 |
 | Vet ikke | 1 |
+| Not NA | 78 |
 | NA | 31 |
 
 
@@ -611,6 +628,7 @@ QHSUH__7:HELSEOGSV_UH_A; ; 7. Hvor ofte hadde du (i gjennomsnitt) samleie de sis
 | Hver dag | 4 |
 | Ca. én gang i måneden | 2 |
 | Vet ikke | 4 |
+| Not NA | 108 |
 | NA | 1 |
 
 
@@ -637,6 +655,7 @@ QHSUH__8:HELSEOGSV_UH_A; ; 8. Hvor mange måneder hadde du regelmessig samleie u
 | 6 MÅNEDER | 3 |
 | 10 MÅNEDER | 1 |
 | 11 MÅNEDER | 1 |
+| Not NA | 106 |
 | NA | 3 |
 
 
@@ -649,6 +668,7 @@ QHSUH__9:HELSEOGSV_UH_A; ; 9. Ble du gravid selv om du/dere brukte prevensjon?
 | Nei | 101 |
 | Ja | 5 |
 | Vet ikke | 2 |
+| Not NA | 108 |
 | NA | 1 |
 
 
@@ -659,6 +679,7 @@ QHSUH__9_1_1_1:HELSEOGSV_UH_A; Minipiller.Hvilken prevensjon brukte du/din partn
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -669,6 +690,7 @@ QHSUH__9_1_1_2:HELSEOGSV_UH_A; P-piller.Hvilken prevensjon brukte du/din partner
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -678,6 +700,7 @@ QHSUH__9_1_1_3:HELSEOGSV_UH_A; Hormonspiral.Hvilken prevensjon brukte du/din par
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -687,6 +710,7 @@ QHSUH__9_1_1_4:HELSEOGSV_UH_A; Kobberspiral.Hvilken prevensjon brukte du/din par
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -697,6 +721,7 @@ QHSUH__9_1_1_5:HELSEOGSV_UH_A; P-stav.Hvilken prevensjon brukte du/din partner?(
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -706,6 +731,7 @@ QHSUH__9_1_1_6:HELSEOGSV_UH_A; P-sprøyte.Hvilken prevensjon brukte du/din partn
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -715,6 +741,7 @@ QHSUH__9_1_1_7:HELSEOGSV_UH_A; P-plaster.Hvilken prevensjon brukte du/din partne
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -724,6 +751,7 @@ QHSUH__9_1_1_8:HELSEOGSV_UH_A; P-ring.Hvilken prevensjon brukte du/din partner?(
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -733,6 +761,7 @@ QHSUH__9_1_1_9:HELSEOGSV_UH_A; Pessar.Hvilken prevensjon brukte du/din partner?(
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -743,6 +772,7 @@ QHSUH__9_1_1_10:HELSEOGSV_UH_A; Kondom.Hvilken prevensjon brukte du/din partner?
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -752,6 +782,7 @@ QHSUH__9_1_1_11:HELSEOGSV_UH_A; Femidom.Hvilken prevensjon brukte du/din partner
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -761,6 +792,7 @@ QHSUH__9_1_1_12:HELSEOGSV_UH_A; «Sikre perioder metoden».Hvilken prevensjon br
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -770,6 +802,7 @@ QHSUH__9_1_1_13:HELSEOGSV_UH_A; Avbrutt samleie.Hvilken prevensjon brukte du/din
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -779,6 +812,7 @@ QHSUH__9_1_1_14:HELSEOGSV_UH_A; Annen type prevensjon.Hvilken prevensjon brukte 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -788,6 +822,7 @@ QHSUH__9_1_1_15:HELSEOGSV_UH_A; Jeg er sterilisert.Hvilken prevensjon brukte du/
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -797,6 +832,7 @@ QHSUH__9_1_1_16:HELSEOGSV_UH_A; Min partner er sterilisert.Hvilken prevensjon br
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -806,6 +842,7 @@ QHSUH__9_1_1_17:HELSEOGSV_UH_A; Vet ikke.Hvilken prevensjon brukte du/din partne
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -818,6 +855,7 @@ QHSUH_10_1_1:HELSEOGSV_UH_A; ; 10. Brukte du fertilitetsbehandling i forbindelse
 | Nei | 104 |
 | Ja | 3 |
 | ØNSKER IKKE Å SVARE | 1 |
+| Not NA | 108 |
 | NA | 1 |
 
 
@@ -830,6 +868,7 @@ QHSUH_10_2_1:HELSEOGSV_UH_A; Hvilken type fertilitetsbehandling brukte du i forb
 | Inseminering uten hormoner | 1 |
 | IVF med ICSI | 1 |
 | Annet | 1 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -845,6 +884,7 @@ QHSUH_11:HELSEOGSV_UH_A; ; 11. Var din menstruasjonssyklus regelmessig de siste 
 | IKKE AKTUELT | 8 |
 | Ja, kunne forutsi menstruasjon innenfor 6-7 dager | 10 |
 | Vet ikke | 4 |
+| Not NA | 108 |
 | NA | 1 |
 
 
@@ -873,6 +913,7 @@ QHSUH_11_1_1:HELSEOGSV_UH_A; Hvis du tenker tilbake 12 måneder før du ble grav
 | 18 dager | 1 |
 | 42 dager | 1 |
 | 44 dager | 1 |
+| Not NA | 94 |
 | NA | 15 |
 
 
@@ -883,6 +924,7 @@ QHSUH_12_1:HELSEOGSV_UH_A; Bekkenløsning.; 12. Har du opplevd noen av følgende
 | Category | n |
 | -------- | - |
 | 1 | 26 |
+| Not NA | 26 |
 | NA | 83 |
 
 
@@ -893,6 +935,7 @@ QHSUH_12_2:HELSEOGSV_UH_A; Kvalme.; 12. Har du opplevd noen av følgende sykdomm
 | Category | n |
 | -------- | - |
 | 1 | 78 |
+| Not NA | 78 |
 | NA | 31 |
 
 
@@ -903,6 +946,7 @@ QHSUH_12_3:HELSEOGSV_UH_A; Kvalme med oppkast.; 12. Har du opplevd noen av følg
 | Category | n |
 | -------- | - |
 | 1 | 48 |
+| Not NA | 48 |
 | NA | 61 |
 
 
@@ -913,6 +957,7 @@ QHSUH_12_4:HELSEOGSV_UH_A; Soppinfeksjon i skjeden.; 12. Har du opplevd noen av 
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 102 |
 
 
@@ -923,6 +968,7 @@ QHSUH_12_5:HELSEOGSV_UH_A; Vaginalt slim/uklar utflod.; 12. Har du opplevd noen 
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 89 |
 
 
@@ -933,6 +979,7 @@ QHSUH_12_6:HELSEOGSV_UH_A; Graviditetskløe.; 12. Har du opplevd noen av følgen
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 98 |
 
 
@@ -943,6 +990,7 @@ QHSUH_12_7:HELSEOGSV_UH_A; Forstoppelse.; 12. Har du opplevd noen av følgende s
 | Category | n |
 | -------- | - |
 | 1 | 53 |
+| Not NA | 53 |
 | NA | 56 |
 
 
@@ -953,6 +1001,7 @@ QHSUH_12_8:HELSEOGSV_UH_A; Diaré.; 12. Har du opplevd noen av følgende sykdomm
 | Category | n |
 | -------- | - |
 | 1 | 26 |
+| Not NA | 26 |
 | NA | 83 |
 
 
@@ -963,6 +1012,7 @@ QHSUH_12_9:HELSEOGSV_UH_A; Søvnproblemer.; 12. Har du opplevd noen av følgende
 | Category | n |
 | -------- | - |
 | 1 | 54 |
+| Not NA | 54 |
 | NA | 55 |
 
 
@@ -973,6 +1023,7 @@ QHSUH_12_10:HELSEOGSV_UH_A; Hevelser/ødem (væskeopphopning.; 12. Har du opplev
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 96 |
 
 
@@ -982,6 +1033,7 @@ QHSUH_12_11:HELSEOGSV_UH_A; Feber med utslett.; 12. Har du opplevd noen av følg
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -992,6 +1044,7 @@ QHSUH_12_12:HELSEOGSV_UH_A; Feber over 38,5 grader.; 12. Har du opplevd noen av 
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1002,6 +1055,7 @@ QHSUH_12_13:HELSEOGSV_UH_A; Infeksjon.; 12. Har du opplevd noen av følgende syk
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -1012,6 +1066,7 @@ QHSUH_12_14:HELSEOGSV_UH_A; Covid-19.; 12. Har du opplevd noen av følgende sykd
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1022,6 +1077,7 @@ QHSUH_12_15:HELSEOGSV_UH_A; Influensa.; 12. Har du opplevd noen av følgende syk
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 100 |
 
 
@@ -1031,6 +1087,7 @@ QHSUH_12_16:HELSEOGSV_UH_A; Lungebetennelse.; 12. Har du opplevd noen av følgen
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1041,6 +1098,7 @@ QHSUH_12_17:HELSEOGSV_UH_A; Sukker i urinen.; 12. Har du opplevd noen av følgen
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 104 |
 
 
@@ -1051,6 +1109,7 @@ QHSUH_12_18:HELSEOGSV_UH_A; Protein i urinen.; 12. Har du opplevd noen av følge
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 102 |
 
 
@@ -1061,6 +1120,7 @@ QHSUH_12_19:HELSEOGSV_UH_A; Blødning fra skjeden.; 12. Har du opplevd noen av f
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 94 |
 
 
@@ -1071,6 +1131,7 @@ QHSUH_12_20:HELSEOGSV_UH_A; Ingen av de ovennevnte.; 12. Har du opplevd noen av 
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 99 |
 
 
@@ -1080,6 +1141,7 @@ QHSUH_12_1_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du bekkenlø
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1090,6 +1152,7 @@ QHSUH_12_1_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du bekkenlø
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -1100,6 +1163,7 @@ QHSUH_12_1_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du bekkenl
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 101 |
 
 
@@ -1110,6 +1174,7 @@ QHSUH_12_1_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du bekkenl
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 102 |
 
 
@@ -1120,6 +1185,7 @@ QHSUH_12_1_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du bekkenl
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 101 |
 
 
@@ -1130,6 +1196,7 @@ QHSUH_12_1_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du bekkenl
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -1140,6 +1207,7 @@ QHSUH_12_1_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du bekkenl
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 104 |
 
 
@@ -1150,6 +1218,7 @@ QHSUH_12_1_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du bekkenl
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -1159,6 +1228,7 @@ QHSUH_12_1_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du bekkenl
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1169,6 +1239,7 @@ QHSUH_12_2_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du kvalme?(H
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 96 |
 
 
@@ -1179,6 +1250,7 @@ QHSUH_12_2_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du kvalme?(H
 | Category | n |
 | -------- | - |
 | 1 | 69 |
+| Not NA | 69 |
 | NA | 40 |
 
 
@@ -1189,6 +1261,7 @@ QHSUH_12_2_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du kvalme?
 | Category | n |
 | -------- | - |
 | 1 | 46 |
+| Not NA | 46 |
 | NA | 63 |
 
 
@@ -1199,6 +1272,7 @@ QHSUH_12_2_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du kvalme?
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 91 |
 
 
@@ -1209,6 +1283,7 @@ QHSUH_12_2_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du kvalme?
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1219,6 +1294,7 @@ QHSUH_12_2_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du kvalme?
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -1229,6 +1305,7 @@ QHSUH_12_2_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du kvalme?
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1239,6 +1316,7 @@ QHSUH_12_2_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du kvalme?
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -1248,6 +1326,7 @@ QHSUH_12_2_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du kvalme?
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1258,6 +1337,7 @@ QHSUH_12_3_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du kvalme me
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1268,6 +1348,7 @@ QHSUH_12_3_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du kvalme me
 | Category | n |
 | -------- | - |
 | 1 | 33 |
+| Not NA | 33 |
 | NA | 76 |
 
 
@@ -1278,6 +1359,7 @@ QHSUH_12_3_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du kvalme 
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 73 |
 
 
@@ -1288,6 +1370,7 @@ QHSUH_12_3_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du kvalme 
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 95 |
 
 
@@ -1298,6 +1381,7 @@ QHSUH_12_3_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du kvalme 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -1307,6 +1391,7 @@ QHSUH_12_3_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du kvalme 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1317,6 +1402,7 @@ QHSUH_12_3_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du kvalme 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -1327,6 +1413,7 @@ QHSUH_12_3_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du kvalme 
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1336,6 +1423,7 @@ QHSUH_12_3_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du kvalme 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1345,6 +1433,7 @@ QHSUH_12_4_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du soppinfek
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1355,6 +1444,7 @@ QHSUH_12_4_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du soppinfek
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1365,6 +1455,7 @@ QHSUH_12_4_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du soppinf
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1375,6 +1466,7 @@ QHSUH_12_4_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du soppinf
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -1385,6 +1477,7 @@ QHSUH_12_4_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du soppinf
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -1395,6 +1488,7 @@ QHSUH_12_4_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du soppinf
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1404,6 +1498,7 @@ QHSUH_12_4_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du soppinf
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1413,6 +1508,7 @@ QHSUH_12_4_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du soppinf
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1422,6 +1518,7 @@ QHSUH_12_4_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du soppinf
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1432,6 +1529,7 @@ QHSUH_12_5_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du vaginalt 
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -1442,6 +1540,7 @@ QHSUH_12_5_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du vaginalt 
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 99 |
 
 
@@ -1452,6 +1551,7 @@ QHSUH_12_5_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du vaginal
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 99 |
 
 
@@ -1462,6 +1562,7 @@ QHSUH_12_5_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du vaginal
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 99 |
 
 
@@ -1472,6 +1573,7 @@ QHSUH_12_5_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du vaginal
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 102 |
 
 
@@ -1482,6 +1584,7 @@ QHSUH_12_5_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du vaginal
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1492,6 +1595,7 @@ QHSUH_12_5_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du vaginal
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1501,6 +1605,7 @@ QHSUH_12_5_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du vaginal
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1510,6 +1615,7 @@ QHSUH_12_5_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du vaginal
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1520,6 +1626,7 @@ QHSUH_12_6_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du gravidite
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1530,6 +1637,7 @@ QHSUH_12_6_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du gravidite
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1540,6 +1648,7 @@ QHSUH_12_6_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du gravidi
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -1550,6 +1659,7 @@ QHSUH_12_6_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du gravidi
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 102 |
 
 
@@ -1560,6 +1670,7 @@ QHSUH_12_6_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du gravidi
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -1570,6 +1681,7 @@ QHSUH_12_6_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du gravidi
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1580,6 +1692,7 @@ QHSUH_12_6_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du gravidi
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1589,6 +1702,7 @@ QHSUH_12_6_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du gravidi
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1598,6 +1712,7 @@ QHSUH_12_6_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du gravidi
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1608,6 +1723,7 @@ QHSUH_12_7_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du forstoppe
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 100 |
 
 
@@ -1618,6 +1734,7 @@ QHSUH_12_7_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du forstoppe
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 73 |
 
 
@@ -1628,6 +1745,7 @@ QHSUH_12_7_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du forstop
 | Category | n |
 | -------- | - |
 | 1 | 30 |
+| Not NA | 30 |
 | NA | 79 |
 
 
@@ -1638,6 +1756,7 @@ QHSUH_12_7_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du forstop
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 91 |
 
 
@@ -1648,6 +1767,7 @@ QHSUH_12_7_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du forstop
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 95 |
 
 
@@ -1658,6 +1778,7 @@ QHSUH_12_7_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du forstop
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -1668,6 +1789,7 @@ QHSUH_12_7_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du forstop
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1678,6 +1800,7 @@ QHSUH_12_7_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du forstop
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -1688,6 +1811,7 @@ QHSUH_12_7_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du forstop
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1698,6 +1822,7 @@ QHSUH_12_8_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du diaré?(H
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -1708,6 +1833,7 @@ QHSUH_12_8_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du diaré?(H
 | Category | n |
 | -------- | - |
 | 1 | 12 |
+| Not NA | 12 |
 | NA | 97 |
 
 
@@ -1718,6 +1844,7 @@ QHSUH_12_8_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du diaré?
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 94 |
 
 
@@ -1728,6 +1855,7 @@ QHSUH_12_8_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du diaré?
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 98 |
 
 
@@ -1738,6 +1866,7 @@ QHSUH_12_8_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du diaré?
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 101 |
 
 
@@ -1748,6 +1877,7 @@ QHSUH_12_8_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du diaré?
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -1758,6 +1888,7 @@ QHSUH_12_8_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du diaré?
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -1768,6 +1899,7 @@ QHSUH_12_8_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du diaré?
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -1777,6 +1909,7 @@ QHSUH_12_8_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du diaré?
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -1787,6 +1920,7 @@ QHSUH_12_9_1_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du søvnpr
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -1797,6 +1931,7 @@ QHSUH_12_9_1_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du søvnpr
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 88 |
 
 
@@ -1807,6 +1942,7 @@ QHSUH_12_9_1_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du søvn
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 89 |
 
 
@@ -1817,6 +1953,7 @@ QHSUH_12_9_1_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du søvn
 | Category | n |
 | -------- | - |
 | 1 | 12 |
+| Not NA | 12 |
 | NA | 97 |
 
 
@@ -1827,6 +1964,7 @@ QHSUH_12_9_1_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du søvn
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 95 |
 
 
@@ -1837,6 +1975,7 @@ QHSUH_12_9_1_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du søvn
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 93 |
 
 
@@ -1847,6 +1986,7 @@ QHSUH_12_9_1_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du søvn
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 98 |
 
 
@@ -1857,6 +1997,7 @@ QHSUH_12_9_1_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du søvn
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -1867,6 +2008,7 @@ QHSUH_12_9_1_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du søvn
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -1877,6 +2019,7 @@ QHSUH_12_9_1_2_1:HELSEOGSV_UH_A; Innsovningsvansker.Hva slags søvnproblemer har
 | Category | n |
 | -------- | - |
 | 1 | 24 |
+| Not NA | 24 |
 | NA | 85 |
 
 
@@ -1887,6 +2030,7 @@ QHSUH_12_9_1_2_2:HELSEOGSV_UH_A; Oppvåkninger om natten.Hva slags søvnprobleme
 | Category | n |
 | -------- | - |
 | 1 | 49 |
+| Not NA | 49 |
 | NA | 60 |
 
 
@@ -1897,6 +2041,7 @@ QHSUH_12_9_1_2_3:HELSEOGSV_UH_A; For tidlig morgenoppvåkning.Hva slags søvnpro
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 86 |
 
 
@@ -1907,6 +2052,7 @@ QHSUH_12_9_1_2_4:HELSEOGSV_UH_A; Snorking (ifølge andre).Hva slags søvnproblem
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -1917,6 +2063,7 @@ QHSUH_12_9_1_2_5:HELSEOGSV_UH_A; Pustestand under søvn (ifølge andre).Hva slag
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1927,6 +2074,7 @@ QHSUH_12_9_1_2_6:HELSEOGSV_UH_A; Søvnighet på dagtid (dupper lett av).Hva slag
 | Category | n |
 | -------- | - |
 | 1 | 26 |
+| Not NA | 26 |
 | NA | 83 |
 
 
@@ -1937,6 +2085,7 @@ QHSUH_12_9_1_2_7:HELSEOGSV_UH_A; Trøtthet på dagtid (er sliten/uopplagt).Hva s
 | Category | n |
 | -------- | - |
 | 1 | 41 |
+| Not NA | 41 |
 | NA | 68 |
 
 
@@ -1947,6 +2096,7 @@ QHSUH_1210_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du hevelser/
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1957,6 +2107,7 @@ QHSUH_1210_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du hevelser/
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -1967,6 +2118,7 @@ QHSUH_1210_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du hevelse
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -1977,6 +2129,7 @@ QHSUH_1210_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du hevelse
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1987,6 +2140,7 @@ QHSUH_1210_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du hevelse
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -1997,6 +2151,7 @@ QHSUH_1210_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du hevelse
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2007,6 +2162,7 @@ QHSUH_1210_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du hevelse
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 104 |
 
 
@@ -2017,6 +2173,7 @@ QHSUH_1210_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du hevelse
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -2026,6 +2183,7 @@ QHSUH_1210_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du hevelse
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2035,6 +2193,7 @@ QHSUH_1211_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du feber med
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2044,6 +2203,7 @@ QHSUH_1211_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du feber med
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2053,6 +2213,7 @@ QHSUH_1211_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du feber m
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2062,6 +2223,7 @@ QHSUH_1211_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du feber m
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2071,6 +2233,7 @@ QHSUH_1211_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du feber m
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2080,6 +2243,7 @@ QHSUH_1211_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du feber m
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2089,6 +2253,7 @@ QHSUH_1211_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du feber m
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2098,6 +2263,7 @@ QHSUH_1211_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du feber m
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2107,6 +2273,7 @@ QHSUH_1211_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du feber m
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2116,6 +2283,7 @@ QHSUH_1212_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du feber ove
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2125,6 +2293,7 @@ QHSUH_1212_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du feber ove
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2134,6 +2303,7 @@ QHSUH_1212_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du feber o
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2144,6 +2314,7 @@ QHSUH_1212_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du feber o
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2153,6 +2324,7 @@ QHSUH_1212_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du feber o
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2162,6 +2334,7 @@ QHSUH_1212_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du feber o
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2171,6 +2344,7 @@ QHSUH_1212_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du feber o
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2180,6 +2354,7 @@ QHSUH_1212_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du feber o
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2189,6 +2364,7 @@ QHSUH_1212_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du feber o
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2198,6 +2374,7 @@ QHSUH_1213_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du infeksjon
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2208,6 +2385,7 @@ QHSUH_1213_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du infeksjon
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2217,6 +2395,7 @@ QHSUH_1213_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du infeksj
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2227,6 +2406,7 @@ QHSUH_1213_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du infeksj
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2237,6 +2417,7 @@ QHSUH_1213_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du infeksj
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2246,6 +2427,7 @@ QHSUH_1213_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du infeksj
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2255,6 +2437,7 @@ QHSUH_1213_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du infeksj
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2264,6 +2447,7 @@ QHSUH_1213_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du infeksj
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2273,6 +2457,7 @@ QHSUH_1213_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du infeksj
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2283,6 +2468,7 @@ QHSUH_1214_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten hadde du Covid-19?(Hv
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2293,6 +2479,7 @@ QHSUH_1214_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten hadde du Covid-19?(Hv
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2302,6 +2489,7 @@ QHSUH_1214_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten hadde du Covid-19?(
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2311,6 +2499,7 @@ QHSUH_1214_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten hadde du Covid-19?(
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2320,6 +2509,7 @@ QHSUH_1214_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten hadde du Covid-19?(
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2329,6 +2519,7 @@ QHSUH_1214_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten hadde du Covid-19?(
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2338,6 +2529,7 @@ QHSUH_1214_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten hadde du Covid-19?(
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2347,6 +2539,7 @@ QHSUH_1214_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten hadde du Covid-19?(
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2356,6 +2549,7 @@ QHSUH_1214_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten hadde du Covid-19?(
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2365,6 +2559,7 @@ QHSUH_1215_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du influensa
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2375,6 +2570,7 @@ QHSUH_1215_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du influensa
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -2385,6 +2581,7 @@ QHSUH_1215_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du influen
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -2395,6 +2592,7 @@ QHSUH_1215_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du influen
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -2405,6 +2603,7 @@ QHSUH_1215_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du influen
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -2414,6 +2613,7 @@ QHSUH_1215_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du influen
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2423,6 +2623,7 @@ QHSUH_1215_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du influen
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2432,6 +2633,7 @@ QHSUH_1215_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du influen
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2441,6 +2643,7 @@ QHSUH_1215_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du influen
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2450,6 +2653,7 @@ QHSUH_1216_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du lungebete
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2459,6 +2663,7 @@ QHSUH_1216_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du lungebete
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2468,6 +2673,7 @@ QHSUH_1216_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du lungebe
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2477,6 +2683,7 @@ QHSUH_1216_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du lungebe
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2486,6 +2693,7 @@ QHSUH_1216_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du lungebe
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2495,6 +2703,7 @@ QHSUH_1216_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du lungebe
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2504,6 +2713,7 @@ QHSUH_1216_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du lungebe
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2513,6 +2723,7 @@ QHSUH_1216_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du lungebe
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2522,6 +2733,7 @@ QHSUH_1216_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du lungebe
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2531,6 +2743,7 @@ QHSUH_1217_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du sukker i 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2540,6 +2753,7 @@ QHSUH_1217_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du sukker i 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2550,6 +2764,7 @@ QHSUH_1217_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du sukker 
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2559,6 +2774,7 @@ QHSUH_1217_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du sukker 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2569,6 +2785,7 @@ QHSUH_1217_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du sukker 
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -2579,6 +2796,7 @@ QHSUH_1217_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du sukker 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -2589,6 +2807,7 @@ QHSUH_1217_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du sukker 
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2598,6 +2817,7 @@ QHSUH_1217_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du sukker 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2607,6 +2827,7 @@ QHSUH_1217_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du sukker 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2616,6 +2837,7 @@ QHSUH_1218_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du protein i
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2626,6 +2848,7 @@ QHSUH_1218_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du protein i
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2636,6 +2859,7 @@ QHSUH_1218_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du protein
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -2646,6 +2870,7 @@ QHSUH_1218_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du protein
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -2656,6 +2881,7 @@ QHSUH_1218_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du protein
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2666,6 +2892,7 @@ QHSUH_1218_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du protein
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2675,6 +2902,7 @@ QHSUH_1218_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du protein
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2684,6 +2912,7 @@ QHSUH_1218_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du protein
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2693,6 +2922,7 @@ QHSUH_1218_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du protein
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2703,6 +2933,7 @@ QHSUH_1219_1_1:HELSEOGSV_UH_A; Uke 0-4.Når i graviditeten opplevde du blødning
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -2713,6 +2944,7 @@ QHSUH_1219_1_2:HELSEOGSV_UH_A; Uke 5-9.Når i graviditeten opplevde du blødning
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 99 |
 
 
@@ -2723,6 +2955,7 @@ QHSUH_1219_1_3:HELSEOGSV_UH_A; Uke 10-14.Når i graviditeten opplevde du blødni
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -2733,6 +2966,7 @@ QHSUH_1219_1_4:HELSEOGSV_UH_A; Uke 15-19.Når i graviditeten opplevde du blødni
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2742,6 +2976,7 @@ QHSUH_1219_1_5:HELSEOGSV_UH_A; Uke 20-24.Når i graviditeten opplevde du blødni
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2752,6 +2987,7 @@ QHSUH_1219_1_6:HELSEOGSV_UH_A; Uke 25-29.Når i graviditeten opplevde du blødni
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -2761,6 +2997,7 @@ QHSUH_1219_1_7:HELSEOGSV_UH_A; Uke 30-34.Når i graviditeten opplevde du blødni
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2771,6 +3008,7 @@ QHSUH_1219_1_8:HELSEOGSV_UH_A; Uke 35-39.Når i graviditeten opplevde du blødni
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2780,6 +3018,7 @@ QHSUH_1219_1_9:HELSEOGSV_UH_A; Uke 40-43.Når i graviditeten opplevde du blødni
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2790,6 +3029,7 @@ QHSUH_13_1:HELSEOGSV_UH_A; Forhøyet blodtrykk.; 13. Har en lege fortalt deg at 
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2799,6 +3039,7 @@ QHSUH_13_2:HELSEOGSV_UH_A; Svangerskapsforgiftning (Preeklampsi).; 13. Har en le
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2809,6 +3050,7 @@ QHSUH_13_3:HELSEOGSV_UH_A; Svangerskapsdiabetes.; 13. Har en lege fortalt deg at
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 104 |
 
 
@@ -2819,6 +3061,7 @@ QHSUH_13_4:HELSEOGSV_UH_A; Nei, jeg har ingen av disse tilstandene.; 13. Har en 
 | Category | n |
 | -------- | - |
 | 1 | 101 |
+| Not NA | 101 |
 | NA | 8 |
 
 
@@ -2836,6 +3079,7 @@ QHSUH_14:HELSEOGSV_UH_A; ; 14. Det er vanlig å måle langtidsblodsukker (HbA1c)
 | 26 | 1 |
 | 33 | 2 |
 | 39 | 1 |
+| Not NA | 46 |
 | NA | 63 |
 
 
@@ -2849,6 +3093,7 @@ QHSUH_15_1:HELSEOGSV_UH_A; ; 15. Mange tar sukkerbelastningstest i svangerskapet
 | Ja | 18 |
 | Nei | 18 |
 | Vet ikke | 3 |
+| Not NA | 105 |
 | NA | 4 |
 
 
@@ -2860,6 +3105,7 @@ QHSUH_15_2:HELSEOGSV_UH_A; Hva var resultatet på testen?(Hvis ja); 15. Mange ta
 | -------- | - |
 | Svangerskapsdiabetes | 4 |
 | Ikke svangerskapsdiabetes | 14 |
+| Not NA | 18 |
 | NA | 91 |
 
 
@@ -2870,6 +3116,7 @@ QHSUH_30_1:HELSEOGSV_UH_A; Multivitamin.; 30. Tar du eller har du tatt noen av d
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 75 |
 
 
@@ -2880,6 +3127,7 @@ QHSUH_30_2:HELSEOGSV_UH_A; Multivitamin for gravide.; 30. Tar du eller har du ta
 | Category | n |
 | -------- | - |
 | 1 | 40 |
+| Not NA | 40 |
 | NA | 69 |
 
 
@@ -2890,6 +3138,7 @@ QHSUH_30_3:HELSEOGSV_UH_A; Folattilskudd (vitamin B9).; 30. Tar du eller har du 
 | Category | n |
 | -------- | - |
 | 1 | 71 |
+| Not NA | 71 |
 | NA | 38 |
 
 
@@ -2900,6 +3149,7 @@ QHSUH_30_4:HELSEOGSV_UH_A; Kreatin.; 30. Tar du eller har du tatt noen av de fø
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -2910,6 +3160,7 @@ QHSUH_30_5:HELSEOGSV_UH_A; Jern.; 30. Tar du eller har du tatt noen av de følge
 | Category | n |
 | -------- | - |
 | 1 | 56 |
+| Not NA | 56 |
 | NA | 53 |
 
 
@@ -2920,6 +3171,7 @@ QHSUH_30_6:HELSEOGSV_UH_A; Fiskeolje/tran.; 30. Tar du eller har du tatt noen av
 | Category | n |
 | -------- | - |
 | 1 | 39 |
+| Not NA | 39 |
 | NA | 70 |
 
 
@@ -2930,6 +3182,7 @@ QHSUH_30_7:HELSEOGSV_UH_A; Probiotika.; 30. Tar du eller har du tatt noen av de 
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -2939,6 +3192,7 @@ QHSUH_30_8:HELSEOGSV_UH_A; Loppefrøskall/Psyllium Husk.; 30. Tar du eller har d
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -2949,6 +3203,7 @@ QHSUH_30_9:HELSEOGSV_UH_A; Proteintilskudd (shake, pulver, bar mm.).; 30. Tar du
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -2959,6 +3214,7 @@ QHSUH_30_10:HELSEOGSV_UH_A; Annet.; 30. Tar du eller har du tatt noen av de føl
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 99 |
 
 
@@ -2969,6 +3225,7 @@ QHSUH_30_11:HELSEOGSV_UH_A; Vet ikke.; 30. Tar du eller har du tatt noen av de f
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -2979,6 +3236,7 @@ QHSUH_30_12:HELSEOGSV_UH_A; Nei,  ingen av disse.; 30. Tar du eller har du tatt 
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 104 |
 
 
@@ -2989,6 +3247,7 @@ QHSUH_30_1_1_1:HELSEOGSV_UH_A; Før graviditeten.Oppgi hvilke svangerskapsuker:N
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 91 |
 
 
@@ -2999,6 +3258,7 @@ QHSUH_30_1_1_2:HELSEOGSV_UH_A; Uke 0-4.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 88 |
 
 
@@ -3009,6 +3269,7 @@ QHSUH_30_1_1_3:HELSEOGSV_UH_A; Uke 5-9.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 86 |
 
 
@@ -3019,6 +3280,7 @@ QHSUH_30_1_1_4:HELSEOGSV_UH_A; Uke 10-14.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 89 |
 
 
@@ -3029,6 +3291,7 @@ QHSUH_30_1_1_5:HELSEOGSV_UH_A; Uke 15-19.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 16 |
+| Not NA | 16 |
 | NA | 93 |
 
 
@@ -3039,6 +3302,7 @@ QHSUH_30_1_1_6:HELSEOGSV_UH_A; Uke 20-24.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 96 |
 
 
@@ -3049,6 +3313,7 @@ QHSUH_30_1_1_7:HELSEOGSV_UH_A; Uke 25-29.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 101 |
 
 
@@ -3059,6 +3324,7 @@ QHSUH_30_1_1_8:HELSEOGSV_UH_A; Uke 30-34.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -3069,6 +3335,7 @@ QHSUH_30_1_1_9:HELSEOGSV_UH_A; Uke 35-39.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -3078,6 +3345,7 @@ QHSUH_30_1_1_10:HELSEOGSV_UH_A; Uke 40-43.Oppgi hvilke svangerskapsuker:Når i g
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3088,6 +3356,7 @@ QHSUH_30_2_1_1:HELSEOGSV_UH_A; Før graviditeten.Når i graviditeten har du tatt
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 96 |
 
 
@@ -3098,6 +3367,7 @@ QHSUH_30_2_1_2:HELSEOGSV_UH_A; Uke 0-4.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 87 |
 
 
@@ -3108,6 +3378,7 @@ QHSUH_30_2_1_3:HELSEOGSV_UH_A; Uke 5-9.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 27 |
+| Not NA | 27 |
 | NA | 82 |
 
 
@@ -3118,6 +3389,7 @@ QHSUH_30_2_1_4:HELSEOGSV_UH_A; Uke 10-14.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 28 |
+| Not NA | 28 |
 | NA | 81 |
 
 
@@ -3128,6 +3400,7 @@ QHSUH_30_2_1_5:HELSEOGSV_UH_A; Uke 15-19.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 21 |
+| Not NA | 21 |
 | NA | 88 |
 
 
@@ -3138,6 +3411,7 @@ QHSUH_30_2_1_6:HELSEOGSV_UH_A; Uke 20-24.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 91 |
 
 
@@ -3148,6 +3422,7 @@ QHSUH_30_2_1_7:HELSEOGSV_UH_A; Uke 25-29.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 14 |
+| Not NA | 14 |
 | NA | 95 |
 
 
@@ -3158,6 +3433,7 @@ QHSUH_30_2_1_8:HELSEOGSV_UH_A; Uke 30-34.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 99 |
 
 
@@ -3168,6 +3444,7 @@ QHSUH_30_2_1_9:HELSEOGSV_UH_A; Uke 35-39.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 101 |
 
 
@@ -3178,6 +3455,7 @@ QHSUH_30_2_1_10:HELSEOGSV_UH_A; Uke 40-43.Oppgi hvilke svangerskapsuker:Når i g
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -3188,6 +3466,7 @@ QHSUH_30_3_1_1:HELSEOGSV_UH_A; Før graviditeten.Oppgi hvilke svangerskapsuker:N
 | Category | n |
 | -------- | - |
 | 1 | 38 |
+| Not NA | 38 |
 | NA | 71 |
 
 
@@ -3198,6 +3477,7 @@ QHSUH_30_3_1_2:HELSEOGSV_UH_A; Uke 0-4.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 54 |
+| Not NA | 54 |
 | NA | 55 |
 
 
@@ -3208,6 +3488,7 @@ QHSUH_30_3_1_3:HELSEOGSV_UH_A; Uke 5-9.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 64 |
+| Not NA | 64 |
 | NA | 45 |
 
 
@@ -3218,6 +3499,7 @@ QHSUH_30_3_1_4:HELSEOGSV_UH_A; Uke 10-14.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 54 |
+| Not NA | 54 |
 | NA | 55 |
 
 
@@ -3228,6 +3510,7 @@ QHSUH_30_3_1_5:HELSEOGSV_UH_A; Uke 15-19.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 86 |
 
 
@@ -3238,6 +3521,7 @@ QHSUH_30_3_1_6:HELSEOGSV_UH_A; Uke 20-24.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 100 |
 
 
@@ -3248,6 +3532,7 @@ QHSUH_30_3_1_7:HELSEOGSV_UH_A; Uke 25-29.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -3258,6 +3543,7 @@ QHSUH_30_3_1_8:HELSEOGSV_UH_A; Uke 30-34.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -3268,6 +3554,7 @@ QHSUH_30_3_1_9:HELSEOGSV_UH_A; Uke 35-39.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -3277,6 +3564,7 @@ QHSUH_30_3_1_10:HELSEOGSV_UH_A; Uke 40-43.Oppgi hvilke svangerskapsuker:Når i g
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3287,6 +3575,7 @@ QHSUH_30_4_1_1:HELSEOGSV_UH_A; Før graviditeten.Oppgi hvilke svangerskapsuker:N
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -3297,6 +3586,7 @@ QHSUH_30_4_1_2:HELSEOGSV_UH_A; Uke 0-4.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -3307,6 +3597,7 @@ QHSUH_30_4_1_3:HELSEOGSV_UH_A; Uke 5-9.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -3316,6 +3607,7 @@ QHSUH_30_4_1_4:HELSEOGSV_UH_A; Uke 10-14.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3325,6 +3617,7 @@ QHSUH_30_4_1_5:HELSEOGSV_UH_A; Uke 15-19.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3334,6 +3627,7 @@ QHSUH_30_4_1_6:HELSEOGSV_UH_A; Uke 20-24.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3343,6 +3637,7 @@ QHSUH_30_4_1_7:HELSEOGSV_UH_A; Uke 25-29.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3352,6 +3647,7 @@ QHSUH_30_4_1_8:HELSEOGSV_UH_A; Uke 30-34.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3361,6 +3657,7 @@ QHSUH_30_4_1_9:HELSEOGSV_UH_A; Uke 35-39.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3370,6 +3667,7 @@ QHSUH_30_4_1_10:HELSEOGSV_UH_A; Uke 40-43.Oppgi hvilke svangerskapsuker:Når i g
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3380,6 +3678,7 @@ QHSUH_30_5_1_1:HELSEOGSV_UH_A; Før graviditeten.Oppgi hvilke svangerskapsuker:N
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 102 |
 
 
@@ -3390,6 +3689,7 @@ QHSUH_30_5_1_2:HELSEOGSV_UH_A; Uke 0-4.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 99 |
 
 
@@ -3400,6 +3700,7 @@ QHSUH_30_5_1_3:HELSEOGSV_UH_A; Uke 5-9.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 15 |
+| Not NA | 15 |
 | NA | 94 |
 
 
@@ -3410,6 +3711,7 @@ QHSUH_30_5_1_4:HELSEOGSV_UH_A; Uke 10-14.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 89 |
 
 
@@ -3420,6 +3722,7 @@ QHSUH_30_5_1_5:HELSEOGSV_UH_A; Uke 15-19.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 75 |
 
 
@@ -3430,6 +3733,7 @@ QHSUH_30_5_1_6:HELSEOGSV_UH_A; Uke 20-24.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 73 |
 
 
@@ -3440,6 +3744,7 @@ QHSUH_30_5_1_7:HELSEOGSV_UH_A; Uke 25-29.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 29 |
+| Not NA | 29 |
 | NA | 80 |
 
 
@@ -3450,6 +3755,7 @@ QHSUH_30_5_1_8:HELSEOGSV_UH_A; Uke 30-34.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 89 |
 
 
@@ -3460,6 +3766,7 @@ QHSUH_30_5_1_9:HELSEOGSV_UH_A; Uke 35-39.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 98 |
 
 
@@ -3470,6 +3777,7 @@ QHSUH_30_5_1_10:HELSEOGSV_UH_A; Uke 40-43.Oppgi hvilke svangerskapsuker:Når i g
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -3480,6 +3788,7 @@ QHSUH_30_6_1_1:HELSEOGSV_UH_A; Før graviditeten.Oppgi hvilke svangerskapsuker:N
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 89 |
 
 
@@ -3490,6 +3799,7 @@ QHSUH_30_6_1_2:HELSEOGSV_UH_A; Uke 0-4.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 20 |
+| Not NA | 20 |
 | NA | 89 |
 
 
@@ -3500,6 +3810,7 @@ QHSUH_30_6_1_3:HELSEOGSV_UH_A; Uke 5-9.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 87 |
 
 
@@ -3510,6 +3821,7 @@ QHSUH_30_6_1_4:HELSEOGSV_UH_A; Uke 10-14.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 87 |
 
 
@@ -3520,6 +3832,7 @@ QHSUH_30_6_1_5:HELSEOGSV_UH_A; Uke 15-19.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 90 |
 
 
@@ -3530,6 +3843,7 @@ QHSUH_30_6_1_6:HELSEOGSV_UH_A; Uke 20-24.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 96 |
 
 
@@ -3540,6 +3854,7 @@ QHSUH_30_6_1_7:HELSEOGSV_UH_A; Uke 25-29.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 102 |
 
 
@@ -3550,6 +3865,7 @@ QHSUH_30_6_1_8:HELSEOGSV_UH_A; Uke 30-34.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 104 |
 
 
@@ -3560,6 +3876,7 @@ QHSUH_30_6_1_9:HELSEOGSV_UH_A; Uke 35-39.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 105 |
 
 
@@ -3570,6 +3887,7 @@ QHSUH_30_6_1_10:HELSEOGSV_UH_A; Uke 40-43.Oppgi hvilke svangerskapsuker:Når i g
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -3580,6 +3898,7 @@ QHSUH_30_7_1_1:HELSEOGSV_UH_A; Før graviditeten.Oppgi hvilke svangerskapsuker:N
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -3590,6 +3909,7 @@ QHSUH_30_7_1_2:HELSEOGSV_UH_A; Uke 0-4.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -3600,6 +3920,7 @@ QHSUH_30_7_1_3:HELSEOGSV_UH_A; Uke 5-9.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -3610,6 +3931,7 @@ QHSUH_30_7_1_4:HELSEOGSV_UH_A; Uke 10-14.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -3619,6 +3941,7 @@ QHSUH_30_7_1_5:HELSEOGSV_UH_A; Uke 15-19.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3628,6 +3951,7 @@ QHSUH_30_7_1_6:HELSEOGSV_UH_A; Uke 20-24.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3637,6 +3961,7 @@ QHSUH_30_7_1_7:HELSEOGSV_UH_A; Uke 25-29.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3646,6 +3971,7 @@ QHSUH_30_7_1_8:HELSEOGSV_UH_A; Uke 30-34.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3655,6 +3981,7 @@ QHSUH_30_7_1_9:HELSEOGSV_UH_A; Uke 35-39.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3664,6 +3991,7 @@ QHSUH_30_7_1_10:HELSEOGSV_UH_A; Uke 40-43.Oppgi hvilke svangerskapsuker:Når i g
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3673,6 +4001,7 @@ QHSUH_30_8_1_1:HELSEOGSV_UH_A; Før graviditeten.Oppgi hvilke svangerskapsuker:N
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3682,6 +4011,7 @@ QHSUH_30_8_1_2:HELSEOGSV_UH_A; Uke 0-4.Oppgi hvilke svangerskapsuker:Når i grav
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3691,6 +4021,7 @@ QHSUH_30_8_1_3:HELSEOGSV_UH_A; Uke 5-9.Oppgi hvilke svangerskapsuker:Når i grav
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3700,6 +4031,7 @@ QHSUH_30_8_1_4:HELSEOGSV_UH_A; Uke 10-14.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3709,6 +4041,7 @@ QHSUH_30_8_1_5:HELSEOGSV_UH_A; Uke 15-19.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3718,6 +4051,7 @@ QHSUH_30_8_1_6:HELSEOGSV_UH_A; Uke 20-24.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3727,6 +4061,7 @@ QHSUH_30_8_1_7:HELSEOGSV_UH_A; Uke 25-29.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3736,6 +4071,7 @@ QHSUH_30_8_1_8:HELSEOGSV_UH_A; Uke 30-34.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3745,6 +4081,7 @@ QHSUH_30_8_1_9:HELSEOGSV_UH_A; Uke 35-39.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3754,6 +4091,7 @@ QHSUH_30_8_1_10:HELSEOGSV_UH_A; Uke 40-43.Oppgi hvilke svangerskapsuker:Når i g
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3764,6 +4102,7 @@ QHSUH_30_9_1_1:HELSEOGSV_UH_A; Før graviditeten.Oppgi hvilke svangerskapsuker:N
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -3774,6 +4113,7 @@ QHSUH_30_9_1_2:HELSEOGSV_UH_A; Uke 0-4.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -3784,6 +4124,7 @@ QHSUH_30_9_1_3:HELSEOGSV_UH_A; Uke 5-9.Oppgi hvilke svangerskapsuker:Når i grav
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -3794,6 +4135,7 @@ QHSUH_30_9_1_4:HELSEOGSV_UH_A; Uke 10-14.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -3804,6 +4146,7 @@ QHSUH_30_9_1_5:HELSEOGSV_UH_A; Uke 15-19.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -3814,6 +4157,7 @@ QHSUH_30_9_1_6:HELSEOGSV_UH_A; Uke 20-24.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 107 |
 
 
@@ -3824,6 +4168,7 @@ QHSUH_30_9_1_7:HELSEOGSV_UH_A; Uke 25-29.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -3834,6 +4179,7 @@ QHSUH_30_9_1_8:HELSEOGSV_UH_A; Uke 30-34.Oppgi hvilke svangerskapsuker:Når i gr
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -3843,6 +4189,7 @@ QHSUH_30_9_1_9:HELSEOGSV_UH_A; Uke 35-39.Oppgi hvilke svangerskapsuker:Når i gr
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3852,6 +4199,7 @@ QHSUH_30_9_1_10:HELSEOGSV_UH_A; Uke 40-43.Oppgi hvilke svangerskapsuker:Når i g
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3861,6 +4209,7 @@ QHSUH_31_1:HELSEOGSV_UH_A; Vegansk (ingen animalske produkter).; 31. Følger du 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3870,6 +4219,7 @@ QHSUH_31_2:HELSEOGSV_UH_A; Vegetarisk (ikke fisk eller kjøtt, men spiser animal
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3879,6 +4229,7 @@ QHSUH_31_3:HELSEOGSV_UH_A; Flexitar (noen ganger fisk og kjøtt).; 31. Følger d
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3889,6 +4240,7 @@ QHSUH_31_4:HELSEOGSV_UH_A; Delvis økologisk.; 31. Følger du en spesiell kostpr
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -3899,6 +4251,7 @@ QHSUH_31_5:HELSEOGSV_UH_A; For det meste økologisk.; 31. Følger du en spesiell
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -3909,6 +4262,7 @@ QHSUH_31_6:HELSEOGSV_UH_A; Pescetarianer (plantebasert kost med fisk og skalldyr
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 106 |
 
 
@@ -3918,6 +4272,7 @@ QHSUH_31_7:HELSEOGSV_UH_A; Kaloriredusert diett.; 31. Følger du en spesiell kos
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3928,6 +4283,7 @@ QHSUH_31_8:HELSEOGSV_UH_A; Lavkarbo diett.; 31. Følger du en spesiell kostprefe
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 108 |
 
 
@@ -3937,6 +4293,7 @@ QHSUH_31_9:HELSEOGSV_UH_A; Faste.; 31. Følger du en spesiell kostpreferanse ell
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 109 |
 
 
@@ -3947,6 +4304,7 @@ QHSUH_31_10:HELSEOGSV_UH_A; Jeg har ingen spesiell diett.; 31. Følger du en spe
 | Category | n |
 | -------- | - |
 | 1 | 97 |
+| Not NA | 97 |
 | NA | 12 |
 
 
@@ -3957,6 +4315,7 @@ QHSUH_31_11:HELSEOGSV_UH_A; Annen diett.; 31. Følger du en spesiell kostprefera
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 103 |
 
 
@@ -3980,6 +4339,7 @@ QHSUH_32:HELSEOGSV_UH_A; Ett glass er ca. 2,5 dl. Angi antall glass per dag:; 32
 | 20 | 2 |
 | 50 | 2 |
 | 15 | 1 |
+| Not NA | 102 |
 | NA | 7 |
 
 
@@ -3996,6 +4356,7 @@ AGE_YRS_HS; HELSEOGSVG_A BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0
 | 21 | 20 |
 | 23 | 17 |
 | 25 | 4 |
+| Not NA | 109 |
 | NA | 0 |
 
 

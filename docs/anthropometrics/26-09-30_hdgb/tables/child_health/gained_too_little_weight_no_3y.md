@@ -1,0 +1,16 @@
+# gained_too_little_weight_no_3y
+Variable mapping to `GG53` in `Skjema6_3aar_v12`.
+- Number of values:
+
+| Value | Total | Child genotyped | Mother genotyped | Father genotyped |
+| ----- | ----- | --------------- | ---------------- | ---------------- |
+| Missing | 38345 | 38345 | 36056 | 23795 |
+| Non-missing | 42461 | 42461 | 39968 | 29368 |
+| 1 | 42461 | 42461 | 39968 | 29368 |
+
+
+
+![](gained_too_little_weight_no_3y_n.png)
+
+
+

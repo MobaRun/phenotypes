@@ -41,6 +41,7 @@
 | 1 | 34132 |
 | 2 | 560 |
 | 3 | 5 |
+| Not NA | 34697 |
 | NA | 0 |
 
 
@@ -51,6 +52,7 @@
 | -------- | - |
 | FAR2 | 29127 |
 | FAR2XTRA | 5570 |
+| Not NA | 34697 |
 | NA | 0 |
 
 
@@ -66,6 +68,7 @@ G_77_1:FAR2; Barnet mitt og jeg har et kjærlig og varmt forhold; 77. Hvordan op
 | Stemmer ikke helt | 335 |
 | Stemmer absolutt ikke | 50 |
 | 0 | 6 |
+| Not NA | 34088 |
 | NA | 609 |
 
 
@@ -81,6 +84,7 @@ G_77_2:FAR2; Det virker som om barnet mitt og jeg alltid kjemper mot hverandre; 
 | Stemmer ganske bra | 930 |
 | Stemmer veldig bra | 133 |
 | 0 | 20 |
+| Not NA | 34043 |
 | NA | 654 |
 
 
@@ -96,6 +100,7 @@ G_77_3:FAR2; Hvis barnet mitt blir opprørt, søker det trøst hos meg; 77. Hvor
 | Stemmer veldig bra | 8596 |
 | Stemmer absolutt ikke | 256 |
 | 0 | 21 |
+| Not NA | 34049 |
 | NA | 648 |
 
 
@@ -111,6 +116,7 @@ G_77_4:FAR2; Barnet mitt er utilpass med kjærtegn eller berøring fra meg; 77. 
 | 0 | 80 |
 | Stemmer ganske bra | 512 |
 | Stemmer veldig bra | 278 |
+| Not NA | 34026 |
 | NA | 671 |
 
 
@@ -126,6 +132,7 @@ G_77_5:FAR2; Barnet mitt setter pris på forholdet vårt; 77. Hvordan opplever d
 | Stemmer ikke helt | 104 |
 | Stemmer absolutt ikke | 174 |
 | 0 | 9 |
+| Not NA | 34083 |
 | NA | 614 |
 
 
@@ -141,6 +148,7 @@ G_77_6:FAR2; Når jeg roser barnet mitt, blir han/hun tydelig stolt; 77. Hvordan
 | Stemmer ikke helt | 226 |
 | Stemmer absolutt ikke | 116 |
 | 0 | 16 |
+| Not NA | 34067 |
 | NA | 630 |
 
 
@@ -156,6 +164,7 @@ G_77_7:FAR2; Barnet mitt forteller meg spontant ting om seg selv; 77. Hvordan op
 | Stemmer veldig bra | 12425 |
 | Stemmer absolutt ikke | 291 |
 | 0 | 22 |
+| Not NA | 34039 |
 | NA | 658 |
 
 
@@ -171,6 +180,7 @@ G_77_8:FAR2; Barnet mitt blir lett sint på meg; 77. Hvordan opplever du forhold
 | Nøytral, ikke sikker | 4413 |
 | Stemmer veldig bra | 1114 |
 | 0 | 36 |
+| Not NA | 33953 |
 | NA | 744 |
 
 
@@ -186,6 +196,7 @@ G_77_9:FAR2; Det er lett å forstå hva barnet mitt føler; 77. Hvordan opplever
 | Stemmer ikke helt | 3287 |
 | Stemmer absolutt ikke | 279 |
 | 0 | 18 |
+| Not NA | 34036 |
 | NA | 661 |
 
 
@@ -201,6 +212,7 @@ G_7710:FAR2; Barnet mitt fortsetter å stå på sitt etter å ha blitt irettesat
 | Nøytral, ikke sikker | 4975 |
 | Stemmer absolutt ikke | 4111 |
 | 0 | 19 |
+| Not NA | 33999 |
 | NA | 698 |
 
 
@@ -216,6 +228,7 @@ G_7711:FAR2; Det å oppdra barnet mitt tapper meg for energi; 77. Hvordan opplev
 | Stemmer veldig bra | 403 |
 | Nøytral, ikke sikker | 3337 |
 | 0 | 8 |
+| Not NA | 34039 |
 | NA | 658 |
 
 
@@ -231,6 +244,7 @@ G_7712:FAR2; Når barnet mitt er i dårlig humør, vet jeg at vi vil få en lang
 | Nøytral, ikke sikker | 2819 |
 | Stemmer ganske bra | 2465 |
 | 0 | 11 |
+| Not NA | 34042 |
 | NA | 655 |
 
 
@@ -246,6 +260,7 @@ G_7713:FAR2; Mitt barns følelser overfor meg kan være uforutsigbare eller skif
 | Stemmer ganske bra | 2872 |
 | Nøytral, ikke sikker | 2714 |
 | 0 | 35 |
+| Not NA | 34027 |
 | NA | 670 |
 
 
@@ -261,6 +276,7 @@ G_7714:FAR2; Barnet mitt deler sine følelser og opplevelser åpent med meg; 77.
 | Stemmer ikke helt | 3011 |
 | Stemmer absolutt ikke | 305 |
 | 0 | 11 |
+| Not NA | 34051 |
 | NA | 646 |
 
 
@@ -276,6 +292,7 @@ G_7715:FAR2; Jeg har nok tid til å være sammen med barnet mitt; 77. Hvordan op
 | Nøytral, ikke sikker | 4495 |
 | Stemmer absolutt ikke | 720 |
 | 0 | 21 |
+| Not NA | 34067 |
 | NA | 630 |
 
 
@@ -291,6 +308,7 @@ G_78_1:FAR2; Spiser middag sammen med barnet; 78. I gjennomsnitt, omtrent hvor o
 | 1-3 ganger per måned | 437 |
 | 0 | 19 |
 | Sjeldnere enn månedlig | 154 |
+| Not NA | 34571 |
 | NA | 126 |
 
 
@@ -306,6 +324,7 @@ G_78_2:FAR2; Har nære samtaler med barnet; 78. I gjennomsnitt, omtrent hvor oft
 | 3-4 ganger per uke | 10270 |
 | Sjeldnere enn månedlig | 805 |
 | 0 | 14 |
+| Not NA | 34367 |
 | NA | 330 |
 
 
@@ -321,6 +340,7 @@ G_78_3:FAR2; Er tilgjengelig for barnet på kveldstid; 78. I gjennomsnitt, omtre
 | 1-3 ganger per måned | 390 |
 | Sjeldnere enn månedlig | 125 |
 | 0 | 33 |
+| Not NA | 34443 |
 | NA | 254 |
 
 
@@ -336,6 +356,7 @@ G_78_4:FAR2; Ser på TV eller slapper av sammen med barnet; 78. I gjennomsnitt, 
 | 1-3 ganger per måned | 1431 |
 | Sjeldnere enn månedlig | 258 |
 | 0 | 35 |
+| Not NA | 34414 |
 | NA | 283 |
 
 
@@ -351,6 +372,7 @@ G_78_5:FAR2; Driver med sport, går tur, eller andre uteaktiviteter sammen med b
 | 5 ganger per uke eller mer | 1505 |
 | Sjeldnere enn månedlig | 1033 |
 | 0 | 39 |
+| Not NA | 34534 |
 | NA | 163 |
 
 
@@ -366,6 +388,7 @@ G_78_6:FAR2; Finner på andre aktiviteter sammen (f.eks. høytlesning, matlaging
 | 1-3 ganger per måned | 7207 |
 | Sjeldnere enn månedlig | 855 |
 | 0 | 29 |
+| Not NA | 34536 |
 | NA | 161 |
 
 
@@ -381,6 +404,7 @@ G_79_1:FAR2; ... har ubehagelige samtaler?; 79. Hvor ofte vil du si at du og bar
 | Månedlig | 5583 |
 | Daglig/nesten daglig | 196 |
 | 0 | 18 |
+| Not NA | 34535 |
 | NA | 162 |
 
 
@@ -396,6 +420,7 @@ G_79_2:FAR2; ... krangler?; 79. Hvor ofte vil du si at du og barnet ditt ...
 | Aldri | 5521 |
 | Daglig/nesten daglig | 681 |
 | 0 | 23 |
+| Not NA | 34546 |
 | NA | 151 |
 
 
@@ -411,6 +436,7 @@ G_79_3:FAR2; ... er sinte på hverandre?; 79. Hvor ofte vil du si at du og barne
 | Aldri | 5434 |
 | Daglig/nesten daglig | 449 |
 | 0 | 28 |
+| Not NA | 34538 |
 | NA | 159 |
 
 
@@ -427,6 +453,7 @@ G_80:FAR2; Barnet bor med meg ... dager i måneden; 80. Hvor mye bor barnet samm
 | 3rd Qu. | 15 |
 | Max. | 32 |
 | NA's | 30127 |
+| Not NA | 4570 |
 
 
 ### ALDERUTFYLT
@@ -442,6 +469,7 @@ ALDERUTFYLT:FAR2; Barns alder ved utfylling av skjema; 0. Oppgi dag, måned og �
 | 3rd Qu. | 4278 |
 | Max. | 16502 |
 | NA's | 1779 |
+| Not NA | 32918 |
 
 
 ### ALDERUTSENDT
@@ -457,6 +485,7 @@ ALDERUTSENDT:FAR2; Barns alder ved utsending av skjema; 0. Oppgi dag, måned og 
 | 3rd Qu. | 4259 |
 | Max. | 5582 |
 | NA's | 1 |
+| Not NA | 34696 |
 
 
 ### ALDERRETUR
@@ -472,6 +501,7 @@ ALDERRETUR:FAR2; Barns alder ved retur av skjema; 0. Oppgi dag, måned og år fo
 | 3rd Qu. | 4299 |
 | Max. | 5941 |
 | NA's | 1 |
+| Not NA | 34696 |
 
 
 ### QFAR2P11
@@ -487,6 +517,7 @@ QFAR2P11:FAR2; Antal besvart spørsmål side 11; .
 | 3rd Qu. | 20 |
 | Max. | 22 |
 | NA's | 1 |
+| Not NA | 34696 |
 
 
 ### QFAR2P12
@@ -507,6 +538,7 @@ QFAR2P12:FAR2; Antal besvart spørsmål side 12; .
 | 4 | 10 |
 | 1 | 10 |
 | 2 | 7 |
+| Not NA | 34696 |
 | NA | 1 |
 
 

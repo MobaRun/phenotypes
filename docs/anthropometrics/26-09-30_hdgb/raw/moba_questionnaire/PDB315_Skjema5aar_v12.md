@@ -574,6 +574,7 @@
 | 1 | 40974 |
 | 2 | 556 |
 | 3 | 5 |
+| Not NA | 41535 |
 | NA | 0 |
 
 
@@ -584,6 +585,7 @@
 | -------- | - |
 | SKJEMA_5AARB | 26721 |
 | SKJEMA_5AAR | 14814 |
+| Not NA | 41535 |
 | NA | 0 |
 
 
@@ -612,6 +614,7 @@ W__0_3:SKJEMA_5AARB; (W__0_3:SKJEMA_5AAR); year; 0. Date on which the questionna
 | 2003 | 2 |
 | 2021 | 1 |
 | 2018 | 1 |
+| Not NA | 40744 |
 | NA | 791 |
 
 
@@ -628,6 +631,7 @@ W__1_1:SKJEMA_5AARB; (W__1_1:SKJEMA_5AAR); Height (cm); 1. Childs height and wei
 | 3rd Qu. | 116 |
 | Max. | 220 |
 | NA's | 2109 |
+| Not NA | 39426 |
 
 
 ### LL13
@@ -643,6 +647,7 @@ W__1_2:SKJEMA_5AARB; (W__1_2:SKJEMA_5AAR); Weight (kg); 1. Childs height and wei
 | 3rd Qu. | 21.5 |
 | Max. | 99 |
 | NA's | 2578 |
+| Not NA | 38957 |
 
 
 ### LL16
@@ -652,6 +657,7 @@ W__2_1:SKJEMA_5AAR; Spouse/ cohabitant; 2. Who do you live with?
 | Category | n |
 | -------- | - |
 | 1 | 13693 |
+| Not NA | 13693 |
 | NA | 27842 |
 
 
@@ -662,6 +668,7 @@ W__2_2:SKJEMA_5AAR; Your parents; 2. Who do you live with?
 | Category | n |
 | -------- | - |
 | 1 | 91 |
+| Not NA | 91 |
 | NA | 41444 |
 
 
@@ -672,6 +679,7 @@ W__2_3:SKJEMA_5AAR; Your parents in law; 2. Who do you live with?
 | Category | n |
 | -------- | - |
 | 1 | 25 |
+| Not NA | 25 |
 | NA | 41510 |
 
 
@@ -682,6 +690,7 @@ W__2_4:SKJEMA_5AAR; Children; 2. Who do you live with?
 | Category | n |
 | -------- | - |
 | 1 | 8092 |
+| Not NA | 8092 |
 | NA | 33443 |
 
 
@@ -692,6 +701,7 @@ W__2_5:SKJEMA_5AAR; None; 2. Who do you live with?
 | Category | n |
 | -------- | - |
 | 1 | 143 |
+| Not NA | 143 |
 | NA | 41392 |
 
 
@@ -712,6 +722,7 @@ W__3_1:SKJEMA_5AAR; Number of children more than 9 years; 3. If children lives w
 | 13 | 1 |
 | 12 | 1 |
 | 6 | 2 |
+| Not NA | 6206 |
 | NA | 35329 |
 
 
@@ -728,6 +739,7 @@ W__3_2:SKJEMA_5AAR; Number of children aged 5 to 9 years; 3. If children lives w
 | 0 | 198 |
 | 5 | 4 |
 | 7 | 1 |
+| Not NA | 12432 |
 | NA | 29103 |
 
 
@@ -746,6 +758,7 @@ W__3_2:SKJEMA_5AARB; (W__3_3:SKJEMA_5AAR); Number of children aged 3 to 4 years;
 | 18 | 1 |
 | 4 | 2 |
 | 12 | 2 |
+| Not NA | 13566 |
 | NA | 27969 |
 
 
@@ -763,6 +776,7 @@ W__3_3:SKJEMA_5AARB; (W__3_4:SKJEMA_5AAR); Number of children less than 3 years;
 | 4 | 3 |
 | 99 | 1 |
 | 18 | 1 |
+| Not NA | 20568 |
 | NA | 20967 |
 
 
@@ -776,6 +790,7 @@ W__4_1:SKJEMA_5AARB; (W__4_1:SKJEMA_5AAR); ; 4. Do you live with the childs fath
 | No | 3105 |
 | Has never lived with the childs father | 443 |
 | More than 1 check box filled in | 6 |
+| Not NA | 41296 |
 | NA | 239 |
 
 
@@ -792,6 +807,7 @@ W__4_2:SKJEMA_5AARB; (W__4_2:SKJEMA_5AAR); If no, how old was the child whan you
 | 3rd Qu. | 4 |
 | Max. | 30 |
 | NA's | 38514 |
+| Not NA | 3021 |
 
 
 ### LL447
@@ -801,6 +817,7 @@ W__2_1:SKJEMA_5AARB; Spouse; 2. Who do you live with?
 | Category | n |
 | -------- | - |
 | 1 | 17397 |
+| Not NA | 17397 |
 | NA | 24138 |
 
 
@@ -811,6 +828,7 @@ W__2_2:SKJEMA_5AARB; Cohabitant; 2. Who do you live with?
 | Category | n |
 | -------- | - |
 | 1 | 7283 |
+| Not NA | 7283 |
 | NA | 34252 |
 
 
@@ -821,6 +839,7 @@ W__2_3:SKJEMA_5AARB; Other adults; 2. Who do you live with?
 | Category | n |
 | -------- | - |
 | 1 | 227 |
+| Not NA | 227 |
 | NA | 41308 |
 
 
@@ -831,6 +850,7 @@ W__2_4:SKJEMA_5AARB; Children of others; 2. Who do you live with?
 | Category | n |
 | -------- | - |
 | 1 | 554 |
+| Not NA | 554 |
 | NA | 40981 |
 
 
@@ -841,6 +861,7 @@ W__2_5:SKJEMA_5AARB; None; 2. Who do you live with?
 | Category | n |
 | -------- | - |
 | 1 | 1529 |
+| Not NA | 1529 |
 | NA | 40006 |
 
 
@@ -863,6 +884,7 @@ W__3_1:SKJEMA_5AARB; Number of children 5 years old or older; 3. If children liv
 | 99 | 1 |
 | 9 | 3 |
 | 14 | 1 |
+| Not NA | 24780 |
 | NA | 16755 |
 
 
@@ -873,6 +895,7 @@ W__6_1:SKJEMA_5AAR; At home with mother/ father/ other family; 6. What childcare
 | Category | n |
 | -------- | - |
 | 1 | 1186 |
+| Not NA | 1186 |
 | NA | 40349 |
 
 
@@ -883,6 +906,7 @@ W__6_2:SKJEMA_5AAR; At child minders/ family creche/ outdoor nursery; 6. What ch
 | Category | n |
 | -------- | - |
 | 1 | 28 |
+| Not NA | 28 |
 | NA | 41507 |
 
 
@@ -893,6 +917,7 @@ W__6_3:SKJEMA_5AAR; Family kindergarten; 6. What childcare arrangement does your
 | Category | n |
 | -------- | - |
 | 1 | 140 |
+| Not NA | 140 |
 | NA | 41395 |
 
 
@@ -903,6 +928,7 @@ W__6_4:SKJEMA_5AAR; Private kindergarten; 6. What childcare arrangement does you
 | Category | n |
 | -------- | - |
 | 1 | 6594 |
+| Not NA | 6594 |
 | NA | 34941 |
 
 
@@ -913,6 +939,7 @@ W__6_5:SKJEMA_5AAR; Public Kindergarten; 6. What childcare arrangement does your
 | Category | n |
 | -------- | - |
 | 1 | 7797 |
+| Not NA | 7797 |
 | NA | 33738 |
 
 
@@ -923,6 +950,7 @@ W__6_6_1:SKJEMA_5AAR; Other, specify; 6. What childcare arrangement does your ch
 | Category | n |
 | -------- | - |
 | 1 | 195 |
+| Not NA | 195 |
 | NA | 41340 |
 
 
@@ -933,6 +961,7 @@ W__5_1_1:SKJEMA_5AARB; Nanny/ au pair/ outdoor nursery; 5. What childcare arrang
 | Category | n |
 | -------- | - |
 | 1 | 68 |
+| Not NA | 68 |
 | NA | 41467 |
 
 
@@ -949,6 +978,7 @@ W__5_1_2:SKJEMA_5AARB; Nanny/ au pair/ outdoor nursery; Hours per week; 5. What 
 | 3rd Qu. | 15 |
 | Max. | 41 |
 | NA's | 41353 |
+| Not NA | 182 |
 
 
 ### LL455
@@ -958,6 +988,7 @@ W__5_2_1:SKJEMA_5AARB; Family kindergarten; 5. What childcare arrangement does y
 | Category | n |
 | -------- | - |
 | 1 | 161 |
+| Not NA | 161 |
 | NA | 41374 |
 
 
@@ -974,6 +1005,7 @@ W__5_2_2:SKJEMA_5AARB; Family kindergarten; Hours per week; 5. What childcare ar
 | 3rd Qu. | 40 |
 | Max. | 50 |
 | NA's | 41245 |
+| Not NA | 290 |
 
 
 ### LL457
@@ -983,6 +1015,7 @@ W__5_3_1:SKJEMA_5AARB; Private kindergarten; 5. What childcare arrangement does 
 | Category | n |
 | -------- | - |
 | 1 | 8760 |
+| Not NA | 8760 |
 | NA | 32775 |
 
 
@@ -999,6 +1032,7 @@ W__5_3_2:SKJEMA_5AARB; Private kindergarten; Hours per week; 5. What childcare a
 | 3rd Qu. | 40 |
 | Max. | 99 |
 | NA's | 29810 |
+| Not NA | 11725 |
 
 
 ### LL459
@@ -1008,6 +1042,7 @@ W__5_4_1:SKJEMA_5AARB; Public kindergarten; 5. What childcare arrangement does y
 | Category | n |
 | -------- | - |
 | 1 | 9399 |
+| Not NA | 9399 |
 | NA | 32136 |
 
 
@@ -1024,6 +1059,7 @@ W__5_4_2:SKJEMA_5AARB; Public kindergarten; Hours per week; 5. What childcare ar
 | 3rd Qu. | 40 |
 | Max. | 99 |
 | NA's | 28257 |
+| Not NA | 13278 |
 
 
 ### LL461
@@ -1033,6 +1069,7 @@ W__5_5_1:SKJEMA_5AARB; Family members other than mother/father; 5. What childcar
 | Category | n |
 | -------- | - |
 | 1 | 276 |
+| Not NA | 276 |
 | NA | 41259 |
 
 
@@ -1049,6 +1086,7 @@ W__5_5_2:SKJEMA_5AARB; Family members other than mother/father; Hours per week; 
 | 3rd Qu. | 8 |
 | Max. | 44 |
 | NA's | 41034 |
+| Not NA | 501 |
 
 
 ### LL37
@@ -1064,6 +1102,7 @@ W__7:SKJEMA_5AAR; hours; 7. How many hours per week do other than mother or fath
 | 3rd Qu. | 39 |
 | Max. | 83 |
 | NA's | 26901 |
+| Not NA | 14634 |
 
 
 ### LL38
@@ -1079,6 +1118,7 @@ W__7:SKJEMA_5AARB; (W__8:SKJEMA_5AAR); adults; 7. How many adults are in care ar
 | 3rd Qu. | 4 |
 | Max. | 40 |
 | NA's | 6527 |
+| Not NA | 35008 |
 
 
 ### LL39
@@ -1094,6 +1134,7 @@ W__8:SKJEMA_5AARB; (W__9:SKJEMA_5AAR); children; 8. How many other children are 
 | 3rd Qu. | 20 |
 | Max. | 99 |
 | NA's | 2062 |
+| Not NA | 39473 |
 
 
 ### LL40
@@ -1109,6 +1150,7 @@ W_10:SKJEMA_5AARB; (W_10:SKJEMA_5AAR); months; 10. How old was the child at the 
 | 3rd Qu. | 30 |
 | Max. | 99 |
 | NA's | 643 |
+| Not NA | 40892 |
 
 
 ### LL41
@@ -1126,6 +1168,7 @@ W__9:SKJEMA_5AARB; (W_11:SKJEMA_5AAR); times; 9. How many times has the child ch
 | 7 | 9 |
 | 6 | 9 |
 | 9 | 1 |
+| Not NA | 40729 |
 | NA | 806 |
 
 
@@ -1137,6 +1180,7 @@ W_11_1:SKJEMA_5AARB; (W_12_1:SKJEMA_5AAR); ; 11. Does your child receive any ext
 | -------- | - |
 | No | 39133 |
 | Yes | 2077 |
+| Not NA | 41210 |
 | NA | 325 |
 
 
@@ -1153,6 +1197,7 @@ W_11_2:SKJEMA_5AARB; (W_12_2:SKJEMA_5AAR); Number of hours per week; 11. Does yo
 | 3rd Qu. | 10 |
 | Max. | 99 |
 | NA's | 39647 |
+| Not NA | 1888 |
 
 
 ### LL463
@@ -1164,6 +1209,7 @@ W__6:SKJEMA_5AARB; ; 6. If your child is attending kindergarten, is it organized
 | Base-kindergarten | 3528 |
 | Unit-kindergarten | 22271 |
 | More than 1 check box filled in | 30 |
+| Not NA | 25829 |
 | NA | 15706 |
 
 
@@ -1179,6 +1225,7 @@ W_12:SKJEMA_5AARB; (W_13:SKJEMA_5AAR); ; 12. Does your child enjoy being in the 
 | Both likes and dislikes | 1544 |
 | Little | 37 |
 | More than 1 check box filled in | 39 |
+| Not NA | 41249 |
 | NA | 286 |
 
 
@@ -1194,6 +1241,7 @@ W_13_1:SKJEMA_5AARB; (W_14_1:SKJEMA_5AAR); Types of activities done in the kinde
 | More dissatisfied than satisfied | 445 |
 | Not satisfied at all | 190 |
 | More than 1 check box filled in | 4 |
+| Not NA | 39961 |
 | NA | 1574 |
 
 
@@ -1209,6 +1257,7 @@ W_13_2:SKJEMA_5AARB; (W_14_2:SKJEMA_5AAR); The way the kindergarten prepare acti
 | More dissatisfied than satisfied | 859 |
 | Not satisfied at all | 257 |
 | More than 1 check box filled in | 10 |
+| Not NA | 39408 |
 | NA | 2127 |
 
 
@@ -1224,6 +1273,7 @@ W_13_3:SKJEMA_5AARB; (W_14_3:SKJEMA_5AAR); The education of the kindergarten sta
 | More dissatisfied than satisfied | 643 |
 | Not satisfied at all | 213 |
 | More than 1 check box filled in | 7 |
+| Not NA | 39900 |
 | NA | 1635 |
 
 
@@ -1239,6 +1289,7 @@ W_13_4:SKJEMA_5AARB; (W_14_4:SKJEMA_5AAR); The food provided by the kindergarten
 | More dissatisfied than satisfied | 2098 |
 | Not satisfied at all | 626 |
 | More than 1 check box filled in | 14 |
+| Not NA | 39844 |
 | NA | 1691 |
 
 
@@ -1254,6 +1305,7 @@ W_13_5:SKJEMA_5AARB; (W_14_5:SKJEMA_5AAR); How the kindergarten provide informat
 | More than 1 check box filled in | 13 |
 | More dissatisfied than satisfied | 1373 |
 | Not satisfied at all | 372 |
+| Not NA | 39923 |
 | NA | 1612 |
 
 
@@ -1266,6 +1318,7 @@ W_14:SKJEMA_5AARB; (W_15:SKJEMA_5AAR); ; 14. Does your child has TV in his/her o
 | No | 38300 |
 | Yes | 2861 |
 | More than 1 check box filled in | 3 |
+| Not NA | 41164 |
 | NA | 371 |
 
 
@@ -1281,6 +1334,7 @@ W_15_1:SKJEMA_5AARB; (W_16_1:SKJEMA_5AAR); on a typical weekday; 15. How many ho
 | Never | 404 |
 | 5 hours or more | 32 |
 | More than 1 check box filled in | 10 |
+| Not NA | 41344 |
 | NA | 191 |
 
 
@@ -1296,6 +1350,7 @@ W_15_2:SKJEMA_5AARB; (W_16_2:SKJEMA_5AAR); On a typical day in the weekend; 15. 
 | Never | 115 |
 | 5 hours or more | 228 |
 | More than 1 check box filled in | 7 |
+| Not NA | 40818 |
 | NA | 717 |
 
 
@@ -1311,6 +1366,7 @@ W_16_1:SKJEMA_5AARB; (W_17_1:SKJEMA_5AAR); PC/ computer at home?; 16. How often 
 | 1 day a week | 10335 |
 | 4-6 days a week | 3195 |
 | More than 1 check box filled in | 12 |
+| Not NA | 41226 |
 | NA | 309 |
 
 
@@ -1326,6 +1382,7 @@ W_16_2:SKJEMA_5AARB; (W_17_2:SKJEMA_5AAR); TV-games/ handheld electronic games (
 | 2-3 days a week | 8078 |
 | Every day | 1814 |
 | More than 1 check box filled in | 14 |
+| Not NA | 41165 |
 | NA | 370 |
 
 
@@ -1341,6 +1398,7 @@ W_16_3:SKJEMA_5AARB; (W_17_3:SKJEMA_5AAR); PC-/TV-games where the purpose is ped
 | Every day | 573 |
 | 4-6 days a week | 1422 |
 | More than 1 check box filled in | 15 |
+| Not NA | 40787 |
 | NA | 748 |
 
 
@@ -1356,6 +1414,7 @@ W_16_4:SKJEMA_5AARB; (W_17_4:SKJEMA_5AAR); Reading books as activity and enterta
 | 4-6 days a week | 11459 |
 | Never or rarely | 768 |
 | More than 1 check box filled in | 27 |
+| Not NA | 41295 |
 | NA | 240 |
 
 
@@ -1371,6 +1430,7 @@ W_16_5:SKJEMA_5AARB; (W_17_5:SKJEMA_5AAR); Drawing/painting as activity and ente
 | Every day | 10723 |
 | Never or rarely | 1575 |
 | More than 1 check box filled in | 5 |
+| Not NA | 41314 |
 | NA | 221 |
 
 
@@ -1383,6 +1443,7 @@ W_17_1_1:SKJEMA_5AARB; (W_18_1_1:SKJEMA_5AAR); Asthma; No/Yes; 17. Has your chil
 | No | 36475 |
 | Yes | 4842 |
 | More than 1 check box filled in | 3 |
+| Not NA | 41320 |
 | NA | 215 |
 
 
@@ -1395,6 +1456,7 @@ W_17_1_2:SKJEMA_5AARB; Asthma; If yes, Did the disorder/illness get diagnosed be
 | Yes | 2994 |
 | No | 95 |
 | More than 1 check box filled in | 2 |
+| Not NA | 3091 |
 | NA | 38444 |
 
 
@@ -1407,6 +1469,7 @@ W_17_1_3:SKJEMA_5AARB; (W_18_1_3:SKJEMA_5AAR); Asthma; If yes, Does the child st
 | No | 2380 |
 | Yes | 2349 |
 | More than 1 check box filled in | 9 |
+| Not NA | 4738 |
 | NA | 36797 |
 
 
@@ -1419,6 +1482,7 @@ W_17_2_1:SKJEMA_5AARB; (W_18_2_1:SKJEMA_5AAR); Pollenallergy/heyfever; No/Yes; 1
 | No | 38659 |
 | Yes | 2592 |
 | More than 1 check box filled in | 5 |
+| Not NA | 41256 |
 | NA | 279 |
 
 
@@ -1431,6 +1495,7 @@ W_17_2_2:SKJEMA_5AARB; Pollenallergy/heyfever; If yes, Did the disorder/illness 
 | Yes | 1295 |
 | No | 318 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1615 |
 | NA | 39920 |
 
 
@@ -1443,6 +1508,7 @@ W_17_2_3:SKJEMA_5AARB; (W_18_2_3:SKJEMA_5AAR); Pollenallergy/heyfever; If yes, D
 | No | 300 |
 | Yes | 2022 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2323 |
 | NA | 39212 |
 
 
@@ -1455,6 +1521,7 @@ W_17_3_1:SKJEMA_5AARB; (W_18_3_1:SKJEMA_5AAR); Obstructed/ wheesing in chest; No
 | No | 36579 |
 | Yes | 4577 |
 | More than 1 check box filled in | 2 |
+| Not NA | 41158 |
 | NA | 377 |
 
 
@@ -1466,6 +1533,7 @@ W_17_3_2:SKJEMA_5AARB; Obstructed/ wheesing in chest; If yes, Did the disorder/i
 | -------- | - |
 | Yes | 2687 |
 | No | 369 |
+| Not NA | 3056 |
 | NA | 38479 |
 
 
@@ -1478,6 +1546,7 @@ W_17_3_3:SKJEMA_5AARB; (W_18_3_3:SKJEMA_5AAR); Obstructed/ wheesing in chest; If
 | Yes | 1119 |
 | No | 3043 |
 | More than 1 check box filled in | 7 |
+| Not NA | 4169 |
 | NA | 37366 |
 
 
@@ -1489,6 +1558,7 @@ W_17_4_1:SKJEMA_5AARB; (W_18_4_1:SKJEMA_5AAR); Epilepsy; No/Yes; 17. Has your ch
 | -------- | - |
 | No | 41117 |
 | Yes | 148 |
+| Not NA | 41265 |
 | NA | 270 |
 
 
@@ -1500,6 +1570,7 @@ W_17_4_2:SKJEMA_5AARB; Epilepsy; If yes, Did the disorder/illness get diagnosed 
 | -------- | - |
 | No | 47 |
 | Yes | 82 |
+| Not NA | 129 |
 | NA | 41406 |
 
 
@@ -1511,6 +1582,7 @@ W_17_4_3:SKJEMA_5AARB; (W_18_4_3:SKJEMA_5AAR); Epilepsy; If yes, Does the child 
 | -------- | - |
 | No | 87 |
 | Yes | 86 |
+| Not NA | 173 |
 | NA | 41362 |
 
 
@@ -1522,6 +1594,7 @@ W_17_5_1:SKJEMA_5AARB; (W_18_5_1:SKJEMA_5AAR); Cerebral Palsy; No/Yes; 17. Has y
 | -------- | - |
 | No | 41190 |
 | Yes | 77 |
+| Not NA | 41267 |
 | NA | 268 |
 
 
@@ -1533,6 +1606,7 @@ W_17_5_2:SKJEMA_5AARB; Cerebral Palsy; If yes, Did the disorder/illness get diag
 | -------- | - |
 | No | 37 |
 | Yes | 47 |
+| Not NA | 84 |
 | NA | 41451 |
 
 
@@ -1544,6 +1618,7 @@ W_17_5_3:SKJEMA_5AARB; (W_18_5_3:SKJEMA_5AAR); Cerebral Palsy; If yes, Does the 
 | -------- | - |
 | Yes | 69 |
 | No | 36 |
+| Not NA | 105 |
 | NA | 41430 |
 
 
@@ -1556,6 +1631,7 @@ W_17_6_1:SKJEMA_5AARB; (W_18_6_1:SKJEMA_5AAR); Redused hearing; No/Yes; 17. Has 
 | No | 38384 |
 | Yes | 2793 |
 | More than 1 check box filled in | 10 |
+| Not NA | 41187 |
 | NA | 348 |
 
 
@@ -1568,6 +1644,7 @@ W_17_6_2:SKJEMA_5AARB; Redused hearing; If yes, Did the disorder/illness get dia
 | Yes | 1672 |
 | No | 149 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1822 |
 | NA | 39713 |
 
 
@@ -1580,6 +1657,7 @@ W_17_6_3:SKJEMA_5AARB; (W_18_6_3:SKJEMA_5AAR); Redused hearing; If yes, Does the
 | No | 1786 |
 | Yes | 870 |
 | More than 1 check box filled in | 8 |
+| Not NA | 2664 |
 | NA | 38871 |
 
 
@@ -1591,6 +1669,7 @@ W_17_7_1:SKJEMA_5AARB; (W_18_7_1:SKJEMA_5AAR); Delayed motor development or clum
 | -------- | - |
 | No | 40036 |
 | Yes | 1176 |
+| Not NA | 41212 |
 | NA | 323 |
 
 
@@ -1602,6 +1681,7 @@ W_17_7_2:SKJEMA_5AARB; Delayed motor development or clumsy; If yes, Did the diso
 | -------- | - |
 | Yes | 490 |
 | No | 311 |
+| Not NA | 801 |
 | NA | 40734 |
 
 
@@ -1614,6 +1694,7 @@ W_17_7_3:SKJEMA_5AARB; (W_18_7_3:SKJEMA_5AAR); Delayed motor development or clum
 | No | 447 |
 | Yes | 632 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1080 |
 | NA | 40455 |
 
 
@@ -1626,6 +1707,7 @@ W_17_8_1:SKJEMA_5AARB; (W_18_8_1:SKJEMA_5AAR); Delayed or deviant language devel
 | No | 38607 |
 | Yes | 2596 |
 | More than 1 check box filled in | 6 |
+| Not NA | 41209 |
 | NA | 326 |
 
 
@@ -1638,6 +1720,7 @@ W_17_8_2:SKJEMA_5AARB; Delayed or deviant language development; If yes, Did the 
 | No | 793 |
 | Yes | 786 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1580 |
 | NA | 39955 |
 
 
@@ -1650,6 +1733,7 @@ W_17_8_3:SKJEMA_5AARB; (W_18_8_3:SKJEMA_5AAR); Delayed or deviant language devel
 | No | 744 |
 | Yes | 1540 |
 | More than 1 check box filled in | 10 |
+| Not NA | 2294 |
 | NA | 39241 |
 
 
@@ -1662,6 +1746,7 @@ W_17_9_1:SKJEMA_5AARB; (W_18_9_1:SKJEMA_5AAR); Unusual restless/ hyperactive/ AD
 | No | 40787 |
 | Yes | 417 |
 | More than 1 check box filled in | 4 |
+| Not NA | 41208 |
 | NA | 327 |
 
 
@@ -1674,6 +1759,7 @@ W_17_9_2:SKJEMA_5AARB; Unusual restless/ hyperactive/ ADHD; If yes, Did the diso
 | No | 225 |
 | Yes | 88 |
 | More than 1 check box filled in | 1 |
+| Not NA | 314 |
 | NA | 41221 |
 
 
@@ -1686,6 +1772,7 @@ W_17_9_3:SKJEMA_5AARB; (W_18_9_3:SKJEMA_5AAR); Unusual restless/ hyperactive/ AD
 | No | 110 |
 | Yes | 273 |
 | More than 1 check box filled in | 1 |
+| Not NA | 384 |
 | NA | 41151 |
 
 
@@ -1698,6 +1785,7 @@ W_1710_1:SKJEMA_5AARB; (W_1810_1:SKJEMA_5AAR); Attention problems/ difficulties 
 | No | 39960 |
 | Yes | 1247 |
 | More than 1 check box filled in | 7 |
+| Not NA | 41214 |
 | NA | 321 |
 
 
@@ -1710,6 +1798,7 @@ W_1710_2:SKJEMA_5AARB; Attention problems/ difficulties concentrating; If yes, D
 | No | 568 |
 | Yes | 258 |
 | More than 1 check box filled in | 2 |
+| Not NA | 828 |
 | NA | 40707 |
 
 
@@ -1722,6 +1811,7 @@ W_1710_3:SKJEMA_5AARB; (W_1810_3:SKJEMA_5AAR); Attention problems/ difficulties 
 | No | 216 |
 | Yes | 796 |
 | More than 1 check box filled in | 6 |
+| Not NA | 1018 |
 | NA | 40517 |
 
 
@@ -1733,6 +1823,7 @@ W_1711_1:SKJEMA_5AARB; (W_1811_1:SKJEMA_5AAR); Autism/ autism spectrum disorder;
 | -------- | - |
 | No | 41143 |
 | Yes | 121 |
+| Not NA | 41264 |
 | NA | 271 |
 
 
@@ -1744,6 +1835,7 @@ W_1711_2:SKJEMA_5AARB; Autism/ autism spectrum disorder; If yes, Did the disorde
 | -------- | - |
 | No | 46 |
 | Yes | 60 |
+| Not NA | 106 |
 | NA | 41429 |
 
 
@@ -1755,6 +1847,7 @@ W_1711_3:SKJEMA_5AARB; (W_1811_3:SKJEMA_5AAR); Autism/ autism spectrum disorder;
 | -------- | - |
 | No | 51 |
 | Yes | 93 |
+| Not NA | 144 |
 | NA | 41391 |
 
 
@@ -1766,6 +1859,7 @@ W_1712_1:SKJEMA_5AARB; (W_1812_1:SKJEMA_5AAR); Asperger syndrome; No/Yes; 17. Ha
 | -------- | - |
 | No | 41220 |
 | Yes | 26 |
+| Not NA | 41246 |
 | NA | 289 |
 
 
@@ -1777,6 +1871,7 @@ W_1712_2:SKJEMA_5AARB; Asperger syndrome; If yes, Did the disorder/illness get d
 | -------- | - |
 | No | 43 |
 | Yes | 5 |
+| Not NA | 48 |
 | NA | 41487 |
 
 
@@ -1788,6 +1883,7 @@ W_1712_3:SKJEMA_5AARB; (W_1812_3:SKJEMA_5AAR); Asperger syndrome; If yes, Does t
 | -------- | - |
 | No | 38 |
 | Yes | 19 |
+| Not NA | 57 |
 | NA | 41478 |
 
 
@@ -1800,6 +1896,7 @@ W_1713_1:SKJEMA_5AARB; (W_1813_1:SKJEMA_5AAR); Behavior problems (difficult and 
 | No | 40341 |
 | Yes | 851 |
 | More than 1 check box filled in | 12 |
+| Not NA | 41204 |
 | NA | 331 |
 
 
@@ -1811,6 +1908,7 @@ W_1713_2:SKJEMA_5AARB; Behavior problems (difficult and unruly); If yes, Did the
 | -------- | - |
 | No | 489 |
 | Yes | 124 |
+| Not NA | 613 |
 | NA | 40922 |
 
 
@@ -1823,6 +1921,7 @@ W_1713_3:SKJEMA_5AARB; (W_1813_3:SKJEMA_5AAR); Behavior problems (difficult and 
 | Yes | 431 |
 | No | 269 |
 | More than 1 check box filled in | 4 |
+| Not NA | 704 |
 | NA | 40831 |
 
 
@@ -1835,6 +1934,7 @@ W_1714_1:SKJEMA_5AARB; (W_1814_1:SKJEMA_5AAR); Emotional difficulty (sad and wor
 | No | 40432 |
 | Yes | 771 |
 | More than 1 check box filled in | 3 |
+| Not NA | 41206 |
 | NA | 329 |
 
 
@@ -1847,6 +1947,7 @@ W_1714_2:SKJEMA_5AARB; Emotional difficulty (sad and worried); If yes, Did the d
 | No | 458 |
 | Yes | 122 |
 | More than 1 check box filled in | 1 |
+| Not NA | 581 |
 | NA | 40954 |
 
 
@@ -1859,6 +1960,7 @@ W_1714_3:SKJEMA_5AARB; (W_1814_3:SKJEMA_5AAR); Emotional difficulty (sad and wor
 | Yes | 368 |
 | No | 263 |
 | More than 1 check box filled in | 3 |
+| Not NA | 634 |
 | NA | 40901 |
 
 
@@ -1871,6 +1973,7 @@ W_1715_1:SKJEMA_5AARB; (W_1815_1:SKJEMA_5AAR); Reduced sight; No/Yes; 17. Has yo
 | No | 39169 |
 | Yes | 2041 |
 | More than 1 check box filled in | 4 |
+| Not NA | 41214 |
 | NA | 321 |
 
 
@@ -1882,6 +1985,7 @@ W_1715_2:SKJEMA_5AARB; Reduced sight; If yes, Did the disorder/illness get diagn
 | -------- | - |
 | Yes | 1193 |
 | No | 74 |
+| Not NA | 1267 |
 | NA | 40268 |
 
 
@@ -1894,6 +1998,7 @@ W_1715_3:SKJEMA_5AARB; (W_1815_3:SKJEMA_5AAR); Reduced sight; If yes, Does the c
 | Yes | 1771 |
 | No | 150 |
 | More than 1 check box filled in | 1 |
+| Not NA | 1922 |
 | NA | 39613 |
 
 
@@ -1906,6 +2011,7 @@ W_1816_1:SKJEMA_5AAR; Other, specify; No/Yes; 18. Has your child ever suffered a
 | No | 5930 |
 | Yes | 994 |
 | More than 1 check box filled in | 1 |
+| Not NA | 6925 |
 | NA | 34610 |
 
 
@@ -1918,6 +2024,7 @@ W_1716_2:SKJEMA_5AARB; Other, specify; If yes, Did the disorder/illness get diag
 | No | 393 |
 | Yes | 1693 |
 | More than 1 check box filled in | 2 |
+| Not NA | 2088 |
 | NA | 39447 |
 
 
@@ -1930,6 +2037,7 @@ W_1716_3:SKJEMA_5AARB; (W_1816_3:SKJEMA_5AAR); Other, specify; If yes, Does the 
 | Yes | 2028 |
 | No | 792 |
 | More than 1 check box filled in | 11 |
+| Not NA | 2831 |
 | NA | 38704 |
 
 
@@ -1942,6 +2050,7 @@ W_18_1_1:SKJEMA_5AARB; (W_19_1_1:SKJEMA_5AAR); Had an accident with diagnosed lo
 | No | 39688 |
 | Yes | 1704 |
 | More than 1 check box filled in | 2 |
+| Not NA | 41394 |
 | NA | 141 |
 
 
@@ -1954,6 +2063,7 @@ W_18_2_1:SKJEMA_5AARB; (W_19_2_1:SKJEMA_5AAR); Does the child have a learning di
 | No | 41121 |
 | Yes | 307 |
 | More than 1 check box filled in | 2 |
+| Not NA | 41430 |
 | NA | 105 |
 
 
@@ -1966,6 +2076,7 @@ W_18_3_1:SKJEMA_5AARB; (W_19_3_1:SKJEMA_5AAR); Does the child have a syndrome or
 | No | 40951 |
 | Yes | 426 |
 | More than 1 check box filled in | 5 |
+| Not NA | 41382 |
 | NA | 153 |
 
 
@@ -1978,6 +2089,7 @@ W_18_4_1:SKJEMA_5AARB; (W_19_4_1:SKJEMA_5AAR); Does the child have other serious
 | No | 38546 |
 | Yes | 2713 |
 | More than 1 check box filled in | 15 |
+| Not NA | 41274 |
 | NA | 261 |
 
 
@@ -1990,6 +2102,7 @@ W_18_5_1:SKJEMA_5AARB; (W_19_5_1:SKJEMA_5AAR); Has the child ever been a vitness
 | No | 41059 |
 | Yes | 324 |
 | More than 1 check box filled in | 1 |
+| Not NA | 41384 |
 | NA | 151 |
 
 
@@ -2001,6 +2114,7 @@ W_18_1_2:SKJEMA_5AAR; Asthma; If yes, Did the disorder/illness get diagnosed bef
 | -------- | - |
 | Yes | 1519 |
 | No | 219 |
+| Not NA | 1738 |
 | NA | 39797 |
 
 
@@ -2012,6 +2126,7 @@ W_18_2_2:SKJEMA_5AAR; Pollenallergy/heyfever; If yes, Did the disorder/illness g
 | -------- | - |
 | No | 574 |
 | Yes | 378 |
+| Not NA | 952 |
 | NA | 40583 |
 
 
@@ -2023,6 +2138,7 @@ W_18_3_2:SKJEMA_5AAR; Obstructed/ wheesing in chest; If yes, Did the disorder/il
 | -------- | - |
 | Yes | 1127 |
 | No | 227 |
+| Not NA | 1354 |
 | NA | 40181 |
 
 
@@ -2034,6 +2150,7 @@ W_18_4_2:SKJEMA_5AAR; Epilepsy; If yes, Did the disorder/illness get diagnosed b
 | -------- | - |
 | No | 41 |
 | Yes | 35 |
+| Not NA | 76 |
 | NA | 41459 |
 
 
@@ -2045,6 +2162,7 @@ W_18_5_2:SKJEMA_5AAR; Cerebral Palsy; If yes, Did the disorder/illness get diagn
 | -------- | - |
 | No | 27 |
 | Yes | 18 |
+| Not NA | 45 |
 | NA | 41490 |
 
 
@@ -2056,6 +2174,7 @@ W_18_6_2:SKJEMA_5AAR; Redused hearing; If yes, Did the disorder/illness get diag
 | -------- | - |
 | Yes | 532 |
 | No | 430 |
+| Not NA | 962 |
 | NA | 40573 |
 
 
@@ -2067,6 +2186,7 @@ W_18_7_2:SKJEMA_5AAR; Delayed motor development or clumsy; If yes, Did the disor
 | -------- | - |
 | No | 132 |
 | Yes | 245 |
+| Not NA | 377 |
 | NA | 41158 |
 
 
@@ -2078,6 +2198,7 @@ W_18_8_2:SKJEMA_5AAR; Delayed or deviant language development; If yes, Did the d
 | -------- | - |
 | Yes | 409 |
 | No | 463 |
+| Not NA | 872 |
 | NA | 40663 |
 
 
@@ -2089,6 +2210,7 @@ W_18_9_2:SKJEMA_5AAR; Unusual restless/ hyperactive/ ADHD; If yes, Did the disor
 | -------- | - |
 | No | 109 |
 | Yes | 27 |
+| Not NA | 136 |
 | NA | 41399 |
 
 
@@ -2100,6 +2222,7 @@ W_1810_2:SKJEMA_5AAR; Attention problems/ difficulties concentrating; If yes, Di
 | -------- | - |
 | No | 242 |
 | Yes | 111 |
+| Not NA | 353 |
 | NA | 41182 |
 
 
@@ -2111,6 +2234,7 @@ W_1811_2:SKJEMA_5AAR; Autism/ autism spectrum disorder; If yes, Did the disorder
 | -------- | - |
 | No | 46 |
 | Yes | 17 |
+| Not NA | 63 |
 | NA | 41472 |
 
 
@@ -2121,6 +2245,7 @@ W_1812_2:SKJEMA_5AAR; Asperger syndrome; If yes, Did the disorder/illness get di
 | Category | n |
 | -------- | - |
 | No | 27 |
+| Not NA | 27 |
 | NA | 41508 |
 
 
@@ -2132,6 +2257,7 @@ W_1813_2:SKJEMA_5AAR; Behavior problems (difficult and unruly); If yes, Did the 
 | -------- | - |
 | No | 140 |
 | Yes | 75 |
+| Not NA | 215 |
 | NA | 41320 |
 
 
@@ -2143,6 +2269,7 @@ W_1814_2:SKJEMA_5AAR; Emotional difficulty (sad and worried); If yes, Did the di
 | -------- | - |
 | No | 129 |
 | Yes | 50 |
+| Not NA | 179 |
 | NA | 41356 |
 
 
@@ -2154,6 +2281,7 @@ W_1815_2:SKJEMA_5AAR; Reduced sight; If yes, Did the disorder/illness get diagno
 | -------- | - |
 | Yes | 261 |
 | No | 504 |
+| Not NA | 765 |
 | NA | 40770 |
 
 
@@ -2166,6 +2294,7 @@ W_1816_2:SKJEMA_5AAR; Other, specify; If yes, Did the disorder/illness get diagn
 | No | 315 |
 | Yes | 641 |
 | More than 1 check box filled in | 2 |
+| Not NA | 958 |
 | NA | 40577 |
 
 
@@ -2182,6 +2311,7 @@ W_20_1_1:SKJEMA_5AAR; How old was the child when he/she started using the first 
 | 3rd Qu. | 15 |
 | Max. | 78 |
 | NA's | 30142 |
+| Not NA | 11393 |
 
 
 ### LL118
@@ -2191,6 +2321,7 @@ W_20_1_2:SKJEMA_5AAR; How old was the child when he/she started using the first 
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 41516 |
 
 
@@ -2207,6 +2338,7 @@ W_20_2_1:SKJEMA_5AAR; How old was the child when he/she started combining words 
 | 3rd Qu. | 24 |
 | Max. | 66 |
 | NA's | 30558 |
+| Not NA | 10977 |
 
 
 ### LL120
@@ -2216,6 +2348,7 @@ W_20_2_2:SKJEMA_5AAR; How old was the child when he/she started combining words 
 | Category | n |
 | -------- | - |
 | 1 | 32 |
+| Not NA | 32 |
 | NA | 41503 |
 
 
@@ -2232,6 +2365,7 @@ W_20_3_1:SKJEMA_5AAR; How old was the child when he/she stopped using diapers du
 | 3rd Qu. | 36 |
 | Max. | 98 |
 | NA's | 27569 |
+| Not NA | 13966 |
 
 
 ### LL122
@@ -2241,6 +2375,7 @@ W_20_3_2:SKJEMA_5AAR; How old was the child when he/she stopped using diapers du
 | Category | n |
 | -------- | - |
 | 1 | 75 |
+| Not NA | 75 |
 | NA | 41460 |
 
 
@@ -2257,6 +2392,7 @@ W_20_4_1:SKJEMA_5AAR; How old was the child when he/she stopped using diapers du
 | 3rd Qu. | 41 |
 | Max. | 99 |
 | NA's | 28868 |
+| Not NA | 12667 |
 
 
 ### LL124
@@ -2266,6 +2402,7 @@ W_20_4_2:SKJEMA_5AAR; How old was the child when he/she stopped using diapers du
 | Category | n |
 | -------- | - |
 | 1 | 1418 |
+| Not NA | 1418 |
 | NA | 40117 |
 
 
@@ -2278,6 +2415,7 @@ W_19_1:SKJEMA_5AARB; Did your child say his/her first words before 2 years of ag
 | Yes | 25582 |
 | No | 887 |
 | More than 1 check box filled in | 4 |
+| Not NA | 26473 |
 | NA | 15062 |
 
 
@@ -2290,6 +2428,7 @@ W_19_2:SKJEMA_5AARB; Did your child start combining words before 2,5 years of ag
 | Yes | 25161 |
 | No | 1182 |
 | More than 1 check box filled in | 2 |
+| Not NA | 26345 |
 | NA | 15190 |
 
 
@@ -2302,6 +2441,7 @@ W_19_3:SKJEMA_5AARB; Did your child stop using diapers in the daytime before 4 y
 | Yes | 24963 |
 | No | 1619 |
 | More than 1 check box filled in | 3 |
+| Not NA | 26585 |
 | NA | 14950 |
 
 
@@ -2314,6 +2454,7 @@ W_20_1:SKJEMA_5AARB; (W_21_1:SKJEMA_5AAR); No/Yes; 20. Has a professional ever a
 | No | 37752 |
 | Yes | 3516 |
 | More than 1 check box filled in | 3 |
+| Not NA | 41271 |
 | NA | 264 |
 
 
@@ -2330,6 +2471,7 @@ W_21_2:SKJEMA_5AAR; If yes, at what age; 21. Has a professional ever assessed yo
 | Before 12 months + 18-36 months | 7 |
 | 18-36 months + After 36 months | 25 |
 | Before 12 months + After 36 months | 4 |
+| Not NA | 1288 |
 | NA | 40247 |
 
 
@@ -2341,6 +2483,7 @@ W_21_1:SKJEMA_5AARB; (W_22_1:SKJEMA_5AAR); Habilitation services; 21. Has your c
 | -------- | - |
 | No | 38651 |
 | Yes | 514 |
+| Not NA | 39165 |
 | NA | 2370 |
 
 
@@ -2352,6 +2495,7 @@ W_21_2:SKJEMA_5AARB; (W_22_2:SKJEMA_5AAR); Child psychiatric clinic/ department;
 | -------- | - |
 | No | 38486 |
 | Yes | 737 |
+| Not NA | 39223 |
 | NA | 2312 |
 
 
@@ -2364,6 +2508,7 @@ W_21_3:SKJEMA_5AARB; (W_22_3:SKJEMA_5AAR); Educational psychology services; 21. 
 | No | 36806 |
 | Yes | 3059 |
 | More than 1 check box filled in | 5 |
+| Not NA | 39870 |
 | NA | 1665 |
 
 
@@ -2376,6 +2521,7 @@ W_22_1:SKJEMA_5AARB; (W_23_1:SKJEMA_5AAR); No/Yes; 22. Have your child been asse
 | No | 37189 |
 | Yes | 3738 |
 | More than 1 check box filled in | 6 |
+| Not NA | 40933 |
 | NA | 602 |
 
 
@@ -2386,6 +2532,7 @@ W_22_2_1:SKJEMA_5AARB; (W_23_2_1:SKJEMA_5AAR); If yes: What was the conclusion a
 | Category | n |
 | -------- | - |
 | 1 | 497 |
+| Not NA | 497 |
 | NA | 41038 |
 
 
@@ -2396,6 +2543,7 @@ W_22_2_2:SKJEMA_5AARB; (W_23_2_2:SKJEMA_5AAR); If yes: What was the conclusion a
 | Category | n |
 | -------- | - |
 | 1 | 1193 |
+| Not NA | 1193 |
 | NA | 40342 |
 
 
@@ -2406,6 +2554,7 @@ W_22_2_3:SKJEMA_5AARB; (W_23_2_3:SKJEMA_5AAR); If yes: What was the conclusion a
 | Category | n |
 | -------- | - |
 | 1 | 449 |
+| Not NA | 449 |
 | NA | 41086 |
 
 
@@ -2416,6 +2565,7 @@ W_22_2_4:SKJEMA_5AARB; (W_23_2_4:SKJEMA_5AAR); If yes: What was the conclusion a
 | Category | n |
 | -------- | - |
 | 1 | 2145 |
+| Not NA | 2145 |
 | NA | 39390 |
 
 
@@ -2426,6 +2576,7 @@ W_22_2_5:SKJEMA_5AARB; (W_23_2_5:SKJEMA_5AAR); If yes: What was the conclusion a
 | Category | n |
 | -------- | - |
 | 1 | 355 |
+| Not NA | 355 |
 | NA | 41180 |
 
 
@@ -2436,6 +2587,7 @@ W_22_2_6:SKJEMA_5AARB; (W_23_2_6:SKJEMA_5AAR); If yes: What was the conclusion a
 | Category | n |
 | -------- | - |
 | 1 | 285 |
+| Not NA | 285 |
 | NA | 41250 |
 
 
@@ -2446,6 +2598,7 @@ W_20_2_1:SKJEMA_5AARB; If yes, at what age?; Before 18 months; 20. Has a profess
 | Category | n |
 | -------- | - |
 | 1 | 312 |
+| Not NA | 312 |
 | NA | 41223 |
 
 
@@ -2456,6 +2609,7 @@ W_20_2_2:SKJEMA_5AARB; If yes, at what age?; 18-36 months; 20. Has a professiona
 | Category | n |
 | -------- | - |
 | 1 | 833 |
+| Not NA | 833 |
 | NA | 40702 |
 
 
@@ -2466,6 +2620,7 @@ W_20_2_3:SKJEMA_5AARB; If yes, at what age?; Later than 36 months; 20. Has a pro
 | Category | n |
 | -------- | - |
 | 1 | 1287 |
+| Not NA | 1287 |
 | NA | 40248 |
 
 
@@ -2478,6 +2633,7 @@ W_23_1_1:SKJEMA_5AARB; (W_24_1_1:SKJEMA_5AAR); Been a late talker as a child; 23
 | No | 36598 |
 | Yes | 4328 |
 | More than 1 check box filled in | 4 |
+| Not NA | 40930 |
 | NA | 605 |
 
 
@@ -2490,6 +2646,7 @@ W_23_2_1:SKJEMA_5AARB; (W_24_2_1:SKJEMA_5AAR); Had difficulties in learning to r
 | No | 32490 |
 | Yes | 8381 |
 | More than 1 check box filled in | 15 |
+| Not NA | 40886 |
 | NA | 649 |
 
 
@@ -2502,6 +2659,7 @@ W_23_3_1:SKJEMA_5AARB; (W_24_3_1:SKJEMA_5AAR); Had difficulties in pronounciatio
 | No | 33322 |
 | Yes | 7457 |
 | More than 1 check box filled in | 6 |
+| Not NA | 40785 |
 | NA | 750 |
 
 
@@ -2517,6 +2675,7 @@ W_24_1:SKJEMA_5AARB; (W_25_1:SKJEMA_5AAR); How easy is it for you to understand 
 | Very difficult (1) | 39 |
 | (2) | 26 |
 | More than 1 check box filled in | 17 |
+| Not NA | 41385 |
 | NA | 150 |
 
 
@@ -2532,6 +2691,7 @@ W_24_2:SKJEMA_5AARB; (W_25_2:SKJEMA_5AAR); How easy is it for strangers to under
 | (2) | 280 |
 | Very difficult (1) | 114 |
 | More than 1 check box filled in | 22 |
+| Not NA | 41376 |
 | NA | 159 |
 
 
@@ -2547,6 +2707,7 @@ W_25_1_2:SKJEMA_5AARB; (W_26_1_1:SKJEMA_5AAR); Fluid food supplements; Fish oil;
 | Less than 1 | 2777 |
 | 1-3 | 4392 |
 | More than 1 check box filled in | 9 |
+| Not NA | 23877 |
 | NA | 17658 |
 
 
@@ -2560,6 +2721,7 @@ W_25_1_3:SKJEMA_5AARB; (W_26_1_2:SKJEMA_5AAR); Fluid food supplements; Fish oil,
 | 1 tsp    | 2738 |
 | 1 dsp     | 4874 |
 | More than 1 check box filled in | 5 |
+| Not NA | 15351 |
 | NA | 26184 |
 
 
@@ -2575,6 +2737,7 @@ W_25_2_2:SKJEMA_5AARB; (W_26_2_1:SKJEMA_5AAR); Fluid food supplements; Omega-3; 
 | 4-5 | 362 |
 | Less than 1 | 364 |
 | More than 1 check box filled in | 7 |
+| Not NA | 12317 |
 | NA | 29218 |
 
 
@@ -2587,6 +2750,7 @@ W_25_2_3:SKJEMA_5AARB; (W_26_2_2:SKJEMA_5AAR); Fluid food supplements; Omega-3, 
 | 1 tbsp | 562 |
 | 1 tsp    | 413 |
 | 1 dsp     | 266 |
+| Not NA | 1241 |
 | NA | 40294 |
 
 
@@ -2602,6 +2766,7 @@ W_25_3_2:SKJEMA_5AARB; (W_26_3_1:SKJEMA_5AAR); Fluid food supplements; Sanasol/B
 | 1-3 | 4496 |
 | Less than 1 | 2911 |
 | More than 1 check box filled in | 13 |
+| Not NA | 22003 |
 | NA | 19532 |
 
 
@@ -2615,6 +2780,7 @@ W_25_3_3:SKJEMA_5AARB; (W_26_3_2:SKJEMA_5AAR); Fluid food supplements; Sanasol/B
 | 1 dsp     | 3951 |
 | 1 tsp    | 2216 |
 | More than 1 check box filled in | 3 |
+| Not NA | 12946 |
 | NA | 28589 |
 
 
@@ -2630,6 +2796,7 @@ W_25_4_2:SKJEMA_5AARB; (W_26_4_1:SKJEMA_5AAR); Fluid food supplements; Other flu
 | 1-3 | 245 |
 | 6-7 | 579 |
 | More than 1 check box filled in | 3 |
+| Not NA | 11425 |
 | NA | 30110 |
 
 
@@ -2643,6 +2810,7 @@ W_25_4_3:SKJEMA_5AARB; (W_26_4_2:SKJEMA_5AAR); Fluid food supplements; Other flu
 | 1 dsp     | 234 |
 | 1 tbsp | 285 |
 | More than 1 check box filled in | 1 |
+| Not NA | 797 |
 | NA | 40738 |
 
 
@@ -2658,6 +2826,7 @@ W_25_5_2:SKJEMA_5AARB; (W_26_5_1:SKJEMA_5AAR); Food supplements in pills; Omega-
 | 1-3 | 692 |
 | Less than 1 | 360 |
 | More than 1 check box filled in | 1 |
+| Not NA | 13313 |
 | NA | 28222 |
 
 
@@ -2671,6 +2840,7 @@ W_25_5_3:SKJEMA_5AARB; (W_26_5_2:SKJEMA_5AAR); Food supplements in pills; Omega-
 | 1 at a time | 1151 |
 | 3+ at a time | 81 |
 | More than 1 check box filled in | 2 |
+| Not NA | 2485 |
 | NA | 39050 |
 
 
@@ -2686,6 +2856,7 @@ W_25_6_2:SKJEMA_5AARB; (W_26_6_1:SKJEMA_5AAR); Food supplements in pills; Fish o
 | 1-3 | 235 |
 | Less than 1 | 226 |
 | More than 1 check box filled in | 2 |
+| Not NA | 11236 |
 | NA | 30299 |
 
 
@@ -2698,6 +2869,7 @@ W_25_6_3:SKJEMA_5AARB; (W_26_6_2:SKJEMA_5AAR); Food supplements in pills; Fish o
 | 2 at a time | 273 |
 | 1 at a time | 404 |
 | 3+ at a time | 5 |
+| Not NA | 682 |
 | NA | 40853 |
 
 
@@ -2713,6 +2885,7 @@ W_25_7_2:SKJEMA_5AARB; (W_26_7_1:SKJEMA_5AAR); Food supplements in pills; Multiv
 | 4-5 | 2204 |
 | Less than 1 | 604 |
 | More than 1 check box filled in | 5 |
+| Not NA | 18079 |
 | NA | 23456 |
 
 
@@ -2726,6 +2899,7 @@ W_25_7_3:SKJEMA_5AARB; (W_26_7_2:SKJEMA_5AAR); Food supplements in pills; Multiv
 | 2 at a time | 511 |
 | 3+ at a time | 18 |
 | More than 1 check box filled in | 1 |
+| Not NA | 6600 |
 | NA | 34935 |
 
 
@@ -2741,6 +2915,7 @@ W_25_8_2:SKJEMA_5AARB; (W_26_8_1:SKJEMA_5AAR); Food supplements in pills; Fluor 
 | None | 2679 |
 | 1-3 | 1713 |
 | More than 1 check box filled in | 26 |
+| Not NA | 32426 |
 | NA | 9109 |
 
 
@@ -2754,6 +2929,7 @@ W_25_8_3:SKJEMA_5AARB; (W_26_8_2:SKJEMA_5AAR); Food supplements in pills; Fluor 
 | 2 at a time | 1579 |
 | 3+ at a time | 13 |
 | More than 1 check box filled in | 10 |
+| Not NA | 20694 |
 | NA | 20841 |
 
 
@@ -2769,6 +2945,7 @@ W_25_9_2:SKJEMA_5AARB; (W_26_9_1:SKJEMA_5AAR); Food supplements in pills; Other 
 | Less than 1 | 206 |
 | 6-7 | 1175 |
 | More than 1 check box filled in | 1 |
+| Not NA | 11402 |
 | NA | 30133 |
 
 
@@ -2782,6 +2959,7 @@ W_25_9_3:SKJEMA_5AARB; (W_26_9_2:SKJEMA_5AAR); Food supplements in pills; Other 
 | 2 at a time | 167 |
 | 3+ at a time | 40 |
 | More than 1 check box filled in | 2 |
+| Not NA | 1607 |
 | NA | 39928 |
 
 
@@ -2792,6 +2970,7 @@ W_25_1_1:SKJEMA_5AARB; Liquid dietary supplements; Cod liver oil; No; 25. Does y
 | Category | n |
 | -------- | - |
 | 1 | 14443 |
+| Not NA | 14443 |
 | NA | 27092 |
 
 
@@ -2802,6 +2981,7 @@ W_25_2_1:SKJEMA_5AARB; Liquid dietary supplements; Omega 3; No; 25. Does your ch
 | Category | n |
 | -------- | - |
 | 1 | 22901 |
+| Not NA | 22901 |
 | NA | 18634 |
 
 
@@ -2812,6 +2992,7 @@ W_25_3_1:SKJEMA_5AARB; Liquid dietary supplements; Sanasol/ Biovit; 25. Does you
 | Category | n |
 | -------- | - |
 | 1 | 15655 |
+| Not NA | 15655 |
 | NA | 25880 |
 
 
@@ -2822,6 +3003,7 @@ W_25_4_1:SKJEMA_5AARB; Liquid dietary supplements; Other liquid dietary suppleme
 | Category | n |
 | -------- | - |
 | 1 | 22336 |
+| Not NA | 22336 |
 | NA | 19199 |
 
 
@@ -2832,6 +3014,7 @@ W_25_5_1:SKJEMA_5AARB; Capsules/tablets; Omega 3; No; 25. Does your child take a
 | Category | n |
 | -------- | - |
 | 1 | 21720 |
+| Not NA | 21720 |
 | NA | 19815 |
 
 
@@ -2842,6 +3025,7 @@ W_25_6_1:SKJEMA_5AARB; Capsules/tablets; Cod liver oil; No; 25. Does your child 
 | Category | n |
 | -------- | - |
 | 1 | 22610 |
+| Not NA | 22610 |
 | NA | 18925 |
 
 
@@ -2852,6 +3036,7 @@ W_25_7_1:SKJEMA_5AARB; Capsules/tablets; Multivitamines; No; 25. Does your child
 | Category | n |
 | -------- | - |
 | 1 | 17760 |
+| Not NA | 17760 |
 | NA | 23775 |
 
 
@@ -2862,6 +3047,7 @@ W_25_8_1:SKJEMA_5AARB; Capsules/tablets; Fluoride tablets; No; 25. Does your chi
 | Category | n |
 | -------- | - |
 | 1 | 5979 |
+| Not NA | 5979 |
 | NA | 35556 |
 
 
@@ -2872,6 +3058,7 @@ W_25_9_1:SKJEMA_5AARB; Capsules/tablets; Other dietary supplements; 25. Does you
 | Category | n |
 | -------- | - |
 | 1 | 20240 |
+| Not NA | 20240 |
 | NA | 21295 |
 
 
@@ -2887,6 +3074,7 @@ W_26:SKJEMA_5AARB; (W_27:SKJEMA_5AAR); ; 26. How often does your child eat break
 | 4-6 times a week | 1339 |
 | Once a week | 40 |
 | More than 1 check box filled in | 10 |
+| Not NA | 41062 |
 | NA | 473 |
 
 
@@ -2899,6 +3087,7 @@ W_27_1:SKJEMA_5AARB; (W_28_1:SKJEMA_5AAR); Did your child ever eat what most peo
 | No | 31075 |
 | Yes | 10301 |
 | More than 1 check box filled in | 2 |
+| Not NA | 41378 |
 | NA | 157 |
 
 
@@ -2910,6 +3099,7 @@ W_27_2:SKJEMA_5AARB; (W_28_2:SKJEMA_5AAR); Did you ever have the impression that
 | -------- | - |
 | No | 40593 |
 | Yes | 715 |
+| Not NA | 41308 |
 | NA | 227 |
 
 
@@ -2924,6 +3114,7 @@ W_27_3:SKJEMA_5AARB; (W_28_3:SKJEMA_5AAR); How often has your child eaten a real
 | Less often | 1752 |
 | 2 times a week or more | 78 |
 | More than 1 check box filled in | 7 |
+| Not NA | 40905 |
 | NA | 630 |
 
 
@@ -2937,6 +3128,7 @@ W_28_1:SKJEMA_5AARB; (W_29_1:SKJEMA_5AAR); Can the child tell you at least two t
 | Sometimes | 1479 |
 | Not Yet | 285 |
 | More than 1 check box filled in | 5 |
+| Not NA | 41057 |
 | NA | 478 |
 
 
@@ -2950,6 +3142,7 @@ W_28_2:SKJEMA_5AARB; (W_29_2:SKJEMA_5AAR); Without giving your child help by poi
 | Sometimes | 3397 |
 | Not Yet | 541 |
 | More than 1 check box filled in | 6 |
+| Not NA | 39958 |
 | NA | 1577 |
 
 
@@ -2963,6 +3156,7 @@ W_28_3:SKJEMA_5AARB; (W_29_3:SKJEMA_5AAR); Does your child use four- and five- w
 | Not Yet | 84 |
 | Sometimes | 132 |
 | More than 1 check box filled in | 1 |
+| Not NA | 41240 |
 | NA | 295 |
 
 
@@ -2976,6 +3170,7 @@ W_28_4:SKJEMA_5AARB; (W_29_4:SKJEMA_5AAR); When talking about something that alr
 | Not Yet | 193 |
 | Sometimes | 1235 |
 | More than 1 check box filled in | 3 |
+| Not NA | 41198 |
 | NA | 337 |
 
 
@@ -2989,6 +3184,7 @@ W_28_5:SKJEMA_5AARB; (W_29_5:SKJEMA_5AAR); Does you child use comparison words s
 | Sometimes | 3676 |
 | Not Yet | 704 |
 | More than 1 check box filled in | 6 |
+| Not NA | 40900 |
 | NA | 635 |
 
 
@@ -3002,6 +3198,7 @@ W_28_6:SKJEMA_5AARB; (W_29_6:SKJEMA_5AAR); Does your child answer the following 
 | Sometimes | 497 |
 | Not Yet | 143 |
 | More than 1 check box filled in | 5 |
+| Not NA | 40861 |
 | NA | 674 |
 
 
@@ -3015,6 +3212,7 @@ W_28_7:SKJEMA_5AARB; (W_29_7:SKJEMA_5AAR); Does your child repeat the sentences 
 | Not Yet | 3228 |
 | Sometimes | 10380 |
 | More than 1 check box filled in | 23 |
+| Not NA | 37548 |
 | NA | 3987 |
 
 
@@ -3027,6 +3225,7 @@ W_36_1:SKJEMA_5AARB; (W_37_1:SKJEMA_5AAR); Do you think your child walks, runs, 
 | Yes | 40193 |
 | No | 1109 |
 | More than 1 check box filled in | 5 |
+| Not NA | 41307 |
 | NA | 228 |
 
 
@@ -3039,6 +3238,7 @@ W_36_2:SKJEMA_5AARB; (W_37_2:SKJEMA_5AAR); Able to stand on one foot for at leas
 | Yes | 39008 |
 | No | 1789 |
 | More than 1 check box filled in | 8 |
+| Not NA | 40805 |
 | NA | 730 |
 
 
@@ -3051,6 +3251,7 @@ W_36_3:SKJEMA_5AARB; (W_37_3:SKJEMA_5AAR); Hops on one foot, many times, without
 | Yes | 38569 |
 | No | 2325 |
 | More than 1 check box filled in | 9 |
+| Not NA | 40903 |
 | NA | 632 |
 
 
@@ -3063,6 +3264,7 @@ W_36_4:SKJEMA_5AARB; (W_37_4:SKJEMA_5AAR); Plays «catch» with other children; 
 | Yes | 36633 |
 | No | 3790 |
 | More than 1 check box filled in | 9 |
+| Not NA | 40432 |
 | NA | 1103 |
 
 
@@ -3075,6 +3277,7 @@ W_36_5:SKJEMA_5AARB; (W_37_5:SKJEMA_5AAR); Swings on s swing, pumping by him/her
 | Yes | 38478 |
 | No | 2596 |
 | More than 1 check box filled in | 8 |
+| Not NA | 41082 |
 | NA | 453 |
 
 
@@ -3087,6 +3290,7 @@ W_36_6:SKJEMA_5AARB; (W_37_6:SKJEMA_5AAR); Rides a two-wheeled bike, with or wit
 | Yes | 39116 |
 | No | 2167 |
 | More than 1 check box filled in | 7 |
+| Not NA | 41290 |
 | NA | 245 |
 
 
@@ -3099,6 +3303,7 @@ W_36_7:SKJEMA_5AARB; (W_37_7:SKJEMA_5AAR); Puts together a puzzle with nine or m
 | Yes | 40457 |
 | No | 721 |
 | More than 1 check box filled in | 5 |
+| Not NA | 41183 |
 | NA | 352 |
 
 
@@ -3111,6 +3316,7 @@ W_36_8:SKJEMA_5AARB; (W_37_8:SKJEMA_5AAR); Draws or copies a square with straigh
 | Yes | 34896 |
 | No | 5195 |
 | More than 1 check box filled in | 20 |
+| Not NA | 40111 |
 | NA | 1424 |
 
 
@@ -3123,6 +3329,7 @@ W_36_9:SKJEMA_5AARB; (W_37_9:SKJEMA_5AAR); Cuts with sissors, following a simple
 | Yes | 37006 |
 | No | 3487 |
 | More than 1 check box filled in | 23 |
+| Not NA | 40516 |
 | NA | 1019 |
 
 
@@ -3135,6 +3342,7 @@ W_3610:SKJEMA_5AARB; (W_3710:SKJEMA_5AAR); Draw pictures of complete pople that 
 | Yes | 30401 |
 | No | 9613 |
 | More than 1 check box filled in | 13 |
+| Not NA | 40027 |
 | NA | 1508 |
 
 
@@ -3147,6 +3355,7 @@ W_3611:SKJEMA_5AARB; (W_3711:SKJEMA_5AAR); Colores withing the lines in a colori
 | Yes | 33896 |
 | No | 6935 |
 | More than 1 check box filled in | 59 |
+| Not NA | 40890 |
 | NA | 645 |
 
 
@@ -3159,6 +3368,7 @@ W_3612:SKJEMA_5AARB; (W_3712:SKJEMA_5AAR); Does your child show interest in and 
 | Yes | 39155 |
 | No | 1795 |
 | More than 1 check box filled in | 44 |
+| Not NA | 40994 |
 | NA | 541 |
 
 
@@ -3179,6 +3389,7 @@ W_29_1:SKJEMA_5AARB; (W_30_1:SKJEMA_5AAR); Mothers mother tounge; 29. Mother ton
 | More than 1 check box filled in | 7 |
 | Other Nordic languages (Icelandic, Finish) or Sami + Vest European languages (Ex. German, English, Spanish) | 1 |
 | Other Nordic languages (Icelandic, Finish) or Sami + Other languages (East European, Asian, Turkish, African) | 1 |
+| Not NA | 41227 |
 | NA | 308 |
 
 
@@ -3199,6 +3410,7 @@ W_29_2:SKJEMA_5AARB; (W_30_2:SKJEMA_5AAR); Fathers mother tounge; 29. Mother ton
 | More than 1 check box filled in | 6 |
 | Other Nordic languages (Icelandic, Finish) or Sami + Other languages (East European, Asian, Turkish, African) | 1 |
 | Other Nordic languages (Icelandic, Finish) or Sami + Vest European languages (Ex. German, English, Spanish) | 1 |
+| Not NA | 40486 |
 | NA | 1049 |
 
 
@@ -3209,6 +3421,7 @@ W_29_3_1:SKJEMA_5AARB; (W_30_3_1:SKJEMA_5AAR); Which languages does the child sp
 | Category | n |
 | -------- | - |
 | 1 | 34885 |
+| Not NA | 34885 |
 | NA | 6650 |
 
 
@@ -3219,6 +3432,7 @@ W_29_3_2:SKJEMA_5AARB; (W_30_3_2:SKJEMA_5AAR); Which languages does the child sp
 | Category | n |
 | -------- | - |
 | 1 | 151 |
+| Not NA | 151 |
 | NA | 41384 |
 
 
@@ -3229,6 +3443,7 @@ W_29_3_3:SKJEMA_5AARB; (W_30_3_3:SKJEMA_5AAR); Which languages does the child sp
 | Category | n |
 | -------- | - |
 | 1 | 1433 |
+| Not NA | 1433 |
 | NA | 40102 |
 
 
@@ -3239,6 +3454,7 @@ W_29_3_4:SKJEMA_5AARB; (W_30_3_4:SKJEMA_5AAR); Which languages does the child sp
 | Category | n |
 | -------- | - |
 | 1 | 551 |
+| Not NA | 551 |
 | NA | 40984 |
 
 
@@ -3254,6 +3470,7 @@ W_30_1:SKJEMA_5AARB; (W_31_1:SKJEMA_5AAR); Which language do you use when talkin
 | More other language than Norwegian | 671 |
 | More than 1 check box filled in | 56 |
 | Only other languange than Norwegian | 332 |
+| Not NA | 41373 |
 | NA | 162 |
 
 
@@ -3269,6 +3486,7 @@ W_30_2:SKJEMA_5AARB; (W_31_2:SKJEMA_5AAR); Which language do your spouse use whe
 | More other language than Norwegian | 755 |
 | More Norwegian than other language | 1525 |
 | More than 1 check box filled in | 22 |
+| Not NA | 40068 |
 | NA | 1467 |
 
 
@@ -3284,6 +3502,7 @@ W_30_3:SKJEMA_5AARB; (W_31_3:SKJEMA_5AAR); Which language do siblings use when t
 | Only other languange than Norwegian | 84 |
 | Equal amount of Norwegian and other language | 271 |
 | More than 1 check box filled in | 19 |
+| Not NA | 38843 |
 | NA | 2692 |
 
 
@@ -3299,6 +3518,7 @@ W_31_1:SKJEMA_5AARB; (W_32_1:SKJEMA_5AAR); Forgets words s/he knows the meaning 
 | (4) | 671 |
 | Completely right (5) | 279 |
 | More than 1 check box filled in | 12 |
+| Not NA | 41156 |
 | NA | 379 |
 
 
@@ -3314,6 +3534,7 @@ W_31_2:SKJEMA_5AARB; (W_32_2:SKJEMA_5AAR); Mixes up words with similar meaning; 
 | (4) | 428 |
 | Completely right (5) | 180 |
 | More than 1 check box filled in | 14 |
+| Not NA | 41244 |
 | NA | 291 |
 
 
@@ -3329,6 +3550,7 @@ W_31_3:SKJEMA_5AARB; (W_32_3:SKJEMA_5AAR); Has difficulties in understanding the
 | (4) | 190 |
 | Completely right (5) | 134 |
 | More than 1 check box filled in | 16 |
+| Not NA | 41292 |
 | NA | 243 |
 
 
@@ -3344,6 +3566,7 @@ W_31_4:SKJEMA_5AARB; (W_32_4:SKJEMA_5AAR); Has difficulties in responding to que
 | (4) | 430 |
 | Completely right (5) | 349 |
 | More than 1 check box filled in | 20 |
+| Not NA | 41297 |
 | NA | 238 |
 
 
@@ -3359,6 +3582,7 @@ W_31_5:SKJEMA_5AARB; (W_32_5:SKJEMA_5AAR); Is often searching for the right word
 | Both right and wrong (3) | 2910 |
 | Completely right (5) | 351 |
 | More than 1 check box filled in | 16 |
+| Not NA | 41313 |
 | NA | 222 |
 
 
@@ -3374,6 +3598,7 @@ W_31_6:SKJEMA_5AARB; (W_32_6:SKJEMA_5AAR); Has difficulties in using complete se
 | Both right and wrong (3) | 1768 |
 | Completely right (5) | 327 |
 | More than 1 check box filled in | 35 |
+| Not NA | 41298 |
 | NA | 237 |
 
 
@@ -3389,6 +3614,7 @@ W_31_7:SKJEMA_5AARB; (W_32_7:SKJEMA_5AAR); Is using short sentences when s/he is
 | Completely right (5) | 597 |
 | (4) | 1030 |
 | More than 1 check box filled in | 33 |
+| Not NA | 41237 |
 | NA | 298 |
 
 
@@ -3404,6 +3630,7 @@ W_31_8:SKJEMA_5AARB; (W_32_8:SKJEMA_5AAR); Has difficulties in retelling a story
 | Completely right (5) | 367 |
 | (4) | 664 |
 | More than 1 check box filled in | 23 |
+| Not NA | 41197 |
 | NA | 338 |
 
 
@@ -3419,6 +3646,7 @@ W_31_9:SKJEMA_5AARB; (W_32_9:SKJEMA_5AAR); Is quickly getting tired in tasks dem
 | (4) | 514 |
 | Completely right (5) | 300 |
 | More than 1 check box filled in | 9 |
+| Not NA | 41216 |
 | NA | 319 |
 
 
@@ -3434,6 +3662,7 @@ W_3210:SKJEMA_5AAR; Is vague and imprecise when asked to tell name on things or 
 | (4) | 162 |
 | Completely right (5) | 98 |
 | More than 1 check box filled in | 7 |
+| Not NA | 14662 |
 | NA | 26873 |
 
 
@@ -3449,6 +3678,7 @@ W_3110:SKJEMA_5AARB; (W_3211:SKJEMA_5AAR); It does not seem like what she/he is 
 | Completely right (5) | 108 |
 | (4) | 213 |
 | More than 1 check box filled in | 12 |
+| Not NA | 41302 |
 | NA | 233 |
 
 
@@ -3464,6 +3694,7 @@ W_3111:SKJEMA_5AARB; (W_3212:SKJEMA_5AAR); Has difficulties in remembering thing
 | (4) | 221 |
 | Completely right (5) | 100 |
 | More than 1 check box filled in | 19 |
+| Not NA | 41333 |
 | NA | 202 |
 
 
@@ -3479,6 +3710,7 @@ W_3112:SKJEMA_5AARB; (W_3213:SKJEMA_5AAR); Difficulties to understand what other
 | Completely right (5) | 61 |
 | (4) | 141 |
 | More than 1 check box filled in | 15 |
+| Not NA | 41327 |
 | NA | 208 |
 
 
@@ -3494,6 +3726,7 @@ W_3113:SKJEMA_5AARB; (W_3214:SKJEMA_5AAR); Misconceive instructions and when tol
 | (4) | 242 |
 | Completely right (5) | 119 |
 | More than 1 check box filled in | 10 |
+| Not NA | 41308 |
 | NA | 227 |
 
 
@@ -3509,6 +3742,7 @@ W_3114:SKJEMA_5AARB; (W_3215:SKJEMA_5AAR); Has problems with remembering message
 | (4) | 486 |
 | Completely right (5) | 163 |
 | More than 1 check box filled in | 28 |
+| Not NA | 41299 |
 | NA | 236 |
 
 
@@ -3524,6 +3758,7 @@ W_3115:SKJEMA_5AARB; (W_3216:SKJEMA_5AAR); Misunderstands context and what is go
 | (4) | 282 |
 | Completely right (5) | 96 |
 | More than 1 check box filled in | 18 |
+| Not NA | 41272 |
 | NA | 263 |
 
 
@@ -3539,6 +3774,7 @@ W_3116:SKJEMA_5AARB; (W_3217:SKJEMA_5AAR); Is difficult to understand; 31. Skill
 | Both right and wrong (3) | 1149 |
 | Completely right (5) | 166 |
 | More than 1 check box filled in | 10 |
+| Not NA | 41318 |
 | NA | 217 |
 
 
@@ -3554,6 +3790,7 @@ W_3117:SKJEMA_5AARB; (W_3218:SKJEMA_5AAR); Has difficulties in expressing wishes
 | (4) | 229 |
 | Completely right (5) | 113 |
 | More than 1 check box filled in | 9 |
+| Not NA | 41328 |
 | NA | 207 |
 
 
@@ -3569,6 +3806,7 @@ W_3118:SKJEMA_5AARB; (W_3219:SKJEMA_5AAR); Is not understood by others; 31. Skil
 | (4) | 369 |
 | Completely right (5) | 162 |
 | More than 1 check box filled in | 13 |
+| Not NA | 41323 |
 | NA | 212 |
 
 
@@ -3584,6 +3822,7 @@ W_3119:SKJEMA_5AARB; (W_3220:SKJEMA_5AAR); Rearly initiate communication; 31. Sk
 | (4) | 330 |
 | Completely right (5) | 154 |
 | More than 1 check box filled in | 25 |
+| Not NA | 41310 |
 | NA | 225 |
 
 
@@ -3599,6 +3838,7 @@ W_3120:SKJEMA_5AARB; (W_3221:SKJEMA_5AAR); Has difficulties in pronunciation; 31
 | (4) | 841 |
 | Completely right (5) | 663 |
 | More than 1 check box filled in | 27 |
+| Not NA | 41292 |
 | NA | 243 |
 
 
@@ -3614,6 +3854,7 @@ W_3121:SKJEMA_5AARB; (W_3222:SKJEMA_5AAR); Are not able to have a dialogue with 
 | Completely right (5) | 156 |
 | (4) | 178 |
 | More than 1 check box filled in | 4 |
+| Not NA | 41321 |
 | NA | 214 |
 
 
@@ -3629,6 +3870,7 @@ W_3122:SKJEMA_5AARB; (W_3223:SKJEMA_5AAR); Often avoids talking to other people 
 | (4) | 195 |
 | Completely right (5) | 120 |
 | More than 1 check box filled in | 22 |
+| Not NA | 41319 |
 | NA | 216 |
 
 
@@ -3643,6 +3885,7 @@ W_32_5:SKJEMA_5AARB; (W_33_1:SKJEMA_5AAR); It can be hard to tell if he/ she is 
 | Regularily | 834 |
 | Often/ Always | 139 |
 | More than 1 check box filled in | 14 |
+| Not NA | 41229 |
 | NA | 306 |
 
 
@@ -3657,6 +3900,7 @@ W_32_1:SKJEMA_5AARB; (W_33_2:SKJEMA_5AAR); It is hard to make sense of what he/ 
 | Regularily | 188 |
 | Often/ Always | 50 |
 | More than 1 check box filled in | 5 |
+| Not NA | 41303 |
 | NA | 232 |
 
 
@@ -3671,6 +3915,7 @@ W_32_3:SKJEMA_5AARB; (W_33_3:SKJEMA_5AAR); Uses words like «he» or «it» with
 | Regularily | 1562 |
 | Often/ Always | 356 |
 | More than 1 check box filled in | 25 |
+| Not NA | 41075 |
 | NA | 460 |
 
 
@@ -3685,6 +3930,7 @@ W_32_2:SKJEMA_5AARB; (W_33_4:SKJEMA_5AAR); The child mixes up the sequence when 
 | Regularily | 807 |
 | Often/ Always | 138 |
 | More than 1 check box filled in | 14 |
+| Not NA | 41027 |
 | NA | 508 |
 
 
@@ -3699,6 +3945,7 @@ W_32_6:SKJEMA_5AARB; (W_33_5:SKJEMA_5AAR); Explains a past event clearly (e.g. w
 | Sometimes | 2869 |
 | Seldom or never | 3878 |
 | More than 1 check box filled in | 34 |
+| Not NA | 41254 |
 | NA | 281 |
 
 
@@ -3713,6 +3960,7 @@ W_32_4:SKJEMA_5AARB; (W_33_6:SKJEMA_5AAR); Talks clearly about what s/he plans t
 | Seldom or never | 4464 |
 | Sometimes | 4581 |
 | More than 1 check box filled in | 42 |
+| Not NA | 41144 |
 | NA | 391 |
 
 
@@ -3725,6 +3973,7 @@ W_33_7:SKJEMA_5AAR; Uses long sentences with the word «that» in, f ex. I saw �
 | Yes | 13725 |
 | No | 746 |
 | More than 1 check box filled in | 5 |
+| Not NA | 14476 |
 | NA | 27059 |
 
 
@@ -3737,6 +3986,7 @@ W_33_8:SKJEMA_5AAR; Does the child use sentences with the word «who»? F.eks «
 | Yes | 13811 |
 | No | 573 |
 | More than 1 check box filled in | 4 |
+| Not NA | 14388 |
 | NA | 27147 |
 
 
@@ -3749,6 +3999,7 @@ W_33_9:SKJEMA_5AAR; Does the child use the same words (ie. slang) as others at t
 | Yes | 14102 |
 | No | 422 |
 | More than 1 check box filled in | 10 |
+| Not NA | 14534 |
 | NA | 27001 |
 
 
@@ -3761,6 +4012,7 @@ W_32_7:SKJEMA_5AARB; Does the child talk about things that is going to happen in
 | Yes | 26134 |
 | No | 375 |
 | More than 1 check box filled in | 5 |
+| Not NA | 26514 |
 | NA | 15021 |
 
 
@@ -3773,6 +4025,7 @@ W_32_8:SKJEMA_5AARB; Does the child talk about things that has already happened,
 | Yes | 26048 |
 | No | 450 |
 | More than 1 check box filled in | 8 |
+| Not NA | 26506 |
 | NA | 15029 |
 
 
@@ -3785,6 +4038,7 @@ W_32_9:SKJEMA_5AARB; Does the child talk about things that could or can happen, 
 | Yes | 25914 |
 | No | 538 |
 | More than 1 check box filled in | 4 |
+| Not NA | 26456 |
 | NA | 15079 |
 
 
@@ -3797,6 +4051,7 @@ W_3210:SKJEMA_5AARB; Does the child talk in a special way when pretending to be 
 | Yes | 22012 |
 | No | 3956 |
 | More than 1 check box filled in | 25 |
+| Not NA | 25993 |
 | NA | 15542 |
 
 
@@ -3810,6 +4065,7 @@ W_33_1:SKJEMA_5AARB; (W_34_1:SKJEMA_5AAR); How would you rate your childs abilit
 | Average | 21797 |
 | Very poor/ Poor | 783 |
 | More than 1 check box filled in | 24 |
+| Not NA | 41171 |
 | NA | 364 |
 
 
@@ -3823,6 +4079,7 @@ W_33_2:SKJEMA_5AARB; (W_34_2:SKJEMA_5AAR); How would you rate your childs abilit
 | Average | 9859 |
 | Very poor/ Poor | 360 |
 | More than 1 check box filled in | 15 |
+| Not NA | 41192 |
 | NA | 343 |
 
 
@@ -3838,6 +4095,7 @@ W_33_3:SKJEMA_5AARB; (W_34_3:SKJEMA_5AAR); During a typical week, how often do y
 | Seldom | 4321 |
 | Often | 13063 |
 | More than 1 check box filled in | 13 |
+| Not NA | 41275 |
 | NA | 260 |
 
 
@@ -3853,6 +4111,7 @@ W_33_4:SKJEMA_5AARB; (W_34_4:SKJEMA_5AAR); During a typical week, how often do y
 | Sometimes | 16825 |
 | Never | 1191 |
 | More than 1 check box filled in | 21 |
+| Not NA | 41227 |
 | NA | 308 |
 
 
@@ -3865,6 +4124,7 @@ W_33_5:SKJEMA_5AARB; (W_34_5:SKJEMA_5AAR); Would you say your child is intereste
 | Yes | 35456 |
 | No | 5807 |
 | More than 1 check box filled in | 24 |
+| Not NA | 41287 |
 | NA | 248 |
 
 
@@ -3877,6 +4137,7 @@ W_33_6:SKJEMA_5AARB; (W_34_6:SKJEMA_5AAR); Would you say that your child is gene
 | Yes | 40331 |
 | No | 981 |
 | More than 1 check box filled in | 6 |
+| Not NA | 41318 |
 | NA | 217 |
 
 
@@ -3889,6 +4150,7 @@ W_33_7:SKJEMA_5AARB; (W_34_7:SKJEMA_5AAR); Would you say that your child is able
 | No | 24421 |
 | Yes | 16738 |
 | More than 1 check box filled in | 37 |
+| Not NA | 41196 |
 | NA | 339 |
 
 
@@ -3901,6 +4163,7 @@ W_33_8:SKJEMA_5AARB; (W_34_8:SKJEMA_5AAR); Would you say that your child is able
 | No | 37271 |
 | Yes | 4006 |
 | More than 1 check box filled in | 6 |
+| Not NA | 41283 |
 | NA | 252 |
 
 
@@ -3913,6 +4176,7 @@ W_33_9:SKJEMA_5AARB; (W_34_9:SKJEMA_5AAR); Would you say that your child is able
 | Yes | 35931 |
 | No | 5335 |
 | More than 1 check box filled in | 19 |
+| Not NA | 41285 |
 | NA | 250 |
 
 
@@ -3929,6 +4193,7 @@ W_3310:SKJEMA_5AARB; (W_3410:SKJEMA_5AAR); About how many minutes does your chil
 | Does not like at all | 37 |
 | Not read for | 50 |
 | More than 1 check box filled in | 14 |
+| Not NA | 41158 |
 | NA | 377 |
 
 
@@ -3944,6 +4209,7 @@ W_34_1:SKJEMA_5AARB; Talks to other children during play; 34. Child‘s play
 | Never | 386 |
 | Almost never | 254 |
 | More than 1 check box filled in | 7 |
+| Not NA | 26296 |
 | NA | 15239 |
 
 
@@ -3959,6 +4225,7 @@ W_34_2:SKJEMA_5AARB; Plays by himself/herself, examining an object or toy; 34. C
 | Almost never | 779 |
 | Never | 76 |
 | More than 1 check box filled in | 6 |
+| Not NA | 26505 |
 | NA | 15030 |
 
 
@@ -3974,6 +4241,7 @@ W_34_3:SKJEMA_5AARB; Plays `rough-and tumble` with other children; 34. Child‘s
 | Almost never | 2988 |
 | Never | 436 |
 | More than 1 check box filled in | 15 |
+| Not NA | 26459 |
 | NA | 15076 |
 
 
@@ -3989,6 +4257,7 @@ W_34_4:SKJEMA_5AARB; Takes on the role of onlooker or spectator; 34. Child‘s p
 | Very often | 365 |
 | Never | 2110 |
 | More than 1 check box filled in | 26 |
+| Not NA | 26470 |
 | NA | 15065 |
 
 
@@ -4004,6 +4273,7 @@ W_34_5:SKJEMA_5AARB; Plays `make-believe` with other children; 34. Child‘s pla
 | Almost never | 384 |
 | Never | 108 |
 | More than 1 check box filled in | 15 |
+| Not NA | 26465 |
 | NA | 15070 |
 
 
@@ -4019,6 +4289,7 @@ W_34_6:SKJEMA_5AARB; Engages in group play; 34. Child‘s play
 | Almost never | 780 |
 | Never | 76 |
 | More than 1 check box filled in | 15 |
+| Not NA | 26405 |
 | NA | 15130 |
 
 
@@ -4034,6 +4305,7 @@ W_34_7:SKJEMA_5AARB; Engages in pretend play by hilself/herself; 34. Child‘s p
 | Very often | 3815 |
 | Never | 701 |
 | More than 1 check box filled in | 12 |
+| Not NA | 26346 |
 | NA | 15189 |
 
 
@@ -4049,6 +4321,7 @@ W_34_8:SKJEMA_5AARB; Plays alone, building things with blocks and/or other toys;
 | Almost never | 1697 |
 | More than 1 check box filled in | 18 |
 | Never | 99 |
+| Not NA | 26431 |
 | NA | 15104 |
 
 
@@ -4064,6 +4337,7 @@ W_34_9:SKJEMA_5AARB; Wanders around aimlessly; 34. Child‘s play
 | More than 1 check box filled in | 49 |
 | Often | 243 |
 | Very often | 83 |
+| Not NA | 26481 |
 | NA | 15054 |
 
 
@@ -4079,6 +4353,7 @@ W_3410:SKJEMA_5AARB; Plays in goups with (not just beside) other children; 34. C
 | Almost never | 86 |
 | More than 1 check box filled in | 26 |
 | Never | 49 |
+| Not NA | 26459 |
 | NA | 15076 |
 
 
@@ -4094,6 +4369,7 @@ W_3411:SKJEMA_5AARB; Plays `make-believe` but not with other children; 34. Child
 | Sometimes | 10387 |
 | Very often | 1006 |
 | More than 1 check box filled in | 19 |
+| Not NA | 26014 |
 | NA | 15521 |
 
 
@@ -4109,6 +4385,7 @@ W_3412:SKJEMA_5AARB; Watches, or listens to other children without trying to joi
 | Often | 313 |
 | Very often | 93 |
 | More than 1 check box filled in | 42 |
+| Not NA | 26431 |
 | NA | 15104 |
 
 
@@ -4124,6 +4401,7 @@ W_3413:SKJEMA_5AARB; Engages in playful/mock fighting with other children; 34. C
 | Often | 7017 |
 | Sometimes | 9401 |
 | More than 1 check box filled in | 23 |
+| Not NA | 26421 |
 | NA | 15114 |
 
 
@@ -4139,6 +4417,7 @@ W_3414:SKJEMA_5AARB; Plays by himself/herself, drawing, painting pictures or doi
 | Almost never | 1407 |
 | Never | 98 |
 | More than 1 check box filled in | 16 |
+| Not NA | 26483 |
 | NA | 15052 |
 
 
@@ -4154,6 +4433,7 @@ W_3415:SKJEMA_5AARB; Engages in active conversations with other children during 
 | Almost never | 104 |
 | Never | 35 |
 | More than 1 check box filled in | 9 |
+| Not NA | 26441 |
 | NA | 15094 |
 
 
@@ -4169,6 +4449,7 @@ W_3416:SKJEMA_5AARB; Engages in pretend play with other children; 34. Child‘s 
 | Almost never | 411 |
 | Never | 89 |
 | More than 1 check box filled in | 16 |
+| Not NA | 26341 |
 | NA | 15194 |
 
 
@@ -4184,6 +4465,7 @@ W_3417:SKJEMA_5AARB; Plays alone, exploring toys or objects, trying to figure ou
 | Almost never | 2648 |
 | Never | 154 |
 | More than 1 check box filled in | 15 |
+| Not NA | 26348 |
 | NA | 15187 |
 
 
@@ -4199,6 +4481,7 @@ W_3418:SKJEMA_5AARB; Remains alone and unoccupied, perhaps staring off into spac
 | Very often | 42 |
 | Often | 60 |
 | More than 1 check box filled in | 33 |
+| Not NA | 26436 |
 | NA | 15099 |
 
 
@@ -4214,6 +4497,7 @@ W_3419:SKJEMA_5AARB; Plays by him/herself, engaging in simple motor activities (
 | Very often | 1401 |
 | Often | 4055 |
 | More than 1 check box filled in | 13 |
+| Not NA | 26420 |
 | NA | 15115 |
 
 
@@ -4229,6 +4513,7 @@ W_3420:SKJEMA_5AARB; Plays just for a short while with each toy, does not settle
 | Often | 438 |
 | Very often | 91 |
 | More than 1 check box filled in | 12 |
+| Not NA | 26464 |
 | NA | 15071 |
 
 
@@ -4243,6 +4528,7 @@ W_35_1:SKJEMA_5AARB; (W_36_1:SKJEMA_5AAR); Is inattentive, ealsily distracted; 3
 | Very often | 538 |
 | Often/ a good deal | 2058 |
 | More than 1 check box filled in | 18 |
+| Not NA | 41245 |
 | NA | 290 |
 
 
@@ -4257,6 +4543,7 @@ W_35_2:SKJEMA_5AARB; (W_36_2:SKJEMA_5AAR); Has a limited attention span; 35. Act
 | Often/ a good deal | 1167 |
 | Very often | 329 |
 | More than 1 check box filled in | 13 |
+| Not NA | 41199 |
 | NA | 336 |
 
 
@@ -4271,6 +4558,7 @@ W_35_3:SKJEMA_5AARB; (W_36_3:SKJEMA_5AAR); Has trouble with fidgeting, squirming
 | Often/ a good deal | 2528 |
 | Very often | 771 |
 | More than 1 check box filled in | 12 |
+| Not NA | 41198 |
 | NA | 337 |
 
 
@@ -4285,6 +4573,7 @@ W_35_4:SKJEMA_5AARB; (W_36_4:SKJEMA_5AAR); Is disorganized at home or in the kin
 | Often/ a good deal | 1877 |
 | Very often | 301 |
 | More than 1 check box filled in | 26 |
+| Not NA | 41165 |
 | NA | 370 |
 
 
@@ -4299,6 +4588,7 @@ W_35_5:SKJEMA_5AARB; (W_36_5:SKJEMA_5AAR); Attends only to own interest; 35. Act
 | Often/ a good deal | 2681 |
 | Very often | 557 |
 | More than 1 check box filled in | 20 |
+| Not NA | 41112 |
 | NA | 423 |
 
 
@@ -4313,6 +4603,7 @@ W_35_6:SKJEMA_5AARB; (W_36_6:SKJEMA_5AAR); Trouble with consentration or attenti
 | Often/ a good deal | 895 |
 | Very often | 278 |
 | More than 1 check box filled in | 17 |
+| Not NA | 41122 |
 | NA | 413 |
 
 
@@ -4327,6 +4618,7 @@ W_35_7:SKJEMA_5AARB; (W_36_7:SKJEMA_5AAR); Avoids or protests or having problems
 | Often/ a good deal | 1128 |
 | Very often | 234 |
 | More than 1 check box filled in | 18 |
+| Not NA | 41189 |
 | NA | 346 |
 
 
@@ -4341,6 +4633,7 @@ W_35_8:SKJEMA_5AARB; (W_36_8:SKJEMA_5AAR); Is distractible when instructed; 35. 
 | Often/ a good deal | 2061 |
 | Very often | 387 |
 | More than 1 check box filled in | 15 |
+| Not NA | 41110 |
 | NA | 425 |
 
 
@@ -4355,6 +4648,7 @@ W_35_9:SKJEMA_5AARB; (W_36_9:SKJEMA_5AAR); Ha trouble concentrating in the kinde
 | Often/ a good deal | 462 |
 | Very often | 154 |
 | More than 1 check box filled in | 15 |
+| Not NA | 41011 |
 | NA | 524 |
 
 
@@ -4369,6 +4663,7 @@ W_3510:SKJEMA_5AARB; (W_3610:SKJEMA_5AAR); Cannot remain seated in the kindergar
 | Often/ a good deal | 806 |
 | Very often | 204 |
 | More than 1 check box filled in | 26 |
+| Not NA | 41022 |
 | NA | 513 |
 
 
@@ -4383,6 +4678,7 @@ W_3511:SKJEMA_5AARB; (W_3611:SKJEMA_5AAR); Cannot pay attention to instructions 
 | Very often | 193 |
 | Often/ a good deal | 911 |
 | More than 1 check box filled in | 11 |
+| Not NA | 41085 |
 | NA | 450 |
 
 
@@ -4397,6 +4693,7 @@ W_3512:SKJEMA_5AARB; (W_3612:SKJEMA_5AAR); Becomes quickly frustrated when needs
 | Often/ a good deal | 2235 |
 | Very often | 525 |
 | More than 1 check box filled in | 31 |
+| Not NA | 41176 |
 | NA | 359 |
 
 
@@ -4412,6 +4709,7 @@ W_37_1:SKJEMA_5AARB; (W_38_1:SKJEMA_5AAR); Child is always on the go; 37. Temper
 | Not so typical | 3705 |
 | Not at all typical | 652 |
 | More than 1 check box filled in | 11 |
+| Not NA | 41234 |
 | NA | 301 |
 
 
@@ -4427,6 +4725,7 @@ W_37_2:SKJEMA_5AARB; (W_38_2:SKJEMA_5AAR); Child is off running as soon as s/he 
 | Not so typical | 11485 |
 | Not at all typical | 3182 |
 | More than 1 check box filled in | 26 |
+| Not NA | 41269 |
 | NA | 266 |
 
 
@@ -4442,6 +4741,7 @@ W_37_3:SKJEMA_5AARB; (W_38_3:SKJEMA_5AAR); Child prefers quiet, inactive games t
 | Not so typical | 9646 |
 | Quite typical | 2550 |
 | More than 1 check box filled in | 36 |
+| Not NA | 41214 |
 | NA | 321 |
 
 
@@ -4457,6 +4757,7 @@ W_37_4:SKJEMA_5AARB; (W_38_4:SKJEMA_5AAR); Child cries easily; 37. Temperament a
 | Neither/nor | 11090 |
 | Very typical | 580 |
 | More than 1 check box filled in | 30 |
+| Not NA | 41219 |
 | NA | 316 |
 
 
@@ -4472,6 +4773,7 @@ W_37_5:SKJEMA_5AARB; (W_38_5:SKJEMA_5AAR); Child gets upset easily; 37. Temperam
 | Not so typical | 14453 |
 | Very typical | 866 |
 | More than 1 check box filled in | 22 |
+| Not NA | 41102 |
 | NA | 433 |
 
 
@@ -4487,6 +4789,7 @@ W_37_6:SKJEMA_5AARB; (W_38_6:SKJEMA_5AAR); Child reacts intensely when upset; 37
 | Neither/nor | 10831 |
 | Very typical | 1889 |
 | More than 1 check box filled in | 21 |
+| Not NA | 40918 |
 | NA | 617 |
 
 
@@ -4502,6 +4805,7 @@ W_37_7:SKJEMA_5AARB; (W_38_7:SKJEMA_5AAR); Child is very sociable; 37. Temperame
 | Quite typical | 15899 |
 | More than 1 check box filled in | 67 |
 | Not at all typical | 190 |
+| Not NA | 41241 |
 | NA | 294 |
 
 
@@ -4517,6 +4821,7 @@ W_37_8:SKJEMA_5AARB; (W_38_8:SKJEMA_5AAR); Child takes a long time to get used t
 | Not so typical | 16367 |
 | More than 1 check box filled in | 47 |
 | Very typical | 562 |
+| Not NA | 41160 |
 | NA | 375 |
 
 
@@ -4532,6 +4837,7 @@ W_37_9:SKJEMA_5AARB; (W_38_9:SKJEMA_5AAR); Child is very friendly with strangers
 | Not so typical | 3381 |
 | Not at all typical | 980 |
 | More than 1 check box filled in | 31 |
+| Not NA | 41103 |
 | NA | 432 |
 
 
@@ -4547,6 +4853,7 @@ W_3710:SKJEMA_5AARB; (W_3810:SKJEMA_5AAR); Child prefers playing with others rat
 | Neither/nor | 12846 |
 | More than 1 check box filled in | 29 |
 | Not at all typical | 690 |
+| Not NA | 41212 |
 | NA | 323 |
 
 
@@ -4562,6 +4869,7 @@ W_3711:SKJEMA_5AARB; (W_3811:SKJEMA_5AAR); Child likes to be with people; 37. Te
 | Not so typical | 64 |
 | Not at all typical | 63 |
 | More than 1 check box filled in | 10 |
+| Not NA | 41270 |
 | NA | 265 |
 
 
@@ -4577,6 +4885,7 @@ W_3712:SKJEMA_5AARB; (W_3812:SKJEMA_5AAR); Finds people more stimulating than an
 | Quite typical | 16829 |
 | Not so typical | 1089 |
 | More than 1 check box filled in | 22 |
+| Not NA | 41198 |
 | NA | 337 |
 
 
@@ -4592,6 +4901,7 @@ W_38_1:SKJEMA_5AARB; (W_39_1:SKJEMA_5AAR); Ability to ask questions properly; 38
 | Very much lower (1) | 192 |
 | (2) | 694 |
 | More than 1 check box filled in | 38 |
+| Not NA | 41207 |
 | NA | 328 |
 
 
@@ -4607,6 +4917,7 @@ W_38_2:SKJEMA_5AARB; (W_39_2:SKJEMA_5AAR); Ability to answer questions properly;
 | (2) | 913 |
 | Very much lower (1) | 183 |
 | More than 1 check box filled in | 42 |
+| Not NA | 41206 |
 | NA | 329 |
 
 
@@ -4622,6 +4933,7 @@ W_38_3:SKJEMA_5AARB; (W_39_3:SKJEMA_5AAR); Ability to say sentences clearly enou
 | Very much higher (5) | 5449 |
 | More than 1 check box filled in | 38 |
 | Very much lower (1) | 297 |
+| Not NA | 41193 |
 | NA | 342 |
 
 
@@ -4637,6 +4949,7 @@ W_38_4:SKJEMA_5AARB; (W_39_4:SKJEMA_5AAR); Number of words of the child; 38. The
 | (2) | 606 |
 | Very much lower (1) | 148 |
 | More than 1 check box filled in | 29 |
+| Not NA | 41146 |
 | NA | 389 |
 
 
@@ -4652,6 +4965,7 @@ W_38_5:SKJEMA_5AARB; (W_39_5:SKJEMA_5AAR); Ability to use his/her words correctl
 | (2) | 787 |
 | Very much lower (1) | 135 |
 | More than 1 check box filled in | 21 |
+| Not NA | 41135 |
 | NA | 400 |
 
 
@@ -4667,6 +4981,7 @@ W_38_6:SKJEMA_5AARB; (W_39_6:SKJEMA_5AAR); Ability to get his/her message across
 | (2) | 1057 |
 | Very much lower (1) | 171 |
 | More than 1 check box filled in | 24 |
+| Not NA | 41144 |
 | NA | 391 |
 
 
@@ -4682,6 +4997,7 @@ W_38_7:SKJEMA_5AARB; (W_39_7:SKJEMA_5AAR); Ability to use the proper words when 
 | (2) | 1100 |
 | Very much lower (1) | 167 |
 | More than 1 check box filled in | 26 |
+| Not NA | 41142 |
 | NA | 393 |
 
 
@@ -4697,6 +5013,7 @@ W_38_8:SKJEMA_5AARB; (W_39_8:SKJEMA_5AAR); Ability to get what he/she wants by t
 | (2) | 823 |
 | Very much lower (1) | 147 |
 | More than 1 check box filled in | 28 |
+| Not NA | 41123 |
 | NA | 412 |
 
 
@@ -4712,6 +5029,7 @@ W_38_9:SKJEMA_5AARB; (W_39_9:SKJEMA_5AAR); Ability to start a conversation, or s
 | Very much higher (5) | 3268 |
 | Very much lower (1) | 175 |
 | More than 1 check box filled in | 18 |
+| Not NA | 41133 |
 | NA | 402 |
 
 
@@ -4727,6 +5045,7 @@ W_3810:SKJEMA_5AARB; (W_3910:SKJEMA_5AAR); Ability to keep a conversation going 
 | Very much higher (5) | 2884 |
 | Very much lower (1) | 217 |
 | More than 1 check box filled in | 31 |
+| Not NA | 41142 |
 | NA | 393 |
 
 
@@ -4742,6 +5061,7 @@ W_3811:SKJEMA_5AARB; (W_3911:SKJEMA_5AAR); The length of this childs sentences; 
 | Very much lower (1) | 191 |
 | (2) | 641 |
 | More than 1 check box filled in | 22 |
+| Not NA | 41142 |
 | NA | 393 |
 
 
@@ -4757,6 +5077,7 @@ W_3812:SKJEMA_5AARB; (W_3912:SKJEMA_5AAR); Ability to make «grown up» sentence
 | (2) | 1169 |
 | Very much lower (1) | 278 |
 | More than 1 check box filled in | 25 |
+| Not NA | 41137 |
 | NA | 398 |
 
 
@@ -4772,6 +5093,7 @@ W_3813:SKJEMA_5AARB; (W_3913:SKJEMA_5AAR); Ability to correctly say the sounds i
 | Very much higher (5) | 4923 |
 | Very much lower (1) | 646 |
 | More than 1 check box filled in | 34 |
+| Not NA | 41177 |
 | NA | 358 |
 
 
@@ -4785,6 +5107,7 @@ W_39_1:SKJEMA_5AARB; (W_40_1:SKJEMA_5AAR); Afraid to try new things; 39. The chi
 | Rarely/never | 17900 |
 | Often/ typical | 1969 |
 | More than 1 check box filled in | 18 |
+| Not NA | 41180 |
 | NA | 355 |
 
 
@@ -4798,6 +5121,7 @@ W_39_2:SKJEMA_5AARB; (W_40_2:SKJEMA_5AAR); Can not concentrate, can not pay atte
 | Rarely/never | 29638 |
 | Often/ typical | 813 |
 | More than 1 check box filled in | 8 |
+| Not NA | 41195 |
 | NA | 340 |
 
 
@@ -4811,6 +5135,7 @@ W_39_3:SKJEMA_5AARB; (W_40_3:SKJEMA_5AAR); Can not sit still, restless or hypera
 | Sometimes | 8222 |
 | Often/ typical | 899 |
 | More than 1 check box filled in | 20 |
+| Not NA | 41223 |
 | NA | 312 |
 
 
@@ -4824,6 +5149,7 @@ W_39_4:SKJEMA_5AARB; (W_40_4:SKJEMA_5AAR); Can not stand waiting; wants everythi
 | Rarely/never | 19337 |
 | Often/ typical | 2655 |
 | More than 1 check box filled in | 23 |
+| Not NA | 41207 |
 | NA | 328 |
 
 
@@ -4837,6 +5163,7 @@ W_39_5:SKJEMA_5AARB; (W_40_5:SKJEMA_5AAR); Clings to adults or too dependent; 39
 | Rarely/never | 28716 |
 | Often/ typical | 949 |
 | More than 1 check box filled in | 12 |
+| Not NA | 41186 |
 | NA | 349 |
 
 
@@ -4850,6 +5177,7 @@ W_39_6:SKJEMA_5AARB; (W_40_6:SKJEMA_5AAR); Cries a lot; 39. The childs behavior
 | Sometimes | 6270 |
 | Often/ typical | 672 |
 | More than 1 check box filled in | 18 |
+| Not NA | 41221 |
 | NA | 314 |
 
 
@@ -4863,6 +5191,7 @@ W_39_7:SKJEMA_5AARB; (W_40_7:SKJEMA_5AAR); Defiant; 39. The childs behavior
 | Rarely/never | 20032 |
 | Often/ typical | 2508 |
 | More than 1 check box filled in | 24 |
+| Not NA | 41202 |
 | NA | 333 |
 
 
@@ -4876,6 +5205,7 @@ W_39_8:SKJEMA_5AARB; (W_40_8:SKJEMA_5AAR); Demands must be met immediately; 39. 
 | Rarely/never | 19564 |
 | Often/ typical | 2470 |
 | More than 1 check box filled in | 17 |
+| Not NA | 41183 |
 | NA | 352 |
 
 
@@ -4889,6 +5219,7 @@ W_39_9:SKJEMA_5AARB; (W_40_9:SKJEMA_5AAR); Disturbed by any change in routine; 3
 | Sometimes | 5324 |
 | Often/ typical | 703 |
 | More than 1 check box filled in | 16 |
+| Not NA | 41204 |
 | NA | 331 |
 
 
@@ -4902,6 +5233,7 @@ W_3910:SKJEMA_5AARB; (W_4010:SKJEMA_5AAR); Eats poorly; 39. The childs behavior
 | Sometimes | 10991 |
 | Often/ typical | 1681 |
 | More than 1 check box filled in | 16 |
+| Not NA | 41198 |
 | NA | 337 |
 
 
@@ -4915,6 +5247,7 @@ W_3911:SKJEMA_5AARB; (W_4011:SKJEMA_5AAR); Does not seem to feel guilty after mi
 | Often/ typical | 1532 |
 | Sometimes | 7799 |
 | More than 1 check box filled in | 25 |
+| Not NA | 41128 |
 | NA | 407 |
 
 
@@ -4928,6 +5261,7 @@ W_3912:SKJEMA_5AARB; (W_4012:SKJEMA_5AAR); Fears certain animals, situations or 
 | Rarely/never | 19739 |
 | Often/ typical | 3071 |
 | More than 1 check box filled in | 20 |
+| Not NA | 41155 |
 | NA | 380 |
 
 
@@ -4941,6 +5275,7 @@ W_3913:SKJEMA_5AARB; (W_4013:SKJEMA_5AAR); Gets in many fights; 39. The childs b
 | Rarely/never | 32780 |
 | Often/ typical | 535 |
 | More than 1 check box filled in | 14 |
+| Not NA | 41183 |
 | NA | 352 |
 
 
@@ -4954,6 +5289,7 @@ W_3914:SKJEMA_5AARB; (W_4014:SKJEMA_5AAR); Gets into everything; 39. The childs 
 | Often/ typical | 1603 |
 | Sometimes | 10862 |
 | More than 1 check box filled in | 12 |
+| Not NA | 41147 |
 | NA | 388 |
 
 
@@ -4967,6 +5303,7 @@ W_3915:SKJEMA_5AARB; (W_4015:SKJEMA_5AAR); Gets too upset when separated from pa
 | Sometimes | 4480 |
 | Often/ typical | 361 |
 | More than 1 check box filled in | 15 |
+| Not NA | 41194 |
 | NA | 341 |
 
 
@@ -4980,6 +5317,7 @@ W_3916:SKJEMA_5AARB; (W_4016:SKJEMA_5AAR); Hits others; 39. The childs behavior
 | Sometimes | 6423 |
 | Often/ typical | 302 |
 | More than 1 check box filled in | 29 |
+| Not NA | 41215 |
 | NA | 320 |
 
 
@@ -4993,6 +5331,7 @@ W_3917:SKJEMA_5AARB; (W_4017:SKJEMA_5AAR); Nervous, high-strung or tense; 39. Th
 | Sometimes | 2889 |
 | Often/ typical | 211 |
 | More than 1 check box filled in | 8 |
+| Not NA | 41211 |
 | NA | 324 |
 
 
@@ -5006,6 +5345,7 @@ W_3918:SKJEMA_5AARB; (W_4018:SKJEMA_5AAR); Punishment does not change his/her be
 | Sometimes | 7796 |
 | Often/ typical | 1160 |
 | More than 1 check box filled in | 22 |
+| Not NA | 41062 |
 | NA | 473 |
 
 
@@ -5019,6 +5359,7 @@ W_3919:SKJEMA_5AARB; (W_4019:SKJEMA_5AAR); Quickly shifts from on activity to an
 | Sometimes | 16284 |
 | Often/ typical | 1832 |
 | More than 1 check box filled in | 28 |
+| Not NA | 41121 |
 | NA | 414 |
 
 
@@ -5032,6 +5373,7 @@ W_3920:SKJEMA_5AARB; (W_4020:SKJEMA_5AAR); Stomachaches or cramps (without medic
 | Sometimes | 4789 |
 | Often/ typical | 604 |
 | More than 1 check box filled in | 14 |
+| Not NA | 41178 |
 | NA | 357 |
 
 
@@ -5045,6 +5387,7 @@ W_3921:SKJEMA_5AARB; (W_4021:SKJEMA_5AAR); Too fearful or anxious; 39. The child
 | Sometimes | 4152 |
 | Often/ typical | 269 |
 | More than 1 check box filled in | 9 |
+| Not NA | 41196 |
 | NA | 339 |
 
 
@@ -5058,6 +5401,7 @@ W_3922:SKJEMA_5AARB; (W_4022:SKJEMA_5AAR); Unhappy, sad or depressed; 39. The ch
 | Sometimes | 1683 |
 | Often/ typical | 57 |
 | More than 1 check box filled in | 2 |
+| Not NA | 41099 |
 | NA | 436 |
 
 
@@ -5071,6 +5415,7 @@ W_3923:SKJEMA_5AARB; (W_4023:SKJEMA_5AAR); Vomiting, throwing up (without medica
 | Sometimes | 429 |
 | Often/ typical | 55 |
 | More than 1 check box filled in | 2 |
+| Not NA | 41125 |
 | NA | 410 |
 
 
@@ -5084,6 +5429,7 @@ W_3924:SKJEMA_5AARB; (W_4024:SKJEMA_5AAR); Poorly coordinated or clumsy; 39. The
 | Sometimes | 2261 |
 | Often/ typical | 312 |
 | More than 1 check box filled in | 7 |
+| Not NA | 41113 |
 | NA | 422 |
 
 
@@ -5097,6 +5443,7 @@ W_3925:SKJEMA_5AARB; (W_4025:SKJEMA_5AAR); The child id teesed/bullied by others
 | Sometimes | 1491 |
 | Often/ typical | 53 |
 | More than 1 check box filled in | 8 |
+| Not NA | 41097 |
 | NA | 438 |
 
 
@@ -5110,6 +5457,7 @@ W_3926:SKJEMA_5AARB; Feelings are easily hurt; 39. The childs behavior
 | Rarely/never | 15509 |
 | Often/ typical | 1019 |
 | More than 1 check box filled in | 19 |
+| Not NA | 26461 |
 | NA | 15074 |
 
 
@@ -5123,6 +5471,7 @@ W_3927:SKJEMA_5AARB; Self-conscious or easily embarrassed; 39. The childs behavi
 | Rarely/never | 14449 |
 | Often/ typical | 1351 |
 | More than 1 check box filled in | 23 |
+| Not NA | 26464 |
 | NA | 15071 |
 
 
@@ -5137,6 +5486,7 @@ W_40:SKJEMA_5AARB; ; 40. How often does the child usually wake during the night?
 | Seldom, never | 14434 |
 | 1-2 times per night | 2658 |
 | More than 1 check box filled in | 24 |
+| Not NA | 26480 |
 | NA | 15055 |
 
 
@@ -5156,6 +5506,7 @@ W_41:SKJEMA_5AARB; ; 41. How many hours does the child on average sleep per nigh
 | 10 hours + 11 hours | 185 |
 | More than 1 check box filled in | 8 |
 | 8 hours or less + 9 hours | 5 |
+| Not NA | 26466 |
 | NA | 15069 |
 
 
@@ -5168,6 +5519,7 @@ W_42_1:SKJEMA_5AARB; (W_41_1:SKJEMA_5AAR); Do you have any concerns about how yo
 | No | 38961 |
 | Yes | 2201 |
 | More than 1 check box filled in | 15 |
+| Not NA | 41177 |
 | NA | 358 |
 
 
@@ -5180,6 +5532,7 @@ W_42_2:SKJEMA_5AARB; (W_41_2:SKJEMA_5AAR); Are you concerned because your child 
 | No | 39082 |
 | Yes | 2047 |
 | More than 1 check box filled in | 18 |
+| Not NA | 41147 |
 | NA | 388 |
 
 
@@ -5192,6 +5545,7 @@ W_42_3:SKJEMA_5AARB; (W_41_3:SKJEMA_5AAR); Are you concerned because your child 
 | No | 40694 |
 | Yes | 498 |
 | More than 1 check box filled in | 8 |
+| Not NA | 41200 |
 | NA | 335 |
 
 
@@ -5204,6 +5558,7 @@ W_42_4:SKJEMA_5AARB; (W_41_4:SKJEMA_5AAR); Do you have any concerns because your
 | No | 40276 |
 | Yes | 898 |
 | More than 1 check box filled in | 11 |
+| Not NA | 41185 |
 | NA | 350 |
 
 
@@ -5216,6 +5571,7 @@ W_42_5:SKJEMA_5AARB; (W_41_5:SKJEMA_5AAR); Have other expressed consern aboutyou
 | No | 38857 |
 | Yes | 2153 |
 | More than 1 check box filled in | 17 |
+| Not NA | 41027 |
 | NA | 508 |
 
 
@@ -5228,6 +5584,7 @@ W_42_6:SKJEMA_5AARB; (W_42_1:SKJEMA_5AAR); Overall, has your child the last 6 mo
 | No | 35910 |
 | Yes | 4722 |
 | More than 1 check box filled in | 19 |
+| Not NA | 40651 |
 | NA | 884 |
 
 
@@ -5241,6 +5598,7 @@ W_42_7_1:SKJEMA_5AARB; (W_42_2_1:SKJEMA_5AAR); If yes; Is the child annoyed by, 
 | Yes, a little | 3025 |
 | Yes, a lot | 275 |
 | More than 1 check box filled in | 4 |
+| Not NA | 8176 |
 | NA | 33359 |
 
 
@@ -5254,6 +5612,7 @@ W_42_7_2:SKJEMA_5AARB; (W_42_2_2:SKJEMA_5AAR); If yes; Do the difficulties influ
 | Yes, a little | 2415 |
 | Yes, a lot | 505 |
 | More than 1 check box filled in | 2 |
+| Not NA | 6882 |
 | NA | 34653 |
 
 
@@ -5267,6 +5626,7 @@ W_42_7_3:SKJEMA_5AARB; (W_42_2_3:SKJEMA_5AAR); If yes; Do the difficulties influ
 | No | 4304 |
 | Yes, a lot | 328 |
 | More than 1 check box filled in | 2 |
+| Not NA | 6774 |
 | NA | 34761 |
 
 
@@ -5280,6 +5640,7 @@ W_42_7_4:SKJEMA_5AARB; (W_42_2_4:SKJEMA_5AAR); If yes; Do the difficulties influ
 | No | 3913 |
 | Yes, a lot | 375 |
 | More than 1 check box filled in | 3 |
+| Not NA | 6759 |
 | NA | 34776 |
 
 
@@ -5293,6 +5654,7 @@ W_42_7_5:SKJEMA_5AARB; (W_42_2_5:SKJEMA_5AAR); If yes; Are the difficulties infl
 | Yes, a little | 2128 |
 | Yes, a lot | 401 |
 | More than 1 check box filled in | 5 |
+| Not NA | 6823 |
 | NA | 34712 |
 
 
@@ -5309,6 +5671,7 @@ W_42_7_6:SKJEMA_5AARB; (W_42_2_6:SKJEMA_5AAR); If yes; How old was the child whe
 | 3rd Qu. | 4 |
 | Max. | 6 |
 | NA's | 36947 |
+| Not NA | 4588 |
 
 
 ### LL338
@@ -5324,6 +5687,7 @@ W_43_1:SKJEMA_5AAR; Height (cm); 43. Your height and weight now
 | 3rd Qu. | 172 |
 | Max. | 190 |
 | NA's | 27014 |
+| Not NA | 14521 |
 
 
 ### LL339
@@ -5339,6 +5703,7 @@ W_43:SKJEMA_5AARB; (W_43_2:SKJEMA_5AAR); Weight (kg); 43. What is your current w
 | 3rd Qu. | 75.5 |
 | Max. | 800 |
 | NA's | 1591 |
+| Not NA | 39944 |
 
 
 ### LL508
@@ -5350,6 +5715,7 @@ W_44:SKJEMA_5AARB; ; 44. Are you pregnant at the moment?
 | No | 24753 |
 | Yes | 1482 |
 | More than 1 check box filled in | 1 |
+| Not NA | 26236 |
 | NA | 15299 |
 
 
@@ -5363,6 +5729,7 @@ W_44_1:SKJEMA_5AAR; ; 44. Do you smoke now? If yes, how many cigarettes?
 | Daily | 1196 |
 | Sometimes | 800 |
 | More than 1 check box filled in | 12 |
+| Not NA | 14470 |
 | NA | 27065 |
 
 
@@ -5379,6 +5746,7 @@ W_44_2:SKJEMA_5AAR; Cigarettes per week; 44. Do you smoke now? If yes, how many 
 | 3rd Qu. | 10 |
 | Max. | 70 |
 | NA's | 40715 |
+| Not NA | 820 |
 
 
 ### LL342
@@ -5394,6 +5762,7 @@ W_44_3:SKJEMA_5AAR; Cigarettes per day; 44. Do you smoke now? If yes, how many c
 | 3rd Qu. | 10.25 |
 | Max. | 30 |
 | NA's | 40303 |
+| Not NA | 1232 |
 
 
 ### LL509
@@ -5409,6 +5778,7 @@ W_45_1_1:SKJEMA_5AARB; You; 45. What are your and your partner`s smoking habits 
 | 1+2 (Do not smoke + Smoke sometimes) | 12 |
 | 2+3 (Smoke sometimes + Smoke daily) | 8 |
 | 1+3 (Do not smoke + Smoke daily) | 2 |
+| Not NA | 26021 |
 | NA | 15514 |
 
 
@@ -5425,6 +5795,7 @@ W_45_1_2:SKJEMA_5AARB; You; If daily, number of sigarets per day; 45. What are y
 | 3rd Qu. | 10 |
 | Max. | 40 |
 | NA's | 39947 |
+| Not NA | 1588 |
 
 
 ### LL511
@@ -5440,6 +5811,7 @@ W_45_2_1:SKJEMA_5AARB; Your partner/spouse; 45. What are your and your partner`s
 | 1+2 (Do not smoke + Smoke sometimes) | 9 |
 | 1+3 (Do not smoke + Smoke daily) | 3 |
 | 2+3 (Smoke sometimes + Smoke daily) | 2 |
+| Not NA | 24371 |
 | NA | 17164 |
 
 
@@ -5456,6 +5828,7 @@ W_45_2_2:SKJEMA_5AARB; Your partner/spouse; If daily, number of sigarets per day
 | 3rd Qu. | 15 |
 | Max. | 35 |
 | NA's | 39745 |
+| Not NA | 1790 |
 
 
 ### LL513
@@ -5478,6 +5851,7 @@ W_46:SKJEMA_5AARB; ; 46. How often do you drink alcohol now?
 | 4+5 | 4 |
 | 1+2 | 1 |
 | 3+7 | 1 |
+| Not NA | 25773 |
 | NA | 15762 |
 
 
@@ -5503,6 +5877,7 @@ W_47_1:SKJEMA_5AARB; Weekends; 47. How many units do you usually drink when you 
 | 4+6 | 1 |
 | 3+6 | 1 |
 | 3+5 | 2 |
+| Not NA | 23851 |
 | NA | 17684 |
 
 
@@ -5522,6 +5897,7 @@ W_47_2:SKJEMA_5AARB; Weekdays; 47. How many units do you usually drink when you 
 | More than 1 check box filled in | 1 |
 | 7-9 | 1 |
 | 4+6 | 1 |
+| Not NA | 16815 |
 | NA | 24720 |
 
 
@@ -5534,6 +5910,7 @@ W_48_1:SKJEMA_5AARB; (W_45_1:SKJEMA_5AAR); ; 48. Have you ever had an illness or
 | No | 35908 |
 | Yes | 4634 |
 | More than 1 check box filled in | 21 |
+| Not NA | 40563 |
 | NA | 972 |
 
 
@@ -5544,6 +5921,7 @@ W_45_2_2:SKJEMA_5AAR; If yes; has a doctor/ specialist diagnosed the health prob
 | Category | n |
 | -------- | - |
 | 1 | 1654 |
+| Not NA | 1654 |
 | NA | 39881 |
 
 
@@ -5555,6 +5933,7 @@ W_45_2_3:SKJEMA_5AAR; If yes; Did the health problems lead to hospitalization?; 
 | -------- | - |
 | No | 1016 |
 | Yes | 531 |
+| Not NA | 1547 |
 | NA | 39988 |
 
 
@@ -5571,6 +5950,7 @@ W_48_2_4:SKJEMA_5AARB; (W_45_2_4:SKJEMA_5AAR); If yes; If you are well again, ab
 | 3rd Qu. | 38 |
 | Max. | 50 |
 | NA's | 39859 |
+| Not NA | 1676 |
 
 
 ### LL349
@@ -5580,6 +5960,7 @@ W_45_3_2:SKJEMA_5AAR; If yes; has a doctor/ specialist diagnosed the health prob
 | Category | n |
 | -------- | - |
 | 1 | 318 |
+| Not NA | 318 |
 | NA | 41217 |
 
 
@@ -5591,6 +5972,7 @@ W_45_3_3:SKJEMA_5AAR; If yes; Did the health problems lead to hospitalization?; 
 | -------- | - |
 | No | 212 |
 | Yes | 78 |
+| Not NA | 290 |
 | NA | 41245 |
 
 
@@ -5607,6 +5989,7 @@ W_48_3_4:SKJEMA_5AARB; (W_45_3_4:SKJEMA_5AAR); If yes; If you are well again, ab
 | 3rd Qu. | 38 |
 | Max. | 45 |
 | NA's | 41310 |
+| Not NA | 225 |
 
 
 ### LL353
@@ -5616,6 +5999,7 @@ W_45_4_2:SKJEMA_5AAR; If yes; has a doctor/ specialist diagnosed the health prob
 | Category | n |
 | -------- | - |
 | 1 | 76 |
+| Not NA | 76 |
 | NA | 41459 |
 
 
@@ -5627,6 +6011,7 @@ W_45_4_3:SKJEMA_5AAR; If yes; Did the health problems lead to hospitalization?; 
 | -------- | - |
 | No | 54 |
 | Yes | 20 |
+| Not NA | 74 |
 | NA | 41461 |
 
 
@@ -5643,6 +6028,7 @@ W_48_4_4:SKJEMA_5AARB; (W_45_4_4:SKJEMA_5AAR); If yes; If you are well again, ab
 | 3rd Qu. | 38.25 |
 | Max. | 46 |
 | NA's | 41495 |
+| Not NA | 40 |
 
 
 ### LL357
@@ -5652,6 +6038,7 @@ W_45_5_2:SKJEMA_5AAR; If yes; has a doctor/ specialist diagnosed the health prob
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 41517 |
 
 
@@ -5663,6 +6050,7 @@ W_45_5_3:SKJEMA_5AAR; If yes; Did the health problems lead to hospitalization?; 
 | -------- | - |
 | No | 17 |
 | Yes | 5 |
+| Not NA | 22 |
 | NA | 41513 |
 
 
@@ -5687,6 +6075,7 @@ W_48_5_4:SKJEMA_5AARB; (W_45_5_4:SKJEMA_5AAR); If yes; If you are well again, ab
 | 23 | 1 |
 | 45 | 1 |
 | 38 | 1 |
+| Not NA | 18 |
 | NA | 41517 |
 
 
@@ -5701,6 +6090,7 @@ W_49:SKJEMA_5AARB; (W_46:SKJEMA_5AAR); ; 49. Has this or these illnesses/ proble
 | Yes very much | 576 |
 | Yes, a great deal | 1257 |
 | More than 1 check box filled in | 16 |
+| Not NA | 8317 |
 | NA | 33218 |
 
 
@@ -5716,6 +6106,7 @@ W_50_2:SKJEMA_5AARB; (W_47_1:SKJEMA_5AAR); Physical health; 50. Have you ever ha
 | A little | 3151 |
 | A great deal | 1989 |
 | More than 1 check box filled in | 9 |
+| Not NA | 21115 |
 | NA | 20420 |
 
 
@@ -5731,6 +6122,7 @@ W_50_3:SKJEMA_5AARB; (W_47_2:SKJEMA_5AAR); Mental health; 50. Have you ever had 
 | A little | 3408 |
 | Very much | 550 |
 | More than 1 check box filled in | 10 |
+| Not NA | 21006 |
 | NA | 20529 |
 
 
@@ -5743,6 +6135,7 @@ W_48_2_2:SKJEMA_5AARB; If yes; Doctor given a diagnosis; 48. Have you ever had a
 | No | 120 |
 | Yes | 2842 |
 | More than 1 check box filled in | 5 |
+| Not NA | 2967 |
 | NA | 38568 |
 
 
@@ -5755,6 +6148,7 @@ W_48_2_3:SKJEMA_5AARB; If yes; Hospitalization; 48. Have you ever had an illness
 | Yes | 895 |
 | No | 1845 |
 | More than 1 check box filled in | 1 |
+| Not NA | 2741 |
 | NA | 38794 |
 
 
@@ -5766,6 +6160,7 @@ W_48_3_2:SKJEMA_5AARB; If yes; Doctor given a diagnosis; 48. Have you ever had a
 | -------- | - |
 | Yes | 459 |
 | No | 33 |
+| Not NA | 492 |
 | NA | 41043 |
 
 
@@ -5777,6 +6172,7 @@ W_48_3_3:SKJEMA_5AARB; If yes; Hospitalization; 48. Have you ever had an illness
 | -------- | - |
 | Yes | 148 |
 | No | 292 |
+| Not NA | 440 |
 | NA | 41095 |
 
 
@@ -5788,6 +6184,7 @@ W_48_4_2:SKJEMA_5AARB; If yes; Doctor given a diagnosis; 48. Have you ever had a
 | -------- | - |
 | Yes | 76 |
 | No | 10 |
+| Not NA | 86 |
 | NA | 41449 |
 
 
@@ -5799,6 +6196,7 @@ W_48_4_3:SKJEMA_5AARB; If yes; Hospitalization; 48. Have you ever had an illness
 | -------- | - |
 | Yes | 28 |
 | No | 42 |
+| Not NA | 70 |
 | NA | 41465 |
 
 
@@ -5810,6 +6208,7 @@ W_48_5_2:SKJEMA_5AARB; If yes; Doctor given a diagnosis; 48. Have you ever had a
 | -------- | - |
 | Yes | 24 |
 | No | 5 |
+| Not NA | 29 |
 | NA | 41506 |
 
 
@@ -5821,6 +6220,7 @@ W_48_5_3:SKJEMA_5AARB; If yes; Hospitalization; 48. Have you ever had an illness
 | -------- | - |
 | No | 15 |
 | Yes | 7 |
+| Not NA | 22 |
 | NA | 41513 |
 
 
@@ -5833,6 +6233,7 @@ W_50_1:SKJEMA_5AARB; ; 50. Have you ever had problems with your physical or ment
 | Yes | 7568 |
 | No | 17960 |
 | More than 1 check box filled in | 2 |
+| Not NA | 25530 |
 | NA | 16005 |
 
 
@@ -5847,6 +6248,7 @@ W_51_1:SKJEMA_5AARB; (W_48_1:SKJEMA_5AAR); Feeling fearful; 51. During the last 
 | Pretty much bothered | 398 |
 | Very bothered | 93 |
 | More than 1 check box filled in | 2 |
+| Not NA | 40823 |
 | NA | 712 |
 
 
@@ -5861,6 +6263,7 @@ W_51_2:SKJEMA_5AARB; (W_48_2:SKJEMA_5AAR); Nervousness or shakiness inside; 51. 
 | Very bothered | 177 |
 | Pretty much bothered | 926 |
 | More than 1 check box filled in | 6 |
+| Not NA | 40830 |
 | NA | 705 |
 
 
@@ -5875,6 +6278,7 @@ W_51_3:SKJEMA_5AARB; (W_48_3:SKJEMA_5AAR); Feeling hopeless about the future; 51
 | Pretty much bothered | 839 |
 | Very bothered | 192 |
 | More than 1 check box filled in | 8 |
+| Not NA | 40811 |
 | NA | 724 |
 
 
@@ -5889,6 +6293,7 @@ W_51_4:SKJEMA_5AARB; (W_48_4:SKJEMA_5AAR); Feeling blue; 51. During the last 2 w
 | Pretty much bothered | 973 |
 | Very bothered | 189 |
 | More than 1 check box filled in | 8 |
+| Not NA | 40803 |
 | NA | 732 |
 
 
@@ -5903,6 +6308,7 @@ W_51_5:SKJEMA_5AARB; (W_48_5:SKJEMA_5AAR); Worrying too much about things; 51. D
 | Pretty much bothered | 1216 |
 | Very bothered | 238 |
 | More than 1 check box filled in | 9 |
+| Not NA | 40781 |
 | NA | 754 |
 
 
@@ -5917,6 +6323,7 @@ W_51_6:SKJEMA_5AARB; (W_48_6:SKJEMA_5AAR); Feeling everything is an effort; 51. 
 | Very bothered | 399 |
 | Pretty much bothered | 1671 |
 | More than 1 check box filled in | 17 |
+| Not NA | 40803 |
 | NA | 732 |
 
 
@@ -5931,6 +6338,7 @@ W_51_7:SKJEMA_5AARB; (W_48_7:SKJEMA_5AAR); Feeling tense or keyed up; 51. During
 | Pretty much bothered | 1161 |
 | Very bothered | 221 |
 | More than 1 check box filled in | 9 |
+| Not NA | 40814 |
 | NA | 721 |
 
 
@@ -5945,6 +6353,7 @@ W_51_8:SKJEMA_5AARB; (W_48_8:SKJEMA_5AAR); Suddenly scared for no reason; 51. Du
 | Pretty much bothered | 205 |
 | Very bothered | 73 |
 | More than 1 check box filled in | 2 |
+| Not NA | 40819 |
 | NA | 716 |
 
 
@@ -5961,6 +6370,7 @@ W_52_1:SKJEMA_5AARB; (W_49_1:SKJEMA_5AAR); My partner and I have problems in our
 | Strongly agree | 771 |
 | Agree | 1230 |
 | More than 1 check box filled in | 4 |
+| Not NA | 38729 |
 | NA | 2806 |
 
 
@@ -5977,6 +6387,7 @@ W_52_2:SKJEMA_5AARB; (W_49_2:SKJEMA_5AAR); I am extremely happy in my relationsh
 | Disagree | 1180 |
 | Strongly disagree | 628 |
 | More than 1 check box filled in | 9 |
+| Not NA | 38709 |
 | NA | 2826 |
 
 
@@ -5993,6 +6404,7 @@ W_52_3:SKJEMA_5AARB; (W_49_3:SKJEMA_5AAR); My partner is generally understanding
 | Disagree somewhat | 1680 |
 | Strongly disagree | 325 |
 | More than 1 check box filled in | 9 |
+| Not NA | 38726 |
 | NA | 2809 |
 
 
@@ -6009,6 +6421,7 @@ W_52_4:SKJEMA_5AARB; (W_49_4:SKJEMA_5AAR); I am happy with the relationship with
 | Disagree | 1076 |
 | Strongly disagree | 489 |
 | More than 1 check box filled in | 8 |
+| Not NA | 38728 |
 | NA | 2807 |
 
 
@@ -6025,6 +6438,7 @@ W_52_5:SKJEMA_5AARB; (W_49_5:SKJEMA_5AAR); We agree on how children should be br
 | Disagree | 491 |
 | Strongly disagree | 219 |
 | More than 1 check box filled in | 18 |
+| Not NA | 38762 |
 | NA | 2773 |
 
 
@@ -6040,6 +6454,7 @@ W_50_1:SKJEMA_5AAR; When I ask my children to do something, I expect it to be do
 | Strongly agree | 977 |
 | Strongly disagree | 141 |
 | More than 1 check box filled in | 12 |
+| Not NA | 14546 |
 | NA | 26989 |
 
 
@@ -6055,6 +6470,7 @@ W_50_2:SKJEMA_5AAR; Other parents should use more force to get their children to
 | Agree | 813 |
 | Strongly agree | 129 |
 | More than 1 check box filled in | 13 |
+| Not NA | 14539 |
 | NA | 26996 |
 
 
@@ -6070,6 +6486,7 @@ W_50_3:SKJEMA_5AAR; Smart parents should teach their children early exactly who 
 | Strongly disagree | 2451 |
 | Strongly agree | 330 |
 | More than 1 check box filled in | 10 |
+| Not NA | 14458 |
 | NA | 27077 |
 
 
@@ -6085,6 +6502,7 @@ W_50_4:SKJEMA_5AAR; Most problems in society would be solved if parents would le
 | Agree | 647 |
 | Strongly agree | 94 |
 | More than 1 check box filled in | 5 |
+| Not NA | 14503 |
 | NA | 27032 |
 
 
@@ -6100,6 +6518,7 @@ W_50_5:SKJEMA_5AAR; I allow my children to decide most things for themselves wit
 | Agree | 604 |
 | Strongly agree | 55 |
 | More than 1 check box filled in | 11 |
+| Not NA | 14506 |
 | NA | 27029 |
 
 
@@ -6115,6 +6534,7 @@ W_50_6:SKJEMA_5AAR; I do not direct the behaviors, activities or desires of my c
 | Agree | 726 |
 | Strongly agree | 107 |
 | More than 1 check box filled in | 10 |
+| Not NA | 14502 |
 | NA | 27033 |
 
 
@@ -6130,6 +6550,7 @@ W_53_1:SKJEMA_5AARB; You let your child know when he/she is doing a good job wit
 | More than 1 check box filled in | 22 |
 | Never | 9 |
 | Almost never | 7 |
+| Not NA | 26281 |
 | NA | 15254 |
 
 
@@ -6145,6 +6566,7 @@ W_53_2:SKJEMA_5AARB; You threaten to punish your child and then do not actually 
 | Often | 608 |
 | Always | 67 |
 | More than 1 check box filled in | 23 |
+| Not NA | 26209 |
 | NA | 15326 |
 
 
@@ -6160,6 +6582,7 @@ W_53_3:SKJEMA_5AARB; You have a friendly talk with your child; 53. How often doe
 | Almost never | 23 |
 | Never | 9 |
 | More than 1 check box filled in | 34 |
+| Not NA | 26269 |
 | NA | 15266 |
 
 
@@ -6175,6 +6598,7 @@ W_53_4:SKJEMA_5AARB; Your child talkes him/herself out of being punished after h
 | Often | 656 |
 | Always | 117 |
 | More than 1 check box filled in | 38 |
+| Not NA | 25998 |
 | NA | 15537 |
 
 
@@ -6190,6 +6614,7 @@ W_53_5:SKJEMA_5AARB; You ask you child about his/her day in childcare; 53. How o
 | Almost never | 19 |
 | More than 1 check box filled in | 10 |
 | Never | 19 |
+| Not NA | 26166 |
 | NA | 15369 |
 
 
@@ -6205,6 +6630,7 @@ W_53_6:SKJEMA_5AARB; You compliment your child when he/she does something well; 
 | Almost never | 3 |
 | More than 1 check box filled in | 9 |
 | Never | 2 |
+| Not NA | 26219 |
 | NA | 15316 |
 
 
@@ -6220,6 +6646,7 @@ W_53_7:SKJEMA_5AARB; You praise your child if he/she behaves well; 53. How often
 | Sometimes | 958 |
 | Never | 5 |
 | More than 1 check box filled in | 13 |
+| Not NA | 26206 |
 | NA | 15329 |
 
 
@@ -6235,6 +6662,7 @@ W_53_8:SKJEMA_5AARB; You talk to your child about his/her friends; 53. How often
 | Almost never | 73 |
 | Never | 15 |
 | More than 1 check box filled in | 9 |
+| Not NA | 26188 |
 | NA | 15347 |
 
 
@@ -6250,6 +6678,7 @@ W_53_9:SKJEMA_5AARB; You let your child out of a punishment early (e.g. lift res
 | Often | 948 |
 | Always | 94 |
 | More than 1 check box filled in | 18 |
+| Not NA | 25703 |
 | NA | 15832 |
 
 
@@ -6267,6 +6696,7 @@ W_54_1:SKJEMA_5AARB; (W_51_1:SKJEMA_5AAR); My life is largely what I wanted it t
 | Disagree | 1633 |
 | Disagree completely | 414 |
 | More than 1 check box filled in | 11 |
+| Not NA | 40737 |
 | NA | 798 |
 
 
@@ -6284,6 +6714,7 @@ W_54_2:SKJEMA_5AARB; (W_51_2:SKJEMA_5AAR); My life is very good; 54. Mark for ev
 | Disagree | 500 |
 | Disagree completely | 176 |
 | More than 1 check box filled in | 12 |
+| Not NA | 40737 |
 | NA | 798 |
 
 
@@ -6301,6 +6732,7 @@ W_54_3:SKJEMA_5AARB; (W_51_3:SKJEMA_5AAR); I am satisfied with my life; 54. Mark
 | Disagree somewhat | 1418 |
 | Disagree completely | 209 |
 | More than 1 check box filled in | 15 |
+| Not NA | 40772 |
 | NA | 763 |
 
 
@@ -6318,6 +6750,7 @@ W_54_4:SKJEMA_5AARB; (W_51_4:SKJEMA_5AAR); I have achieved so far what is import
 | Disagree | 509 |
 | More than 1 check box filled in | 19 |
 | Disagree completely | 173 |
+| Not NA | 40746 |
 | NA | 789 |
 
 
@@ -6335,6 +6768,7 @@ W_54_5:SKJEMA_5AARB; (W_51_5:SKJEMA_5AAR); If I could start all over, there is v
 | Disagree | 2095 |
 | Disagree completely | 665 |
 | More than 1 check box filled in | 16 |
+| Not NA | 40746 |
 | NA | 789 |
 
 
@@ -6352,6 +6786,7 @@ W_54_6:SKJEMA_5AARB; (W_51_6:SKJEMA_5AAR); I am content with my work; 54. Mark f
 | Neither agree nor disagree | 2360 |
 | Disagree completely | 521 |
 | More than 1 check box filled in | 8 |
+| Not NA | 40511 |
 | NA | 1024 |
 
 
@@ -6362,6 +6797,7 @@ W_55_1_1:SKJEMA_5AARB; (W_52_1_1:SKJEMA_5AAR); Have you had problems at work or 
 | Category | n |
 | -------- | - |
 | 1 | 31929 |
+| Not NA | 31929 |
 | NA | 9606 |
 
 
@@ -6372,6 +6808,7 @@ W_55_1_2:SKJEMA_5AARB; (W_52_1_2:SKJEMA_5AAR); Have you had problems at work or 
 | Category | n |
 | -------- | - |
 | 1 | 5487 |
+| Not NA | 5487 |
 | NA | 36048 |
 
 
@@ -6382,6 +6819,7 @@ W_55_1_3:SKJEMA_5AARB; (W_52_1_3:SKJEMA_5AAR); Have you had problems at work or 
 | Category | n |
 | -------- | - |
 | 1 | 3460 |
+| Not NA | 3460 |
 | NA | 38075 |
 
 
@@ -6392,6 +6830,7 @@ W_55_2_1:SKJEMA_5AARB; (W_52_2_1:SKJEMA_5AAR); Have you had financial problems; 
 | Category | n |
 | -------- | - |
 | 1 | 35953 |
+| Not NA | 35953 |
 | NA | 5582 |
 
 
@@ -6402,6 +6841,7 @@ W_55_2_2:SKJEMA_5AARB; (W_52_2_2:SKJEMA_5AAR); Have you had financial problems; 
 | Category | n |
 | -------- | - |
 | 1 | 3662 |
+| Not NA | 3662 |
 | NA | 37873 |
 
 
@@ -6412,6 +6852,7 @@ W_55_2_3:SKJEMA_5AARB; (W_52_2_3:SKJEMA_5AAR); Have you had financial problems; 
 | Category | n |
 | -------- | - |
 | 1 | 1428 |
+| Not NA | 1428 |
 | NA | 40107 |
 
 
@@ -6422,6 +6863,7 @@ W_55_3_1:SKJEMA_5AARB; (W_52_3_1:SKJEMA_5AAR); Have you been divorced, separated
 | Category | n |
 | -------- | - |
 | 1 | 37888 |
+| Not NA | 37888 |
 | NA | 3647 |
 
 
@@ -6432,6 +6874,7 @@ W_55_3_2:SKJEMA_5AARB; (W_52_3_2:SKJEMA_5AAR); Have you been divorced, separated
 | Category | n |
 | -------- | - |
 | 1 | 1065 |
+| Not NA | 1065 |
 | NA | 40470 |
 
 
@@ -6442,6 +6885,7 @@ W_55_3_3:SKJEMA_5AARB; (W_52_3_3:SKJEMA_5AAR); Have you been divorced, separated
 | Category | n |
 | -------- | - |
 | 1 | 2034 |
+| Not NA | 2034 |
 | NA | 39501 |
 
 
@@ -6452,6 +6896,7 @@ W_55_4_1:SKJEMA_5AARB; (W_52_4_1:SKJEMA_5AAR); Have you had problems or conflict
 | Category | n |
 | -------- | - |
 | 1 | 33254 |
+| Not NA | 33254 |
 | NA | 8281 |
 
 
@@ -6462,6 +6907,7 @@ W_55_4_2:SKJEMA_5AARB; (W_52_4_2:SKJEMA_5AAR); Have you had problems or conflict
 | Category | n |
 | -------- | - |
 | 1 | 5249 |
+| Not NA | 5249 |
 | NA | 36286 |
 
 
@@ -6472,6 +6918,7 @@ W_55_4_3:SKJEMA_5AARB; (W_52_4_3:SKJEMA_5AAR); Have you had problems or conflict
 | Category | n |
 | -------- | - |
 | 1 | 2611 |
+| Not NA | 2611 |
 | NA | 38924 |
 
 
@@ -6482,6 +6929,7 @@ W_55_5_1:SKJEMA_5AARB; (W_52_5_1:SKJEMA_5AAR); Have you been seriously worried t
 | Category | n |
 | -------- | - |
 | 1 | 37758 |
+| Not NA | 37758 |
 | NA | 3777 |
 
 
@@ -6492,6 +6940,7 @@ W_55_5_2:SKJEMA_5AARB; (W_52_5_2:SKJEMA_5AAR); Have you been seriously worried t
 | Category | n |
 | -------- | - |
 | 1 | 1908 |
+| Not NA | 1908 |
 | NA | 39627 |
 
 
@@ -6502,6 +6951,7 @@ W_55_5_3:SKJEMA_5AARB; (W_52_5_3:SKJEMA_5AAR); Have you been seriously worried t
 | Category | n |
 | -------- | - |
 | 1 | 1382 |
+| Not NA | 1382 |
 | NA | 40153 |
 
 
@@ -6512,6 +6962,7 @@ W_55_6_1:SKJEMA_5AARB; (W_52_6_1:SKJEMA_5AAR); Have you been seriously ill or in
 | Category | n |
 | -------- | - |
 | 1 | 38228 |
+| Not NA | 38228 |
 | NA | 3307 |
 
 
@@ -6522,6 +6973,7 @@ W_55_6_2:SKJEMA_5AARB; (W_52_6_2:SKJEMA_5AAR); Have you been seriously ill or in
 | Category | n |
 | -------- | - |
 | 1 | 1545 |
+| Not NA | 1545 |
 | NA | 39990 |
 
 
@@ -6532,6 +6984,7 @@ W_55_6_3:SKJEMA_5AARB; (W_52_6_3:SKJEMA_5AAR); Have you been seriously ill or in
 | Category | n |
 | -------- | - |
 | 1 | 1265 |
+| Not NA | 1265 |
 | NA | 40270 |
 
 
@@ -6542,6 +6995,7 @@ W_55_7_1:SKJEMA_5AARB; (W_52_7_1:SKJEMA_5AAR); Has anyone close to you been seri
 | Category | n |
 | -------- | - |
 | 1 | 30599 |
+| Not NA | 30599 |
 | NA | 10936 |
 
 
@@ -6552,6 +7006,7 @@ W_55_7_2:SKJEMA_5AARB; (W_52_7_2:SKJEMA_5AAR); Has anyone close to you been seri
 | Category | n |
 | -------- | - |
 | 1 | 6419 |
+| Not NA | 6419 |
 | NA | 35116 |
 
 
@@ -6562,6 +7017,7 @@ W_55_7_3:SKJEMA_5AARB; (W_52_7_3:SKJEMA_5AAR); Has anyone close to you been seri
 | Category | n |
 | -------- | - |
 | 1 | 4224 |
+| Not NA | 4224 |
 | NA | 37311 |
 
 
@@ -6572,6 +7028,7 @@ W_55_8_1:SKJEMA_5AARB; (W_52_8_1:SKJEMA_5AAR); Have you been involved in a serio
 | Category | n |
 | -------- | - |
 | 1 | 40265 |
+| Not NA | 40265 |
 | NA | 1270 |
 
 
@@ -6582,6 +7039,7 @@ W_55_8_2:SKJEMA_5AARB; (W_52_8_2:SKJEMA_5AAR); Have you been involved in a serio
 | Category | n |
 | -------- | - |
 | 1 | 334 |
+| Not NA | 334 |
 | NA | 41201 |
 
 
@@ -6592,6 +7050,7 @@ W_55_8_3:SKJEMA_5AARB; (W_52_8_3:SKJEMA_5AAR); Have you been involved in a serio
 | Category | n |
 | -------- | - |
 | 1 | 328 |
+| Not NA | 328 |
 | NA | 41207 |
 
 
@@ -6602,6 +7061,7 @@ W_55_9_1:SKJEMA_5AARB; (W_52_9_1:SKJEMA_5AAR); Have you been molested or abused;
 | Category | n |
 | -------- | - |
 | 1 | 40488 |
+| Not NA | 40488 |
 | NA | 1047 |
 
 
@@ -6612,6 +7072,7 @@ W_55_9_2:SKJEMA_5AARB; (W_52_9_2:SKJEMA_5AAR); Have you been molested or abused;
 | Category | n |
 | -------- | - |
 | 1 | 120 |
+| Not NA | 120 |
 | NA | 41415 |
 
 
@@ -6622,6 +7083,7 @@ W_55_9_3:SKJEMA_5AARB; (W_52_9_3:SKJEMA_5AAR); Have you been molested or abused;
 | Category | n |
 | -------- | - |
 | 1 | 301 |
+| Not NA | 301 |
 | NA | 41234 |
 
 
@@ -6632,6 +7094,7 @@ W_5510_1:SKJEMA_5AARB; (W_5210_1:SKJEMA_5AAR); Have you lost someone close to yo
 | Category | n |
 | -------- | - |
 | 1 | 31229 |
+| Not NA | 31229 |
 | NA | 10306 |
 
 
@@ -6642,6 +7105,7 @@ W_5510_2:SKJEMA_5AARB; (W_5210_2:SKJEMA_5AAR); Have you lost someone close to yo
 | Category | n |
 | -------- | - |
 | 1 | 4298 |
+| Not NA | 4298 |
 | NA | 37237 |
 
 
@@ -6652,6 +7116,7 @@ W_5510_3:SKJEMA_5AARB; (W_5210_3:SKJEMA_5AAR); Have you lost someone close to yo
 | Category | n |
 | -------- | - |
 | 1 | 5553 |
+| Not NA | 5553 |
 | NA | 35982 |
 
 
@@ -6662,6 +7127,7 @@ W_5511_1:SKJEMA_5AARB; (W_5211_1:SKJEMA_5AAR); Other dramatic events/ experience
 | Category | n |
 | -------- | - |
 | 1 | 34221 |
+| Not NA | 34221 |
 | NA | 7314 |
 
 
@@ -6672,6 +7138,7 @@ W_5511_2:SKJEMA_5AARB; (W_5211_2:SKJEMA_5AAR); Other dramatic events/ experience
 | Category | n |
 | -------- | - |
 | 1 | 2151 |
+| Not NA | 2151 |
 | NA | 39384 |
 
 
@@ -6682,6 +7149,7 @@ W_5511_3:SKJEMA_5AARB; (W_5211_3:SKJEMA_5AAR); Other dramatic events/ experience
 | Category | n |
 | -------- | - |
 | 1 | 1250 |
+| Not NA | 1250 |
 | NA | 40285 |
 
 
@@ -6694,6 +7162,7 @@ W_56:SKJEMA_5AARB; (W_53:SKJEMA_5AAR); ; 56. Has any of the events listed in the
 | No | 31430 |
 | Yes | 7672 |
 | More than 1 check box filled in | 11 |
+| Not NA | 39113 |
 | NA | 2422 |
 
 
@@ -6709,6 +7178,7 @@ W_57_1:SKJEMA_5AARB; Liven up in a party; 57. Describe yourself the way you usua
 | Disagree somewhat | 2094 |
 | Strongly disagree | 682 |
 | More than 1 check box filled in | 4 |
+| Not NA | 26804 |
 | NA | 14731 |
 
 
@@ -6724,6 +7194,7 @@ W_57_2:SKJEMA_5AARB; Care little about others; 57. Describe yourself the way you
 | Agree somewhat | 411 |
 | More than 1 check box filled in | 40 |
 | Strongly agree | 330 |
+| Not NA | 27078 |
 | NA | 14457 |
 
 
@@ -6739,6 +7210,7 @@ W_57_3:SKJEMA_5AARB; Am always well prepared; 57. Describe yourself the way you 
 | Disagree somewhat | 1182 |
 | More than 1 check box filled in | 25 |
 | Strongly disagree | 150 |
+| Not NA | 27030 |
 | NA | 14505 |
 
 
@@ -6754,6 +7226,7 @@ W_57_4:SKJEMA_5AARB; Become easlily distressed; 57. Describe yourself the way yo
 | Strongly agree | 1728 |
 | Strongly disagree | 1751 |
 | More than 1 check box filled in | 49 |
+| Not NA | 27044 |
 | NA | 14491 |
 
 
@@ -6769,6 +7242,7 @@ W_57_5:SKJEMA_5AARB; Have a rich vocabulary; 57. Describe yourself the way you u
 | Disagree somewhat | 1107 |
 | Strongly disagree | 160 |
 | More than 1 check box filled in | 33 |
+| Not NA | 26978 |
 | NA | 14557 |
 
 
@@ -6784,6 +7258,7 @@ W_57_6:SKJEMA_5AARB; Do not say much; 57. Describe yourself the way you usualle 
 | Agree somewhat | 2349 |
 | Strongly agree | 339 |
 | More than 1 check box filled in | 46 |
+| Not NA | 27034 |
 | NA | 14501 |
 
 
@@ -6799,6 +7274,7 @@ W_57_7:SKJEMA_5AARB; Am interested in other people; 57. Describe yourself the wa
 | Disagree somewhat | 363 |
 | Strongly disagree | 292 |
 | More than 1 check box filled in | 46 |
+| Not NA | 27029 |
 | NA | 14506 |
 
 
@@ -6814,6 +7290,7 @@ W_57_8:SKJEMA_5AARB; Leave things lying around; 57. Describe yourself the way yo
 | Agree somewhat | 5007 |
 | Strongly agree | 1191 |
 | More than 1 check box filled in | 44 |
+| Not NA | 26969 |
 | NA | 14566 |
 
 
@@ -6829,6 +7306,7 @@ W_57_9:SKJEMA_5AARB; Am usually relaxed; 57. Describe yourself the way you usual
 | Disagree somewhat | 4729 |
 | Strongly disagree | 671 |
 | More than 1 check box filled in | 12 |
+| Not NA | 26994 |
 | NA | 14541 |
 
 
@@ -6844,6 +7322,7 @@ W_5710:SKJEMA_5AARB; Have problems understanding abstract ideas; 57. Describe yo
 | More than 1 check box filled in | 37 |
 | Agree somewhat | 1173 |
 | Strongly agree | 223 |
+| Not NA | 26712 |
 | NA | 14823 |
 
 
@@ -6859,6 +7338,7 @@ W_5711:SKJEMA_5AARB; Feel at ease with other people; 57. Describe yourself the w
 | Disagree somewhat | 595 |
 | Strongly disagree | 117 |
 | More than 1 check box filled in | 31 |
+| Not NA | 26995 |
 | NA | 14540 |
 
 
@@ -6874,6 +7354,7 @@ W_5712:SKJEMA_5AARB; Offend people; 57. Describe yourself the way you usualle ar
 | Strongly agree | 105 |
 | Agree somewhat | 485 |
 | More than 1 check box filled in | 75 |
+| Not NA | 26989 |
 | NA | 14546 |
 
 
@@ -6889,6 +7370,7 @@ W_5713:SKJEMA_5AARB; Am attentive to detail; 57. Describe yourself the way you u
 | Disagree somewhat | 1198 |
 | Strongly disagree | 216 |
 | More than 1 check box filled in | 36 |
+| Not NA | 26998 |
 | NA | 14537 |
 
 
@@ -6904,6 +7386,7 @@ W_5714:SKJEMA_5AARB; Worry about many things; 57. Describe yourself the way you 
 | Strongly agree | 1928 |
 | Agree somewhat | 8096 |
 | More than 1 check box filled in | 24 |
+| Not NA | 27009 |
 | NA | 14526 |
 
 
@@ -6919,6 +7402,7 @@ W_5715:SKJEMA_5AARB; Have a lively imagination; 57. Describe yourself the way yo
 | Agree somewhat | 7865 |
 | Strongly disagree | 1769 |
 | More than 1 check box filled in | 24 |
+| Not NA | 26982 |
 | NA | 14553 |
 
 
@@ -6934,6 +7418,7 @@ W_5716:SKJEMA_5AARB; Stay in the background; 57. Describe yourself the way you u
 | Disagree somewhat | 9711 |
 | Strongly agree | 566 |
 | More than 1 check box filled in | 39 |
+| Not NA | 26988 |
 | NA | 14547 |
 
 
@@ -6949,6 +7434,7 @@ W_5717:SKJEMA_5AARB; Have empathy with other people; 57. Describe yourself the w
 | Strongly disagree | 276 |
 | Disagree somewhat | 202 |
 | More than 1 check box filled in | 52 |
+| Not NA | 26980 |
 | NA | 14555 |
 
 
@@ -6964,6 +7450,7 @@ W_5718:SKJEMA_5AARB; Mess things up; 57. Describe yourself the way you usualle a
 | Agree somewhat | 882 |
 | More than 1 check box filled in | 34 |
 | Strongly agree | 223 |
+| Not NA | 26909 |
 | NA | 14626 |
 
 
@@ -6979,6 +7466,7 @@ W_5719:SKJEMA_5AARB; Rarely feel in low spirits; 57. Describe yourself the way y
 | Agree somewhat | 9560 |
 | Strongly disagree | 1047 |
 | More than 1 check box filled in | 28 |
+| Not NA | 26913 |
 | NA | 14622 |
 
 
@@ -6994,6 +7482,7 @@ W_5720:SKJEMA_5AARB; Am not interested in abstract ideas; 57. Describe yourself 
 | Agree somewhat | 2652 |
 | Strongly agree | 491 |
 | More than 1 check box filled in | 19 |
+| Not NA | 26476 |
 | NA | 15059 |
 
 
@@ -7009,6 +7498,7 @@ W_5721:SKJEMA_5AARB; Initiate conversations; 57. Describe yourself the way you u
 | Disagree somewhat | 980 |
 | Strongly disagree | 151 |
 | More than 1 check box filled in | 27 |
+| Not NA | 26953 |
 | NA | 14582 |
 
 
@@ -7024,6 +7514,7 @@ W_5722:SKJEMA_5AARB; Am not interested in other peoples` problems; 57. Describe 
 | Agree somewhat | 888 |
 | Strongly agree | 246 |
 | More than 1 check box filled in | 31 |
+| Not NA | 26907 |
 | NA | 14628 |
 
 
@@ -7039,6 +7530,7 @@ W_5723:SKJEMA_5AARB; Complete tasks at once; 57. Describe yourself the way you u
 | Disagree somewhat | 2667 |
 | Strongly disagree | 417 |
 | More than 1 check box filled in | 36 |
+| Not NA | 26969 |
 | NA | 14566 |
 
 
@@ -7054,6 +7546,7 @@ W_5724:SKJEMA_5AARB; Am easily interrupted; 57. Describe yourself the way you us
 | Disagree somewhat | 9842 |
 | Strongly agree | 595 |
 | More than 1 check box filled in | 33 |
+| Not NA | 26937 |
 | NA | 14598 |
 
 
@@ -7069,6 +7562,7 @@ W_5725:SKJEMA_5AARB; Have excellent ideas; 57. Describe yourself the way you usu
 | Strongly agree | 1659 |
 | Strongly disagree | 272 |
 | More than 1 check box filled in | 22 |
+| Not NA | 26812 |
 | NA | 14723 |
 
 
@@ -7084,6 +7578,7 @@ W_5726:SKJEMA_5AARB; Have little to say; 57. Describe yourself the way you usual
 | Agree somewhat | 1580 |
 | Strongly agree | 236 |
 | More than 1 check box filled in | 59 |
+| Not NA | 26917 |
 | NA | 14618 |
 
 
@@ -7099,6 +7594,7 @@ W_5727:SKJEMA_5AARB; Am good-natured; 57. Describe yourself the way you usualle 
 | Disagree somewhat | 286 |
 | Strongly disagree | 150 |
 | More than 1 check box filled in | 20 |
+| Not NA | 26907 |
 | NA | 14628 |
 
 
@@ -7114,6 +7610,7 @@ W_5728:SKJEMA_5AARB; Often forget to put things back; 57. Describe yourself the 
 | Agree somewhat | 3046 |
 | More than 1 check box filled in | 33 |
 | Strongly agree | 725 |
+| Not NA | 26920 |
 | NA | 14615 |
 
 
@@ -7129,6 +7626,7 @@ W_5729:SKJEMA_5AARB; Become easily upset; 57. Describe yourself the way you usua
 | Strongly disagree | 4496 |
 | Strongly agree | 544 |
 | More than 1 check box filled in | 18 |
+| Not NA | 26917 |
 | NA | 14618 |
 
 
@@ -7144,6 +7642,7 @@ W_5730:SKJEMA_5AARB; Do not have a good imagination; 57. Describe yourself the w
 | Neither nor | 3988 |
 | Strongly agree | 367 |
 | More than 1 check box filled in | 33 |
+| Not NA | 26733 |
 | NA | 14802 |
 
 
@@ -7159,6 +7658,7 @@ W_5731:SKJEMA_5AARB; Talk to many people at a party; 57. Describe yourself the w
 | Strongly disagree | 705 |
 | Disagree somewhat | 3747 |
 | More than 1 check box filled in | 23 |
+| Not NA | 26925 |
 | NA | 14610 |
 
 
@@ -7174,6 +7674,7 @@ W_5732:SKJEMA_5AARB; Am not interested in other people; 57. Describe yourself th
 | Agree somewhat | 473 |
 | Strongly agree | 151 |
 | More than 1 check box filled in | 53 |
+| Not NA | 26906 |
 | NA | 14629 |
 
 
@@ -7189,6 +7690,7 @@ W_5733:SKJEMA_5AARB; Like order and tidiness; 57. Describe yourself the way you 
 | Neither nor | 2672 |
 | Disagree somewhat | 592 |
 | More than 1 check box filled in | 52 |
+| Not NA | 26965 |
 | NA | 14570 |
 
 
@@ -7204,6 +7706,7 @@ W_5734:SKJEMA_5AARB; Lot of mood changes; 57. Describe yourself the way you usua
 | Agree somewhat | 3878 |
 | Strongly agree | 589 |
 | More than 1 check box filled in | 27 |
+| Not NA | 26916 |
 | NA | 14619 |
 
 
@@ -7219,6 +7722,7 @@ W_5735:SKJEMA_5AARB; Am quick to understand things; 57. Describe yourself the wa
 | Disagree somewhat | 584 |
 | Strongly disagree | 84 |
 | More than 1 check box filled in | 27 |
+| Not NA | 26920 |
 | NA | 14615 |
 
 
@@ -7234,6 +7738,7 @@ W_5736:SKJEMA_5AARB; Do not like to attract attention; 57. Describe yourself the
 | Agree somewhat | 7363 |
 | Strongly agree | 1770 |
 | More than 1 check box filled in | 16 |
+| Not NA | 26910 |
 | NA | 14625 |
 
 
@@ -7249,6 +7754,7 @@ W_5737:SKJEMA_5AARB; Take time to help others; 57. Describe yourself the way you
 | Neither nor | 4151 |
 | Strongly disagree | 228 |
 | More than 1 check box filled in | 23 |
+| Not NA | 26902 |
 | NA | 14633 |
 
 
@@ -7264,6 +7770,7 @@ W_5738:SKJEMA_5AARB; Shirk from responsibilities; 57. Describe yourself the way 
 | Agree somewhat | 366 |
 | Strongly agree | 118 |
 | More than 1 check box filled in | 25 |
+| Not NA | 26905 |
 | NA | 14630 |
 
 
@@ -7279,6 +7786,7 @@ W_5739:SKJEMA_5AARB; Often have mood swings; 57. Describe yourself the way you u
 | Agree somewhat | 3585 |
 | Strongly agree | 548 |
 | More than 1 check box filled in | 13 |
+| Not NA | 26917 |
 | NA | 14618 |
 
 
@@ -7294,6 +7802,7 @@ W_5740:SKJEMA_5AARB; Often use difficult words; 57. Describe yourself the way yo
 | Agree somewhat | 3613 |
 | Strongly agree | 889 |
 | More than 1 check box filled in | 27 |
+| Not NA | 26926 |
 | NA | 14609 |
 
 
@@ -7309,6 +7818,7 @@ W_5741:SKJEMA_5AARB; Have nothing against being the centre of attention; 57. Des
 | Agree somewhat | 6780 |
 | Strongly disagree | 2643 |
 | More than 1 check box filled in | 23 |
+| Not NA | 26926 |
 | NA | 14609 |
 
 
@@ -7324,6 +7834,7 @@ W_5742:SKJEMA_5AARB; Am sensitive to other peoples` feelings; 57. Describe yours
 | Disagree somewhat | 303 |
 | Strongly disagree | 151 |
 | More than 1 check box filled in | 20 |
+| Not NA | 26970 |
 | NA | 14565 |
 
 
@@ -7339,6 +7850,7 @@ W_5743:SKJEMA_5AARB; Perform according to plan; 57. Describe yourself the way yo
 | Disagree somewhat | 641 |
 | More than 1 check box filled in | 50 |
 | Strongly disagree | 89 |
+| Not NA | 26941 |
 | NA | 14594 |
 
 
@@ -7354,6 +7866,7 @@ W_5744:SKJEMA_5AARB; Become easily irritated; 57. Describe yourself the way you 
 | Agree somewhat | 7164 |
 | Strongly agree | 821 |
 | More than 1 check box filled in | 25 |
+| Not NA | 26958 |
 | NA | 14577 |
 
 
@@ -7369,6 +7882,7 @@ W_5745:SKJEMA_5AARB; Use time to think things over; 57. Describe yourself the wa
 | Disagree somewhat | 1844 |
 | Strongly disagree | 156 |
 | More than 1 check box filled in | 17 |
+| Not NA | 27007 |
 | NA | 14528 |
 
 
@@ -7384,6 +7898,7 @@ W_5746:SKJEMA_5AARB; Am quiet in company with strangers; 57. Describe yourself t
 | Agree somewhat | 5645 |
 | Strongly agree | 902 |
 | More than 1 check box filled in | 10 |
+| Not NA | 27021 |
 | NA | 14514 |
 
 
@@ -7399,6 +7914,7 @@ W_5747:SKJEMA_5AARB; Put others at their ease; 57. Describe yourself the way you
 | Disagree somewhat | 264 |
 | Strongly disagree | 25 |
 | More than 1 check box filled in | 7 |
+| Not NA | 26949 |
 | NA | 14586 |
 
 
@@ -7414,6 +7930,7 @@ W_5748:SKJEMA_5AARB; Am thorough in my work; 57. Describe yourself the way you u
 | Disagree somewhat | 152 |
 | Strongly disagree | 18 |
 | More than 1 check box filled in | 9 |
+| Not NA | 27005 |
 | NA | 14530 |
 
 
@@ -7429,6 +7946,7 @@ W_5749:SKJEMA_5AARB; Often feel down; 57. Describe yourself the way you usualle 
 | Neither nor | 5766 |
 | Strongly agree | 385 |
 | More than 1 check box filled in | 10 |
+| Not NA | 27002 |
 | NA | 14533 |
 
 
@@ -7444,6 +7962,7 @@ W_5750:SKJEMA_5AARB; Am full of ideas; 57. Describe yourself the way you usualle
 | Neither nor | 10879 |
 | Strongly disagree | 343 |
 | More than 1 check box filled in | 12 |
+| Not NA | 27004 |
 | NA | 14531 |
 
 
@@ -7454,6 +7973,7 @@ W_58_1:SKJEMA_5AARB; My child has never attended kindergarten; 58. We wish to pr
 | Category | n |
 | -------- | - |
 | 1 | 478 |
+| Not NA | 478 |
 | NA | 41057 |
 
 
@@ -7466,6 +7986,7 @@ W_58_2_3:SKJEMA_5AARB; When did the child start to attend this kindergarten?; Fa
 | Spring | 6187 |
 | Fall | 19031 |
 | More than 1 check box filled in | 584 |
+| Not NA | 25802 |
 | NA | 15733 |
 
 
@@ -7492,6 +8013,7 @@ W_58_2_4:SKJEMA_5AARB; When did the child start to attend this kindergarten?; Ye
 | 1998 | 1 |
 | 1997 | 1 |
 | 200 | 1 |
+| Not NA | 25911 |
 | NA | 15624 |
 
 
@@ -7504,6 +8026,7 @@ W_58_3_3:SKJEMA_5AARB; When did the child start to attend this kindergarten?; Fa
 | Spring | 1960 |
 | Fall | 8471 |
 | More than 1 check box filled in | 796 |
+| Not NA | 11227 |
 | NA | 30308 |
 
 
@@ -7525,6 +8048,7 @@ W_58_3_4:SKJEMA_5AARB; When did the child start to attend this kindergarten?; Ye
 | 2005 | 3 |
 | 2004 | 1 |
 | 2018 | 1 |
+| Not NA | 11364 |
 | NA | 30171 |
 
 
@@ -7537,6 +8061,7 @@ W_58_4_3:SKJEMA_5AARB; When did the child start to attend this kindergarten?; Fa
 | Fall | 2156 |
 | More than 1 check box filled in | 643 |
 | Spring | 519 |
+| Not NA | 3318 |
 | NA | 38217 |
 
 
@@ -7555,6 +8080,7 @@ W_58_4_4:SKJEMA_5AARB; When did the child start to attend this kindergarten?; Ye
 | 2013 | 208 |
 | 2007 | 17 |
 | 2000 | 1 |
+| Not NA | 3403 |
 | NA | 38132 |
 
 
@@ -7567,6 +8093,7 @@ W_58_5_3:SKJEMA_5AARB; When did the child start to attend this kindergarten?; Fa
 | Spring | 196 |
 | Fall | 423 |
 | More than 1 check box filled in | 523 |
+| Not NA | 1142 |
 | NA | 40393 |
 
 
@@ -7584,6 +8111,7 @@ W_58_5_4:SKJEMA_5AARB; When did the child start to attend this kindergarten?; Ye
 | 2009 | 64 |
 | 2014 | 16 |
 | 2007 | 2 |
+| Not NA | 1187 |
 | NA | 40348 |
 
 
@@ -7598,6 +8126,7 @@ W__5_1:SKJEMA_5AAR; ; 5. Does your child stay in rooms where somebody smoke?
 | Yes, several times a week | 31 |
 | Do not know | 50 |
 | Yes, every day | 30 |
+| Not NA | 14793 |
 | NA | 26742 |
 
 
@@ -7619,6 +8148,7 @@ W__5_2:SKJEMA_5AAR; If daily, how many hours per day?; 5. Does your child stay i
 | 2 | 7 |
 | 8 | 7 |
 | 9 | 2 |
+| Not NA | 80 |
 | NA | 41455 |
 
 
@@ -7631,6 +8161,7 @@ W_35_1:SKJEMA_5AAR; Does s/he appear to have an unusual good memory for details?
 | No | 5591 |
 | Yes | 9001 |
 | More than 1 check box filled in | 7 |
+| Not NA | 14599 |
 | NA | 26936 |
 
 
@@ -7643,6 +8174,7 @@ W_35_2:SKJEMA_5AAR; Can s/he keep a two-way conversation going?; 35. Language sk
 | Yes | 14491 |
 | No | 215 |
 | More than 1 check box filled in | 3 |
+| Not NA | 14709 |
 | NA | 26826 |
 
 
@@ -7655,6 +8187,7 @@ W_35_3:SKJEMA_5AAR; Has at least one good friend; 35. Language skills
 | Yes | 14470 |
 | No | 226 |
 | More than 1 check box filled in | 4 |
+| Not NA | 14700 |
 | NA | 26835 |
 
 
@@ -7667,6 +8200,7 @@ W_35_4:SKJEMA_5AAR; Does s/he have an unusual eye gaze, facial expression, voice
 | No | 12669 |
 | Yes | 1954 |
 | More than 1 check box filled in | 3 |
+| Not NA | 14626 |
 | NA | 26909 |
 
 
@@ -7679,6 +8213,7 @@ W_35_5:SKJEMA_5AAR; Does s/he prefer imaginative activities such as play-acting 
 | No | 7796 |
 | Yes | 6357 |
 | More than 1 check box filled in | 100 |
+| Not NA | 14253 |
 | NA | 27282 |
 
 
@@ -7691,6 +8226,7 @@ W_35_6:SKJEMA_5AAR; Is it important to him/ her to fit in with the peer group?; 
 | Yes | 10799 |
 | No | 3655 |
 | More than 1 check box filled in | 30 |
+| Not NA | 14484 |
 | NA | 27051 |
 
 
@@ -7703,6 +8239,7 @@ W_35_7:SKJEMA_5AAR; Does s/he tend to take things literally?; 35. Language skill
 | Yes | 6119 |
 | No | 8026 |
 | More than 1 check box filled in | 41 |
+| Not NA | 14186 |
 | NA | 27349 |
 
 
@@ -7715,6 +8252,7 @@ W_35_8:SKJEMA_5AAR; Does s/he have an odd style of communication; old-fashioned,
 | No | 14090 |
 | Yes | 530 |
 | More than 1 check box filled in | 6 |
+| Not NA | 14626 |
 | NA | 26909 |
 
 
@@ -7727,6 +8265,7 @@ W_35_9:SKJEMA_5AAR; Does s/he have a strong interest in an unusual topic; 35. La
 | No | 14120 |
 | Yes | 546 |
 | More than 1 check box filled in | 3 |
+| Not NA | 14669 |
 | NA | 26866 |
 
 
@@ -7739,6 +8278,7 @@ W_3510:SKJEMA_5AAR; Does s/he like to do things over and over again, in the same
 | No | 11581 |
 | Yes | 2930 |
 | More than 1 check box filled in | 31 |
+| Not NA | 14542 |
 | NA | 26993 |
 
 
@@ -7751,6 +8291,7 @@ W_3511:SKJEMA_5AAR; Does s/he find it easy to interact with other children?; 35.
 | Yes | 14050 |
 | No | 599 |
 | More than 1 check box filled in | 26 |
+| Not NA | 14675 |
 | NA | 26860 |
 
 
@@ -7763,6 +8304,7 @@ W_3512:SKJEMA_5AAR; Does s/he mostly have the same interests as his/ her peers?;
 | Yes | 14456 |
 | No | 249 |
 | More than 1 check box filled in | 4 |
+| Not NA | 14709 |
 | NA | 26826 |
 
 
@@ -7775,6 +8317,7 @@ W_3513:SKJEMA_5AAR; Are people important to him/ her?; 35. Language skills
 | Yes | 14411 |
 | No | 273 |
 | More than 1 check box filled in | 5 |
+| Not NA | 14689 |
 | NA | 26846 |
 
 
@@ -7787,6 +8330,7 @@ W_3514:SKJEMA_5AAR; Does s/he often do or say things that are tactless or social
 | No | 13948 |
 | Yes | 695 |
 | More than 1 check box filled in | 16 |
+| Not NA | 14659 |
 | NA | 26876 |
 
 
@@ -7799,6 +8343,7 @@ W_3515:SKJEMA_5AAR; Rather solitary and tends to play alone; 35. Language skills
 | No | 13910 |
 | Yes | 733 |
 | More than 1 check box filled in | 37 |
+| Not NA | 14680 |
 | NA | 26855 |
 
 
@@ -7811,6 +8356,7 @@ W_3516:SKJEMA_5AAR; Does s/he have any unusual or repetitive movements?; 35. Lan
 | No | 14447 |
 | Yes | 240 |
 | More than 1 check box filled in | 1 |
+| Not NA | 14688 |
 | NA | 26847 |
 
 
@@ -7823,6 +8369,7 @@ W_3517:SKJEMA_5AAR; Is his/ her social behavior very one-sided and always on his
 | No | 14321 |
 | Yes | 327 |
 | More than 1 check box filled in | 17 |
+| Not NA | 14665 |
 | NA | 26870 |
 
 
@@ -7835,6 +8382,7 @@ W_3518:SKJEMA_5AAR; Does s/he sometimes lose the listener because of not explain
 | No | 13370 |
 | Yes | 1267 |
 | More than 1 check box filled in | 4 |
+| Not NA | 14641 |
 | NA | 26894 |
 
 
@@ -7847,6 +8395,7 @@ W_3519:SKJEMA_5AAR; Does s/he care how s/he is perceived by the rest of the grou
 | Yes | 11285 |
 | No | 3157 |
 | More than 1 check box filled in | 54 |
+| Not NA | 14496 |
 | NA | 27039 |
 
 
@@ -7859,6 +8408,7 @@ W_3520:SKJEMA_5AAR; Does s/he often turn conversations to his/ her favorite subj
 | No | 12083 |
 | Yes | 2327 |
 | More than 1 check box filled in | 57 |
+| Not NA | 14467 |
 | NA | 27068 |
 
 
@@ -7887,6 +8437,7 @@ AGE_SENT_MTHS_Q5AAR:SKJEMA_5AAR; Childs age in months when questionnaire was sen
 | 76 | 21 |
 | 75 | 104 |
 | 57 | 2 |
+| Not NA | 41535 |
 | NA | 0 |
 
 
@@ -7903,6 +8454,7 @@ AGE_MTHS_Q5AAR:SKJEMA_5AAR; Childs age in months when questionnaire was complete
 | 3rd Qu. | 63 |
 | Max. | 169 |
 | NA's | 953 |
+| Not NA | 40582 |
 
 
 ### AGE_RETURN_MTHS_Q5AAR
@@ -7917,6 +8469,7 @@ AGE_RETURN_MTHS_Q5AAR:SKJEMA_5AAR; Childs age in months when questionnaire was r
 | Mean | 63.0844107379319 |
 | 3rd Qu. | 64 |
 | Max. | 132 |
+| Not NA | 41535 |
 
 
 ### Q5AARP1
@@ -7931,6 +8484,7 @@ Q5AARP1:SKJEMA_5AARB; (Q5AARP1:SKJEMA_5AAR); ; .
 | Mean | 19.4356085229325 |
 | 3rd Qu. | 21 |
 | Max. | 27 |
+| Not NA | 41535 |
 
 
 ### Q5AARP2
@@ -7945,6 +8499,7 @@ Q5AARP2:SKJEMA_5AARB; (Q5AARP2:SKJEMA_5AAR); ; .
 | Mean | 30.8105453232214 |
 | 3rd Qu. | 34 |
 | Max. | 66 |
+| Not NA | 41535 |
 
 
 ### Q5AARP3
@@ -7959,6 +8514,7 @@ Q5AARP3:SKJEMA_5AARB; (Q5AARP3:SKJEMA_5AAR); ; .
 | Mean | 20.2726616106898 |
 | 3rd Qu. | 22 |
 | Max. | 35 |
+| Not NA | 41535 |
 
 
 ### Q5AARP4
@@ -7973,6 +8529,7 @@ Q5AARP4:SKJEMA_5AARB; (Q5AARP4:SKJEMA_5AAR); ; .
 | Mean | 19.974768267726 |
 | 3rd Qu. | 22 |
 | Max. | 30 |
+| Not NA | 41535 |
 
 
 ### Q5AARP5
@@ -7987,6 +8544,7 @@ Q5AARP5:SKJEMA_5AARB; (Q5AARP5:SKJEMA_5AAR); ; .
 | Mean | 35.3958589141688 |
 | 3rd Qu. | 39 |
 | Max. | 39 |
+| Not NA | 41535 |
 
 
 ### Q5AARP6
@@ -8001,6 +8559,7 @@ Q5AARP6:SKJEMA_5AARB; (Q5AARP6:SKJEMA_5AAR); ; .
 | Mean | 41.5765498976767 |
 | 3rd Qu. | 44 |
 | Max. | 44 |
+| Not NA | 41535 |
 
 
 ### Q5AARP7
@@ -8015,6 +8574,7 @@ Q5AARP7:SKJEMA_5AARB; (Q5AARP7:SKJEMA_5AAR); ; .
 | Mean | 42.9820633200915 |
 | 3rd Qu. | 46 |
 | Max. | 46 |
+| Not NA | 41535 |
 
 
 ### Q5AARP8
@@ -8029,6 +8589,7 @@ Q5AARP8:SKJEMA_5AARB; (Q5AARP8:SKJEMA_5AAR); ; .
 | Mean | 28.3312627904177 |
 | 3rd Qu. | 35 |
 | Max. | 41 |
+| Not NA | 41535 |
 
 
 ### Q5AARP9
@@ -8043,6 +8604,7 @@ Q5AARP9:SKJEMA_5AARB; (Q5AARP9:SKJEMA_5AAR); ; .
 | Mean | 15.4650054171181 |
 | 3rd Qu. | 27 |
 | Max. | 28 |
+| Not NA | 41535 |
 
 
 ### Q5AARP10
@@ -8057,6 +8619,7 @@ Q5AARP10:SKJEMA_5AARB; (Q5AARP10:SKJEMA_5AAR); ; .
 | Mean | 28.7157096424702 |
 | 3rd Qu. | 39 |
 | Max. | 44 |
+| Not NA | 41535 |
 
 
 ### Q5AARP11
@@ -8072,6 +8635,7 @@ Q5AARP11:SKJEMA_5AARB; ; .
 | 3rd Qu. | 46 |
 | Max. | 46 |
 | NA's | 14814 |
+| Not NA | 26721 |
 
 
 ### Q5AARP12
@@ -8087,5 +8651,6 @@ Q5AARP12:SKJEMA_5AARB; ; .
 | 3rd Qu. | 13 |
 | Max. | 22 |
 | NA's | 14814 |
+| Not NA | 26721 |
 
 

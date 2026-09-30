@@ -15,6 +15,7 @@
 | 1 | 22282 |
 | 2 | 389 |
 | 3 | 4 |
+| Not NA | 22675 |
 | NA | 0 |
 
 
@@ -26,6 +27,7 @@
 | MOBAUNG_1C | 12951 |
 | MOBAUNG_1B | 6255 |
 | MOBAUNG_1A | 3469 |
+| Not NA | 22675 |
 | NA | 0 |
 
 
@@ -40,6 +42,7 @@ A__6:MOBAUNG_1C; (A__6:MOBAUNG_1B); (A__6:MOBAUNG_1A); FØLT DEG GLAD FOR NOE; 6
 | SJELDEN/ALDRI | 209 |
 | NOEN GANGER | 5003 |
 | NOKSÅ SJELDEN | 839 |
+| Not NA | 22639 |
 | NA | 36 |
 
 
@@ -54,6 +57,7 @@ A__7:MOBAUNG_1C; (A__7:MOBAUNG_1B); (A__7:MOBAUNG_1A); FØLT DEG LYKKELIG; 7. TE
 | OFTE | 8455 |
 | SJELDEN/ALDRI | 685 |
 | NOEN GANGER | 6586 |
+| Not NA | 22622 |
 | NA | 53 |
 
 
@@ -68,6 +72,7 @@ A__8:MOBAUNG_1C; (A__8:MOBAUNG_1B); (A__8:MOBAUNG_1A); FØLT GLEDE, SOM OM ALT G
 | NOEN GANGER | 8818 |
 | SJELDEN/ALDRI | 1391 |
 | OFTE | 6327 |
+| Not NA | 22622 |
 | NA | 53 |
 
 
@@ -80,6 +85,7 @@ AGE_YRS_YA1; MOBAUNG_1C; (A__2:MOBAUNG_1B); (A__2:MOBAUNG_1A); BARNETS ALDER I �
 | 16 | 21485 |
 | 17 | 1188 |
 | 19 | 2 |
+| Not NA | 22675 |
 | NA | 0 |
 
 

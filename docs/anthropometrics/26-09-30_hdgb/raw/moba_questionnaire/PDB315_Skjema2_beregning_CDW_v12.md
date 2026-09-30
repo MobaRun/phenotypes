@@ -47,6 +47,7 @@ VERSJON_KOST_TBL1
 | Category | n |
 | -------- | - |
 | KOST_B | 87100 |
+| Not NA | 87100 |
 | NA | 0 |
 
 
@@ -62,6 +63,7 @@ VANN_G:KOST_B; ; .
 | Mean | 3078.91114408726 |
 | 3rd Qu. | 3631.9125 |
 | Max. | 34748.69 |
+| Not NA | 87100 |
 
 
 ### KJ
@@ -76,6 +78,7 @@ M_KJ:KOST_B; (KJ:KOST_A); Energy_kJ; .
 | Mean | 9835.26970275545 |
 | 3rd Qu. | 11201.745 |
 | Max. | 118973.74 |
+| Not NA | 87100 |
 
 
 ### KCAL
@@ -90,6 +93,7 @@ M_KCAL:KOST_B; (KCAL:KOST_A); Energy_kcal; .
 | Mean | 2338.80049070034 |
 | 3rd Qu. | 2663.845 |
 | Max. | 28159.87 |
+| Not NA | 87100 |
 
 
 ### TOT_PROT
@@ -104,6 +108,7 @@ TOT_PROT:KOST_B; (TOT_PROT:KOST_A); Protein; .
 | Mean | 87.6966252583238 |
 | 3rd Qu. | 99.37 |
 | Max. | 863.94 |
+| Not NA | 87100 |
 
 
 ### TOT_FETT
@@ -118,6 +123,7 @@ TOT_FETT:KOST_B; (TOT_FETT:KOST_A); Total fat, g; .
 | Mean | 81.481658783008 |
 | 3rd Qu. | 94.26 |
 | Max. | 1021.58 |
+| Not NA | 87100 |
 
 
 ### METTET
@@ -132,6 +138,7 @@ METTET:KOST_B; (METTET:KOST_A); Saturated fatty acids, g; .
 | Mean | 31.4348584385763 |
 | 3rd Qu. | 36.58 |
 | Max. | 403.84 |
+| Not NA | 87100 |
 
 
 ### TOT_TRANS
@@ -146,6 +153,7 @@ TOT_TRANS:KOST_B; (TOT_TRANS:KOST_A); Sum trans fatty acids, g; .
 | Mean | 2.3254205510907 |
 | 3rd Qu. | 2.8 |
 | Max. | 28.24 |
+| Not NA | 87100 |
 
 
 ### ENUMETTET
@@ -160,6 +168,7 @@ ENUMETTET:KOST_B; (ENUMETTET:KOST_A); Monounsaturated fatty acids, g; .
 | Mean | 26.1607315729047 |
 | 3rd Qu. | 30.3 |
 | Max. | 347.8 |
+| Not NA | 87100 |
 
 
 ### FLERUMETTET
@@ -174,6 +183,7 @@ FLERUMETTET:KOST_B; (FLERUMETTET:KOST_A); Polyunsaturated fatty acids, g; .
 | Mean | 15.3341211251435 |
 | 3rd Qu. | 18.11 |
 | Max. | 186.03 |
+| Not NA | 87100 |
 
 
 ### KOLESTEROL
@@ -188,6 +198,7 @@ KOLESTEROL:KOST_B; (KOLESTEROL:KOST_A); Cholesterol, mg; .
 | Mean | 245.598713432836 |
 | 3rd Qu. | 280.1 |
 | Max. | 2275.16 |
+| Not NA | 87100 |
 
 
 ### TOT_KARB
@@ -202,6 +213,7 @@ TOT_KARB:KOST_B; (TOT_KARB:KOST_A); Carbohydrates, g; .
 | Mean | 312.407481056257 |
 | 3rd Qu. | 360.0025 |
 | Max. | 3875.76 |
+| Not NA | 87100 |
 
 
 ### STIVELSE
@@ -216,6 +228,7 @@ STIVELSE:KOST_B; (STIVELSE:KOST_A); Starch, g; .
 | Mean | 145.915716647532 |
 | 3rd Qu. | 170.88 |
 | Max. | 1189.53 |
+| Not NA | 87100 |
 
 
 ### FIBER
@@ -230,6 +243,7 @@ FIBER:KOST_B; (FIBER:KOST_A); Dietary fiber, g; .
 | Mean | 31.2278098737084 |
 | 3rd Qu. | 36.8025 |
 | Max. | 332.65 |
+| Not NA | 87100 |
 
 
 ### MONO_DISAKK
@@ -244,6 +258,7 @@ MONO_DISAKK:KOST_B; (MONO_DISAKK:KOST_A); Mono- and disaccharides, g; .
 | Mean | 153.764555223881 |
 | 3rd Qu. | 181.74 |
 | Max. | 2576.82 |
+| Not NA | 87100 |
 
 
 ### SUKKER
@@ -258,6 +273,7 @@ SUKKER:KOST_B; (SUKKER:KOST_A); Added sugar. g; .
 | Mean | 63.3163838117107 |
 | 3rd Qu. | 76.9 |
 | Max. | 1620.15 |
+| Not NA | 87100 |
 
 
 ### ALKOHOL
@@ -272,6 +288,7 @@ ALKOHOL:KOST_B; (ALKOHOL:KOST_A); Alkohol, g; .
 | Mean | 0.0833762342135476 |
 | 3rd Qu. | 0 |
 | Max. | 106.1 |
+| Not NA | 87100 |
 
 
 ### RETINOL
@@ -286,6 +303,7 @@ RETINOL:KOST_B; (RETINOL:KOST_A); Retinol, ug; .
 | Mean | 859.347841102181 |
 | 3rd Qu. | 1083.1125 |
 | Max. | 12402.34 |
+| Not NA | 87100 |
 
 
 ### BETAKAROTEN
@@ -300,6 +318,7 @@ BETAKAROTEN:KOST_B; (BETAKAROTEN:KOST_A); Beta Carotene, ug; .
 | Mean | 2644.84633432836 |
 | 3rd Qu. | 3251.3975 |
 | Max. | 37465.49 |
+| Not NA | 87100 |
 
 
 ### RET_EKVIV
@@ -314,6 +333,7 @@ RET_EKVIV:KOST_B; (RET_EKVIV:KOST_A); Total Retinol, ug (1 beta c.=1/6 retinol);
 | Mean | 1294.7324216992 |
 | 3rd Qu. | 1595.5275 |
 | Max. | 14136.62 |
+| Not NA | 87100 |
 
 
 ### VIT_D
@@ -328,6 +348,7 @@ VIT_D:KOST_B; (VIT_D:KOST_A); Vitamin D, ug; .
 | Mean | 3.57276268656716 |
 | 3rd Qu. | 4.46 |
 | Max. | 73.85 |
+| Not NA | 87100 |
 
 
 ### VIT_E
@@ -342,6 +363,7 @@ VIT_E:KOST_B; (VIT_E:KOST_A); Vitamin E, mg; .
 | Mean | 10.9738957520092 |
 | 3rd Qu. | 12.86 |
 | Max. | 157.62 |
+| Not NA | 87100 |
 
 
 ### TIAMIN
@@ -356,6 +378,7 @@ TIAMIN:KOST_B; (TIAMIN:KOST_A); Thiamin, mg; .
 | Mean | 1.55649506314581 |
 | 3rd Qu. | 1.8 |
 | Max. | 16.68 |
+| Not NA | 87100 |
 
 
 ### RIBOFLAVIN
@@ -370,6 +393,7 @@ RIBOFLAVIN:KOST_B; (RIBOFLAVIN:KOST_A); Riboflavin, mg; .
 | Mean | 1.97968518943743 |
 | 3rd Qu. | 2.35 |
 | Max. | 27.72 |
+| Not NA | 87100 |
 
 
 ### NIACIN
@@ -384,6 +408,7 @@ NIACIN:KOST_B; (NIACIN:KOST_A); Niacin, mg; .
 | Mean | 19.3645332950631 |
 | 3rd Qu. | 21.88 |
 | Max. | 169.34 |
+| Not NA | 87100 |
 
 
 ### NIACIN_EQ
@@ -398,6 +423,7 @@ NIACIN_EQ:KOST_B; (NIACIN_EQ:KOST_A); Niacin equivalents, mg; .
 | Mean | 30.8243117106774 |
 | 3rd Qu. | 34.64 |
 | Max. | 300.81 |
+| Not NA | 87100 |
 
 
 ### VIT_B6
@@ -412,6 +438,7 @@ VIT_B6:KOST_B; (VIT_B6:KOST_A); Pyridoxine, mg; .
 | Mean | 1.5665383467279 |
 | 3rd Qu. | 1.8 |
 | Max. | 17.89 |
+| Not NA | 87100 |
 
 
 ### FOLAT
@@ -426,6 +453,7 @@ FOLAT:KOST_B; (FOLAT:KOST_A); Folate, ug; .
 | Mean | 280.129799655568 |
 | 3rd Qu. | 328.175 |
 | Max. | 3920.86 |
+| Not NA | 87100 |
 
 
 ### VIT_B12
@@ -440,6 +468,7 @@ VIT_B12:KOST_B; (VIT_B12:KOST_A); Vitamin B12, ug; .
 | Mean | 6.00912411021814 |
 | 3rd Qu. | 7.29 |
 | Max. | 75.65 |
+| Not NA | 87100 |
 
 
 ### ASKORBIN
@@ -454,6 +483,7 @@ ASKORBIN:KOST_B; (ASKORBIN:KOST_A); Vitamin C, mg; .
 | Mean | 167.443243168772 |
 | 3rd Qu. | 207.2925 |
 | Max. | 2607.38 |
+| Not NA | 87100 |
 
 
 ### KALSIUM
@@ -468,6 +498,7 @@ KALSIUM:KOST_B; (KALSIUM:KOST_A); Calsium, mg; .
 | Mean | 1061.65914638347 |
 | 3rd Qu. | 1270.2425 |
 | Max. | 17045.13 |
+| Not NA | 87100 |
 
 
 ### JERN
@@ -482,6 +513,7 @@ JERN:KOST_B; (JERN:KOST_A); Iron, mg; .
 | Mean | 11.4201344431688 |
 | 3rd Qu. | 13.28 |
 | Max. | 109.91 |
+| Not NA | 87100 |
 
 
 ### NATRIUM
@@ -496,6 +528,7 @@ NATRIUM:KOST_B; (NATRIUM:KOST_A); Sodium, mg; .
 | Mean | 3060.74445774971 |
 | 3rd Qu. | 3502.41 |
 | Max. | 22348.55 |
+| Not NA | 87100 |
 
 
 ### KALIUM
@@ -510,6 +543,7 @@ KALIUM:KOST_B; (KALIUM:KOST_A); Potassium, mg; .
 | Mean | 4068.08290149254 |
 | 3rd Qu. | 4670.47 |
 | Max. | 49475.62 |
+| Not NA | 87100 |
 
 
 ### MAGNESIUM
@@ -524,6 +558,7 @@ MAGNESIUM:KOST_B; (MAGNESIUM:KOST_A); Magnssium, mg; .
 | Mean | 406.774406773823 |
 | 3rd Qu. | 469.37 |
 | Max. | 4761 |
+| Not NA | 87100 |
 
 
 ### SINK
@@ -538,6 +573,7 @@ SINK:KOST_B; (SINK:KOST_A); Zinc, mg; .
 | Mean | 11.3794340987371 |
 | 3rd Qu. | 13.07 |
 | Max. | 105.55 |
+| Not NA | 87100 |
 
 
 ### SELEN
@@ -552,6 +588,7 @@ SELEN:KOST_B; (SELEN:KOST_A); Selenium, ug; .
 | Mean | 54.8661928817451 |
 | 3rd Qu. | 63.13 |
 | Max. | 372.25 |
+| Not NA | 87100 |
 
 
 ### KOPPER
@@ -566,6 +603,7 @@ KOPPER:KOST_B; (KOPPER:KOST_A); Copper, mg; .
 | Mean | 1.42213662456946 |
 | 3rd Qu. | 1.64 |
 | Max. | 15.04 |
+| Not NA | 87100 |
 
 
 ### FOSFOR
@@ -580,5 +618,6 @@ FOSFOR:KOST_B; (FOSFOR:KOST_A); Phosphorus, mg; .
 | Mean | 1721.65128576349 |
 | 3rd Qu. | 1992.9 |
 | Max. | 20003.18 |
+| Not NA | 87100 |
 
 

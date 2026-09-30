@@ -44,6 +44,7 @@
 | MOBA45FAR_BBM | 14632 |
 | MOBA45FAR_BNN | 1072 |
 | MOBA45FAR_A | 514 |
+| Not NA | 16218 |
 | NA | 0 |
 
 
@@ -64,6 +65,7 @@ QFOR45M_1:MOBA45FAR_BNN; (QFOR45M_1:MOBA45FAR_BBM); (QFOR45M_1:MOBA45FAR_A); ; 1
 | 9 BARN | 5 |
 | 8 BARN | 16 |
 | 0 BARN | 5 |
+| Not NA | 16214 |
 | NA | 4 |
 
 
@@ -84,6 +86,7 @@ QFOR45M_2:MOBA45FAR_BNN; (QFOR45M_2:MOBA45FAR_BBM); (QFOR45M_2:MOBA45FAR_A); ; 2
 | 10 ELLER FLERE BARN | 5 |
 | 9 BARN | 3 |
 | 8 BARN | 8 |
+| Not NA | 16181 |
 | NA | 37 |
 
 
@@ -99,6 +102,7 @@ QFOR45M_3:MOBA45FAR_BNN; (QFOR45M_3:MOBA45FAR_BBM); (QFOR45M_3:MOBA45FAR_A); ; 3
 | 4 BARN | 1 |
 | 3 BARN | 6 |
 | 8 BARN | 1 |
+| Not NA | 16041 |
 | NA | 177 |
 
 
@@ -115,6 +119,7 @@ QFOR45M_4:MOBA45FAR_BNN; (QFOR45M_4:MOBA45FAR_BBM); (QFOR45M_4:MOBA45FAR_A); ; 4
 | 4 BARN | 52 |
 | 5 BARN | 7 |
 | 6 BARN | 1 |
+| Not NA | 16159 |
 | NA | 59 |
 
 
@@ -126,6 +131,7 @@ QFOR45M_5:MOBA45FAR_BNN; (QFOR45M_5:MOBA45FAR_BBM); (QFOR45M_5:MOBA45FAR_A); ; 5
 | -------- | - |
 | NEI | 13650 |
 | JA | 2559 |
+| Not NA | 16209 |
 | NA | 9 |
 
 
@@ -137,6 +143,7 @@ QFOR45M_6:MOBA45FAR_BNN; (QFOR45M_6:MOBA45FAR_BBM); (QFOR45M_6:MOBA45FAR_A); ; 6
 | -------- | - |
 | NEI | 14150 |
 | JA | 2063 |
+| Not NA | 16213 |
 | NA | 5 |
 
 
@@ -148,6 +155,7 @@ QFOR45M_7_1:MOBA45FAR_BNN; (QFOR45M_7_1:MOBA45FAR_BBM); (QFOR45M_7_1:MOBA45FAR_A
 | -------- | - |
 | NEI | 15474 |
 | JA | 728 |
+| Not NA | 16202 |
 | NA | 16 |
 
 
@@ -158,6 +166,7 @@ QFOR45M_7_2_1:MOBA45FAR_BNN; (QFOR45M_7_2_1:MOBA45FAR_BBM); (QFOR45M_7_2_1:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 16212 |
 
 
@@ -168,6 +177,7 @@ QFOR45M_7_2_2:MOBA45FAR_BNN; (QFOR45M_7_2_2:MOBA45FAR_BBM); (QFOR45M_7_2_2:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 109 |
+| Not NA | 109 |
 | NA | 16109 |
 
 
@@ -178,6 +188,7 @@ QFOR45M_7_2_3:MOBA45FAR_BNN; (QFOR45M_7_2_3:MOBA45FAR_BBM); (QFOR45M_7_2_3:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 22 |
+| Not NA | 22 |
 | NA | 16196 |
 
 
@@ -188,6 +199,7 @@ QFOR45M_7_2_4:MOBA45FAR_BNN; (QFOR45M_7_2_4:MOBA45FAR_BBM); (QFOR45M_7_2_4:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 43 |
+| Not NA | 43 |
 | NA | 16175 |
 
 
@@ -198,6 +210,7 @@ QFOR45M_7_2_5:MOBA45FAR_BNN; (QFOR45M_7_2_5:MOBA45FAR_BBM); (QFOR45M_7_2_5:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 10 |
+| Not NA | 10 |
 | NA | 16208 |
 
 
@@ -208,6 +221,7 @@ QFOR45M_7_2_6:MOBA45FAR_BNN; (QFOR45M_7_2_6:MOBA45FAR_BBM); (QFOR45M_7_2_6:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 151 |
+| Not NA | 151 |
 | NA | 16067 |
 
 
@@ -218,6 +232,7 @@ QFOR45M_7_2_7:MOBA45FAR_BNN; (QFOR45M_7_2_7:MOBA45FAR_BBM); (QFOR45M_7_2_7:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 432 |
+| Not NA | 432 |
 | NA | 15786 |
 
 
@@ -228,6 +243,7 @@ QFOR45M_8_1_1:MOBA45FAR_BNN; (QFOR45M_8_1_1:MOBA45FAR_BBM); (QFOR45M_8_1_1:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 14809 |
+| Not NA | 14809 |
 | NA | 1409 |
 
 
@@ -238,6 +254,7 @@ QFOR45M_8_1_2:MOBA45FAR_BNN; (QFOR45M_8_1_2:MOBA45FAR_BBM); (QFOR45M_8_1_2:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 471 |
+| Not NA | 471 |
 | NA | 15747 |
 
 
@@ -248,6 +265,7 @@ QFOR45M_8_1_3:MOBA45FAR_BNN; (QFOR45M_8_1_3:MOBA45FAR_BBM); (QFOR45M_8_1_3:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 111 |
+| Not NA | 111 |
 | NA | 16107 |
 
 
@@ -258,6 +276,7 @@ QFOR45M_8_1_4:MOBA45FAR_BNN; (QFOR45M_8_1_4:MOBA45FAR_BBM); (QFOR45M_8_1_4:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 602 |
+| Not NA | 602 |
 | NA | 15616 |
 
 
@@ -268,6 +287,7 @@ QFOR45M_8_1_5:MOBA45FAR_BNN; (QFOR45M_8_1_5:MOBA45FAR_BBM); (QFOR45M_8_1_5:MOBA4
 | Category | n |
 | -------- | - |
 | 1 | 330 |
+| Not NA | 330 |
 | NA | 15888 |
 
 
@@ -278,6 +298,7 @@ QFOR45M_8_2_1:MOBA45FAR_A; VI BRUKTE EGET EGG OG DONOR SÆD: DERSOM DU HAR GJENN
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 16215 |
 
 
@@ -288,6 +309,7 @@ QFOR45M_8_2_2:MOBA45FAR_A; VI BRUKTE KUN DONOR EGG: DERSOM DU HAR GJENNOMGÅTT P
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 16216 |
 
 
@@ -297,6 +319,7 @@ QFOR45M_8_2_3:MOBA45FAR_A; VI BRUKTE KUN DONOR SÆD: DERSOM DU HAR GJENNOMGÅTT 
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 16218 |
 
 
@@ -306,6 +329,7 @@ QFOR45M_8_2_4:MOBA45FAR_A; VI BRUKTE BÅDE DONOR EGG OG SÆD: DERSOM DU HAR GJEN
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 16218 |
 
 
@@ -316,6 +340,7 @@ QFOR45M_8_2_2:MOBA45FAR_BNN; (QFOR45M_8_2_2:MOBA45FAR_BBM); Vi brukte donoregg o
 | Category | n |
 | -------- | - |
 | 1 | 13 |
+| Not NA | 13 |
 | NA | 16205 |
 
 
@@ -326,6 +351,7 @@ QFOR45M_8_2_3:MOBA45FAR_BNN; (QFOR45M_8_2_3:MOBA45FAR_BBM); Vi brukte donorsæd 
 | Category | n |
 | -------- | - |
 | 1 | 11 |
+| Not NA | 11 |
 | NA | 16207 |
 
 
@@ -336,6 +362,7 @@ QFOR45M_8_2_1:MOBA45FAR_BNN; (QFOR45M_8_2_1:MOBA45FAR_BBM); Vi brukte eget egg o
 | Category | n |
 | -------- | - |
 | 1 | 920 |
+| Not NA | 920 |
 | NA | 15298 |
 
 
@@ -346,6 +373,7 @@ QFOR45M_8_2_4:MOBA45FAR_BNN; (QFOR45M_8_2_4:MOBA45FAR_BBM); Vi brukte både dono
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 16217 |
 
 
@@ -362,6 +390,7 @@ QFOR45M_9:MOBA45FAR_BNN; (QFOR45M_9:MOBA45FAR_BBM); (QFOR45M_9:MOBA45FAR_A); ; 9
 | 3rd Qu. | 96 |
 | Max. | 250 |
 | NA's | 39 |
+| Not NA | 16179 |
 
 
 ### LF35
@@ -373,6 +402,7 @@ QFOR45M10_1:MOBA45FAR_BNN; (QFOR45M10_1:MOBA45FAR_BBM); (QFOR45M10_1:MOBA45FAR_A
 | NEI | 15122 |
 | JA, DAGLIG | 501 |
 | JA, AV OG TIL (IKKE HVER DAG) | 572 |
+| Not NA | 16195 |
 | NA | 23 |
 
 
@@ -389,6 +419,7 @@ QFOR45M10_2:MOBA45FAR_BNN; (QFOR45M10_2:MOBA45FAR_BBM); (QFOR45M10_2:MOBA45FAR_A
 | 3rd Qu. | 15 |
 | Max. | 40 |
 | NA's | 15723 |
+| Not NA | 495 |
 
 
 ### LF37
@@ -404,6 +435,7 @@ QFOR45M10_3:MOBA45FAR_BNN; (QFOR45M10_3:MOBA45FAR_BBM); (QFOR45M_10_3:MOBA45FAR_
 | 3rd Qu. | 15 |
 | Max. | 80 |
 | NA's | 15653 |
+| Not NA | 565 |
 
 
 ### LF38
@@ -416,6 +448,7 @@ QFOR45M11_1:MOBA45FAR_BNN; (QFOR45M11_1:MOBA45FAR_BBM); (QFOR45M11_1:MOBA45FAR_A
 | 1-2 GANGER I UKEN | 5818 |
 | IKKE I DET HELE TATT | 1676 |
 | 3-4 GANGER I UKEN | 1832 |
+| Not NA | 16208 |
 | NA | 10 |
 
 
@@ -430,6 +463,7 @@ QFOR45M11_2:MOBA45FAR_BNN; (QFOR45M11_2:MOBA45FAR_BBM); (QFOR45M11_2:MOBA45FAR_A
 | 1-3 GANGER I MÅNEDEN | 7976 |
 | 3-4 GANGER I UKEN | 120 |
 | MER ENN 4 GANGER I UKEN | 43 |
+| Not NA | 14517 |
 | NA | 1701 |
 
 
@@ -445,5 +479,6 @@ AGE_YRS_LF; MOBA45FAR_BNN; (AGE_YRS_LF:MOBA45FAR_BBM); (AGE_YRS_LF:MOBA45FAR_A);
 | Mean | 51.5270686891109 |
 | 3rd Qu. | 54 |
 | Max. | 81 |
+| Not NA | 16218 |
 
 

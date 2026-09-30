@@ -112,6 +112,7 @@
 | -------- | - |
 | 1 | 6283 |
 | 2 | 89 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -121,6 +122,7 @@
 | Category | n |
 | -------- | - |
 | MOBA19_A | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -132,6 +134,7 @@ Q19A_1_1:MOBA19_A; Går på videregående. ; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 6073 |
 | 1 | 299 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -143,6 +146,7 @@ Q19A_1_2:MOBA19_A; Studerer. ; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 2943 |
 | 1 | 3429 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -154,6 +158,7 @@ Q19A_1_3:MOBA19_A; Har yrkespraksis/er lærling.; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 1 | 518 |
 | 0 | 5854 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -165,6 +170,7 @@ Q19A_1_4:MOBA19_A; Er i militærtjeneste. ; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 5893 |
 | 1 | 479 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -176,6 +182,7 @@ Q19A_1_5:MOBA19_A; Går på folkehøgskole. ; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 6101 |
 | 1 | 271 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -187,6 +194,7 @@ Q19A_1_6:MOBA19_A; Har et friår. ; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 5611 |
 | 1 | 761 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -198,6 +206,7 @@ Q19A_1_7:MOBA19_A; Er arbeidssøkende/permittert. ; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 6269 |
 | 1 | 103 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -209,6 +218,7 @@ Q19A_1_8:MOBA19_A; Er sykmeldt/ufør/under attføring. ; 1. HVA GJØR DU TIL VAN
 | -------- | - |
 | 0 | 6282 |
 | 1 | 90 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -220,6 +230,7 @@ Q19A_1_9:MOBA19_A; Er ansatt i privat virksomhet. ; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 5327 |
 | 1 | 1045 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -231,6 +242,7 @@ Q19A_1_10:MOBA19_A; Er ansatt i offentlig virksomhet. ; 1. HVA GJØR DU TIL VANL
 | -------- | - |
 | 0 | 5447 |
 | 1 | 925 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -242,6 +254,7 @@ Q19A_1_11:MOBA19_A; Er selvstendig næringsdrivende. ; 1. HVA GJØR DU TIL VANLI
 | -------- | - |
 | 0 | 6315 |
 | 1 | 57 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -253,6 +266,7 @@ Q19A_1_12:MOBA19_A; Er freelancer. ; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 6300 |
 | 1 | 72 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -264,6 +278,7 @@ Q19A_1_13:MOBA19_A; Annet. ; 1. HVA GJØR DU TIL VANLIG?
 | -------- | - |
 | 0 | 6214 |
 | 1 | 158 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -275,6 +290,7 @@ Q19A_2:MOBA19_A; ; 2. Har du hatt inntektsgivende arbeid i løpet av det siste �
 | -------- | - |
 | Ja | 5459 |
 | Nei | 895 |
+| Not NA | 6354 |
 | NA | 18 |
 
 
@@ -291,6 +307,7 @@ Q19A_2_1:MOBA19_A; Hvor mange timer jobber du i gjennomsnitt en vanlig uke? (Hvi
 | 3rd Qu. | 37 |
 | Max. | 99 |
 | NA's | 1096 |
+| Not NA | 5276 |
 
 
 ### VG28
@@ -303,6 +320,7 @@ Q19A_2_2:MOBA19_A; Har du arbeidstid utenom vanlig dagtid - jobber du kveld (kl.
 | Ja, kveld | 2172 |
 | Ja, begge | 1074 |
 | Ja, natt | 88 |
+| Not NA | 5378 |
 | NA | 994 |
 
 
@@ -345,6 +363,7 @@ Q19A_2_2_1:MOBA19_A; Hvor mange netter i måneden jobber du i gjennomsnitt? (Hvi
 | 30 | 0 |
 | 31 | 2 |
 | NA's | 6286 |
+| Not NA | 86 |
 
 
 ### VG30
@@ -360,6 +379,7 @@ Q19A_3:MOBA19_A; ; 3. Hvor mange timer bruker du på skole eller studier i uken?
 | 3rd Qu. | 32 |
 | Max. | 90 |
 | NA's | 558 |
+| Not NA | 5814 |
 
 
 ### VG31
@@ -370,6 +390,7 @@ Q19A_4_1:MOBA19_A; Studielån og stipend til livsopphold (utenom skolepenger); 4
 | -------- | - |
 | 0 | 3014 |
 | 1 | 3358 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -381,6 +402,7 @@ Q19A_4_2:MOBA19_A; Økonomisk hjelp fra foreldre/familie; 4. Hvor kommer inntekt
 | -------- | - |
 | 0 | 5041 |
 | 1 | 1331 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -392,6 +414,7 @@ Q19A_4_3:MOBA19_A; Arbeid eller næringsvirksomhet; 4. Hvor kommer inntekten din
 | -------- | - |
 | 1 | 4458 |
 | 0 | 1914 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -403,6 +426,7 @@ Q19A_4_4:MOBA19_A; Annet; 4. Hvor kommer inntekten din fra?
 | -------- | - |
 | 0 | 5971 |
 | 1 | 401 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -415,6 +439,7 @@ Q19A_4_2_1:MOBA19_A; Hvor mye forventer du å få i studielån og stipend til li
 | Length | 6372 |
 | Class | character |
 | Mode | character |
+| Not NA | 6372 |
 
 
 ### VG360
@@ -424,6 +449,7 @@ Q19A_4_2_1:MOBA19_A; Hvor mye forventer du å få i studielån og stipend til li
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -434,6 +460,7 @@ Q19A_4_2_1:MOBA19_A; Hvor mye forventer du å få i studielån og stipend til li
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -444,6 +471,7 @@ Q19A_4_2_1:MOBA19_A; Hvor mye forventer du å få i studielån og stipend til li
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -454,6 +482,7 @@ Q19A_4_2_1:MOBA19_A; Hvor mye forventer du å få i studielån og stipend til li
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -464,6 +493,7 @@ Q19A_4_2_1:MOBA19_A; Hvor mye forventer du å få i studielån og stipend til li
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -476,6 +506,7 @@ Q19A_4_3_1:MOBA19_A; Hvor mye forventer du å få i økonomisk hjelp fra foreldr
 | Length | 6372 |
 | Class | character |
 | Mode | character |
+| Not NA | 6372 |
 
 
 ### VG370
@@ -485,6 +516,7 @@ Q19A_4_3_1:MOBA19_A; Hvor mye forventer du å få i økonomisk hjelp fra foreldr
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -495,6 +527,7 @@ Q19A_4_3_1:MOBA19_A; Hvor mye forventer du å få i økonomisk hjelp fra foreldr
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -505,6 +538,7 @@ Q19A_4_3_1:MOBA19_A; Hvor mye forventer du å få i økonomisk hjelp fra foreldr
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -515,6 +549,7 @@ Q19A_4_3_1:MOBA19_A; Hvor mye forventer du å få i økonomisk hjelp fra foreldr
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -525,6 +560,7 @@ Q19A_4_3_1:MOBA19_A; Hvor mye forventer du å få i økonomisk hjelp fra foreldr
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -537,6 +573,7 @@ Q19A_4_4_1:MOBA19_A; Hvor mye forventer du å få i inntekt fra arbeid eller næ
 | Length | 6372 |
 | Class | character |
 | Mode | character |
+| Not NA | 6372 |
 
 
 ### VG380
@@ -546,6 +583,7 @@ Q19A_4_4_1:MOBA19_A; Hvor mye forventer du å få i inntekt fra arbeid eller næ
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -556,6 +594,7 @@ Q19A_4_4_1:MOBA19_A; Hvor mye forventer du å få i inntekt fra arbeid eller næ
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -566,6 +605,7 @@ Q19A_4_4_1:MOBA19_A; Hvor mye forventer du å få i inntekt fra arbeid eller næ
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -576,6 +616,7 @@ Q19A_4_4_1:MOBA19_A; Hvor mye forventer du å få i inntekt fra arbeid eller næ
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -586,6 +627,7 @@ Q19A_4_4_1:MOBA19_A; Hvor mye forventer du å få i inntekt fra arbeid eller næ
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -598,6 +640,7 @@ Q19A_4_5:MOBA19_A; Hvor mye forventer du å få i inntekt fra andre kilder i år
 | Length | 6372 |
 | Class | character |
 | Mode | character |
+| Not NA | 6372 |
 
 
 ### VG390
@@ -607,6 +650,7 @@ Q19A_4_5:MOBA19_A; Hvor mye forventer du å få i inntekt fra andre kilder i år
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -617,6 +661,7 @@ Q19A_4_5:MOBA19_A; Hvor mye forventer du å få i inntekt fra andre kilder i år
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -627,6 +672,7 @@ Q19A_4_5:MOBA19_A; Hvor mye forventer du å få i inntekt fra andre kilder i år
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -637,6 +683,7 @@ Q19A_4_5:MOBA19_A; Hvor mye forventer du å få i inntekt fra andre kilder i år
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -647,6 +694,7 @@ Q19A_4_5:MOBA19_A; Hvor mye forventer du å få i inntekt fra andre kilder i år
 | Category | n |
 | -------- | - |
 |  | 6372 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -658,6 +706,7 @@ Q19A_5_1:MOBA19_A; Jeg bor alene; 5. Hva er din bosituasjon i dag?
 | -------- | - |
 | 0 | 5478 |
 | 1 | 894 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -669,6 +718,7 @@ Q19A_5_2:MOBA19_A; Jeg bor med kjæreste/samboer/ektefelle; 5. Hva er din bositu
 | -------- | - |
 | 0 | 5528 |
 | 1 | 844 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -680,6 +730,7 @@ Q19A_5_3:MOBA19_A; Jeg bor med en eller to foreldre /steforeldre; 5. Hva er din 
 | -------- | - |
 | 0 | 3901 |
 | 1 | 2471 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -691,6 +742,7 @@ Q19A_5_4:MOBA19_A; Jeg bor med søsken/halvsøsken/stesøsken; 5. Hva er din bos
 | -------- | - |
 | 0 | 5483 |
 | 1 | 889 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -702,6 +754,7 @@ Q19A_5_5:MOBA19_A; Jeg bor med venner/i kollektiv /på kaserne; 5. Hva er din bo
 | -------- | - |
 | 1 | 2253 |
 | 0 | 4119 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -713,6 +766,7 @@ Q19A_5_6:MOBA19_A; Jeg bor med egne barn; 5. Hva er din bosituasjon i dag?
 | -------- | - |
 | 0 | 6340 |
 | 1 | 32 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -724,6 +778,7 @@ Q19A_5_7:MOBA19_A; Jeg bor med andres barn; 5. Hva er din bosituasjon i dag?
 | -------- | - |
 | 0 | 6362 |
 | 1 | 10 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -735,6 +790,7 @@ Q19A_5_8:MOBA19_A; Jeg bor med andre enn nevnt ovenfor; 5. Hva er din bosituasjo
 | -------- | - |
 | 0 | 6169 |
 | 1 | 203 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -761,6 +817,7 @@ Q19A_6:MOBA19_A; ; 6. Dersom du har gått på videregående skole, hvilket utdan
 | Elektro og datateknologi | 286 |
 | Salg, service og reiseliv | 87 |
 | Restaurant- og matfag | 68 |
+| Not NA | 6306 |
 | NA | 66 |
 
 
@@ -779,6 +836,7 @@ Q19A_6_1:MOBA19_A; Når startet du første gang på videregående?; 6. Dersom du
 | 2015 | 23 |
 | 2014 | 2 |
 | 2022 | 1 |
+| Not NA | 6267 |
 | NA | 105 |
 
 
@@ -790,6 +848,7 @@ Q19A_7_1:MOBA19_A; Ungdomsskole (sett kryss også om du hadde karakter 1 i ett e
 | -------- | - |
 | 1 | 5331 |
 | 0 | 1041 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -801,6 +860,7 @@ Q19A_7_2:MOBA19_A; Vg1/grunnkompetanse (yrkesfaglig); 7. Hvilke utdanningstrinn 
 | -------- | - |
 | 1 | 1693 |
 | 0 | 4679 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -812,6 +872,7 @@ Q19A_7_3:MOBA19_A; Vg1 (studieforberedende); 7. Hvilke utdanningstrinn har du fu
 | -------- | - |
 | 0 | 2348 |
 | 1 | 4024 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -823,6 +884,7 @@ Q19A_7_4:MOBA19_A; Vg2 (yrkesfaglig); 7. Hvilke utdanningstrinn har du fullført
 | -------- | - |
 | 1 | 1611 |
 | 0 | 4761 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -834,6 +896,7 @@ Q19A_7_5:MOBA19_A; Vg2 (studieforberedende); 7. Hvilke utdanningstrinn har du fu
 | -------- | - |
 | 0 | 2406 |
 | 1 | 3966 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -845,6 +908,7 @@ Q19A_7_6:MOBA19_A; Fagbrev /svennebrev (yrkesfaglig); 7. Hvilke utdanningstrinn 
 | -------- | - |
 | 0 | 5867 |
 | 1 | 505 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -856,6 +920,7 @@ Q19A_7_7:MOBA19_A; Vg3 (studieforberedende); 7. Hvilke utdanningstrinn har du fu
 | -------- | - |
 | 0 | 1943 |
 | 1 | 4429 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -867,6 +932,7 @@ Q19A_7_8:MOBA19_A; Påbygging til generell studiekompetanse; 7. Hvilke utdanning
 | -------- | - |
 | 0 | 5695 |
 | 1 | 677 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -878,6 +944,7 @@ Q19A_7_9:MOBA19_A; Fagskolegrad/mesterbrev; 7. Hvilke utdanningstrinn har du ful
 | -------- | - |
 | 0 | 6349 |
 | 1 | 23 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -889,6 +956,7 @@ Q19A_7_10:MOBA19_A; Høyskole/universitet opp til 4 år (bachelorgrad); 7. Hvilk
 | -------- | - |
 | 0 | 6010 |
 | 1 | 362 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -900,6 +968,7 @@ Q19A_7_11:MOBA19_A; Høyskole/universitet over 4 år (mastergrad); 7. Hvilke utd
 | -------- | - |
 | 0 | 6364 |
 | 1 | 8 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -911,6 +980,7 @@ Q19A_7_12:MOBA19_A; Annet; 7. Hvilke utdanningstrinn har du fullført, det vil s
 | -------- | - |
 | 0 | 6095 |
 | 1 | 277 |
+| Not NA | 6372 |
 | NA | 0 |
 
 
@@ -922,6 +992,7 @@ Q19A_7_2_1:MOBA19_A; Jeg er fortsatt under opplæring (skole eller lære). Hvorf
 | -------- | - |
 | 1 | 600 |
 | 0 | 5081 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -933,6 +1004,7 @@ Q19A_7_2_2:MOBA19_A; Jeg gikk lei / manglet motivasjon. Hvorfor har du ikke full
 | -------- | - |
 | 0 | 5545 |
 | 1 | 136 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -944,6 +1016,7 @@ Q19A_7_2_3:MOBA19_A; Jeg valgte feil eller ble usikker på valg. Hvorfor har du 
 | -------- | - |
 | 0 | 5595 |
 | 1 | 86 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -955,6 +1028,7 @@ Q19A_7_2_4:MOBA19_A; Jeg kom ikke inn på ønsket utdanningsprogram/programområ
 | -------- | - |
 | 0 | 5667 |
 | 1 | 14 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -966,6 +1040,7 @@ Q19A_7_2_5:MOBA19_A; Jeg kom ikke inn på ønsket skole. Hvorfor har du ikke ful
 | -------- | - |
 | 0 | 5673 |
 | 1 | 8 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -977,6 +1052,7 @@ Q19A_7_2_6:MOBA19_A; Jeg fikk ikke læreplass. Hvorfor har du ikke fullført vid
 | -------- | - |
 | 0 | 5656 |
 | 1 | 25 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -988,6 +1064,7 @@ Q19A_7_2_7:MOBA19_A; Jeg ble permittert fra læreplassen. Hvorfor har du ikke fu
 | -------- | - |
 | 0 | 5675 |
 | 1 | 6 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -999,6 +1076,7 @@ Q19A_7_2_8:MOBA19_A; Jeg mistet læreplassen / ble sagt opp. Hvorfor har du ikke
 | -------- | - |
 | 0 | 5674 |
 | 1 | 7 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1010,6 +1088,7 @@ Q19A_7_2_9:MOBA19_A; Jeg følte at jeg ikke mestret fagene på skolen. Hvorfor h
 | -------- | - |
 | 0 | 5624 |
 | 1 | 57 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1021,6 +1100,7 @@ Q19A_7_2_10:MOBA19_A; Jeg trivdes ikke med miljøet på skolen. Hvorfor har du i
 | -------- | - |
 | 0 | 5595 |
 | 1 | 86 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1032,6 +1112,7 @@ Q19A_7_2_11:MOBA19_A; Jeg mestret ikke jobben som lærling. Hvorfor har du ikke 
 | -------- | - |
 | 0 | 5667 |
 | 1 | 14 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1043,6 +1124,7 @@ Q19A_7_2_12:MOBA19_A; Jeg trivdes ikke i bedriften som lærling. Hvorfor har du 
 | -------- | - |
 | 0 | 5662 |
 | 1 | 19 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1054,6 +1136,7 @@ Q19A_7_2_13:MOBA19_A; Jeg mestret ikke hjemmeskole / hjemmearbeid under koronapa
 | -------- | - |
 | 0 | 5640 |
 | 1 | 41 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1065,6 +1148,7 @@ Q19A_7_2_14:MOBA19_A; Jeg fikk karakteren 1 / ikke bestått i et eller flere fag
 | -------- | - |
 | 0 | 5616 |
 | 1 | 65 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1076,6 +1160,7 @@ Q19A_7_2_15:MOBA19_A; Jeg fikk for høyt udokumentert fravær. Hvorfor har du ik
 | -------- | - |
 | 0 | 5615 |
 | 1 | 66 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1087,6 +1172,7 @@ Q19A_7_2_16:MOBA19_A; Jeg fikk ikke karakter i ett eller flere fag grunnet mangl
 | -------- | - |
 | 0 | 5601 |
 | 1 | 80 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1098,6 +1184,7 @@ Q19A_7_2_17:MOBA19_A; Jeg ønsket heller å jobbe. Hvorfor har du ikke fullført
 | -------- | - |
 | 0 | 5603 |
 | 1 | 78 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1109,6 +1196,7 @@ Q19A_7_2_18:MOBA19_A; Jeg ville heller gå på folkehøyskole. Hvorfor har du ik
 | -------- | - |
 | 0 | 5655 |
 | 1 | 26 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1120,6 +1208,7 @@ Q19A_7_2_19:MOBA19_A; Jeg ville ta et friår uten utdanning/arbeid. Hvorfor har 
 | -------- | - |
 | 0 | 5658 |
 | 1 | 23 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1131,6 +1220,7 @@ Q19A_7_2_20:MOBA19_A; Jeg ble fysisk syk. Hvorfor har du ikke fullført videreg�
 | -------- | - |
 | 0 | 5594 |
 | 1 | 87 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1142,6 +1232,7 @@ Q19A_7_2_21:MOBA19_A; Jeg fikk psykiske vansker. Hvorfor har du ikke fullført v
 | -------- | - |
 | 0 | 5481 |
 | 1 | 200 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1153,6 +1244,7 @@ Q19A_7_2_22:MOBA19_A; Jeg fikk rusproblemer. Hvorfor har du ikke fullført vider
 | -------- | - |
 | 0 | 5666 |
 | 1 | 15 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1164,6 +1256,7 @@ Q19A_7_2_23:MOBA19_A; Jeg opplevde problemer i familien. Hvorfor har du ikke ful
 | -------- | - |
 | 0 | 5655 |
 | 1 | 26 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1175,6 +1268,7 @@ Q19A_7_2_24:MOBA19_A; Jeg fikk barn. Hvorfor har du ikke fullført videregående
 | -------- | - |
 | 0 | 5674 |
 | 1 | 7 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1186,6 +1280,7 @@ Q19A_7_2_25:MOBA19_A; Jeg vet ikke. Hvorfor har du ikke fullført videregående?
 | -------- | - |
 | 0 | 5655 |
 | 1 | 26 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1197,6 +1292,7 @@ Q19A_7_2_26:MOBA19_A; Annet. Hvorfor har du ikke fullført videregående?; 7. Hv
 | -------- | - |
 | 0 | 5321 |
 | 1 | 360 |
+| Not NA | 5681 |
 | NA | 691 |
 
 
@@ -1218,6 +1314,7 @@ Q19A_7_3_1:MOBA19_A; Hvor mange grunnskolepoeng fikk du på ungdomsskolen?; 7. H
 | 20-24 grunnskolepoeng (snitt 2,0-2,4) | 11 |
 | 10-14 grunnskolepoeng (snitt 1,0-1,4) | 3 |
 | 15-19 grunnskolepoeng (snitt 1,5-1,9) | 10 |
+| Not NA | 6315 |
 | NA | 57 |
 
 
@@ -1234,6 +1331,7 @@ Q19A_7_4_1:MOBA19_A; Innen hvilket utdanningsprogram oppnådde du studiekompetan
 | Musikk, dans og drama | 349 |
 | Påbygging til generell studiekompetanse | 650 |
 | Medier og kommunikasjon | 164 |
+| Not NA | 5065 |
 | NA | 1307 |
 
 
@@ -1255,6 +1353,7 @@ Q19A7_5:MOBA19_A; Hvor mange karakterpoeng hadde du på førstegangsvitnemålet 
 | 15-19 karakterpoeng (snitt 1,5-1,9) | 3 |
 | 25-29 karakterpoeng (snitt 2,5-2,9) | 7 |
 | 20-24 karakterpoeng (snitt 2,0-2,4) | 2 |
+| Not NA | 5062 |
 | NA | 1310 |
 
 
@@ -1275,6 +1374,7 @@ Q19A_7_6_1:MOBA19_A; Hva var ditt karaktersnitt på kompetansebeviset for yrkesf
 | Jeg fikk ikke kompetansebevis | 27 |
 | 2,0-2,4 | 5 |
 | 1,5-1,9 | 1 |
+| Not NA | 1591 |
 | NA | 4781 |
 
 
@@ -1295,6 +1395,7 @@ Q19A9_7_7:MOBA19_A; Innen hvilket utdanningsprogram fullførte du yrkesfaglig Vg
 | Elektro og datateknologi | 242 |
 | Salg, service og reiseliv | 69 |
 | Restaurant- og matfag | 55 |
+| Not NA | 1594 |
 | NA | 4778 |
 
 
@@ -1311,6 +1412,7 @@ Q19A13:MOBA19_A; ; 13. Hvor høy er du?
 | 3rd Qu. | 180 |
 | Max. | 267 |
 | NA's | 32 |
+| Not NA | 6340 |
 
 
 ### VG135
@@ -1326,6 +1428,7 @@ Q19A14:MOBA19_A; ; 14. HVOR MYE VEIER DU UTEN KLÆR OG SKO?
 | 3rd Qu. | 78 |
 | Max. | 190 |
 | NA's | 176 |
+| Not NA | 6196 |
 
 
 ### AGE_YRS_VG
@@ -1340,6 +1443,7 @@ AGE_YRS_VG; MOBA19_A; BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0.
 | 22 | 513 |
 | 20 | 1819 |
 | 23 | 287 |
+| Not NA | 6372 |
 | NA | 0 |
 
 

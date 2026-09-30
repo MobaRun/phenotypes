@@ -94,6 +94,7 @@
 | Category | n |
 | -------- | - |
 | ULSKJEMA | 90787 |
+| Not NA | 90787 |
 | NA | 0 |
 
 
@@ -105,6 +106,7 @@ P_PILLEBRUK_6MND:ULSKJEMA; ; .
 | -------- | - |
 | 0 | 45394 |
 | 1 | 18035 |
+| Not NA | 63429 |
 | NA | 27358 |
 
 
@@ -116,6 +118,7 @@ ROKER:ULSKJEMA; ; . R�yker du n� for tiden?
 | -------- | - |
 | 0 | 68074 |
 | 1 | 5935 |
+| Not NA | 74009 |
 | NA | 16778 |
 
 
@@ -132,6 +135,7 @@ ROKER_ANT:ULSKJEMA; ; .
 | 3rd Qu. | 10 |
 | Max. | 115 |
 | NA's | 85808 |
+| Not NA | 4979 |
 
 
 ### VARIGHET_UKER
@@ -147,6 +151,7 @@ VARIGHET_UKER:ULSKJEMA; ; .
 | 3rd Qu. | 19 |
 | Max. | 49 |
 | NA's | 16291 |
+| Not NA | 74496 |
 
 
 ### VARIGHET_DAGER
@@ -165,6 +170,7 @@ VARIGHET_DAGER:ULSKJEMA; ; .
 | 7 | 107 |
 | 8 | 7 |
 | 9 | 10 |
+| Not NA | 72094 |
 | NA | 18693 |
 
 
@@ -181,6 +187,7 @@ US_DUE_DATE_AGE:ULSKJEMA; Barnets alder ved dato for ultralydtermin; .
 | 3rd Qu. | 8 |
 | Max. | 161 |
 | NA's | 72 |
+| Not NA | 90715 |
 
 
 ### US_DATE_AGE
@@ -196,6 +203,7 @@ US_DATE_AGE:ULSKJEMA; Barnets alder ved dato for ultralysscrenning; .
 | 3rd Qu. | -143 |
 | Max. | 5 |
 | NA's | 72 |
+| Not NA | 90715 |
 
 
 ### LMP_US_AGE
@@ -211,6 +219,7 @@ LMP_US_AGE:ULSKJEMA; Barnets alder ved dato for siste mens oppgitt i ultralydskj
 | 3rd Qu. | -275 |
 | Max. | 91 |
 | NA's | 4743 |
+| Not NA | 86044 |
 
 
 ### CRL
@@ -226,6 +235,7 @@ CRL:ULSKJEMA; ; .
 | 3rd Qu. | 30 |
 | Max. | 165 |
 | NA's | 90390 |
+| Not NA | 397 |
 
 
 ### BPD
@@ -241,6 +251,7 @@ BPD:ULSKJEMA; ; .
 | 3rd Qu. | 47 |
 | Max. | 444 |
 | NA's | 686 |
+| Not NA | 90101 |
 
 
 ### MAD
@@ -256,6 +267,7 @@ MAD:ULSKJEMA; ; .
 | 3rd Qu. | 44 |
 | Max. | 443 |
 | NA's | 21894 |
+| Not NA | 68893 |
 
 
 ### FEMUR
@@ -271,6 +283,7 @@ FEMUR:ULSKJEMA; ; .
 | 3rd Qu. | 29 |
 | Max. | 334 |
 | NA's | 2386 |
+| Not NA | 88401 |
 
 
 ### HO
@@ -286,6 +299,7 @@ HO:ULSKJEMA; ; .
 | 3rd Qu. | 160 |
 | Max. | 255 |
 | NA's | 81167 |
+| Not NA | 9620 |
 
 
 ### AC
@@ -301,6 +315,7 @@ AC:ULSKJEMA; ; .
 | 3rd Qu. | 139 |
 | Max. | 257 |
 | NA's | 83230 |
+| Not NA | 7557 |
 
 
 ### CRL_F2
@@ -316,6 +331,7 @@ CRL_F2:ULSKJEMA; ; .
 | 11 | 1 |
 | 50 | 1 |
 | 45 | 1 |
+| Not NA | 11 |
 | NA | 90776 |
 
 
@@ -332,6 +348,7 @@ BPD_F2:ULSKJEMA; ; .
 | 3rd Qu. | 46 |
 | Max. | 78 |
 | NA's | 89519 |
+| Not NA | 1268 |
 
 
 ### MAD_F2
@@ -347,6 +364,7 @@ MAD_F2:ULSKJEMA; ; .
 | 3rd Qu. | 43 |
 | Max. | 81 |
 | NA's | 89815 |
+| Not NA | 972 |
 
 
 ### FEMUR_F2
@@ -362,6 +380,7 @@ FEMUR_F2:ULSKJEMA; ; .
 | 3rd Qu. | 29 |
 | Max. | 53 |
 | NA's | 89556 |
+| Not NA | 1231 |
 
 
 ### HO_F2
@@ -377,6 +396,7 @@ HO_F2:ULSKJEMA; ; .
 | 3rd Qu. | 160 |
 | Max. | 179 |
 | NA's | 90615 |
+| Not NA | 172 |
 
 
 ### AC_F2
@@ -392,6 +412,7 @@ AC_F2:ULSKJEMA; ; .
 | 3rd Qu. | 137 |
 | Max. | 160 |
 | NA's | 90659 |
+| Not NA | 128 |
 
 
 ### CRL_F3
@@ -400,6 +421,7 @@ CRL_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -417,6 +439,7 @@ BPD_F3:ULSKJEMA; ; .
 | 41 | 2 |
 | 47 | 1 |
 | 45 | 1 |
+| Not NA | 16 |
 | NA | 90771 |
 
 
@@ -434,6 +457,7 @@ MAD_F3:ULSKJEMA; ; .
 | 42 | 1 |
 | 41 | 1 |
 | 43 | 1 |
+| Not NA | 10 |
 | NA | 90777 |
 
 
@@ -448,6 +472,7 @@ FEMUR_F3:ULSKJEMA; ; .
 | 26 | 1 |
 | 27 | 6 |
 | 24 | 2 |
+| Not NA | 15 |
 | NA | 90772 |
 
 
@@ -461,6 +486,7 @@ HO_F3:ULSKJEMA; ; .
 | 152 | 2 |
 | 157 | 1 |
 | 156 | 2 |
+| Not NA | 6 |
 | NA | 90781 |
 
 
@@ -475,6 +501,7 @@ AC_F3:ULSKJEMA; ; .
 | 135 | 1 |
 | 131 | 1 |
 | 130 | 1 |
+| Not NA | 5 |
 | NA | 90782 |
 
 
@@ -486,6 +513,7 @@ FA_KRANIUM:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 4 |
 | 0 | 3 |
+| Not NA | 7 |
 | NA | 90780 |
 
 
@@ -497,6 +525,7 @@ FA_HJERNE:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 12 |
 | 0 | 2 |
+| Not NA | 14 |
 | NA | 90773 |
 
 
@@ -507,6 +536,7 @@ FA_RYGG:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 90786 |
 
 
@@ -518,6 +548,7 @@ FA_NAKKE_HALS:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 5 |
 | 0 | 1 |
+| Not NA | 6 |
 | NA | 90781 |
 
 
@@ -529,6 +560,7 @@ FA_HJERTE:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 48 |
 | 0 | 3 |
+| Not NA | 51 |
 | NA | 90736 |
 
 
@@ -539,6 +571,7 @@ FA_INTESTINAL:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 30 |
+| Not NA | 30 |
 | NA | 90757 |
 
 
@@ -550,6 +583,7 @@ FA_NYRE:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 91 |
 | 0 | 4 |
+| Not NA | 95 |
 | NA | 90692 |
 
 
@@ -561,6 +595,7 @@ FA_URINBLARE:ULSKJEMA; ; .
 | -------- | - |
 | 0 | 2 |
 | 1 | 7 |
+| Not NA | 9 |
 | NA | 90778 |
 
 
@@ -572,6 +607,7 @@ FA_KROPP:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 4 |
 | 0 | 1 |
+| Not NA | 5 |
 | NA | 90782 |
 
 
@@ -583,6 +619,7 @@ FA_EKSTREMITETER:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 15 |
 | 0 | 3 |
+| Not NA | 18 |
 | NA | 90769 |
 
 
@@ -594,6 +631,7 @@ FA_FOSTERVANN:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 11 |
 | 0 | 1 |
+| Not NA | 12 |
 | NA | 90775 |
 
 
@@ -603,6 +641,7 @@ FA_KRANIUM_F2:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -612,6 +651,7 @@ FA_HJERNE_F2:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -621,6 +661,7 @@ FA_RYGG_F2:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -631,6 +672,7 @@ FA_NAKKE_HALS_F2:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 90786 |
 
 
@@ -640,6 +682,7 @@ FA_HJERTE_F2:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -649,6 +692,7 @@ FA_INTESTINAL_F2:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -659,6 +703,7 @@ FA_NYRE_F2:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 90785 |
 
 
@@ -669,6 +714,7 @@ FA_URINBLARE_F2:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 0 | 1 |
+| Not NA | 1 |
 | NA | 90786 |
 
 
@@ -678,6 +724,7 @@ FA_KROPP_F2:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -687,6 +734,7 @@ FA_EKSTREMITETER_F2:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -696,6 +744,7 @@ FA_FOSTERVANN_F2:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -705,6 +754,7 @@ FA_KRANIUM_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -714,6 +764,7 @@ FA_HJERNE_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -723,6 +774,7 @@ FA_RYGG_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -732,6 +784,7 @@ FA_NAKKE_HALS_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -741,6 +794,7 @@ FA_HJERTE_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -750,6 +804,7 @@ FA_INTESTINAL_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -759,6 +814,7 @@ FA_NYRE_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -768,6 +824,7 @@ FA_URINBLARE_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -777,6 +834,7 @@ FA_KROPP_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -786,6 +844,7 @@ FA_EKSTREMITETER_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -795,6 +854,7 @@ FA_FOSTERVANN_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -806,6 +866,7 @@ PL_ANTERIOR:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 44233 |
 | 0 | 384 |
+| Not NA | 44617 |
 | NA | 46170 |
 
 
@@ -817,6 +878,7 @@ PL_POSTERIOR:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 43189 |
 | 0 | 134 |
+| Not NA | 43323 |
 | NA | 47464 |
 
 
@@ -828,6 +890,7 @@ PL_FUNDUS:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 8882 |
 | 0 | 89 |
+| Not NA | 8971 |
 | NA | 81816 |
 
 
@@ -839,6 +902,7 @@ PL_LATDEXT:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 8796 |
 | 0 | 68 |
+| Not NA | 8864 |
 | NA | 81923 |
 
 
@@ -850,6 +914,7 @@ PL_LATSIN:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 7753 |
 | 0 | 54 |
+| Not NA | 7807 |
 | NA | 82980 |
 
 
@@ -861,6 +926,7 @@ PL_DJUPTSETE:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 3799 |
 | 0 | 33 |
+| Not NA | 3832 |
 | NA | 86955 |
 
 
@@ -872,6 +938,7 @@ PL_PREVIAPART:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 1014 |
 | 0 | 35 |
+| Not NA | 1049 |
 | NA | 89738 |
 
 
@@ -883,6 +950,7 @@ PL_PREVIAMARG:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 2471 |
 | 0 | 9 |
+| Not NA | 2480 |
 | NA | 88307 |
 
 
@@ -894,6 +962,7 @@ PL_PREVIACENTR:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 600 |
 | 0 | 20 |
+| Not NA | 620 |
 | NA | 90167 |
 
 
@@ -905,6 +974,7 @@ PL_ANTERIOR_F2:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 657 |
 | 0 | 10 |
+| Not NA | 667 |
 | NA | 90120 |
 
 
@@ -916,6 +986,7 @@ PL_POSTERIOR_F2:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 686 |
 | 0 | 5 |
+| Not NA | 691 |
 | NA | 90096 |
 
 
@@ -927,6 +998,7 @@ PL_FUNDUS_F2:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 106 |
 | 0 | 2 |
+| Not NA | 108 |
 | NA | 90679 |
 
 
@@ -938,6 +1010,7 @@ PL_LATDEXT_F2:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 152 |
 | 0 | 2 |
+| Not NA | 154 |
 | NA | 90633 |
 
 
@@ -949,6 +1022,7 @@ PL_LATSIN_F2:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 141 |
 | 0 | 2 |
+| Not NA | 143 |
 | NA | 90644 |
 
 
@@ -960,6 +1034,7 @@ PL_DJUPTSETE_F2:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 20 |
 | 0 | 1 |
+| Not NA | 21 |
 | NA | 90766 |
 
 
@@ -971,6 +1046,7 @@ PL_PREVIAPART_F2:ULSKJEMA; ; .
 | -------- | - |
 | 1 | 7 |
 | 0 | 1 |
+| Not NA | 8 |
 | NA | 90779 |
 
 
@@ -981,6 +1057,7 @@ PL_PREVIAMARG_F2:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 9 |
+| Not NA | 9 |
 | NA | 90778 |
 
 
@@ -991,6 +1068,7 @@ PL_PREVIACENTR_F2:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 6 |
+| Not NA | 6 |
 | NA | 90781 |
 
 
@@ -1001,6 +1079,7 @@ PL_ANTERIOR_F3:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 4 |
+| Not NA | 4 |
 | NA | 90783 |
 
 
@@ -1011,6 +1090,7 @@ PL_POSTERIOR_F3:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 7 |
+| Not NA | 7 |
 | NA | 90780 |
 
 
@@ -1021,6 +1101,7 @@ PL_FUNDUS_F3:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 90786 |
 
 
@@ -1031,6 +1112,7 @@ PL_LATDEXT_F3:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 90786 |
 
 
@@ -1041,6 +1123,7 @@ PL_LATSIN_F3:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 90785 |
 
 
@@ -1050,6 +1133,7 @@ PL_DJUPTSETE_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -1059,6 +1143,7 @@ PL_PREVIAPART_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -1068,6 +1153,7 @@ PL_PREVIAMARG_F3:ULSKJEMA; ; .
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 90787 |
 
 
@@ -1078,6 +1164,7 @@ PL_PREVIACENTR_F3:ULSKJEMA; ; .
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 90786 |
 
 

@@ -878,6 +878,7 @@
 | SKJEMA2DBG | 5567 |
 | SKJEMA2C | 18765 |
 | SKJEMA2W | 4839 |
+| Not NA | 87374 |
 | NA | 0 |
 
 
@@ -898,6 +899,7 @@ T__0_3:SKJEMA2W; (T__0_3:SKJEMA2DBG); (T__0_3:SKJEMA2D); (T__0_3:SKJEMA2C); Year
 | 9999 | 112 |
 | 2001 | 71 |
 | 2000 | 2 |
+| Not NA | 80466 |
 | NA | 6908 |
 
 
@@ -914,6 +916,7 @@ T__1:SKJEMA2W; (T__1:SKJEMA2DBG); (T__1:SKJEMA2D); (T__1:SKJEMA2C); Diet; 1. How
 | More than 1 check box filled in | 236 |
 | I am a vegetarian and avoid all dairy products and eggs (vegan) | 53 |
 | I am a vegetarian and include dairy products but not eggs in my diet (lacto-vegetarian) | 19 |
+| Not NA | 86889 |
 | NA | 485 |
 
 
@@ -928,6 +931,7 @@ T__2_1:SKJEMA2W; (T__2_1:SKJEMA2DBG); (T__2_1:SKJEMA2D); (T__2_1:SKJEMA2C); Milk
 | Usually | 2231 |
 | Often | 4189 |
 | More than 1 check box filled in | 14 |
+| Not NA | 85657 |
 | NA | 1717 |
 
 
@@ -942,6 +946,7 @@ T__2_2:SKJEMA2W; (T__2_2:SKJEMA2DBG); (T__2_2:SKJEMA2D); (T__2_2:SKJEMA2C); Brea
 | Often | 3362 |
 | Usually | 2115 |
 | More than 1 check box filled in | 9 |
+| Not NA | 85062 |
 | NA | 2312 |
 
 
@@ -956,6 +961,7 @@ T__2_3:SKJEMA2W; (T__2_3:SKJEMA2DBG); (T__2_3:SKJEMA2D); (T__2_3:SKJEMA2C); Eggs
 | Often | 5218 |
 | Usually | 3266 |
 | More than 1 check box filled in | 35 |
+| Not NA | 85294 |
 | NA | 2080 |
 
 
@@ -970,6 +976,7 @@ T__2_4:SKJEMA2W; (T__2_4:SKJEMA2DBG); (T__2_4:SKJEMA2D); (T__2_4:SKJEMA2C); Vege
 | Often | 5323 |
 | Usually | 1567 |
 | More than 1 check box filled in | 24 |
+| Not NA | 85474 |
 | NA | 1900 |
 
 
@@ -984,6 +991,7 @@ T__2_5:SKJEMA2W; (T__2_5:SKJEMA2DBG); (T__2_5:SKJEMA2D); (T__2_5:SKJEMA2C); Frui
 | Often | 4350 |
 | Usually | 1631 |
 | More than 1 check box filled in | 18 |
+| Not NA | 85330 |
 | NA | 2044 |
 
 
@@ -998,6 +1006,7 @@ T__2_6:SKJEMA2W; (T__2_6:SKJEMA2DBG); (T__2_6:SKJEMA2D); (T__2_6:SKJEMA2C); Meat
 | Often | 2595 |
 | Usually | 979 |
 | More than 1 check box filled in | 13 |
+| Not NA | 84890 |
 | NA | 2484 |
 
 
@@ -1015,6 +1024,7 @@ T__3_1:SKJEMA2W; (T__3_1:SKJEMA2DBG); (T__3_1:SKJEMA2D); (T__3_1:SKJEMA2C); Brea
 | 4 meals per week | 1651 |
 | 1 meal per week | 510 |
 | 0 meals per week | 383 |
+| Not NA | 86871 |
 | NA | 503 |
 
 
@@ -1032,6 +1042,7 @@ T__3_2:SKJEMA2W; (T__3_2:SKJEMA2DBG); (T__3_2:SKJEMA2D); (T__3_2:SKJEMA2C); Snac
 | 3 meals per week | 8526 |
 | 4 meals per week | 7940 |
 | 6 meals per week | 3944 |
+| Not NA | 78233 |
 | NA | 9141 |
 
 
@@ -1049,6 +1060,7 @@ T__3_3:SKJEMA2W; (T__3_3:SKJEMA2DBG); (T__3_3:SKJEMA2D); (T__3_3:SKJEMA2C); Lunc
 | 3 meals per week | 2250 |
 | 0 meals per week | 3192 |
 | 1 meal per week | 1172 |
+| Not NA | 84232 |
 | NA | 3142 |
 
 
@@ -1066,6 +1078,7 @@ T__3_4:SKJEMA2W; (T__3_4:SKJEMA2DBG); (T__3_4:SKJEMA2D); (T__3_4:SKJEMA2C); Snac
 | 4 meals per week | 8277 |
 | 2 meals per week | 9695 |
 | 6 meals per week | 3431 |
+| Not NA | 75054 |
 | NA | 12320 |
 
 
@@ -1083,6 +1096,7 @@ T__3_5:SKJEMA2W; (T__3_5:SKJEMA2DBG); (T__3_5:SKJEMA2D); (T__3_5:SKJEMA2C); Dinn
 | 2 meals per week | 353 |
 | 1 meal per week | 336 |
 | 3 meals per week | 780 |
+| Not NA | 86525 |
 | NA | 849 |
 
 
@@ -1100,6 +1114,7 @@ T__3_6:SKJEMA2W; (T__3_6:SKJEMA2DBG); (T__3_6:SKJEMA2D); (T__3_6:SKJEMA2C); Snac
 | 1 meal per week | 7137 |
 | 4 meals per week | 7213 |
 | 6 meals per week | 3473 |
+| Not NA | 73473 |
 | NA | 13901 |
 
 
@@ -1117,6 +1132,7 @@ T__3_7:SKJEMA2W; (T__3_7:SKJEMA2DBG); (T__3_7:SKJEMA2D); (T__3_7:SKJEMA2C); Supp
 | 3 meals per week | 7807 |
 | 5 meals per week | 9859 |
 | 4 meals per week | 7675 |
+| Not NA | 83241 |
 | NA | 4133 |
 
 
@@ -1134,6 +1150,7 @@ T__3_8:SKJEMA2W; (T__3_8:SKJEMA2DBG); (T__3_8:SKJEMA2D); (T__3_8:SKJEMA2C); Nigh
 | 4 meals per week | 578 |
 | 5 meals per week | 340 |
 | 6 meals per week | 135 |
+| Not NA | 71388 |
 | NA | 15986 |
 
 
@@ -1153,6 +1170,7 @@ T__4_1_1:SKJEMA2W; (T__4_1_1:SKJEMA2DBG); (T__4_1_1:SKJEMA2D); (T__4_1_1:SKJEMA2
 | 7 per day | 114 |
 | 5 per day | 469 |
 | 8 per day | 152 |
+| Not NA | 13419 |
 | NA | 73955 |
 
 
@@ -1166,6 +1184,7 @@ T__4_1_2:SKJEMA2W; (T__4_1_2:SKJEMA2DBG); (T__4_1_2:SKJEMA2D); (T__4_1_2:SKJEMA2
 | 0 per week | 18470 |
 | 3-4 per week | 7921 |
 | 5-6 per week | 2627 |
+| Not NA | 64691 |
 | NA | 22683 |
 
 
@@ -1185,6 +1204,7 @@ T__4_2_1:SKJEMA2W; (T__4_2_1:SKJEMA2DBG); (T__4_2_1:SKJEMA2D); (T__4_2_1:SKJEMA2
 | 8 per day | 1236 |
 | 13+ per day | 493 |
 | 9-12 per day | 686 |
+| Not NA | 50920 |
 | NA | 36454 |
 
 
@@ -1198,6 +1218,7 @@ T__4_2_2:SKJEMA2W; (T__4_2_2:SKJEMA2DBG); (T__4_2_2:SKJEMA2D); (T__4_2_2:SKJEMA2
 | 0 per week | 12362 |
 | 3-4 per week | 4865 |
 | 5-6 per week | 3859 |
+| Not NA | 29788 |
 | NA | 57586 |
 
 
@@ -1217,6 +1238,7 @@ T__4_3_1:SKJEMA2W; (T__4_3_1:SKJEMA2DBG); (T__4_3_1:SKJEMA2D); (T__4_3_1:SKJEMA2
 | 5 per day | 5689 |
 | 8 per day | 986 |
 | 9-12 per day | 542 |
+| Not NA | 48231 |
 | NA | 39143 |
 
 
@@ -1230,6 +1252,7 @@ T__4_3_2:SKJEMA2W; (T__4_3_2:SKJEMA2DBG); (T__4_3_2:SKJEMA2D); (T__4_3_2:SKJEMA2
 | 0 per week | 14053 |
 | 3-4 per week | 4646 |
 | 1-2 per week | 9558 |
+| Not NA | 31866 |
 | NA | 55508 |
 
 
@@ -1249,6 +1272,7 @@ T__4_4_1:SKJEMA2W; (T__4_4_1:SKJEMA2DBG); (T__4_4_1:SKJEMA2D); (T__4_4_1:SKJEMA2
 | 7 per day | 108 |
 | 8 per day | 91 |
 | 13+ per day | 47 |
+| Not NA | 10623 |
 | NA | 76751 |
 
 
@@ -1262,6 +1286,7 @@ T__4_4_2:SKJEMA2W; (T__4_4_2:SKJEMA2DBG); (T__4_4_2:SKJEMA2D); (T__4_4_2:SKJEMA2
 | 5-6 per week | 1617 |
 | 3-4 per week | 3641 |
 | 1-2 per week | 10883 |
+| Not NA | 61601 |
 | NA | 25773 |
 
 
@@ -1281,6 +1306,7 @@ T__4_5_1:SKJEMA2W; (T__4_5_1:SKJEMA2DBG); (T__4_5_1:SKJEMA2D); (T__4_5_1:SKJEMA2
 | 13+ per day | 151 |
 | 8 per day | 212 |
 | 7 per day | 271 |
+| Not NA | 26150 |
 | NA | 61224 |
 
 
@@ -1294,6 +1320,7 @@ T__4_5_2:SKJEMA2W; (T__4_5_2:SKJEMA2DBG); (T__4_5_2:SKJEMA2D); (T__4_5_2:SKJEMA2
 | 0 per week | 19150 |
 | 5-6 per week | 4994 |
 | 3-4 per week | 10107 |
+| Not NA | 52626 |
 | NA | 34748 |
 
 
@@ -1313,6 +1340,7 @@ T__4_6_1:SKJEMA2W; (T__4_6_1:SKJEMA2DBG); (T__4_6_1:SKJEMA2D); (T__4_6_1:SKJEMA2
 | 9-12 per day | 51 |
 | 8 per day | 60 |
 | 7 per day | 63 |
+| Not NA | 6169 |
 | NA | 81205 |
 
 
@@ -1326,6 +1354,7 @@ T__4_6_2:SKJEMA2W; (T__4_6_2:SKJEMA2DBG); (T__4_6_2:SKJEMA2D); (T__4_6_2:SKJEMA2
 | 5-6 per week | 1580 |
 | 1-2 per week | 15171 |
 | 3-4 per week | 3501 |
+| Not NA | 67325 |
 | NA | 20049 |
 
 
@@ -1338,6 +1367,7 @@ T__5:SKJEMA2W; (T__5:SKJEMA2DBG); (T__5:SKJEMA2D); (T__5:SKJEMA2C); ; 5. Do you 
 | Yes | 61970 |
 | No | 23114 |
 | More than 1 check box filled in | 13 |
+| Not NA | 85097 |
 | NA | 2277 |
 
 
@@ -1357,6 +1387,7 @@ T__6_1_1:SKJEMA2W; (T__6_1_1:SKJEMA2DBG); (T__6_1_1:SKJEMA2D); (T__6_1_1:SKJEMA2
 | 8 per day | 422 |
 | 9-12 per day | 230 |
 | 13+ per day | 181 |
+| Not NA | 13422 |
 | NA | 73952 |
 
 
@@ -1370,6 +1401,7 @@ T__6_1_2:SKJEMA2W; (T__6_1_2:SKJEMA2DBG); (T__6_1_2:SKJEMA2D); (T__6_1_2:SKJEMA2
 | 1-2 per week | 3489 |
 | 3-4 per week | 1302 |
 | 5-6 per week | 1059 |
+| Not NA | 34007 |
 | NA | 53367 |
 
 
@@ -1389,6 +1421,7 @@ T__6_2_1:SKJEMA2W; (T__6_2_1:SKJEMA2DBG); (T__6_2_1:SKJEMA2D); (T__6_2_1:SKJEMA2
 | 7 per day | 18 |
 | 13+ per day | 7 |
 | 9-12 per day | 4 |
+| Not NA | 553 |
 | NA | 86821 |
 
 
@@ -1402,6 +1435,7 @@ T__6_2_2:SKJEMA2W; (T__6_2_2:SKJEMA2DBG); (T__6_2_2:SKJEMA2D); (T__6_2_2:SKJEMA2
 | 1-2 per week | 577 |
 | 3-4 per week | 138 |
 | 5-6 per week | 64 |
+| Not NA | 41322 |
 | NA | 46052 |
 
 
@@ -1421,6 +1455,7 @@ T__6_3_1:SKJEMA2W; (T__6_3_1:SKJEMA2DBG); (T__6_3_1:SKJEMA2D); (T__6_3_1:SKJEMA2
 | 7 per day | 831 |
 | 1 per day | 953 |
 | 13+ per day | 276 |
+| Not NA | 15933 |
 | NA | 71441 |
 
 
@@ -1434,6 +1469,7 @@ T__6_3_2:SKJEMA2W; (T__6_3_2:SKJEMA2DBG); (T__6_3_2:SKJEMA2D); (T__6_3_2:SKJEMA2
 | 1-2 per week | 2258 |
 | 3-4 per week | 1064 |
 | 5-6 per week | 1047 |
+| Not NA | 31942 |
 | NA | 55432 |
 
 
@@ -1453,6 +1489,7 @@ T__6_4_1:SKJEMA2W; (T__6_4_1:SKJEMA2DBG); (T__6_4_1:SKJEMA2D); (T__6_4_1:SKJEMA2
 | 13+ per day | 301 |
 | 7 per day | 1011 |
 | 9-12 per day | 444 |
+| Not NA | 18286 |
 | NA | 69088 |
 
 
@@ -1466,6 +1503,7 @@ T__6_4_2:SKJEMA2W; (T__6_4_2:SKJEMA2DBG); (T__6_4_2:SKJEMA2D); (T__6_4_2:SKJEMA2
 | 3-4 per week | 1181 |
 | 1-2 per week | 2442 |
 | 5-6 per week | 1210 |
+| Not NA | 30629 |
 | NA | 56745 |
 
 
@@ -1485,6 +1523,7 @@ T__6_5_1:SKJEMA2W; (T__6_5_1:SKJEMA2DBG); (T__6_5_1:SKJEMA2D); (T__6_5_1:SKJEMA2
 | 7 per day | 850 |
 | 2 per day | 2323 |
 | 9-12 per day | 272 |
+| Not NA | 16044 |
 | NA | 71330 |
 
 
@@ -1498,6 +1537,7 @@ T__6_5_2:SKJEMA2W; (T__6_5_2:SKJEMA2DBG); (T__6_5_2:SKJEMA2D); (T__6_5_2:SKJEMA2
 | 5-6 per week | 1170 |
 | 1-2 per week | 2085 |
 | 3-4 per week | 1074 |
+| Not NA | 32171 |
 | NA | 55203 |
 
 
@@ -1510,6 +1550,7 @@ T__7:SKJEMA2W; (T__7:SKJEMA2DBG); (T__7:SKJEMA2D); (T__7:SKJEMA2C); ; 7. How muc
 | Medium | 35969 |
 | Minimum | 22705 |
 | Plenty | 1585 |
+| Not NA | 60259 |
 | NA | 27115 |
 
 
@@ -1525,6 +1566,7 @@ T__8_1_1:SKJEMA2W; (T__8_1_1:SKJEMA2DBG); (T__8_1_1:SKJEMA2D); (T__8_1_1:SKJEMA2
 | 4 per day | 623 |
 | 5 per day | 145 |
 | 6+ per day | 169 |
+| Not NA | 16679 |
 | NA | 70695 |
 
 
@@ -1537,6 +1579,7 @@ T__8_1_2:SKJEMA2W; (T__8_1_2:SKJEMA2DBG); (T__8_1_2:SKJEMA2D); (T__8_1_2:SKJEMA2
 | 1-2 per week | 15793 |
 | 3-4 per week | 9565 |
 | 5-6 per week | 3663 |
+| Not NA | 29021 |
 | NA | 58353 |
 
 
@@ -1550,6 +1593,7 @@ T__8_1_3:SKJEMA2W; (T__8_1_3:SKJEMA2DBG); (T__8_1_3:SKJEMA2D); (T__8_1_3:SKJEMA2
 | 3 per month | 6539 |
 | 0 per month | 21811 |
 | 1 per month | 3909 |
+| Not NA | 36688 |
 | NA | 50686 |
 
 
@@ -1565,6 +1609,7 @@ T__8_2_1:SKJEMA2W; (T__8_2_1:SKJEMA2DBG); (T__8_2_1:SKJEMA2D); (T__8_2_1:SKJEMA2
 | 4 per day | 181 |
 | 5 per day | 44 |
 | 6+ per day | 41 |
+| Not NA | 4806 |
 | NA | 82568 |
 
 
@@ -1577,6 +1622,7 @@ T__8_2_2:SKJEMA2W; (T__8_2_2:SKJEMA2DBG); (T__8_2_2:SKJEMA2D); (T__8_2_2:SKJEMA2
 | 1-2 per week | 6733 |
 | 5-6 per week | 1236 |
 | 3-4 per week | 3217 |
+| Not NA | 11186 |
 | NA | 76188 |
 
 
@@ -1590,6 +1636,7 @@ T__8_2_3:SKJEMA2W; (T__8_2_3:SKJEMA2DBG); (T__8_2_3:SKJEMA2D); (T__8_2_3:SKJEMA2
 | 1 per month | 3336 |
 | 3 per month | 3273 |
 | 2 per month | 2752 |
+| Not NA | 61190 |
 | NA | 26184 |
 
 
@@ -1605,6 +1652,7 @@ T__8_3_1:SKJEMA2W; (T__8_3_1:SKJEMA2DBG); (T__8_3_1:SKJEMA2D); (T__8_3_1:SKJEMA2
 | 2 per day | 14451 |
 | 4 per day | 2884 |
 | 6+ per day | 833 |
+| Not NA | 36870 |
 | NA | 50504 |
 
 
@@ -1617,6 +1665,7 @@ T__8_3_2:SKJEMA2W; (T__8_3_2:SKJEMA2DBG); (T__8_3_2:SKJEMA2D); (T__8_3_2:SKJEMA2
 | 1-2 per week | 12134 |
 | 5-6 per week | 9119 |
 | 3-4 per week | 13100 |
+| Not NA | 34353 |
 | NA | 53021 |
 
 
@@ -1630,6 +1679,7 @@ T__8_3_3:SKJEMA2W; (T__8_3_3:SKJEMA2DBG); (T__8_3_3:SKJEMA2D); (T__8_3_3:SKJEMA2
 | 0 per month | 6575 |
 | 2 per month | 1795 |
 | 3 per month | 3448 |
+| Not NA | 13036 |
 | NA | 74338 |
 
 
@@ -1645,6 +1695,7 @@ T__8_4_1:SKJEMA2W; (T__8_4_1:SKJEMA2DBG); (T__8_4_1:SKJEMA2D); (T__8_4_1:SKJEMA2
 | 4 per day | 364 |
 | 6+ per day | 139 |
 | 5 per day | 100 |
+| Not NA | 5998 |
 | NA | 81376 |
 
 
@@ -1657,6 +1708,7 @@ T__8_4_2:SKJEMA2W; (T__8_4_2:SKJEMA2DBG); (T__8_4_2:SKJEMA2D); (T__8_4_2:SKJEMA2
 | 5-6 per week | 1416 |
 | 1-2 per week | 5824 |
 | 3-4 per week | 2899 |
+| Not NA | 10139 |
 | NA | 77235 |
 
 
@@ -1670,6 +1722,7 @@ T__8_4_3:SKJEMA2W; (T__8_4_3:SKJEMA2DBG); (T__8_4_3:SKJEMA2D); (T__8_4_3:SKJEMA2
 | 1 per month | 2739 |
 | 3 per month | 2893 |
 | 2 per month | 2343 |
+| Not NA | 59909 |
 | NA | 27465 |
 
 
@@ -1685,6 +1738,7 @@ T__8_5_1:SKJEMA2W; (T__8_5_1:SKJEMA2DBG); (T__8_5_1:SKJEMA2D); (T__8_5_1:SKJEMA2
 | 5 per day | 5 |
 | 3 per day | 15 |
 | 4 per day | 13 |
+| Not NA | 509 |
 | NA | 86865 |
 
 
@@ -1697,6 +1751,7 @@ T__8_5_2:SKJEMA2W; (T__8_5_2:SKJEMA2DBG); (T__8_5_2:SKJEMA2D); (T__8_5_2:SKJEMA2
 | 1-2 per week | 1413 |
 | 3-4 per week | 460 |
 | 5-6 per week | 117 |
+| Not NA | 1990 |
 | NA | 85384 |
 
 
@@ -1710,6 +1765,7 @@ T__8_5_3:SKJEMA2W; (T__8_5_3:SKJEMA2DBG); (T__8_5_3:SKJEMA2D); (T__8_5_3:SKJEMA2
 | 2 per month | 1782 |
 | 3 per month | 1619 |
 | 1 per month | 3473 |
+| Not NA | 73736 |
 | NA | 13638 |
 
 
@@ -1725,6 +1781,7 @@ T__8_6_1:SKJEMA2W; (T__8_6_1:SKJEMA2DBG); (T__8_6_1:SKJEMA2D); (T__8_6_1:SKJEMA2
 | 4 per day | 145 |
 | 6+ per day | 63 |
 | 5 per day | 45 |
+| Not NA | 2603 |
 | NA | 84771 |
 
 
@@ -1737,6 +1794,7 @@ T__8_6_2:SKJEMA2W; (T__8_6_2:SKJEMA2DBG); (T__8_6_2:SKJEMA2D); (T__8_6_2:SKJEMA2
 | 1-2 per week | 3622 |
 | 3-4 per week | 1518 |
 | 5-6 per week | 696 |
+| Not NA | 5836 |
 | NA | 81538 |
 
 
@@ -1750,6 +1808,7 @@ T__8_6_3:SKJEMA2W; (T__8_6_3:SKJEMA2DBG); (T__8_6_3:SKJEMA2D); (T__8_6_3:SKJEMA2
 | 1 per month | 2603 |
 | 2 per month | 2234 |
 | 3 per month | 2528 |
+| Not NA | 66228 |
 | NA | 21146 |
 
 
@@ -1765,6 +1824,7 @@ T__8_7_1:SKJEMA2W; (T__8_7_1:SKJEMA2DBG); (T__8_7_1:SKJEMA2D); (T__8_7_1:SKJEMA2
 | 4 per day | 201 |
 | 5 per day | 57 |
 | 6+ per day | 74 |
+| Not NA | 5915 |
 | NA | 81459 |
 
 
@@ -1777,6 +1837,7 @@ T__8_7_2:SKJEMA2W; (T__8_7_2:SKJEMA2DBG); (T__8_7_2:SKJEMA2D); (T__8_7_2:SKJEMA2
 | 1-2 per week | 12152 |
 | 3-4 per week | 5284 |
 | 5-6 per week | 1930 |
+| Not NA | 19366 |
 | NA | 68008 |
 
 
@@ -1790,6 +1851,7 @@ T__8_7_3:SKJEMA2W; (T__8_7_3:SKJEMA2DBG); (T__8_7_3:SKJEMA2D); (T__8_7_3:SKJEMA2
 | 3 per month | 6042 |
 | 1 per month | 3838 |
 | 2 per month | 3992 |
+| Not NA | 54530 |
 | NA | 32844 |
 
 
@@ -1805,6 +1867,7 @@ T__8_8_1:SKJEMA2W; (T__8_8_1:SKJEMA2DBG); (T__8_8_1:SKJEMA2D); (T__8_8_1:SKJEMA2
 | 2 per day | 1893 |
 | 6+ per day | 67 |
 | 5 per day | 44 |
+| Not NA | 6572 |
 | NA | 80802 |
 
 
@@ -1817,6 +1880,7 @@ T__8_8_2:SKJEMA2W; (T__8_8_2:SKJEMA2DBG); (T__8_8_2:SKJEMA2D); (T__8_8_2:SKJEMA2
 | 1-2 per week | 14304 |
 | 3-4 per week | 6448 |
 | 5-6 per week | 2697 |
+| Not NA | 23449 |
 | NA | 63925 |
 
 
@@ -1830,6 +1894,7 @@ T__8_8_3:SKJEMA2W; (T__8_8_3:SKJEMA2DBG); (T__8_8_3:SKJEMA2D); (T__8_8_3:SKJEMA2
 | 1 per month | 5166 |
 | 2 per month | 5247 |
 | 3 per month | 9023 |
+| Not NA | 51078 |
 | NA | 36296 |
 
 
@@ -1845,6 +1910,7 @@ T__8_9_1:SKJEMA2W; (T__8_9_1:SKJEMA2DBG); (T__8_9_1:SKJEMA2D); (T__8_9_1:SKJEMA2
 | 4 per day | 11 |
 | 5 per day | 7 |
 | 6+ per day | 7 |
+| Not NA | 290 |
 | NA | 87084 |
 
 
@@ -1857,6 +1923,7 @@ T__8_9_2:SKJEMA2W; (T__8_9_2:SKJEMA2DBG); (T__8_9_2:SKJEMA2D); (T__8_9_2:SKJEMA2
 | 1-2 per week | 704 |
 | 3-4 per week | 166 |
 | 5-6 per week | 50 |
+| Not NA | 920 |
 | NA | 86454 |
 
 
@@ -1870,6 +1937,7 @@ T__8_9_3:SKJEMA2W; (T__8_9_3:SKJEMA2DBG); (T__8_9_3:SKJEMA2D); (T__8_9_3:SKJEMA2
 | 3 per month | 536 |
 | 1 per month | 1062 |
 | 2 per month | 523 |
+| Not NA | 75269 |
 | NA | 12105 |
 
 
@@ -1885,6 +1953,7 @@ T__810_1:SKJEMA2W; (T__810_1:SKJEMA2DBG); (T__810_1:SKJEMA2D); (T__810_1:SKJEMA2
 | 3 per day | 39 |
 | 6+ per day | 8 |
 | 5 per day | 8 |
+| Not NA | 683 |
 | NA | 86691 |
 
 
@@ -1897,6 +1966,7 @@ T__810_2:SKJEMA2W; (T__810_2:SKJEMA2DBG); (T__810_2:SKJEMA2D); (T__810_2:SKJEMA2
 | 1-2 per week | 2936 |
 | 3-4 per week | 670 |
 | 5-6 per week | 250 |
+| Not NA | 3856 |
 | NA | 83518 |
 
 
@@ -1910,6 +1980,7 @@ T__810_3:SKJEMA2W; (T__810_3:SKJEMA2DBG); (T__810_3:SKJEMA2D); (T__810_3:SKJEMA2
 | 0 per month | 54325 |
 | 3 per month | 4993 |
 | 2 per month | 4902 |
+| Not NA | 72991 |
 | NA | 14383 |
 
 
@@ -1925,6 +1996,7 @@ T__811_1:SKJEMA2W; (T__811_1:SKJEMA2DBG); (T__811_1:SKJEMA2D); (T__811_1:SKJEMA2
 | 4 per day | 8 |
 | 5 per day | 3 |
 | 6+ per day | 3 |
+| Not NA | 437 |
 | NA | 86937 |
 
 
@@ -1937,6 +2009,7 @@ T__811_2:SKJEMA2W; (T__811_2:SKJEMA2DBG); (T__811_2:SKJEMA2D); (T__811_2:SKJEMA2
 | 1-2 per week | 1771 |
 | 3-4 per week | 433 |
 | 5-6 per week | 150 |
+| Not NA | 2354 |
 | NA | 85020 |
 
 
@@ -1950,6 +2023,7 @@ T__811_3:SKJEMA2W; (T__811_3:SKJEMA2DBG); (T__811_3:SKJEMA2D); (T__811_3:SKJEMA2
 | 3 per month | 2270 |
 | 2 per month | 2250 |
 | 1 per month | 4414 |
+| Not NA | 74295 |
 | NA | 13079 |
 
 
@@ -1965,6 +2039,7 @@ T__812_1:SKJEMA2W; (T__812_1:SKJEMA2DBG); (T__812_1:SKJEMA2D); (T__812_1:SKJEMA2
 | 2 per day | 170 |
 | 5 per day | 15 |
 | 6+ per day | 25 |
+| Not NA | 909 |
 | NA | 86465 |
 
 
@@ -1977,6 +2052,7 @@ T__812_2:SKJEMA2W; (T__812_2:SKJEMA2DBG); (T__812_2:SKJEMA2D); (T__812_2:SKJEMA2
 | 1-2 per week | 5119 |
 | 5-6 per week | 289 |
 | 3-4 per week | 983 |
+| Not NA | 6391 |
 | NA | 80983 |
 
 
@@ -1990,6 +2066,7 @@ T__812_3:SKJEMA2W; (T__812_3:SKJEMA2DBG); (T__812_3:SKJEMA2D); (T__812_3:SKJEMA2
 | 3 per month | 10376 |
 | 0 per month | 34918 |
 | 2 per month | 10037 |
+| Not NA | 71280 |
 | NA | 16094 |
 
 
@@ -2005,6 +2082,7 @@ T__813_1:SKJEMA2W; (T__813_1:SKJEMA2DBG); (T__813_1:SKJEMA2D); (T__813_1:SKJEMA2
 | 2 per day | 36 |
 | 5 per day | 3 |
 | 6+ per day | 7 |
+| Not NA | 184 |
 | NA | 87190 |
 
 
@@ -2017,6 +2095,7 @@ T__813_2:SKJEMA2W; (T__813_2:SKJEMA2DBG); (T__813_2:SKJEMA2D); (T__813_2:SKJEMA2
 | 1-2 per week | 409 |
 | 5-6 per week | 22 |
 | 3-4 per week | 69 |
+| Not NA | 500 |
 | NA | 86874 |
 
 
@@ -2030,6 +2109,7 @@ T__813_3:SKJEMA2W; (T__813_3:SKJEMA2DBG); (T__813_3:SKJEMA2D); (T__813_3:SKJEMA2
 | 1 per month | 5465 |
 | 3 per month | 1109 |
 | 2 per month | 1421 |
+| Not NA | 76157 |
 | NA | 11217 |
 
 
@@ -2045,6 +2125,7 @@ T__814_1:SKJEMA2W; (T__814_1:SKJEMA2DBG); (T__814_1:SKJEMA2D); (T__814_1:SKJEMA2
 | 4 per day | 20 |
 | 6+ per day | 13 |
 | 5 per day | 10 |
+| Not NA | 498 |
 | NA | 86876 |
 
 
@@ -2057,6 +2138,7 @@ T__814_2:SKJEMA2W; (T__814_2:SKJEMA2DBG); (T__814_2:SKJEMA2D); (T__814_2:SKJEMA2
 | 3-4 per week | 553 |
 | 1-2 per week | 2024 |
 | 5-6 per week | 152 |
+| Not NA | 2729 |
 | NA | 84645 |
 
 
@@ -2070,6 +2152,7 @@ T__814_3:SKJEMA2W; (T__814_3:SKJEMA2DBG); (T__814_3:SKJEMA2D); (T__814_3:SKJEMA2
 | 3 per month | 3035 |
 | 2 per month | 2810 |
 | 1 per month | 5128 |
+| Not NA | 74074 |
 | NA | 13300 |
 
 
@@ -2085,6 +2168,7 @@ T__815_1:SKJEMA2W; (T__815_1:SKJEMA2DBG); (T__815_1:SKJEMA2D); (T__815_1:SKJEMA2
 | 2 per day | 102 |
 | 5 per day | 4 |
 | 6+ per day | 8 |
+| Not NA | 365 |
 | NA | 87009 |
 
 
@@ -2097,6 +2181,7 @@ T__815_2:SKJEMA2W; (T__815_2:SKJEMA2DBG); (T__815_2:SKJEMA2D); (T__815_2:SKJEMA2
 | 1-2 per week | 626 |
 | 3-4 per week | 190 |
 | 5-6 per week | 79 |
+| Not NA | 895 |
 | NA | 86479 |
 
 
@@ -2110,6 +2195,7 @@ T__815_3:SKJEMA2W; (T__815_3:SKJEMA2DBG); (T__815_3:SKJEMA2D); (T__815_3:SKJEMA2
 | 1 per month | 1264 |
 | 2 per month | 653 |
 | 3 per month | 700 |
+| Not NA | 75619 |
 | NA | 11755 |
 
 
@@ -2125,6 +2211,7 @@ T__816_1:SKJEMA2W; (T__816_1:SKJEMA2DBG); (T__816_1:SKJEMA2D); (T__816_1:SKJEMA2
 | 4 per day | 16 |
 | 5 per day | 13 |
 | 6+ per day | 10 |
+| Not NA | 723 |
 | NA | 86651 |
 
 
@@ -2137,6 +2224,7 @@ T__816_2:SKJEMA2W; (T__816_2:SKJEMA2DBG); (T__816_2:SKJEMA2D); (T__816_2:SKJEMA2
 | 1-2 per week | 2217 |
 | 5-6 per week | 267 |
 | 3-4 per week | 736 |
+| Not NA | 3220 |
 | NA | 84154 |
 
 
@@ -2150,6 +2238,7 @@ T__816_3:SKJEMA2W; (T__816_3:SKJEMA2DBG); (T__816_3:SKJEMA2D); (T__816_3:SKJEMA2
 | 1 per month | 2546 |
 | 3 per month | 2613 |
 | 2 per month | 2134 |
+| Not NA | 72469 |
 | NA | 14905 |
 
 
@@ -2165,6 +2254,7 @@ T__817_1:SKJEMA2W; (T__817_1:SKJEMA2DBG); (T__817_1:SKJEMA2D); (T__817_1:SKJEMA2
 | 3 per day | 2804 |
 | 6+ per day | 302 |
 | 5 per day | 292 |
+| Not NA | 24527 |
 | NA | 62847 |
 
 
@@ -2177,6 +2267,7 @@ T__817_2:SKJEMA2W; (T__817_2:SKJEMA2DBG); (T__817_2:SKJEMA2D); (T__817_2:SKJEMA2
 | 3-4 per week | 12268 |
 | 1-2 per week | 15599 |
 | 5-6 per week | 6780 |
+| Not NA | 34647 |
 | NA | 52727 |
 
 
@@ -2190,6 +2281,7 @@ T__817_3:SKJEMA2W; (T__817_3:SKJEMA2DBG); (T__817_3:SKJEMA2D); (T__817_3:SKJEMA2
 | 3 per month | 6529 |
 | 1 per month | 2859 |
 | 2 per month | 3524 |
+| Not NA | 23289 |
 | NA | 64085 |
 
 
@@ -2205,6 +2297,7 @@ T__818_1:SKJEMA2W; (T__818_1:SKJEMA2DBG); (T__818_1:SKJEMA2D); (T__818_1:SKJEMA2
 | 3 per day | 707 |
 | 4 per day | 268 |
 | 5 per day | 90 |
+| Not NA | 7367 |
 | NA | 80007 |
 
 
@@ -2217,6 +2310,7 @@ T__818_2:SKJEMA2W; (T__818_2:SKJEMA2DBG); (T__818_2:SKJEMA2D); (T__818_2:SKJEMA2
 | 3-4 per week | 5558 |
 | 1-2 per week | 10252 |
 | 5-6 per week | 2240 |
+| Not NA | 18050 |
 | NA | 69324 |
 
 
@@ -2230,6 +2324,7 @@ T__818_3:SKJEMA2W; (T__818_3:SKJEMA2DBG); (T__818_3:SKJEMA2D); (T__818_3:SKJEMA2
 | 0 per month | 38829 |
 | 2 per month | 3995 |
 | 1 per month | 5026 |
+| Not NA | 53270 |
 | NA | 34104 |
 
 
@@ -2245,6 +2340,7 @@ T__819_1:SKJEMA2W; (T__819_1:SKJEMA2DBG); (T__819_1:SKJEMA2D); (T__819_1:SKJEMA2
 | 6+ per day | 127 |
 | 3 per day | 1156 |
 | 5 per day | 132 |
+| Not NA | 12433 |
 | NA | 74941 |
 
 
@@ -2257,6 +2353,7 @@ T__819_2:SKJEMA2W; (T__819_2:SKJEMA2DBG); (T__819_2:SKJEMA2D); (T__819_2:SKJEMA2
 | 1-2 per week | 14167 |
 | 3-4 per week | 8559 |
 | 5-6 per week | 4038 |
+| Not NA | 26764 |
 | NA | 60610 |
 
 
@@ -2270,6 +2367,7 @@ T__819_3:SKJEMA2W; (T__819_3:SKJEMA2DBG); (T__819_3:SKJEMA2D); (T__819_3:SKJEMA2
 | 1 per month | 5247 |
 | 3 per month | 7245 |
 | 2 per month | 4788 |
+| Not NA | 41245 |
 | NA | 46129 |
 
 
@@ -2285,6 +2383,7 @@ T__820_1:SKJEMA2W; (T__820_1:SKJEMA2DBG); (T__820_1:SKJEMA2D); (T__820_1:SKJEMA2
 | 3 per day | 531 |
 | 4 per day | 202 |
 | 5 per day | 76 |
+| Not NA | 5256 |
 | NA | 82118 |
 
 
@@ -2297,6 +2396,7 @@ T__820_2:SKJEMA2W; (T__820_2:SKJEMA2DBG); (T__820_2:SKJEMA2D); (T__820_2:SKJEMA2
 | 1-2 per week | 7981 |
 | 3-4 per week | 4297 |
 | 5-6 per week | 1892 |
+| Not NA | 14170 |
 | NA | 73204 |
 
 
@@ -2310,6 +2410,7 @@ T__820_3:SKJEMA2W; (T__820_3:SKJEMA2DBG); (T__820_3:SKJEMA2D); (T__820_3:SKJEMA2
 | 1 per month | 6118 |
 | 2 per month | 4685 |
 | 3 per month | 6432 |
+| Not NA | 58375 |
 | NA | 28999 |
 
 
@@ -2325,6 +2426,7 @@ T__821_1:SKJEMA2W; (T__821_1:SKJEMA2DBG); (T__821_1:SKJEMA2D); (T__821_1:SKJEMA2
 | 1 per day | 11372 |
 | 6+ per day | 317 |
 | 5 per day | 325 |
+| Not NA | 23691 |
 | NA | 63683 |
 
 
@@ -2337,6 +2439,7 @@ T__821_2:SKJEMA2W; (T__821_2:SKJEMA2DBG); (T__821_2:SKJEMA2D); (T__821_2:SKJEMA2
 | 5-6 per week | 7777 |
 | 1-2 per week | 13934 |
 | 3-4 per week | 12234 |
+| Not NA | 33945 |
 | NA | 53429 |
 
 
@@ -2350,6 +2453,7 @@ T__821_3:SKJEMA2W; (T__821_3:SKJEMA2DBG); (T__821_3:SKJEMA2D); (T__821_3:SKJEMA2
 | 3 per month | 5604 |
 | 0 per month | 14710 |
 | 2 per month | 2811 |
+| Not NA | 25518 |
 | NA | 61856 |
 
 
@@ -2365,6 +2469,7 @@ T__822_1:SKJEMA2W; (T__822_1:SKJEMA2DBG); (T__822_1:SKJEMA2D); (T__822_1:SKJEMA2
 | 3 per day | 327 |
 | 4 per day | 150 |
 | 5 per day | 59 |
+| Not NA | 3373 |
 | NA | 84001 |
 
 
@@ -2377,6 +2482,7 @@ T__822_2:SKJEMA2W; (T__822_2:SKJEMA2DBG); (T__822_2:SKJEMA2D); (T__822_2:SKJEMA2
 | 3-4 per week | 2575 |
 | 1-2 per week | 6406 |
 | 5-6 per week | 1073 |
+| Not NA | 10054 |
 | NA | 77320 |
 
 
@@ -2390,6 +2496,7 @@ T__822_3:SKJEMA2W; (T__822_3:SKJEMA2DBG); (T__822_3:SKJEMA2D); (T__822_3:SKJEMA2
 | 0 per month | 49839 |
 | 2 per month | 3648 |
 | 1 per month | 4303 |
+| Not NA | 62239 |
 | NA | 25135 |
 
 
@@ -2405,6 +2512,7 @@ T__823_1:SKJEMA2W; (T__823_1:SKJEMA2DBG); (T__823_1:SKJEMA2D); (T__823_1:SKJEMA2
 | 4 per day | 119 |
 | 6+ per day | 38 |
 | 5 per day | 36 |
+| Not NA | 4424 |
 | NA | 82950 |
 
 
@@ -2417,6 +2525,7 @@ T__823_2:SKJEMA2W; (T__823_2:SKJEMA2DBG); (T__823_2:SKJEMA2D); (T__823_2:SKJEMA2
 | 1-2 per week | 13529 |
 | 3-4 per week | 5312 |
 | 5-6 per week | 1636 |
+| Not NA | 20477 |
 | NA | 66897 |
 
 
@@ -2430,6 +2539,7 @@ T__823_3:SKJEMA2W; (T__823_3:SKJEMA2DBG); (T__823_3:SKJEMA2D); (T__823_3:SKJEMA2
 | 0 per month | 28043 |
 | 2 per month | 8400 |
 | 3 per month | 10956 |
+| Not NA | 55432 |
 | NA | 31942 |
 
 
@@ -2445,6 +2555,7 @@ T__824_1:SKJEMA2W; (T__824_1:SKJEMA2DBG); (T__824_1:SKJEMA2D); (T__824_1:SKJEMA2
 | 4 per day | 27 |
 | 6+ per day | 16 |
 | 5 per day | 10 |
+| Not NA | 618 |
 | NA | 86756 |
 
 
@@ -2457,6 +2568,7 @@ T__824_2:SKJEMA2W; (T__824_2:SKJEMA2DBG); (T__824_2:SKJEMA2D); (T__824_2:SKJEMA2
 | 1-2 per week | 1513 |
 | 3-4 per week | 530 |
 | 5-6 per week | 189 |
+| Not NA | 2232 |
 | NA | 85142 |
 
 
@@ -2470,6 +2582,7 @@ T__824_3:SKJEMA2W; (T__824_3:SKJEMA2DBG); (T__824_3:SKJEMA2D); (T__824_3:SKJEMA2
 | 3 per month | 1368 |
 | 1 per month | 1918 |
 | 2 per month | 1128 |
+| Not NA | 74246 |
 | NA | 13128 |
 
 
@@ -2485,6 +2598,7 @@ T__825_1:SKJEMA2W; (T__825_1:SKJEMA2DBG); (T__825_1:SKJEMA2D); (T__825_1:SKJEMA2
 | 2 per day | 3764 |
 | 5 per day | 301 |
 | 6+ per day | 364 |
+| Not NA | 11288 |
 | NA | 76086 |
 
 
@@ -2497,6 +2611,7 @@ T__825_2:SKJEMA2W; (T__825_2:SKJEMA2DBG); (T__825_2:SKJEMA2D); (T__825_2:SKJEMA2
 | 1-2 per week | 12105 |
 | 5-6 per week | 4060 |
 | 3-4 per week | 7376 |
+| Not NA | 23541 |
 | NA | 63833 |
 
 
@@ -2510,6 +2625,7 @@ T__825_3:SKJEMA2W; (T__825_3:SKJEMA2DBG); (T__825_3:SKJEMA2D); (T__825_3:SKJEMA2
 | 3 per month | 7622 |
 | 1 per month | 4829 |
 | 2 per month | 4940 |
+| Not NA | 45226 |
 | NA | 42148 |
 
 
@@ -2525,6 +2641,7 @@ T__826_1:SKJEMA2W; (T__826_1:SKJEMA2DBG); (T__826_1:SKJEMA2D); (T__826_1:SKJEMA2
 | 3 per day | 1611 |
 | 6+ per day | 235 |
 | 5 per day | 194 |
+| Not NA | 17426 |
 | NA | 69948 |
 
 
@@ -2537,6 +2654,7 @@ T__826_2:SKJEMA2W; (T__826_2:SKJEMA2DBG); (T__826_2:SKJEMA2D); (T__826_2:SKJEMA2
 | 3-4 per week | 10842 |
 | 1-2 per week | 17590 |
 | 5-6 per week | 5202 |
+| Not NA | 33634 |
 | NA | 53740 |
 
 
@@ -2550,6 +2668,7 @@ T__826_3:SKJEMA2W; (T__826_3:SKJEMA2DBG); (T__826_3:SKJEMA2D); (T__826_3:SKJEMA2
 | 2 per month | 5244 |
 | 0 per month | 12569 |
 | 1 per month | 4669 |
+| Not NA | 31559 |
 | NA | 55815 |
 
 
@@ -2565,6 +2684,7 @@ T__827_1:SKJEMA2W; (T__827_1:SKJEMA2DBG); (T__827_1:SKJEMA2D); (T__827_1:SKJEMA2
 | 3 per day | 91 |
 | 6+ per day | 19 |
 | 4 per day | 36 |
+| Not NA | 1531 |
 | NA | 85843 |
 
 
@@ -2577,6 +2697,7 @@ T__827_2:SKJEMA2W; (T__827_2:SKJEMA2DBG); (T__827_2:SKJEMA2D); (T__827_2:SKJEMA2
 | 3-4 per week | 1339 |
 | 5-6 per week | 485 |
 | 1-2 per week | 3386 |
+| Not NA | 5210 |
 | NA | 82164 |
 
 
@@ -2590,6 +2711,7 @@ T__827_3:SKJEMA2W; (T__827_3:SKJEMA2DBG); (T__827_3:SKJEMA2D); (T__827_3:SKJEMA2
 | 3 per month | 3079 |
 | 1 per month | 4302 |
 | 2 per month | 2629 |
+| Not NA | 71171 |
 | NA | 16203 |
 
 
@@ -2605,6 +2727,7 @@ T__828_1:SKJEMA2W; (T__828_1:SKJEMA2DBG); (T__828_1:SKJEMA2D); (T__828_1:SKJEMA2
 | 3 per day | 51 |
 | 5 per day | 9 |
 | 4 per day | 28 |
+| Not NA | 731 |
 | NA | 86643 |
 
 
@@ -2617,6 +2740,7 @@ T__828_2:SKJEMA2W; (T__828_2:SKJEMA2DBG); (T__828_2:SKJEMA2D); (T__828_2:SKJEMA2
 | 1-2 per week | 1841 |
 | 3-4 per week | 673 |
 | 5-6 per week | 232 |
+| Not NA | 2746 |
 | NA | 84628 |
 
 
@@ -2630,6 +2754,7 @@ T__828_3:SKJEMA2W; (T__828_3:SKJEMA2DBG); (T__828_3:SKJEMA2D); (T__828_3:SKJEMA2
 | 0 per month | 67879 |
 | 1 per month | 2794 |
 | 2 per month | 1573 |
+| Not NA | 74100 |
 | NA | 13274 |
 
 
@@ -2645,6 +2770,7 @@ T__829_1:SKJEMA2W; (T__829_1:SKJEMA2DBG); (T__829_1:SKJEMA2D); (T__829_1:SKJEMA2
 | 4 per day | 134 |
 | 6+ per day | 59 |
 | 5 per day | 39 |
+| Not NA | 2987 |
 | NA | 84387 |
 
 
@@ -2657,6 +2783,7 @@ T__829_2:SKJEMA2W; (T__829_2:SKJEMA2DBG); (T__829_2:SKJEMA2D); (T__829_2:SKJEMA2
 | 3-4 per week | 2554 |
 | 1-2 per week | 6812 |
 | 5-6 per week | 1037 |
+| Not NA | 10403 |
 | NA | 76971 |
 
 
@@ -2670,6 +2797,7 @@ T__829_3:SKJEMA2W; (T__829_3:SKJEMA2DBG); (T__829_3:SKJEMA2D); (T__829_3:SKJEMA2
 | 2 per month | 4864 |
 | 0 per month | 47265 |
 | 1 per month | 6915 |
+| Not NA | 65069 |
 | NA | 22305 |
 
 
@@ -2685,6 +2813,7 @@ T__830_1:SKJEMA2W; (T__830_1:SKJEMA2DBG); (T__830_1:SKJEMA2D); (T__830_1:SKJEMA2
 | 3 per day | 133 |
 | 6+ per day | 36 |
 | 5 per day | 18 |
+| Not NA | 1728 |
 | NA | 85646 |
 
 
@@ -2697,6 +2826,7 @@ T__830_2:SKJEMA2W; (T__830_2:SKJEMA2DBG); (T__830_2:SKJEMA2D); (T__830_2:SKJEMA2
 | 3-4 per week | 1370 |
 | 1-2 per week | 3902 |
 | 5-6 per week | 518 |
+| Not NA | 5790 |
 | NA | 81584 |
 
 
@@ -2710,6 +2840,7 @@ T__830_3:SKJEMA2W; (T__830_3:SKJEMA2DBG); (T__830_3:SKJEMA2D); (T__830_3:SKJEMA2
 | 3 per month | 3604 |
 | 1 per month | 4679 |
 | 2 per month | 3011 |
+| Not NA | 70331 |
 | NA | 17043 |
 
 
@@ -2725,6 +2856,7 @@ T__831_1:SKJEMA2W; (T__831_1:SKJEMA2DBG); (T__831_1:SKJEMA2D); (T__831_1:SKJEMA2
 | 4 per day | 10 |
 | 6+ per day | 4 |
 | 5 per day | 3 |
+| Not NA | 256 |
 | NA | 87118 |
 
 
@@ -2737,6 +2869,7 @@ T__831_2:SKJEMA2W; (T__831_2:SKJEMA2DBG); (T__831_2:SKJEMA2D); (T__831_2:SKJEMA2
 | 3-4 per week | 156 |
 | 1-2 per week | 270 |
 | 5-6 per week | 84 |
+| Not NA | 510 |
 | NA | 86864 |
 
 
@@ -2750,6 +2883,7 @@ T__831_3:SKJEMA2W; (T__831_3:SKJEMA2DBG); (T__831_3:SKJEMA2D); (T__831_3:SKJEMA2
 | 1 per month | 279 |
 | 2 per month | 161 |
 | 3 per month | 242 |
+| Not NA | 75855 |
 | NA | 11519 |
 
 
@@ -2765,6 +2899,7 @@ T__832_1:SKJEMA2W; (T__832_1:SKJEMA2DBG); (T__832_1:SKJEMA2D); (T__832_1:SKJEMA2
 | 4 per day | 900 |
 | 6+ per day | 590 |
 | 5 per day | 386 |
+| Not NA | 12296 |
 | NA | 75078 |
 
 
@@ -2777,6 +2912,7 @@ T__832_2:SKJEMA2W; (T__832_2:SKJEMA2DBG); (T__832_2:SKJEMA2D); (T__832_2:SKJEMA2
 | 1-2 per week | 10467 |
 | 5-6 per week | 3655 |
 | 3-4 per week | 6078 |
+| Not NA | 20200 |
 | NA | 67174 |
 
 
@@ -2790,6 +2926,7 @@ T__832_3:SKJEMA2W; (T__832_3:SKJEMA2DBG); (T__832_3:SKJEMA2D); (T__832_3:SKJEMA2
 | 2 per month | 5147 |
 | 0 per month | 29288 |
 | 3 per month | 8387 |
+| Not NA | 47737 |
 | NA | 39637 |
 
 
@@ -2805,6 +2942,7 @@ T__833_1:SKJEMA2W; (T__833_1:SKJEMA2DBG); (T__833_1:SKJEMA2D); (T__833_1:SKJEMA2
 | 2 per day | 11238 |
 | 3 per day | 6852 |
 | 5 per day | 1724 |
+| Not NA | 34593 |
 | NA | 52781 |
 
 
@@ -2817,6 +2955,7 @@ T__833_2:SKJEMA2W; (T__833_2:SKJEMA2DBG); (T__833_2:SKJEMA2D); (T__833_2:SKJEMA2
 | 1-2 per week | 10915 |
 | 5-6 per week | 10649 |
 | 3-4 per week | 11609 |
+| Not NA | 33173 |
 | NA | 54201 |
 
 
@@ -2830,6 +2969,7 @@ T__833_3:SKJEMA2W; (T__833_3:SKJEMA2DBG); (T__833_3:SKJEMA2D); (T__833_3:SKJEMA2
 | 2 per month | 1922 |
 | 0 per month | 7464 |
 | 1 per month | 1222 |
+| Not NA | 15097 |
 | NA | 72277 |
 
 
@@ -2841,6 +2981,7 @@ T__9_1_1:SKJEMA2W; (T__9_1_1:SKJEMA2DBG); (T__9_1_1:SKJEMA2D); (T__9_1_1:SKJEMA2
 | -------- | - |
 | 2+ per day | 395 |
 | 1 per day | 1979 |
+| Not NA | 2374 |
 | NA | 85000 |
 
 
@@ -2853,6 +2994,7 @@ T__9_1_2:SKJEMA2W; (T__9_1_2:SKJEMA2DBG); (T__9_1_2:SKJEMA2D); (T__9_1_2:SKJEMA2
 | 1-2 per week | 39372 |
 | 3-4 per week | 14783 |
 | 5-6 per week | 2715 |
+| Not NA | 56870 |
 | NA | 30504 |
 
 
@@ -2865,6 +3007,7 @@ T__9_1_3:SKJEMA2W; (T__9_1_3:SKJEMA2DBG); (T__9_1_3:SKJEMA2D); (T__9_1_3:SKJEMA2
 | 1 per month | 4742 |
 | 2-3 per month | 20800 |
 | 0 per month | 2164 |
+| Not NA | 27706 |
 | NA | 59668 |
 
 
@@ -2878,6 +3021,7 @@ T__9_2:SKJEMA2W; (T__9_2:SKJEMA2DBG); (T__9_2:SKJEMA2D); (T__9_2:SKJEMA2C); Numb
 | 6-10         | 386 |
 | more than 10 | 1502 |
 | 1-5             | 622 |
+| Not NA | 78215 |
 | NA | 9159 |
 
 
@@ -2889,6 +3033,7 @@ T_10_1_1:SKJEMA2W; (T_10_1_1:SKJEMA2DBG); (T_10_1_1:SKJEMA2D); (T_10_1_1:SKJEMA2
 | -------- | - |
 | 1 per day | 2875 |
 | 2+ per day | 168 |
+| Not NA | 3043 |
 | NA | 84331 |
 
 
@@ -2901,6 +3046,7 @@ T_10_1_2:SKJEMA2W; (T_10_1_2:SKJEMA2DBG); (T_10_1_2:SKJEMA2D); (T_10_1_2:SKJEMA2
 | 1-2 per week | 8510 |
 | 3-4 per week | 4443 |
 | 5-6 per week | 1544 |
+| Not NA | 14497 |
 | NA | 72877 |
 
 
@@ -2913,6 +3059,7 @@ T_10_1_3:SKJEMA2W; (T_10_1_3:SKJEMA2DBG); (T_10_1_3:SKJEMA2D); (T_10_1_3:SKJEMA2
 | 1 per month | 6519 |
 | 2-3 per month | 10311 |
 | 0 per month | 47144 |
+| Not NA | 63974 |
 | NA | 23400 |
 
 
@@ -2924,6 +3071,7 @@ T_10_2_1:SKJEMA2W; (T_10_2_1:SKJEMA2DBG); (T_10_2_1:SKJEMA2D); (T_10_2_1:SKJEMA2
 | -------- | - |
 | 1 per day | 1273 |
 | 2+ per day | 56 |
+| Not NA | 1329 |
 | NA | 86045 |
 
 
@@ -2936,6 +3084,7 @@ T_10_2_2:SKJEMA2W; (T_10_2_2:SKJEMA2DBG); (T_10_2_2:SKJEMA2D); (T_10_2_2:SKJEMA2
 | 5-6 per week | 895 |
 | 3-4 per week | 2933 |
 | 1-2 per week | 6731 |
+| Not NA | 10559 |
 | NA | 76815 |
 
 
@@ -2948,6 +3097,7 @@ T_10_2_3:SKJEMA2W; (T_10_2_3:SKJEMA2DBG); (T_10_2_3:SKJEMA2D); (T_10_2_3:SKJEMA2
 | 0 per month | 53758 |
 | 1 per month | 5983 |
 | 2-3 per month | 8965 |
+| Not NA | 68706 |
 | NA | 18668 |
 
 
@@ -2959,6 +3109,7 @@ T_10_3_1:SKJEMA2W; (T_10_3_1:SKJEMA2DBG); (T_10_3_1:SKJEMA2D); (T_10_3_1:SKJEMA2
 | -------- | - |
 | 1 per day | 951 |
 | 2+ per day | 48 |
+| Not NA | 999 |
 | NA | 86375 |
 
 
@@ -2971,6 +3122,7 @@ T_10_3_2:SKJEMA2W; (T_10_3_2:SKJEMA2DBG); (T_10_3_2:SKJEMA2D); (T_10_3_2:SKJEMA2
 | 1-2 per week | 8669 |
 | 3-4 per week | 2209 |
 | 5-6 per week | 621 |
+| Not NA | 11499 |
 | NA | 75875 |
 
 
@@ -2983,6 +3135,7 @@ T_10_3_3:SKJEMA2W; (T_10_3_3:SKJEMA2DBG); (T_10_3_3:SKJEMA2D); (T_10_3_3:SKJEMA2
 | 0 per month | 40693 |
 | 2-3 per month | 16428 |
 | 1 per month | 11905 |
+| Not NA | 69026 |
 | NA | 18348 |
 
 
@@ -2994,6 +3147,7 @@ T_10_4_1:SKJEMA2W; (T_10_4_1:SKJEMA2DBG); (T_10_4_1:SKJEMA2D); (T_10_4_1:SKJEMA2
 | -------- | - |
 | 1 per day | 603 |
 | 2+ per day | 70 |
+| Not NA | 673 |
 | NA | 86701 |
 
 
@@ -3006,6 +3160,7 @@ T_10_4_2:SKJEMA2W; (T_10_4_2:SKJEMA2DBG); (T_10_4_2:SKJEMA2D); (T_10_4_2:SKJEMA2
 | 1-2 per week | 5758 |
 | 3-4 per week | 1800 |
 | 5-6 per week | 421 |
+| Not NA | 7979 |
 | NA | 79395 |
 
 
@@ -3018,6 +3173,7 @@ T_10_4_3:SKJEMA2W; (T_10_4_3:SKJEMA2DBG); (T_10_4_3:SKJEMA2D); (T_10_4_3:SKJEMA2
 | 0 per month | 54765 |
 | 1 per month | 7291 |
 | 2-3 per month | 9973 |
+| Not NA | 72029 |
 | NA | 15345 |
 
 
@@ -3029,6 +3185,7 @@ T_10_5_1:SKJEMA2W; (T_10_5_1:SKJEMA2DBG); (T_10_5_1:SKJEMA2D); (T_10_5_1:SKJEMA2
 | -------- | - |
 | 1 per day | 718 |
 | 2+ per day | 55 |
+| Not NA | 773 |
 | NA | 86601 |
 
 
@@ -3041,6 +3198,7 @@ T_10_5_2:SKJEMA2W; (T_10_5_2:SKJEMA2DBG); (T_10_5_2:SKJEMA2D); (T_10_5_2:SKJEMA2
 | 1-2 per week | 6882 |
 | 5-6 per week | 582 |
 | 3-4 per week | 2025 |
+| Not NA | 9489 |
 | NA | 77885 |
 
 
@@ -3053,6 +3211,7 @@ T_10_5_3:SKJEMA2W; (T_10_5_3:SKJEMA2DBG); (T_10_5_3:SKJEMA2D); (T_10_5_3:SKJEMA2
 | 0 per month | 53420 |
 | 2-3 per month | 10717 |
 | 1 per month | 5899 |
+| Not NA | 70036 |
 | NA | 17338 |
 
 
@@ -3064,6 +3223,7 @@ T_10_6_1:SKJEMA2W; (T_10_6_1:SKJEMA2DBG); (T_10_6_1:SKJEMA2D); (T_10_6_1:SKJEMA2
 | -------- | - |
 | 1 per day | 765 |
 | 2+ per day | 49 |
+| Not NA | 814 |
 | NA | 86560 |
 
 
@@ -3076,6 +3236,7 @@ T_10_6_2:SKJEMA2W; (T_10_6_2:SKJEMA2DBG); (T_10_6_2:SKJEMA2D); (T_10_6_2:SKJEMA2
 | 1-2 per week | 4367 |
 | 5-6 per week | 496 |
 | 3-4 per week | 1688 |
+| Not NA | 6551 |
 | NA | 80823 |
 
 
@@ -3088,6 +3249,7 @@ T_10_6_3:SKJEMA2W; (T_10_6_3:SKJEMA2DBG); (T_10_6_3:SKJEMA2D); (T_10_6_3:SKJEMA2
 | 1 per month | 4342 |
 | 0 per month | 62048 |
 | 2-3 per month | 6197 |
+| Not NA | 72587 |
 | NA | 14787 |
 
 
@@ -3102,6 +3264,7 @@ T_11_1_1:SKJEMA2W; (T_11_1_1:SKJEMA2DBG); (T_11_1_1:SKJEMA2D); (T_11_1_1:SKJEMA2
 | 8+ per day | 75 |
 | 4-5 per day | 352 |
 | 6-7 per day | 105 |
+| Not NA | 4084 |
 | NA | 83290 |
 
 
@@ -3114,6 +3277,7 @@ T_11_1_2:SKJEMA2W; (T_11_1_2:SKJEMA2DBG); (T_11_1_2:SKJEMA2D); (T_11_1_2:SKJEMA2
 | 1-2 per week | 3353 |
 | 3-4 per week | 1672 |
 | 5-6 per week | 616 |
+| Not NA | 5641 |
 | NA | 81733 |
 
 
@@ -3126,6 +3290,7 @@ T_11_1_3:SKJEMA2W; (T_11_1_3:SKJEMA2DBG); (T_11_1_3:SKJEMA2D); (T_11_1_3:SKJEMA2
 | 0 per month | 60647 |
 | 1 per month | 4763 |
 | 2-3 per month | 4940 |
+| Not NA | 70350 |
 | NA | 17024 |
 
 
@@ -3140,6 +3305,7 @@ T_11_2_1:SKJEMA2W; (T_11_2_1:SKJEMA2DBG); (T_11_2_1:SKJEMA2D); (T_11_2_1:SKJEMA2
 | 4-5 per day | 3464 |
 | 1 per day | 8910 |
 | 8+ per day | 398 |
+| Not NA | 26336 |
 | NA | 61038 |
 
 
@@ -3152,6 +3318,7 @@ T_11_2_2:SKJEMA2W; (T_11_2_2:SKJEMA2DBG); (T_11_2_2:SKJEMA2D); (T_11_2_2:SKJEMA2
 | 5-6 per week | 3261 |
 | 3-4 per week | 5524 |
 | 1-2 per week | 7204 |
+| Not NA | 15989 |
 | NA | 71385 |
 
 
@@ -3164,6 +3331,7 @@ T_11_2_3:SKJEMA2W; (T_11_2_3:SKJEMA2DBG); (T_11_2_3:SKJEMA2D); (T_11_2_3:SKJEMA2
 | 0 per month | 29344 |
 | 2-3 per month | 7301 |
 | 1 per month | 3995 |
+| Not NA | 40640 |
 | NA | 46734 |
 
 
@@ -3178,6 +3346,7 @@ T_11_3_1:SKJEMA2W; (T_11_3_1:SKJEMA2DBG); (T_11_3_1:SKJEMA2D); (T_11_3_1:SKJEMA2
 | 4-5 per day | 1547 |
 | 6-7 per day | 385 |
 | 8+ per day | 138 |
+| Not NA | 13165 |
 | NA | 74209 |
 
 
@@ -3190,6 +3359,7 @@ T_11_3_2:SKJEMA2W; (T_11_3_2:SKJEMA2DBG); (T_11_3_2:SKJEMA2D); (T_11_3_2:SKJEMA2
 | 5-6 per week | 1532 |
 | 3-4 per week | 2614 |
 | 1-2 per week | 3666 |
+| Not NA | 7812 |
 | NA | 79562 |
 
 
@@ -3202,6 +3372,7 @@ T_11_3_3:SKJEMA2W; (T_11_3_3:SKJEMA2DBG); (T_11_3_3:SKJEMA2D); (T_11_3_3:SKJEMA2
 | 0 per month | 52871 |
 | 2-3 per month | 3712 |
 | 1 per month | 2563 |
+| Not NA | 59146 |
 | NA | 28228 |
 
 
@@ -3216,6 +3387,7 @@ T_11_4_1:SKJEMA2W; (T_11_4_1:SKJEMA2DBG); (T_11_4_1:SKJEMA2D); (T_11_4_1:SKJEMA2
 | 1 per day | 4506 |
 | 6-7 per day | 518 |
 | 8+ per day | 234 |
+| Not NA | 15491 |
 | NA | 71883 |
 
 
@@ -3228,6 +3400,7 @@ T_11_4_2:SKJEMA2W; (T_11_4_2:SKJEMA2DBG); (T_11_4_2:SKJEMA2D); (T_11_4_2:SKJEMA2
 | 3-4 per week | 1957 |
 | 1-2 per week | 2481 |
 | 5-6 per week | 1358 |
+| Not NA | 5796 |
 | NA | 81578 |
 
 
@@ -3240,6 +3413,7 @@ T_11_4_3:SKJEMA2W; (T_11_4_3:SKJEMA2DBG); (T_11_4_3:SKJEMA2D); (T_11_4_3:SKJEMA2
 | 0 per month | 54645 |
 | 2-3 per month | 2654 |
 | 1 per month | 1905 |
+| Not NA | 59204 |
 | NA | 28170 |
 
 
@@ -3254,6 +3428,7 @@ T_11_5_1:SKJEMA2W; (T_11_5_1:SKJEMA2DBG); (T_11_5_1:SKJEMA2D); (T_11_5_1:SKJEMA2
 | 6-7 per day | 14 |
 | 4-5 per day | 54 |
 | 8+ per day | 11 |
+| Not NA | 2047 |
 | NA | 85327 |
 
 
@@ -3266,6 +3441,7 @@ T_11_5_2:SKJEMA2W; (T_11_5_2:SKJEMA2DBG); (T_11_5_2:SKJEMA2D); (T_11_5_2:SKJEMA2
 | 1-2 per week | 3141 |
 | 3-4 per week | 1651 |
 | 5-6 per week | 529 |
+| Not NA | 5321 |
 | NA | 82053 |
 
 
@@ -3278,6 +3454,7 @@ T_11_5_3:SKJEMA2W; (T_11_5_3:SKJEMA2DBG); (T_11_5_3:SKJEMA2D); (T_11_5_3:SKJEMA2
 | 0 per month | 62430 |
 | 2-3 per month | 5415 |
 | 1 per month | 4104 |
+| Not NA | 71949 |
 | NA | 15425 |
 
 
@@ -3292,6 +3469,7 @@ T_11_6_1:SKJEMA2W; (T_11_6_1:SKJEMA2DBG); (T_11_6_1:SKJEMA2D); (T_11_6_1:SKJEMA2
 | 6-7 per day | 49 |
 | 4-5 per day | 106 |
 | 8+ per day | 21 |
+| Not NA | 4422 |
 | NA | 82952 |
 
 
@@ -3304,6 +3482,7 @@ T_11_6_2:SKJEMA2W; (T_11_6_2:SKJEMA2DBG); (T_11_6_2:SKJEMA2D); (T_11_6_2:SKJEMA2
 | 1-2 per week | 5182 |
 | 3-4 per week | 3502 |
 | 5-6 per week | 1366 |
+| Not NA | 10050 |
 | NA | 77324 |
 
 
@@ -3316,6 +3495,7 @@ T_11_6_3:SKJEMA2W; (T_11_6_3:SKJEMA2DBG); (T_11_6_3:SKJEMA2D); (T_11_6_3:SKJEMA2
 | 1 per month | 4548 |
 | 2-3 per month | 7050 |
 | 0 per month | 53819 |
+| Not NA | 65417 |
 | NA | 21957 |
 
 
@@ -3330,6 +3510,7 @@ T_11_7_1:SKJEMA2W; (T_11_7_1:SKJEMA2DBG); (T_11_7_1:SKJEMA2D); (T_11_7_1:SKJEMA2
 | 2-3 per day | 1203 |
 | 8+ per day | 43 |
 | 6-7 per day | 91 |
+| Not NA | 7685 |
 | NA | 79689 |
 
 
@@ -3342,6 +3523,7 @@ T_11_7_2:SKJEMA2W; (T_11_7_2:SKJEMA2DBG); (T_11_7_2:SKJEMA2D); (T_11_7_2:SKJEMA2
 | 3-4 per week | 11699 |
 | 5-6 per week | 3582 |
 | 1-2 per week | 18301 |
+| Not NA | 33582 |
 | NA | 53792 |
 
 
@@ -3354,6 +3536,7 @@ T_11_7_3:SKJEMA2W; (T_11_7_3:SKJEMA2DBG); (T_11_7_3:SKJEMA2D); (T_11_7_3:SKJEMA2
 | 1 per month | 4899 |
 | 0 per month | 21993 |
 | 2-3 per month | 14915 |
+| Not NA | 41807 |
 | NA | 45567 |
 
 
@@ -3368,6 +3551,7 @@ T_11_8_1:SKJEMA2W; (T_11_8_1:SKJEMA2DBG); (T_11_8_1:SKJEMA2D); (T_11_8_1:SKJEMA2
 | 4-5 per day | 49 |
 | 8+ per day | 11 |
 | 6-7 per day | 16 |
+| Not NA | 1821 |
 | NA | 85553 |
 
 
@@ -3380,6 +3564,7 @@ T_11_8_2:SKJEMA2W; (T_11_8_2:SKJEMA2DBG); (T_11_8_2:SKJEMA2D); (T_11_8_2:SKJEMA2
 | 3-4 per week | 2615 |
 | 1-2 per week | 5769 |
 | 5-6 per week | 756 |
+| Not NA | 9140 |
 | NA | 78234 |
 
 
@@ -3392,6 +3577,7 @@ T_11_8_3:SKJEMA2W; (T_11_8_3:SKJEMA2DBG); (T_11_8_3:SKJEMA2D); (T_11_8_3:SKJEMA2
 | 0 per month | 58677 |
 | 1 per month | 3647 |
 | 2-3 per month | 6292 |
+| Not NA | 68616 |
 | NA | 18758 |
 
 
@@ -3406,6 +3592,7 @@ T_11_9_1:SKJEMA2W; (T_11_9_1:SKJEMA2DBG); (T_11_9_1:SKJEMA2D); (T_11_9_1:SKJEMA2
 | 4-5 per day | 47 |
 | 6-7 per day | 11 |
 | 8+ per day | 8 |
+| Not NA | 1132 |
 | NA | 86242 |
 
 
@@ -3418,6 +3605,7 @@ T_11_9_2:SKJEMA2W; (T_11_9_2:SKJEMA2DBG); (T_11_9_2:SKJEMA2D); (T_11_9_2:SKJEMA2
 | 3-4 per week | 2517 |
 | 1-2 per week | 8749 |
 | 5-6 per week | 435 |
+| Not NA | 11701 |
 | NA | 75673 |
 
 
@@ -3430,6 +3618,7 @@ T_11_9_3:SKJEMA2W; (T_11_9_3:SKJEMA2DBG); (T_11_9_3:SKJEMA2D); (T_11_9_3:SKJEMA2
 | 0 per month | 40949 |
 | 2-3 per month | 15769 |
 | 1 per month | 12986 |
+| Not NA | 69704 |
 | NA | 17670 |
 
 
@@ -3444,6 +3633,7 @@ T_1110_1:SKJEMA2W; (T_1110_1:SKJEMA2DBG); (T_1110_1:SKJEMA2D); (T_1110_1:SKJEMA2
 | 8+ per day | 13 |
 | 6-7 per day | 29 |
 | 4-5 per day | 100 |
+| Not NA | 1822 |
 | NA | 85552 |
 
 
@@ -3456,6 +3646,7 @@ T_1110_2:SKJEMA2W; (T_1110_2:SKJEMA2DBG); (T_1110_2:SKJEMA2D); (T_1110_2:SKJEMA2
 | 3-4 per week | 2526 |
 | 5-6 per week | 757 |
 | 1-2 per week | 5799 |
+| Not NA | 9082 |
 | NA | 78292 |
 
 
@@ -3468,6 +3659,7 @@ T_1110_3:SKJEMA2W; (T_1110_3:SKJEMA2DBG); (T_1110_3:SKJEMA2D); (T_1110_3:SKJEMA2
 | 1 per month | 8524 |
 | 0 per month | 51798 |
 | 2-3 per month | 10394 |
+| Not NA | 70716 |
 | NA | 16658 |
 
 
@@ -3482,6 +3674,7 @@ T_1111_1:SKJEMA2W; (T_1111_1:SKJEMA2DBG); (T_1111_1:SKJEMA2D); (T_1111_1:SKJEMA2
 | 1 per day | 152 |
 | 4-5 per day | 10 |
 | 6-7 per day | 5 |
+| Not NA | 230 |
 | NA | 87144 |
 
 
@@ -3494,6 +3687,7 @@ T_1111_2:SKJEMA2W; (T_1111_2:SKJEMA2DBG); (T_1111_2:SKJEMA2D); (T_1111_2:SKJEMA2
 | 3-4 per week | 148 |
 | 1-2 per week | 239 |
 | 5-6 per week | 59 |
+| Not NA | 446 |
 | NA | 86928 |
 
 
@@ -3506,6 +3700,7 @@ T_1111_3:SKJEMA2W; (T_1111_3:SKJEMA2DBG); (T_1111_3:SKJEMA2D); (T_1111_3:SKJEMA2
 | 0 per month | 78531 |
 | 2-3 per month | 412 |
 | 1 per month | 427 |
+| Not NA | 79370 |
 | NA | 8004 |
 
 
@@ -3520,6 +3715,7 @@ T_1112_1:SKJEMA2W; (T_1112_1:SKJEMA2DBG); (T_1112_1:SKJEMA2D); (T_1112_1:SKJEMA2
 | 1 per day | 117 |
 | 6-7 per day | 7 |
 | 8+ per day | 4 |
+| Not NA | 205 |
 | NA | 87169 |
 
 
@@ -3532,6 +3728,7 @@ T_1112_2:SKJEMA2W; (T_1112_2:SKJEMA2DBG); (T_1112_2:SKJEMA2D); (T_1112_2:SKJEMA2
 | 1-2 per week | 229 |
 | 3-4 per week | 132 |
 | 5-6 per week | 65 |
+| Not NA | 426 |
 | NA | 86948 |
 
 
@@ -3544,6 +3741,7 @@ T_1112_3:SKJEMA2W; (T_1112_3:SKJEMA2DBG); (T_1112_3:SKJEMA2D); (T_1112_3:SKJEMA2
 | 0 per month | 78808 |
 | 2-3 per month | 296 |
 | 1 per month | 308 |
+| Not NA | 79412 |
 | NA | 7962 |
 
 
@@ -3558,6 +3756,7 @@ T_1113_1:SKJEMA2W; (T_1113_1:SKJEMA2DBG); (T_1113_1:SKJEMA2D); (T_1113_1:SKJEMA2
 | 6-7 per day | 266 |
 | 4-5 per day | 1096 |
 | 8+ per day | 150 |
+| Not NA | 30389 |
 | NA | 56985 |
 
 
@@ -3570,6 +3769,7 @@ T_1113_2:SKJEMA2W; (T_1113_2:SKJEMA2DBG); (T_1113_2:SKJEMA2D); (T_1113_2:SKJEMA2
 | 5-6 per week | 6839 |
 | 3-4 per week | 13302 |
 | 1-2 per week | 13805 |
+| Not NA | 33946 |
 | NA | 53428 |
 
 
@@ -3582,6 +3782,7 @@ T_1113_3:SKJEMA2W; (T_1113_3:SKJEMA2DBG); (T_1113_3:SKJEMA2D); (T_1113_3:SKJEMA2
 | 1 per month | 3676 |
 | 0 per month | 6860 |
 | 2-3 per month | 10734 |
+| Not NA | 21270 |
 | NA | 66104 |
 
 
@@ -3596,6 +3797,7 @@ T_1114_1:SKJEMA2W; (T_1114_1:SKJEMA2DBG); (T_1114_1:SKJEMA2D); (T_1114_1:SKJEMA2
 | 4-5 per day | 569 |
 | 8+ per day | 58 |
 | 6-7 per day | 134 |
+| Not NA | 13807 |
 | NA | 73567 |
 
 
@@ -3608,6 +3810,7 @@ T_1114_2:SKJEMA2W; (T_1114_2:SKJEMA2DBG); (T_1114_2:SKJEMA2D); (T_1114_2:SKJEMA2
 | 3-4 per week | 10043 |
 | 1-2 per week | 14746 |
 | 5-6 per week | 4051 |
+| Not NA | 28840 |
 | NA | 58534 |
 
 
@@ -3620,6 +3823,7 @@ T_1114_3:SKJEMA2W; (T_1114_3:SKJEMA2DBG); (T_1114_3:SKJEMA2D); (T_1114_3:SKJEMA2
 | 1 per month | 4581 |
 | 0 per month | 23947 |
 | 2-3 per month | 11391 |
+| Not NA | 39919 |
 | NA | 47455 |
 
 
@@ -3634,6 +3838,7 @@ T_1115_1:SKJEMA2W; (T_1115_1:SKJEMA2DBG); (T_1115_1:SKJEMA2D); (T_1115_1:SKJEMA2
 | 2-3 per day | 106 |
 | 8+ per day | 5 |
 | 6-7 per day | 4 |
+| Not NA | 356 |
 | NA | 87018 |
 
 
@@ -3646,6 +3851,7 @@ T_1115_2:SKJEMA2W; (T_1115_2:SKJEMA2DBG); (T_1115_2:SKJEMA2D); (T_1115_2:SKJEMA2
 | 3-4 per week | 323 |
 | 1-2 per week | 635 |
 | 5-6 per week | 146 |
+| Not NA | 1104 |
 | NA | 86270 |
 
 
@@ -3658,6 +3864,7 @@ T_1115_3:SKJEMA2W; (T_1115_3:SKJEMA2DBG); (T_1115_3:SKJEMA2D); (T_1115_3:SKJEMA2
 | 0 per month | 76613 |
 | 1 per month | 1265 |
 | 2-3 per month | 990 |
+| Not NA | 78868 |
 | NA | 8506 |
 
 
@@ -3672,6 +3879,7 @@ T_1116_1:SKJEMA2W; (T_1116_1:SKJEMA2DBG); (T_1116_1:SKJEMA2D); (T_1116_1:SKJEMA2
 | 4-5 per day | 587 |
 | 6-7 per day | 134 |
 | 8+ per day | 71 |
+| Not NA | 8869 |
 | NA | 78505 |
 
 
@@ -3684,6 +3892,7 @@ T_1116_2:SKJEMA2W; (T_1116_2:SKJEMA2DBG); (T_1116_2:SKJEMA2D); (T_1116_2:SKJEMA2
 | 3-4 per week | 7168 |
 | 5-6 per week | 2955 |
 | 1-2 per week | 11369 |
+| Not NA | 21492 |
 | NA | 65882 |
 
 
@@ -3696,6 +3905,7 @@ T_1116_3:SKJEMA2W; (T_1116_3:SKJEMA2DBG); (T_1116_3:SKJEMA2D); (T_1116_3:SKJEMA2
 | 0 per month | 31988 |
 | 2-3 per month | 13066 |
 | 1 per month | 6904 |
+| Not NA | 51958 |
 | NA | 35416 |
 
 
@@ -3710,6 +3920,7 @@ T_1117_1:SKJEMA2W; (T_1117_1:SKJEMA2DBG); (T_1117_1:SKJEMA2D); (T_1117_1:SKJEMA2
 | 2-3 per day | 2820 |
 | 6-7 per day | 186 |
 | 8+ per day | 91 |
+| Not NA | 7255 |
 | NA | 80119 |
 
 
@@ -3722,6 +3933,7 @@ T_1117_2:SKJEMA2W; (T_1117_2:SKJEMA2DBG); (T_1117_2:SKJEMA2D); (T_1117_2:SKJEMA2
 | 3-4 per week | 5212 |
 | 5-6 per week | 2571 |
 | 1-2 per week | 8163 |
+| Not NA | 15946 |
 | NA | 71428 |
 
 
@@ -3734,6 +3946,7 @@ T_1117_3:SKJEMA2W; (T_1117_3:SKJEMA2DBG); (T_1117_3:SKJEMA2D); (T_1117_3:SKJEMA2
 | 0 per month | 42879 |
 | 2-3 per month | 9395 |
 | 1 per month | 5776 |
+| Not NA | 58050 |
 | NA | 29324 |
 
 
@@ -3748,6 +3961,7 @@ T_1118_1:SKJEMA2W; (T_1118_1:SKJEMA2DBG); (T_1118_1:SKJEMA2D); (T_1118_1:SKJEMA2
 | 1 per day | 2108 |
 | 8+ per day | 128 |
 | 6-7 per day | 176 |
+| Not NA | 4756 |
 | NA | 82618 |
 
 
@@ -3760,6 +3974,7 @@ T_1118_2:SKJEMA2W; (T_1118_2:SKJEMA2DBG); (T_1118_2:SKJEMA2D); (T_1118_2:SKJEMA2
 | 1-2 per week | 12759 |
 | 3-4 per week | 6108 |
 | 5-6 per week | 2689 |
+| Not NA | 21556 |
 | NA | 65818 |
 
 
@@ -3772,6 +3987,7 @@ T_1118_3:SKJEMA2W; (T_1118_3:SKJEMA2DBG); (T_1118_3:SKJEMA2D); (T_1118_3:SKJEMA2
 | 0 per month | 31976 |
 | 2-3 per month | 14183 |
 | 1 per month | 9791 |
+| Not NA | 55950 |
 | NA | 31424 |
 
 
@@ -3786,6 +4002,7 @@ T_1119_1:SKJEMA2W; (T_1119_1:SKJEMA2DBG); (T_1119_1:SKJEMA2D); (T_1119_1:SKJEMA2
 | 4-5 per day | 171 |
 | 6-7 per day | 47 |
 | 8+ per day | 36 |
+| Not NA | 2421 |
 | NA | 84953 |
 
 
@@ -3798,6 +4015,7 @@ T_1119_2:SKJEMA2W; (T_1119_2:SKJEMA2DBG); (T_1119_2:SKJEMA2D); (T_1119_2:SKJEMA2
 | 3-4 per week | 4594 |
 | 5-6 per week | 1536 |
 | 1-2 per week | 14426 |
+| Not NA | 20556 |
 | NA | 66818 |
 
 
@@ -3810,6 +4028,7 @@ T_1119_3:SKJEMA2W; (T_1119_3:SKJEMA2DBG); (T_1119_3:SKJEMA2D); (T_1119_3:SKJEMA2
 | 0 per month | 28573 |
 | 2-3 per month | 17764 |
 | 1 per month | 12203 |
+| Not NA | 58540 |
 | NA | 28834 |
 
 
@@ -3824,6 +4043,7 @@ T_1120_1:SKJEMA2W; (T_1120_1:SKJEMA2DBG); (T_1120_1:SKJEMA2D); (T_1120_1:SKJEMA2
 | 2-3 per day | 2639 |
 | 6-7 per day | 327 |
 | 8+ per day | 241 |
+| Not NA | 6567 |
 | NA | 80807 |
 
 
@@ -3836,6 +4056,7 @@ T_1120_2:SKJEMA2W; (T_1120_2:SKJEMA2DBG); (T_1120_2:SKJEMA2D); (T_1120_2:SKJEMA2
 | 1-2 per week | 7905 |
 | 3-4 per week | 4926 |
 | 5-6 per week | 2859 |
+| Not NA | 15690 |
 | NA | 71684 |
 
 
@@ -3848,6 +4069,7 @@ T_1120_3:SKJEMA2W; (T_1120_3:SKJEMA2DBG); (T_1120_3:SKJEMA2D); (T_1120_3:SKJEMA2
 | 0 per month | 45951 |
 | 2-3 per month | 7855 |
 | 1 per month | 5509 |
+| Not NA | 59315 |
 | NA | 28059 |
 
 
@@ -3862,6 +4084,7 @@ T_1121_1:SKJEMA2W; (T_1121_1:SKJEMA2DBG); (T_1121_1:SKJEMA2D); (T_1121_1:SKJEMA2
 | 4-5 per day | 242 |
 | 6-7 per day | 77 |
 | 8+ per day | 56 |
+| Not NA | 2104 |
 | NA | 85270 |
 
 
@@ -3874,6 +4097,7 @@ T_1121_2:SKJEMA2W; (T_1121_2:SKJEMA2DBG); (T_1121_2:SKJEMA2D); (T_1121_2:SKJEMA2
 | 1-2 per week | 5201 |
 | 3-4 per week | 2174 |
 | 5-6 per week | 984 |
+| Not NA | 8359 |
 | NA | 79015 |
 
 
@@ -3886,6 +4110,7 @@ T_1121_3:SKJEMA2W; (T_1121_3:SKJEMA2DBG); (T_1121_3:SKJEMA2D); (T_1121_3:SKJEMA2
 | 0 per month | 58282 |
 | 1 per month | 5376 |
 | 2-3 per month | 6294 |
+| Not NA | 69952 |
 | NA | 17422 |
 
 
@@ -3900,6 +4125,7 @@ T_1122_1:SKJEMA2W; (T_1122_1:SKJEMA2DBG); (T_1122_1:SKJEMA2D); (T_1122_1:SKJEMA2
 | 6-7 per day | 50 |
 | 1 per day | 86 |
 | 8+ per day | 37 |
+| Not NA | 456 |
 | NA | 86918 |
 
 
@@ -3912,6 +4138,7 @@ T_1122_2:SKJEMA2W; (T_1122_2:SKJEMA2DBG); (T_1122_2:SKJEMA2D); (T_1122_2:SKJEMA2
 | 1-2 per week | 201 |
 | 5-6 per week | 46 |
 | 3-4 per week | 78 |
+| Not NA | 325 |
 | NA | 87049 |
 
 
@@ -3924,6 +4151,7 @@ T_1122_3:SKJEMA2W; (T_1122_3:SKJEMA2DBG); (T_1122_3:SKJEMA2D); (T_1122_3:SKJEMA2
 | 0 per month | 77001 |
 | 1 per month | 864 |
 | 2-3 per month | 519 |
+| Not NA | 78384 |
 | NA | 8990 |
 
 
@@ -3938,6 +4166,7 @@ T_1123_1:SKJEMA2W; (T_1123_1:SKJEMA2DBG); (T_1123_1:SKJEMA2D); (T_1123_1:SKJEMA2
 | 6-7 per day | 15300 |
 | 1 per day | 4655 |
 | 2-3 per day | 20083 |
+| Not NA | 77785 |
 | NA | 9589 |
 
 
@@ -3950,6 +4179,7 @@ T_1123_2:SKJEMA2W; (T_1123_2:SKJEMA2DBG); (T_1123_2:SKJEMA2D); (T_1123_2:SKJEMA2
 | 5-6 per week | 2197 |
 | 1-2 per week | 1098 |
 | 3-4 per week | 1536 |
+| Not NA | 4831 |
 | NA | 82543 |
 
 
@@ -3962,6 +4192,7 @@ T_1123_3:SKJEMA2W; (T_1123_3:SKJEMA2DBG); (T_1123_3:SKJEMA2D); (T_1123_3:SKJEMA2
 | 0 per month | 2064 |
 | 1 per month | 246 |
 | 2-3 per month | 707 |
+| Not NA | 3017 |
 | NA | 84357 |
 
 
@@ -3976,6 +4207,7 @@ T_1124_1:SKJEMA2W; (T_1124_1:SKJEMA2DBG); (T_1124_1:SKJEMA2D); (T_1124_1:SKJEMA2
 | 2-3 per day | 4031 |
 | 4-5 per day | 2089 |
 | 8+ per day | 714 |
+| Not NA | 11325 |
 | NA | 76049 |
 
 
@@ -3988,6 +4220,7 @@ T_1124_2:SKJEMA2W; (T_1124_2:SKJEMA2DBG); (T_1124_2:SKJEMA2D); (T_1124_2:SKJEMA2
 | 5-6 per week | 3507 |
 | 1-2 per week | 11520 |
 | 3-4 per week | 6829 |
+| Not NA | 21856 |
 | NA | 65518 |
 
 
@@ -4000,6 +4233,7 @@ T_1124_3:SKJEMA2W; (T_1124_3:SKJEMA2DBG); (T_1124_3:SKJEMA2D); (T_1124_3:SKJEMA2
 | 2-3 per month | 15658 |
 | 0 per month | 25467 |
 | 1 per month | 7032 |
+| Not NA | 48157 |
 | NA | 39217 |
 
 
@@ -4014,6 +4248,7 @@ T_1125_1:SKJEMA2W; (T_1125_1:SKJEMA2DBG); (T_1125_1:SKJEMA2D); (T_1125_1:SKJEMA2
 | 4-5 per day | 994 |
 | 8+ per day | 231 |
 | 6-7 per day | 318 |
+| Not NA | 8395 |
 | NA | 78979 |
 
 
@@ -4026,6 +4261,7 @@ T_1125_2:SKJEMA2W; (T_1125_2:SKJEMA2DBG); (T_1125_2:SKJEMA2D); (T_1125_2:SKJEMA2
 | 5-6 per week | 3814 |
 | 1-2 per week | 11898 |
 | 3-4 per week | 7228 |
+| Not NA | 22940 |
 | NA | 64434 |
 
 
@@ -4038,6 +4274,7 @@ T_1125_3:SKJEMA2W; (T_1125_3:SKJEMA2DBG); (T_1125_3:SKJEMA2D); (T_1125_3:SKJEMA2
 | 0 per month | 30107 |
 | 2-3 per month | 14053 |
 | 1 per month | 6386 |
+| Not NA | 50546 |
 | NA | 36828 |
 
 
@@ -4052,6 +4289,7 @@ T_1126_1:SKJEMA2W; (T_1126_1:SKJEMA2DBG); (T_1126_1:SKJEMA2D); (T_1126_1:SKJEMA2
 | 4-5 per day | 19 |
 | 6-7 per day | 8 |
 | 8+ per day | 1 |
+| Not NA | 374 |
 | NA | 87000 |
 
 
@@ -4064,6 +4302,7 @@ T_1126_2:SKJEMA2W; (T_1126_2:SKJEMA2DBG); (T_1126_2:SKJEMA2D); (T_1126_2:SKJEMA2
 | 1-2 per week | 4527 |
 | 3-4 per week | 1246 |
 | 5-6 per week | 287 |
+| Not NA | 6060 |
 | NA | 81314 |
 
 
@@ -4076,6 +4315,7 @@ T_1126_3:SKJEMA2W; (T_1126_3:SKJEMA2DBG); (T_1126_3:SKJEMA2D); (T_1126_3:SKJEMA2
 | 0 per month | 56399 |
 | 2-3 per month | 9631 |
 | 1 per month | 8753 |
+| Not NA | 74783 |
 | NA | 12591 |
 
 
@@ -4088,6 +4328,7 @@ T_1127_1:SKJEMA2W; (T_1127_1:SKJEMA2DBG); (T_1127_1:SKJEMA2D); (T_1127_1:SKJEMA2
 | 1 per day | 13 |
 | 4-5 per day | 1 |
 | 2-3 per day | 3 |
+| Not NA | 17 |
 | NA | 87357 |
 
 
@@ -4100,6 +4341,7 @@ T_1127_2:SKJEMA2W; (T_1127_2:SKJEMA2DBG); (T_1127_2:SKJEMA2D); (T_1127_2:SKJEMA2
 | 1-2 per week | 156 |
 | 3-4 per week | 13 |
 | 5-6 per week | 7 |
+| Not NA | 176 |
 | NA | 87198 |
 
 
@@ -4112,6 +4354,7 @@ T_1127_3:SKJEMA2W; (T_1127_3:SKJEMA2DBG); (T_1127_3:SKJEMA2D); (T_1127_3:SKJEMA2
 | 0 per month | 77595 |
 | 2-3 per month | 625 |
 | 1 per month | 1864 |
+| Not NA | 80084 |
 | NA | 7290 |
 
 
@@ -4126,6 +4369,7 @@ T_1128_1:SKJEMA2W; (T_1128_1:SKJEMA2DBG); (T_1128_1:SKJEMA2D); (T_1128_1:SKJEMA2
 | 2-3 per day | 5 |
 | 4-5 per day | 2 |
 | 8+ per day | 1 |
+| Not NA | 24 |
 | NA | 87350 |
 
 
@@ -4138,6 +4382,7 @@ T_1128_2:SKJEMA2W; (T_1128_2:SKJEMA2DBG); (T_1128_2:SKJEMA2D); (T_1128_2:SKJEMA2
 | 1-2 per week | 415 |
 | 3-4 per week | 47 |
 | 5-6 per week | 4 |
+| Not NA | 466 |
 | NA | 86908 |
 
 
@@ -4150,6 +4395,7 @@ T_1128_3:SKJEMA2W; (T_1128_3:SKJEMA2DBG); (T_1128_3:SKJEMA2D); (T_1128_3:SKJEMA2
 | 0 per month | 72274 |
 | 2-3 per month | 2006 |
 | 1 per month | 5864 |
+| Not NA | 80144 |
 | NA | 7230 |
 
 
@@ -4161,6 +4407,7 @@ T_1129_1:SKJEMA2W; (T_1129_1:SKJEMA2DBG); (T_1129_1:SKJEMA2D); (T_1129_1:SKJEMA2
 | -------- | - |
 | 1 per day | 9 |
 | 6-7 per day | 1 |
+| Not NA | 10 |
 | NA | 87364 |
 
 
@@ -4173,6 +4420,7 @@ T_1129_2:SKJEMA2W; (T_1129_2:SKJEMA2DBG); (T_1129_2:SKJEMA2D); (T_1129_2:SKJEMA2
 | 1-2 per week | 14 |
 | 5-6 per week | 1 |
 | 3-4 per week | 3 |
+| Not NA | 18 |
 | NA | 87356 |
 
 
@@ -4185,6 +4433,7 @@ T_1129_3:SKJEMA2W; (T_1129_3:SKJEMA2DBG); (T_1129_3:SKJEMA2D); (T_1129_3:SKJEMA2
 | 0 per month | 79662 |
 | 1 per month | 486 |
 | 2-3 per month | 80 |
+| Not NA | 80228 |
 | NA | 7146 |
 
 
@@ -4199,6 +4448,7 @@ T_1130_1:SKJEMA2W; (T_1130_1:SKJEMA2DBG); (T_1130_1:SKJEMA2D); (T_1130_1:SKJEMA2
 | 2-3 per day | 8150 |
 | 4-5 per day | 1478 |
 | 8+ per day | 113 |
+| Not NA | 17404 |
 | NA | 69970 |
 
 
@@ -4211,6 +4461,7 @@ T_1130_2:SKJEMA2W; (T_1130_2:SKJEMA2DBG); (T_1130_2:SKJEMA2D); (T_1130_2:SKJEMA2
 | 1-2 per week | 6244 |
 | 3-4 per week | 4768 |
 | 5-6 per week | 2312 |
+| Not NA | 13324 |
 | NA | 74050 |
 
 
@@ -4223,6 +4474,7 @@ T_1130_3:SKJEMA2W; (T_1130_3:SKJEMA2DBG); (T_1130_3:SKJEMA2D); (T_1130_3:SKJEMA2
 | 0 per month | 41794 |
 | 2-3 per month | 6363 |
 | 1 per month | 4062 |
+| Not NA | 52219 |
 | NA | 35155 |
 
 
@@ -4237,6 +4489,7 @@ T_1131_1:SKJEMA2W; (T_1131_1:SKJEMA2DBG); (T_1131_1:SKJEMA2D); (T_1131_1:SKJEMA2
 | 4-5 per day | 87 |
 | 6-7 per day | 14 |
 | 8+ per day | 8 |
+| Not NA | 2710 |
 | NA | 84664 |
 
 
@@ -4249,6 +4502,7 @@ T_1131_2:SKJEMA2W; (T_1131_2:SKJEMA2DBG); (T_1131_2:SKJEMA2D); (T_1131_2:SKJEMA2
 | 1-2 per week | 2477 |
 | 3-4 per week | 1117 |
 | 5-6 per week | 403 |
+| Not NA | 3997 |
 | NA | 83377 |
 
 
@@ -4261,6 +4515,7 @@ T_1131_3:SKJEMA2W; (T_1131_3:SKJEMA2DBG); (T_1131_3:SKJEMA2D); (T_1131_3:SKJEMA2
 | 0 per month | 66923 |
 | 1 per month | 3432 |
 | 2-3 per month | 3253 |
+| Not NA | 73608 |
 | NA | 13766 |
 
 
@@ -4275,6 +4530,7 @@ T_1132_1:SKJEMA2W; (T_1132_1:SKJEMA2DBG); (T_1132_1:SKJEMA2D); (T_1132_1:SKJEMA2
 | 6-7 per day | 32 |
 | 4-5 per day | 122 |
 | 8+ per day | 22 |
+| Not NA | 2048 |
 | NA | 85326 |
 
 
@@ -4287,6 +4543,7 @@ T_1132_2:SKJEMA2W; (T_1132_2:SKJEMA2DBG); (T_1132_2:SKJEMA2D); (T_1132_2:SKJEMA2
 | 5-6 per week | 355 |
 | 1-2 per week | 2794 |
 | 3-4 per week | 1106 |
+| Not NA | 4255 |
 | NA | 83119 |
 
 
@@ -4299,6 +4556,7 @@ T_1132_3:SKJEMA2W; (T_1132_3:SKJEMA2DBG); (T_1132_3:SKJEMA2D); (T_1132_3:SKJEMA2
 | 0 per month | 65065 |
 | 2-3 per month | 4425 |
 | 1 per month | 4573 |
+| Not NA | 74063 |
 | NA | 13311 |
 
 
@@ -4313,6 +4571,7 @@ T_1133_1:SKJEMA2W; (T_1133_1:SKJEMA2DBG); (T_1133_1:SKJEMA2D); (T_1133_1:SKJEMA2
 | 8+ per day | 4 |
 | 4-5 per day | 24 |
 | 6-7 per day | 8 |
+| Not NA | 2618 |
 | NA | 84756 |
 
 
@@ -4325,6 +4584,7 @@ T_1133_2:SKJEMA2W; (T_1133_2:SKJEMA2DBG); (T_1133_2:SKJEMA2D); (T_1133_2:SKJEMA2
 | 1-2 per week | 7069 |
 | 3-4 per week | 3030 |
 | 5-6 per week | 935 |
+| Not NA | 11034 |
 | NA | 76340 |
 
 
@@ -4337,6 +4597,7 @@ T_1133_3:SKJEMA2W; (T_1133_3:SKJEMA2DBG); (T_1133_3:SKJEMA2D); (T_1133_3:SKJEMA2
 | 0 per month | 46603 |
 | 2-3 per month | 12114 |
 | 1 per month | 9209 |
+| Not NA | 67926 |
 | NA | 19448 |
 
 
@@ -4350,6 +4611,7 @@ T_1134_1:SKJEMA2W; (T_1134_1:SKJEMA2DBG); (T_1134_1:SKJEMA2D); (T_1134_1:SKJEMA2
 | 2-3 per day | 73 |
 | 4-5 per day | 4 |
 | 6-7 per day | 3 |
+| Not NA | 334 |
 | NA | 87040 |
 
 
@@ -4362,6 +4624,7 @@ T_1134_2:SKJEMA2W; (T_1134_2:SKJEMA2DBG); (T_1134_2:SKJEMA2D); (T_1134_2:SKJEMA2
 | 1-2 per week | 556 |
 | 3-4 per week | 207 |
 | 5-6 per week | 64 |
+| Not NA | 827 |
 | NA | 86547 |
 
 
@@ -4374,6 +4637,7 @@ T_1134_3:SKJEMA2W; (T_1134_3:SKJEMA2DBG); (T_1134_3:SKJEMA2D); (T_1134_3:SKJEMA2
 | 0 per month | 75659 |
 | 1 per month | 1847 |
 | 2-3 per month | 1170 |
+| Not NA | 78676 |
 | NA | 8698 |
 
 
@@ -4388,6 +4652,7 @@ T_1135_1:SKJEMA2W; (T_1135_1:SKJEMA2DBG); (T_1135_1:SKJEMA2D); (T_1135_1:SKJEMA2
 | 6-7 per day | 8 |
 | 4-5 per day | 37 |
 | 8+ per day | 3 |
+| Not NA | 797 |
 | NA | 86577 |
 
 
@@ -4400,6 +4665,7 @@ T_1135_2:SKJEMA2W; (T_1135_2:SKJEMA2DBG); (T_1135_2:SKJEMA2D); (T_1135_2:SKJEMA2
 | 1-2 per week | 903 |
 | 3-4 per week | 519 |
 | 5-6 per week | 178 |
+| Not NA | 1600 |
 | NA | 85774 |
 
 
@@ -4412,6 +4678,7 @@ T_1135_3:SKJEMA2W; (T_1135_3:SKJEMA2DBG); (T_1135_3:SKJEMA2D); (T_1135_3:SKJEMA2
 | 0 per month | 74691 |
 | 2-3 per month | 1540 |
 | 1 per month | 1519 |
+| Not NA | 77750 |
 | NA | 9624 |
 
 
@@ -4425,6 +4692,7 @@ T_1136_1:SKJEMA2W; (T_1136_1:SKJEMA2DBG); (T_1136_1:SKJEMA2D); (T_1136_1:SKJEMA2
 | 1 per day | 50 |
 | 2-3 per day | 24 |
 | 4-5 per day | 5 |
+| Not NA | 80 |
 | NA | 87294 |
 
 
@@ -4437,6 +4705,7 @@ T_1136_2:SKJEMA2W; (T_1136_2:SKJEMA2DBG); (T_1136_2:SKJEMA2D); (T_1136_2:SKJEMA2
 | 1-2 per week | 90 |
 | 3-4 per week | 69 |
 | 5-6 per week | 29 |
+| Not NA | 188 |
 | NA | 87186 |
 
 
@@ -4449,6 +4718,7 @@ T_1136_3:SKJEMA2W; (T_1136_3:SKJEMA2DBG); (T_1136_3:SKJEMA2D); (T_1136_3:SKJEMA2
 | 0 per month | 79228 |
 | 2-3 per month | 86 |
 | 1 per month | 87 |
+| Not NA | 79401 |
 | NA | 7973 |
 
 
@@ -4463,6 +4733,7 @@ T_1137_1:SKJEMA2W; (T_1137_1:SKJEMA2DBG); (T_1137_1:SKJEMA2D); (T_1137_1:SKJEMA2
 | 4-5 per day | 765 |
 | 6-7 per day | 156 |
 | 8+ per day | 63 |
+| Not NA | 20010 |
 | NA | 67364 |
 
 
@@ -4475,6 +4746,7 @@ T_1137_2:SKJEMA2W; (T_1137_2:SKJEMA2DBG); (T_1137_2:SKJEMA2D); (T_1137_2:SKJEMA2
 | 1-2 per week | 12626 |
 | 5-6 per week | 5001 |
 | 3-4 per week | 10211 |
+| Not NA | 27838 |
 | NA | 59536 |
 
 
@@ -4487,6 +4759,7 @@ T_1137_3:SKJEMA2W; (T_1137_3:SKJEMA2DBG); (T_1137_3:SKJEMA2D); (T_1137_3:SKJEMA2
 | 0 per month | 17256 |
 | 2-3 per month | 13583 |
 | 1 per month | 5679 |
+| Not NA | 36518 |
 | NA | 50856 |
 
 
@@ -4501,6 +4774,7 @@ T_1138_1:SKJEMA2W; (T_1138_1:SKJEMA2DBG); (T_1138_1:SKJEMA2D); (T_1138_1:SKJEMA2
 | 6-7 per day | 46 |
 | 4-5 per day | 148 |
 | 8+ per day | 20 |
+| Not NA | 4814 |
 | NA | 82560 |
 
 
@@ -4513,6 +4787,7 @@ T_1138_2:SKJEMA2W; (T_1138_2:SKJEMA2DBG); (T_1138_2:SKJEMA2D); (T_1138_2:SKJEMA2
 | 3-4 per week | 3221 |
 | 1-2 per week | 6124 |
 | 5-6 per week | 1228 |
+| Not NA | 10573 |
 | NA | 76801 |
 
 
@@ -4525,6 +4800,7 @@ T_1138_3:SKJEMA2W; (T_1138_3:SKJEMA2DBG); (T_1138_3:SKJEMA2D); (T_1138_3:SKJEMA2
 | 0 per month | 53219 |
 | 2-3 per month | 6980 |
 | 1 per month | 5462 |
+| Not NA | 65661 |
 | NA | 21713 |
 
 
@@ -4539,6 +4815,7 @@ T_1139_1:SKJEMA2W; (T_1139_1:SKJEMA2DBG); (T_1139_1:SKJEMA2D); (T_1139_1:SKJEMA2
 | 4-5 per day | 123 |
 | 8+ per day | 17 |
 | 6-7 per day | 22 |
+| Not NA | 3701 |
 | NA | 83673 |
 
 
@@ -4551,6 +4828,7 @@ T_1139_2:SKJEMA2W; (T_1139_2:SKJEMA2DBG); (T_1139_2:SKJEMA2D); (T_1139_2:SKJEMA2
 | 5-6 per week | 1040 |
 | 3-4 per week | 2963 |
 | 1-2 per week | 5578 |
+| Not NA | 9581 |
 | NA | 77793 |
 
 
@@ -4563,6 +4841,7 @@ T_1139_3:SKJEMA2W; (T_1139_3:SKJEMA2DBG); (T_1139_3:SKJEMA2D); (T_1139_3:SKJEMA2
 | 0 per month | 55135 |
 | 2-3 per month | 7258 |
 | 1 per month | 5313 |
+| Not NA | 67706 |
 | NA | 19668 |
 
 
@@ -4577,6 +4856,7 @@ T_12_1_1:SKJEMA2W; (T_12_1_1:SKJEMA2DBG); (T_12_1_1:SKJEMA2D); (T_12_1_1:SKJEMA2
 | 4-5 per day | 529 |
 | 6-7 per day | 129 |
 | 8+ per day | 46 |
+| Not NA | 9271 |
 | NA | 78103 |
 
 
@@ -4589,6 +4869,7 @@ T_12_1_2:SKJEMA2W; (T_12_1_2:SKJEMA2DBG); (T_12_1_2:SKJEMA2D); (T_12_1_2:SKJEMA2
 | 1-2 per week | 4311 |
 | 3-4 per week | 3273 |
 | 5-6 per week | 1589 |
+| Not NA | 9173 |
 | NA | 78201 |
 
 
@@ -4601,6 +4882,7 @@ T_12_1_3:SKJEMA2W; (T_12_1_3:SKJEMA2DBG); (T_12_1_3:SKJEMA2D); (T_12_1_3:SKJEMA2
 | 0 per month | 56948 |
 | 2-3 per month | 4427 |
 | 1 per month | 2437 |
+| Not NA | 63812 |
 | NA | 23562 |
 
 
@@ -4615,6 +4897,7 @@ T_12_2_1:SKJEMA2W; (T_12_2_1:SKJEMA2DBG); (T_12_2_1:SKJEMA2D); (T_12_2_1:SKJEMA2
 | 4-5 per day | 267 |
 | 6-7 per day | 55 |
 | 8+ per day | 36 |
+| Not NA | 6632 |
 | NA | 80742 |
 
 
@@ -4627,6 +4910,7 @@ T_12_2_2:SKJEMA2W; (T_12_2_2:SKJEMA2DBG); (T_12_2_2:SKJEMA2D); (T_12_2_2:SKJEMA2
 | 1-2 per week | 5526 |
 | 3-4 per week | 3891 |
 | 5-6 per week | 1814 |
+| Not NA | 11231 |
 | NA | 76143 |
 
 
@@ -4639,6 +4923,7 @@ T_12_2_3:SKJEMA2W; (T_12_2_3:SKJEMA2DBG); (T_12_2_3:SKJEMA2D); (T_12_2_3:SKJEMA2
 | 0 per month | 53903 |
 | 2-3 per month | 6451 |
 | 1 per month | 3470 |
+| Not NA | 63824 |
 | NA | 23550 |
 
 
@@ -4653,6 +4938,7 @@ T_12_3_1:SKJEMA2W; (T_12_3_1:SKJEMA2DBG); (T_12_3_1:SKJEMA2D); (T_12_3_1:SKJEMA2
 | 4-5 per day | 348 |
 | 6-7 per day | 74 |
 | 8+ per day | 19 |
+| Not NA | 7169 |
 | NA | 80205 |
 
 
@@ -4665,6 +4951,7 @@ T_12_3_2:SKJEMA2W; (T_12_3_2:SKJEMA2DBG); (T_12_3_2:SKJEMA2D); (T_12_3_2:SKJEMA2
 | 3-4 per week | 3596 |
 | 1-2 per week | 4372 |
 | 5-6 per week | 1907 |
+| Not NA | 9875 |
 | NA | 77499 |
 
 
@@ -4677,6 +4964,7 @@ T_12_3_3:SKJEMA2W; (T_12_3_3:SKJEMA2DBG); (T_12_3_3:SKJEMA2D); (T_12_3_3:SKJEMA2
 | 0 per month | 57217 |
 | 2-3 per month | 4668 |
 | 1 per month | 2376 |
+| Not NA | 64261 |
 | NA | 23113 |
 
 
@@ -4692,6 +4980,7 @@ T_13_1_1:SKJEMA2W; (T_13_1_1:SKJEMA2DBG); (T_13_1_1:SKJEMA2D); (T_13_1_1:SKJEMA2
 | 4 per week | 22077 |
 | 1 per week | 4995 |
 | 6+ per week | 2955 |
+| Not NA | 83047 |
 | NA | 4327 |
 
 
@@ -4705,6 +4994,7 @@ T_13_1_2:SKJEMA2W; (T_13_1_2:SKJEMA2DBG); (T_13_1_2:SKJEMA2D); (T_13_1_2:SKJEMA2
 | 2 per month | 530 |
 | 3 per month | 1374 |
 | 1 per month | 326 |
+| Not NA | 3362 |
 | NA | 84012 |
 
 
@@ -4720,6 +5010,7 @@ T_13_2_1:SKJEMA2W; (T_13_2_1:SKJEMA2DBG); (T_13_2_1:SKJEMA2D); (T_13_2_1:SKJEMA2
 | 4 per week | 615 |
 | 6+ per week | 113 |
 | 5 per week | 206 |
+| Not NA | 20301 |
 | NA | 67073 |
 
 
@@ -4733,6 +5024,7 @@ T_13_2_2:SKJEMA2W; (T_13_2_2:SKJEMA2DBG); (T_13_2_2:SKJEMA2D); (T_13_2_2:SKJEMA2
 | 3 per month | 11496 |
 | 2 per month | 12657 |
 | 1 per month | 14450 |
+| Not NA | 60125 |
 | NA | 27249 |
 
 
@@ -4748,6 +5040,7 @@ T_13_3_1:SKJEMA2W; (T_13_3_1:SKJEMA2DBG); (T_13_3_1:SKJEMA2D); (T_13_3_1:SKJEMA2
 | 4 per week | 39 |
 | 6+ per week | 30 |
 | 5 per week | 17 |
+| Not NA | 1897 |
 | NA | 85477 |
 
 
@@ -4761,6 +5054,7 @@ T_13_3_2:SKJEMA2W; (T_13_3_2:SKJEMA2DBG); (T_13_3_2:SKJEMA2D); (T_13_3_2:SKJEMA2
 | 2 per month | 1433 |
 | 3 per month | 886 |
 | 1 per month | 3994 |
+| Not NA | 76679 |
 | NA | 10695 |
 
 
@@ -4776,6 +5070,7 @@ T_13_4_1:SKJEMA2W; (T_13_4_1:SKJEMA2DBG); (T_13_4_1:SKJEMA2D); (T_13_4_1:SKJEMA2
 | 4 per week | 1650 |
 | 5 per week | 349 |
 | 6+ per week | 125 |
+| Not NA | 53639 |
 | NA | 33735 |
 
 
@@ -4789,6 +5084,7 @@ T_13_4_2:SKJEMA2W; (T_13_4_2:SKJEMA2DBG); (T_13_4_2:SKJEMA2D); (T_13_4_2:SKJEMA2
 | 2 per month | 7949 |
 | 0 per month | 3692 |
 | 1 per month | 5237 |
+| Not NA | 31274 |
 | NA | 56100 |
 
 
@@ -4804,6 +5100,7 @@ T_13_5_1:SKJEMA2W; (T_13_5_1:SKJEMA2DBG); (T_13_5_1:SKJEMA2D); (T_13_5_1:SKJEMA2
 | 4 per week | 665 |
 | 5 per week | 132 |
 | 6+ per week | 43 |
+| Not NA | 51201 |
 | NA | 36173 |
 
 
@@ -4817,6 +5114,7 @@ T_13_5_2:SKJEMA2W; (T_13_5_2:SKJEMA2DBG); (T_13_5_2:SKJEMA2D); (T_13_5_2:SKJEMA2
 | 3 per month | 11334 |
 | 0 per month | 7494 |
 | 1 per month | 6202 |
+| Not NA | 33004 |
 | NA | 54370 |
 
 
@@ -4832,6 +5130,7 @@ T_13_6_1:SKJEMA2W; (T_13_6_1:SKJEMA2DBG); (T_13_6_1:SKJEMA2D); (T_13_6_1:SKJEMA2
 | 4 per week | 350 |
 | 5 per week | 88 |
 | 6+ per week | 43 |
+| Not NA | 42496 |
 | NA | 44878 |
 
 
@@ -4845,6 +5144,7 @@ T_13_6_2:SKJEMA2W; (T_13_6_2:SKJEMA2DBG); (T_13_6_2:SKJEMA2D); (T_13_6_2:SKJEMA2
 | 1 per month | 8463 |
 | 0 per month | 10919 |
 | 2 per month | 9624 |
+| Not NA | 40771 |
 | NA | 46603 |
 
 
@@ -4860,6 +5160,7 @@ T_13_7_1:SKJEMA2W; (T_13_7_1:SKJEMA2DBG); (T_13_7_1:SKJEMA2D); (T_13_7_1:SKJEMA2
 | 5 per week | 412 |
 | 6+ per week | 501 |
 | 3 per week | 1571 |
+| Not NA | 15161 |
 | NA | 72213 |
 
 
@@ -4873,6 +5174,7 @@ T_13_7_2:SKJEMA2W; (T_13_7_2:SKJEMA2DBG); (T_13_7_2:SKJEMA2D); (T_13_7_2:SKJEMA2
 | 0 per month | 45208 |
 | 3 per month | 6116 |
 | 2 per month | 6009 |
+| Not NA | 65474 |
 | NA | 21900 |
 
 
@@ -4888,6 +5190,7 @@ T_14_1_1:SKJEMA2W; (T_14_1_1:SKJEMA2DBG); (T_14_1_1:SKJEMA2D); (T_14_1_1:SKJEMA2
 | 3 per week | 561 |
 | 6+ per week | 16 |
 | 5 per week | 14 |
+| Not NA | 15470 |
 | NA | 71904 |
 
 
@@ -4901,6 +5204,7 @@ T_14_1_2:SKJEMA2W; (T_14_1_2:SKJEMA2DBG); (T_14_1_2:SKJEMA2D); (T_14_1_2:SKJEMA2
 | 2 per month | 13463 |
 | 3 per month | 13998 |
 | 1 per month | 16564 |
+| Not NA | 68317 |
 | NA | 19057 |
 
 
@@ -4916,6 +5220,7 @@ T_14_2_1:SKJEMA2W; (T_14_2_1:SKJEMA2DBG); (T_14_2_1:SKJEMA2D); (T_14_2_1:SKJEMA2
 | 4 per week | 155 |
 | 6+ per week | 25 |
 | 5 per week | 29 |
+| Not NA | 15987 |
 | NA | 71387 |
 
 
@@ -4929,6 +5234,7 @@ T_14_2_2:SKJEMA2W; (T_14_2_2:SKJEMA2DBG); (T_14_2_2:SKJEMA2D); (T_14_2_2:SKJEMA2
 | 3 per month | 18653 |
 | 2 per month | 17224 |
 | 0 per month | 13554 |
+| Not NA | 68080 |
 | NA | 19294 |
 
 
@@ -4944,6 +5250,7 @@ T_14_3_1:SKJEMA2W; (T_14_3_1:SKJEMA2DBG); (T_14_3_1:SKJEMA2D); (T_14_3_1:SKJEMA2
 | 6+ per week | 13 |
 | 3 per week | 182 |
 | 5 per week | 12 |
+| Not NA | 3911 |
 | NA | 83463 |
 
 
@@ -4957,6 +5264,7 @@ T_14_3_2:SKJEMA2W; (T_14_3_2:SKJEMA2DBG); (T_14_3_2:SKJEMA2D); (T_14_3_2:SKJEMA2
 | 0 per month | 53514 |
 | 2 per month | 6170 |
 | 3 per month | 5338 |
+| Not NA | 77982 |
 | NA | 9392 |
 
 
@@ -4972,6 +5280,7 @@ T_14_4_1:SKJEMA2W; (T_14_4_1:SKJEMA2DBG); (T_14_4_1:SKJEMA2D); (T_14_4_1:SKJEMA2
 | 4 per week | 89 |
 | 6+ per week | 7 |
 | 5 per week | 23 |
+| Not NA | 13486 |
 | NA | 73888 |
 
 
@@ -4985,6 +5294,7 @@ T_14_4_2:SKJEMA2W; (T_14_4_2:SKJEMA2DBG); (T_14_4_2:SKJEMA2D); (T_14_4_2:SKJEMA2
 | 2 per month | 17124 |
 | 3 per month | 18004 |
 | 0 per month | 14935 |
+| Not NA | 70329 |
 | NA | 17045 |
 
 
@@ -5000,6 +5310,7 @@ T_14_5_1:SKJEMA2W; (T_14_5_1:SKJEMA2DBG); (T_14_5_1:SKJEMA2D); (T_14_5_1:SKJEMA2
 | 3 per week | 246 |
 | 5 per week | 24 |
 | 6+ per week | 10 |
+| Not NA | 8824 |
 | NA | 78550 |
 
 
@@ -5013,6 +5324,7 @@ T_14_5_2:SKJEMA2W; (T_14_5_2:SKJEMA2DBG); (T_14_5_2:SKJEMA2D); (T_14_5_2:SKJEMA2
 | 0 per month | 14205 |
 | 1 per month | 24773 |
 | 2 per month | 18545 |
+| Not NA | 74318 |
 | NA | 13056 |
 
 
@@ -5028,6 +5340,7 @@ T_14_6_1:SKJEMA2W; (T_14_6_1:SKJEMA2DBG); (T_14_6_1:SKJEMA2D); (T_14_6_1:SKJEMA2
 | 4 per week | 929 |
 | 5 per week | 137 |
 | 6+ per week | 32 |
+| Not NA | 50199 |
 | NA | 37175 |
 
 
@@ -5041,6 +5354,7 @@ T_14_6_2:SKJEMA2W; (T_14_6_2:SKJEMA2DBG); (T_14_6_2:SKJEMA2D); (T_14_6_2:SKJEMA2
 | 0 per month | 4144 |
 | 2 per month | 8044 |
 | 1 per month | 5158 |
+| Not NA | 35413 |
 | NA | 51961 |
 
 
@@ -5056,6 +5370,7 @@ T_14_7_1:SKJEMA2W; (T_14_7_1:SKJEMA2DBG); (T_14_7_1:SKJEMA2D); (T_14_7_1:SKJEMA2
 | 4 per week | 28 |
 | 6+ per week | 7 |
 | 5 per week | 8 |
+| Not NA | 1630 |
 | NA | 85744 |
 
 
@@ -5069,6 +5384,7 @@ T_14_7_2:SKJEMA2W; (T_14_7_2:SKJEMA2DBG); (T_14_7_2:SKJEMA2D); (T_14_7_2:SKJEMA2
 | 1 per month | 24677 |
 | 2 per month | 6526 |
 | 3 per month | 3819 |
+| Not NA | 80292 |
 | NA | 7082 |
 
 
@@ -5084,6 +5400,7 @@ T_14_8_1:SKJEMA2W; (T_14_8_1:SKJEMA2DBG); (T_14_8_1:SKJEMA2D); (T_14_8_1:SKJEMA2
 | 4 per week | 68 |
 | 6+ per week | 10 |
 | 5 per week | 17 |
+| Not NA | 5824 |
 | NA | 81550 |
 
 
@@ -5097,6 +5414,7 @@ T_14_8_2:SKJEMA2W; (T_14_8_2:SKJEMA2DBG); (T_14_8_2:SKJEMA2D); (T_14_8_2:SKJEMA2
 | 2 per month | 15635 |
 | 3 per month | 11266 |
 | 0 per month | 21282 |
+| Not NA | 77815 |
 | NA | 9559 |
 
 
@@ -5112,6 +5430,7 @@ T_14_9_1:SKJEMA2W; (T_14_9_1:SKJEMA2DBG); (T_14_9_1:SKJEMA2D); (T_14_9_1:SKJEMA2
 | 2 per week | 49 |
 | 5 per week | 3 |
 | 4 per week | 2 |
+| Not NA | 282 |
 | NA | 87092 |
 
 
@@ -5125,6 +5444,7 @@ T_14_9_2:SKJEMA2W; (T_14_9_2:SKJEMA2DBG); (T_14_9_2:SKJEMA2D); (T_14_9_2:SKJEMA2
 | 1 per month | 4760 |
 | 3 per month | 677 |
 | 2 per month | 1009 |
+| Not NA | 79948 |
 | NA | 7426 |
 
 
@@ -5140,6 +5460,7 @@ T_1410_1:SKJEMA2W; (T_1410_1:SKJEMA2DBG); (T_1410_1:SKJEMA2D); (T_1410_1:SKJEMA2
 | 6+ per week | 12 |
 | 5 per week | 22 |
 | 4 per week | 109 |
+| Not NA | 10612 |
 | NA | 76762 |
 
 
@@ -5153,6 +5474,7 @@ T_1410_2:SKJEMA2W; (T_1410_2:SKJEMA2DBG); (T_1410_2:SKJEMA2D); (T_1410_2:SKJEMA2
 | 3 per month | 16612 |
 | 1 per month | 22183 |
 | 0 per month | 18179 |
+| Not NA | 73060 |
 | NA | 14314 |
 
 
@@ -5168,6 +5490,7 @@ T_1411_1:SKJEMA2W; (T_1411_1:SKJEMA2DBG); (T_1411_1:SKJEMA2D); (T_1411_1:SKJEMA2
 | 4 per week | 77 |
 | 6+ per week | 15 |
 | 5 per week | 23 |
+| Not NA | 8319 |
 | NA | 79055 |
 
 
@@ -5181,6 +5504,7 @@ T_1411_2:SKJEMA2W; (T_1411_2:SKJEMA2DBG); (T_1411_2:SKJEMA2D); (T_1411_2:SKJEMA2
 | 1 per month | 24758 |
 | 0 per month | 21638 |
 | 2 per month | 15404 |
+| Not NA | 75735 |
 | NA | 11639 |
 
 
@@ -5196,6 +5520,7 @@ T_1412_1:SKJEMA2W; (T_1412_1:SKJEMA2DBG); (T_1412_1:SKJEMA2D); (T_1412_1:SKJEMA2
 | 4 per week | 24 |
 | 5 per week | 8 |
 | 6+ per week | 4 |
+| Not NA | 2789 |
 | NA | 84585 |
 
 
@@ -5209,6 +5534,7 @@ T_1412_2:SKJEMA2W; (T_1412_2:SKJEMA2DBG); (T_1412_2:SKJEMA2D); (T_1412_2:SKJEMA2
 | 1 per month | 23898 |
 | 0 per month | 40858 |
 | 2 per month | 8809 |
+| Not NA | 79349 |
 | NA | 8025 |
 
 
@@ -5224,6 +5550,7 @@ T_1413_1:SKJEMA2W; (T_1413_1:SKJEMA2DBG); (T_1413_1:SKJEMA2D); (T_1413_1:SKJEMA2
 | 4 per week | 22 |
 | 5 per week | 8 |
 | 6+ per week | 4 |
+| Not NA | 1582 |
 | NA | 85792 |
 
 
@@ -5237,6 +5564,7 @@ T_1413_2:SKJEMA2W; (T_1413_2:SKJEMA2DBG); (T_1413_2:SKJEMA2D); (T_1413_2:SKJEMA2
 | 1 per month | 17378 |
 | 0 per month | 53194 |
 | 3 per month | 3863 |
+| Not NA | 80200 |
 | NA | 7174 |
 
 
@@ -5252,6 +5580,7 @@ T_1414_1:SKJEMA2W; (T_1414_1:SKJEMA2DBG); (T_1414_1:SKJEMA2D); (T_1414_1:SKJEMA2
 | 3 per week | 31 |
 | 4 per week | 14 |
 | 6+ per week | 1 |
+| Not NA | 647 |
 | NA | 86727 |
 
 
@@ -5265,6 +5594,7 @@ T_1414_2:SKJEMA2W; (T_1414_2:SKJEMA2DBG); (T_1414_2:SKJEMA2D); (T_1414_2:SKJEMA2
 | 2 per month | 2948 |
 | 1 per month | 14024 |
 | 3 per month | 1764 |
+| Not NA | 80861 |
 | NA | 6513 |
 
 
@@ -5280,6 +5610,7 @@ T_1415_1:SKJEMA2W; (T_1415_1:SKJEMA2DBG); (T_1415_1:SKJEMA2D); (T_1415_1:SKJEMA2
 | 3 per week | 168 |
 | 5 per week | 14 |
 | 4 per week | 44 |
+| Not NA | 6526 |
 | NA | 80848 |
 
 
@@ -5293,6 +5624,7 @@ T_1415_2:SKJEMA2W; (T_1415_2:SKJEMA2DBG); (T_1415_2:SKJEMA2D); (T_1415_2:SKJEMA2
 | 0 per month | 22347 |
 | 2 per month | 15749 |
 | 1 per month | 24374 |
+| Not NA | 76771 |
 | NA | 10603 |
 
 
@@ -5308,6 +5640,7 @@ T_1416_1:SKJEMA2W; (T_1416_1:SKJEMA2DBG); (T_1416_1:SKJEMA2D); (T_1416_1:SKJEMA2
 | 6+ per week | 7 |
 | 5 per week | 17 |
 | 4 per week | 98 |
+| Not NA | 9978 |
 | NA | 77396 |
 
 
@@ -5321,6 +5654,7 @@ T_1416_2:SKJEMA2W; (T_1416_2:SKJEMA2DBG); (T_1416_2:SKJEMA2D); (T_1416_2:SKJEMA2
 | 0 per month | 24594 |
 | 1 per month | 19332 |
 | 2 per month | 14461 |
+| Not NA | 73254 |
 | NA | 14120 |
 
 
@@ -5336,6 +5670,7 @@ T_1417_1:SKJEMA2W; (T_1417_1:SKJEMA2DBG); (T_1417_1:SKJEMA2D); (T_1417_1:SKJEMA2
 | 3 per week | 60 |
 | 4 per week | 20 |
 | 6+ per week | 8 |
+| Not NA | 1054 |
 | NA | 86320 |
 
 
@@ -5349,6 +5684,7 @@ T_1417_2:SKJEMA2W; (T_1417_2:SKJEMA2DBG); (T_1417_2:SKJEMA2D); (T_1417_2:SKJEMA2
 | 1 per month | 21755 |
 | 2 per month | 5467 |
 | 3 per month | 3212 |
+| Not NA | 81263 |
 | NA | 6111 |
 
 
@@ -5364,6 +5700,7 @@ T_1418_1:SKJEMA2W; (T_1418_1:SKJEMA2DBG); (T_1418_1:SKJEMA2D); (T_1418_1:SKJEMA2
 | 3 per week | 65 |
 | 6+ per week | 8 |
 | 5 per week | 13 |
+| Not NA | 877 |
 | NA | 86497 |
 
 
@@ -5377,6 +5714,7 @@ T_1418_2:SKJEMA2W; (T_1418_2:SKJEMA2DBG); (T_1418_2:SKJEMA2D); (T_1418_2:SKJEMA2
 | 2 per month | 4625 |
 | 1 per month | 21959 |
 | 3 per month | 2440 |
+| Not NA | 81270 |
 | NA | 6104 |
 
 
@@ -5392,6 +5730,7 @@ T_1419_1:SKJEMA2W; (T_1419_1:SKJEMA2DBG); (T_1419_1:SKJEMA2D); (T_1419_1:SKJEMA2
 | 2 per week | 34 |
 | 6+ per week | 3 |
 | 5 per week | 1 |
+| Not NA | 247 |
 | NA | 87127 |
 
 
@@ -5405,6 +5744,7 @@ T_1419_2:SKJEMA2W; (T_1419_2:SKJEMA2DBG); (T_1419_2:SKJEMA2D); (T_1419_2:SKJEMA2
 | 1 per month | 7971 |
 | 2 per month | 992 |
 | 3 per month | 551 |
+| Not NA | 81524 |
 | NA | 5850 |
 
 
@@ -5420,6 +5760,7 @@ T_1420_1:SKJEMA2W; (T_1420_1:SKJEMA2DBG); (T_1420_1:SKJEMA2D); (T_1420_1:SKJEMA2
 | 4 per week | 20 |
 | 5 per week | 8 |
 | 6+ per week | 3 |
+| Not NA | 1046 |
 | NA | 86328 |
 
 
@@ -5433,6 +5774,7 @@ T_1420_2:SKJEMA2W; (T_1420_2:SKJEMA2DBG); (T_1420_2:SKJEMA2D); (T_1420_2:SKJEMA2
 | 1 per month | 15183 |
 | 3 per month | 2519 |
 | 2 per month | 3739 |
+| Not NA | 81266 |
 | NA | 6108 |
 
 
@@ -5448,6 +5790,7 @@ T_1421_1:SKJEMA2W; (T_1421_1:SKJEMA2DBG); (T_1421_1:SKJEMA2D); (T_1421_1:SKJEMA2
 | 5 per week | 3 |
 | 3 per week | 10 |
 | 6+ per week | 1 |
+| Not NA | 385 |
 | NA | 86989 |
 
 
@@ -5461,6 +5804,7 @@ T_1421_2:SKJEMA2W; (T_1421_2:SKJEMA2DBG); (T_1421_2:SKJEMA2D); (T_1421_2:SKJEMA2
 | 2 per month | 1358 |
 | 3 per month | 736 |
 | 1 per month | 6629 |
+| Not NA | 81073 |
 | NA | 6301 |
 
 
@@ -5476,6 +5820,7 @@ T_1422_1:SKJEMA2W; (T_1422_1:SKJEMA2DBG); (T_1422_1:SKJEMA2D); (T_1422_1:SKJEMA2
 | 3 per week | 137 |
 | 4 per week | 39 |
 | 5 per week | 7 |
+| Not NA | 2044 |
 | NA | 85330 |
 
 
@@ -5489,6 +5834,7 @@ T_1422_2:SKJEMA2W; (T_1422_2:SKJEMA2DBG); (T_1422_2:SKJEMA2D); (T_1422_2:SKJEMA2
 | 0 per month | 63055 |
 | 2 per month | 3622 |
 | 3 per month | 2859 |
+| Not NA | 80167 |
 | NA | 7207 |
 
 
@@ -5504,6 +5850,7 @@ T_1423_1:SKJEMA2W; (T_1423_1:SKJEMA2DBG); (T_1423_1:SKJEMA2D); (T_1423_1:SKJEMA2
 | 4 per week | 3 |
 | 6+ per week | 3 |
 | 5 per week | 2 |
+| Not NA | 137 |
 | NA | 87237 |
 
 
@@ -5517,6 +5864,7 @@ T_1423_2:SKJEMA2W; (T_1423_2:SKJEMA2DBG); (T_1423_2:SKJEMA2D); (T_1423_2:SKJEMA2
 | 1 per month | 1218 |
 | 3 per month | 168 |
 | 2 per month | 241 |
+| Not NA | 81631 |
 | NA | 5743 |
 
 
@@ -5532,6 +5880,7 @@ T_1424_1:SKJEMA2W; (T_1424_1:SKJEMA2DBG); (T_1424_1:SKJEMA2D); (T_1424_1:SKJEMA2
 | 5 per week | 2 |
 | 3 per week | 2 |
 | 6+ per week | 1 |
+| Not NA | 58 |
 | NA | 87316 |
 
 
@@ -5545,6 +5894,7 @@ T_1424_2:SKJEMA2W; (T_1424_2:SKJEMA2DBG); (T_1424_2:SKJEMA2D); (T_1424_2:SKJEMA2
 | 1 per month | 307 |
 | 3 per month | 41 |
 | 2 per month | 68 |
+| Not NA | 81536 |
 | NA | 5838 |
 
 
@@ -5558,6 +5908,7 @@ T_1425_1:SKJEMA2W; (T_1425_1:SKJEMA2DBG); (T_1425_1:SKJEMA2D); (T_1425_1:SKJEMA2
 | 1 per week | 27 |
 | 2 per week | 2 |
 | 4 per week | 2 |
+| Not NA | 35 |
 | NA | 87339 |
 
 
@@ -5571,6 +5922,7 @@ T_1425_2:SKJEMA2W; (T_1425_2:SKJEMA2DBG); (T_1425_2:SKJEMA2D); (T_1425_2:SKJEMA2
 | 3 per month | 18 |
 | 1 per month | 185 |
 | 2 per month | 21 |
+| Not NA | 81529 |
 | NA | 5845 |
 
 
@@ -5586,6 +5938,7 @@ T_1426_1:SKJEMA2W; (T_1426_1:SKJEMA2DBG); (T_1426_1:SKJEMA2D); (T_1426_1:SKJEMA2
 | 2 per week | 11 |
 | 5 per week | 1 |
 | 6+ per week | 1 |
+| Not NA | 115 |
 | NA | 87259 |
 
 
@@ -5599,6 +5952,7 @@ T_1426_2:SKJEMA2W; (T_1426_2:SKJEMA2DBG); (T_1426_2:SKJEMA2D); (T_1426_2:SKJEMA2
 | 1 per month | 2269 |
 | 2 per month | 521 |
 | 3 per month | 268 |
+| Not NA | 81516 |
 | NA | 5858 |
 
 
@@ -5614,6 +5968,7 @@ T_1427_1:SKJEMA2W; (T_1427_1:SKJEMA2DBG); (T_1427_1:SKJEMA2D); (T_1427_1:SKJEMA2
 | 4 per week | 635 |
 | 6+ per week | 30 |
 | 5 per week | 86 |
+| Not NA | 35366 |
 | NA | 52008 |
 
 
@@ -5627,6 +5982,7 @@ T_1427_2:SKJEMA2W; (T_1427_2:SKJEMA2DBG); (T_1427_2:SKJEMA2D); (T_1427_2:SKJEMA2
 | 2 per month | 12132 |
 | 1 per month | 11309 |
 | 0 per month | 9925 |
+| Not NA | 49382 |
 | NA | 37992 |
 
 
@@ -5642,6 +5998,7 @@ T_1428_1:SKJEMA2W; (T_1428_1:SKJEMA2DBG); (T_1428_1:SKJEMA2D); (T_1428_1:SKJEMA2
 | 4 per week | 69 |
 | 6+ per week | 7 |
 | 5 per week | 17 |
+| Not NA | 11045 |
 | NA | 76329 |
 
 
@@ -5655,6 +6012,7 @@ T_1428_2:SKJEMA2W; (T_1428_2:SKJEMA2DBG); (T_1428_2:SKJEMA2D); (T_1428_2:SKJEMA2
 | 2 per month | 16984 |
 | 1 per month | 25567 |
 | 3 per month | 12794 |
+| Not NA | 72880 |
 | NA | 14494 |
 
 
@@ -5670,6 +6028,7 @@ T_1429_1:SKJEMA2W; (T_1429_1:SKJEMA2DBG); (T_1429_1:SKJEMA2D); (T_1429_1:SKJEMA2
 | 3 per week | 289 |
 | 6+ per week | 13 |
 | 5 per week | 18 |
+| Not NA | 3559 |
 | NA | 83815 |
 
 
@@ -5683,6 +6042,7 @@ T_1429_2:SKJEMA2W; (T_1429_2:SKJEMA2DBG); (T_1429_2:SKJEMA2D); (T_1429_2:SKJEMA2
 | 1 per month | 12977 |
 | 3 per month | 3349 |
 | 2 per month | 4554 |
+| Not NA | 77935 |
 | NA | 9439 |
 
 
@@ -5698,6 +6058,7 @@ T_1430_1:SKJEMA2W; (T_1430_1:SKJEMA2DBG); (T_1430_1:SKJEMA2D); (T_1430_1:SKJEMA2
 | 2 per week | 109 |
 | 4 per week | 12 |
 | 5 per week | 3 |
+| Not NA | 789 |
 | NA | 86585 |
 
 
@@ -5711,6 +6072,7 @@ T_1430_2:SKJEMA2W; (T_1430_2:SKJEMA2DBG); (T_1430_2:SKJEMA2D); (T_1430_2:SKJEMA2
 | 2 per month | 2789 |
 | 1 per month | 10382 |
 | 3 per month | 1633 |
+| Not NA | 80581 |
 | NA | 6793 |
 
 
@@ -5725,6 +6087,7 @@ T_1431_1:SKJEMA2W; (T_1431_1:SKJEMA2DBG); (T_1431_1:SKJEMA2D); (T_1431_1:SKJEMA2
 | 2 per week | 8 |
 | 6+ per week | 1 |
 | 3 per week | 3 |
+| Not NA | 66 |
 | NA | 87308 |
 
 
@@ -5738,6 +6101,7 @@ T_1431_2:SKJEMA2W; (T_1431_2:SKJEMA2DBG); (T_1431_2:SKJEMA2D); (T_1431_2:SKJEMA2
 | 1 per month | 2122 |
 | 2 per month | 158 |
 | 3 per month | 79 |
+| Not NA | 81109 |
 | NA | 6265 |
 
 
@@ -5752,6 +6116,7 @@ T_1432_1:SKJEMA2W; (T_1432_1:SKJEMA2DBG); (T_1432_1:SKJEMA2D); (T_1432_1:SKJEMA2
 | 4 per week | 2 |
 | 6+ per week | 2 |
 | 2 per week | 9 |
+| Not NA | 68 |
 | NA | 87306 |
 
 
@@ -5765,6 +6130,7 @@ T_1432_2:SKJEMA2W; (T_1432_2:SKJEMA2DBG); (T_1432_2:SKJEMA2D); (T_1432_2:SKJEMA2
 | 1 per month | 2751 |
 | 2 per month | 243 |
 | 3 per month | 92 |
+| Not NA | 81018 |
 | NA | 6356 |
 
 
@@ -5780,6 +6146,7 @@ T_1433_1:SKJEMA2W; (T_1433_1:SKJEMA2DBG); (T_1433_1:SKJEMA2D); (T_1433_1:SKJEMA2
 | 3 per week | 706 |
 | 5 per week | 15 |
 | 6+ per week | 10 |
+| Not NA | 18663 |
 | NA | 68711 |
 
 
@@ -5793,6 +6160,7 @@ T_1433_2:SKJEMA2W; (T_1433_2:SKJEMA2DBG); (T_1433_2:SKJEMA2D); (T_1433_2:SKJEMA2
 | 0 per month | 18621 |
 | 3 per month | 14109 |
 | 1 per month | 18567 |
+| Not NA | 65380 |
 | NA | 21994 |
 
 
@@ -5808,6 +6176,7 @@ T_1434_1:SKJEMA2W; (T_1434_1:SKJEMA2DBG); (T_1434_1:SKJEMA2D); (T_1434_1:SKJEMA2
 | 4 per week | 27 |
 | 6+ per week | 7 |
 | 5 per week | 5 |
+| Not NA | 1089 |
 | NA | 86285 |
 
 
@@ -5821,6 +6190,7 @@ T_1434_2:SKJEMA2W; (T_1434_2:SKJEMA2DBG); (T_1434_2:SKJEMA2D); (T_1434_2:SKJEMA2
 | 2 per month | 2473 |
 | 1 per month | 8638 |
 | 3 per month | 1542 |
+| Not NA | 80307 |
 | NA | 7067 |
 
 
@@ -5836,6 +6206,7 @@ T_1435_1:SKJEMA2W; (T_1435_1:SKJEMA2DBG); (T_1435_1:SKJEMA2D); (T_1435_1:SKJEMA2
 | 3 per week | 202 |
 | 6+ per week | 12 |
 | 5 per week | 7 |
+| Not NA | 10543 |
 | NA | 76831 |
 
 
@@ -5849,6 +6220,7 @@ T_1435_2:SKJEMA2W; (T_1435_2:SKJEMA2DBG); (T_1435_2:SKJEMA2D); (T_1435_2:SKJEMA2
 | 1 per month | 22556 |
 | 2 per month | 15370 |
 | 3 per month | 13665 |
+| Not NA | 73008 |
 | NA | 14366 |
 
 
@@ -5864,6 +6236,7 @@ T_1436_1:SKJEMA2W; (T_1436_1:SKJEMA2DBG); (T_1436_1:SKJEMA2D); (T_1436_1:SKJEMA2
 | 6+ per week | 2 |
 | 4 per week | 10 |
 | 5 per week | 2 |
+| Not NA | 796 |
 | NA | 86578 |
 
 
@@ -5877,6 +6250,7 @@ T_1436_2:SKJEMA2W; (T_1436_2:SKJEMA2DBG); (T_1436_2:SKJEMA2D); (T_1436_2:SKJEMA2
 | 0 per month | 64028 |
 | 2 per month | 3015 |
 | 3 per month | 1668 |
+| Not NA | 80398 |
 | NA | 6976 |
 
 
@@ -5892,6 +6266,7 @@ T_1437_1:SKJEMA2W; (T_1437_1:SKJEMA2DBG); (T_1437_1:SKJEMA2D); (T_1437_1:SKJEMA2
 | 2 per week | 482 |
 | 6+ per week | 11 |
 | 5 per week | 45 |
+| Not NA | 2465 |
 | NA | 84909 |
 
 
@@ -5905,6 +6280,7 @@ T_1437_2:SKJEMA2W; (T_1437_2:SKJEMA2DBG); (T_1437_2:SKJEMA2D); (T_1437_2:SKJEMA2
 | 1 per month | 8387 |
 | 3 per month | 3469 |
 | 2 per month | 3749 |
+| Not NA | 79165 |
 | NA | 8209 |
 
 
@@ -5920,6 +6296,7 @@ T_1438_1:SKJEMA2W; (T_1438_1:SKJEMA2DBG); (T_1438_1:SKJEMA2D); (T_1438_1:SKJEMA2
 | 4 per week | 3 |
 | 6+ per week | 2 |
 | 5 per week | 1 |
+| Not NA | 107 |
 | NA | 87267 |
 
 
@@ -5933,6 +6310,7 @@ T_1438_2:SKJEMA2W; (T_1438_2:SKJEMA2DBG); (T_1438_2:SKJEMA2D); (T_1438_2:SKJEMA2
 | 1 per month | 851 |
 | 3 per month | 137 |
 | 2 per month | 208 |
+| Not NA | 80893 |
 | NA | 6481 |
 
 
@@ -5948,6 +6326,7 @@ T_1439_1:SKJEMA2W; (T_1439_1:SKJEMA2DBG); (T_1439_1:SKJEMA2D); (T_1439_1:SKJEMA2
 | 5 per week | 4 |
 | 4 per week | 24 |
 | 6+ per week | 10 |
+| Not NA | 2669 |
 | NA | 84705 |
 
 
@@ -5961,6 +6340,7 @@ T_1439_2:SKJEMA2W; (T_1439_2:SKJEMA2DBG); (T_1439_2:SKJEMA2D); (T_1439_2:SKJEMA2
 | 1 per month | 12309 |
 | 2 per month | 5226 |
 | 3 per month | 3535 |
+| Not NA | 77599 |
 | NA | 9775 |
 
 
@@ -5976,6 +6356,7 @@ T_1440_1:SKJEMA2W; (T_1440_1:SKJEMA2DBG); (T_1440_1:SKJEMA2D); (T_1440_1:SKJEMA2
 | 4 per week | 151 |
 | 5 per week | 22 |
 | 6+ per week | 11 |
+| Not NA | 20587 |
 | NA | 66787 |
 
 
@@ -5989,6 +6370,7 @@ T_1440_2:SKJEMA2W; (T_1440_2:SKJEMA2DBG); (T_1440_2:SKJEMA2D); (T_1440_2:SKJEMA2
 | 1 per month | 16055 |
 | 0 per month | 14105 |
 | 2 per month | 15905 |
+| Not NA | 63588 |
 | NA | 23786 |
 
 
@@ -6004,6 +6386,7 @@ T_1441_1:SKJEMA2W; (T_1441_1:SKJEMA2DBG); (T_1441_1:SKJEMA2D); (T_1441_1:SKJEMA2
 | 4 per week | 45 |
 | 5 per week | 6 |
 | 6+ per week | 3 |
+| Not NA | 8920 |
 | NA | 78454 |
 
 
@@ -6017,6 +6400,7 @@ T_1441_2:SKJEMA2W; (T_1441_2:SKJEMA2DBG); (T_1441_2:SKJEMA2D); (T_1441_2:SKJEMA2
 | 0 per month | 30396 |
 | 1 per month | 19491 |
 | 3 per month | 10840 |
+| Not NA | 73843 |
 | NA | 13531 |
 
 
@@ -6032,6 +6416,7 @@ T_1442_1:SKJEMA2W; (T_1442_1:SKJEMA2DBG); (T_1442_1:SKJEMA2D); (T_1442_1:SKJEMA2
 | 4 per week | 32 |
 | 6+ per week | 4 |
 | 5 per week | 7 |
+| Not NA | 8127 |
 | NA | 79247 |
 
 
@@ -6045,6 +6430,7 @@ T_1442_2:SKJEMA2W; (T_1442_2:SKJEMA2DBG); (T_1442_2:SKJEMA2D); (T_1442_2:SKJEMA2
 | 1 per month | 22796 |
 | 0 per month | 24541 |
 | 3 per month | 12113 |
+| Not NA | 74726 |
 | NA | 12648 |
 
 
@@ -6060,6 +6446,7 @@ T_1443_1:SKJEMA2W; (T_1443_1:SKJEMA2DBG); (T_1443_1:SKJEMA2D); (T_1443_1:SKJEMA2
 | 3 per week | 108 |
 | 5 per week | 18 |
 | 6+ per week | 8 |
+| Not NA | 2405 |
 | NA | 84969 |
 
 
@@ -6073,6 +6460,7 @@ T_1443_2:SKJEMA2W; (T_1443_2:SKJEMA2DBG); (T_1443_2:SKJEMA2D); (T_1443_2:SKJEMA2
 | 2 per month | 10743 |
 | 1 per month | 26604 |
 | 3 per month | 7534 |
+| Not NA | 80368 |
 | NA | 7006 |
 
 
@@ -6088,6 +6476,7 @@ T_1444_1:SKJEMA2W; (T_1444_1:SKJEMA2DBG); (T_1444_1:SKJEMA2D); (T_1444_1:SKJEMA2
 | 5 per week | 1 |
 | 6+ per week | 1 |
 | 4 per week | 2 |
+| Not NA | 130 |
 | NA | 87244 |
 
 
@@ -6101,6 +6490,7 @@ T_1444_2:SKJEMA2W; (T_1444_2:SKJEMA2DBG); (T_1444_2:SKJEMA2D); (T_1444_2:SKJEMA2
 | 1 per month | 5001 |
 | 3 per month | 473 |
 | 2 per month | 911 |
+| Not NA | 81161 |
 | NA | 6213 |
 
 
@@ -6116,6 +6506,7 @@ T_1445_1:SKJEMA2W; (T_1445_1:SKJEMA2DBG); (T_1445_1:SKJEMA2D); (T_1445_1:SKJEMA2
 | 5 per week | 1 |
 | 6+ per week | 3 |
 | 4 per week | 3 |
+| Not NA | 214 |
 | NA | 87160 |
 
 
@@ -6129,6 +6520,7 @@ T_1445_2:SKJEMA2W; (T_1445_2:SKJEMA2DBG); (T_1445_2:SKJEMA2D); (T_1445_2:SKJEMA2
 | 1 per month | 7229 |
 | 3 per month | 664 |
 | 2 per month | 1208 |
+| Not NA | 81291 |
 | NA | 6083 |
 
 
@@ -6144,6 +6536,7 @@ T_1446_1:SKJEMA2W; (T_1446_1:SKJEMA2DBG); (T_1446_1:SKJEMA2D); (T_1446_1:SKJEMA2
 | 6+ per week | 2 |
 | 4 per week | 3 |
 | 5 per week | 1 |
+| Not NA | 133 |
 | NA | 87241 |
 
 
@@ -6157,6 +6550,7 @@ T_1446_2:SKJEMA2W; (T_1446_2:SKJEMA2DBG); (T_1446_2:SKJEMA2D); (T_1446_2:SKJEMA2
 | 2 per month | 475 |
 | 1 per month | 3272 |
 | 3 per month | 345 |
+| Not NA | 81196 |
 | NA | 6178 |
 
 
@@ -6172,6 +6566,7 @@ T_1447_1:SKJEMA2W; (T_1447_1:SKJEMA2DBG); (T_1447_1:SKJEMA2D); (T_1447_1:SKJEMA2
 | 6+ per week | 2 |
 | 2 per week | 4 |
 | 5 per week | 1 |
+| Not NA | 46 |
 | NA | 87328 |
 
 
@@ -6185,6 +6580,7 @@ T_1447_2:SKJEMA2W; (T_1447_2:SKJEMA2DBG); (T_1447_2:SKJEMA2D); (T_1447_2:SKJEMA2
 | 1 per month | 761 |
 | 3 per month | 73 |
 | 2 per month | 97 |
+| Not NA | 81132 |
 | NA | 6242 |
 
 
@@ -6200,6 +6596,7 @@ T_1448_1:SKJEMA2W; (T_1448_1:SKJEMA2DBG); (T_1448_1:SKJEMA2D); (T_1448_1:SKJEMA2
 | 4 per week | 374 |
 | 6+ per week | 15 |
 | 5 per week | 64 |
+| Not NA | 43414 |
 | NA | 43960 |
 
 
@@ -6213,6 +6610,7 @@ T_1448_2:SKJEMA2W; (T_1448_2:SKJEMA2DBG); (T_1448_2:SKJEMA2D); (T_1448_2:SKJEMA2
 | 0 per month | 2749 |
 | 2 per month | 12490 |
 | 1 per month | 6699 |
+| Not NA | 42220 |
 | NA | 45154 |
 
 
@@ -6228,6 +6626,7 @@ T_1449_1:SKJEMA2W; (T_1449_1:SKJEMA2DBG); (T_1449_1:SKJEMA2D); (T_1449_1:SKJEMA2
 | 3 per week | 53 |
 | 6+ per week | 3 |
 | 5 per week | 3 |
+| Not NA | 1581 |
 | NA | 85793 |
 
 
@@ -6241,6 +6640,7 @@ T_1449_2:SKJEMA2W; (T_1449_2:SKJEMA2DBG); (T_1449_2:SKJEMA2D); (T_1449_2:SKJEMA2
 | 1 per month | 7751 |
 | 3 per month | 2035 |
 | 2 per month | 3102 |
+| Not NA | 79532 |
 | NA | 7842 |
 
 
@@ -6256,6 +6656,7 @@ T_1450_1:SKJEMA2W; (T_1450_1:SKJEMA2DBG); (T_1450_1:SKJEMA2D); (T_1450_1:SKJEMA2
 | 4 per week | 161 |
 | 5 per week | 26 |
 | 6+ per week | 13 |
+| Not NA | 9722 |
 | NA | 77652 |
 
 
@@ -6269,6 +6670,7 @@ T_1450_2:SKJEMA2W; (T_1450_2:SKJEMA2DBG); (T_1450_2:SKJEMA2D); (T_1450_2:SKJEMA2
 | 2 per month | 8266 |
 | 3 per month | 7417 |
 | 1 per month | 13678 |
+| Not NA | 71922 |
 | NA | 15452 |
 
 
@@ -6284,6 +6686,7 @@ T_1451_1:SKJEMA2W; (T_1451_1:SKJEMA2DBG); (T_1451_1:SKJEMA2D); (T_1451_1:SKJEMA2
 | 4 per week | 61 |
 | 5 per week | 16 |
 | 6+ per week | 8 |
+| Not NA | 3801 |
 | NA | 83573 |
 
 
@@ -6297,6 +6700,7 @@ T_1451_2:SKJEMA2W; (T_1451_2:SKJEMA2DBG); (T_1451_2:SKJEMA2D); (T_1451_2:SKJEMA2
 | 1 per month | 10027 |
 | 3 per month | 3723 |
 | 2 per month | 4419 |
+| Not NA | 77145 |
 | NA | 10229 |
 
 
@@ -6312,6 +6716,7 @@ T_1452_1:SKJEMA2W; (T_1452_1:SKJEMA2DBG); (T_1452_1:SKJEMA2D); (T_1452_1:SKJEMA2
 | 4 per week | 142 |
 | 5 per week | 41 |
 | 6+ per week | 15 |
+| Not NA | 10794 |
 | NA | 76580 |
 
 
@@ -6325,6 +6730,7 @@ T_1452_2:SKJEMA2W; (T_1452_2:SKJEMA2DBG); (T_1452_2:SKJEMA2D); (T_1452_2:SKJEMA2
 | 2 per month | 8705 |
 | 3 per month | 9088 |
 | 1 per month | 12928 |
+| Not NA | 71084 |
 | NA | 16290 |
 
 
@@ -6340,6 +6746,7 @@ T_1453_1:SKJEMA2W; (T_1453_1:SKJEMA2DBG); (T_1453_1:SKJEMA2D); (T_1453_1:SKJEMA2
 | 4 per week | 130 |
 | 6+ per week | 19 |
 | 5 per week | 24 |
+| Not NA | 23665 |
 | NA | 63709 |
 
 
@@ -6353,6 +6760,7 @@ T_1453_2:SKJEMA2W; (T_1453_2:SKJEMA2DBG); (T_1453_2:SKJEMA2D); (T_1453_2:SKJEMA2
 | 1 per month | 10192 |
 | 2 per month | 20057 |
 | 0 per month | 1430 |
+| Not NA | 62073 |
 | NA | 25301 |
 
 
@@ -6368,6 +6776,7 @@ T_1454_1:SKJEMA2W; (T_1454_1:SKJEMA2DBG); (T_1454_1:SKJEMA2D); (T_1454_1:SKJEMA2
 | 4 per week | 45 |
 | 5 per week | 14 |
 | 6+ per week | 3 |
+| Not NA | 10782 |
 | NA | 76592 |
 
 
@@ -6381,6 +6790,7 @@ T_1454_2:SKJEMA2W; (T_1454_2:SKJEMA2DBG); (T_1454_2:SKJEMA2D); (T_1454_2:SKJEMA2
 | 2 per month | 20125 |
 | 1 per month | 24069 |
 | 0 per month | 11148 |
+| Not NA | 73382 |
 | NA | 13992 |
 
 
@@ -6396,6 +6806,7 @@ T_1455_1:SKJEMA2W; (T_1455_1:SKJEMA2DBG); (T_1455_1:SKJEMA2D); (T_1455_1:SKJEMA2
 | 3 per week | 105 |
 | 6+ per week | 5 |
 | 5 per week | 8 |
+| Not NA | 6992 |
 | NA | 80382 |
 
 
@@ -6409,6 +6820,7 @@ T_1455_2:SKJEMA2W; (T_1455_2:SKJEMA2DBG); (T_1455_2:SKJEMA2D); (T_1455_2:SKJEMA2
 | 0 per month | 19495 |
 | 1 per month | 29354 |
 | 2 per month | 15500 |
+| Not NA | 76494 |
 | NA | 10880 |
 
 
@@ -6424,6 +6836,7 @@ T_1456_1:SKJEMA2W; (T_1456_1:SKJEMA2DBG); (T_1456_1:SKJEMA2D); (T_1456_1:SKJEMA2
 | 3 per week | 131 |
 | 6+ per week | 17 |
 | 4 per week | 56 |
+| Not NA | 8731 |
 | NA | 78643 |
 
 
@@ -6437,6 +6850,7 @@ T_1456_2:SKJEMA2W; (T_1456_2:SKJEMA2DBG); (T_1456_2:SKJEMA2D); (T_1456_2:SKJEMA2
 | 1 per month | 22758 |
 | 0 per month | 27813 |
 | 3 per month | 10650 |
+| Not NA | 73762 |
 | NA | 13612 |
 
 
@@ -6452,6 +6866,7 @@ T_1457_1:SKJEMA2W; (T_1457_1:SKJEMA2DBG); (T_1457_1:SKJEMA2D); (T_1457_1:SKJEMA2
 | 3 per week | 761 |
 | 5 per week | 105 |
 | 6+ per week | 65 |
+| Not NA | 16467 |
 | NA | 70907 |
 
 
@@ -6465,6 +6880,7 @@ T_1457_2:SKJEMA2W; (T_1457_2:SKJEMA2DBG); (T_1457_2:SKJEMA2D); (T_1457_2:SKJEMA2
 | 2 per month | 18337 |
 | 3 per month | 20078 |
 | 0 per month | 10355 |
+| Not NA | 67446 |
 | NA | 19928 |
 
 
@@ -6480,6 +6896,7 @@ T_1458_1:SKJEMA2W; (T_1458_1:SKJEMA2DBG); (T_1458_1:SKJEMA2D); (T_1458_1:SKJEMA2
 | 1 per week | 2934 |
 | 3 per week | 589 |
 | 6+ per week | 158 |
+| Not NA | 5243 |
 | NA | 82131 |
 
 
@@ -6493,6 +6910,7 @@ T_1458_2:SKJEMA2W; (T_1458_2:SKJEMA2DBG); (T_1458_2:SKJEMA2D); (T_1458_2:SKJEMA2
 | 3 per month | 4193 |
 | 1 per month | 10030 |
 | 2 per month | 4610 |
+| Not NA | 76248 |
 | NA | 11126 |
 
 
@@ -6508,6 +6926,7 @@ T_1459_1:SKJEMA2W; (T_1459_1:SKJEMA2DBG); (T_1459_1:SKJEMA2D); (T_1459_1:SKJEMA2
 | 4 per week | 104 |
 | 6+ per week | 30 |
 | 5 per week | 35 |
+| Not NA | 1662 |
 | NA | 85712 |
 
 
@@ -6521,6 +6940,7 @@ T_1459_2:SKJEMA2W; (T_1459_2:SKJEMA2DBG); (T_1459_2:SKJEMA2D); (T_1459_2:SKJEMA2
 | 1 per month | 4430 |
 | 2 per month | 1780 |
 | 3 per month | 1406 |
+| Not NA | 78956 |
 | NA | 8418 |
 
 
@@ -6536,6 +6956,7 @@ T_1460_1:SKJEMA2W; (T_1460_1:SKJEMA2DBG); (T_1460_1:SKJEMA2D); (T_1460_1:SKJEMA2
 | 3 per week | 67 |
 | 6+ per week | 13 |
 | 5 per week | 18 |
+| Not NA | 677 |
 | NA | 86697 |
 
 
@@ -6549,6 +6970,7 @@ T_1460_2:SKJEMA2W; (T_1460_2:SKJEMA2DBG); (T_1460_2:SKJEMA2D); (T_1460_2:SKJEMA2
 | 2 per month | 875 |
 | 3 per month | 665 |
 | 1 per month | 1981 |
+| Not NA | 79543 |
 | NA | 7831 |
 
 
@@ -6559,6 +6981,7 @@ T_15_1_1:SKJEMA2W; (T_15_1_1:SKJEMA2DBG); (T_15_1_1:SKJEMA2D); (T_15_1_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 3039 |
+| Not NA | 3039 |
 | NA | 84335 |
 
 
@@ -6571,6 +6994,7 @@ T_15_1_2:SKJEMA2W; (T_15_1_2:SKJEMA2DBG); (T_15_1_2:SKJEMA2D); (T_15_1_2:SKJEMA2
 | 1-2 per week | 31493 |
 | 3-4 per week | 31069 |
 | 5-6 per week | 8216 |
+| Not NA | 70778 |
 | NA | 16596 |
 
 
@@ -6583,6 +7007,7 @@ T_15_1_3:SKJEMA2W; (T_15_1_3:SKJEMA2DBG); (T_15_1_3:SKJEMA2D); (T_15_1_3:SKJEMA2
 | 2-3 per month | 10314 |
 | 1 per month | 1930 |
 | 0 per month | 455 |
+| Not NA | 12699 |
 | NA | 74675 |
 
 
@@ -6593,6 +7018,7 @@ T_15_2_1:SKJEMA2W; (T_15_2_1:SKJEMA2DBG); (T_15_2_1:SKJEMA2D); (T_15_2_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 126 |
+| Not NA | 126 |
 | NA | 87248 |
 
 
@@ -6605,6 +7031,7 @@ T_15_2_2:SKJEMA2W; (T_15_2_2:SKJEMA2DBG); (T_15_2_2:SKJEMA2D); (T_15_2_2:SKJEMA2
 | 1-2 per week | 12136 |
 | 3-4 per week | 875 |
 | 5-6 per week | 69 |
+| Not NA | 13080 |
 | NA | 74294 |
 
 
@@ -6617,6 +7044,7 @@ T_15_2_3:SKJEMA2W; (T_15_2_3:SKJEMA2DBG); (T_15_2_3:SKJEMA2D); (T_15_2_3:SKJEMA2
 | 2-3 per month | 30553 |
 | 1 per month | 27055 |
 | 0 per month | 13092 |
+| Not NA | 70700 |
 | NA | 16674 |
 
 
@@ -6627,6 +7055,7 @@ T_15_3_1:SKJEMA2W; (T_15_3_1:SKJEMA2DBG); (T_15_3_1:SKJEMA2D); (T_15_3_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 72 |
+| Not NA | 72 |
 | NA | 87302 |
 
 
@@ -6639,6 +7068,7 @@ T_15_3_2:SKJEMA2W; (T_15_3_2:SKJEMA2DBG); (T_15_3_2:SKJEMA2D); (T_15_3_2:SKJEMA2
 | 1-2 per week | 5674 |
 | 3-4 per week | 366 |
 | 5-6 per week | 40 |
+| Not NA | 6080 |
 | NA | 81294 |
 
 
@@ -6651,6 +7081,7 @@ T_15_3_3:SKJEMA2W; (T_15_3_3:SKJEMA2DBG); (T_15_3_3:SKJEMA2D); (T_15_3_3:SKJEMA2
 | 1 per month | 32667 |
 | 2-3 per month | 20282 |
 | 0 per month | 23514 |
+| Not NA | 76463 |
 | NA | 10911 |
 
 
@@ -6661,6 +7092,7 @@ T_15_4_1:SKJEMA2W; (T_15_4_1:SKJEMA2DBG); (T_15_4_1:SKJEMA2D); (T_15_4_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 311 |
+| Not NA | 311 |
 | NA | 87063 |
 
 
@@ -6673,6 +7105,7 @@ T_15_4_2:SKJEMA2W; (T_15_4_2:SKJEMA2DBG); (T_15_4_2:SKJEMA2D); (T_15_4_2:SKJEMA2
 | 1-2 per week | 48963 |
 | 5-6 per week | 699 |
 | 3-4 per week | 11425 |
+| Not NA | 61087 |
 | NA | 26287 |
 
 
@@ -6685,6 +7118,7 @@ T_15_4_3:SKJEMA2W; (T_15_4_3:SKJEMA2DBG); (T_15_4_3:SKJEMA2D); (T_15_4_3:SKJEMA2
 | 1 per month | 4479 |
 | 2-3 per month | 18584 |
 | 0 per month | 1488 |
+| Not NA | 24551 |
 | NA | 62823 |
 
 
@@ -6695,6 +7129,7 @@ T_15_5_1:SKJEMA2W; (T_15_5_1:SKJEMA2DBG); (T_15_5_1:SKJEMA2D); (T_15_5_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 571 |
+| Not NA | 571 |
 | NA | 86803 |
 
 
@@ -6707,6 +7142,7 @@ T_15_5_2:SKJEMA2W; (T_15_5_2:SKJEMA2DBG); (T_15_5_2:SKJEMA2D); (T_15_5_2:SKJEMA2
 | 1-2 per week | 44593 |
 | 3-4 per week | 8993 |
 | 5-6 per week | 942 |
+| Not NA | 54528 |
 | NA | 32846 |
 
 
@@ -6719,6 +7155,7 @@ T_15_5_3:SKJEMA2W; (T_15_5_3:SKJEMA2DBG); (T_15_5_3:SKJEMA2D); (T_15_5_3:SKJEMA2
 | 2-3 per month | 21288 |
 | 1 per month | 7503 |
 | 0 per month | 2052 |
+| Not NA | 30843 |
 | NA | 56531 |
 
 
@@ -6729,6 +7166,7 @@ T_15_6_1:SKJEMA2W; (T_15_6_1:SKJEMA2DBG); (T_15_6_1:SKJEMA2D); (T_15_6_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 23 |
+| Not NA | 23 |
 | NA | 87351 |
 
 
@@ -6741,6 +7179,7 @@ T_15_6_2:SKJEMA2W; (T_15_6_2:SKJEMA2DBG); (T_15_6_2:SKJEMA2D); (T_15_6_2:SKJEMA2
 | 1-2 per week | 910 |
 | 3-4 per week | 79 |
 | 5-6 per week | 9 |
+| Not NA | 998 |
 | NA | 86376 |
 
 
@@ -6753,6 +7192,7 @@ T_15_6_3:SKJEMA2W; (T_15_6_3:SKJEMA2DBG); (T_15_6_3:SKJEMA2D); (T_15_6_3:SKJEMA2
 | 0 per month | 72160 |
 | 1 per month | 5795 |
 | 2-3 per month | 2115 |
+| Not NA | 80070 |
 | NA | 7304 |
 
 
@@ -6763,6 +7203,7 @@ T_15_7_1:SKJEMA2W; (T_15_7_1:SKJEMA2DBG); (T_15_7_1:SKJEMA2D); (T_15_7_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 154 |
+| Not NA | 154 |
 | NA | 87220 |
 
 
@@ -6775,6 +7216,7 @@ T_15_7_2:SKJEMA2W; (T_15_7_2:SKJEMA2DBG); (T_15_7_2:SKJEMA2D); (T_15_7_2:SKJEMA2
 | 1-2 per week | 6250 |
 | 3-4 per week | 948 |
 | 5-6 per week | 113 |
+| Not NA | 7311 |
 | NA | 80063 |
 
 
@@ -6787,6 +7229,7 @@ T_15_7_3:SKJEMA2W; (T_15_7_3:SKJEMA2DBG); (T_15_7_3:SKJEMA2D); (T_15_7_3:SKJEMA2
 | 0 per month | 48457 |
 | 2-3 per month | 11814 |
 | 1 per month | 14692 |
+| Not NA | 74963 |
 | NA | 12411 |
 
 
@@ -6797,6 +7240,7 @@ T_15_8_1:SKJEMA2W; (T_15_8_1:SKJEMA2DBG); (T_15_8_1:SKJEMA2D); (T_15_8_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 110 |
+| Not NA | 110 |
 | NA | 87264 |
 
 
@@ -6809,6 +7253,7 @@ T_15_8_2:SKJEMA2W; (T_15_8_2:SKJEMA2DBG); (T_15_8_2:SKJEMA2D); (T_15_8_2:SKJEMA2
 | 1-2 per week | 7434 |
 | 3-4 per week | 982 |
 | 5-6 per week | 100 |
+| Not NA | 8516 |
 | NA | 78858 |
 
 
@@ -6821,6 +7266,7 @@ T_15_8_3:SKJEMA2W; (T_15_8_3:SKJEMA2DBG); (T_15_8_3:SKJEMA2D); (T_15_8_3:SKJEMA2
 | 2-3 per month | 12092 |
 | 1 per month | 14437 |
 | 0 per month | 46897 |
+| Not NA | 73426 |
 | NA | 13948 |
 
 
@@ -6831,6 +7277,7 @@ T_15_9_1:SKJEMA2W; (T_15_9_1:SKJEMA2DBG); (T_15_9_1:SKJEMA2D); (T_15_9_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 197 |
+| Not NA | 197 |
 | NA | 87177 |
 
 
@@ -6843,6 +7290,7 @@ T_15_9_2:SKJEMA2W; (T_15_9_2:SKJEMA2DBG); (T_15_9_2:SKJEMA2D); (T_15_9_2:SKJEMA2
 | 1-2 per week | 28266 |
 | 3-4 per week | 7248 |
 | 5-6 per week | 625 |
+| Not NA | 36139 |
 | NA | 51235 |
 
 
@@ -6855,6 +7303,7 @@ T_15_9_3:SKJEMA2W; (T_15_9_3:SKJEMA2DBG); (T_15_9_3:SKJEMA2D); (T_15_9_3:SKJEMA2
 | 2-3 per month | 31814 |
 | 1 per month | 11519 |
 | 0 per month | 5468 |
+| Not NA | 48801 |
 | NA | 38573 |
 
 
@@ -6865,6 +7314,7 @@ T_1510_1:SKJEMA2W; (T_1510_1:SKJEMA2DBG); (T_1510_1:SKJEMA2D); (T_1510_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 58 |
+| Not NA | 58 |
 | NA | 87316 |
 
 
@@ -6877,6 +7327,7 @@ T_1510_2:SKJEMA2W; (T_1510_2:SKJEMA2DBG); (T_1510_2:SKJEMA2D); (T_1510_2:SKJEMA2
 | 1-2 per week | 7680 |
 | 3-4 per week | 650 |
 | 5-6 per week | 62 |
+| Not NA | 8392 |
 | NA | 78982 |
 
 
@@ -6889,6 +7340,7 @@ T_1510_3:SKJEMA2W; (T_1510_3:SKJEMA2DBG); (T_1510_3:SKJEMA2D); (T_1510_3:SKJEMA2
 | 2-3 per month | 19636 |
 | 0 per month | 30900 |
 | 1 per month | 24357 |
+| Not NA | 74893 |
 | NA | 12481 |
 
 
@@ -6899,6 +7351,7 @@ T_1511_1:SKJEMA2W; (T_1511_1:SKJEMA2DBG); (T_1511_1:SKJEMA2D); (T_1511_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 402 |
+| Not NA | 402 |
 | NA | 86972 |
 
 
@@ -6911,6 +7364,7 @@ T_1511_2:SKJEMA2W; (T_1511_2:SKJEMA2DBG); (T_1511_2:SKJEMA2D); (T_1511_2:SKJEMA2
 | 1-2 per week | 4050 |
 | 3-4 per week | 1115 |
 | 5-6 per week | 384 |
+| Not NA | 5549 |
 | NA | 81825 |
 
 
@@ -6923,6 +7377,7 @@ T_1511_3:SKJEMA2W; (T_1511_3:SKJEMA2DBG); (T_1511_3:SKJEMA2D); (T_1511_3:SKJEMA2
 | 0 per month | 51546 |
 | 1 per month | 15084 |
 | 2-3 per month | 9505 |
+| Not NA | 76135 |
 | NA | 11239 |
 
 
@@ -6933,6 +7388,7 @@ T_1512_1:SKJEMA2W; (T_1512_1:SKJEMA2DBG); (T_1512_1:SKJEMA2D); (T_1512_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 36 |
+| Not NA | 36 |
 | NA | 87338 |
 
 
@@ -6945,6 +7401,7 @@ T_1512_2:SKJEMA2W; (T_1512_2:SKJEMA2DBG); (T_1512_2:SKJEMA2D); (T_1512_2:SKJEMA2
 | 3-4 per week | 497 |
 | 1-2 per week | 4552 |
 | 5-6 per week | 61 |
+| Not NA | 5110 |
 | NA | 82264 |
 
 
@@ -6957,6 +7414,7 @@ T_1512_3:SKJEMA2W; (T_1512_3:SKJEMA2DBG); (T_1512_3:SKJEMA2D); (T_1512_3:SKJEMA2
 | 0 per month | 49846 |
 | 1 per month | 14570 |
 | 2-3 per month | 12003 |
+| Not NA | 76419 |
 | NA | 10955 |
 
 
@@ -6967,6 +7425,7 @@ T_1513_1:SKJEMA2W; (T_1513_1:SKJEMA2DBG); (T_1513_1:SKJEMA2D); (T_1513_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 98 |
+| Not NA | 98 |
 | NA | 87276 |
 
 
@@ -6979,6 +7438,7 @@ T_1513_2:SKJEMA2W; (T_1513_2:SKJEMA2DBG); (T_1513_2:SKJEMA2D); (T_1513_2:SKJEMA2
 | 1-2 per week | 15549 |
 | 3-4 per week | 1960 |
 | 5-6 per week | 209 |
+| Not NA | 17718 |
 | NA | 69656 |
 
 
@@ -6991,6 +7451,7 @@ T_1513_3:SKJEMA2W; (T_1513_3:SKJEMA2DBG); (T_1513_3:SKJEMA2D); (T_1513_3:SKJEMA2
 | 2-3 per month | 28834 |
 | 1 per month | 17828 |
 | 0 per month | 19215 |
+| Not NA | 65877 |
 | NA | 21497 |
 
 
@@ -7001,6 +7462,7 @@ T_1514_1:SKJEMA2W; (T_1514_1:SKJEMA2DBG); (T_1514_1:SKJEMA2D); (T_1514_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 284 |
+| Not NA | 284 |
 | NA | 87090 |
 
 
@@ -7013,6 +7475,7 @@ T_1514_2:SKJEMA2W; (T_1514_2:SKJEMA2DBG); (T_1514_2:SKJEMA2D); (T_1514_2:SKJEMA2
 | 1-2 per week | 22508 |
 | 3-4 per week | 4844 |
 | 5-6 per week | 758 |
+| Not NA | 28110 |
 | NA | 59264 |
 
 
@@ -7025,6 +7488,7 @@ T_1514_3:SKJEMA2W; (T_1514_3:SKJEMA2DBG); (T_1514_3:SKJEMA2D); (T_1514_3:SKJEMA2
 | 2-3 per month | 28523 |
 | 0 per month | 12327 |
 | 1 per month | 15595 |
+| Not NA | 56445 |
 | NA | 30929 |
 
 
@@ -7035,6 +7499,7 @@ T_1515_1:SKJEMA2W; (T_1515_1:SKJEMA2DBG); (T_1515_1:SKJEMA2D); (T_1515_1:SKJEMA2
 | Category | n |
 | -------- | - |
 | 1 | 63 |
+| Not NA | 63 |
 | NA | 87311 |
 
 
@@ -7047,6 +7512,7 @@ T_1515_2:SKJEMA2W; (T_1515_2:SKJEMA2DBG); (T_1515_2:SKJEMA2D); (T_1515_2:SKJEMA2
 | 1-2 per week | 9543 |
 | 5-6 per week | 139 |
 | 3-4 per week | 1070 |
+| Not NA | 10752 |
 | NA | 76622 |
 
 
@@ -7059,6 +7525,7 @@ T_1515_3:SKJEMA2W; (T_1515_3:SKJEMA2DBG); (T_1515_3:SKJEMA2D); (T_1515_3:SKJEMA2
 | 2-3 per month | 19774 |
 | 0 per month | 35394 |
 | 1 per month | 16903 |
+| Not NA | 72071 |
 | NA | 15303 |
 
 
@@ -7070,6 +7537,7 @@ T_16_1_1:SKJEMA2W; (T_16_1_1:SKJEMA2DBG); (T_16_1_1:SKJEMA2D); (T_16_1_1:SKJEMA2
 | -------- | - |
 | 1 per day | 2016 |
 | 2+ per day | 389 |
+| Not NA | 2405 |
 | NA | 84969 |
 
 
@@ -7082,6 +7550,7 @@ T_16_1_2:SKJEMA2W; (T_16_1_2:SKJEMA2DBG); (T_16_1_2:SKJEMA2D); (T_16_1_2:SKJEMA2
 | 5-6 per week | 1834 |
 | 1-2 per week | 9288 |
 | 3-4 per week | 5772 |
+| Not NA | 16894 |
 | NA | 70480 |
 
 
@@ -7094,6 +7563,7 @@ T_16_1_3:SKJEMA2W; (T_16_1_3:SKJEMA2DBG); (T_16_1_3:SKJEMA2D); (T_16_1_3:SKJEMA2
 | 0 per month | 44785 |
 | 2-3 per month | 9450 |
 | 1 per month | 8247 |
+| Not NA | 62482 |
 | NA | 24892 |
 
 
@@ -7105,6 +7575,7 @@ T_16_2_1:SKJEMA2W; (T_16_2_1:SKJEMA2DBG); (T_16_2_1:SKJEMA2D); (T_16_2_1:SKJEMA2
 | -------- | - |
 | 2+ per day | 408 |
 | 1 per day | 1009 |
+| Not NA | 1417 |
 | NA | 85957 |
 
 
@@ -7117,6 +7588,7 @@ T_16_2_2:SKJEMA2W; (T_16_2_2:SKJEMA2DBG); (T_16_2_2:SKJEMA2D); (T_16_2_2:SKJEMA2
 | 3-4 per week | 2394 |
 | 5-6 per week | 930 |
 | 1-2 per week | 4464 |
+| Not NA | 7788 |
 | NA | 79586 |
 
 
@@ -7129,6 +7601,7 @@ T_16_2_3:SKJEMA2W; (T_16_2_3:SKJEMA2DBG); (T_16_2_3:SKJEMA2D); (T_16_2_3:SKJEMA2
 | 0 per month | 62751 |
 | 2-3 per month | 4534 |
 | 1 per month | 4187 |
+| Not NA | 71472 |
 | NA | 15902 |
 
 
@@ -7140,6 +7613,7 @@ T_16_3_1:SKJEMA2W; (T_16_3_1:SKJEMA2DBG); (T_16_3_1:SKJEMA2D); (T_16_3_1:SKJEMA2
 | -------- | - |
 | 1 per day | 2842 |
 | 2+ per day | 231 |
+| Not NA | 3073 |
 | NA | 84301 |
 
 
@@ -7152,6 +7626,7 @@ T_16_3_2:SKJEMA2W; (T_16_3_2:SKJEMA2DBG); (T_16_3_2:SKJEMA2D); (T_16_3_2:SKJEMA2
 | 3-4 per week | 12318 |
 | 1-2 per week | 12945 |
 | 5-6 per week | 4934 |
+| Not NA | 30197 |
 | NA | 57177 |
 
 
@@ -7164,6 +7639,7 @@ T_16_3_3:SKJEMA2W; (T_16_3_3:SKJEMA2DBG); (T_16_3_3:SKJEMA2D); (T_16_3_3:SKJEMA2
 | 0 per month | 35918 |
 | 2-3 per month | 8896 |
 | 1 per month | 4294 |
+| Not NA | 49108 |
 | NA | 38266 |
 
 
@@ -7175,6 +7651,7 @@ T_16_4_1:SKJEMA2W; (T_16_4_1:SKJEMA2DBG); (T_16_4_1:SKJEMA2D); (T_16_4_1:SKJEMA2
 | -------- | - |
 | 1 per day | 1649 |
 | 2+ per day | 542 |
+| Not NA | 2191 |
 | NA | 85183 |
 
 
@@ -7187,6 +7664,7 @@ T_16_4_2:SKJEMA2W; (T_16_4_2:SKJEMA2DBG); (T_16_4_2:SKJEMA2D); (T_16_4_2:SKJEMA2
 | 1-2 per week | 6853 |
 | 3-4 per week | 4963 |
 | 5-6 per week | 2066 |
+| Not NA | 13882 |
 | NA | 73492 |
 
 
@@ -7199,6 +7677,7 @@ T_16_4_3:SKJEMA2W; (T_16_4_3:SKJEMA2DBG); (T_16_4_3:SKJEMA2D); (T_16_4_3:SKJEMA2
 | 0 per month | 55110 |
 | 1 per month | 4069 |
 | 2-3 per month | 5884 |
+| Not NA | 65063 |
 | NA | 22311 |
 
 
@@ -7210,6 +7689,7 @@ T_16_5_1:SKJEMA2W; (T_16_5_1:SKJEMA2DBG); (T_16_5_1:SKJEMA2D); (T_16_5_1:SKJEMA2
 | -------- | - |
 | 1 per day | 362 |
 | 2+ per day | 100 |
+| Not NA | 462 |
 | NA | 86912 |
 
 
@@ -7222,6 +7702,7 @@ T_16_5_2:SKJEMA2W; (T_16_5_2:SKJEMA2DBG); (T_16_5_2:SKJEMA2D); (T_16_5_2:SKJEMA2
 | 3-4 per week | 1106 |
 | 1-2 per week | 1784 |
 | 5-6 per week | 397 |
+| Not NA | 3287 |
 | NA | 84087 |
 
 
@@ -7234,6 +7715,7 @@ T_16_5_3:SKJEMA2W; (T_16_5_3:SKJEMA2DBG); (T_16_5_3:SKJEMA2D); (T_16_5_3:SKJEMA2
 | 0 per month | 72724 |
 | 2-3 per month | 1957 |
 | 1 per month | 1882 |
+| Not NA | 76563 |
 | NA | 10811 |
 
 
@@ -7245,6 +7727,7 @@ T_16_6_1:SKJEMA2W; (T_16_6_1:SKJEMA2DBG); (T_16_6_1:SKJEMA2D); (T_16_6_1:SKJEMA2
 | -------- | - |
 | 2+ per day | 71 |
 | 1 per day | 343 |
+| Not NA | 414 |
 | NA | 86960 |
 
 
@@ -7257,6 +7740,7 @@ T_16_6_2:SKJEMA2W; (T_16_6_2:SKJEMA2DBG); (T_16_6_2:SKJEMA2D); (T_16_6_2:SKJEMA2
 | 1-2 per week | 1856 |
 | 3-4 per week | 1233 |
 | 5-6 per week | 404 |
+| Not NA | 3493 |
 | NA | 83881 |
 
 
@@ -7269,6 +7753,7 @@ T_16_6_3:SKJEMA2W; (T_16_6_3:SKJEMA2DBG); (T_16_6_3:SKJEMA2D); (T_16_6_3:SKJEMA2
 | 0 per month | 71667 |
 | 2-3 per month | 2120 |
 | 1 per month | 2235 |
+| Not NA | 76022 |
 | NA | 11352 |
 
 
@@ -7280,6 +7765,7 @@ T_16_7_1:SKJEMA2W; (T_16_7_1:SKJEMA2DBG); (T_16_7_1:SKJEMA2D); (T_16_7_1:SKJEMA2
 | -------- | - |
 | 1 per day | 941 |
 | 2+ per day | 101 |
+| Not NA | 1042 |
 | NA | 86332 |
 
 
@@ -7292,6 +7778,7 @@ T_16_7_2:SKJEMA2W; (T_16_7_2:SKJEMA2DBG); (T_16_7_2:SKJEMA2D); (T_16_7_2:SKJEMA2
 | 3-4 per week | 5195 |
 | 1-2 per week | 9112 |
 | 5-6 per week | 1547 |
+| Not NA | 15854 |
 | NA | 71520 |
 
 
@@ -7304,6 +7791,7 @@ T_16_7_3:SKJEMA2W; (T_16_7_3:SKJEMA2DBG); (T_16_7_3:SKJEMA2D); (T_16_7_3:SKJEMA2
 | 0 per month | 48648 |
 | 1 per month | 6323 |
 | 2-3 per month | 9311 |
+| Not NA | 64282 |
 | NA | 23092 |
 
 
@@ -7315,6 +7803,7 @@ T_16_8_1:SKJEMA2W; (T_16_8_1:SKJEMA2DBG); (T_16_8_1:SKJEMA2D); (T_16_8_1:SKJEMA2
 | -------- | - |
 | 1 per day | 694 |
 | 2+ per day | 101 |
+| Not NA | 795 |
 | NA | 86579 |
 
 
@@ -7327,6 +7816,7 @@ T_16_8_2:SKJEMA2W; (T_16_8_2:SKJEMA2DBG); (T_16_8_2:SKJEMA2D); (T_16_8_2:SKJEMA2
 | 3-4 per week | 2866 |
 | 5-6 per week | 963 |
 | 1-2 per week | 4838 |
+| Not NA | 8667 |
 | NA | 78707 |
 
 
@@ -7339,6 +7829,7 @@ T_16_8_3:SKJEMA2W; (T_16_8_3:SKJEMA2DBG); (T_16_8_3:SKJEMA2D); (T_16_8_3:SKJEMA2
 | 0 per month | 61699 |
 | 1 per month | 4027 |
 | 2-3 per month | 5018 |
+| Not NA | 70744 |
 | NA | 16630 |
 
 
@@ -7350,6 +7841,7 @@ T_16_9_1:SKJEMA2W; (T_16_9_1:SKJEMA2DBG); (T_16_9_1:SKJEMA2D); (T_16_9_1:SKJEMA2
 | -------- | - |
 | 1 per day | 5022 |
 | 2+ per day | 405 |
+| Not NA | 5427 |
 | NA | 81947 |
 
 
@@ -7362,6 +7854,7 @@ T_16_9_2:SKJEMA2W; (T_16_9_2:SKJEMA2DBG); (T_16_9_2:SKJEMA2D); (T_16_9_2:SKJEMA2
 | 1-2 per week | 17870 |
 | 3-4 per week | 18501 |
 | 5-6 per week | 8567 |
+| Not NA | 44938 |
 | NA | 42436 |
 
 
@@ -7374,6 +7867,7 @@ T_16_9_3:SKJEMA2W; (T_16_9_3:SKJEMA2DBG); (T_16_9_3:SKJEMA2D); (T_16_9_3:SKJEMA2
 | 0 per month | 18564 |
 | 2-3 per month | 10748 |
 | 1 per month | 4267 |
+| Not NA | 33579 |
 | NA | 53795 |
 
 
@@ -7385,6 +7879,7 @@ T_1610_1:SKJEMA2W; (T_1610_1:SKJEMA2DBG); (T_1610_1:SKJEMA2D); (T_1610_1:SKJEMA2
 | -------- | - |
 | 2+ per day | 74 |
 | 1 per day | 384 |
+| Not NA | 458 |
 | NA | 86916 |
 
 
@@ -7397,6 +7892,7 @@ T_1610_2:SKJEMA2W; (T_1610_2:SKJEMA2DBG); (T_1610_2:SKJEMA2D); (T_1610_2:SKJEMA2
 | 3-4 per week | 1355 |
 | 5-6 per week | 450 |
 | 1-2 per week | 2661 |
+| Not NA | 4466 |
 | NA | 82908 |
 
 
@@ -7409,6 +7905,7 @@ T_1610_3:SKJEMA2W; (T_1610_3:SKJEMA2DBG); (T_1610_3:SKJEMA2D); (T_1610_3:SKJEMA2
 | 0 per month | 69325 |
 | 1 per month | 3256 |
 | 2-3 per month | 2875 |
+| Not NA | 75456 |
 | NA | 11918 |
 
 
@@ -7420,6 +7917,7 @@ T_1611_1:SKJEMA2W; (T_1611_1:SKJEMA2DBG); (T_1611_1:SKJEMA2D); (T_1611_1:SKJEMA2
 | -------- | - |
 | 2+ per day | 95 |
 | 1 per day | 795 |
+| Not NA | 890 |
 | NA | 86484 |
 
 
@@ -7432,6 +7930,7 @@ T_1611_2:SKJEMA2W; (T_1611_2:SKJEMA2DBG); (T_1611_2:SKJEMA2D); (T_1611_2:SKJEMA2
 | 1-2 per week | 4857 |
 | 5-6 per week | 1391 |
 | 3-4 per week | 3645 |
+| Not NA | 9893 |
 | NA | 77481 |
 
 
@@ -7444,6 +7943,7 @@ T_1611_3:SKJEMA2W; (T_1611_3:SKJEMA2DBG); (T_1611_3:SKJEMA2D); (T_1611_3:SKJEMA2
 | 0 per month | 61652 |
 | 1 per month | 3525 |
 | 2-3 per month | 4707 |
+| Not NA | 69884 |
 | NA | 17490 |
 
 
@@ -7455,6 +7955,7 @@ T_17_1_1:SKJEMA2W; (T_17_1_1:SKJEMA2DBG); (T_17_1_1:SKJEMA2D); (T_17_1_1:SKJEMA2
 | -------- | - |
 | 1 per day | 12020 |
 | 2+ per day | 4457 |
+| Not NA | 16477 |
 | NA | 70897 |
 
 
@@ -7467,6 +7968,7 @@ T_17_1_2:SKJEMA2W; (T_17_1_2:SKJEMA2DBG); (T_17_1_2:SKJEMA2D); (T_17_1_2:SKJEMA2
 | 1-2 per week | 24748 |
 | 3-4 per week | 22724 |
 | 5-6 per week | 9240 |
+| Not NA | 56712 |
 | NA | 30662 |
 
 
@@ -7479,6 +7981,7 @@ T_17_1_3:SKJEMA2W; (T_17_1_3:SKJEMA2DBG); (T_17_1_3:SKJEMA2D); (T_17_1_3:SKJEMA2
 | 2-3 per month | 9470 |
 | 1 per month | 2184 |
 | 0 per month | 1360 |
+| Not NA | 13014 |
 | NA | 74360 |
 
 
@@ -7490,6 +7993,7 @@ T_17_2_1:SKJEMA2W; (T_17_2_1:SKJEMA2DBG); (T_17_2_1:SKJEMA2D); (T_17_2_1:SKJEMA2
 | -------- | - |
 | 1 per day | 5319 |
 | 2+ per day | 943 |
+| Not NA | 6262 |
 | NA | 81112 |
 
 
@@ -7502,6 +8006,7 @@ T_17_2_2:SKJEMA2W; (T_17_2_2:SKJEMA2DBG); (T_17_2_2:SKJEMA2D); (T_17_2_2:SKJEMA2
 | 1-2 per week | 30180 |
 | 3-4 per week | 21806 |
 | 5-6 per week | 6667 |
+| Not NA | 58653 |
 | NA | 28721 |
 
 
@@ -7514,6 +8019,7 @@ T_17_2_3:SKJEMA2W; (T_17_2_3:SKJEMA2DBG); (T_17_2_3:SKJEMA2D); (T_17_2_3:SKJEMA2
 | 2-3 per month | 14221 |
 | 0 per month | 2534 |
 | 1 per month | 3512 |
+| Not NA | 20267 |
 | NA | 67107 |
 
 
@@ -7525,6 +8031,7 @@ T_17_3_1:SKJEMA2W; (T_17_3_1:SKJEMA2DBG); (T_17_3_1:SKJEMA2D); (T_17_3_1:SKJEMA2
 | -------- | - |
 | 1 per day | 6283 |
 | 2+ per day | 935 |
+| Not NA | 7218 |
 | NA | 80156 |
 
 
@@ -7537,6 +8044,7 @@ T_17_3_2:SKJEMA2W; (T_17_3_2:SKJEMA2DBG); (T_17_3_2:SKJEMA2D); (T_17_3_2:SKJEMA2
 | 1-2 per week | 27730 |
 | 3-4 per week | 26961 |
 | 5-6 per week | 9555 |
+| Not NA | 64246 |
 | NA | 23128 |
 
 
@@ -7549,6 +8057,7 @@ T_17_3_3:SKJEMA2W; (T_17_3_3:SKJEMA2DBG); (T_17_3_3:SKJEMA2D); (T_17_3_3:SKJEMA2
 | 2-3 per month | 10251 |
 | 0 per month | 1882 |
 | 1 per month | 2589 |
+| Not NA | 14722 |
 | NA | 72652 |
 
 
@@ -7560,6 +8069,7 @@ T_18_1_1:SKJEMA2W; (T_18_1_1:SKJEMA2DBG); (T_18_1_1:SKJEMA2D); (T_18_1_1:SKJEMA2
 | -------- | - |
 | 1 per day | 749 |
 | 2+ per day | 90 |
+| Not NA | 839 |
 | NA | 86535 |
 
 
@@ -7572,6 +8082,7 @@ T_18_1_2:SKJEMA2W; (T_18_1_2:SKJEMA2DBG); (T_18_1_2:SKJEMA2D); (T_18_1_2:SKJEMA2
 | 1-2 per week | 19816 |
 | 3-4 per week | 7916 |
 | 5-6 per week | 1554 |
+| Not NA | 29286 |
 | NA | 58088 |
 
 
@@ -7584,6 +8095,7 @@ T_18_1_3:SKJEMA2W; (T_18_1_3:SKJEMA2DBG); (T_18_1_3:SKJEMA2D); (T_18_1_3:SKJEMA2
 | 2-3 per month | 22965 |
 | 0 per month | 17521 |
 | 1 per month | 14478 |
+| Not NA | 54964 |
 | NA | 32410 |
 
 
@@ -7595,6 +8107,7 @@ T_18_2_1:SKJEMA2W; (T_18_2_1:SKJEMA2DBG); (T_18_2_1:SKJEMA2D); (T_18_2_1:SKJEMA2
 | -------- | - |
 | 1 per day | 12168 |
 | 2+ per day | 4989 |
+| Not NA | 17157 |
 | NA | 70217 |
 
 
@@ -7607,6 +8120,7 @@ T_18_2_2:SKJEMA2W; (T_18_2_2:SKJEMA2DBG); (T_18_2_2:SKJEMA2D); (T_18_2_2:SKJEMA2
 | 1-2 per week | 20736 |
 | 3-4 per week | 20520 |
 | 5-6 per week | 12205 |
+| Not NA | 53461 |
 | NA | 33913 |
 
 
@@ -7619,6 +8133,7 @@ T_18_2_3:SKJEMA2W; (T_18_2_3:SKJEMA2DBG); (T_18_2_3:SKJEMA2D); (T_18_2_3:SKJEMA2
 | 2-3 per month | 9881 |
 | 1 per month | 2745 |
 | 0 per month | 2881 |
+| Not NA | 15507 |
 | NA | 71867 |
 
 
@@ -7630,6 +8145,7 @@ T_18_3_1:SKJEMA2W; (T_18_3_1:SKJEMA2DBG); (T_18_3_1:SKJEMA2D); (T_18_3_1:SKJEMA2
 | -------- | - |
 | 2+ per day | 15 |
 | 1 per day | 67 |
+| Not NA | 82 |
 | NA | 87292 |
 
 
@@ -7642,6 +8158,7 @@ T_18_3_2:SKJEMA2W; (T_18_3_2:SKJEMA2DBG); (T_18_3_2:SKJEMA2D); (T_18_3_2:SKJEMA2
 | 3-4 per week | 335 |
 | 1-2 per week | 1586 |
 | 5-6 per week | 82 |
+| Not NA | 2003 |
 | NA | 85371 |
 
 
@@ -7654,6 +8171,7 @@ T_18_3_3:SKJEMA2W; (T_18_3_3:SKJEMA2DBG); (T_18_3_3:SKJEMA2D); (T_18_3_3:SKJEMA2
 | 0 per month | 64375 |
 | 1 per month | 10032 |
 | 2-3 per month | 5784 |
+| Not NA | 80191 |
 | NA | 7183 |
 
 
@@ -7665,6 +8183,7 @@ T_18_4_1:SKJEMA2W; (T_18_4_1:SKJEMA2DBG); (T_18_4_1:SKJEMA2D); (T_18_4_1:SKJEMA2
 | -------- | - |
 | 1 per day | 192 |
 | 2+ per day | 31 |
+| Not NA | 223 |
 | NA | 87151 |
 
 
@@ -7677,6 +8196,7 @@ T_18_4_2:SKJEMA2W; (T_18_4_2:SKJEMA2DBG); (T_18_4_2:SKJEMA2D); (T_18_4_2:SKJEMA2
 | 1-2 per week | 5278 |
 | 3-4 per week | 1341 |
 | 5-6 per week | 298 |
+| Not NA | 6917 |
 | NA | 80457 |
 
 
@@ -7689,6 +8209,7 @@ T_18_4_3:SKJEMA2W; (T_18_4_3:SKJEMA2DBG); (T_18_4_3:SKJEMA2D); (T_18_4_3:SKJEMA2
 | 0 per month | 48449 |
 | 1 per month | 13402 |
 | 2-3 per month | 14137 |
+| Not NA | 75988 |
 | NA | 11386 |
 
 
@@ -7700,6 +8221,7 @@ T_18_5_1:SKJEMA2W; (T_18_5_1:SKJEMA2DBG); (T_18_5_1:SKJEMA2D); (T_18_5_1:SKJEMA2
 | -------- | - |
 | 1 per day | 165 |
 | 2+ per day | 23 |
+| Not NA | 188 |
 | NA | 87186 |
 
 
@@ -7712,6 +8234,7 @@ T_18_5_2:SKJEMA2W; (T_18_5_2:SKJEMA2DBG); (T_18_5_2:SKJEMA2D); (T_18_5_2:SKJEMA2
 | 3-4 per week | 812 |
 | 1-2 per week | 3550 |
 | 5-6 per week | 164 |
+| Not NA | 4526 |
 | NA | 82848 |
 
 
@@ -7724,6 +8247,7 @@ T_18_5_3:SKJEMA2W; (T_18_5_3:SKJEMA2DBG); (T_18_5_3:SKJEMA2D); (T_18_5_3:SKJEMA2
 | 0 per month | 51123 |
 | 2-3 per month | 10811 |
 | 1 per month | 16366 |
+| Not NA | 78300 |
 | NA | 9074 |
 
 
@@ -7735,6 +8259,7 @@ T_18_6_1:SKJEMA2W; (T_18_6_1:SKJEMA2DBG); (T_18_6_1:SKJEMA2D); (T_18_6_1:SKJEMA2
 | -------- | - |
 | 1 per day | 215 |
 | 2+ per day | 28 |
+| Not NA | 243 |
 | NA | 87131 |
 
 
@@ -7747,6 +8272,7 @@ T_18_6_2:SKJEMA2W; (T_18_6_2:SKJEMA2DBG); (T_18_6_2:SKJEMA2D); (T_18_6_2:SKJEMA2
 | 1-2 per week | 12041 |
 | 3-4 per week | 2746 |
 | 5-6 per week | 419 |
+| Not NA | 15206 |
 | NA | 72168 |
 
 
@@ -7759,6 +8285,7 @@ T_18_6_3:SKJEMA2W; (T_18_6_3:SKJEMA2DBG); (T_18_6_3:SKJEMA2D); (T_18_6_3:SKJEMA2
 | 2-3 per month | 30883 |
 | 0 per month | 15742 |
 | 1 per month | 22330 |
+| Not NA | 68955 |
 | NA | 18419 |
 
 
@@ -7770,6 +8297,7 @@ T_18_7_1:SKJEMA2W; (T_18_7_1:SKJEMA2DBG); (T_18_7_1:SKJEMA2D); (T_18_7_1:SKJEMA2
 | -------- | - |
 | 1 per day | 123 |
 | 2+ per day | 22 |
+| Not NA | 145 |
 | NA | 87229 |
 
 
@@ -7782,6 +8310,7 @@ T_18_7_2:SKJEMA2W; (T_18_7_2:SKJEMA2DBG); (T_18_7_2:SKJEMA2D); (T_18_7_2:SKJEMA2
 | 1-2 per week | 3036 |
 | 3-4 per week | 788 |
 | 5-6 per week | 167 |
+| Not NA | 3991 |
 | NA | 83383 |
 
 
@@ -7794,6 +8323,7 @@ T_18_7_3:SKJEMA2W; (T_18_7_3:SKJEMA2DBG); (T_18_7_3:SKJEMA2D); (T_18_7_3:SKJEMA2
 | 0 per month | 63277 |
 | 1 per month | 8772 |
 | 2-3 per month | 6352 |
+| Not NA | 78401 |
 | NA | 8973 |
 
 
@@ -7805,6 +8335,7 @@ T_18_8_1:SKJEMA2W; (T_18_8_1:SKJEMA2DBG); (T_18_8_1:SKJEMA2D); (T_18_8_1:SKJEMA2
 | -------- | - |
 | 1 per day | 360 |
 | 2+ per day | 35 |
+| Not NA | 395 |
 | NA | 86979 |
 
 
@@ -7817,6 +8348,7 @@ T_18_8_2:SKJEMA2W; (T_18_8_2:SKJEMA2DBG); (T_18_8_2:SKJEMA2D); (T_18_8_2:SKJEMA2
 | 1-2 per week | 22782 |
 | 5-6 per week | 1166 |
 | 3-4 per week | 6863 |
+| Not NA | 30811 |
 | NA | 56563 |
 
 
@@ -7829,6 +8361,7 @@ T_18_8_3:SKJEMA2W; (T_18_8_3:SKJEMA2DBG); (T_18_8_3:SKJEMA2D); (T_18_8_3:SKJEMA2
 | 2-3 per month | 31552 |
 | 0 per month | 9182 |
 | 1 per month | 12835 |
+| Not NA | 53569 |
 | NA | 33805 |
 
 
@@ -7840,6 +8373,7 @@ T_18_9_1:SKJEMA2W; (T_18_9_1:SKJEMA2DBG); (T_18_9_1:SKJEMA2D); (T_18_9_1:SKJEMA2
 | -------- | - |
 | 1 per day | 84 |
 | 2+ per day | 12 |
+| Not NA | 96 |
 | NA | 87278 |
 
 
@@ -7852,6 +8386,7 @@ T_18_9_2:SKJEMA2W; (T_18_9_2:SKJEMA2DBG); (T_18_9_2:SKJEMA2D); (T_18_9_2:SKJEMA2
 | 5-6 per week | 118 |
 | 1-2 per week | 2899 |
 | 3-4 per week | 552 |
+| Not NA | 3569 |
 | NA | 83805 |
 
 
@@ -7864,6 +8399,7 @@ T_18_9_3:SKJEMA2W; (T_18_9_3:SKJEMA2DBG); (T_18_9_3:SKJEMA2D); (T_18_9_3:SKJEMA2
 | 0 per month | 55111 |
 | 2-3 per month | 9784 |
 | 1 per month | 13826 |
+| Not NA | 78721 |
 | NA | 8653 |
 
 
@@ -7875,6 +8411,7 @@ T_1810_1:SKJEMA2W; (T_1810_1:SKJEMA2DBG); (T_1810_1:SKJEMA2D); (T_1810_1:SKJEMA2
 | -------- | - |
 | 1 per day | 105 |
 | 2+ per day | 18 |
+| Not NA | 123 |
 | NA | 87251 |
 
 
@@ -7887,6 +8424,7 @@ T_1810_2:SKJEMA2W; (T_1810_2:SKJEMA2DBG); (T_1810_2:SKJEMA2D); (T_1810_2:SKJEMA2
 | 1-2 per week | 6109 |
 | 3-4 per week | 1213 |
 | 5-6 per week | 234 |
+| Not NA | 7556 |
 | NA | 79818 |
 
 
@@ -7899,6 +8437,7 @@ T_1810_3:SKJEMA2W; (T_1810_3:SKJEMA2DBG); (T_1810_3:SKJEMA2D); (T_1810_3:SKJEMA2
 | 1 per month | 22467 |
 | 0 per month | 34227 |
 | 2-3 per month | 18782 |
+| Not NA | 75476 |
 | NA | 11898 |
 
 
@@ -7910,6 +8449,7 @@ T_1811_1:SKJEMA2W; (T_1811_1:SKJEMA2DBG); (T_1811_1:SKJEMA2D); (T_1811_1:SKJEMA2
 | -------- | - |
 | 1 per day | 2985 |
 | 2+ per day | 784 |
+| Not NA | 3769 |
 | NA | 83605 |
 
 
@@ -7922,6 +8462,7 @@ T_1811_2:SKJEMA2W; (T_1811_2:SKJEMA2DBG); (T_1811_2:SKJEMA2D); (T_1811_2:SKJEMA2
 | 3-4 per week | 9781 |
 | 1-2 per week | 24826 |
 | 5-6 per week | 3216 |
+| Not NA | 37823 |
 | NA | 49551 |
 
 
@@ -7934,6 +8475,7 @@ T_1811_3:SKJEMA2W; (T_1811_3:SKJEMA2DBG); (T_1811_3:SKJEMA2D); (T_1811_3:SKJEMA2
 | 1 per month | 10674 |
 | 2-3 per month | 26261 |
 | 0 per month | 6895 |
+| Not NA | 43830 |
 | NA | 43544 |
 
 
@@ -7945,6 +8487,7 @@ T_1812_1:SKJEMA2W; (T_1812_1:SKJEMA2DBG); (T_1812_1:SKJEMA2D); (T_1812_1:SKJEMA2
 | -------- | - |
 | 1 per day | 867 |
 | 2+ per day | 85 |
+| Not NA | 952 |
 | NA | 86422 |
 
 
@@ -7957,6 +8500,7 @@ T_1812_2:SKJEMA2W; (T_1812_2:SKJEMA2DBG); (T_1812_2:SKJEMA2D); (T_1812_2:SKJEMA2
 | 3-4 per week | 12989 |
 | 1-2 per week | 27410 |
 | 5-6 per week | 2904 |
+| Not NA | 43303 |
 | NA | 44071 |
 
 
@@ -7969,6 +8513,7 @@ T_1812_3:SKJEMA2W; (T_1812_3:SKJEMA2DBG); (T_1812_3:SKJEMA2D); (T_1812_3:SKJEMA2
 | 2-3 per month | 24403 |
 | 1 per month | 9364 |
 | 0 per month | 6947 |
+| Not NA | 40714 |
 | NA | 46660 |
 
 
@@ -7980,6 +8525,7 @@ T_1813_1:SKJEMA2W; (T_1813_1:SKJEMA2DBG); (T_1813_1:SKJEMA2D); (T_1813_1:SKJEMA2
 | -------- | - |
 | 1 per day | 122 |
 | 2+ per day | 18 |
+| Not NA | 140 |
 | NA | 87234 |
 
 
@@ -7992,6 +8538,7 @@ T_1813_2:SKJEMA2W; (T_1813_2:SKJEMA2DBG); (T_1813_2:SKJEMA2D); (T_1813_2:SKJEMA2
 | 3-4 per week | 643 |
 | 1-2 per week | 2532 |
 | 5-6 per week | 125 |
+| Not NA | 3300 |
 | NA | 84074 |
 
 
@@ -8004,6 +8551,7 @@ T_1813_3:SKJEMA2W; (T_1813_3:SKJEMA2DBG); (T_1813_3:SKJEMA2D); (T_1813_3:SKJEMA2
 | 0 per month | 57782 |
 | 1 per month | 13293 |
 | 2-3 per month | 7657 |
+| Not NA | 78732 |
 | NA | 8642 |
 
 
@@ -8015,6 +8563,7 @@ T_1814_1:SKJEMA2W; (T_1814_1:SKJEMA2DBG); (T_1814_1:SKJEMA2D); (T_1814_1:SKJEMA2
 | -------- | - |
 | 1 per day | 78 |
 | 2+ per day | 19 |
+| Not NA | 97 |
 | NA | 87277 |
 
 
@@ -8027,6 +8576,7 @@ T_1814_2:SKJEMA2W; (T_1814_2:SKJEMA2DBG); (T_1814_2:SKJEMA2D); (T_1814_2:SKJEMA2
 | 1-2 per week | 2891 |
 | 3-4 per week | 589 |
 | 5-6 per week | 112 |
+| Not NA | 3592 |
 | NA | 83782 |
 
 
@@ -8039,6 +8589,7 @@ T_1814_3:SKJEMA2W; (T_1814_3:SKJEMA2DBG); (T_1814_3:SKJEMA2D); (T_1814_3:SKJEMA2
 | 0 per month | 40610 |
 | 1 per month | 24337 |
 | 2-3 per month | 13810 |
+| Not NA | 78757 |
 | NA | 8617 |
 
 
@@ -8050,6 +8601,7 @@ T_1815_1:SKJEMA2W; (T_1815_1:SKJEMA2DBG); (T_1815_1:SKJEMA2D); (T_1815_1:SKJEMA2
 | -------- | - |
 | 1 per day | 948 |
 | 2+ per day | 130 |
+| Not NA | 1078 |
 | NA | 86296 |
 
 
@@ -8062,6 +8614,7 @@ T_1815_2:SKJEMA2W; (T_1815_2:SKJEMA2DBG); (T_1815_2:SKJEMA2D); (T_1815_2:SKJEMA2
 | 3-4 per week | 9036 |
 | 1-2 per week | 18476 |
 | 5-6 per week | 3017 |
+| Not NA | 30529 |
 | NA | 56845 |
 
 
@@ -8074,6 +8627,7 @@ T_1815_3:SKJEMA2W; (T_1815_3:SKJEMA2DBG); (T_1815_3:SKJEMA2D); (T_1815_3:SKJEMA2
 | 0 per month | 16591 |
 | 2-3 per month | 22776 |
 | 1 per month | 13368 |
+| Not NA | 52735 |
 | NA | 34639 |
 
 
@@ -8085,6 +8639,7 @@ T_1816_1:SKJEMA2W; (T_1816_1:SKJEMA2DBG); (T_1816_1:SKJEMA2D); (T_1816_1:SKJEMA2
 | -------- | - |
 | 1 per day | 197 |
 | 2+ per day | 31 |
+| Not NA | 228 |
 | NA | 87146 |
 
 
@@ -8097,6 +8652,7 @@ T_1816_2:SKJEMA2W; (T_1816_2:SKJEMA2DBG); (T_1816_2:SKJEMA2D); (T_1816_2:SKJEMA2
 | 5-6 per week | 167 |
 | 1-2 per week | 3049 |
 | 3-4 per week | 704 |
+| Not NA | 3920 |
 | NA | 83454 |
 
 
@@ -8109,6 +8665,7 @@ T_1816_3:SKJEMA2W; (T_1816_3:SKJEMA2DBG); (T_1816_3:SKJEMA2D); (T_1816_3:SKJEMA2
 | 0 per month | 47977 |
 | 2-3 per month | 10952 |
 | 1 per month | 19431 |
+| Not NA | 78360 |
 | NA | 9014 |
 
 
@@ -8120,6 +8677,7 @@ T_1817_1:SKJEMA2W; (T_1817_1:SKJEMA2DBG); (T_1817_1:SKJEMA2D); (T_1817_1:SKJEMA2
 | -------- | - |
 | 1 per day | 89 |
 | 2+ per day | 16 |
+| Not NA | 105 |
 | NA | 87269 |
 
 
@@ -8132,6 +8690,7 @@ T_1817_2:SKJEMA2W; (T_1817_2:SKJEMA2DBG); (T_1817_2:SKJEMA2D); (T_1817_2:SKJEMA2
 | 1-2 per week | 3822 |
 | 3-4 per week | 765 |
 | 5-6 per week | 159 |
+| Not NA | 4746 |
 | NA | 82628 |
 
 
@@ -8144,6 +8703,7 @@ T_1817_3:SKJEMA2W; (T_1817_3:SKJEMA2DBG); (T_1817_3:SKJEMA2D); (T_1817_3:SKJEMA2
 | 0 per month | 32668 |
 | 2-3 per month | 18268 |
 | 1 per month | 26943 |
+| Not NA | 77879 |
 | NA | 9495 |
 
 
@@ -8155,6 +8715,7 @@ T_1818_1:SKJEMA2W; (T_1818_1:SKJEMA2DBG); (T_1818_1:SKJEMA2D); (T_1818_1:SKJEMA2
 | -------- | - |
 | 1 per day | 803 |
 | 2+ per day | 96 |
+| Not NA | 899 |
 | NA | 86475 |
 
 
@@ -8167,6 +8728,7 @@ T_1818_2:SKJEMA2W; (T_1818_2:SKJEMA2DBG); (T_1818_2:SKJEMA2D); (T_1818_2:SKJEMA2
 | 1-2 per week | 18995 |
 | 3-4 per week | 7911 |
 | 5-6 per week | 2183 |
+| Not NA | 29089 |
 | NA | 58285 |
 
 
@@ -8179,6 +8741,7 @@ T_1818_3:SKJEMA2W; (T_1818_3:SKJEMA2DBG); (T_1818_3:SKJEMA2D); (T_1818_3:SKJEMA2
 | 0 per month | 22333 |
 | 1 per month | 11896 |
 | 2-3 per month | 19665 |
+| Not NA | 53894 |
 | NA | 33480 |
 
 
@@ -8190,6 +8753,7 @@ T_1819_1:SKJEMA2W; (T_1819_1:SKJEMA2DBG); (T_1819_1:SKJEMA2D); (T_1819_1:SKJEMA2
 | -------- | - |
 | 1 per day | 955 |
 | 2+ per day | 102 |
+| Not NA | 1057 |
 | NA | 86317 |
 
 
@@ -8202,6 +8766,7 @@ T_1819_2:SKJEMA2W; (T_1819_2:SKJEMA2DBG); (T_1819_2:SKJEMA2D); (T_1819_2:SKJEMA2
 | 1-2 per week | 28388 |
 | 3-4 per week | 14602 |
 | 5-6 per week | 3995 |
+| Not NA | 46985 |
 | NA | 40389 |
 
 
@@ -8214,6 +8779,7 @@ T_1819_3:SKJEMA2W; (T_1819_3:SKJEMA2DBG); (T_1819_3:SKJEMA2D); (T_1819_3:SKJEMA2
 | 2-3 per month | 21413 |
 | 1 per month | 7551 |
 | 0 per month | 7188 |
+| Not NA | 36152 |
 | NA | 51222 |
 
 
@@ -8225,6 +8791,7 @@ T_1820_1:SKJEMA2W; (T_1820_1:SKJEMA2DBG); (T_1820_1:SKJEMA2D); (T_1820_1:SKJEMA2
 | -------- | - |
 | 1 per day | 457 |
 | 2+ per day | 51 |
+| Not NA | 508 |
 | NA | 86866 |
 
 
@@ -8237,6 +8804,7 @@ T_1820_2:SKJEMA2W; (T_1820_2:SKJEMA2DBG); (T_1820_2:SKJEMA2D); (T_1820_2:SKJEMA2
 | 1-2 per week | 26483 |
 | 3-4 per week | 7880 |
 | 5-6 per week | 1504 |
+| Not NA | 35867 |
 | NA | 51507 |
 
 
@@ -8249,6 +8817,7 @@ T_1820_3:SKJEMA2W; (T_1820_3:SKJEMA2DBG); (T_1820_3:SKJEMA2D); (T_1820_3:SKJEMA2
 | 1 per month | 11524 |
 | 2-3 per month | 29038 |
 | 0 per month | 8040 |
+| Not NA | 48602 |
 | NA | 38772 |
 
 
@@ -8260,6 +8829,7 @@ T_1821_1:SKJEMA2W; (T_1821_1:SKJEMA2DBG); (T_1821_1:SKJEMA2D); (T_1821_1:SKJEMA2
 | -------- | - |
 | 1 per day | 3027 |
 | 2+ per day | 579 |
+| Not NA | 3606 |
 | NA | 83768 |
 
 
@@ -8272,6 +8842,7 @@ T_1821_2:SKJEMA2W; (T_1821_2:SKJEMA2DBG); (T_1821_2:SKJEMA2D); (T_1821_2:SKJEMA2
 | 1-2 per week | 25581 |
 | 3-4 per week | 13090 |
 | 5-6 per week | 4627 |
+| Not NA | 43298 |
 | NA | 44076 |
 
 
@@ -8284,6 +8855,7 @@ T_1821_3:SKJEMA2W; (T_1821_3:SKJEMA2DBG); (T_1821_3:SKJEMA2D); (T_1821_3:SKJEMA2
 | 2-3 per month | 19417 |
 | 0 per month | 10341 |
 | 1 per month | 8424 |
+| Not NA | 38182 |
 | NA | 49192 |
 
 
@@ -8295,6 +8867,7 @@ T_1822_1:SKJEMA2W; (T_1822_1:SKJEMA2DBG); (T_1822_1:SKJEMA2D); (T_1822_1:SKJEMA2
 | -------- | - |
 | 1 per day | 176 |
 | 2+ per day | 27 |
+| Not NA | 203 |
 | NA | 87171 |
 
 
@@ -8307,6 +8880,7 @@ T_1822_2:SKJEMA2W; (T_1822_2:SKJEMA2DBG); (T_1822_2:SKJEMA2D); (T_1822_2:SKJEMA2
 | 1-2 per week | 16069 |
 | 3-4 per week | 4224 |
 | 5-6 per week | 760 |
+| Not NA | 21053 |
 | NA | 66321 |
 
 
@@ -8319,6 +8893,7 @@ T_1822_3:SKJEMA2W; (T_1822_3:SKJEMA2DBG); (T_1822_3:SKJEMA2D); (T_1822_3:SKJEMA2
 | 0 per month | 18169 |
 | 2-3 per month | 26291 |
 | 1 per month | 17838 |
+| Not NA | 62298 |
 | NA | 25076 |
 
 
@@ -8330,6 +8905,7 @@ T_1823_1:SKJEMA2W; (T_1823_1:SKJEMA2DBG); (T_1823_1:SKJEMA2D); (T_1823_1:SKJEMA2
 | -------- | - |
 | 1 per day | 51 |
 | 2+ per day | 15 |
+| Not NA | 66 |
 | NA | 87308 |
 
 
@@ -8342,6 +8918,7 @@ T_1823_2:SKJEMA2W; (T_1823_2:SKJEMA2DBG); (T_1823_2:SKJEMA2D); (T_1823_2:SKJEMA2
 | 1-2 per week | 1573 |
 | 3-4 per week | 310 |
 | 5-6 per week | 65 |
+| Not NA | 1948 |
 | NA | 85426 |
 
 
@@ -8354,6 +8931,7 @@ T_1823_3:SKJEMA2W; (T_1823_3:SKJEMA2DBG); (T_1823_3:SKJEMA2D); (T_1823_3:SKJEMA2
 | 0 per month | 50060 |
 | 1 per month | 21541 |
 | 2-3 per month | 8654 |
+| Not NA | 80255 |
 | NA | 7119 |
 
 
@@ -8365,6 +8943,7 @@ T_1824_1:SKJEMA2W; (T_1824_1:SKJEMA2DBG); (T_1824_1:SKJEMA2D); (T_1824_1:SKJEMA2
 | -------- | - |
 | 1 per day | 152 |
 | 2+ per day | 32 |
+| Not NA | 184 |
 | NA | 87190 |
 
 
@@ -8377,6 +8956,7 @@ T_1824_2:SKJEMA2W; (T_1824_2:SKJEMA2DBG); (T_1824_2:SKJEMA2D); (T_1824_2:SKJEMA2
 | 1-2 per week | 6273 |
 | 3-4 per week | 1723 |
 | 5-6 per week | 356 |
+| Not NA | 8352 |
 | NA | 79022 |
 
 
@@ -8389,6 +8969,7 @@ T_1824_3:SKJEMA2W; (T_1824_3:SKJEMA2DBG); (T_1824_3:SKJEMA2D); (T_1824_3:SKJEMA2
 | 0 per month | 45357 |
 | 2-3 per month | 13299 |
 | 1 per month | 15804 |
+| Not NA | 74460 |
 | NA | 12914 |
 
 
@@ -8400,6 +8981,7 @@ T_1825_1:SKJEMA2W; (T_1825_1:SKJEMA2DBG); (T_1825_1:SKJEMA2D); (T_1825_1:SKJEMA2
 | -------- | - |
 | 1 per day | 1973 |
 | 2+ per day | 233 |
+| Not NA | 2206 |
 | NA | 85168 |
 
 
@@ -8412,6 +8994,7 @@ T_1825_2:SKJEMA2W; (T_1825_2:SKJEMA2DBG); (T_1825_2:SKJEMA2D); (T_1825_2:SKJEMA2
 | 1-2 per week | 31096 |
 | 3-4 per week | 14361 |
 | 5-6 per week | 4115 |
+| Not NA | 49572 |
 | NA | 37802 |
 
 
@@ -8424,6 +9007,7 @@ T_1825_3:SKJEMA2W; (T_1825_3:SKJEMA2DBG); (T_1825_3:SKJEMA2D); (T_1825_3:SKJEMA2
 | 2-3 per month | 22720 |
 | 1 per month | 6007 |
 | 0 per month | 4486 |
+| Not NA | 33213 |
 | NA | 54161 |
 
 
@@ -8435,6 +9019,7 @@ T_1826_1:SKJEMA2W; (T_1826_1:SKJEMA2DBG); (T_1826_1:SKJEMA2D); (T_1826_1:SKJEMA2
 | -------- | - |
 | 1 per day | 89 |
 | 2+ per day | 14 |
+| Not NA | 103 |
 | NA | 87271 |
 
 
@@ -8447,6 +9032,7 @@ T_1826_2:SKJEMA2W; (T_1826_2:SKJEMA2DBG); (T_1826_2:SKJEMA2D); (T_1826_2:SKJEMA2
 | 1-2 per week | 2783 |
 | 3-4 per week | 721 |
 | 5-6 per week | 177 |
+| Not NA | 3681 |
 | NA | 83693 |
 
 
@@ -8459,6 +9045,7 @@ T_1826_3:SKJEMA2W; (T_1826_3:SKJEMA2DBG); (T_1826_3:SKJEMA2D); (T_1826_3:SKJEMA2
 | 0 per month | 51869 |
 | 1 per month | 16826 |
 | 2-3 per month | 9808 |
+| Not NA | 78503 |
 | NA | 8871 |
 
 
@@ -8470,6 +9057,7 @@ T_1827_1:SKJEMA2W; (T_1827_1:SKJEMA2DBG); (T_1827_1:SKJEMA2D); (T_1827_1:SKJEMA2
 | -------- | - |
 | 1 per day | 71 |
 | 2+ per day | 15 |
+| Not NA | 86 |
 | NA | 87288 |
 
 
@@ -8482,6 +9070,7 @@ T_1827_2:SKJEMA2W; (T_1827_2:SKJEMA2DBG); (T_1827_2:SKJEMA2D); (T_1827_2:SKJEMA2
 | 1-2 per week | 3385 |
 | 3-4 per week | 756 |
 | 5-6 per week | 174 |
+| Not NA | 4315 |
 | NA | 83059 |
 
 
@@ -8494,6 +9083,7 @@ T_1827_3:SKJEMA2W; (T_1827_3:SKJEMA2DBG); (T_1827_3:SKJEMA2D); (T_1827_3:SKJEMA2
 | 0 per month | 60920 |
 | 1 per month | 9313 |
 | 2-3 per month | 7756 |
+| Not NA | 77989 |
 | NA | 9385 |
 
 
@@ -8505,6 +9095,7 @@ T_1828_1:SKJEMA2W; (T_1828_1:SKJEMA2DBG); (T_1828_1:SKJEMA2D); (T_1828_1:SKJEMA2
 | -------- | - |
 | 1 per day | 113 |
 | 2+ per day | 32 |
+| Not NA | 145 |
 | NA | 87229 |
 
 
@@ -8517,6 +9108,7 @@ T_1828_2:SKJEMA2W; (T_1828_2:SKJEMA2DBG); (T_1828_2:SKJEMA2D); (T_1828_2:SKJEMA2
 | 1-2 per week | 17787 |
 | 3-4 per week | 3776 |
 | 5-6 per week | 578 |
+| Not NA | 22141 |
 | NA | 65233 |
 
 
@@ -8529,6 +9121,7 @@ T_1828_3:SKJEMA2W; (T_1828_3:SKJEMA2DBG); (T_1828_3:SKJEMA2D); (T_1828_3:SKJEMA2
 | 2-3 per month | 30779 |
 | 0 per month | 16780 |
 | 1 per month | 14073 |
+| Not NA | 61632 |
 | NA | 25742 |
 
 
@@ -8540,6 +9133,7 @@ T_1829_1:SKJEMA2W; (T_1829_1:SKJEMA2DBG); (T_1829_1:SKJEMA2D); (T_1829_1:SKJEMA2
 | -------- | - |
 | 1 per day | 36 |
 | 2+ per day | 7 |
+| Not NA | 43 |
 | NA | 87331 |
 
 
@@ -8552,6 +9146,7 @@ T_1829_2:SKJEMA2W; (T_1829_2:SKJEMA2DBG); (T_1829_2:SKJEMA2D); (T_1829_2:SKJEMA2
 | 1-2 per week | 974 |
 | 3-4 per week | 164 |
 | 5-6 per week | 43 |
+| Not NA | 1181 |
 | NA | 86193 |
 
 
@@ -8564,6 +9159,7 @@ T_1829_3:SKJEMA2W; (T_1829_3:SKJEMA2DBG); (T_1829_3:SKJEMA2D); (T_1829_3:SKJEMA2
 | 0 per month | 67052 |
 | 1 per month | 9662 |
 | 2-3 per month | 4035 |
+| Not NA | 80749 |
 | NA | 6625 |
 
 
@@ -8575,6 +9171,7 @@ T_1830_1:SKJEMA2W; (T_1830_1:SKJEMA2DBG); (T_1830_1:SKJEMA2D); (T_1830_1:SKJEMA2
 | -------- | - |
 | 2+ per day | 19 |
 | 1 per day | 58 |
+| Not NA | 77 |
 | NA | 87297 |
 
 
@@ -8587,6 +9184,7 @@ T_1830_2:SKJEMA2W; (T_1830_2:SKJEMA2DBG); (T_1830_2:SKJEMA2D); (T_1830_2:SKJEMA2
 | 1-2 per week | 1311 |
 | 3-4 per week | 314 |
 | 5-6 per week | 91 |
+| Not NA | 1716 |
 | NA | 85658 |
 
 
@@ -8599,6 +9197,7 @@ T_1830_3:SKJEMA2W; (T_1830_3:SKJEMA2DBG); (T_1830_3:SKJEMA2D); (T_1830_3:SKJEMA2
 | 0 per month | 64434 |
 | 1 per month | 10524 |
 | 2-3 per month | 5591 |
+| Not NA | 80549 |
 | NA | 6825 |
 
 
@@ -8610,6 +9209,7 @@ T_1831_1:SKJEMA2W; (T_1831_1:SKJEMA2DBG); (T_1831_1:SKJEMA2D); (T_1831_1:SKJEMA2
 | -------- | - |
 | 1 per day | 78 |
 | 2+ per day | 19 |
+| Not NA | 97 |
 | NA | 87277 |
 
 
@@ -8622,6 +9222,7 @@ T_1831_2:SKJEMA2W; (T_1831_2:SKJEMA2DBG); (T_1831_2:SKJEMA2D); (T_1831_2:SKJEMA2
 | 1-2 per week | 3631 |
 | 3-4 per week | 1025 |
 | 5-6 per week | 189 |
+| Not NA | 4845 |
 | NA | 82529 |
 
 
@@ -8634,6 +9235,7 @@ T_1831_3:SKJEMA2W; (T_1831_3:SKJEMA2DBG); (T_1831_3:SKJEMA2D); (T_1831_3:SKJEMA2
 | 0 per month | 53629 |
 | 2-3 per month | 10711 |
 | 1 per month | 13080 |
+| Not NA | 77420 |
 | NA | 9954 |
 
 
@@ -8645,6 +9247,7 @@ T_1832_1:SKJEMA2W; (T_1832_1:SKJEMA2DBG); (T_1832_1:SKJEMA2D); (T_1832_1:SKJEMA2
 | -------- | - |
 | 1 per day | 6164 |
 | 2+ per day | 1592 |
+| Not NA | 7756 |
 | NA | 79618 |
 
 
@@ -8657,6 +9260,7 @@ T_1832_2:SKJEMA2W; (T_1832_2:SKJEMA2DBG); (T_1832_2:SKJEMA2D); (T_1832_2:SKJEMA2
 | 1-2 per week | 24182 |
 | 3-4 per week | 20235 |
 | 5-6 per week | 8990 |
+| Not NA | 53407 |
 | NA | 33967 |
 
 
@@ -8669,6 +9273,7 @@ T_1832_3:SKJEMA2W; (T_1832_3:SKJEMA2DBG); (T_1832_3:SKJEMA2D); (T_1832_3:SKJEMA2
 | 2-3 per month | 12612 |
 | 1 per month | 3394 |
 | 0 per month | 8199 |
+| Not NA | 24205 |
 | NA | 63169 |
 
 
@@ -8680,6 +9285,7 @@ T_1833_1:SKJEMA2W; (T_1833_1:SKJEMA2DBG); (T_1833_1:SKJEMA2D); (T_1833_1:SKJEMA2
 | -------- | - |
 | 1 per day | 1500 |
 | 2+ per day | 352 |
+| Not NA | 1852 |
 | NA | 85522 |
 
 
@@ -8692,6 +9298,7 @@ T_1833_2:SKJEMA2W; (T_1833_2:SKJEMA2DBG); (T_1833_2:SKJEMA2D); (T_1833_2:SKJEMA2
 | 1-2 per week | 11250 |
 | 5-6 per week | 2047 |
 | 3-4 per week | 5898 |
+| Not NA | 19195 |
 | NA | 68179 |
 
 
@@ -8704,6 +9311,7 @@ T_1833_3:SKJEMA2W; (T_1833_3:SKJEMA2DBG); (T_1833_3:SKJEMA2D); (T_1833_3:SKJEMA2
 | 1 per month | 10508 |
 | 2-3 per month | 14699 |
 | 0 per month | 33831 |
+| Not NA | 59038 |
 | NA | 28336 |
 
 
@@ -8715,6 +9323,7 @@ T_19_1_1:SKJEMA2W; (T_19_1_1:SKJEMA2DBG); (T_19_1_1:SKJEMA2D); (T_19_1_1:SKJEMA2
 | -------- | - |
 | 1 per day | 239 |
 | 2+ per day | 21 |
+| Not NA | 260 |
 | NA | 87114 |
 
 
@@ -8727,6 +9336,7 @@ T_19_1_2:SKJEMA2W; (T_19_1_2:SKJEMA2DBG); (T_19_1_2:SKJEMA2D); (T_19_1_2:SKJEMA2
 | 5-6 per week | 374 |
 | 1-2 per week | 10671 |
 | 3-4 per week | 2631 |
+| Not NA | 13676 |
 | NA | 73698 |
 
 
@@ -8739,6 +9349,7 @@ T_19_1_3:SKJEMA2W; (T_19_1_3:SKJEMA2DBG); (T_19_1_3:SKJEMA2D); (T_19_1_3:SKJEMA2
 | 0 per month | 36604 |
 | 2-3 per month | 18564 |
 | 1 per month | 14837 |
+| Not NA | 70005 |
 | NA | 17369 |
 
 
@@ -8750,6 +9361,7 @@ T_19_2_1:SKJEMA2W; (T_19_2_1:SKJEMA2DBG); (T_19_2_1:SKJEMA2D); (T_19_2_1:SKJEMA2
 | -------- | - |
 | 1 per day | 170 |
 | 2+ per day | 10 |
+| Not NA | 180 |
 | NA | 87194 |
 
 
@@ -8762,6 +9374,7 @@ T_19_2_2:SKJEMA2W; (T_19_2_2:SKJEMA2DBG); (T_19_2_2:SKJEMA2D); (T_19_2_2:SKJEMA2
 | 5-6 per week | 179 |
 | 3-4 per week | 1181 |
 | 1-2 per week | 5089 |
+| Not NA | 6449 |
 | NA | 80925 |
 
 
@@ -8774,6 +9387,7 @@ T_19_2_3:SKJEMA2W; (T_19_2_3:SKJEMA2DBG); (T_19_2_3:SKJEMA2D); (T_19_2_3:SKJEMA2
 | 0 per month | 52927 |
 | 1 per month | 11603 |
 | 2-3 per month | 11262 |
+| Not NA | 75792 |
 | NA | 11582 |
 
 
@@ -8785,6 +9399,7 @@ T_19_3_1:SKJEMA2W; (T_19_3_1:SKJEMA2DBG); (T_19_3_1:SKJEMA2D); (T_19_3_1:SKJEMA2
 | -------- | - |
 | 1 per day | 223 |
 | 2+ per day | 32 |
+| Not NA | 255 |
 | NA | 87119 |
 
 
@@ -8797,6 +9412,7 @@ T_19_3_2:SKJEMA2W; (T_19_3_2:SKJEMA2DBG); (T_19_3_2:SKJEMA2D); (T_19_3_2:SKJEMA2
 | 5-6 per week | 393 |
 | 1-2 per week | 5815 |
 | 3-4 per week | 1737 |
+| Not NA | 7945 |
 | NA | 79429 |
 
 
@@ -8809,6 +9425,7 @@ T_19_3_3:SKJEMA2W; (T_19_3_3:SKJEMA2DBG); (T_19_3_3:SKJEMA2D); (T_19_3_3:SKJEMA2
 | 0 per month | 52231 |
 | 2-3 per month | 13313 |
 | 1 per month | 9023 |
+| Not NA | 74567 |
 | NA | 12807 |
 
 
@@ -8820,6 +9437,7 @@ T_19_4_1:SKJEMA2W; (T_19_4_1:SKJEMA2DBG); (T_19_4_1:SKJEMA2D); (T_19_4_1:SKJEMA2
 | -------- | - |
 | 2+ per day | 19 |
 | 1 per day | 117 |
+| Not NA | 136 |
 | NA | 87238 |
 
 
@@ -8832,6 +9450,7 @@ T_19_4_2:SKJEMA2W; (T_19_4_2:SKJEMA2DBG); (T_19_4_2:SKJEMA2D); (T_19_4_2:SKJEMA2
 | 5-6 per week | 221 |
 | 1-2 per week | 6291 |
 | 3-4 per week | 1252 |
+| Not NA | 7764 |
 | NA | 79610 |
 
 
@@ -8844,6 +9463,7 @@ T_19_4_3:SKJEMA2W; (T_19_4_3:SKJEMA2DBG); (T_19_4_3:SKJEMA2D); (T_19_4_3:SKJEMA2
 | 0 per month | 40298 |
 | 1 per month | 16808 |
 | 2-3 per month | 18364 |
+| Not NA | 75470 |
 | NA | 11904 |
 
 
@@ -8855,6 +9475,7 @@ T_19_5_1:SKJEMA2W; (T_19_5_1:SKJEMA2DBG); (T_19_5_1:SKJEMA2D); (T_19_5_1:SKJEMA2
 | -------- | - |
 | 1 per day | 373 |
 | 2+ per day | 30 |
+| Not NA | 403 |
 | NA | 86971 |
 
 
@@ -8867,6 +9488,7 @@ T_19_5_2:SKJEMA2W; (T_19_5_2:SKJEMA2DBG); (T_19_5_2:SKJEMA2D); (T_19_5_2:SKJEMA2
 | 3-4 per week | 3025 |
 | 1-2 per week | 7454 |
 | 5-6 per week | 801 |
+| Not NA | 11280 |
 | NA | 76094 |
 
 
@@ -8879,6 +9501,7 @@ T_19_5_3:SKJEMA2W; (T_19_5_3:SKJEMA2DBG); (T_19_5_3:SKJEMA2D); (T_19_5_3:SKJEMA2
 | 0 per month | 50527 |
 | 1 per month | 8257 |
 | 2-3 per month | 11552 |
+| Not NA | 70336 |
 | NA | 17038 |
 
 
@@ -8890,6 +9513,7 @@ T_19_6_1:SKJEMA2W; (T_19_6_1:SKJEMA2DBG); (T_19_6_1:SKJEMA2D); (T_19_6_1:SKJEMA2
 | -------- | - |
 | 1 per day | 37 |
 | 2+ per day | 7 |
+| Not NA | 44 |
 | NA | 87330 |
 
 
@@ -8902,6 +9526,7 @@ T_19_6_2:SKJEMA2W; (T_19_6_2:SKJEMA2DBG); (T_19_6_2:SKJEMA2D); (T_19_6_2:SKJEMA2
 | 1-2 per week | 1098 |
 | 3-4 per week | 227 |
 | 5-6 per week | 56 |
+| Not NA | 1381 |
 | NA | 85993 |
 
 
@@ -8914,6 +9539,7 @@ T_19_6_3:SKJEMA2W; (T_19_6_3:SKJEMA2DBG); (T_19_6_3:SKJEMA2D); (T_19_6_3:SKJEMA2
 | 0 per month | 71776 |
 | 1 per month | 3868 |
 | 2-3 per month | 2655 |
+| Not NA | 78299 |
 | NA | 9075 |
 
 
@@ -8925,6 +9551,7 @@ T_19_7_1:SKJEMA2W; (T_19_7_1:SKJEMA2DBG); (T_19_7_1:SKJEMA2D); (T_19_7_1:SKJEMA2
 | -------- | - |
 | 1 per day | 108 |
 | 2+ per day | 18 |
+| Not NA | 126 |
 | NA | 87248 |
 
 
@@ -8937,6 +9564,7 @@ T_19_7_2:SKJEMA2W; (T_19_7_2:SKJEMA2DBG); (T_19_7_2:SKJEMA2D); (T_19_7_2:SKJEMA2
 | 1-2 per week | 6502 |
 | 5-6 per week | 188 |
 | 3-4 per week | 1275 |
+| Not NA | 7965 |
 | NA | 79409 |
 
 
@@ -8949,6 +9577,7 @@ T_19_7_3:SKJEMA2W; (T_19_7_3:SKJEMA2DBG); (T_19_7_3:SKJEMA2D); (T_19_7_3:SKJEMA2
 | 0 per month | 43248 |
 | 2-3 per month | 16656 |
 | 1 per month | 14233 |
+| Not NA | 74137 |
 | NA | 13237 |
 
 
@@ -8963,6 +9592,7 @@ T_20_1:SKJEMA2W; (T_20_1:SKJEMA2DBG); (T_20_1:SKJEMA2D); (T_20_1:SKJEMA2C); Cass
 | More vegetables than meat | 27093 |
 | More meat than vegetables | 11250 |
 | More than 1 check box filled in | 34 |
+| Not NA | 84837 |
 | NA | 2537 |
 
 
@@ -8977,6 +9607,7 @@ T_20_2:SKJEMA2W; (T_20_2:SKJEMA2DBG); (T_20_2:SKJEMA2D); (T_20_2:SKJEMA2C); Cass
 | Same amount meat and veg. | 1102 |
 | More vegetables than meat | 1150 |
 | More than 1 check box filled in | 72 |
+| Not NA | 83083 |
 | NA | 4291 |
 
 
@@ -8991,6 +9622,7 @@ T_20_3:SKJEMA2W; (T_20_3:SKJEMA2DBG); (T_20_3:SKJEMA2D); (T_20_3:SKJEMA2C); Cass
 | Have not eaten | 8398 |
 | More vegetables than meat | 20908 |
 | More than 1 check box filled in | 30 |
+| Not NA | 85612 |
 | NA | 1762 |
 
 
@@ -9005,6 +9637,7 @@ T_21_1:SKJEMA2W; (T_21_1_1:SKJEMA2DBG); (T_21_1_1:SKJEMA2D); (T_21_1_1:SKJEMA2C)
 | 4-5 per day | 7841 |
 | 8+ per day | 488 |
 | 6-7 per day | 1166 |
+| Not NA | 69600 |
 | NA | 17774 |
 
 
@@ -9017,6 +9650,7 @@ T_21_2:SKJEMA2W; (T_21_1_2:SKJEMA2DBG); (T_21_1_2:SKJEMA2D); (T_21_1_2:SKJEMA2C)
 | 3-4 per week | 6392 |
 | 5-6 per week | 6555 |
 | 1-2 per week | 2514 |
+| Not NA | 15461 |
 | NA | 71913 |
 
 
@@ -9029,6 +9663,7 @@ T_21_3:SKJEMA2W; (T_21_1_3:SKJEMA2DBG); (T_21_1_3:SKJEMA2D); (T_21_1_3:SKJEMA2C)
 | 2-3 per month | 928 |
 | 1 per month | 136 |
 | 0 per month | 135 |
+| Not NA | 1199 |
 | NA | 86175 |
 
 
@@ -9042,6 +9677,7 @@ T_22_1_1:SKJEMA2W; (T_22_1_1:SKJEMA2DBG); (T_22_1_1:SKJEMA2D); (T_22_1_1:SKJEMA2
 | 1 per day | 11034 |
 | 3 per day | 1342 |
 | 4+ per day | 745 |
+| Not NA | 17653 |
 | NA | 69721 |
 
 
@@ -9054,6 +9690,7 @@ T_22_1_2:SKJEMA2W; (T_22_1_2:SKJEMA2DBG); (T_22_1_2:SKJEMA2D); (T_22_1_2:SKJEMA2
 | 1-2 per week | 17817 |
 | 3-4 per week | 13360 |
 | 5-6 per week | 5667 |
+| Not NA | 36844 |
 | NA | 50530 |
 
 
@@ -9066,6 +9703,7 @@ T_22_1_3:SKJEMA2W; (T_22_1_3:SKJEMA2DBG); (T_22_1_3:SKJEMA2D); (T_22_1_3:SKJEMA2
 | 0 per month | 7470 |
 | 1 per month | 8099 |
 | 2-3 per month | 15422 |
+| Not NA | 30991 |
 | NA | 56383 |
 
 
@@ -9079,6 +9717,7 @@ T_22_2_1:SKJEMA2W; (T_22_2_1:SKJEMA2DBG); (T_22_2_1:SKJEMA2D); (T_22_2_1:SKJEMA2
 | 3 per day | 245 |
 | 2 per day | 1755 |
 | 4+ per day | 94 |
+| Not NA | 14157 |
 | NA | 73217 |
 
 
@@ -9091,6 +9730,7 @@ T_22_2_2:SKJEMA2W; (T_22_2_2:SKJEMA2DBG); (T_22_2_2:SKJEMA2D); (T_22_2_2:SKJEMA2
 | 1-2 per week | 25068 |
 | 3-4 per week | 17582 |
 | 5-6 per week | 6466 |
+| Not NA | 49116 |
 | NA | 38258 |
 
 
@@ -9103,6 +9743,7 @@ T_22_2_3:SKJEMA2W; (T_22_2_3:SKJEMA2DBG); (T_22_2_3:SKJEMA2D); (T_22_2_3:SKJEMA2
 | 0 per month | 4862 |
 | 2-3 per month | 13130 |
 | 1 per month | 4909 |
+| Not NA | 22901 |
 | NA | 64473 |
 
 
@@ -9116,6 +9757,7 @@ T_22_3_1:SKJEMA2W; (T_22_3_1:SKJEMA2DBG); (T_22_3_1:SKJEMA2D); (T_22_3_1:SKJEMA2
 | 2 per day | 1223 |
 | 3 per day | 458 |
 | 4+ per day | 421 |
+| Not NA | 6122 |
 | NA | 81252 |
 
 
@@ -9128,6 +9770,7 @@ T_22_3_2:SKJEMA2W; (T_22_3_2:SKJEMA2DBG); (T_22_3_2:SKJEMA2D); (T_22_3_2:SKJEMA2
 | 5-6 per week | 5257 |
 | 3-4 per week | 13494 |
 | 1-2 per week | 24245 |
+| Not NA | 42996 |
 | NA | 44378 |
 
 
@@ -9140,6 +9783,7 @@ T_22_3_3:SKJEMA2W; (T_22_3_3:SKJEMA2DBG); (T_22_3_3:SKJEMA2D); (T_22_3_3:SKJEMA2
 | 2-3 per month | 22480 |
 | 1 per month | 8283 |
 | 0 per month | 5508 |
+| Not NA | 36271 |
 | NA | 51103 |
 
 
@@ -9153,6 +9797,7 @@ T_22_4_1:SKJEMA2W; (T_22_4_1:SKJEMA2DBG); (T_22_4_1:SKJEMA2D); (T_22_4_1:SKJEMA2
 | 2 per day | 5291 |
 | 3 per day | 846 |
 | 4+ per day | 280 |
+| Not NA | 24596 |
 | NA | 62778 |
 
 
@@ -9165,6 +9810,7 @@ T_22_4_2:SKJEMA2W; (T_22_4_2:SKJEMA2DBG); (T_22_4_2:SKJEMA2D); (T_22_4_2:SKJEMA2
 | 1-2 per week | 19077 |
 | 5-6 per week | 9592 |
 | 3-4 per week | 17629 |
+| Not NA | 46298 |
 | NA | 41076 |
 
 
@@ -9177,6 +9823,7 @@ T_22_4_3:SKJEMA2W; (T_22_4_3:SKJEMA2DBG); (T_22_4_3:SKJEMA2D); (T_22_4_3:SKJEMA2
 | 1 per month | 3147 |
 | 2-3 per month | 8772 |
 | 0 per month | 3840 |
+| Not NA | 15759 |
 | NA | 71615 |
 
 
@@ -9190,6 +9837,7 @@ T_22_5_1:SKJEMA2W; (T_22_5_1:SKJEMA2DBG); (T_22_5_1:SKJEMA2D); (T_22_5_1:SKJEMA2
 | 2 per day | 796 |
 | 4+ per day | 114 |
 | 3 per day | 228 |
+| Not NA | 3063 |
 | NA | 84311 |
 
 
@@ -9202,6 +9850,7 @@ T_22_5_2:SKJEMA2W; (T_22_5_2:SKJEMA2DBG); (T_22_5_2:SKJEMA2D); (T_22_5_2:SKJEMA2
 | 1-2 per week | 8657 |
 | 5-6 per week | 1948 |
 | 3-4 per week | 4582 |
+| Not NA | 15187 |
 | NA | 72187 |
 
 
@@ -9214,6 +9863,7 @@ T_22_5_3:SKJEMA2W; (T_22_5_3:SKJEMA2DBG); (T_22_5_3:SKJEMA2D); (T_22_5_3:SKJEMA2
 | 2-3 per month | 13285 |
 | 0 per month | 38818 |
 | 1 per month | 12754 |
+| Not NA | 64857 |
 | NA | 22517 |
 
 
@@ -9227,6 +9877,7 @@ T_22_6_1:SKJEMA2W; (T_22_6_1:SKJEMA2DBG); (T_22_6_1:SKJEMA2D); (T_22_6_1:SKJEMA2
 | 1 per day | 299 |
 | 4+ per day | 22 |
 | 3 per day | 13 |
+| Not NA | 411 |
 | NA | 86963 |
 
 
@@ -9239,6 +9890,7 @@ T_22_6_2:SKJEMA2W; (T_22_6_2:SKJEMA2DBG); (T_22_6_2:SKJEMA2D); (T_22_6_2:SKJEMA2
 | 3-4 per week | 596 |
 | 1-2 per week | 1665 |
 | 5-6 per week | 232 |
+| Not NA | 2493 |
 | NA | 84881 |
 
 
@@ -9251,6 +9903,7 @@ T_22_6_3:SKJEMA2W; (T_22_6_3:SKJEMA2DBG); (T_22_6_3:SKJEMA2D); (T_22_6_3:SKJEMA2
 | 0 per month | 69408 |
 | 1 per month | 6282 |
 | 2-3 per month | 3612 |
+| Not NA | 79302 |
 | NA | 8072 |
 
 
@@ -9264,6 +9917,7 @@ T_22_7_1:SKJEMA2W; (T_22_7_1:SKJEMA2DBG); (T_22_7_1:SKJEMA2D); (T_22_7_1:SKJEMA2
 | 4+ per day | 93 |
 | 1 per day | 627 |
 | 2 per day | 210 |
+| Not NA | 1010 |
 | NA | 86364 |
 
 
@@ -9276,6 +9930,7 @@ T_22_7_2:SKJEMA2W; (T_22_7_2:SKJEMA2DBG); (T_22_7_2:SKJEMA2D); (T_22_7_2:SKJEMA2
 | 1-2 per week | 6848 |
 | 5-6 per week | 945 |
 | 3-4 per week | 2749 |
+| Not NA | 10542 |
 | NA | 76832 |
 
 
@@ -9288,6 +9943,7 @@ T_22_7_3:SKJEMA2W; (T_22_7_3:SKJEMA2DBG); (T_22_7_3:SKJEMA2D); (T_22_7_3:SKJEMA2
 | 0 per month | 35823 |
 | 2-3 per month | 17168 |
 | 1 per month | 18878 |
+| Not NA | 71869 |
 | NA | 15505 |
 
 
@@ -9301,6 +9957,7 @@ T_22_8_1:SKJEMA2W; (T_22_8_1:SKJEMA2DBG); (T_22_8_1:SKJEMA2D); (T_22_8_1:SKJEMA2
 | 4+ per day | 29 |
 | 2 per day | 94 |
 | 3 per day | 25 |
+| Not NA | 467 |
 | NA | 86907 |
 
 
@@ -9313,6 +9970,7 @@ T_22_8_2:SKJEMA2W; (T_22_8_2:SKJEMA2DBG); (T_22_8_2:SKJEMA2D); (T_22_8_2:SKJEMA2
 | 1-2 per week | 3791 |
 | 3-4 per week | 1116 |
 | 5-6 per week | 382 |
+| Not NA | 5289 |
 | NA | 82085 |
 
 
@@ -9325,6 +9983,7 @@ T_22_8_3:SKJEMA2W; (T_22_8_3:SKJEMA2DBG); (T_22_8_3:SKJEMA2D); (T_22_8_3:SKJEMA2
 | 1 per month | 20163 |
 | 0 per month | 44277 |
 | 2-3 per month | 12239 |
+| Not NA | 76679 |
 | NA | 10695 |
 
 
@@ -9338,6 +9997,7 @@ T_22_9_1:SKJEMA2W; (T_22_9_1:SKJEMA2DBG); (T_22_9_1:SKJEMA2D); (T_22_9_1:SKJEMA2
 | 1 per day | 183 |
 | 2 per day | 68 |
 | 3 per day | 13 |
+| Not NA | 289 |
 | NA | 87085 |
 
 
@@ -9350,6 +10010,7 @@ T_22_9_2:SKJEMA2W; (T_22_9_2:SKJEMA2DBG); (T_22_9_2:SKJEMA2D); (T_22_9_2:SKJEMA2
 | 1-2 per week | 2093 |
 | 5-6 per week | 192 |
 | 3-4 per week | 604 |
+| Not NA | 2889 |
 | NA | 84485 |
 
 
@@ -9362,6 +10023,7 @@ T_22_9_3:SKJEMA2W; (T_22_9_3:SKJEMA2DBG); (T_22_9_3:SKJEMA2D); (T_22_9_3:SKJEMA2
 | 0 per month | 60018 |
 | 1 per month | 12543 |
 | 2-3 per month | 6702 |
+| Not NA | 79263 |
 | NA | 8111 |
 
 
@@ -9375,6 +10037,7 @@ T_2210_1:SKJEMA2W; (T_2210_1:SKJEMA2DBG); (T_2210_1:SKJEMA2D); (T_2210_1:SKJEMA2
 | 3 per day | 133 |
 | 1 per day | 768 |
 | 4+ per day | 106 |
+| Not NA | 1295 |
 | NA | 86079 |
 
 
@@ -9387,6 +10050,7 @@ T_2210_2:SKJEMA2W; (T_2210_2:SKJEMA2DBG); (T_2210_2:SKJEMA2D); (T_2210_2:SKJEMA2
 | 3-4 per week | 2753 |
 | 1-2 per week | 7571 |
 | 5-6 per week | 1057 |
+| Not NA | 11381 |
 | NA | 75993 |
 
 
@@ -9399,6 +10063,7 @@ T_2210_3:SKJEMA2W; (T_2210_3:SKJEMA2DBG); (T_2210_3:SKJEMA2D); (T_2210_3:SKJEMA2
 | 0 per month | 29161 |
 | 2-3 per month | 20739 |
 | 1 per month | 20744 |
+| Not NA | 70644 |
 | NA | 16730 |
 
 
@@ -9412,6 +10077,7 @@ T_2211_1:SKJEMA2W; (T_2211_1:SKJEMA2DBG); (T_2211_1:SKJEMA2D); (T_2211_1:SKJEMA2
 | 1 per day | 56 |
 | 2 per day | 18 |
 | 3 per day | 4 |
+| Not NA | 87 |
 | NA | 87287 |
 
 
@@ -9424,6 +10090,7 @@ T_2211_2:SKJEMA2W; (T_2211_2:SKJEMA2DBG); (T_2211_2:SKJEMA2D); (T_2211_2:SKJEMA2
 | 1-2 per week | 279 |
 | 3-4 per week | 109 |
 | 5-6 per week | 39 |
+| Not NA | 427 |
 | NA | 86947 |
 
 
@@ -9436,6 +10103,7 @@ T_2211_3:SKJEMA2W; (T_2211_3:SKJEMA2DBG); (T_2211_3:SKJEMA2D); (T_2211_3:SKJEMA2
 | 0 per month | 77704 |
 | 1 per month | 2681 |
 | 2-3 per month | 885 |
+| Not NA | 81270 |
 | NA | 6104 |
 
 
@@ -9449,6 +10117,7 @@ T_2212_1:SKJEMA2W; (T_2212_1:SKJEMA2DBG); (T_2212_1:SKJEMA2D); (T_2212_1:SKJEMA2
 | 2 per day | 335 |
 | 3 per day | 166 |
 | 4+ per day | 128 |
+| Not NA | 1253 |
 | NA | 86121 |
 
 
@@ -9461,6 +10130,7 @@ T_2212_2:SKJEMA2W; (T_2212_2:SKJEMA2DBG); (T_2212_2:SKJEMA2D); (T_2212_2:SKJEMA2
 | 1-2 per week | 5128 |
 | 5-6 per week | 952 |
 | 3-4 per week | 2035 |
+| Not NA | 8115 |
 | NA | 79259 |
 
 
@@ -9473,6 +10143,7 @@ T_2212_3:SKJEMA2W; (T_2212_3:SKJEMA2DBG); (T_2212_3:SKJEMA2D); (T_2212_3:SKJEMA2
 | 0 per month | 44298 |
 | 1 per month | 14998 |
 | 2-3 per month | 14022 |
+| Not NA | 73318 |
 | NA | 14056 |
 
 
@@ -9486,6 +10157,7 @@ T_2213_1:SKJEMA2W; (T_2213_1:SKJEMA2DBG); (T_2213_1:SKJEMA2D); (T_2213_1:SKJEMA2
 | 3 per day | 106 |
 | 2 per day | 575 |
 | 4+ per day | 48 |
+| Not NA | 4415 |
 | NA | 82959 |
 
 
@@ -9498,6 +10170,7 @@ T_2213_2:SKJEMA2W; (T_2213_2:SKJEMA2DBG); (T_2213_2:SKJEMA2D); (T_2213_2:SKJEMA2
 | 5-6 per week | 2415 |
 | 1-2 per week | 15916 |
 | 3-4 per week | 6719 |
+| Not NA | 25050 |
 | NA | 62324 |
 
 
@@ -9510,6 +10183,7 @@ T_2213_3:SKJEMA2W; (T_2213_3:SKJEMA2DBG); (T_2213_3:SKJEMA2D); (T_2213_3:SKJEMA2
 | 0 per month | 19423 |
 | 2-3 per month | 21453 |
 | 1 per month | 13870 |
+| Not NA | 54746 |
 | NA | 32628 |
 
 
@@ -9523,6 +10197,7 @@ T_2214_1:SKJEMA2W; (T_2214_1:SKJEMA2DBG); (T_2214_1:SKJEMA2D); (T_2214_1:SKJEMA2
 | 2 per day | 544 |
 | 3 per day | 164 |
 | 4+ per day | 110 |
+| Not NA | 3025 |
 | NA | 84349 |
 
 
@@ -9535,6 +10210,7 @@ T_2214_2:SKJEMA2W; (T_2214_2:SKJEMA2DBG); (T_2214_2:SKJEMA2D); (T_2214_2:SKJEMA2
 | 1-2 per week | 7805 |
 | 3-4 per week | 3441 |
 | 5-6 per week | 1454 |
+| Not NA | 12700 |
 | NA | 74674 |
 
 
@@ -9547,6 +10223,7 @@ T_2214_3:SKJEMA2W; (T_2214_3:SKJEMA2DBG); (T_2214_3:SKJEMA2D); (T_2214_3:SKJEMA2
 | 0 per month | 41547 |
 | 2-3 per month | 12398 |
 | 1 per month | 9712 |
+| Not NA | 63657 |
 | NA | 23717 |
 
 
@@ -9560,6 +10237,7 @@ T_23_1_1:SKJEMA2W; (T_23_1_1:SKJEMA2DBG); (T_23_1_1:SKJEMA2D); (T_23_1_1:SKJEMA2
 | 1 per day | 273 |
 | 4+ per day | 32 |
 | 2 per day | 94 |
+| Not NA | 427 |
 | NA | 86947 |
 
 
@@ -9572,6 +10250,7 @@ T_23_1_2:SKJEMA2W; (T_23_1_2:SKJEMA2DBG); (T_23_1_2:SKJEMA2D); (T_23_1_2:SKJEMA2
 | 1-2 per week | 1801 |
 | 5-6 per week | 229 |
 | 3-4 per week | 716 |
+| Not NA | 2746 |
 | NA | 84628 |
 
 
@@ -9584,6 +10263,7 @@ T_23_1_3:SKJEMA2W; (T_23_1_3:SKJEMA2DBG); (T_23_1_3:SKJEMA2D); (T_23_1_3:SKJEMA2
 | 0 per month | 66216 |
 | 1 per month | 8180 |
 | 2-3 per month | 5317 |
+| Not NA | 79713 |
 | NA | 7661 |
 
 
@@ -9597,6 +10277,7 @@ T_23_2_1:SKJEMA2W; (T_23_2_1:SKJEMA2DBG); (T_23_2_1:SKJEMA2D); (T_23_2_1:SKJEMA2
 | 3 per day | 38 |
 | 2 per day | 128 |
 | 4+ per day | 103 |
+| Not NA | 1540 |
 | NA | 85834 |
 
 
@@ -9609,6 +10290,7 @@ T_23_2_2:SKJEMA2W; (T_23_2_2:SKJEMA2DBG); (T_23_2_2:SKJEMA2D); (T_23_2_2:SKJEMA2
 | 1-2 per week | 7667 |
 | 3-4 per week | 2905 |
 | 5-6 per week | 1058 |
+| Not NA | 11630 |
 | NA | 75744 |
 
 
@@ -9621,6 +10303,7 @@ T_23_2_3:SKJEMA2W; (T_23_2_3:SKJEMA2DBG); (T_23_2_3:SKJEMA2D); (T_23_2_3:SKJEMA2
 | 2-3 per month | 18164 |
 | 1 per month | 17087 |
 | 0 per month | 35535 |
+| Not NA | 70786 |
 | NA | 16588 |
 
 
@@ -9634,6 +10317,7 @@ T_23_3_1:SKJEMA2W; (T_23_3_1:SKJEMA2DBG); (T_23_3_1:SKJEMA2D); (T_23_3_1:SKJEMA2
 | 4+ per day | 84 |
 | 3 per day | 96 |
 | 2 per day | 182 |
+| Not NA | 843 |
 | NA | 86531 |
 
 
@@ -9646,6 +10330,7 @@ T_23_3_2:SKJEMA2W; (T_23_3_2:SKJEMA2DBG); (T_23_3_2:SKJEMA2D); (T_23_3_2:SKJEMA2
 | 1-2 per week | 2675 |
 | 5-6 per week | 398 |
 | 3-4 per week | 1095 |
+| Not NA | 4168 |
 | NA | 83206 |
 
 
@@ -9658,6 +10343,7 @@ T_23_3_3:SKJEMA2W; (T_23_3_3:SKJEMA2DBG); (T_23_3_3:SKJEMA2D); (T_23_3_3:SKJEMA2
 | 0 per month | 62819 |
 | 2-3 per month | 6335 |
 | 1 per month | 8721 |
+| Not NA | 77875 |
 | NA | 9499 |
 
 
@@ -9671,6 +10357,7 @@ T_23_4_1:SKJEMA2W; (T_23_4_1:SKJEMA2DBG); (T_23_4_1:SKJEMA2D); (T_23_4_1:SKJEMA2
 | 4+ per day | 22 |
 | 2 per day | 30 |
 | 3 per day | 12 |
+| Not NA | 216 |
 | NA | 87158 |
 
 
@@ -9683,6 +10370,7 @@ T_23_4_2:SKJEMA2W; (T_23_4_2:SKJEMA2DBG); (T_23_4_2:SKJEMA2D); (T_23_4_2:SKJEMA2
 | 1-2 per week | 3335 |
 | 5-6 per week | 137 |
 | 3-4 per week | 593 |
+| Not NA | 4065 |
 | NA | 83309 |
 
 
@@ -9695,6 +10383,7 @@ T_23_4_3:SKJEMA2W; (T_23_4_3:SKJEMA2DBG); (T_23_4_3:SKJEMA2D); (T_23_4_3:SKJEMA2
 | 2-3 per month | 17782 |
 | 0 per month | 36032 |
 | 1 per month | 25664 |
+| Not NA | 79478 |
 | NA | 7896 |
 
 
@@ -9708,6 +10397,7 @@ T_23_5_1:SKJEMA2W; (T_23_5_1:SKJEMA2DBG); (T_23_5_1:SKJEMA2D); (T_23_5_1:SKJEMA2
 | 4+ per day | 123 |
 | 2 per day | 148 |
 | 3 per day | 69 |
+| Not NA | 1174 |
 | NA | 86200 |
 
 
@@ -9720,6 +10410,7 @@ T_23_5_2:SKJEMA2W; (T_23_5_2:SKJEMA2DBG); (T_23_5_2:SKJEMA2D); (T_23_5_2:SKJEMA2
 | 1-2 per week | 6801 |
 | 5-6 per week | 817 |
 | 3-4 per week | 2254 |
+| Not NA | 9872 |
 | NA | 77502 |
 
 
@@ -9732,6 +10423,7 @@ T_23_5_3:SKJEMA2W; (T_23_5_3:SKJEMA2DBG); (T_23_5_3:SKJEMA2D); (T_23_5_3:SKJEMA2
 | 2-3 per month | 20756 |
 | 0 per month | 29976 |
 | 1 per month | 22447 |
+| Not NA | 73179 |
 | NA | 14195 |
 
 
@@ -9743,6 +10435,7 @@ T_24_1_1:SKJEMA2W; (T_24_1_1:SKJEMA2DBG); (T_24_1_1:SKJEMA2D); (T_24_1_1:SKJEMA2
 | -------- | - |
 | 1 per day | 70 |
 | 2+ per day | 10 |
+| Not NA | 80 |
 | NA | 87294 |
 
 
@@ -9755,6 +10448,7 @@ T_24_1_2:SKJEMA2W; (T_24_1_2:SKJEMA2DBG); (T_24_1_2:SKJEMA2D); (T_24_1_2:SKJEMA2
 | 1-2 per week | 2728 |
 | 3-4 per week | 342 |
 | 5-6 per week | 60 |
+| Not NA | 3130 |
 | NA | 84244 |
 
 
@@ -9767,6 +10461,7 @@ T_24_1_3:SKJEMA2W; (T_24_1_3:SKJEMA2DBG); (T_24_1_3:SKJEMA2D); (T_24_1_3:SKJEMA2
 | 1 per month | 34191 |
 | 0 per month | 29265 |
 | 2-3 per month | 17784 |
+| Not NA | 81240 |
 | NA | 6134 |
 
 
@@ -9778,6 +10473,7 @@ T_24_2_1:SKJEMA2W; (T_24_2_1:SKJEMA2DBG); (T_24_2_1:SKJEMA2D); (T_24_2_1:SKJEMA2
 | -------- | - |
 | 1 per day | 45 |
 | 2+ per day | 4 |
+| Not NA | 49 |
 | NA | 87325 |
 
 
@@ -9790,6 +10486,7 @@ T_24_2_2:SKJEMA2W; (T_24_2_2:SKJEMA2DBG); (T_24_2_2:SKJEMA2D); (T_24_2_2:SKJEMA2
 | 1-2 per week | 1289 |
 | 3-4 per week | 160 |
 | 5-6 per week | 24 |
+| Not NA | 1473 |
 | NA | 85901 |
 
 
@@ -9802,6 +10499,7 @@ T_24_2_3:SKJEMA2W; (T_24_2_3:SKJEMA2DBG); (T_24_2_3:SKJEMA2D); (T_24_2_3:SKJEMA2
 | 1 per month | 23150 |
 | 0 per month | 49893 |
 | 2-3 per month | 8741 |
+| Not NA | 81784 |
 | NA | 5590 |
 
 
@@ -9813,6 +10511,7 @@ T_24_3_1:SKJEMA2W; (T_24_3_1:SKJEMA2DBG); (T_24_3_1:SKJEMA2D); (T_24_3_1:SKJEMA2
 | -------- | - |
 | 1 per day | 135 |
 | 2+ per day | 19 |
+| Not NA | 154 |
 | NA | 87220 |
 
 
@@ -9825,6 +10524,7 @@ T_24_3_2:SKJEMA2W; (T_24_3_2:SKJEMA2DBG); (T_24_3_2:SKJEMA2D); (T_24_3_2:SKJEMA2
 | 1-2 per week | 3725 |
 | 3-4 per week | 649 |
 | 5-6 per week | 162 |
+| Not NA | 4536 |
 | NA | 82838 |
 
 
@@ -9837,6 +10537,7 @@ T_24_3_3:SKJEMA2W; (T_24_3_3:SKJEMA2DBG); (T_24_3_3:SKJEMA2D); (T_24_3_3:SKJEMA2
 | 1 per month | 27781 |
 | 0 per month | 33918 |
 | 2-3 per month | 17242 |
+| Not NA | 78941 |
 | NA | 8433 |
 
 
@@ -9848,6 +10549,7 @@ T_24_4_1:SKJEMA2W; (T_24_4_1:SKJEMA2DBG); (T_24_4_1:SKJEMA2D); (T_24_4_1:SKJEMA2
 | -------- | - |
 | 1 per day | 268 |
 | 2+ per day | 43 |
+| Not NA | 311 |
 | NA | 87063 |
 
 
@@ -9860,6 +10562,7 @@ T_24_4_2:SKJEMA2W; (T_24_4_2:SKJEMA2DBG); (T_24_4_2:SKJEMA2D); (T_24_4_2:SKJEMA2
 | 1-2 per week | 15167 |
 | 5-6 per week | 488 |
 | 3-4 per week | 2960 |
+| Not NA | 18615 |
 | NA | 68759 |
 
 
@@ -9872,6 +10575,7 @@ T_24_4_3:SKJEMA2W; (T_24_4_3:SKJEMA2DBG); (T_24_4_3:SKJEMA2D); (T_24_4_3:SKJEMA2
 | 1 per month | 22653 |
 | 2-3 per month | 36319 |
 | 0 per month | 7629 |
+| Not NA | 66601 |
 | NA | 20773 |
 
 
@@ -9883,6 +10587,7 @@ T_24_5_1:SKJEMA2W; (T_24_5_1:SKJEMA2DBG); (T_24_5_1:SKJEMA2D); (T_24_5_1:SKJEMA2
 | -------- | - |
 | 1 per day | 61 |
 | 2+ per day | 13 |
+| Not NA | 74 |
 | NA | 87300 |
 
 
@@ -9895,6 +10600,7 @@ T_24_5_2:SKJEMA2W; (T_24_5_2:SKJEMA2DBG); (T_24_5_2:SKJEMA2D); (T_24_5_2:SKJEMA2
 | 3-4 per week | 296 |
 | 1-2 per week | 2351 |
 | 5-6 per week | 62 |
+| Not NA | 2709 |
 | NA | 84665 |
 
 
@@ -9907,6 +10613,7 @@ T_24_5_3:SKJEMA2W; (T_24_5_3:SKJEMA2DBG); (T_24_5_3:SKJEMA2D); (T_24_5_3:SKJEMA2
 | 0 per month | 59613 |
 | 2-3 per month | 7787 |
 | 1 per month | 12623 |
+| Not NA | 80023 |
 | NA | 7351 |
 
 
@@ -9918,6 +10625,7 @@ T_24_6_1:SKJEMA2W; (T_24_6_1:SKJEMA2DBG); (T_24_6_1:SKJEMA2D); (T_24_6_1:SKJEMA2
 | -------- | - |
 | 1 per day | 198 |
 | 2+ per day | 59 |
+| Not NA | 257 |
 | NA | 87117 |
 
 
@@ -9930,6 +10638,7 @@ T_24_6_2:SKJEMA2W; (T_24_6_2:SKJEMA2DBG); (T_24_6_2:SKJEMA2D); (T_24_6_2:SKJEMA2
 | 1-2 per week | 4932 |
 | 3-4 per week | 1144 |
 | 5-6 per week | 281 |
+| Not NA | 6357 |
 | NA | 81017 |
 
 
@@ -9942,6 +10651,7 @@ T_24_6_3:SKJEMA2W; (T_24_6_3:SKJEMA2DBG); (T_24_6_3:SKJEMA2D); (T_24_6_3:SKJEMA2
 | 0 per month | 43712 |
 | 1 per month | 19129 |
 | 2-3 per month | 13793 |
+| Not NA | 76634 |
 | NA | 10740 |
 
 
@@ -9953,6 +10663,7 @@ T_24_7_1:SKJEMA2W; (T_24_7_1:SKJEMA2DBG); (T_24_7_1:SKJEMA2D); (T_24_7_1:SKJEMA2
 | -------- | - |
 | 2+ per day | 13 |
 | 1 per day | 46 |
+| Not NA | 59 |
 | NA | 87315 |
 
 
@@ -9965,6 +10676,7 @@ T_24_7_2:SKJEMA2W; (T_24_7_2:SKJEMA2DBG); (T_24_7_2:SKJEMA2D); (T_24_7_2:SKJEMA2
 | 1-2 per week | 1914 |
 | 5-6 per week | 46 |
 | 3-4 per week | 211 |
+| Not NA | 2171 |
 | NA | 85203 |
 
 
@@ -9977,6 +10689,7 @@ T_24_7_3:SKJEMA2W; (T_24_7_3:SKJEMA2DBG); (T_24_7_3:SKJEMA2D); (T_24_7_3:SKJEMA2
 | 1 per month | 34055 |
 | 0 per month | 29753 |
 | 2-3 per month | 17764 |
+| Not NA | 81572 |
 | NA | 5802 |
 
 
@@ -9988,6 +10701,7 @@ T_24_8_1:SKJEMA2W; (T_24_8_1:SKJEMA2DBG); (T_24_8_1:SKJEMA2D); (T_24_8_1:SKJEMA2
 | -------- | - |
 | 2+ per day | 6 |
 | 1 per day | 33 |
+| Not NA | 39 |
 | NA | 87335 |
 
 
@@ -10000,6 +10714,7 @@ T_24_8_2:SKJEMA2W; (T_24_8_2:SKJEMA2DBG); (T_24_8_2:SKJEMA2D); (T_24_8_2:SKJEMA2
 | 1-2 per week | 1269 |
 | 3-4 per week | 112 |
 | 5-6 per week | 23 |
+| Not NA | 1404 |
 | NA | 85970 |
 
 
@@ -10012,6 +10727,7 @@ T_24_8_3:SKJEMA2W; (T_24_8_3:SKJEMA2DBG); (T_24_8_3:SKJEMA2D); (T_24_8_3:SKJEMA2
 | 1 per month | 34806 |
 | 0 per month | 32026 |
 | 2-3 per month | 15574 |
+| Not NA | 82406 |
 | NA | 4968 |
 
 
@@ -10025,6 +10741,7 @@ T_25_1_1:SKJEMA2W; (T_25_1_1:SKJEMA2DBG); (T_25_1_1:SKJEMA2D); (T_25_1_1:SKJEMA2
 | 3 per day | 27 |
 | 1 per day | 619 |
 | 4+ per day | 14 |
+| Not NA | 794 |
 | NA | 86580 |
 
 
@@ -10037,6 +10754,7 @@ T_25_1_2:SKJEMA2W; (T_25_1_2:SKJEMA2DBG); (T_25_1_2:SKJEMA2D); (T_25_1_2:SKJEMA2
 | 3-4 per week | 3486 |
 | 1-2 per week | 17073 |
 | 5-6 per week | 589 |
+| Not NA | 21148 |
 | NA | 66226 |
 
 
@@ -10049,6 +10767,7 @@ T_25_1_3:SKJEMA2W; (T_25_1_3:SKJEMA2DBG); (T_25_1_3:SKJEMA2D); (T_25_1_3:SKJEMA2
 | 2-3 per month | 33186 |
 | 0 per month | 9099 |
 | 1 per month | 20705 |
+| Not NA | 62990 |
 | NA | 24384 |
 
 
@@ -10062,6 +10781,7 @@ T_25_2_1:SKJEMA2W; (T_25_2_1:SKJEMA2DBG); (T_25_2_1:SKJEMA2D); (T_25_2_1:SKJEMA2
 | 1 per day | 83 |
 | 2 per day | 16 |
 | 4+ per day | 1 |
+| Not NA | 107 |
 | NA | 87267 |
 
 
@@ -10074,6 +10794,7 @@ T_25_2_2:SKJEMA2W; (T_25_2_2:SKJEMA2DBG); (T_25_2_2:SKJEMA2D); (T_25_2_2:SKJEMA2
 | 1-2 per week | 2541 |
 | 3-4 per week | 250 |
 | 5-6 per week | 45 |
+| Not NA | 2836 |
 | NA | 84538 |
 
 
@@ -10086,6 +10807,7 @@ T_25_2_3:SKJEMA2W; (T_25_2_3:SKJEMA2DBG); (T_25_2_3:SKJEMA2D); (T_25_2_3:SKJEMA2
 | 0 per month | 43394 |
 | 1 per month | 24905 |
 | 2-3 per month | 11814 |
+| Not NA | 80113 |
 | NA | 7261 |
 
 
@@ -10099,6 +10821,7 @@ T_25_3_1:SKJEMA2W; (T_25_3_1:SKJEMA2DBG); (T_25_3_1:SKJEMA2D); (T_25_3_1:SKJEMA2
 | 4+ per day | 1 |
 | 2 per day | 16 |
 | 3 per day | 3 |
+| Not NA | 68 |
 | NA | 87306 |
 
 
@@ -10111,6 +10834,7 @@ T_25_3_2:SKJEMA2W; (T_25_3_2:SKJEMA2DBG); (T_25_3_2:SKJEMA2D); (T_25_3_2:SKJEMA2
 | 1-2 per week | 996 |
 | 3-4 per week | 137 |
 | 5-6 per week | 24 |
+| Not NA | 1157 |
 | NA | 86217 |
 
 
@@ -10123,6 +10847,7 @@ T_25_3_3:SKJEMA2W; (T_25_3_3:SKJEMA2DBG); (T_25_3_3:SKJEMA2D); (T_25_3_3:SKJEMA2
 | 0 per month | 56016 |
 | 1 per month | 18478 |
 | 2-3 per month | 6661 |
+| Not NA | 81155 |
 | NA | 6219 |
 
 
@@ -10136,6 +10861,7 @@ T_25_4_1:SKJEMA2W; (T_25_4_1:SKJEMA2DBG); (T_25_4_1:SKJEMA2D); (T_25_4_1:SKJEMA2
 | 2 per day | 28 |
 | 4+ per day | 9 |
 | 3 per day | 14 |
+| Not NA | 179 |
 | NA | 87195 |
 
 
@@ -10148,6 +10874,7 @@ T_25_4_2:SKJEMA2W; (T_25_4_2:SKJEMA2DBG); (T_25_4_2:SKJEMA2D); (T_25_4_2:SKJEMA2
 | 1-2 per week | 5953 |
 | 3-4 per week | 558 |
 | 5-6 per week | 86 |
+| Not NA | 6597 |
 | NA | 80777 |
 
 
@@ -10160,6 +10887,7 @@ T_25_4_3:SKJEMA2W; (T_25_4_3:SKJEMA2DBG); (T_25_4_3:SKJEMA2D); (T_25_4_3:SKJEMA2
 | 2-3 per month | 31509 |
 | 1 per month | 34751 |
 | 0 per month | 11544 |
+| Not NA | 77804 |
 | NA | 9570 |
 
 
@@ -10173,6 +10901,7 @@ T_25_5_1:SKJEMA2W; (T_25_5_1:SKJEMA2DBG); (T_25_5_1:SKJEMA2D); (T_25_5_1:SKJEMA2
 | 4+ per day | 4 |
 | 2 per day | 13 |
 | 3 per day | 8 |
+| Not NA | 100 |
 | NA | 87274 |
 
 
@@ -10185,6 +10914,7 @@ T_25_5_2:SKJEMA2W; (T_25_5_2:SKJEMA2DBG); (T_25_5_2:SKJEMA2D); (T_25_5_2:SKJEMA2
 | 1-2 per week | 3553 |
 | 3-4 per week | 272 |
 | 5-6 per week | 46 |
+| Not NA | 3871 |
 | NA | 83503 |
 
 
@@ -10197,6 +10927,7 @@ T_25_5_3:SKJEMA2W; (T_25_5_3:SKJEMA2DBG); (T_25_5_3:SKJEMA2D); (T_25_5_3:SKJEMA2
 | 1 per month | 40444 |
 | 2-3 per month | 28880 |
 | 0 per month | 11219 |
+| Not NA | 80543 |
 | NA | 6831 |
 
 
@@ -10210,6 +10941,7 @@ T_25_6_1:SKJEMA2W; (T_25_6_1:SKJEMA2DBG); (T_25_6_1:SKJEMA2D); (T_25_6_1:SKJEMA2
 | 3 per day | 68 |
 | 2 per day | 250 |
 | 4+ per day | 67 |
+| Not NA | 1021 |
 | NA | 86353 |
 
 
@@ -10222,6 +10954,7 @@ T_25_6_2:SKJEMA2W; (T_25_6_2:SKJEMA2DBG); (T_25_6_2:SKJEMA2D); (T_25_6_2:SKJEMA2
 | 1-2 per week | 12174 |
 | 5-6 per week | 928 |
 | 3-4 per week | 3181 |
+| Not NA | 16283 |
 | NA | 71091 |
 
 
@@ -10234,6 +10967,7 @@ T_25_6_3:SKJEMA2W; (T_25_6_3:SKJEMA2DBG); (T_25_6_3:SKJEMA2D); (T_25_6_3:SKJEMA2
 | 1 per month | 21830 |
 | 0 per month | 20248 |
 | 2-3 per month | 24825 |
+| Not NA | 66903 |
 | NA | 20471 |
 
 
@@ -10247,6 +10981,7 @@ T_26_1_1:SKJEMA2W; (T_26_1_1:SKJEMA2DBG); (T_26_1_1:SKJEMA2D); (T_26_1_1:SKJEMA2
 | 2 per day | 451 |
 | 3 per day | 76 |
 | 4+ per day | 60 |
+| Not NA | 4705 |
 | NA | 82669 |
 
 
@@ -10259,6 +10994,7 @@ T_26_1_2:SKJEMA2W; (T_26_1_2:SKJEMA2DBG); (T_26_1_2:SKJEMA2D); (T_26_1_2:SKJEMA2
 | 1-2 per week | 33228 |
 | 3-4 per week | 13995 |
 | 5-6 per week | 3993 |
+| Not NA | 51216 |
 | NA | 36158 |
 
 
@@ -10271,6 +11007,7 @@ T_26_1_3:SKJEMA2W; (T_26_1_3:SKJEMA2DBG); (T_26_1_3:SKJEMA2D); (T_26_1_3:SKJEMA2
 | 1 per month | 7369 |
 | 2-3 per month | 18083 |
 | 0 per month | 4072 |
+| Not NA | 29524 |
 | NA | 57850 |
 
 
@@ -10284,6 +11021,7 @@ T_26_2_1:SKJEMA2W; (T_26_2_1:SKJEMA2DBG); (T_26_2_1:SKJEMA2D); (T_26_2_1:SKJEMA2
 | 4+ per day | 11 |
 | 2 per day | 101 |
 | 3 per day | 16 |
+| Not NA | 1072 |
 | NA | 86302 |
 
 
@@ -10296,6 +11034,7 @@ T_26_2_2:SKJEMA2W; (T_26_2_2:SKJEMA2DBG); (T_26_2_2:SKJEMA2D); (T_26_2_2:SKJEMA2
 | 1-2 per week | 17757 |
 | 3-4 per week | 3982 |
 | 5-6 per week | 807 |
+| Not NA | 22546 |
 | NA | 64828 |
 
 
@@ -10308,6 +11047,7 @@ T_26_2_3:SKJEMA2W; (T_26_2_3:SKJEMA2DBG); (T_26_2_3:SKJEMA2D); (T_26_2_3:SKJEMA2
 | 2-3 per month | 19003 |
 | 1 per month | 16167 |
 | 0 per month | 24676 |
+| Not NA | 59846 |
 | NA | 27528 |
 
 
@@ -10321,6 +11061,7 @@ T_26_3_1:SKJEMA2W; (T_26_3_1:SKJEMA2DBG); (T_26_3_1:SKJEMA2D); (T_26_3_1:SKJEMA2
 | 2 per day | 133 |
 | 4+ per day | 42 |
 | 3 per day | 48 |
+| Not NA | 964 |
 | NA | 86410 |
 
 
@@ -10333,6 +11074,7 @@ T_26_3_2:SKJEMA2W; (T_26_3_2:SKJEMA2DBG); (T_26_3_2:SKJEMA2D); (T_26_3_2:SKJEMA2
 | 1-2 per week | 14903 |
 | 3-4 per week | 3472 |
 | 5-6 per week | 885 |
+| Not NA | 19260 |
 | NA | 68114 |
 
 
@@ -10345,6 +11087,7 @@ T_26_3_3:SKJEMA2W; (T_26_3_3:SKJEMA2DBG); (T_26_3_3:SKJEMA2D); (T_26_3_3:SKJEMA2
 | 2-3 per month | 23382 |
 | 1 per month | 19101 |
 | 0 per month | 20674 |
+| Not NA | 63157 |
 | NA | 24217 |
 
 
@@ -10358,6 +11101,7 @@ T_26_4_1:SKJEMA2W; (T_26_4_1:SKJEMA2DBG); (T_26_4_1:SKJEMA2D); (T_26_4_1:SKJEMA2
 | 2 per day | 107 |
 | 4+ per day | 36 |
 | 3 per day | 46 |
+| Not NA | 727 |
 | NA | 86647 |
 
 
@@ -10370,6 +11114,7 @@ T_26_4_2:SKJEMA2W; (T_26_4_2:SKJEMA2DBG); (T_26_4_2:SKJEMA2D); (T_26_4_2:SKJEMA2
 | 1-2 per week | 20612 |
 | 3-4 per week | 3321 |
 | 5-6 per week | 668 |
+| Not NA | 24601 |
 | NA | 62773 |
 
 
@@ -10382,6 +11127,7 @@ T_26_4_3:SKJEMA2W; (T_26_4_3:SKJEMA2DBG); (T_26_4_3:SKJEMA2D); (T_26_4_3:SKJEMA2
 | 2-3 per month | 27843 |
 | 1 per month | 17936 |
 | 0 per month | 13193 |
+| Not NA | 58972 |
 | NA | 28402 |
 
 
@@ -10395,6 +11141,7 @@ T_26_5_1:SKJEMA2W; (T_26_5_1:SKJEMA2DBG); (T_26_5_1:SKJEMA2D); (T_26_5_1:SKJEMA2
 | 1 per day | 661 |
 | 3 per day | 75 |
 | 4+ per day | 153 |
+| Not NA | 1070 |
 | NA | 86304 |
 
 
@@ -10407,6 +11154,7 @@ T_26_5_2:SKJEMA2W; (T_26_5_2:SKJEMA2DBG); (T_26_5_2:SKJEMA2D); (T_26_5_2:SKJEMA2
 | 1-2 per week | 8611 |
 | 3-4 per week | 2311 |
 | 5-6 per week | 693 |
+| Not NA | 11615 |
 | NA | 75759 |
 
 
@@ -10419,6 +11167,7 @@ T_26_5_3:SKJEMA2W; (T_26_5_3:SKJEMA2DBG); (T_26_5_3:SKJEMA2D); (T_26_5_3:SKJEMA2
 | 1 per month | 16092 |
 | 0 per month | 39381 |
 | 2-3 per month | 14488 |
+| Not NA | 69961 |
 | NA | 17413 |
 
 
@@ -10432,6 +11181,7 @@ T_26_6_1:SKJEMA2W; (T_26_6_1:SKJEMA2DBG); (T_26_6_1:SKJEMA2D); (T_26_6_1:SKJEMA2
 | 1 per day | 2941 |
 | 2 per day | 1063 |
 | 3 per day | 656 |
+| Not NA | 5948 |
 | NA | 81426 |
 
 
@@ -10444,6 +11194,7 @@ T_26_6_2:SKJEMA2W; (T_26_6_2:SKJEMA2DBG); (T_26_6_2:SKJEMA2D); (T_26_6_2:SKJEMA2
 | 3-4 per week | 8927 |
 | 1-2 per week | 17839 |
 | 5-6 per week | 3930 |
+| Not NA | 30696 |
 | NA | 56678 |
 
 
@@ -10456,6 +11207,7 @@ T_26_6_3:SKJEMA2W; (T_26_6_3:SKJEMA2DBG); (T_26_6_3:SKJEMA2D); (T_26_6_3:SKJEMA2
 | 0 per month | 17187 |
 | 1 per month | 11275 |
 | 2-3 per month | 18890 |
+| Not NA | 47352 |
 | NA | 40022 |
 
 
@@ -10469,6 +11221,7 @@ T_26_7_1:SKJEMA2W; (T_26_7_1:SKJEMA2DBG); (T_26_7_1:SKJEMA2D); (T_26_7_1:SKJEMA2
 | 4+ per day | 2 |
 | 2 per day | 25 |
 | 3 per day | 4 |
+| Not NA | 116 |
 | NA | 87258 |
 
 
@@ -10481,6 +11234,7 @@ T_26_7_2:SKJEMA2W; (T_26_7_2:SKJEMA2DBG); (T_26_7_2:SKJEMA2D); (T_26_7_2:SKJEMA2
 | 1-2 per week | 2388 |
 | 3-4 per week | 400 |
 | 5-6 per week | 91 |
+| Not NA | 2879 |
 | NA | 84495 |
 
 
@@ -10493,6 +11247,7 @@ T_26_7_3:SKJEMA2W; (T_26_7_3:SKJEMA2DBG); (T_26_7_3:SKJEMA2D); (T_26_7_3:SKJEMA2
 | 0 per month | 51767 |
 | 2-3 per month | 9276 |
 | 1 per month | 18455 |
+| Not NA | 79498 |
 | NA | 7876 |
 
 
@@ -10506,6 +11261,7 @@ T_26_8_1:SKJEMA2W; (T_26_8_1:SKJEMA2DBG); (T_26_8_1:SKJEMA2D); (T_26_8_1:SKJEMA2
 | 2 per day | 72 |
 | 4+ per day | 23 |
 | 3 per day | 24 |
+| Not NA | 557 |
 | NA | 86817 |
 
 
@@ -10518,6 +11274,7 @@ T_26_8_2:SKJEMA2W; (T_26_8_2:SKJEMA2DBG); (T_26_8_2:SKJEMA2D); (T_26_8_2:SKJEMA2
 | 1-2 per week | 28979 |
 | 5-6 per week | 664 |
 | 3-4 per week | 3461 |
+| Not NA | 33104 |
 | NA | 54270 |
 
 
@@ -10530,6 +11287,7 @@ T_26_8_3:SKJEMA2W; (T_26_8_3:SKJEMA2DBG); (T_26_8_3:SKJEMA2D); (T_26_8_3:SKJEMA2
 | 1 per month | 14260 |
 | 2-3 per month | 32012 |
 | 0 per month | 5378 |
+| Not NA | 51650 |
 | NA | 35724 |
 
 
@@ -10543,6 +11301,7 @@ T_26_9_1:SKJEMA2W; (T_26_9_1:SKJEMA2DBG); (T_26_9_1:SKJEMA2D); (T_26_9_1:SKJEMA2
 | 1 per day | 120 |
 | 2 per day | 24 |
 | 3 per day | 12 |
+| Not NA | 165 |
 | NA | 87209 |
 
 
@@ -10555,6 +11314,7 @@ T_26_9_2:SKJEMA2W; (T_26_9_2:SKJEMA2DBG); (T_26_9_2:SKJEMA2D); (T_26_9_2:SKJEMA2
 | 1-2 per week | 6324 |
 | 5-6 per week | 129 |
 | 3-4 per week | 562 |
+| Not NA | 7015 |
 | NA | 80359 |
 
 
@@ -10567,6 +11327,7 @@ T_26_9_3:SKJEMA2W; (T_26_9_3:SKJEMA2DBG); (T_26_9_3:SKJEMA2D); (T_26_9_3:SKJEMA2
 | 0 per month | 32880 |
 | 2-3 per month | 17497 |
 | 1 per month | 25848 |
+| Not NA | 76225 |
 | NA | 11149 |
 
 
@@ -10580,6 +11341,7 @@ T_2610_1:SKJEMA2W; (T_2610_1:SKJEMA2DBG); (T_2610_1:SKJEMA2D); (T_2610_1:SKJEMA2
 | 4+ per day | 9 |
 | 2 per day | 18 |
 | 3 per day | 11 |
+| Not NA | 135 |
 | NA | 87239 |
 
 
@@ -10592,6 +11354,7 @@ T_2610_2:SKJEMA2W; (T_2610_2:SKJEMA2DBG); (T_2610_2:SKJEMA2D); (T_2610_2:SKJEMA2
 | 1-2 per week | 4504 |
 | 5-6 per week | 102 |
 | 3-4 per week | 399 |
+| Not NA | 5005 |
 | NA | 82369 |
 
 
@@ -10604,6 +11367,7 @@ T_2610_3:SKJEMA2W; (T_2610_3:SKJEMA2DBG); (T_2610_3:SKJEMA2D); (T_2610_3:SKJEMA2
 | 0 per month | 41618 |
 | 1 per month | 22061 |
 | 2-3 per month | 14081 |
+| Not NA | 77760 |
 | NA | 9614 |
 
 
@@ -10619,6 +11383,7 @@ T_27_1_2:SKJEMA2W; (T_27_1_2:SKJEMA2DBG); (T_27_1_2:SKJEMA2D); (T_27_1_2:SKJEMA2
 | 5 per day | 68 |
 | 2 per day | 445 |
 | 4 per day | 126 |
+| Not NA | 2234 |
 | NA | 85140 |
 
 
@@ -10631,6 +11396,7 @@ T_27_1_3:SKJEMA2W; (T_27_1_3:SKJEMA2DBG); (T_27_1_3:SKJEMA2D); (T_27_1_3:SKJEMA2
 | 3-4 per week | 1731 |
 | 1-2 per week | 2553 |
 | 5-6 per week | 770 |
+| Not NA | 5054 |
 | NA | 82320 |
 
 
@@ -10642,6 +11408,7 @@ T_27_1_4:SKJEMA2W; (T_27_1_4:SKJEMA2DBG); (T_27_1_4:SKJEMA2D); (T_27_1_4:SKJEMA2
 | -------- | - |
 | 2-3 per month | 2460 |
 | 1 per month | 1255 |
+| Not NA | 3715 |
 | NA | 83659 |
 
 
@@ -10657,6 +11424,7 @@ T_27_2_2:SKJEMA2W; (T_27_2_2:SKJEMA2DBG); (T_27_2_2:SKJEMA2D); (T_27_2_2:SKJEMA2
 | 2 per day | 134 |
 | 4 per day | 37 |
 | 3 per day | 44 |
+| Not NA | 555 |
 | NA | 86819 |
 
 
@@ -10669,6 +11437,7 @@ T_27_2_3:SKJEMA2W; (T_27_2_3:SKJEMA2DBG); (T_27_2_3:SKJEMA2D); (T_27_2_3:SKJEMA2
 | 5-6 per week | 184 |
 | 1-2 per week | 876 |
 | 3-4 per week | 504 |
+| Not NA | 1564 |
 | NA | 85810 |
 
 
@@ -10680,6 +11449,7 @@ T_27_2_4:SKJEMA2W; (T_27_2_4:SKJEMA2DBG); (T_27_2_4:SKJEMA2D); (T_27_2_4:SKJEMA2
 | -------- | - |
 | 1 per month | 470 |
 | 2-3 per month | 932 |
+| Not NA | 1402 |
 | NA | 85972 |
 
 
@@ -10695,6 +11465,7 @@ T_27_3_2:SKJEMA2W; (T_27_3_2:SKJEMA2DBG); (T_27_3_2:SKJEMA2D); (T_27_3_2:SKJEMA2
 | 6+ per day | 14 |
 | 5 per day | 4 |
 | 4 per day | 10 |
+| Not NA | 214 |
 | NA | 87160 |
 
 
@@ -10707,6 +11478,7 @@ T_27_3_3:SKJEMA2W; (T_27_3_3:SKJEMA2DBG); (T_27_3_3:SKJEMA2D); (T_27_3_3:SKJEMA2
 | 1-2 per week | 292 |
 | 3-4 per week | 169 |
 | 5-6 per week | 71 |
+| Not NA | 532 |
 | NA | 86842 |
 
 
@@ -10718,6 +11490,7 @@ T_27_3_4:SKJEMA2W; (T_27_3_4:SKJEMA2DBG); (T_27_3_4:SKJEMA2D); (T_27_3_4:SKJEMA2
 | -------- | - |
 | 1 per month | 202 |
 | 2-3 per month | 367 |
+| Not NA | 569 |
 | NA | 86805 |
 
 
@@ -10733,6 +11506,7 @@ T_27_4_2:SKJEMA2W; (T_27_4_2:SKJEMA2DBG); (T_27_4_2:SKJEMA2D); (T_27_4_2:SKJEMA2
 | 6+ per day | 8 |
 | 4 per day | 8 |
 | 5 per day | 1 |
+| Not NA | 90 |
 | NA | 87284 |
 
 
@@ -10745,6 +11519,7 @@ T_27_4_3:SKJEMA2W; (T_27_4_3:SKJEMA2DBG); (T_27_4_3:SKJEMA2D); (T_27_4_3:SKJEMA2
 | 1-2 per week | 120 |
 | 3-4 per week | 72 |
 | 5-6 per week | 27 |
+| Not NA | 219 |
 | NA | 87155 |
 
 
@@ -10756,6 +11531,7 @@ T_27_4_4:SKJEMA2W; (T_27_4_4:SKJEMA2DBG); (T_27_4_4:SKJEMA2D); (T_27_4_4:SKJEMA2
 | -------- | - |
 | 2-3 per month | 128 |
 | 1 per month | 79 |
+| Not NA | 207 |
 | NA | 87167 |
 
 
@@ -10768,6 +11544,7 @@ T_30_1_1:SKJEMA2W; (T_30_1_1:SKJEMA2DBG); (T_30_1_1:SKJEMA2D); (T_30_1_1:SKJEMA2
 | 1 per day | 68 |
 | 4+ per day | 4 |
 | 2-3 per day | 7 |
+| Not NA | 79 |
 | NA | 87295 |
 
 
@@ -10780,6 +11557,7 @@ T_30_1_2:SKJEMA2W; (T_30_1_2:SKJEMA2DBG); (T_30_1_2:SKJEMA2D); (T_30_1_2:SKJEMA2
 | 1-2 per week | 1587 |
 | 3-4 per week | 168 |
 | 5-6 per week | 18 |
+| Not NA | 1773 |
 | NA | 85601 |
 
 
@@ -10792,6 +11570,7 @@ T_30_1_3:SKJEMA2W; (T_30_1_3:SKJEMA2DBG); (T_30_1_3:SKJEMA2D); (T_30_1_3:SKJEMA2
 | 0 per month | 51623 |
 | 1 per month | 21289 |
 | 2-3 per month | 8031 |
+| Not NA | 80943 |
 | NA | 6431 |
 
 
@@ -10804,6 +11583,7 @@ T_30_2_1:SKJEMA2W; (T_30_2_1:SKJEMA2DBG); (T_30_2_1:SKJEMA2D); (T_30_2_1:SKJEMA2
 | 1 per day | 61 |
 | 4+ per day | 3 |
 | 2-3 per day | 7 |
+| Not NA | 71 |
 | NA | 87303 |
 
 
@@ -10816,6 +11596,7 @@ T_30_2_2:SKJEMA2W; (T_30_2_2:SKJEMA2DBG); (T_30_2_2:SKJEMA2D); (T_30_2_2:SKJEMA2
 | 1-2 per week | 1591 |
 | 3-4 per week | 144 |
 | 5-6 per week | 19 |
+| Not NA | 1754 |
 | NA | 85620 |
 
 
@@ -10828,6 +11609,7 @@ T_30_2_3:SKJEMA2W; (T_30_2_3:SKJEMA2DBG); (T_30_2_3:SKJEMA2D); (T_30_2_3:SKJEMA2
 | 1 per month | 30471 |
 | 0 per month | 40333 |
 | 2-3 per month | 10514 |
+| Not NA | 81318 |
 | NA | 6056 |
 
 
@@ -10840,6 +11622,7 @@ T_30_3_1:SKJEMA2W; (T_30_3_1:SKJEMA2DBG); (T_30_3_1:SKJEMA2D); (T_30_3_1:SKJEMA2
 | 1 per day | 73 |
 | 2-3 per day | 10 |
 | 4+ per day | 9 |
+| Not NA | 92 |
 | NA | 87282 |
 
 
@@ -10852,6 +11635,7 @@ T_30_3_2:SKJEMA2W; (T_30_3_2:SKJEMA2DBG); (T_30_3_2:SKJEMA2D); (T_30_3_2:SKJEMA2
 | 1-2 per week | 2470 |
 | 5-6 per week | 27 |
 | 3-4 per week | 142 |
+| Not NA | 2639 |
 | NA | 84735 |
 
 
@@ -10864,6 +11648,7 @@ T_30_3_3:SKJEMA2W; (T_30_3_3:SKJEMA2DBG); (T_30_3_3:SKJEMA2D); (T_30_3_3:SKJEMA2
 | 2-3 per month | 20378 |
 | 0 per month | 21981 |
 | 1 per month | 39735 |
+| Not NA | 82094 |
 | NA | 5280 |
 
 
@@ -10879,6 +11664,7 @@ T_31_1:SKJEMA2W; (T_31_1:SKJEMA2DBG); (T_31_1:SKJEMA2D); (T_31_1:SKJEMA2C); Milk
 | Did not eat or drink this food item before pregnancy | 2007 |
 | Completely stopped | 218 |
 | More than 1 check box filled in | 103 |
+| Not NA | 86143 |
 | NA | 1231 |
 
 
@@ -10894,6 +11680,7 @@ T_31_2:SKJEMA2W; (T_31_2:SKJEMA2DBG); (T_31_2:SKJEMA2D); (T_31_2:SKJEMA2C); Brea
 | Did not eat or drink this food item before pregnancy | 147 |
 | More than 1 check box filled in | 20 |
 | Completely stopped | 33 |
+| Not NA | 86053 |
 | NA | 1321 |
 
 
@@ -10909,6 +11696,7 @@ T_31_3:SKJEMA2W; (T_31_3:SKJEMA2DBG); (T_31_3:SKJEMA2D); (T_31_3:SKJEMA2C); Bisc
 | Did not eat or drink this food item before pregnancy | 8795 |
 | Completely stopped | 1197 |
 | More than 1 check box filled in | 53 |
+| Not NA | 85508 |
 | NA | 1866 |
 
 
@@ -10924,6 +11712,7 @@ T_31_4:SKJEMA2W; (T_31_4:SKJEMA2DBG); (T_31_4:SKJEMA2D); (T_31_4:SKJEMA2C); Fat;
 | More | 4137 |
 | Completely stopped | 383 |
 | More than 1 check box filled in | 39 |
+| Not NA | 85442 |
 | NA | 1932 |
 
 
@@ -10939,6 +11728,7 @@ T_31_5:SKJEMA2W; (T_31_5:SKJEMA2DBG); (T_31_5:SKJEMA2D); (T_31_5:SKJEMA2C); Meat
 | Did not eat or drink this food item before pregnancy | 912 |
 | More than 1 check box filled in | 27 |
 | Completely stopped | 147 |
+| Not NA | 85904 |
 | NA | 1470 |
 
 
@@ -10954,6 +11744,7 @@ T_31_6:SKJEMA2W; (T_31_6:SKJEMA2DBG); (T_31_6:SKJEMA2D); (T_31_6:SKJEMA2C); Fish
 | Did not eat or drink this food item before pregnancy | 1734 |
 | Completely stopped | 298 |
 | More than 1 check box filled in | 44 |
+| Not NA | 85949 |
 | NA | 1425 |
 
 
@@ -10969,6 +11760,7 @@ T_31_7:SKJEMA2W; (T_31_7:SKJEMA2DBG); (T_31_7:SKJEMA2D); (T_31_7:SKJEMA2C); Eggs
 | Less | 7945 |
 | Completely stopped | 477 |
 | More than 1 check box filled in | 48 |
+| Not NA | 85913 |
 | NA | 1461 |
 
 
@@ -10984,6 +11776,7 @@ T_31_8:SKJEMA2W; (T_31_8:SKJEMA2DBG); (T_31_8:SKJEMA2D); (T_31_8:SKJEMA2C); Vege
 | Did not eat or drink this food item before pregnancy | 221 |
 | More than 1 check box filled in | 35 |
 | Completely stopped | 32 |
+| Not NA | 86007 |
 | NA | 1367 |
 
 
@@ -10999,6 +11792,7 @@ T_31_9:SKJEMA2W; (T_31_9:SKJEMA2DBG); (T_31_9:SKJEMA2D); (T_31_9:SKJEMA2C); Frui
 | Did not eat or drink this food item before pregnancy | 222 |
 | Completely stopped | 26 |
 | More than 1 check box filled in | 55 |
+| Not NA | 86038 |
 | NA | 1336 |
 
 
@@ -11014,6 +11808,7 @@ T_3110:SKJEMA2W; (T_3110:SKJEMA2DBG); (T_31_10:SKJEMA2D); (T_3110:SKJEMA2C); Cho
 | Completely stopped | 1253 |
 | Did not eat or drink this food item before pregnancy | 1047 |
 | More than 1 check box filled in | 56 |
+| Not NA | 85939 |
 | NA | 1435 |
 
 
@@ -11029,6 +11824,7 @@ T_3111:SKJEMA2W; (T_3111:SKJEMA2DBG); (T_31_11:SKJEMA2D); (T_3111:SKJEMA2C); Oth
 | Did not eat or drink this food item before pregnancy | 2354 |
 | Completely stopped | 1344 |
 | More than 1 check box filled in | 69 |
+| Not NA | 85591 |
 | NA | 1783 |
 
 
@@ -11044,6 +11840,7 @@ T_3112:SKJEMA2W; (T_3112:SKJEMA2DBG); (T_31_12:SKJEMA2D); (T_3112:SKJEMA2C); Cof
 | As before | 12029 |
 | More | 642 |
 | More than 1 check box filled in | 164 |
+| Not NA | 85800 |
 | NA | 1574 |
 
 
@@ -11059,6 +11856,7 @@ T_3113:SKJEMA2W; (T_3113:SKJEMA2DBG); (T_31_13:SKJEMA2D); (T_3113:SKJEMA2C); Tea
 | As before | 36038 |
 | Completely stopped | 2523 |
 | More than 1 check box filled in | 88 |
+| Not NA | 85728 |
 | NA | 1646 |
 
 
@@ -11074,6 +11872,7 @@ T_3114:SKJEMA2W; (T_3114:SKJEMA2DBG); (T_31_14:SKJEMA2D); (T_3114:SKJEMA2C); Jui
 | Did not eat or drink this food item before pregnancy | 2305 |
 | Completely stopped | 736 |
 | More than 1 check box filled in | 90 |
+| Not NA | 85761 |
 | NA | 1613 |
 
 
@@ -11089,6 +11888,7 @@ T_3115:SKJEMA2W; (T_3115:SKJEMA2DBG); (T_31_15:SKJEMA2D); (T_3115:SKJEMA2C); Sof
 | As before | 33316 |
 | Completely stopped | 4202 |
 | More than 1 check box filled in | 115 |
+| Not NA | 85727 |
 | NA | 1647 |
 
 
@@ -11104,6 +11904,7 @@ T_3116:SKJEMA2W; (T_3116:SKJEMA2DBG); (T_31_16:SKJEMA2D); (T_3116:SKJEMA2C); Sof
 | More | 3117 |
 | Completely stopped | 6624 |
 | More than 1 check box filled in | 112 |
+| Not NA | 85345 |
 | NA | 2029 |
 
 
@@ -11119,6 +11920,7 @@ T_3117:SKJEMA2W; (T_3117:SKJEMA2DBG); (T_31_17:SKJEMA2D); (T_3117:SKJEMA2C); Alc
 | As before | 1049 |
 | More than 1 check box filled in | 237 |
 | More | 24 |
+| Not NA | 85820 |
 | NA | 1554 |
 
 
@@ -11131,6 +11933,7 @@ T_32:SKJEMA2W; (T_32:SKJEMA2DBG); (T_32:SKJEMA2D); (T_32:SKJEMA2C); ; 32. Have y
 | Yes | 61984 |
 | No | 24325 |
 | More than 1 check box filled in | 27 |
+| Not NA | 86336 |
 | NA | 1038 |
 
 
@@ -11143,6 +11946,7 @@ T_33:SKJEMA2W; (T_33:SKJEMA2DBG); (T_33:SKJEMA2D); (T_33:SKJEMA2C); ; 33. If yes
 | Less | 34067 |
 | More | 24642 |
 | More than 1 check box filled in | 192 |
+| Not NA | 58901 |
 | NA | 28473 |
 
 
@@ -11159,6 +11963,7 @@ T_34_1:SKJEMA2W; (T_34_1:SKJEMA2DBG); (T_34_1:SKJEMA2D); (T_34_1:SKJEMA2C); From
 | 3rd Qu. | 7 |
 | Max. | 65 |
 | NA's | 27582 |
+| Not NA | 59792 |
 
 
 ### BB854
@@ -11174,6 +11979,7 @@ T_34_2:SKJEMA2W; (T_34_2:SKJEMA2DBG); (T_34_2:SKJEMA2D); (T_34_2:SKJEMA2C); To p
 | 3rd Qu. | 15 |
 | Max. | 90 |
 | NA's | 29992 |
+| Not NA | 57382 |
 
 
 ### BB855
@@ -11183,6 +11989,7 @@ T_34_3:SKJEMA2W; (T_34_3:SKJEMA2DBG); (T_34_3:SKJEMA2D); (T_34_3:SKJEMA2C); Stil
 | Category | n |
 | -------- | - |
 | 1 | 9492 |
+| Not NA | 9492 |
 | NA | 77882 |
 
 
@@ -11195,6 +12002,7 @@ T_35:SKJEMA2W; (T_35:SKJEMA2DBG); (T_35:SKJEMA2D); (T_35:SKJEMA2C); ; 35. Have y
 | Yes | 23821 |
 | No | 60968 |
 | More than 1 check box filled in | 12 |
+| Not NA | 84801 |
 | NA | 2573 |
 
 
@@ -11211,6 +12019,7 @@ T_36_1:SKJEMA2W; (T_36_1:SKJEMA2DBG); (T_36_1:SKJEMA2D); (T_36_1:SKJEMA2C); From
 | 3rd Qu. | 9 |
 | Max. | 56 |
 | NA's | 63553 |
+| Not NA | 23821 |
 
 
 ### BB858
@@ -11226,6 +12035,7 @@ T_36_2:SKJEMA2W; (T_36_2:SKJEMA2DBG); (T_36_2:SKJEMA2D); (T_36_2:SKJEMA2C); To p
 | 3rd Qu. | 16 |
 | Max. | 52 |
 | NA's | 64669 |
+| Not NA | 22705 |
 
 
 ### BB859
@@ -11235,6 +12045,7 @@ T_36_3:SKJEMA2W; (T_36_3:SKJEMA2DBG); (T_36_3:SKJEMA2D); (T_36_3:SKJEMA2C); Stil
 | Category | n |
 | -------- | - |
 | 1 | 5365 |
+| Not NA | 5365 |
 | NA | 82009 |
 
 
@@ -11247,6 +12058,7 @@ T_37:SKJEMA2W; (T_37:SKJEMA2DBG); (T_37:SKJEMA2D); (T_37:SKJEMA2C); ; 37. Have y
 | Yes | 21068 |
 | No | 62671 |
 | More than 1 check box filled in | 9 |
+| Not NA | 83748 |
 | NA | 3626 |
 
 
@@ -11259,6 +12071,7 @@ T_39:SKJEMA2W; (T_39:SKJEMA2DBG); (T_39:SKJEMA2D); (T_39:SKJEMA2C); ; 39. Do you
 | Yes | 70221 |
 | No | 14078 |
 | More than 1 check box filled in | 42 |
+| Not NA | 84341 |
 | NA | 3033 |
 
 
@@ -11277,6 +12090,7 @@ T_40_1_1:SKJEMA2W; (T_40_1_1:SKJEMA2DBG); (T_40_1_1:SKJEMA2D); (T_40_1_1:SKJEMA2
 | 2 times per week | 988 |
 | 5 times per week | 1357 |
 | 4 times per week | 1101 |
+| Not NA | 60528 |
 | NA | 26846 |
 
 
@@ -11289,6 +12103,7 @@ T_40_1_2:SKJEMA2W; (T_40_1_2:SKJEMA2DBG); (T_40_1_2:SKJEMA2D); (T_40_1_2:SKJEMA2
 | 1 dsp     | 9361 |
 | 1 tsp    | 1187 |
 | 1 tbsp | 3187 |
+| Not NA | 13735 |
 | NA | 73639 |
 
 
@@ -11307,6 +12122,7 @@ T_40_2_1:SKJEMA2W; (T_40_2_1:SKJEMA2DBG); (T_40_2_1:SKJEMA2D); (T_40_2_1:SKJEMA2
 | 6 times per week | 493 |
 | 2 times per week | 378 |
 | 3 times per week | 532 |
+| Not NA | 58581 |
 | NA | 28793 |
 
 
@@ -11319,6 +12135,7 @@ T_40_2_2:SKJEMA2W; (T_40_2_2:SKJEMA2DBG); (T_40_2_2:SKJEMA2D); (T_40_2_2:SKJEMA2
 | 1 tbsp | 967 |
 | 1 tsp    | 962 |
 | 1 dsp     | 2603 |
+| Not NA | 4532 |
 | NA | 82842 |
 
 
@@ -11337,6 +12154,7 @@ T_40_3_1:SKJEMA2W; (T_40_3_1:SKJEMA2DBG); (T_40_3_1:SKJEMA2D); (T_40_3_1:SKJEMA2
 | 7 times per week | 1847 |
 | Once per week | 859 |
 | 4 times per week | 627 |
+| Not NA | 58672 |
 | NA | 28702 |
 
 
@@ -11349,6 +12167,7 @@ T_40_3_2:SKJEMA2W; (T_40_3_2:SKJEMA2DBG); (T_40_3_2:SKJEMA2D); (T_40_3_2:SKJEMA2
 | 1 dsp     | 4567 |
 | 1 tbsp | 1410 |
 | 1 tsp    | 621 |
+| Not NA | 6598 |
 | NA | 80776 |
 
 
@@ -11367,6 +12186,7 @@ T_40_4_1:SKJEMA2W; (T_40_4_1:SKJEMA2DBG); (T_40_4_1:SKJEMA2D); (T_40_4_1:SKJEMA2
 | 2 times per week | 254 |
 | 5 times per week | 247 |
 | 6 times per week | 148 |
+| Not NA | 57637 |
 | NA | 29737 |
 
 
@@ -11379,6 +12199,7 @@ T_40_4_2:SKJEMA2W; (T_40_4_2:SKJEMA2DBG); (T_40_4_2:SKJEMA2D); (T_40_4_2:SKJEMA2
 | 1 dsp     | 1577 |
 | 1 tbsp | 462 |
 | 1 tsp    | 160 |
+| Not NA | 2199 |
 | NA | 85175 |
 
 
@@ -11397,6 +12218,7 @@ T_40_5_1:SKJEMA2W; (T_40_5_1:SKJEMA2DBG); (T_40_5_1:SKJEMA2D); (T_40_5_1:SKJEMA2
 | 7 times per week | 1107 |
 | Once per week | 268 |
 | 6 times per week | 181 |
+| Not NA | 57833 |
 | NA | 29541 |
 
 
@@ -11409,6 +12231,7 @@ T_40_5_2:SKJEMA2W; (T_40_5_2:SKJEMA2DBG); (T_40_5_2:SKJEMA2D); (T_40_5_2:SKJEMA2
 | 1 tsp    | 229 |
 | 1 dsp     | 2128 |
 | 1 tbsp | 385 |
+| Not NA | 2742 |
 | NA | 84632 |
 
 
@@ -11427,6 +12250,7 @@ T_40_6_2:SKJEMA2DBG; (T_40_6_2:SKJEMA2D); (T_40_6_3:SKJEMA2C); Other liquid supp
 | Once per week | 80 |
 | 2 times per week | 77 |
 | 4 times per week | 120 |
+| Not NA | 7039 |
 | NA | 80335 |
 
 
@@ -11439,6 +12263,7 @@ T_40_6_3:SKJEMA2DBG; (T_40_6_3:SKJEMA2D); (T_40_6_4:SKJEMA2C); Other liquid supp
 | 1 dsp     | 746 |
 | 1 tsp    | 158 |
 | 1 tbsp | 103 |
+| Not NA | 1007 |
 | NA | 86367 |
 
 
@@ -11457,6 +12282,7 @@ T_40_8_2:SKJEMA2DBG; (T_40_8_2:SKJEMA2D); (T_40_7_3:SKJEMA2C); Other liquid supp
 | 6 times per week | 8 |
 | 5 times per week | 20 |
 | <1 time per week | 7 |
+| Not NA | 5325 |
 | NA | 82049 |
 
 
@@ -11469,6 +12295,7 @@ T_40_8_3:SKJEMA2DBG; (T_40_8_3:SKJEMA2D); (T_40_7_4:SKJEMA2C); Other liquid supp
 | 1 dsp     | 67 |
 | 1 tsp    | 25 |
 | 1 tbsp | 13 |
+| Not NA | 105 |
 | NA | 87269 |
 
 
@@ -11487,6 +12314,7 @@ T_4010_1:SKJEMA2W; (T_4010_1:SKJEMA2DBG); (T_4010_1:SKJEMA2D); (T_40_8_1:SKJEMA2
 | Once per week | 882 |
 | 2 times per week | 1229 |
 | <1 time per week | 1002 |
+| Not NA | 59933 |
 | NA | 27441 |
 
 
@@ -11500,6 +12328,7 @@ T_4010_2:SKJEMA2W; (T_4010_2:SKJEMA2DBG); (T_4010_2:SKJEMA2D); (T_40_8_2:SKJEMA2
 | 3 at a time | 478 |
 | 1 at a time | 3636 |
 | 4+ at a time | 158 |
+| Not NA | 21664 |
 | NA | 65710 |
 
 
@@ -11518,6 +12347,7 @@ T_4011_1:SKJEMA2W; (T_4011_1:SKJEMA2DBG); (T_4011_1:SKJEMA2D); (T_40_9_1:SKJEMA2
 | 4 times per week | 543 |
 | Once per week | 276 |
 | <1 time per week | 284 |
+| Not NA | 55478 |
 | NA | 31896 |
 
 
@@ -11531,6 +12361,7 @@ T_4011_2:SKJEMA2W; (T_4011_2:SKJEMA2DBG); (T_4011_2:SKJEMA2D); (T_40_9_2:SKJEMA2
 | 1 at a time | 1970 |
 | 3 at a time | 631 |
 | 4+ at a time | 365 |
+| Not NA | 7528 |
 | NA | 79846 |
 
 
@@ -11549,6 +12380,7 @@ T_4012_1:SKJEMA2W; (T_4012_1:SKJEMA2DBG); (T_4012_1:SKJEMA2D); (T_4010_1:SKJEMA2
 | <1 time per week | 441 |
 | Once per week | 384 |
 | 5 times per week | 638 |
+| Not NA | 54021 |
 | NA | 33353 |
 
 
@@ -11562,6 +12394,7 @@ T_4012_2:SKJEMA2W; (T_4012_2:SKJEMA2DBG); (T_4012_2:SKJEMA2D); (T_4010_2:SKJEMA2
 | 2 at a time | 461 |
 | 3 at a time | 116 |
 | 4+ at a time | 216 |
+| Not NA | 5928 |
 | NA | 81446 |
 
 
@@ -11580,6 +12413,7 @@ T_4013_1:SKJEMA2W; (T_4013_1:SKJEMA2DBG); (T_4013_1:SKJEMA2D); (T_4011_1:SKJEMA2
 | 6 times per week | 498 |
 | 4 times per week | 480 |
 | Once per week | 248 |
+| Not NA | 53328 |
 | NA | 34046 |
 
 
@@ -11593,6 +12427,7 @@ T_4013_2:SKJEMA2W; (T_4013_2:SKJEMA2DBG); (T_4013_2:SKJEMA2D); (T_4011_2:SKJEMA2
 | 4+ at a time | 207 |
 | 2 at a time | 379 |
 | 3 at a time | 12 |
+| Not NA | 5392 |
 | NA | 81982 |
 
 
@@ -11611,6 +12446,7 @@ T_4014_1:SKJEMA2W; (T_4014_1:SKJEMA2DBG); (T_4014_1:SKJEMA2D); (T_4012_1:SKJEMA2
 | 5 times per week | 1079 |
 | <1 time per week | 324 |
 | Once per week | 438 |
+| Not NA | 57825 |
 | NA | 29549 |
 
 
@@ -11624,6 +12460,7 @@ T_4014_2:SKJEMA2W; (T_4014_2:SKJEMA2DBG); (T_4014_2:SKJEMA2D); (T_4012_2:SKJEMA2
 | 4+ at a time | 213 |
 | 2 at a time | 724 |
 | 3 at a time | 41 |
+| Not NA | 20911 |
 | NA | 66463 |
 
 
@@ -11642,6 +12479,7 @@ T_4015_1:SKJEMA2W; (T_4015_1:SKJEMA2DBG); (T_4015_1:SKJEMA2D); (T_4013_1:SKJEMA2
 | 3 times per week | 161 |
 | <1 time per week | 73 |
 | Once per week | 61 |
+| Not NA | 52509 |
 | NA | 34865 |
 
 
@@ -11655,6 +12493,7 @@ T_4015_2:SKJEMA2W; (T_4015_2:SKJEMA2DBG); (T_4015_2:SKJEMA2D); (T_4013_2:SKJEMA2
 | 2 at a time | 165 |
 | 4+ at a time | 268 |
 | 3 at a time | 17 |
+| Not NA | 1913 |
 | NA | 85461 |
 
 
@@ -11673,6 +12512,7 @@ T_4016_1:SKJEMA2W; (T_4016_1:SKJEMA2DBG); (T_4016_1:SKJEMA2D); (T_4014_1:SKJEMA2
 | 2 times per week | 495 |
 | 4 times per week | 513 |
 | Once per week | 371 |
+| Not NA | 54755 |
 | NA | 32619 |
 
 
@@ -11686,6 +12526,7 @@ T_4016_2:SKJEMA2W; (T_4016_2:SKJEMA2DBG); (T_4016_2:SKJEMA2D); (T_4014_2:SKJEMA2
 | 3 at a time | 897 |
 | 1 at a time | 2817 |
 | 4+ at a time | 289 |
+| Not NA | 7520 |
 | NA | 79854 |
 
 
@@ -11704,6 +12545,7 @@ T_4017_1:SKJEMA2W; (T_4017_1:SKJEMA2DBG); (T_4017_1:SKJEMA2D); (T_4015_1:SKJEMA2
 | 3 times per week | 305 |
 | Once per week | 224 |
 | 4 times per week | 332 |
+| Not NA | 53477 |
 | NA | 33897 |
 
 
@@ -11717,6 +12559,7 @@ T_4017_2:SKJEMA2W; (T_4017_2:SKJEMA2DBG); (T_4017_2:SKJEMA2D); (T_4015_2:SKJEMA2
 | 2 at a time | 674 |
 | 4+ at a time | 265 |
 | 3 at a time | 25 |
+| Not NA | 3894 |
 | NA | 83480 |
 
 
@@ -11735,6 +12578,7 @@ T_4018_2:SKJEMA2W; (T_4018_2:SKJEMA2DBG); (T_4018_2:SKJEMA2D); (T_4016_3:SKJEMA2
 | 5 times per week | 1468 |
 | Once per week | 545 |
 | <1 time per week | 321 |
+| Not NA | 28201 |
 | NA | 59173 |
 
 
@@ -11748,6 +12592,7 @@ T_4018_3:SKJEMA2W; (T_4018_3:SKJEMA2DBG); (T_4018_3:SKJEMA2D); (T_4016_4:SKJEMA2
 | 2 at a time | 5575 |
 | 3 at a time | 763 |
 | 4+ at a time | 323 |
+| Not NA | 19186 |
 | NA | 68188 |
 
 
@@ -11766,6 +12611,7 @@ T_4020_2:SKJEMA2W; (T_4020_2:SKJEMA2DBG); (T_4020_2:SKJEMA2D); (T_4017_3:SKJEMA2
 | Once per week | 231 |
 | <1 time per week | 184 |
 | 4 times per week | 422 |
+| Not NA | 10088 |
 | NA | 77286 |
 
 
@@ -11779,6 +12625,7 @@ T_4020_3:SKJEMA2W; (T_4020_3:SKJEMA2DBG); (T_4020_3:SKJEMA2D); (T_4017_4:SKJEMA2
 | 1 at a time | 4102 |
 | 2 at a time | 1624 |
 | 4+ at a time | 143 |
+| Not NA | 6130 |
 | NA | 81244 |
 
 
@@ -11797,6 +12644,7 @@ T_4022_2:SKJEMA2W; (T_4022_2:SKJEMA2DBG); (T_4022_2:SKJEMA2D); Other supplements
 | 3 times per week | 154 |
 | 5 times per week | 163 |
 | <1 time per week | 76 |
+| Not NA | 3476 |
 | NA | 83898 |
 
 
@@ -11810,6 +12658,7 @@ T_4022_3:SKJEMA2W; (T_4022_3:SKJEMA2DBG); (T_4022_3:SKJEMA2D); Other supplements
 | 3 at a time | 75 |
 | 2 at a time | 459 |
 | 4+ at a time | 40 |
+| Not NA | 1712 |
 | NA | 85662 |
 
 
@@ -11828,6 +12677,7 @@ T_4024_2:SKJEMA2W; (T_4024_2:SKJEMA2DBG); (T_4024_2:SKJEMA2D); Other supplements
 | <1 time per week | 22 |
 | 6 times per week | 35 |
 | 5 times per week | 53 |
+| Not NA | 2007 |
 | NA | 85367 |
 
 
@@ -11841,6 +12691,7 @@ T_4024_3:SKJEMA2W; (T_4024_3:SKJEMA2DBG); (T_4024_3:SKJEMA2D); Other supplements
 | 2 at a time | 149 |
 | 3 at a time | 23 |
 | 4+ at a time | 22 |
+| Not NA | 593 |
 | NA | 86781 |
 
 
@@ -11857,6 +12708,7 @@ ALDERUTFYLT:SKJEMA2DBG; (ALDERUTFYLT:SKJEMA2D); (ALDERUTFYLT:SKJEMA2B); Childs a
 | 3rd Qu. | -111 |
 | Max. | 2048 |
 | NA's | 7287 |
+| Not NA | 80087 |
 
 
 ### ALDERRETUR_S2
@@ -11872,6 +12724,7 @@ ALDERRETUR:SKJEMA2DBG; (ALDERRETUR:SKJEMA2D); (ALDERRETUR:SKJEMA2B); Childs age 
 | 3rd Qu. | -101 |
 | Max. | 2052 |
 | NA's | 94 |
+| Not NA | 87280 |
 
 
 ### ALDERUTSENDT_S2
@@ -11887,6 +12740,7 @@ ALDERUTSENDT:SKJEMA2DBG; (ALDERUTSENDT:SKJEMA2D); (ALDERUTSENDT:SKJEMA2B); Child
 | 3rd Qu. | -121 |
 | Max. | 568 |
 | NA's | 94 |
+| Not NA | 87280 |
 
 
 ### Q2P1
@@ -11895,6 +12749,7 @@ Q2P1:SKJEMA2W; (Q2P1:SKJEMA2DBG); (Q2P1:SKJEMA2D); (Q2P1:SKJEMA2C); Number of an
 
 | Category | n |
 | -------- | - |
+| Not NA | 0 |
 | NA | 87374 |
 
 
@@ -11908,6 +12763,7 @@ Q2P2:SKJEMA2W; (Q2P2:SKJEMA2DBG); (Q2P2:SKJEMA2D); (Q2P2:SKJEMA2C); Number of an
 | 0 | 6243 |
 | 2 | 117 |
 | 1 | 26 |
+| Not NA | 87374 |
 | NA | 0 |
 
 
@@ -11923,6 +12779,7 @@ Q2P3:SKJEMA2W; (Q2P3:SKJEMA2DBG); (Q2P3:SKJEMA2D); (Q2P3:SKJEMA2C); Number of an
 | Mean | 19.7907729988326 |
 | 3rd Qu. | 21 |
 | Max. | 27 |
+| Not NA | 87374 |
 
 
 ### Q2P4
@@ -11937,6 +12794,7 @@ Q2P4:SKJEMA2W; (Q2P4:SKJEMA2DBG); (Q2P4:SKJEMA2D); (Q2P4:SKJEMA2C); Number of an
 | Mean | 26.6950236912583 |
 | 3rd Qu. | 29 |
 | Max. | 78 |
+| Not NA | 87374 |
 
 
 ### Q2P5
@@ -11951,6 +12809,7 @@ Q2P5:SKJEMA2W; (Q2P5:SKJEMA2DBG); (Q2P5:SKJEMA2D); (Q2P5:SKJEMA2C); Number of an
 | Mean | 27.4373612287408 |
 | 3rd Qu. | 27 |
 | Max. | 79 |
+| Not NA | 87374 |
 
 
 ### Q2P6
@@ -11965,6 +12824,7 @@ Q2P6:SKJEMA2W; (Q2P6:SKJEMA2DBG); (Q2P6:SKJEMA2D); (Q2P6:SKJEMA2C); Number of an
 | Mean | 35.1343076887861 |
 | 3rd Qu. | 34 |
 | Max. | 102 |
+| Not NA | 87374 |
 
 
 ### Q2P7
@@ -11979,6 +12839,7 @@ Q2P7:SKJEMA2W; (Q2P7:SKJEMA2DBG); (Q2P7:SKJEMA2D); (Q2P7:SKJEMA2C); Number of an
 | Mean | 32.8640213335775 |
 | 3rd Qu. | 33 |
 | Max. | 66 |
+| Not NA | 87374 |
 
 
 ### Q2P8
@@ -11993,6 +12854,7 @@ Q2P8:SKJEMA2W; (Q2P8:SKJEMA2DBG); (Q2P8:SKJEMA2D); (Q2P8:SKJEMA2C); Number of an
 | Mean | 40.1504681026392 |
 | 3rd Qu. | 40 |
 | Max. | 86 |
+| Not NA | 87374 |
 
 
 ### Q2P9
@@ -12007,6 +12869,7 @@ Q2P9:SKJEMA2W; (Q2P9:SKJEMA2DBG); (Q2P9:SKJEMA2D); (Q2P9:SKJEMA2C); Number of an
 | Mean | 28.3108934007828 |
 | 3rd Qu. | 27 |
 | Max. | 81 |
+| Not NA | 87374 |
 
 
 ### Q2P10
@@ -12021,6 +12884,7 @@ Q2P10:SKJEMA2W; (Q2P10:SKJEMA2DBG); (Q2P10:SKJEMA2D); (Q2P10:SKJEMA2C); Number o
 | Mean | 40.8148877240369 |
 | 3rd Qu. | 39 |
 | Max. | 111 |
+| Not NA | 87374 |
 
 
 ### Q2P11
@@ -12035,6 +12899,7 @@ Q2P11:SKJEMA2W; (Q2P11:SKJEMA2DBG); (Q2P11:SKJEMA2D); (Q2P11:SKJEMA2C); Number o
 | Mean | 29.6543594204226 |
 | 3rd Qu. | 28 |
 | Max. | 84 |
+| Not NA | 87374 |
 
 
 ### Q2P12
@@ -12049,6 +12914,7 @@ Q2P12:SKJEMA2W; (Q2P12:SKJEMA2DBG); (Q2P12:SKJEMA2D); (Q2P12:SKJEMA2C); Number o
 | Mean | 19.1684826149656 |
 | 3rd Qu. | 17 |
 | Max. | 81 |
+| Not NA | 87374 |
 
 
 ### Q2P13
@@ -12063,6 +12929,7 @@ Q2P13:SKJEMA2W; (Q2P13:SKJEMA2DBG); (Q2P13:SKJEMA2D); (Q2P13:SKJEMA2C); Number o
 | Mean | 26.1075834916566 |
 | 3rd Qu. | 28 |
 | Max. | 38 |
+| Not NA | 87374 |
 
 
 ### Q2P14
@@ -12077,5 +12944,6 @@ Q2P14:SKJEMA2W; (Q2P14:SKJEMA2DBG); (Q2P14:SKJEMA2D); (Q2P14:SKJEMA2C); Number o
 | Mean | 13.2883466477442 |
 | 3rd Qu. | 18 |
 | Max. | 39 |
+| Not NA | 87374 |
 
 

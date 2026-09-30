@@ -116,6 +116,7 @@ BARN_NR
 | 1 | 42799 |
 | 2 | 679 |
 | 3 | 7 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -129,6 +130,7 @@ VERSJON_KOSTHOLDSSKJEMA_TBL1
 | KOST_UNG_H | 28318 |
 | KOST_UNG_HBM | 13565 |
 | KOST_UNG_P | 405 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -144,6 +146,7 @@ Water (g)
 | Mean | 1957.2327929171 |
 | 3rd Qu. | 2323 |
 | Max. | 13491 |
+| Not NA | 43485 |
 
 
 ### kilojoule
@@ -158,6 +161,7 @@ Kilojoules (kJ)
 | Mean | 8611.34830401288 |
 | 3rd Qu. | 10366 |
 | Max. | 88051 |
+| Not NA | 43485 |
 
 
 ### kilokalorier
@@ -172,6 +176,7 @@ Kilocalories (kcal)
 | Mean | 2048.62591698287 |
 | 3rd Qu. | 2467 |
 | Max. | 21019 |
+| Not NA | 43485 |
 
 
 ### fett
@@ -186,6 +191,7 @@ Fat (g)
 | Mean | 70.421768425894 |
 | 3rd Qu. | 85.8 |
 | Max. | 941.8 |
+| Not NA | 43485 |
 
 
 ### mettet
@@ -200,6 +206,7 @@ Saturated fatty acids (g)
 | Mean | 25.7556950672646 |
 | 3rd Qu. | 31.5 |
 | Max. | 348.7 |
+| Not NA | 43485 |
 
 
 ### c12_0
@@ -214,6 +221,7 @@ C12:0 (g)
 | Mean | 1.50791928251121 |
 | 3rd Qu. | 1.98 |
 | Max. | 21.55 |
+| Not NA | 43485 |
 
 
 ### c14_0
@@ -228,6 +236,7 @@ C14:0 (g)
 | Mean | 2.40224859146832 |
 | 3rd Qu. | 3.01 |
 | Max. | 29.07 |
+| Not NA | 43485 |
 
 
 ### c16_0
@@ -242,6 +251,7 @@ C16:0 (g)
 | Mean | 11.654186271128 |
 | 3rd Qu. | 14.15 |
 | Max. | 159.83 |
+| Not NA | 43485 |
 
 
 ### c18_0
@@ -256,6 +266,7 @@ C18:0 (g)
 | Mean | 5.6639498677705 |
 | 3rd Qu. | 6.92 |
 | Max. | 90.84 |
+| Not NA | 43485 |
 
 
 ### trans
@@ -270,6 +281,7 @@ Transunsaturated fatty acids (g)
 | Mean | 0.498045302978038 |
 | 3rd Qu. | 0.6 |
 | Max. | 7.7 |
+| Not NA | 43485 |
 
 
 ### enumettet
@@ -284,6 +296,7 @@ Cis-mono unsaturated fatty acids (g)
 | Mean | 28.2035920432333 |
 | 3rd Qu. | 34.4 |
 | Max. | 401.4 |
+| Not NA | 43485 |
 
 
 ### c16_1_sum
@@ -298,6 +311,7 @@ C16:1 sum (g)
 | Mean | 0.784700471426929 |
 | 3rd Qu. | 0.96 |
 | Max. | 8.96 |
+| Not NA | 43485 |
 
 
 ### c18_1_sum
@@ -312,6 +326,7 @@ C18:1 sum (g)
 | Mean | 24.5334170403587 |
 | 3rd Qu. | 30.17 |
 | Max. | 355.09 |
+| Not NA | 43485 |
 
 
 ### flerumettet
@@ -326,6 +341,7 @@ Cis-poly unsaturated fatty acids (g)
 | Mean | 9.87298608715649 |
 | 3rd Qu. | 12.3 |
 | Max. | 120.2 |
+| Not NA | 43485 |
 
 
 ### c18_2n_6
@@ -340,6 +356,7 @@ C18:2n-6 (g)
 | Mean | 7.40227066804645 |
 | 3rd Qu. | 9.21 |
 | Max. | 94.98 |
+| Not NA | 43485 |
 
 
 ### c18_3n_3
@@ -354,6 +371,7 @@ C18:3n-3 (g)
 | Mean | 1.81933057376107 |
 | 3rd Qu. | 2.32 |
 | Max. | 22.18 |
+| Not NA | 43485 |
 
 
 ### c20_3n_3
@@ -368,6 +386,7 @@ C20:3n-3 (g)
 | Mean | 0.492814533747269 |
 | 3rd Qu. | 0.61 |
 | Max. | 6.68 |
+| Not NA | 43485 |
 
 
 ### c20_3n_6
@@ -382,6 +401,7 @@ C20:3n-6 (g)
 | Mean | 0.0522927446245832 |
 | 3rd Qu. | 0.06 |
 | Max. | 0.64 |
+| Not NA | 43485 |
 
 
 ### c20_4n_3
@@ -396,6 +416,7 @@ C20:4n-3 (g)
 | Mean | 0.527758077497988 |
 | 3rd Qu. | 0.67 |
 | Max. | 6.96 |
+| Not NA | 43485 |
 
 
 ### c20_4n_6
@@ -410,6 +431,7 @@ C20:4n-6 (g)
 | Mean | 0.391777854432563 |
 | 3rd Qu. | 0.48 |
 | Max. | 5.13 |
+| Not NA | 43485 |
 
 
 ### c20_5n_3
@@ -424,6 +446,7 @@ C20:5n-3 (EPA) (g)
 | Mean | 0.212732436472347 |
 | 3rd Qu. | 0.26 |
 | Max. | 2.62 |
+| Not NA | 43485 |
 
 
 ### c22_5n_3
@@ -438,6 +461,7 @@ C22:5n-3 (DPA) (g)
 | Mean | 0.304975048867426 |
 | 3rd Qu. | 0.37 |
 | Max. | 3.79 |
+| Not NA | 43485 |
 
 
 ### c22_6n_3
@@ -452,6 +476,7 @@ C22:6n-3 (DHA) (g)
 | Mean | 0.333591353340232 |
 | 3rd Qu. | 0.4 |
 | Max. | 4.18 |
+| Not NA | 43485 |
 
 
 ### omega_3
@@ -466,6 +491,7 @@ Cis-poly unsaturated fatty acids, n-3 (g)
 | Mean | 2.51554467057606 |
 | 3rd Qu. | 3.22 |
 | Max. | 25.12 |
+| Not NA | 43485 |
 
 
 ### omega_6
@@ -480,6 +506,7 @@ Cis-poly unsaturated fatty acids, n-6 (g)
 | Mean | 7.80811728182132 |
 | 3rd Qu. | 9.72 |
 | Max. | 94.92 |
+| Not NA | 43485 |
 
 
 ### kolesterol
@@ -494,6 +521,7 @@ Cholesterol (mg)
 | Mean | 213.435207542831 |
 | 3rd Qu. | 262 |
 | Max. | 2882 |
+| Not NA | 43485 |
 
 
 ### karbohydrat
@@ -508,6 +536,7 @@ Carbohydrate, glycemic (g)
 | Mean | 253.858611015293 |
 | 3rd Qu. | 306.6 |
 | Max. | 2607.4 |
+| Not NA | 43485 |
 
 
 ### stivelse
@@ -522,6 +551,7 @@ Starch (g)
 | Mean | 133.923817408302 |
 | 3rd Qu. | 165.9 |
 | Max. | 1183.5 |
+| Not NA | 43485 |
 
 
 ### mono_disakk
@@ -536,6 +566,7 @@ Mono+Di saccharides (g)
 | Mean | 115.297681959296 |
 | 3rd Qu. | 141.6 |
 | Max. | 1637 |
+| Not NA | 43485 |
 
 
 ### sukker_tilsatt
@@ -550,6 +581,7 @@ Sugar, added (g)
 | Mean | 44.7015223640336 |
 | 3rd Qu. | 55.5 |
 | Max. | 1223.4 |
+| Not NA | 43485 |
 
 
 ### kostfiber
@@ -564,6 +596,7 @@ Dietary fibre (g)
 | Mean | 23.1505599632057 |
 | 3rd Qu. | 28.8 |
 | Max. | 205.4 |
+| Not NA | 43485 |
 
 
 ### protein
@@ -578,6 +611,7 @@ Protein (g)
 | Mean | 88.4157249626308 |
 | 3rd Qu. | 107.4 |
 | Max. | 920.6 |
+| Not NA | 43485 |
 
 
 ### salt
@@ -592,6 +626,7 @@ Salt (g)
 | Mean | 6.53311256755203 |
 | 3rd Qu. | 8 |
 | Max. | 67.9 |
+| Not NA | 43485 |
 
 
 ### alkohol
@@ -606,6 +641,7 @@ Alcohol (g)
 | Mean | 0.0444751063585144 |
 | 3rd Qu. | 0 |
 | Max. | 14.9 |
+| Not NA | 43485 |
 
 
 ### vitamin_a
@@ -620,6 +656,7 @@ Vitamin A (RAE)
 | Mean | 750.950097734851 |
 | 3rd Qu. | 908 |
 | Max. | 7796 |
+| Not NA | 43485 |
 
 
 ### retinol
@@ -634,6 +671,7 @@ Retinol (µg)
 | Mean | 536.904081867311 |
 | 3rd Qu. | 631 |
 | Max. | 7498 |
+| Not NA | 43485 |
 
 
 ### beta_karoten
@@ -648,6 +686,7 @@ Beta-carotene (µg)
 | Mean | 2120.78254570542 |
 | 3rd Qu. | 2702 |
 | Max. | 27843 |
+| Not NA | 43485 |
 
 
 ### vitamin_d
@@ -662,6 +701,7 @@ Vitamin D (µg)
 | Mean | 4.79405772105324 |
 | 3rd Qu. | 6.2 |
 | Max. | 54.6 |
+| Not NA | 43485 |
 
 
 ### vitamin_e
@@ -676,6 +716,7 @@ Vitamin E (alfa-TE)
 | Mean | 10.613133264344 |
 | 3rd Qu. | 13 |
 | Max. | 121.6 |
+| Not NA | 43485 |
 
 
 ### tiamin
@@ -690,6 +731,7 @@ Thiamin (mg)
 | Mean | 1.54499252615845 |
 | 3rd Qu. | 1.9 |
 | Max. | 11.85 |
+| Not NA | 43485 |
 
 
 ### riboflavin
@@ -704,6 +746,7 @@ Riboflavin (mg)
 | Mean | 1.90682534207198 |
 | 3rd Qu. | 2.37 |
 | Max. | 19.3 |
+| Not NA | 43485 |
 
 
 ### niacin
@@ -718,6 +761,7 @@ Niacin (mg)
 | Mean | 18.4816925376567 |
 | 3rd Qu. | 22.3 |
 | Max. | 204.6 |
+| Not NA | 43485 |
 
 
 ### vitamin_b6
@@ -732,6 +776,7 @@ Vitamin B6 (mg)
 | Mean | 1.65862918247672 |
 | 3rd Qu. | 2.01 |
 | Max. | 17.74 |
+| Not NA | 43485 |
 
 
 ### folat
@@ -746,6 +791,7 @@ Folate (µg)
 | Mean | 252.053351730482 |
 | 3rd Qu. | 311 |
 | Max. | 2629 |
+| Not NA | 43485 |
 
 
 ### vitamin_b12
@@ -760,6 +806,7 @@ Vitamin B12 (µg)
 | Mean | 6.342476716109 |
 | 3rd Qu. | 8.1 |
 | Max. | 67.2 |
+| Not NA | 43485 |
 
 
 ### vitamin_c
@@ -774,6 +821,7 @@ Vitamin C (mg)
 | Mean | 111.711463723123 |
 | 3rd Qu. | 142 |
 | Max. | 1352 |
+| Not NA | 43485 |
 
 
 ### kalsium
@@ -788,6 +836,7 @@ Calcium (mg)
 | Mean | 1069.38525928481 |
 | 3rd Qu. | 1395 |
 | Max. | 9089 |
+| Not NA | 43485 |
 
 
 ### jern
@@ -802,6 +851,7 @@ Iron (mg)
 | Mean | 9.52705760607106 |
 | 3rd Qu. | 11.7 |
 | Max. | 92.8 |
+| Not NA | 43485 |
 
 
 ### natrium
@@ -816,6 +866,7 @@ Sodium (mg)
 | Mean | 2620.41825916983 |
 | 3rd Qu. | 3204 |
 | Max. | 27241 |
+| Not NA | 43485 |
 
 
 ### kalium
@@ -830,6 +881,7 @@ Potassium (mg)
 | Mean | 3615.52944693572 |
 | 3rd Qu. | 4413 |
 | Max. | 33695 |
+| Not NA | 43485 |
 
 
 ### magnesium
@@ -844,6 +896,7 @@ Magnesium (mg)
 | Mean | 341.58252270898 |
 | 3rd Qu. | 418 |
 | Max. | 2837 |
+| Not NA | 43485 |
 
 
 ### sink
@@ -858,6 +911,7 @@ Zinc (mg)
 | Mean | 11.5140255260435 |
 | 3rd Qu. | 14 |
 | Max. | 118.4 |
+| Not NA | 43485 |
 
 
 ### selen
@@ -872,6 +926,7 @@ Selenium (µg)
 | Mean | 46.8784868345406 |
 | 3rd Qu. | 58 |
 | Max. | 535 |
+| Not NA | 43485 |
 
 
 ### kopper
@@ -886,6 +941,7 @@ Copper (mg)
 | Mean | 1.09753915143153 |
 | 3rd Qu. | 1.34 |
 | Max. | 10.58 |
+| Not NA | 43485 |
 
 
 ### fosfor
@@ -900,6 +956,7 @@ Phosphorus (mg)
 | Mean | 1740.27593423019 |
 | 3rd Qu. | 2158 |
 | Max. | 14610 |
+| Not NA | 43485 |
 
 
 ### jod
@@ -914,6 +971,7 @@ Iodine (µg)
 | Mean | 148.34894561343 |
 | 3rd Qu. | 192.5 |
 | Max. | 1552.2 |
+| Not NA | 43485 |
 
 
 ### spis13_01
@@ -928,6 +986,7 @@ Milkproducts, fullfat (gram/day)
 | Mean | 31.3584861837415 |
 | 3rd Qu. | 0 |
 | Max. | 1274.9873 |
+| Not NA | 43485 |
 
 
 ### spis13_02
@@ -942,6 +1001,7 @@ Milkproducts, lowfat (gram/day)
 | Mean | 280.340206698862 |
 | 3rd Qu. | 562.4944 |
 | Max. | 2924.9709 |
+| Not NA | 43485 |
 
 
 ### spis13_03
@@ -956,6 +1016,7 @@ Biola and cultura milk (probiotic milk) (gram/day)
 | Mean | 21.927158406347 |
 | 3rd Qu. | 14.9998 |
 | Max. | 1349.9865 |
+| Not NA | 43485 |
 
 
 ### spis13_04
@@ -971,6 +1032,7 @@ Plantbased alternatives to milk (gram/day)
 | 29.9997 | 479 |
 | 674.9933 | 73 |
 | 562.4944 | 114 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -987,6 +1049,7 @@ Water (gram/day)
 | 562.4944 | 13549 |
 | 119.9988 | 2507 |
 | 14.9998 | 358 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -1002,6 +1065,7 @@ Juice and nectar (gram/day)
 | Mean | 124.868528232724 |
 | 3rd Qu. | 164.9983 |
 | Max. | 2024.9798 |
+| Not NA | 43485 |
 
 
 ### spis13_07
@@ -1016,6 +1080,7 @@ Fruit syrup, ice tea, slush and smoothie with sugar (gram/day)
 | Mean | 74.5883728803036 |
 | 3rd Qu. | 119.9988 |
 | Max. | 1424.9858 |
+| Not NA | 43485 |
 
 
 ### spis13_08
@@ -1030,6 +1095,7 @@ Soft drinks with artificial sweetener (carbonated and non-carbonated) (gram/day)
 | Mean | 93.7977493388525 |
 | 3rd Qu. | 136.6653 |
 | Max. | 1424.9858 |
+| Not NA | 43485 |
 
 
 ### spis13_09
@@ -1044,6 +1110,7 @@ Soft drinks with sugar (carbonated) and energy drinks (gram/day)
 | Mean | 91.7985570679545 |
 | 3rd Qu. | 133.332 |
 | Max. | 2249.9775 |
+| Not NA | 43485 |
 
 
 ### spis13_10
@@ -1059,6 +1126,7 @@ Coffee drinks without milk (gram/day)
 | 224.9978 | 244 |
 | 119.9988 | 449 |
 | 674.9933 | 16 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -1074,6 +1142,7 @@ Tea (gram/day)
 | Mean | 34.0374507508336 |
 | 3rd Qu. | 33.333 |
 | Max. | 2999.9702 |
+| Not NA | 43485 |
 
 
 ### spis13_12
@@ -1088,6 +1157,7 @@ Sugar in tea/coffee (gram/day)
 | Mean | 1.21690486604576 |
 | 3rd Qu. | 0 |
 | Max. | 459.6621 |
+| Not NA | 43485 |
 
 
 ### spis13_13
@@ -1102,6 +1172,7 @@ Beer, wine and cider  (gram/day)
 | Mean | 1.12571074163505 |
 | 3rd Qu. | 0 |
 | Max. | 367.9963 |
+| Not NA | 43485 |
 
 
 ### spis13_14
@@ -1116,6 +1187,7 @@ Yogurt (gram/day)
 | Mean | 53.8141276785098 |
 | 3rd Qu. | 73.3326 |
 | Max. | 918.3242 |
+| Not NA | 43485 |
 
 
 ### spis13_15
@@ -1130,6 +1202,7 @@ Probiotic yogurt (biola, activia) (gram/day)
 | 93.3324 | 840 |
 | 174.9983 | 166 |
 | 221.6645 | 36 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -1145,6 +1218,7 @@ Porridge (oat, rice, other) (gram/day)
 | Mean | 52.0329468138439 |
 | 3rd Qu. | 64.9994 |
 | Max. | 1049.9895 |
+| Not NA | 43485 |
 
 
 ### spis13_17
@@ -1159,6 +1233,7 @@ Breakfastcereals, müsli (gram/day)
 | Mean | 56.0919732666437 |
 | 3rd Qu. | 98.6657 |
 | Max. | 785.3255 |
+| Not NA | 43485 |
 
 
 ### spis13_18
@@ -1173,6 +1248,7 @@ Wholegrain and medium grain bread (gram/day)
 | Mean | 147.513820568012 |
 | 3rd Qu. | 224.9978 |
 | Max. | 769.9923 |
+| Not NA | 43485 |
 
 
 ### spis13_19
@@ -1187,6 +1263,7 @@ Refined bread (gram/day)
 | Mean | 16.0216269909164 |
 | 3rd Qu. | 16.6665 |
 | Max. | 479.9952 |
+| Not NA | 43485 |
 
 
 ### spis13_20
@@ -1201,6 +1278,7 @@ Butter, margarine and mayonnaise on bread (gram/day)
 | Mean | 13.4517194158905 |
 | 3rd Qu. | 20.1665 |
 | Max. | 249.5705 |
+| Not NA | 43485 |
 
 
 ### spis13_21
@@ -1215,6 +1293,7 @@ Meat spread and cold cuts (gram/day)
 | Mean | 13.3084993423019 |
 | 3rd Qu. | 18.4401 |
 | Max. | 190.3981 |
+| Not NA | 43485 |
 
 
 ### spis13_22
@@ -1229,6 +1308,7 @@ Cheese and cheese spread (gram/day)
 | Mean | 17.7890951960446 |
 | 3rd Qu. | 24.0354 |
 | Max. | 197.498 |
+| Not NA | 43485 |
 
 
 ### spis13_23
@@ -1243,6 +1323,7 @@ Egg on bread (gram/day)
 | Mean | 5.57738972289295 |
 | 3rd Qu. | 4.0333 |
 | Max. | 281.9014 |
+| Not NA | 43485 |
 
 
 ### spis13_24
@@ -1257,6 +1338,7 @@ Fish spread (gram/day)
 | Mean | 2.23824777509486 |
 | 3rd Qu. | 1.3853 |
 | Max. | 239.9976 |
+| Not NA | 43485 |
 
 
 ### spis13_25
@@ -1271,6 +1353,7 @@ Sweet and nut spread (jam, peanut butter, honey etc.) (gram/day)
 | Mean | 7.30990875704266 |
 | 3rd Qu. | 9.3636 |
 | Max. | 239.9976 |
+| Not NA | 43485 |
 
 
 ### spis13_26
@@ -1285,6 +1368,7 @@ Meat for dinner (gram/day)
 | Mean | 116.548884058871 |
 | 3rd Qu. | 143.9986 |
 | Max. | 2069.9794 |
+| Not NA | 43485 |
 
 
 ### spis13_27
@@ -1299,6 +1383,7 @@ Chicken for dinner (gram/day)
 | Mean | 16.4778566402208 |
 | 3rd Qu. | 19.9998 |
 | Max. | 289.9971 |
+| Not NA | 43485 |
 
 
 ### spis13_28
@@ -1313,6 +1398,7 @@ Fish and seafood for dinner (gram/day)
 | Mean | 43.1603062297344 |
 | 3rd Qu. | 59.1661 |
 | Max. | 899.4911 |
+| Not NA | 43485 |
 
 
 ### spis13_29
@@ -1327,6 +1413,7 @@ Vegetarian dinner (gram/day)
 | Mean | 30.7469249304358 |
 | 3rd Qu. | 39.1663 |
 | Max. | 649.9935 |
+| Not NA | 43485 |
 
 
 ### spis13_30
@@ -1341,6 +1428,7 @@ Pancakes and omelette for dinner (gram/day)
 | Mean | 21.0697483569047 |
 | 3rd Qu. | 26.4997 |
 | Max. | 344.9966 |
+| Not NA | 43485 |
 
 
 ### spis13_31
@@ -1355,6 +1443,7 @@ Sugar/jam on pancakes and porridge (gram/day)
 | Mean | 1.10728335058066 |
 | 3rd Qu. | 1.5 |
 | Max. | 51.6661 |
+| Not NA | 43485 |
 
 
 ### spis13_32
@@ -1369,6 +1458,7 @@ Potatoes with the dinner (gram/day)
 | Mean | 37.9125508060251 |
 | 3rd Qu. | 50.1662 |
 | Max. | 421.9958 |
+| Not NA | 43485 |
 
 
 ### spis13_33
@@ -1384,6 +1474,7 @@ Rice with the dinner (gram/day)
 | 53.3328 | 6817 |
 | 106.6656 | 797 |
 | 159.9984 | 115 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -1400,6 +1491,7 @@ Pasta with the dinner (gram/day)
 | 16.2498 | 13057 |
 | 129.9987 | 582 |
 | 194.9981 | 79 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -1415,6 +1507,7 @@ Gravy and dressing with the dinner (gram/day)
 | Mean | 13.8840094285386 |
 | 3rd Qu. | 18.2498 |
 | Max. | 112.9989 |
+| Not NA | 43485 |
 
 
 ### spis13_36
@@ -1429,6 +1522,7 @@ Ketchup, mustard, rémoulade and mayonnaise with the dinner (gram/day)
 | Mean | 3.05922178682304 |
 | 3rd Qu. | 3.3333 |
 | Max. | 39.9996 |
+| Not NA | 43485 |
 
 
 ### spis13_37
@@ -1443,6 +1537,7 @@ Fruits (gram/day)
 | Mean | 96.7655368310912 |
 | 3rd Qu. | 130.5554 |
 | Max. | 1674.3747 |
+| Not NA | 43485 |
 
 
 ### spis13_38
@@ -1459,6 +1554,7 @@ Berries (gram/day)
 | 16.3332 | 6626 |
 | 122.4988 | 856 |
 | 244.9976 | 295 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -1474,6 +1570,7 @@ Dried fruits (gram/day)
 | Mean | 2.03577196734506 |
 | 3rd Qu. | 1.8333 |
 | Max. | 109.9989 |
+| Not NA | 43485 |
 
 
 ### spis13_40
@@ -1488,6 +1585,7 @@ Vegetables (gram/day)
 | Mean | 105.110652528458 |
 | 3rd Qu. | 143.1516 |
 | Max. | 1261.9133 |
+| Not NA | 43485 |
 
 
 ### spis13_41
@@ -1502,6 +1600,7 @@ Cackes, cookies and buns (gram/day)
 | Mean | 14.1782521605151 |
 | 3rd Qu. | 16.7498 |
 | Max. | 501.995 |
+| Not NA | 43485 |
 
 
 ### spis13_42
@@ -1516,6 +1615,7 @@ Desserts (gram/day)
 | Mean | 22.0302247326664 |
 | 3rd Qu. | 27.1664 |
 | Max. | 1719.9829 |
+| Not NA | 43485 |
 
 
 ### spis13_43
@@ -1530,6 +1630,7 @@ Crisps and nuts (gram/day)
 | Mean | 17.9714726457399 |
 | 3rd Qu. | 23.3331 |
 | Max. | 439.9956 |
+| Not NA | 43485 |
 
 
 ### spis13_44
@@ -1544,6 +1645,7 @@ Chocolate and sweets (gram/day)
 | Mean | 23.2549614004829 |
 | 3rd Qu. | 28.3331 |
 | Max. | 699.9931 |
+| Not NA | 43485 |
 
 
 ### spis13_45
@@ -1553,6 +1655,7 @@ Dummy (empty)
 | Category | n |
 | -------- | - |
 | 0 | 43485 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -1569,6 +1672,7 @@ Tea with milk (gram/day)
 | 779.9923 | 18 |
 | 138.6653 | 1175 |
 | 649.9935 | 112 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -1585,6 +1689,7 @@ Coffee drinks with milk (gram/day)
 | 133.332 | 2231 |
 | 624.9938 | 135 |
 | 749.9926 | 31 |
+| Not NA | 43485 |
 | NA | 0 |
 
 
@@ -1600,5 +1705,6 @@ Fastfood, hamburger, pizza (gram/day)
 | Mean | 36.445975754858 |
 | 3rd Qu. | 44.1662 |
 | Max. | 424.9958 |
+| Not NA | 43485 |
 
 

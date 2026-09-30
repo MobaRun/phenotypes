@@ -67,6 +67,7 @@
 | 1 | 7477 |
 | 2 | 120 |
 | 3 | 1 |
+| Not NA | 7598 |
 | NA | 0 |
 
 
@@ -76,6 +77,7 @@
 | Category | n |
 | -------- | - |
 | LIVSVALGHELSE_A | 7598 |
+| Not NA | 7598 |
 | NA | 0 |
 
 
@@ -87,6 +89,7 @@ QLTB-A_1:LIVSVALGHELSE_A; ; 1. Har du barn?
 | -------- | - |
 | Nei | 7511 |
 | Ja | 87 |
+| Not NA | 7598 |
 | NA | 0 |
 
 
@@ -100,6 +103,7 @@ QLTB-A_1_1_1:LIVSVALGHELSE_A; Ønsker du å få biologiske barn?(Hvis nei); 1. H
 | Vet ikke | 1142 |
 | Nei, jeg ønsker ikke å få biologiske barn | 621 |
 | Jeg kan ikke få biologiske barn | 47 |
+| Not NA | 7506 |
 | NA | 92 |
 
 
@@ -113,6 +117,7 @@ QLTB-A_1_1_1_1:LIVSVALGHELSE_A; Når regner du med å få biologiske barn?(Hvis 
 | I løpet av de neste 3-4 årene | 946 |
 | Vet ikke | 786 |
 | I løpet av de neste 1-2 årene | 207 |
+| Not NA | 6836 |
 | NA | 762 |
 
 
@@ -129,6 +134,7 @@ QLTB-A_1_1_2_1:LIVSVALGHELSE_A; Hvor mange biologiske barn ønsker du deg? (Hvis
 | 5 | 42 |
 | 1 | 148 |
 | 6 eller flere | 18 |
+| Not NA | 6832 |
 | NA | 766 |
 
 
@@ -143,6 +149,7 @@ QLTB-A_1_1_3_1:LIVSVALGHELSE_A; Hvordan ser du for deg å bli gravid / at din pa
 | Vet ikke | 336 |
 | Annet | 43 |
 | Ikke aktuelt | 47 |
+| Not NA | 6830 |
 | NA | 768 |
 
 
@@ -159,6 +166,7 @@ QLTB-A_1_1_4_1:LIVSVALGHELSE_A; Oppgi alder i år:Ved hvilken alder ønsker du �
 | 3rd Qu. | 29 |
 | Max. | 45 |
 | NA's | 1714 |
+| Not NA | 5884 |
 
 
 ### LH18
@@ -168,6 +176,7 @@ QLTB-A_1_1_4_2:LIVSVALGHELSE_A; Vet ikke.Ved hvilken alder ønsker du å få dit
 | Category | n |
 | -------- | - |
 | VET IKKE | 1082 |
+| Not NA | 1082 |
 | NA | 6516 |
 
 
@@ -184,6 +193,7 @@ QLTB-A_1_1_5_1:LIVSVALGHELSE_A; Oppgi alder i år:Ved hvilken alder ønsker du �
 | 3rd Qu. | 35 |
 | Max. | 70 |
 | NA's | 2204 |
+| Not NA | 5394 |
 
 
 ### LH20
@@ -193,6 +203,7 @@ QLTB-A_1_1_5_2:LIVSVALGHELSE_A; Vet ikke. Ved hvilken alder ønsker du å få di
 | Category | n |
 | -------- | - |
 | VET IKKE | 1571 |
+| Not NA | 1571 |
 | NA | 6027 |
 
 
@@ -206,6 +217,7 @@ QLTB-A_1_2_1:LIVSVALGHELSE_A; Ønsker du å få flere biologiske barn?(Hvis ja);
 | Nei, jeg ønsker ikke å få flere biologiske barn | 6 |
 | Vet ikke | 7 |
 | Jeg kan ikke lenger få biologiske barn | 2 |
+| Not NA | 87 |
 | NA | 7511 |
 
 
@@ -219,6 +231,7 @@ QLTB-A_1_2_1_1:LIVSVALGHELSE_A; Når regner du med å få flere biologiske barn?
 | I løpet av de neste 3-4 årene | 28 |
 | Om 5 år eller senere | 8 |
 | Vet ikke | 7 |
+| Not NA | 79 |
 | NA | 7519 |
 
 
@@ -234,6 +247,7 @@ QLTB-A_1_2_2_1:LIVSVALGHELSE_A; Hvor mange flere biologiske barn ønsker du deg?
 | 3 | 17 |
 | 5 | 1 |
 | 4 | 5 |
+| Not NA | 79 |
 | NA | 7519 |
 
 
@@ -245,6 +259,7 @@ QLTB-A_1_2_3_1:LIVSVALGHELSE_A; Hvordan ser du for deg å bli gravid / at din pa
 | -------- | - |
 | Ved samleie | 76 |
 | Ved hjelp av fertilitetsbehandling | 3 |
+| Not NA | 79 |
 | NA | 7519 |
 
 
@@ -262,6 +277,7 @@ QLTB-A_1_2_4_1:LIVSVALGHELSE_A; Oppgi alder i år:Ved hvilken alder ønsker du �
 | 26 | 9 |
 | 28 | 3 |
 | 21 | 2 |
+| Not NA | 69 |
 | NA | 7529 |
 
 
@@ -272,6 +288,7 @@ QLTB-A_1_2_4_2:LIVSVALGHELSE_A; Vet ikke.Oppgi alder i år:Ved hvilken alder øn
 | Category | n |
 | -------- | - |
 | VET IKKE | 10 |
+| Not NA | 10 |
 | NA | 7588 |
 
 
@@ -296,6 +313,7 @@ QLTB-A_1_2_5_1:LIVSVALGHELSE_A; Oppgi alder i år:Ved hvilken alder ønsker du �
 | 24 | 1 |
 | 33 | 1 |
 | 31 | 1 |
+| Not NA | 64 |
 | NA | 7534 |
 
 
@@ -306,6 +324,7 @@ QLTB-A_1_2_5_2:LIVSVALGHELSE_A; Vet ikke.Ved hvilken alder ønsker du å få dit
 | Category | n |
 | -------- | - |
 | VET IKKE | 17 |
+| Not NA | 17 |
 | NA | 7581 |
 
 
@@ -316,6 +335,7 @@ QLTB-A_2_1:LIVSVALGHELSE_A; Jeg ønsker å adoptere.; 2. Å få biologiske barn 
 | Category | n |
 | -------- | - |
 | 1 | 1264 |
+| Not NA | 1264 |
 | NA | 6334 |
 
 
@@ -326,6 +346,7 @@ QLTB-A_2_2:LIVSVALGHELSE_A; Jeg ønsker å ha fosterbarn.; 2. Å få biologiske 
 | Category | n |
 | -------- | - |
 | 1 | 909 |
+| Not NA | 909 |
 | NA | 6689 |
 
 
@@ -336,6 +357,7 @@ QLTB-A_2_3:LIVSVALGHELSE_A; Jeg ønsker å møte en partner som har barn; 2. Å 
 | Category | n |
 | -------- | - |
 | 1 | 505 |
+| Not NA | 505 |
 | NA | 7093 |
 
 
@@ -348,6 +370,7 @@ QLTB-A_2_1_1:LIVSVALGHELSE_A; Når regner du med å få barn (som ikke er biolog
 | Om 5 år eller senere | 986 |
 | Vet ikke | 631 |
 | I løpet av de neste 3-4 årene | 25 |
+| Not NA | 1642 |
 | NA | 5956 |
 
 
@@ -363,6 +386,7 @@ QLTB-A_2_2_1:LIVSVALGHELSE_A; Hvor mange barn (som ikke er biologiske) ønsker d
 | 3 | 48 |
 | 4 | 5 |
 | 6 eller flere | 1 |
+| Not NA | 1642 |
 | NA | 5956 |
 
 
@@ -379,6 +403,7 @@ QLTB-A_2_3_1:LIVSVALGHELSE_A; Oppgi alder i år:Ved hvilken alder ønsker du å 
 | 3rd Qu. | 35 |
 | Max. | 54 |
 | NA's | 6808 |
+| Not NA | 790 |
 
 
 ### LH35
@@ -388,6 +413,7 @@ QLTB-A_2_3_2:LIVSVALGHELSE_A; Vet ikke.Oppgi alder i år:Ved hvilken alder ønsk
 | Category | n |
 | -------- | - |
 | VET IKKE | 885 |
+| Not NA | 885 |
 | NA | 6713 |
 
 
@@ -404,6 +430,7 @@ QLTB-A_2_4_1:LIVSVALGHELSE_A; Oppgi alder i år:Ved hvilken alder ønsker du å 
 | 3rd Qu. | 39 |
 | Max. | 70 |
 | NA's | 6928 |
+| Not NA | 670 |
 
 
 ### LH37
@@ -413,6 +440,7 @@ QLTB-A_2_4_2:LIVSVALGHELSE_A; Vet ikke.Oppgi alder i år:Ved hvilken alder ønsk
 | Category | n |
 | -------- | - |
 | VET IKKE | 992 |
+| Not NA | 992 |
 | NA | 6606 |
 
 
@@ -433,6 +461,7 @@ QLTB-A_3:LIVSVALGHELSE_A; Er du bekymret  for at alder skal gjøre at du ikke f�
 | 7 | 476 |
 | 9 | 71 |
 | 10 | 85 |
+| Not NA | 6797 |
 | NA | 801 |
 
 
@@ -453,6 +482,7 @@ QLTB-A_4:LIVSVALGHELSE_A; Er du bekymret for at ulike risikofaktorer, som f.eks.
 | 9 | 61 |
 | 7 | 177 |
 | 10 | 74 |
+| Not NA | 6792 |
 | NA | 806 |
 
 
@@ -472,6 +502,7 @@ QLTB-A_5:LIVSVALGHELSE_A; Er du bekymret for at alder skal gjøre at du ikke få
 | 8 | 4 |
 | 6 | 4 |
 | 10 | 1 |
+| Not NA | 78 |
 | NA | 7520 |
 
 
@@ -489,6 +520,7 @@ QLTB-A_6:LIVSVALGHELSE_A; Er du bekymret for at ulike risikofaktorer, som f.eks.
 | 3 | 2 |
 | 7 | 1 |
 | 6 | 2 |
+| Not NA | 79 |
 | NA | 7519 |
 
 
@@ -508,6 +540,7 @@ QLTB-A_7:LIVSVALGHELSE_A; Realisere mine utdannings- eller karriereambisjoner.; 
 | 3 | 84 |
 | 4 | 168 |
 | 1 | 59 |
+| Not NA | 7582 |
 | NA | 16 |
 
 
@@ -527,6 +560,7 @@ QLTB-A_8:LIVSVALGHELSE_A; Dyrke mine hobbyer og andre personlige interesser.; 8.
 | 4 | 292 |
 | 2 | 45 |
 | 1 | 28 |
+| Not NA | 7589 |
 | NA | 9 |
 
 
@@ -546,6 +580,7 @@ QLTB-A_9:LIVSVALGHELSE_A; Få barn / ta vare på de barna jeg har.; 9. Hvor vikt
 | 3 | 453 |
 | 8 | 849 |
 | 7 | 671 |
+| Not NA | 7542 |
 | NA | 56 |
 
 
@@ -565,6 +600,7 @@ QLTB-A_10:LIVSVALGHELSE_A; Holde kontakt med venner.; 10. Hvor viktige er disse 
 | 6 | 533 |
 | 1 | 23 |
 | 2 | 23 |
+| Not NA | 7582 |
 | NA | 16 |
 
 
@@ -584,6 +620,7 @@ QLTB-A_11:LIVSVALGHELSE_A; Leve med en partner.; 11. Hvor viktige er disse fem l
 | 6 | 482 |
 | 1 | 201 |
 | 3 | 218 |
+| Not NA | 7573 |
 | NA | 25 |
 
 
@@ -596,6 +633,7 @@ M1_QLTB-A_12_1:LIVSVALGHELSE_A; Det er vanskeligere for en kvinne å bli gravid 
 | Usant | 295 |
 | Sant | 6726 |
 | Vet ikke | 556 |
+| Not NA | 7577 |
 | NA | 21 |
 
 
@@ -608,6 +646,7 @@ M1_QLTB-A_12_2:LIVSVALGHELSE_A; Et par har nedsatt fruktbarhet hvis de ikke har 
 | Vet ikke | 2673 |
 | Sant | 3042 |
 | Usant | 1852 |
+| Not NA | 7567 |
 | NA | 31 |
 
 
@@ -620,6 +659,7 @@ M1_QLTB-A_12_3:LIVSVALGHELSE_A; Røyking reduserer kvinners fruktbarhet.; 12. An
 | Sant | 6001 |
 | Vet ikke | 1365 |
 | Usant | 203 |
+| Not NA | 7569 |
 | NA | 29 |
 
 
@@ -632,6 +672,7 @@ M1_QLTB-A_12_4:LIVSVALGHELSE_A; Røyking reduserer menns fruktbarhet.; 12. Angi 
 | Sant | 5954 |
 | Vet ikke | 1418 |
 | Usant | 198 |
+| Not NA | 7570 |
 | NA | 28 |
 
 
@@ -644,6 +685,7 @@ M1_QLTB-A_12_5:LIVSVALGHELSE_A; Omtrent 1 av 10 har nedsatt fruktbarhet.; 12. An
 | Vet ikke | 4017 |
 | Sant | 3311 |
 | Usant | 239 |
+| Not NA | 7567 |
 | NA | 31 |
 
 
@@ -656,6 +698,7 @@ M1_QLTB-A_12_6:LIVSVALGHELSE_A; Hvis en mann produserer sædceller er han fruktb
 | Vet ikke | 1350 |
 | Usant | 5256 |
 | Sant | 963 |
+| Not NA | 7569 |
 | NA | 29 |
 
 
@@ -668,6 +711,7 @@ M1_QLTB-A_12_7:LIVSVALGHELSE_A; En kvinne i 40-årene har like stor sannsynlighe
 | Vet ikke | 650 |
 | Usant | 6729 |
 | Sant | 189 |
+| Not NA | 7568 |
 | NA | 30 |
 
 
@@ -680,6 +724,7 @@ M1_QLTB-A_12_8:LIVSVALGHELSE_A; Sunn livsstil gjør deg mer fruktbar.; 12. Angi 
 | Sant | 5881 |
 | Vet ikke | 1302 |
 | Usant | 385 |
+| Not NA | 7568 |
 | NA | 30 |
 
 
@@ -692,6 +737,7 @@ M1_QLTB-A_12_9:LIVSVALGHELSE_A; Hvis en mann får kusma etter puberteten har han
 | Vet ikke | 6113 |
 | Sant | 1275 |
 | Usant | 165 |
+| Not NA | 7553 |
 | NA | 45 |
 
 
@@ -704,6 +750,7 @@ M1_QLTB-A_12_10:LIVSVALGHELSE_A; En kvinne som aldri har menstruasjon er allikev
 | Vet ikke | 3238 |
 | Usant | 3369 |
 | Sant | 941 |
+| Not NA | 7548 |
 | NA | 50 |
 
 
@@ -716,6 +763,7 @@ M1_QLTB-A_12_11:LIVSVALGHELSE_A; Hvis en kvinne er overvektig (veier minst 13 kg
 | Sant | 3582 |
 | Vet ikke | 2886 |
 | Usant | 1087 |
+| Not NA | 7555 |
 | NA | 43 |
 
 
@@ -728,6 +776,7 @@ M1_QLTB-A_12_12:LIVSVALGHELSE_A; Hvis en mann kan få ereksjon betyr det at han 
 | Usant | 6855 |
 | Vet ikke | 614 |
 | Sant | 86 |
+| Not NA | 7555 |
 | NA | 43 |
 
 
@@ -740,6 +789,7 @@ M1_QLTB-A_12_13:LIVSVALGHELSE_A; Hvis man har hatt en kjønnssykdom har man økt
 | Sant | 5335 |
 | Vet ikke | 1674 |
 | Usant | 549 |
+| Not NA | 7558 |
 | NA | 40 |
 
 
@@ -752,6 +802,7 @@ M1_QLTB-A_12_14:LIVSVALGHELSE_A; En mann er mindre fruktbar etter han har blitt 
 | Vet ikke | 1823 |
 | Sant | 3372 |
 | Usant | 2364 |
+| Not NA | 7559 |
 | NA | 39 |
 
 
@@ -769,6 +820,7 @@ QLTB-A_13:LIVSVALGHELSE_A; Hvis en kvinne på 30-35 år har regelmessig ubeskytt
 | 30-39 % | 1354 |
 | 90-100 % | 165 |
 | 0-9 % | 16 |
+| Not NA | 7513 |
 | NA | 85 |
 
 
@@ -786,6 +838,7 @@ QLTB-A_14:LIVSVALGHELSE_A; Hvis en kvinne på 40-45 år har regelmessig ubeskytt
 | 20-29 % | 1627 |
 | 70-89 % | 126 |
 | 90-100 % | 13 |
+| Not NA | 7514 |
 | NA | 84 |
 
 
@@ -801,6 +854,7 @@ QLTB-A_15:LIVSVALGHELSE_A; Hvis en kvinne på 40-45 år gjennomgår to til tre b
 | 0-9 % | 796 |
 | 30-39 % | 1542 |
 | 20-29 % | 1826 |
+| Not NA | 7463 |
 | NA | 135 |
 
 
@@ -816,6 +870,7 @@ QLTB-A_16:LIVSVALGHELSE_A; Hvis du røyker, hvor sannsynlig er det at du vil pr�
 | Veldig usannsynlig | 21 |
 | Veldig sannsynlig | 270 |
 | Litt usannsynlig | 47 |
+| Not NA | 7493 |
 | NA | 105 |
 
 
@@ -831,6 +886,7 @@ QLTB-A_17:LIVSVALGHELSE_A; Jeg ville testet meg for klamydia hvis jeg hadde hatt
 | ØNSKER IKKE Å SVARE | 142 |
 | Veldig usannsynlig | 210 |
 | Verken sannsynlig eller usannsynlig | 971 |
+| Not NA | 7534 |
 | NA | 64 |
 
 
@@ -845,6 +901,7 @@ QLTB-A_18:LIVSVALGHELSE_A; Jeg vil unngå anabole steroider.; 18. Helse - og liv
 | Litt usannsynlig | 26 |
 | Sannsynlig | 285 |
 | Verken sannsynlig eller usannsynlig | 105 |
+| Not NA | 7520 |
 | NA | 78 |
 
 
@@ -861,6 +918,7 @@ AGE_YRS_HF; LIVSVALGHELSE_A BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT
 | 19 | 2228 |
 | 24 | 341 |
 | 25 | 15 |
+| Not NA | 7598 |
 | NA | 0 |
 
 

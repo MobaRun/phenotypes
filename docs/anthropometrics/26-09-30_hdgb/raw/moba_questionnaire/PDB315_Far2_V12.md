@@ -149,6 +149,7 @@
 | Category | n |
 | -------- | - |
 | FAR2 | 29153 |
+| Not NA | 29153 |
 | NA | 0 |
 
 
@@ -173,6 +174,7 @@ G__0_3:FAR2; (år); 0. Oppgi dag, måned og år for utfyllingen av skjemaet (skr
 | 2003 | 2 |
 | 2006 | 2 |
 | 2008 | 1 |
+| Not NA | 28535 |
 | NA | 618 |
 
 
@@ -187,6 +189,7 @@ G__1:FAR2; ; 1. Hvordan er helsen din nå?
 | Ikke helt god | 1417 |
 | Dårlig | 119 |
 | 0 | 28 |
+| Not NA | 28287 |
 | NA | 866 |
 
 
@@ -199,6 +202,7 @@ G__2_1_1:FAR2; Hjerteinfarkt ; 2. Har du, eller har du noen gang hatt, noen av d
 | Nei | 28853 |
 | Ja | 181 |
 | 0 | 1 |
+| Not NA | 29035 |
 | NA | 118 |
 
 
@@ -215,6 +219,7 @@ G__2_1_2:FAR2; Hjerteinfarkt; Hvis ja, hvor gammel var du første gang? (år gam
 | 3rd Qu. | 50 |
 | Max. | 73 |
 | NA's | 28977 |
+| Not NA | 176 |
 
 
 ### G__2_2_1
@@ -226,6 +231,7 @@ G__2_2_1:FAR2; Angina pectoris (hjertekrampe); 2. Har du, eller har du noen gang
 | Nei | 28844 |
 | Ja | 164 |
 | 0 | 1 |
+| Not NA | 29009 |
 | NA | 144 |
 
 
@@ -242,6 +248,7 @@ G__2_2_2:FAR2; Angina pectoris (hjertekrampe); Hvis ja, hvor gammel var du førs
 | 3rd Qu. | 45 |
 | Max. | 61 |
 | NA's | 29001 |
+| Not NA | 152 |
 
 
 ### G__2_3_1
@@ -252,6 +259,7 @@ G__2_3_1:FAR2; Hjertesvikt; 2. Har du, eller har du noen gang hatt, noen av de f
 | -------- | - |
 | Nei | 28949 |
 | Ja | 71 |
+| Not NA | 29020 |
 | NA | 133 |
 
 
@@ -268,6 +276,7 @@ G__2_3_2:FAR2; Hjertesvikt; Hvis ja, hvor gammel var du første gang? (år gamme
 | 3rd Qu. | 48 |
 | Max. | 72 |
 | NA's | 29092 |
+| Not NA | 61 |
 
 
 ### G__2_4_1
@@ -278,6 +287,7 @@ G__2_4_1:FAR2; Annen hjertesykdom; 2. Har du, eller har du noen gang hatt, noen 
 | -------- | - |
 | Nei | 28374 |
 | Ja | 612 |
+| Not NA | 28986 |
 | NA | 167 |
 
 
@@ -294,6 +304,7 @@ G__2_4_2:FAR2; Annen hjertesykdom; Hvis ja, hvor gammel var du første gang? (å
 | 3rd Qu. | 43 |
 | Max. | 60 |
 | NA's | 28561 |
+| Not NA | 592 |
 
 
 ### G__2_5_1
@@ -305,6 +316,7 @@ G__2_5_1:FAR2; Anfall med pipende eller tung pust; 2. Har du, eller har du noen 
 | Nei | 27720 |
 | Ja | 1263 |
 | 0 | 1 |
+| Not NA | 28984 |
 | NA | 169 |
 
 
@@ -321,6 +333,7 @@ G__2_5_2:FAR2; Anfall med pipende eller tung pust; Hvis ja, hvor gammel var du f
 | 3rd Qu. | 35 |
 | Max. | 99 |
 | NA's | 27952 |
+| Not NA | 1201 |
 
 
 ### G__2_6_1
@@ -332,6 +345,7 @@ G__2_6_1:FAR2; Høyt blodtrykk; 2. Har du, eller har du noen gang hatt, noen av 
 | Nei | 26102 |
 | Ja | 2898 |
 | 0 | 7 |
+| Not NA | 29007 |
 | NA | 146 |
 
 
@@ -348,6 +362,7 @@ G__2_6_2:FAR2; Høyt blodtrykk; Hvis ja, hvor gammel var du første gang? (år g
 | 3rd Qu. | 44 |
 | Max. | 70 |
 | NA's | 26436 |
+| Not NA | 2717 |
 
 
 ### G__2_7_1
@@ -359,6 +374,7 @@ G__2_7_1:FAR2; Hjerneslag/hjerneblødning; 2. Har du, eller har du noen gang hat
 | Nei | 28842 |
 | Ja | 169 |
 | 0 | 3 |
+| Not NA | 29014 |
 | NA | 139 |
 
 
@@ -375,6 +391,7 @@ G__2_7_2:FAR2; Hjerneslag/hjerneblødning; Hvis ja, hvor gammel var du første g
 | 3rd Qu. | 44 |
 | Max. | 65 |
 | NA's | 28972 |
+| Not NA | 181 |
 
 
 ### G__2_8_1
@@ -386,6 +403,7 @@ G__2_8_1:FAR2; Nyresykdom; 2. Har du, eller har du noen gang hatt, noen av de f�
 | Nei | 28625 |
 | Ja | 391 |
 | 0 | 1 |
+| Not NA | 29017 |
 | NA | 136 |
 
 
@@ -402,6 +420,7 @@ G__2_8_2:FAR2; Nyresykdom; Hvis ja, hvor gammel var du første gang? (år gammel
 | 3rd Qu. | 40 |
 | Max. | 69 |
 | NA's | 28776 |
+| Not NA | 377 |
 
 
 ### G__2_9_1
@@ -413,6 +432,7 @@ G__2_9_1:FAR2; Astma; 2. Har du, eller har du noen gang hatt, noen av de følgen
 | Nei | 26449 |
 | Ja | 2550 |
 | 0 | 7 |
+| Not NA | 29006 |
 | NA | 147 |
 
 
@@ -429,6 +449,7 @@ G__2_9_2:FAR2; Astma; Hvis ja, hvor gammel var du første gang? (år gammel); 2.
 | 3rd Qu. | 25 |
 | Max. | 99 |
 | NA's | 26724 |
+| Not NA | 2429 |
 
 
 ### G__210_1
@@ -440,6 +461,7 @@ G__210_1:FAR2; Kronisk bronkitt, emfysem, KOLS; 2. Har du, eller har du noen gan
 | Nei | 28784 |
 | Ja | 209 |
 | 0 | 1 |
+| Not NA | 28994 |
 | NA | 159 |
 
 
@@ -456,6 +478,7 @@ G__210_2:FAR2; Kronisk bronkitt, emfysem, KOLS; Hvis ja, hvor gammel var du før
 | 3rd Qu. | 43 |
 | Max. | 68 |
 | NA's | 28945 |
+| Not NA | 208 |
 
 
 ### G__211_1
@@ -467,6 +490,7 @@ G__211_1:FAR2; Diabetes type 1; 2. Har du, eller har du noen gang hatt, noen av 
 | Nei | 28755 |
 | Ja | 256 |
 | 0 | 1 |
+| Not NA | 29012 |
 | NA | 141 |
 
 
@@ -483,6 +507,7 @@ G__211_2:FAR2; Diabetes type 1; Hvis ja, hvor gammel var du første gang? (år g
 | 3rd Qu. | 33 |
 | Max. | 99 |
 | NA's | 28909 |
+| Not NA | 244 |
 
 
 ### G__212_1
@@ -493,6 +518,7 @@ G__212_1:FAR2; Diabetes type 2; 2. Har du, eller har du noen gang hatt, noen av 
 | -------- | - |
 | Nei | 28757 |
 | Ja | 243 |
+| Not NA | 29000 |
 | NA | 153 |
 
 
@@ -509,6 +535,7 @@ G__212_2:FAR2; Diabetes type 2; Hvis ja, hvor gammel var du første gang? (år g
 | 3rd Qu. | 46 |
 | Max. | 65 |
 | NA's | 28926 |
+| Not NA | 227 |
 
 
 ### G__213_1
@@ -519,6 +546,7 @@ G__213_1:FAR2; Diabetes, annen type eller usikker; 2. Har du, eller har du noen 
 | -------- | - |
 | Nei | 28915 |
 | Ja | 62 |
+| Not NA | 28977 |
 | NA | 176 |
 
 
@@ -535,6 +563,7 @@ G__213_2:FAR2; Diabetes, annen type eller usikker; Hvis ja, hvor gammel var du f
 | 3rd Qu. | 47 |
 | Max. | 57 |
 | NA's | 29099 |
+| Not NA | 54 |
 
 
 ### G__214_1
@@ -546,6 +575,7 @@ G__214_1:FAR2; Psoriasis; 2. Har du, eller har du noen gang hatt, noen av de fø
 | Nei | 27270 |
 | Ja | 1704 |
 | 0 | 6 |
+| Not NA | 28980 |
 | NA | 173 |
 
 
@@ -562,6 +592,7 @@ G__214_2:FAR2; Psoriasis; Hvis ja, hvor gammel var du første gang? (år gammel)
 | 3rd Qu. | 30 |
 | Max. | 58 |
 | NA's | 27485 |
+| Not NA | 1668 |
 
 
 ### G__215_1
@@ -573,6 +604,7 @@ G__215_1:FAR2; Epilepsi; 2. Har du, eller har du noen gang hatt, noen av de føl
 | Nei | 28732 |
 | Ja | 260 |
 | 0 | 1 |
+| Not NA | 28993 |
 | NA | 160 |
 
 
@@ -589,6 +621,7 @@ G__215_2:FAR2; Epilepsi; Hvis ja, hvor gammel var du første gang? (år gammel);
 | 3rd Qu. | 24.75 |
 | Max. | 51 |
 | NA's | 28899 |
+| Not NA | 254 |
 
 
 ### G__216_1
@@ -599,6 +632,7 @@ G__216_1:FAR2; Multippel sklerose (MS); 2. Har du, eller har du noen gang hatt, 
 | -------- | - |
 | Nei | 28908 |
 | Ja | 73 |
+| Not NA | 28981 |
 | NA | 172 |
 
 
@@ -615,6 +649,7 @@ G__216_2:FAR2; Multippel sklerose (MS); Hvis ja, hvor gammel var du første gang
 | 3rd Qu. | 37 |
 | Max. | 47 |
 | NA's | 29087 |
+| Not NA | 66 |
 
 
 ### G__217_1
@@ -625,6 +660,7 @@ G__217_1:FAR2; Parkinsons sykdom; 2. Har du, eller har du noen gang hatt, noen a
 | -------- | - |
 | Nei | 28958 |
 | Ja | 8 |
+| Not NA | 28966 |
 | NA | 187 |
 
 
@@ -639,6 +675,7 @@ G__217_2:FAR2; Parkinsons sykdom; Hvis ja, hvor gammel var du første gang? (år
 | 34 | 1 |
 | 59 | 1 |
 | 38 | 1 |
+| Not NA | 7 |
 | NA | 29146 |
 
 
@@ -650,6 +687,7 @@ G__218_1:FAR2; Revmatoid artritt (leddgikt); 2. Har du, eller har du noen gang h
 | -------- | - |
 | Nei | 28621 |
 | Ja | 313 |
+| Not NA | 28934 |
 | NA | 219 |
 
 
@@ -666,6 +704,7 @@ G__218_2:FAR2; Revmatoid artritt (leddgikt); Hvis ja, hvor gammel var du første
 | 3rd Qu. | 40 |
 | Max. | 66 |
 | NA's | 28844 |
+| Not NA | 309 |
 
 
 ### G__219_1
@@ -677,6 +716,7 @@ G__219_1:FAR2; Skiveprolaps; 2. Har du, eller har du noen gang hatt, noen av de 
 | Nei | 24809 |
 | Ja | 4101 |
 | 0 | 10 |
+| Not NA | 28920 |
 | NA | 233 |
 
 
@@ -693,6 +733,7 @@ G__219_2:FAR2; Skiveprolaps; Hvis ja, hvor gammel var du første gang? (år gamm
 | 3rd Qu. | 39 |
 | Max. | 68 |
 | NA's | 25231 |
+| Not NA | 3922 |
 
 
 ### G__220_1
@@ -704,6 +745,7 @@ G__220_1:FAR2; Bekhterevs sykdom; 2. Har du, eller har du noen gang hatt, noen a
 | Nei | 28703 |
 | Ja | 250 |
 | 0 | 1 |
+| Not NA | 28954 |
 | NA | 199 |
 
 
@@ -720,6 +762,7 @@ G__220_2:FAR2; Bekhterevs sykdom; Hvis ja, hvor gammel var du første gang? (år
 | 3rd Qu. | 35 |
 | Max. | 60 |
 | NA's | 28903 |
+| Not NA | 250 |
 
 
 ### G__221_1
@@ -730,6 +773,7 @@ G__221_1:FAR2; Osteoporose (beinskjørhet); 2. Har du, eller har du noen gang ha
 | -------- | - |
 | Nei | 28911 |
 | Ja | 71 |
+| Not NA | 28982 |
 | NA | 171 |
 
 
@@ -746,6 +790,7 @@ G__221_2:FAR2; Osteoporose (beinskjørhet); Hvis ja, hvor gammel var du første 
 | 3rd Qu. | 46 |
 | Max. | 63 |
 | NA's | 29083 |
+| Not NA | 70 |
 
 
 ### G__222_1
@@ -756,6 +801,7 @@ G__222_1:FAR2; Fibromyalgi; 2. Har du, eller har du noen gang hatt, noen av de f
 | -------- | - |
 | Nei | 28858 |
 | Ja | 99 |
+| Not NA | 28957 |
 | NA | 196 |
 
 
@@ -772,6 +818,7 @@ G__222_2:FAR2; Fibromyalgi; Hvis ja, hvor gammel var du første gang? (år gamme
 | 3rd Qu. | 42 |
 | Max. | 52 |
 | NA's | 29064 |
+| Not NA | 89 |
 
 
 ### G__223_1
@@ -783,6 +830,7 @@ G__223_1:FAR2; Kronisk utmattelsessyndrom (ME); 2. Har du, eller har du noen gan
 | Nei | 28845 |
 | Ja | 126 |
 | 0 | 2 |
+| Not NA | 28973 |
 | NA | 180 |
 
 
@@ -799,6 +847,7 @@ G__223_2:FAR2; Kronisk utmattelsessyndrom (ME); Hvis ja, hvor gammel var du før
 | 3rd Qu. | 42 |
 | Max. | 70 |
 | NA's | 29040 |
+| Not NA | 113 |
 
 
 ### G__224_1
@@ -810,6 +859,7 @@ G__224_1:FAR2; Spenningshodepine; 2. Har du, eller har du noen gang hatt, noen a
 | Nei | 25684 |
 | Ja | 3192 |
 | 0 | 9 |
+| Not NA | 28885 |
 | NA | 268 |
 
 
@@ -826,6 +876,7 @@ G__224_2:FAR2; Spenningshodepine; Hvis ja, hvor gammel var du første gang? (år
 | 3rd Qu. | 35 |
 | Max. | 58 |
 | NA's | 26356 |
+| Not NA | 2797 |
 
 
 ### G__225_1
@@ -837,6 +888,7 @@ G__225_1:FAR2; Migrene; 2. Har du, eller har du noen gang hatt, noen av de følg
 | Nei | 26078 |
 | Ja | 2850 |
 | 0 | 10 |
+| Not NA | 28938 |
 | NA | 215 |
 
 
@@ -853,6 +905,7 @@ G__225_2:FAR2; Migrene; Hvis ja, hvor gammel var du første gang? (år gammel); 
 | 3rd Qu. | 30 |
 | Max. | 55 |
 | NA's | 26466 |
+| Not NA | 2687 |
 
 
 ### G__226_1
@@ -863,6 +916,7 @@ G__226_1:FAR2; Urinsyregikt; 2. Har du, eller har du noen gang hatt, noen av de 
 | -------- | - |
 | Nei | 28374 |
 | Ja | 588 |
+| Not NA | 28962 |
 | NA | 191 |
 
 
@@ -879,6 +933,7 @@ G__226_2:FAR2; Urinsyregikt; Hvis ja, hvor gammel var du første gang? (år gamm
 | 3rd Qu. | 43 |
 | Max. | 68 |
 | NA's | 28593 |
+| Not NA | 560 |
 
 
 ### G__227_1
@@ -890,6 +945,7 @@ G__227_1:FAR2; Cøliaki; 2. Har du, eller har du noen gang hatt, noen av de føl
 | Nei | 28769 |
 | Ja | 194 |
 | 0 | 1 |
+| Not NA | 28964 |
 | NA | 189 |
 
 
@@ -906,6 +962,7 @@ G__227_2:FAR2; Cøliaki; Hvis ja, hvor gammel var du første gang? (år gammel);
 | 3rd Qu. | 41 |
 | Max. | 56 |
 | NA's | 28965 |
+| Not NA | 188 |
 
 
 ### G__228_1
@@ -917,6 +974,7 @@ G__228_1:FAR2; Hørselstap; 2. Har du, eller har du noen gang hatt, noen av de f
 | Nei | 26729 |
 | Ja | 2188 |
 | 0 | 3 |
+| Not NA | 28920 |
 | NA | 233 |
 
 
@@ -933,6 +991,7 @@ G__228_2:FAR2; Hørselstap; Hvis ja, hvor gammel var du første gang? (år gamme
 | 3rd Qu. | 38 |
 | Max. | 70 |
 | NA's | 27093 |
+| Not NA | 2060 |
 
 
 ### G__229_1
@@ -944,6 +1003,7 @@ G__229_1:FAR2; Artrose (slitasjegikt); 2. Har du, eller har du noen gang hatt, n
 | Nei | 28092 |
 | Ja | 854 |
 | 0 | 3 |
+| Not NA | 28949 |
 | NA | 204 |
 
 
@@ -960,6 +1020,7 @@ G__229_2:FAR2; Artrose (slitasjegikt); Hvis ja, hvor gammel var du første gang?
 | 3rd Qu. | 45 |
 | Max. | 67 |
 | NA's | 28343 |
+| Not NA | 810 |
 
 
 ### G__230_1
@@ -970,6 +1031,7 @@ G__230_1:FAR2; Alkohol-/rusmisbruk; 2. Har du, eller har du noen gang hatt, noen
 | -------- | - |
 | Nei | 28687 |
 | Ja | 284 |
+| Not NA | 28971 |
 | NA | 182 |
 
 
@@ -986,6 +1048,7 @@ G__230_2:FAR2; Alkohol-/rusmisbruk; Hvis ja, hvor gammel var du første gang? (�
 | 3rd Qu. | 32.25 |
 | Max. | 55 |
 | NA's | 28885 |
+| Not NA | 268 |
 
 
 ### G__231_1
@@ -997,6 +1060,7 @@ G__231_1:FAR2; Alvorlig depresjon; 2. Har du, eller har du noen gang hatt, noen 
 | Nei | 28138 |
 | Ja | 808 |
 | 0 | 2 |
+| Not NA | 28948 |
 | NA | 205 |
 
 
@@ -1013,6 +1077,7 @@ G__231_2:FAR2; Alvorlig depresjon; Hvis ja, hvor gammel var du første gang? (å
 | 3rd Qu. | 39 |
 | Max. | 67 |
 | NA's | 28372 |
+| Not NA | 781 |
 
 
 ### G__232_1
@@ -1024,6 +1089,7 @@ G__232_1:FAR2; Angstlidelse; 2. Har du, eller har du noen gang hatt, noen av de 
 | Nei | 27804 |
 | Ja | 1136 |
 | 0 | 3 |
+| Not NA | 28943 |
 | NA | 210 |
 
 
@@ -1040,6 +1106,7 @@ G__232_2:FAR2; Angstlidelse; Hvis ja, hvor gammel var du første gang? (år gamm
 | 3rd Qu. | 38 |
 | Max. | 60 |
 | NA's | 28065 |
+| Not NA | 1088 |
 
 
 ### G__233_1
@@ -1050,6 +1117,7 @@ G__233_1:FAR2; Bipolar lidelse; 2. Har du, eller har du noen gang hatt, noen av 
 | -------- | - |
 | Nei | 28765 |
 | Ja | 120 |
+| Not NA | 28885 |
 | NA | 268 |
 
 
@@ -1066,6 +1134,7 @@ G__233_2:FAR2; Bipolar lidelse; Hvis ja, hvor gammel var du første gang? (år g
 | 3rd Qu. | 39 |
 | Max. | 60 |
 | NA's | 29042 |
+| Not NA | 111 |
 
 
 ### G__234_1
@@ -1077,6 +1146,7 @@ G__234_1:FAR2; Psykiske plager som du har søkt hjelp for; 2. Har du, eller har 
 | Nei | 26243 |
 | Ja | 2647 |
 | 0 | 3 |
+| Not NA | 28893 |
 | NA | 260 |
 
 
@@ -1093,6 +1163,7 @@ G__234_2:FAR2; Psykiske plager som du har søkt hjelp for; Hvis ja, hvor gammel 
 | 3rd Qu. | 40 |
 | Max. | 95 |
 | NA's | 26603 |
+| Not NA | 2550 |
 
 
 ### G__235_1
@@ -1104,6 +1175,7 @@ G__235_1:FAR2; Kreftsykdom; 2. Har du, eller har du noen gang hatt, noen av de f
 | Nei | 28267 |
 | Ja | 625 |
 | 0 | 1 |
+| Not NA | 28893 |
 | NA | 260 |
 
 
@@ -1120,6 +1192,7 @@ G__235_2:FAR2; Kreftsykdom; Hvis ja, hvor gammel var du første gang? (år gamme
 | 3rd Qu. | 43 |
 | Max. | 69 |
 | NA's | 28552 |
+| Not NA | 601 |
 
 
 ### G__236_1
@@ -1131,6 +1204,7 @@ G__236_1:FAR2; Annen alvorlig sykdom; 2. Har du, eller har du noen gang hatt, no
 | Nei | 26977 |
 | Ja | 1488 |
 | 0 | 11 |
+| Not NA | 28476 |
 | NA | 677 |
 
 
@@ -1147,6 +1221,7 @@ G__236_2:FAR2; Annen alvorlig sykdom; Hvis ja, hvor gammel var du første gang? 
 | 3rd Qu. | 40 |
 | Max. | 99 |
 | NA's | 27709 |
+| Not NA | 1444 |
 
 
 ### G__3_1
@@ -1159,6 +1234,7 @@ G__3_1:FAR2; Hjerneslag eller hjerneblødning før 60-årsalder; 3. Har du forel
 | Ja | 1248 |
 | Vet ikke | 190 |
 | 0 | 6 |
+| Not NA | 28781 |
 | NA | 372 |
 
 
@@ -1172,6 +1248,7 @@ G__3_2:FAR2; Hjerteinfarkt før 60-årsalder; 3. Har du foreldre eller søsken s
 | Ja | 2968 |
 | Vet ikke | 249 |
 | 0 | 4 |
+| Not NA | 28814 |
 | NA | 339 |
 
 
@@ -1185,6 +1262,7 @@ G__3_3:FAR2; Kreftsykdom før 60-årsalder; 3. Har du foreldre eller søsken som
 | Ja | 4803 |
 | Vet ikke | 238 |
 | 0 | 4 |
+| Not NA | 28774 |
 | NA | 379 |
 
 
@@ -1197,6 +1275,7 @@ G__4:FAR2; ; 4. Har du vært innlagt på sykehus i løpet av de siste 12 månede
 | Nei | 27131 |
 | Ja | 1733 |
 | 0 | 2 |
+| Not NA | 28866 |
 | NA | 287 |
 
 
@@ -1213,6 +1292,7 @@ G__5:FAR2; (cm); 5. Hvor høy er du?
 | 3rd Qu. | 186 |
 | Max. | 210 |
 | NA's | 118 |
+| Not NA | 29035 |
 
 
 ### G__6
@@ -1228,6 +1308,7 @@ G__6:FAR2; (kg); 6. Hvor mye veier du nå?
 | 3rd Qu. | 95 |
 | Max. | 974 |
 | NA's | 196 |
+| Not NA | 28957 |
 
 
 ### G__7_1
@@ -1243,6 +1324,7 @@ G__7_1:FAR2; (kg); 7. Omtrent hva var din kroppsvekt da du var 18 år?
 | 3rd Qu. | 80 |
 | Max. | 191 |
 | NA's | 4142 |
+| Not NA | 25011 |
 
 
 ### G__7_2
@@ -1252,6 +1334,7 @@ G__7_2:FAR2; Husker ikke; 7. Omtrent hva var din kroppsvekt da du var 18 år?
 | Category | n |
 | -------- | - |
 | 1 | 4183 |
+| Not NA | 4183 |
 | NA | 24970 |
 
 
@@ -1268,6 +1351,7 @@ G_14_1:FAR2; Gulrot, kålrot, sellerirot; 14. Tenk på hva du har spist det sist
 | 1 gang per dag eller mer | 688 |
 | 0 | 28 |
 | Sjelden/aldri | 370 |
+| Not NA | 28956 |
 | NA | 197 |
 
 
@@ -1284,6 +1368,7 @@ G_14_2:FAR2; Poteter; 14. Tenk på hva du har spist det siste året, og marker h
 | Ca. 1 gang per mnd | 647 |
 | 0 | 35 |
 | Sjelden/aldri | 228 |
+| Not NA | 28926 |
 | NA | 227 |
 
 
@@ -1300,6 +1385,7 @@ G_14_3:FAR2; Hodekål, blomkål, brokkoli, rosenkål; 14. Tenk på hva du har sp
 | 1 gang per dag eller mer | 183 |
 | Sjelden/aldri | 679 |
 | 0 | 53 |
+| Not NA | 28918 |
 | NA | 235 |
 
 
@@ -1316,6 +1402,7 @@ G_14_4:FAR2; Løk, purre, hvitløk; 14. Tenk på hva du har spist det siste åre
 | Ca. 1 gang per mnd | 894 |
 | Sjelden/aldri | 414 |
 | 0 | 29 |
+| Not NA | 28865 |
 | NA | 288 |
 
 
@@ -1332,6 +1419,7 @@ G_14_5:FAR2; Andre grønnsaker (f.eks. erter, spinat, salat, tomat); 14. Tenk p�
 | Ca. 1 gang per mnd | 750 |
 | 2-3 ganger  per mnd | 3659 |
 | 0 | 49 |
+| Not NA | 28891 |
 | NA | 262 |
 
 
@@ -1348,6 +1436,7 @@ G_14_6:FAR2; Epler, pærer, plommer; 14. Tenk på hva du har spist det siste år
 | Ca. 1 gang per mnd | 2321 |
 | 1 gang per dag eller mer | 1673 |
 | 0 | 33 |
+| Not NA | 28936 |
 | NA | 217 |
 
 
@@ -1364,6 +1453,7 @@ G_14_7:FAR2; Annen frukt (f.eks. banan, appelsin, druer); 14. Tenk på hva du ha
 | Sjelden/aldri | 520 |
 | Ca. 1 gang per mnd | 1331 |
 | 0 | 49 |
+| Not NA | 28951 |
 | NA | 202 |
 
 
@@ -1380,6 +1470,7 @@ G_14_8:FAR2; Bær (f.eks. jordbær, bringebær, blåbær); 14. Tenk på hva du h
 | Sjelden/aldri | 1269 |
 | 1 gang per dag eller mer | 444 |
 | 0 | 32 |
+| Not NA | 28908 |
 | NA | 245 |
 
 
@@ -1396,6 +1487,7 @@ G_14_9:FAR2; Nøtter (ikke peanøtter)/frø; 14. Tenk på hva du har spist det s
 | Ca. 1 gang per mnd | 5711 |
 | 1 gang per dag eller mer | 784 |
 | 0 | 60 |
+| Not NA | 28922 |
 | NA | 231 |
 
 
@@ -1412,6 +1504,7 @@ G_1410:FAR2; Egg (kokt, stekt, røre); 14. Tenk på hva du har spist det siste �
 | 4-6 ganger per uke | 2840 |
 | Sjelden/aldri | 445 |
 | 0 | 30 |
+| Not NA | 28927 |
 | NA | 226 |
 
 
@@ -1428,6 +1521,7 @@ G_1411:FAR2; Fisk og fiskeprodukter, både til middag og som pålegg; 14. Tenk p
 | Sjelden/aldri | 415 |
 | 1 gang per dag eller mer | 478 |
 | 0 | 51 |
+| Not NA | 28947 |
 | NA | 206 |
 
 
@@ -1444,6 +1538,7 @@ G_1412:FAR2; Skalldyr (reker, krabbe, blåskjell); 14. Tenk på hva du har spist
 | 4-6 ganger per uke | 121 |
 | 1 gang per dag eller mer | 15 |
 | 0 | 42 |
+| Not NA | 28939 |
 | NA | 214 |
 
 
@@ -1460,6 +1555,7 @@ G_1413:FAR2; Kylling/kalkun; 14. Tenk på hva du har spist det siste året, og m
 | Sjelden/aldri | 702 |
 | 0 | 28 |
 | 1 gang per dag eller mer | 64 |
+| Not NA | 28923 |
 | NA | 230 |
 
 
@@ -1476,6 +1572,7 @@ G_1414:FAR2; Rent kjøtt av okse, gris og lam (stek, koteletter, filet, biff); 1
 | Ca. 1 gang per mnd | 2060 |
 | Sjelden/aldri | 355 |
 | 1 gang per dag eller mer | 49 |
+| Not NA | 28928 |
 | NA | 225 |
 
 
@@ -1492,6 +1589,7 @@ G_1415:FAR2; Bearbeidede kjøttprodukter (pølser, hamburgere, kjøttkaker, o.l.
 | Sjelden/aldri | 339 |
 | 0 | 28 |
 | 1 gang per dag eller mer | 34 |
+| Not NA | 28926 |
 | NA | 227 |
 
 
@@ -1508,6 +1606,7 @@ G_1416:FAR2; Linser, bønner, kikerter; 14. Tenk på hva du har spist det siste 
 | 4-6 ganger per uke | 415 |
 | 1 gang per dag eller mer | 58 |
 | 0 | 33 |
+| Not NA | 28911 |
 | NA | 242 |
 
 
@@ -1524,6 +1623,7 @@ G_1417:FAR2; Olivenolje/rapsolje (til salat og matlaging); 14. Tenk på hva du h
 | Ca. 1 gang per mnd | 2205 |
 | Sjelden/aldri | 1304 |
 | 0 | 28 |
+| Not NA | 28903 |
 | NA | 250 |
 
 
@@ -1540,6 +1640,7 @@ G_1418:FAR2; Grove kornprodukter (grovbrød, knekkebrød, usøtet mysli o.l.); 1
 | 2-3 ganger  per mnd | 1436 |
 | Ca. 1 gang per mnd | 590 |
 | 0 | 42 |
+| Not NA | 28923 |
 | NA | 230 |
 
 
@@ -1556,6 +1657,7 @@ G_1419:FAR2; Havregrøt; 14. Tenk på hva du har spist det siste året, og marke
 | 0 | 70 |
 | 4-6 ganger per uke | 1269 |
 | 1 gang per dag eller mer | 710 |
+| Not NA | 28911 |
 | NA | 242 |
 
 
@@ -1572,6 +1674,7 @@ G_1420:FAR2; Ris/pasta; 14. Tenk på hva du har spist det siste året, og marker
 | Sjelden/aldri | 225 |
 | 1 gang per dag eller mer | 122 |
 | 0 | 20 |
+| Not NA | 28892 |
 | NA | 261 |
 
 
@@ -1588,6 +1691,7 @@ G_1421:FAR2; Kaker, sjokolade, iskrem, smågodt; 14. Tenk på hva du har spist d
 | 1 gang per dag eller mer | 666 |
 | Sjelden/aldri | 461 |
 | 0 | 22 |
+| Not NA | 28952 |
 | NA | 201 |
 
 
@@ -1604,6 +1708,7 @@ G_1422:FAR2; Salte snacks (f.eks. potetchips, peanøtter); 14. Tenk på hva du h
 | 2-3 ganger  per mnd | 7329 |
 | 1 gang per dag eller mer | 103 |
 | 0 | 9 |
+| Not NA | 28957 |
 | NA | 196 |
 
 
@@ -1616,6 +1721,7 @@ G_16:FAR2; ; 16. Spiser du hurtigmat (fra gatekjøkken, bensinstasjon o.l.) mer 
 | Nei | 27570 |
 | Ja | 1156 |
 | 0 | 1 |
+| Not NA | 28727 |
 | NA | 426 |
 
 
@@ -1628,6 +1734,7 @@ G_17:FAR2; ; 17. Hopper du over frokost oftere enn 2 ganger per uke?
 | Nei | 22626 |
 | Ja | 6130 |
 | 0 | 2 |
+| Not NA | 28758 |
 | NA | 395 |
 
 
@@ -1639,6 +1746,7 @@ G_18_1_1:FAR2; Multivitamin-/mineraltilskudd; Har du tatt kosttilskudd det siste
 | -------- | - |
 | Nei | 21009 |
 | Ja | 7264 |
+| Not NA | 28273 |
 | NA | 880 |
 
 
@@ -1655,6 +1763,7 @@ G_18_1_2:FAR2; Multivitamin-/mineraltilskudd; Hvis ja, hvor ofte? (Ant. måneder
 | 3rd Qu. | 12 |
 | Max. | 99 |
 | NA's | 22842 |
+| Not NA | 6311 |
 
 
 ### G_18_1_3
@@ -1680,6 +1789,7 @@ G_18_1_3:FAR2; Multivitamin-/mineraltilskudd; Hvis ja, hvor ofte? (Ant. ganger p
 | 15 | 1 |
 | 26 | 1 |
 | 20 | 1 |
+| Not NA | 6969 |
 | NA | 22184 |
 
 
@@ -1692,6 +1802,7 @@ G_18_2_1:FAR2; Tran eller annet omega-3-tilskudd; Har du tatt kosttilskudd det s
 | Nei | 16317 |
 | Ja | 12138 |
 | 0 | 3 |
+| Not NA | 28458 |
 | NA | 695 |
 
 
@@ -1708,6 +1819,7 @@ G_18_2_2:FAR2; Tran eller annet omega-3-tilskudd; Hvis ja, hvor ofte? (Ant. mån
 | 3rd Qu. | 12 |
 | Max. | 99 |
 | NA's | 19072 |
+| Not NA | 10081 |
 
 
 ### G_18_2_3
@@ -1723,6 +1835,7 @@ G_18_2_3:FAR2; Tran eller annet omega-3-tilskudd; Hvis ja, hvor ofte? (Ant. gang
 | 3rd Qu. | 7 |
 | Max. | 99 |
 | NA's | 17569 |
+| Not NA | 11584 |
 
 
 ### G_18_3_1
@@ -1734,6 +1847,7 @@ G_18_3_1:FAR2; Proteintilskudd; Har du tatt kosttilskudd det siste året?; 18. H
 | Nei | 26284 |
 | Ja | 1617 |
 | 0 | 1 |
+| Not NA | 27902 |
 | NA | 1251 |
 
 
@@ -1761,6 +1875,7 @@ G_18_3_2:FAR2; Proteintilskudd; Hvis ja, hvor ofte? (Ant. måneder siste år); 1
 | 20 | 2 |
 | 30 | 2 |
 | 99 | 1 |
+| Not NA | 1593 |
 | NA | 27560 |
 
 
@@ -1777,6 +1892,7 @@ G_18_3_3:FAR2; Proteintilskudd; Hvis ja, hvor ofte? (Ant. ganger per uke); 18. H
 | 3rd Qu. | 5 |
 | Max. | 50 |
 | NA's | 27445 |
+| Not NA | 1708 |
 
 
 ### G_21
@@ -1795,6 +1911,7 @@ G_21:FAR2; ; 21. Røyker du selv, eller har du røykt?
 | 0 | 3 |
 | (2+4) Ja, men jeg har sluttet å røyke + Ja, daglig | 3 |
 | (1+2) Nei, jeg har aldri røykt + Ja, men jeg har sluttet å røyke | 3 |
+| Not NA | 28994 |
 | NA | 159 |
 
 
@@ -1811,6 +1928,7 @@ G_22:FAR2; (sigaretter per dag); 22. Hvor mange sigaretter røyker eller røykte
 | 3rd Qu. | 15 |
 | Max. | 80 |
 | NA's | 18907 |
+| Not NA | 10246 |
 
 
 ### G_23
@@ -1826,6 +1944,7 @@ G_23:FAR2; (år gammel); 23. Hvor gammel var du da du begynte å røyke?
 | 3rd Qu. | 18 |
 | Max. | 46 |
 | NA's | 18667 |
+| Not NA | 10486 |
 
 
 ### G_24
@@ -1841,6 +1960,7 @@ G_24:FAR2; (år gammel); 24. Hvis du tidligere har røykt, hvor gammel var du da
 | 3rd Qu. | 36 |
 | Max. | 64 |
 | NA's | 20333 |
+| Not NA | 8820 |
 
 
 ### G_25
@@ -1858,6 +1978,7 @@ G_25:FAR2; ; 25. Bruker du, eller har du brukt, snus?
 | (1+3) Nei, aldri + Ja, av og til | 2 |
 | 0 | 1 |
 | (3+4) Ja, av og til + Ja, daglig | 1 |
+| Not NA | 28865 |
 | NA | 288 |
 
 
@@ -1874,6 +1995,7 @@ G_26:FAR2; (bokser snus per måned); 26. Hvor mange bokser snus bruker/brukte du
 | 3rd Qu. | 12 |
 | Max. | 62 |
 | NA's | 19695 |
+| Not NA | 9458 |
 
 
 ### G_27
@@ -1889,6 +2011,7 @@ G_27:FAR2; (år gammel); 27. Hvor gammel var du da du begynte med snus?
 | 3rd Qu. | 30 |
 | Max. | 62 |
 | NA's | 19648 |
+| Not NA | 9505 |
 
 
 ### G_28
@@ -1904,6 +2027,7 @@ G_28:FAR2; (år gammel); 28. Hvis du tidligere har brukt snus, hvor gammel var d
 | 3rd Qu. | 40 |
 | Max. | 65 |
 | NA's | 25077 |
+| Not NA | 4076 |
 
 
 ### G_40_1
@@ -1919,6 +2043,7 @@ G_40_1:FAR2; Hvor ofte trener du mindre enn 30 minutter?; 40. Hvor fysisk aktiv 
 | 5 ganger per uke eller mer | 2447 |
 | 3-4 ganger per uke | 2863 |
 | 0 | 9 |
+| Not NA | 26053 |
 | NA | 3100 |
 
 
@@ -1935,6 +2060,7 @@ G_40_2:FAR2; Hvor ofte trener du 30-60 minutter?; 40. Hvor fysisk aktiv er du? H
 | 3-4 ganger per uke | 4427 |
 | 5 ganger per uke eller mer | 1288 |
 | 0 | 20 |
+| Not NA | 27597 |
 | NA | 1556 |
 
 
@@ -1951,6 +2077,7 @@ G_40_3:FAR2; Hvor ofte trener du mer enn 60 minutter?; 40. Hvor fysisk aktiv er 
 | 2 ganger per uke | 3636 |
 | 5 ganger per uke eller mer | 750 |
 | 0 | 17 |
+| Not NA | 27311 |
 | NA | 1842 |
 
 
@@ -1966,6 +2093,7 @@ G_41:FAR2; ; 41. Omtrent hvor mange timer sitter du i løpet av en vanlig dag? (
 | Under 4 timer | 4912 |
 | 15 timer eller mer | 202 |
 | 0 | 29 |
+| Not NA | 28802 |
 | NA | 351 |
 
 
@@ -1982,6 +2110,7 @@ G_65_1:FAR2; ; 65. Hvilken utdannelse har du?
 | 1-2-årig videregående | 1057 |
 | 9-årig grunnskole | 549 |
 | 0 | 1 |
+| Not NA | 28035 |
 | NA | 1118 |
 
 
@@ -1992,6 +2121,7 @@ G_65_2:FAR2; Annen utdanning; 65. Hvilken utdannelse har du?
 | Category | n |
 | -------- | - |
 | 1 | 1194 |
+| Not NA | 1194 |
 | NA | 27959 |
 
 
@@ -2009,6 +2139,7 @@ G_66:FAR2; ; 66. Hva var din brutto årsinntekt (før skatt) det siste året? (I
 | 200 000 - 299 999 kr | 425 |
 | Under 200 000 kr | 231 |
 | 0 | 5 |
+| Not NA | 28490 |
 | NA | 663 |
 
 
@@ -2033,6 +2164,7 @@ G_70:FAR2; ; 70. Dersom du er i lønnet arbeid, hvor mange timer arbeider du i l
 | (2+5) 16-25 + 41-50 | 1 |
 | (1+6) 1-15 + 51-60 | 1 |
 | (1+4) 1-15 + 36-40 | 1 |
+| Not NA | 27554 |
 | NA | 1599 |
 
 
@@ -2048,6 +2180,7 @@ QFAR2P1:FAR2; Antal besvart spørsmål side 1; .
 | Mean | 18.1857784790588 |
 | 3rd Qu. | 18 |
 | Max. | 26 |
+| Not NA | 29153 |
 
 
 ### QFAR2P2
@@ -2062,6 +2195,7 @@ QFAR2P2:FAR2; Antal besvart spørsmål side 2; .
 | Mean | 22.5469762974651 |
 | 3rd Qu. | 23 |
 | Max. | 32 |
+| Not NA | 29153 |
 
 
 ### QFAR2P3
@@ -2076,6 +2210,7 @@ QFAR2P3:FAR2; Antal besvart spørsmål side 3; .
 | Mean | 13.9792131170034 |
 | 3rd Qu. | 19 |
 | Max. | 35 |
+| Not NA | 29153 |
 
 
 ### QFAR2P4
@@ -2090,6 +2225,7 @@ QFAR2P4:FAR2; Antal besvart spørsmål side 4; .
 | Mean | 32.6978698590197 |
 | 3rd Qu. | 33 |
 | Max. | 33 |
+| Not NA | 29153 |
 
 
 ### QFAR2P5
@@ -2118,6 +2254,7 @@ QFAR2P5:FAR2; Antal besvart spørsmål side 5; .
 | 5 | 15 |
 | 3 | 1 |
 | 4 | 1 |
+| Not NA | 29153 |
 | NA | 0 |
 
 
@@ -2145,6 +2282,7 @@ QFAR2P6:FAR2; Antal besvart spørsmål side 6; .
 | 19 | 9 |
 | 5 | 5 |
 | 3 | 1 |
+| Not NA | 29153 |
 | NA | 0 |
 
 
@@ -2160,6 +2298,7 @@ QFAR2P7:FAR2; Antal besvart spørsmål side 7; .
 | Mean | 25.7782732480362 |
 | 3rd Qu. | 26 |
 | Max. | 26 |
+| Not NA | 29153 |
 
 
 ### QFAR2P8
@@ -2174,6 +2313,7 @@ QFAR2P8:FAR2; Antal besvart spørsmål side 8; .
 | Mean | 22.3334819744109 |
 | 3rd Qu. | 22 |
 | Max. | 31 |
+| Not NA | 29153 |
 
 
 ### QFAR2P9
@@ -2198,6 +2338,7 @@ QFAR2P9:FAR2; Antal besvart spørsmål side 9; .
 | 3 | 2 |
 | 6 | 2 |
 | 4 | 6 |
+| Not NA | 29153 |
 | NA | 0 |
 
 
@@ -2221,6 +2362,7 @@ QFAR2P10:FAR2; Antal besvart spørsmål side 10; .
 | 13 | 4 |
 | 2 | 7 |
 | 1 | 1 |
+| Not NA | 29153 |
 | NA | 0 |
 
 

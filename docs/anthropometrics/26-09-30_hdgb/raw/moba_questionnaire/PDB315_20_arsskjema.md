@@ -260,6 +260,7 @@
 | 1 | 12206 |
 | 2 | 215 |
 | 3 | 1 |
+| Not NA | 12422 |
 | NA | 0 |
 
 
@@ -271,6 +272,7 @@
 | MOBA20_B | 8413 |
 | MOBA20_A | 970 |
 | MOBA20_C | 3039 |
+| Not NA | 12422 |
 | NA | 0 |
 
 
@@ -282,6 +284,7 @@ Q20C_1:MOBA20_C; (Q20B_1:MOBA20_B); (Q20A_16:MOBA20_A); ; 1. Hvilket kjønn ble 
 | -------- | - |
 | Kvinne | 8147 |
 | Mann | 4275 |
+| Not NA | 12422 |
 | NA | 0 |
 
 
@@ -298,6 +301,7 @@ Q20C_2:MOBA20_C; (Q20B_2:MOBA20_B); (Q20A_1:MOBA20_A); Oppgi i centimeter.; 2. H
 | 3rd Qu. | 180 |
 | Max. | 250 |
 | NA's | 50 |
+| Not NA | 12372 |
 
 
 ### TG12
@@ -313,6 +317,7 @@ Q20C_3:MOBA20_C; (Q20B_3:MOBA20_B); (Q20A_2:MOBA20_A); Oppgi i hele kilo.; 3. Hv
 | 3rd Qu. | 80 |
 | Max. | 500 |
 | NA's | 316 |
+| Not NA | 12106 |
 
 
 ### TG13
@@ -325,6 +330,7 @@ M1_Q20C_4_1:MOBA20_C; (M1_Q20B_4_1:MOBA20_B); (Q20A_3_Q20A_3_1:MOBA20_A); Smerte
 | Sjeldnere enn hver uke | 5911 |
 | Hver uke, men ikke daglig | 1447 |
 | Daglig | 146 |
+| Not NA | 12399 |
 | NA | 23 |
 
 
@@ -338,6 +344,7 @@ M1_Q20C_4_2:MOBA20_C; (M1_Q20B_4_2:MOBA20_B); (Q20A_3_Q20A_3_2:MOBA20_A); Smerte
 | Sjeldnere enn hver uke | 722 |
 | Daglig | 123 |
 | Hver uke, men ikke daglig | 219 |
+| Not NA | 12345 |
 | NA | 77 |
 
 
@@ -351,6 +358,7 @@ M1_Q20C_4_3:MOBA20_C; (M1_Q20B_4_3:MOBA20_B); (Q20A_3_Q20A_3_3:MOBA20_A); Soveme
 | Daglig | 281 |
 | Sjeldnere enn hver uke | 213 |
 | Hver uke, men ikke daglig | 186 |
+| Not NA | 12339 |
 | NA | 83 |
 
 
@@ -364,6 +372,7 @@ M1_Q20C_4_4:MOBA20_C; (M1_Q20B_4_4:MOBA20_B); (Q20A_3_Q20A_3_4:MOBA20_A); Medisi
 | Daglig | 454 |
 | Hver uke, men ikke daglig | 25 |
 | Sjeldnere enn hver uke | 30 |
+| Not NA | 12342 |
 | NA | 80 |
 
 
@@ -377,6 +386,7 @@ M1_Q20C_4_5:MOBA20_C; (M1_Q20B_4_5:MOBA20_B); (Q20A_3_Q20A_3_5:MOBA20_A); Allerg
 | Daglig | 43 |
 | Hver uke, men ikke daglig | 99 |
 | Sjeldnere enn hver uke | 495 |
+| Not NA | 12332 |
 | NA | 90 |
 
 
@@ -390,6 +400,7 @@ M1_Q20C_4_6:MOBA20_C; (M1_Q20B_4_6:MOBA20_B); (Q20A_3_Q20A_3_6:MOBA20_A); Allerg
 | Hver uke, men ikke daglig | 417 |
 | Daglig | 1019 |
 | Sjeldnere enn hver uke | 579 |
+| Not NA | 12340 |
 | NA | 82 |
 
 
@@ -403,6 +414,7 @@ M1_Q20C_4_7:MOBA20_C; (M1_Q20B_4_7:MOBA20_B); (Q20A_3_Q20A_3_7:MOBA20_A); Astmam
 | Daglig | 347 |
 | Sjeldnere enn hver uke | 271 |
 | Hver uke, men ikke daglig | 190 |
+| Not NA | 12329 |
 | NA | 93 |
 
 
@@ -416,6 +428,7 @@ M1_Q20C_4_8:MOBA20_C; (M1_Q20B_4_8:MOBA20_B); (Q20A_3_Q20A_3_8:MOBA20_A); Medisi
 | Daglig | 298 |
 | Sjeldnere enn hver uke | 54 |
 | Hver uke, men ikke daglig | 26 |
+| Not NA | 12333 |
 | NA | 89 |
 
 
@@ -429,6 +442,7 @@ M1_Q20C_4_9:MOBA20_C; (M1_Q20B_4_9:MOBA20_B); (Q20A_3_Q20A_3_9:MOBA20_A); Annen 
 | Daglig | 2299 |
 | Hver uke, men ikke daglig | 295 |
 | Sjeldnere enn hver uke | 407 |
+| Not NA | 12338 |
 | NA | 84 |
 
 
@@ -440,6 +454,7 @@ Q20C_6:MOBA20_C; (Q20B_6:MOBA20_B); (Q20A_5:MOBA20_A); ; 6. I løpet av det sist
 | -------- | - |
 | Nei | 11100 |
 | Ja | 1281 |
+| Not NA | 12381 |
 | NA | 41 |
 
 
@@ -453,6 +468,7 @@ Q20C_7:MOBA20_C; (Q20B_7:MOBA20_B); (Q20A_6:MOBA20_A); ; 7. Har du noe matvareal
 | Ja, bekreftet av lege | 1364 |
 | Vet ikke | 1006 |
 | Ja, men ikke bekreftet av lege | 1109 |
+| Not NA | 12402 |
 | NA | 20 |
 
 
@@ -463,6 +479,7 @@ Q20C_7_1_1_1:MOBA20_C; (Q20B_7_1_1:MOBA20_B); (Q20A_6_1_1:MOBA20_A); Melk.Hvilke
 | Category | n |
 | -------- | - |
 | 1 | 873 |
+| Not NA | 873 |
 | NA | 11549 |
 
 
@@ -473,6 +490,7 @@ Q20C_7_1_1_2:MOBA20_C; (Q20B_7_1_2:MOBA20_B); (Q20A_6_1_2:MOBA20_A); Egg.Hvilke 
 | Category | n |
 | -------- | - |
 | 1 | 132 |
+| Not NA | 132 |
 | NA | 12290 |
 
 
@@ -483,6 +501,7 @@ Q20C_7_1_1_3:MOBA20_C; (Q20B_7_1_3:MOBA20_B); (Q20A_6_1_3:MOBA20_A); Peanøtter.
 | Category | n |
 | -------- | - |
 | 1 | 473 |
+| Not NA | 473 |
 | NA | 11949 |
 
 
@@ -493,6 +512,7 @@ Q20C_7_1_1_4:MOBA20_C; (Q20B_7_1_4:MOBA20_B); (Q20A_6_1_4:MOBA20_A); Andre nøtt
 | Category | n |
 | -------- | - |
 | 1 | 647 |
+| Not NA | 647 |
 | NA | 11775 |
 
 
@@ -503,6 +523,7 @@ Q20C_7_1_1_5:MOBA20_C; (Q20B_7_1_5:MOBA20_B); (Q20A_6_1_5:MOBA20_A); Skalldyr.Hv
 | Category | n |
 | -------- | - |
 | 1 | 114 |
+| Not NA | 114 |
 | NA | 12308 |
 
 
@@ -513,6 +534,7 @@ Q20C_7_1_1_6:MOBA20_C; (Q20B_7_1_6:MOBA20_B); (Q20A_6_1_6:MOBA20_A); Fisk.Hvilke
 | Category | n |
 | -------- | - |
 | 1 | 58 |
+| Not NA | 58 |
 | NA | 12364 |
 
 
@@ -523,6 +545,7 @@ Q20C_7_1_1_7:MOBA20_C; (Q20B_7_1_7:MOBA20_B); (Q20A_6_1_7:MOBA20_A); Frukt.Hvilk
 | Category | n |
 | -------- | - |
 | 1 | 564 |
+| Not NA | 564 |
 | NA | 11858 |
 
 
@@ -533,6 +556,7 @@ Q20C_7_1_1_8:MOBA20_C; (Q20B_7_1_8:MOBA20_B); (Q20A_6_1_8:MOBA20_A); Hvete.Hvilk
 | Category | n |
 | -------- | - |
 | 1 | 443 |
+| Not NA | 443 |
 | NA | 11979 |
 
 
@@ -543,6 +567,7 @@ Q20C_7_1_1_9:MOBA20_C; (Q20B_7_1_9:MOBA20_B); (Q20A_6_1_9:MOBA20_A); Soya.Hvilke
 | Category | n |
 | -------- | - |
 | 1 | 112 |
+| Not NA | 112 |
 | NA | 12310 |
 
 
@@ -553,6 +578,7 @@ Q20C_7_1_1_10:MOBA20_C; (Q20B_7_1_10:MOBA20_B); (Q20A_6_1_10:MOBA20_A); Rug.Hvil
 | Category | n |
 | -------- | - |
 | 1 | 128 |
+| Not NA | 128 |
 | NA | 12294 |
 
 
@@ -563,6 +589,7 @@ Q20C_7_1_1_11:MOBA20_C; (Q20B_7_1_11:MOBA20_B); (Q20A_6_1_11:MOBA20_A); Andre ma
 | Category | n |
 | -------- | - |
 | 1 | 476 |
+| Not NA | 476 |
 | NA | 11946 |
 
 
@@ -573,6 +600,7 @@ Q20C_8_1:MOBA20_C; (Q20B_8_1:MOBA20_B); (Q20A_7_1:MOBA20_A); Astma.; 8. Har du n
 | Category | n |
 | -------- | - |
 | 1 | 1030 |
+| Not NA | 1030 |
 | NA | 11392 |
 
 
@@ -583,6 +611,7 @@ Q20C_8_2:MOBA20_C; (Q20B_8_2:MOBA20_B); (Q20A_7_2:MOBA20_A); Pollenallergi/høys
 | Category | n |
 | -------- | - |
 | 1 | 3315 |
+| Not NA | 3315 |
 | NA | 9107 |
 
 
@@ -593,6 +622,7 @@ Q20C_8_3:MOBA20_C; (Q20B_8_3:MOBA20_B); (Q20A_7_3:MOBA20_A); Allergi mot dyr.; 8
 | Category | n |
 | -------- | - |
 | 1 | 2004 |
+| Not NA | 2004 |
 | NA | 10418 |
 
 
@@ -603,6 +633,7 @@ Q20C_8_4:MOBA20_C; (Q20B_8_4:MOBA20_B); (Q20A_7_4:MOBA20_A); Annen allergi.; 8. 
 | Category | n |
 | -------- | - |
 | 1 | 955 |
+| Not NA | 955 |
 | NA | 11467 |
 
 
@@ -613,6 +644,7 @@ Q20C_8_5:MOBA20_C; (Q20B_8_5:MOBA20_B); (Q20A_7_5:MOBA20_A); Atopisk eksem.; 8. 
 | Category | n |
 | -------- | - |
 | 1 | 1068 |
+| Not NA | 1068 |
 | NA | 11354 |
 
 
@@ -623,6 +655,7 @@ Q20C_8_6:MOBA20_C; (Q20B_8_6:MOBA20_B); (Q20A_7_6:MOBA20_A); Annen eksem.; 8. Ha
 | Category | n |
 | -------- | - |
 | 1 | 600 |
+| Not NA | 600 |
 | NA | 11822 |
 
 
@@ -633,6 +666,7 @@ Q20C_8_7:MOBA20_C; (Q20B_8_7:MOBA20_B); (Q20A_7_7:MOBA20_A); Psoriasis.; 8. Har 
 | Category | n |
 | -------- | - |
 | 1 | 236 |
+| Not NA | 236 |
 | NA | 12186 |
 
 
@@ -643,6 +677,7 @@ Q20C_8_8:MOBA20_C; (Q20B_8_8:MOBA20_B); (Q20A_7_8:MOBA20_A); Diabetes type 1.; 8
 | Category | n |
 | -------- | - |
 | 1 | 105 |
+| Not NA | 105 |
 | NA | 12317 |
 
 
@@ -653,6 +688,7 @@ Q20C_8_9:MOBA20_C; (Q20B_8_9:MOBA20_B); (Q20A_7_9:MOBA20_A); Diabetes type 2.; 8
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 12417 |
 
 
@@ -663,6 +699,7 @@ Q20C_8_10:MOBA20_C; (Q20B_8_10:MOBA20_B); (Q20A_7_10:MOBA20_A); Crohns sykdom; 8
 | Category | n |
 | -------- | - |
 | 1 | 37 |
+| Not NA | 37 |
 | NA | 12385 |
 
 
@@ -673,6 +710,7 @@ Q20C_8_11:MOBA20_C; (Q20B_8_11:MOBA20_B); (Q20A_7_11:MOBA20_A); Ulcerøs kolitt.
 | Category | n |
 | -------- | - |
 | 1 | 58 |
+| Not NA | 58 |
 | NA | 12364 |
 
 
@@ -683,6 +721,7 @@ Q20C_8_12:MOBA20_C; (Q20B_8_12:MOBA20_B); (Q20A_7_12:MOBA20_A); Cøliaki (påvis
 | Category | n |
 | -------- | - |
 | 1 | 251 |
+| Not NA | 251 |
 | NA | 12171 |
 
 
@@ -693,6 +732,7 @@ Q20C_8_13:MOBA20_C; (Q20B_8_13:MOBA20_B); (Q20A_7_13:MOBA20_A); Cøliaki (Ikke p
 | Category | n |
 | -------- | - |
 | 1 | 41 |
+| Not NA | 41 |
 | NA | 12381 |
 
 
@@ -703,6 +743,7 @@ Q20C_8_14:MOBA20_C; (Q20B_8_14:MOBA20_B); (Q20A_7_14:MOBA20_A); Irritabel tarmsy
 | Category | n |
 | -------- | - |
 | 1 | 695 |
+| Not NA | 695 |
 | NA | 11727 |
 
 
@@ -713,6 +754,7 @@ Q20C_8_15:MOBA20_C; (Q20B_8_15:MOBA20_B); (Q20A_7_15:MOBA20_A); Migrene.; 8. Har
 | Category | n |
 | -------- | - |
 | 1 | 1270 |
+| Not NA | 1270 |
 | NA | 11152 |
 
 
@@ -723,6 +765,7 @@ Q20C_8_16:MOBA20_C; (Q20B_8_16:MOBA20_B); (Q20A_7_16:MOBA20_A); Kronisk utmattel
 | Category | n |
 | -------- | - |
 | 1 | 126 |
+| Not NA | 126 |
 | NA | 12296 |
 
 
@@ -733,6 +776,7 @@ Q20C_8_17:MOBA20_C; (Q20B_8_17:MOBA20_B); (Q20A_7_17:MOBA20_A); Long Covid senpl
 | Category | n |
 | -------- | - |
 | 1 | 125 |
+| Not NA | 125 |
 | NA | 12297 |
 
 
@@ -743,6 +787,7 @@ Q20C_8_18:MOBA20_C; (Q20B_8_18:MOBA20_B); (Q20A_7_18:MOBA20_A); Epilepsi.; 8. Ha
 | Category | n |
 | -------- | - |
 | 1 | 67 |
+| Not NA | 67 |
 | NA | 12355 |
 
 
@@ -753,6 +798,7 @@ Q20C_8_19:MOBA20_C; (Q20B_8_19:MOBA20_B); (Q20A_7_19:MOBA20_A); Angst.; 8. Har d
 | Category | n |
 | -------- | - |
 | 1 | 1516 |
+| Not NA | 1516 |
 | NA | 10906 |
 
 
@@ -763,6 +809,7 @@ Q20C_8_20:MOBA20_C; (Q20B_8_20:MOBA20_B); (Q20A_7_20:MOBA20_A); Depresjon.; 8. H
 | Category | n |
 | -------- | - |
 | 1 | 1058 |
+| Not NA | 1058 |
 | NA | 11364 |
 
 
@@ -773,6 +820,7 @@ Q20C_8_21:MOBA20_C; (Q20B_8_21:MOBA20_B); (Q20A_7_21:MOBA20_A); Anoreksi / bulim
 | Category | n |
 | -------- | - |
 | 1 | 333 |
+| Not NA | 333 |
 | NA | 12089 |
 
 
@@ -783,6 +831,7 @@ Q20C_8_22:MOBA20_C; (Q20B_8_22:MOBA20_B); (Q20A_7_22:MOBA20_A); ADHD.; 8. Har du
 | Category | n |
 | -------- | - |
 | 1 | 844 |
+| Not NA | 844 |
 | NA | 11578 |
 
 
@@ -793,6 +842,7 @@ Q20C_8_23:MOBA20_C; (Q20B_8_23:MOBA20_B); (Q20A_7_23:MOBA20_A); Rusmisbruk (alko
 | Category | n |
 | -------- | - |
 | 1 | 84 |
+| Not NA | 84 |
 | NA | 12338 |
 
 
@@ -803,6 +853,7 @@ Q20C_8_24:MOBA20_C; (Q20B_8_24:MOBA20_B); (Q20A_7_24:MOBA20_A); Annen psykisk li
 | Category | n |
 | -------- | - |
 | 1 | 495 |
+| Not NA | 495 |
 | NA | 11927 |
 
 
@@ -813,6 +864,7 @@ Q20C_8_25:MOBA20_C; (Q20B_8_25:MOBA20_B); (Q20A_7_25:MOBA20_A); Annet.; 8. Har d
 | Category | n |
 | -------- | - |
 | 1 | 610 |
+| Not NA | 610 |
 | NA | 11812 |
 
 
@@ -823,6 +875,7 @@ Q20C_8_26:MOBA20_C; (Q20B_8_26:MOBA20_B);  Nei, ingen av disse.; 8. Har du noen 
 | Category | n |
 | -------- | - |
 | 1 | 4000 |
+| Not NA | 4000 |
 | NA | 8422 |
 
 
@@ -834,6 +887,7 @@ Q20C_8_1_1_1:MOBA20_C; (Q20B_8_1_1:MOBA20_B); (Q20A_7_1_1:MOBA20_A); Astma: Har 
 | -------- | - |
 | Ja | 983 |
 | Nei | 46 |
+| Not NA | 1029 |
 | NA | 11393 |
 
 
@@ -845,6 +899,7 @@ Q20C_8_2_1_1:MOBA20_C; (Q20B_8_2_1:MOBA20_B); (Q20A_7_2_1:MOBA20_A); Pollenaller
 | -------- | - |
 | Nei | 471 |
 | Ja | 2837 |
+| Not NA | 3308 |
 | NA | 9114 |
 
 
@@ -856,6 +911,7 @@ Q20C_8_3_1_1:MOBA20_C; (Q20B_8_3_1:MOBA20_B); (Q20A_7_3_1:MOBA20_A); Allergi mot
 | -------- | - |
 | Nei | 354 |
 | Ja | 1643 |
+| Not NA | 1997 |
 | NA | 10425 |
 
 
@@ -867,6 +923,7 @@ Q20C_8_4_1_1:MOBA20_C; (Q20B_8_4_1:MOBA20_B); (Q20A_7_4_1:MOBA20_A); Annen aller
 | -------- | - |
 | Ja | 793 |
 | Nei | 152 |
+| Not NA | 945 |
 | NA | 11477 |
 
 
@@ -878,6 +935,7 @@ Q20C_8_5_1_1:MOBA20_C; (Q20B_8_5_1:MOBA20_B); (Q20A_7_5_1:MOBA20_A); Atopisk eks
 | -------- | - |
 | Ja | 972 |
 | Nei | 92 |
+| Not NA | 1064 |
 | NA | 11358 |
 
 
@@ -889,6 +947,7 @@ Q20C_8_6_1_1:MOBA20_C; (Q20B_8_6_1:MOBA20_B); (Q20A_7_6_1:MOBA20_A); Annen eksem
 | -------- | - |
 | Nei | 151 |
 | Ja | 447 |
+| Not NA | 598 |
 | NA | 11824 |
 
 
@@ -900,6 +959,7 @@ Q20C_8_7_1_1:MOBA20_C; (Q20B_8_7_1:MOBA20_B); (Q20A_7_7_1:MOBA20_A); Psoriasis: 
 | -------- | - |
 | Ja | 182 |
 | Nei | 53 |
+| Not NA | 235 |
 | NA | 12187 |
 
 
@@ -911,6 +971,7 @@ Q20C_8_8_1_1:MOBA20_C; (Q20B_8_8_1:MOBA20_B); (Q20A_7_8_1:MOBA20_A); Diabetes ty
 | -------- | - |
 | Ja | 99 |
 | Nei | 6 |
+| Not NA | 105 |
 | NA | 12317 |
 
 
@@ -922,6 +983,7 @@ Q20C_8_9_1_1:MOBA20_C; (Q20B_8_9_1:MOBA20_B); (Q20A_7_9_1:MOBA20_A); Diabetes ty
 | -------- | - |
 | Ja | 4 |
 | Nei | 1 |
+| Not NA | 5 |
 | NA | 12417 |
 
 
@@ -933,6 +995,7 @@ Q20C_8_10_1_1:MOBA20_C; (Q20B_8_10_1:MOBA20_B); (Q20A_7_10_1:MOBA20_A); Crohns s
 | -------- | - |
 | Ja | 34 |
 | Nei | 3 |
+| Not NA | 37 |
 | NA | 12385 |
 
 
@@ -944,6 +1007,7 @@ Q20C_8_11_1_1:MOBA20_C; (Q20B_8_11_1:MOBA20_B); (Q20A_7_11_1:MOBA20_A); Ulcerøs
 | -------- | - |
 | Ja | 56 |
 | Nei | 2 |
+| Not NA | 58 |
 | NA | 12364 |
 
 
@@ -955,6 +1019,7 @@ Q20C_8_12_1_1:MOBA20_C; (Q20B_8_12_1:MOBA20_B); (Q20A_7_12_1:MOBA20_A); Cøliaki
 | -------- | - |
 | Ja | 246 |
 | Nei | 5 |
+| Not NA | 251 |
 | NA | 12171 |
 
 
@@ -966,6 +1031,7 @@ Q20C_8_13_1_1:MOBA20_C; (Q20B_8_13_1:MOBA20_B); (Q20A_7_13_1:MOBA20_A); Cøliaki
 | -------- | - |
 | Ja | 21 |
 | Nei | 20 |
+| Not NA | 41 |
 | NA | 12381 |
 
 
@@ -977,6 +1043,7 @@ Q20C_8_14_1_1:MOBA20_C; (Q20B_8_14_1:MOBA20_B); (Q20A_7_14_1:MOBA20_A); Irritabe
 | -------- | - |
 | Nei | 194 |
 | Ja | 500 |
+| Not NA | 694 |
 | NA | 11728 |
 
 
@@ -988,6 +1055,7 @@ Q20C_8_15_1_1:MOBA20_C; (Q20B_8_15_1:MOBA20_B); (Q20A_7_15_1:MOBA20_A); Migrene:
 | -------- | - |
 | Ja | 1040 |
 | Nei | 226 |
+| Not NA | 1266 |
 | NA | 11156 |
 
 
@@ -999,6 +1067,7 @@ Q20C_8_16_1_1:MOBA20_C; (Q20B_8_16_1:MOBA20_B); (Q20A_7_16_1:MOBA20_A); Kronisk 
 | -------- | - |
 | Ja | 117 |
 | Nei | 9 |
+| Not NA | 126 |
 | NA | 12296 |
 
 
@@ -1010,6 +1079,7 @@ Q20C_8_17_1_1:MOBA20_C; (Q20B_8_17_1:MOBA20_B); (Q20A_7_17_1:MOBA20_A); Long Cov
 | -------- | - |
 | Nei | 67 |
 | Ja | 58 |
+| Not NA | 125 |
 | NA | 12297 |
 
 
@@ -1021,6 +1091,7 @@ Q20C_8_18_1_1:MOBA20_C; (Q20B_8_18_1:MOBA20_B); (Q20A_7_18_1:MOBA20_A); Epilepsi
 | -------- | - |
 | Ja | 65 |
 | Nei | 2 |
+| Not NA | 67 |
 | NA | 12355 |
 
 
@@ -1032,6 +1103,7 @@ Q20C_8_19_1_1:MOBA20_C; (Q20B_8_19_1:MOBA20_B); (Q20A_7_19_1:MOBA20_A); Angst: H
 | -------- | - |
 | Ja | 1265 |
 | Nei | 245 |
+| Not NA | 1510 |
 | NA | 10912 |
 
 
@@ -1043,6 +1115,7 @@ Q20C_8_20_1_1:MOBA20_C; (Q20B_8_20_1:MOBA20_B); (Q20A_7_20_1:MOBA20_A); Depresjo
 | -------- | - |
 | Ja | 900 |
 | Nei | 155 |
+| Not NA | 1055 |
 | NA | 11367 |
 
 
@@ -1054,6 +1127,7 @@ Q20C_8_21_1_1:MOBA20_C; (Q20B_8_21_1:MOBA20_B); (Q20A_7_21_1:MOBA20_A); Anoreksi
 | -------- | - |
 | Ja | 225 |
 | Nei | 105 |
+| Not NA | 330 |
 | NA | 12092 |
 
 
@@ -1065,6 +1139,7 @@ Q20C_8_22_1_1:MOBA20_C; (Q20B_8_22_1:MOBA20_B); (Q20A_7_22_1:MOBA20_A); ADHD: Ha
 | -------- | - |
 | Ja | 750 |
 | Nei | 90 |
+| Not NA | 840 |
 | NA | 11582 |
 
 
@@ -1076,6 +1151,7 @@ Q20C_8_23_1_1:MOBA20_C; (Q20B_8_23_1:MOBA20_B); (Q20A_7_23_1:MOBA20_A); Rusmisbr
 | -------- | - |
 | Ja | 36 |
 | Nei | 48 |
+| Not NA | 84 |
 | NA | 12338 |
 
 
@@ -1087,6 +1163,7 @@ Q20C_8_24_1_1:MOBA20_C; (Q20B_8_24_1:MOBA20_B); (Q20A_7_24_1:MOBA20_A); Annen ps
 | -------- | - |
 | Ja | 455 |
 | Nei | 38 |
+| Not NA | 493 |
 | NA | 11929 |
 
 
@@ -1099,6 +1176,7 @@ Q20C_9:MOBA20_C; (Q20B_9:MOBA20_B); (Q20A_8:MOBA20_A); ; 9. Har du eller har du 
 | Nei | 12362 |
 | Ja, kreft behandlet med cellegift | 22 |
 | Ja, kreft ikke behandlet med cellegift | 23 |
+| Not NA | 12407 |
 | NA | 15 |
 
 
@@ -1113,6 +1191,7 @@ Q20C_10:MOBA20_C; (Q20B_10:MOBA20_B); ; 10. Tenk tilbake til da du var 10 år ga
 | Tykkere | 2223 |
 | Vet ikke | 214 |
 | Ønsker ikke å svare | 28 |
+| Not NA | 11442 |
 | NA | 980 |
 
 
@@ -1127,6 +1206,7 @@ Q20C_11:MOBA20_C; (Q20B_11:MOBA20_B); ; 11. Da du var 10 år gammel, hvor høy v
 | Ønsker ikke å svare | 6 |
 | Lavere | 2351 |
 | Vet ikke | 342 |
+| Not NA | 11439 |
 | NA | 983 |
 
 
@@ -1141,6 +1221,7 @@ Q20C_12:MOBA20_C; (Q20B_12:MOBA20_B); ; 12. Som baby - var du rund eller tynn da
 | Ønsker ikke å svare | 14 |
 | Vet ikke | 2829 |
 | Tynnere | 838 |
+| Not NA | 11431 |
 | NA | 991 |
 
 
@@ -1155,6 +1236,7 @@ M2_Q20C_13_1:MOBA20_C; (M2_Q20B_13_1:MOBA20_B); Når jeg ser eller lukter mat je
 | Svært enig | 3921 |
 | Svært uenig | 141 |
 | Uenig | 277 |
+| Not NA | 11404 |
 | NA | 1018 |
 
 
@@ -1169,6 +1251,7 @@ M2_Q20C_13_2:MOBA20_C; (M2_Q20B_13_2:MOBA20_B); Jeg blir fort mett; 13. Ta still
 | Svært uenig | 473 |
 | Uenig | 2646 |
 | Svært enig | 759 |
+| Not NA | 11430 |
 | NA | 992 |
 
 
@@ -1183,6 +1266,7 @@ M2_Q20C_13_3:MOBA20_C; (M2_Q20B_13_3:MOBA20_B); Jeg er interessert i å smake ma
 | Enig | 4565 |
 | Hverken enig eller uenig | 2025 |
 | Svært uenig | 477 |
+| Not NA | 11435 |
 | NA | 987 |
 
 
@@ -1206,6 +1290,7 @@ Q20B_24:MOBA20_B; Velg antall år:(Hvis kvinne); 24. Hvor gammel var du da du fi
 | 17 år | 23 |
 | 19 år | 4 |
 | 22 år | 1 |
+| Not NA | 5398 |
 | NA | 7024 |
 
 
@@ -1227,6 +1312,7 @@ Q20A_16_1:MOBA20_A; Antall år.Hvor gammel var du da du fikk din første menstru
 | Har ikke fått | 2 |
 | 17 | 2 |
 | 19 | 1 |
+| Not NA | 679 |
 | NA | 11743 |
 
 
@@ -1249,6 +1335,7 @@ Q20B_24_1_1:MOBA20_B; (Q20A_16_1_1:MOBA20_A); Antall måneder.(Hvis alder i år 
 | 3 | 355 |
 | 9 | 211 |
 | 8 | 260 |
+| Not NA | 5148 |
 | NA | 7274 |
 
 
@@ -1262,6 +1349,7 @@ Q20C_25:MOBA20_C; (Q20B_25:MOBA20_B); (Q20A_16_2:MOBA20_A); ; 25. Sammenlignet m
 | Senere enn mine jevnaldrende  | 1573 |
 | Omtrent på samme tid som mine jevnaldrende | 4295 |
 | Vet ikke | 351 |
+| Not NA | 8121 |
 | NA | 4301 |
 
 
@@ -1277,6 +1365,7 @@ Q20C_25_1:MOBA20_C; (Q20B_25_1:MOBA20_B); Har din menstruasjonssyklus vært rege
 | Vet ikke | 482 |
 | Ja, jeg har kunnet forutsi menstruasjon innenfor 6-7 dager | 619 |
 | Ja, jeg har kunnet forutsi neste menstruasjon innenfor 1-3 dager  | 1209 |
+| Not NA | 7126 |
 | NA | 5296 |
 
 
@@ -1292,6 +1381,7 @@ Q20A_16_3:MOBA20_A; Har din menstruasjonssyklus vært regelmessig de siste 6 må
 | Nei, veldig uregelmessige og jeg kan ikke forutsi neste menstruasjon | 147 |
 | Nei, uregelmessige med opptil 4-6 dagers forskjell i sykluslengde | 76 |
 | Vet ikke | 38 |
+| Not NA | 673 |
 | NA | 11749 |
 
 
@@ -1381,6 +1471,7 @@ Q20C_25_1_1:MOBA20_C; (Q20B_25_1_1:MOBA20_B); De siste 6 månedene, hvor mange d
 | Mer enn 90 dager | 46 |
 | Vet ikke | 384 |
 | NA's | 7757 |
+| Not NA | 4665 |
 
 
 ### TG124
@@ -1396,6 +1487,7 @@ Q20A_16_3_1:MOBA20_A; De siste 6 månedene, hvor mange dager er det vanligvis me
 | Mer enn 35 dager | 37 |
 | Mindre enn 24 dager | 37 |
 | Vet ikke | 63 |
+| Not NA | 498 |
 | NA | 11924 |
 
 
@@ -1410,6 +1502,7 @@ Q20C_25_1_2:MOBA20_C; (Q20B_25_1_2:MOBA20_B); (Q20A_16_3_2:MOBA20_A); Hvor mange
 | 1-2 dager | 149 |
 | Varierer så mye at det er vanskelig å si | 661 |
 | Vet ikke | 59 |
+| Not NA | 5483 |
 | NA | 6939 |
 
 
@@ -1420,6 +1513,7 @@ Q20C_25_1_3_1:MOBA20_C; (Q20B_25_1_3_1:MOBA20_B); (Q20A_16_3_3_1:MOBA20_A); Det 
 | Category | n |
 | -------- | - |
 | 1 | 375 |
+| Not NA | 375 |
 | NA | 12047 |
 
 
@@ -1430,6 +1524,7 @@ Q20C_25_1_3_2:MOBA20_C; (Q20B_25_1_3_2:MOBA20_B); (Q20A_16_3_3_2:MOBA20_A); Bytt
 | Category | n |
 | -------- | - |
 | 1 | 3843 |
+| Not NA | 3843 |
 | NA | 8579 |
 
 
@@ -1440,6 +1535,7 @@ Q20C_25_1_3_3:MOBA20_C; (Q20B_25_1_3_3:MOBA20_B); (Q20A_16_3_3_3:MOBA20_A); Bytt
 | Category | n |
 | -------- | - |
 | 1 | 956 |
+| Not NA | 956 |
 | NA | 11466 |
 
 
@@ -1450,6 +1546,7 @@ Q20C_25_1_3_4:MOBA20_C; (Q20B_25_1_3_4:MOBA20_B); (Q20A_16_3_3_4:MOBA20_A); Tren
 | Category | n |
 | -------- | - |
 | 1 | 128 |
+| Not NA | 128 |
 | NA | 12294 |
 
 
@@ -1460,6 +1557,7 @@ Q20C_25_1_3_5:MOBA20_C; (Q20B_25_1_3_5:MOBA20_B); (Q20A_16_3_3_5:MOBA20_A); Bytt
 | Category | n |
 | -------- | - |
 | 1 | 458 |
+| Not NA | 458 |
 | NA | 11964 |
 
 
@@ -1470,6 +1568,7 @@ Q20C_25_1_3_6:MOBA20_C; (Q20B_25_1_3_6:MOBA20_B); (Q20A_16_3_3_6:MOBA20_A); Det 
 | Category | n |
 | -------- | - |
 | 1 | 1359 |
+| Not NA | 1359 |
 | NA | 11063 |
 
 
@@ -1480,6 +1579,7 @@ Q20C_25_1_3_7:MOBA20_C; (Q20B_25_1_3_7:MOBA20_B); (Q20A_16_3_3_7:MOBA20_A); Blø
 | Category | n |
 | -------- | - |
 | 1 | 792 |
+| Not NA | 792 |
 | NA | 11630 |
 
 
@@ -1490,6 +1590,7 @@ Q20C_25_1_3_8:MOBA20_C; (Q20B_25_1_3_8:MOBA20_B); (Q20A_16_3_3_8:MOBA20_A); Bruk
 | Category | n |
 | -------- | - |
 | 1 | 879 |
+| Not NA | 879 |
 | NA | 11543 |
 
 
@@ -1500,6 +1601,7 @@ Q20C_25_1_3_9:MOBA20_C; (Q20B_25_1_3_9:MOBA20_B); (Q20A_16_3_3_9:MOBA20_A); Stå
 | Category | n |
 | -------- | - |
 | 1 | 317 |
+| Not NA | 317 |
 | NA | 12105 |
 
 
@@ -1510,6 +1612,7 @@ Q20C_25_1_3_10:MOBA20_C; (Q20B_25_1_3_10:MOBA20_B); (Q20A_16_3_3_10:MOBA20_A); D
 | Category | n |
 | -------- | - |
 | 1 | 421 |
+| Not NA | 421 |
 | NA | 12001 |
 
 
@@ -1520,6 +1623,7 @@ Q20C_25_1_3_11:MOBA20_C; (Q20B_25_1_3_11:MOBA20_B); (Q20A_16_3_3_11:MOBA20_A); D
 | Category | n |
 | -------- | - |
 | 1 | 88 |
+| Not NA | 88 |
 | NA | 12334 |
 
 
@@ -1530,6 +1634,7 @@ Q20C_25_1_3_12:MOBA20_C; (Q20B_25_1_3_12:MOBA20_B); (Q20A_16_3_3_12:MOBA20_A); U
 | Category | n |
 | -------- | - |
 | 1 | 146 |
+| Not NA | 146 |
 | NA | 12276 |
 
 
@@ -1544,6 +1649,7 @@ Q20C_25_1_4:MOBA20_C; (Q20B_25_1_4:MOBA20_B); De siste 6 månedene, har du hatt 
 | Ja, av og til | 1253 |
 | Usikker | 420 |
 | Ikke relevant | 68 |
+| Not NA | 4981 |
 | NA | 7441 |
 
 
@@ -1557,6 +1663,7 @@ Q20A_16_3_4:MOBA20_A; De siste 6 månedene, har du hatt blødning mellom menstru
 | Ja, av og til | 144 |
 | Usikker. | 47 |
 | Ja, vanligvis | 40 |
+| Not NA | 510 |
 | NA | 11912 |
 
 
@@ -1567,6 +1674,7 @@ Q20C_25_2_1:MOBA20_C; (Q20B_25_2_1:MOBA20_B); (Q20A_16_3_5_1:MOBA20_A); Jeg har 
 | Category | n |
 | -------- | - |
 | 1 | 853 |
+| Not NA | 853 |
 | NA | 11569 |
 
 
@@ -1577,6 +1685,7 @@ Q20C_25_2_2:MOBA20_C; (Q20B_25_2_2:MOBA20_B); (Q20A_16_3_5_2:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 6014 |
+| Not NA | 6014 |
 | NA | 6408 |
 
 
@@ -1587,6 +1696,7 @@ Q20C_25_2_3:MOBA20_C; (Q20B_25_2_3:MOBA20_B); (Q20A_16_3_5_3:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 1619 |
+| Not NA | 1619 |
 | NA | 10803 |
 
 
@@ -1597,6 +1707,7 @@ Q20C_25_2_4:MOBA20_C; (Q20B_25_2_4:MOBA20_B); (Q20A_16_3_5_4:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 3694 |
+| Not NA | 3694 |
 | NA | 8728 |
 
 
@@ -1607,6 +1718,7 @@ Q20C_25_2_5:MOBA20_C; (Q20B_25_2_5:MOBA20_B); (Q20A_16_3_5_5:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 829 |
+| Not NA | 829 |
 | NA | 11593 |
 
 
@@ -1617,6 +1729,7 @@ Q20C_25_2_6:MOBA20_C; (Q20B_25_2_6:MOBA20_B); (Q20A_16_3_5_6:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 1018 |
+| Not NA | 1018 |
 | NA | 11404 |
 
 
@@ -1627,6 +1740,7 @@ Q20C_25_2_7:MOBA20_C; (Q20B_25_2_7:MOBA20_B); (Q20A_16_3_5_7:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 221 |
+| Not NA | 221 |
 | NA | 12201 |
 
 
@@ -1637,6 +1751,7 @@ Q20C_25_2_8:MOBA20_C; (Q20B_25_2_8:MOBA20_B); (Q20A_16_3_5_8:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 700 |
+| Not NA | 700 |
 | NA | 11722 |
 
 
@@ -1647,6 +1762,7 @@ Q20C_25_2_9:MOBA20_C; (Q20B_25_2_9:MOBA20_B); (Q20A_16_3_5_9:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 147 |
+| Not NA | 147 |
 | NA | 12275 |
 
 
@@ -1657,6 +1773,7 @@ Q20C_25_2_10:MOBA20_C; (Q20B_25_2_10:MOBA20_B); (Q20A_16_3_5_10:MOBA20_A); Smert
 | Category | n |
 | -------- | - |
 | 1 | 1502 |
+| Not NA | 1502 |
 | NA | 10920 |
 
 
@@ -1667,6 +1784,7 @@ Q20C_25_2_11:MOBA20_C; (Q20B_25_2_11:MOBA20_B); (Q20A_16_3_5_11:MOBA20_A); Smert
 | Category | n |
 | -------- | - |
 | 1 | 285 |
+| Not NA | 285 |
 | NA | 12137 |
 
 
@@ -1677,6 +1795,7 @@ Q20C_25_2_12:MOBA20_C; (Q20B_25_2_12:MOBA20_B); (Q20A_16_3_5_12:MOBA20_A); Andre
 | Category | n |
 | -------- | - |
 | 1 | 533 |
+| Not NA | 533 |
 | NA | 11889 |
 
 
@@ -1687,6 +1806,7 @@ Q20C_25_2_13:MOBA20_C; (Q20B_25_2_13:MOBA20_B); (Q20A_16_3_5_13:MOBA20_A); Konst
 | Category | n |
 | -------- | - |
 | 1 | 141 |
+| Not NA | 141 |
 | NA | 12281 |
 
 
@@ -1697,6 +1817,7 @@ Q20C_25_2_14:MOBA20_C; (Q20B_25_2_14:MOBA20_B); (Q20A_16_3_5_14:MOBA20_A); Konst
 | Category | n |
 | -------- | - |
 | 1 | 351 |
+| Not NA | 351 |
 | NA | 12071 |
 
 
@@ -1707,6 +1828,7 @@ Q20C_25_2_15:MOBA20_C; (Q20B_25_2_15:MOBA20_B); Ikke relevant.Har du vanligvis s
 | Category | n |
 | -------- | - |
 | 1 | 570 |
+| Not NA | 570 |
 | NA | 11852 |
 
 
@@ -1725,6 +1847,7 @@ Q20C_25_3:MOBA20_C; (Q20B_25_3:MOBA20_B); Hvis du i de siste 6 månedene har br
 | 4 dager | 300 |
 | 5 dager | 140 |
 | 6 dager | 52 |
+| Not NA | 7299 |
 | NA | 5123 |
 
 
@@ -1740,6 +1863,7 @@ Q20A_16_3_6:MOBA20_A; De siste 6 månedene, bruker du vanligvis smertestillende 
 | Ja, 1-2 dager i hver menstruasjon | 112 |
 | Ja, mer enn 2 dager i hver menstruasjon | 81 |
 | Vet ikke | 10 |
+| Not NA | 667 |
 | NA | 11755 |
 
 
@@ -1750,6 +1874,7 @@ Q20C_25_3_1_1:MOBA20_C; (Q20B_25_3_1_1:MOBA20_B); (Q20A_16_3_6_1_1:MOBA20_A); Je
 | Category | n |
 | -------- | - |
 | 1 | 1168 |
+| Not NA | 1168 |
 | NA | 11254 |
 
 
@@ -1760,6 +1885,7 @@ Q20C_25_3_1_2:MOBA20_C; (Q20B_25_3_1_2:MOBA20_B); (Q20A_16_3_6_1_2:MOBA20_A); Je
 | Category | n |
 | -------- | - |
 | 1 | 1945 |
+| Not NA | 1945 |
 | NA | 10477 |
 
 
@@ -1770,6 +1896,7 @@ Q20C_25_3_1_3:MOBA20_C; (Q20B_25_3_1_3:MOBA20_B); (Q20A_16_3_6_1_3:MOBA20_A); Je
 | Category | n |
 | -------- | - |
 | 1 | 4468 |
+| Not NA | 4468 |
 | NA | 7954 |
 
 
@@ -1780,6 +1907,7 @@ Q20C_25_3_1_4:MOBA20_C; (Q20B_25_3_1_4:MOBA20_B); (Q20A_16_3_6_1_4:MOBA20_A); Ve
 | Category | n |
 | -------- | - |
 | 1 | 308 |
+| Not NA | 308 |
 | NA | 12114 |
 
 
@@ -1790,6 +1918,7 @@ Q20C_25_3_2_1:MOBA20_C; (Q20B_25_3_2_1:MOBA20_B); (Q20A_16_3_6_2_1:MOBA20_A); Je
 | Category | n |
 | -------- | - |
 | 1 | 301 |
+| Not NA | 301 |
 | NA | 12121 |
 
 
@@ -1800,6 +1929,7 @@ Q20C_25_3_2_2:MOBA20_C; (Q20B_25_3_2_2:MOBA20_B); (Q20A_16_3_6_2_2:MOBA20_A); Je
 | Category | n |
 | -------- | - |
 | 1 | 725 |
+| Not NA | 725 |
 | NA | 11697 |
 
 
@@ -1810,6 +1940,7 @@ Q20C_25_3_2_3:MOBA20_C; (Q20B_25_3_2_3:MOBA20_B); (Q20A_16_3_6_2_3:MOBA20_A); Je
 | Category | n |
 | -------- | - |
 | 1 | 3217 |
+| Not NA | 3217 |
 | NA | 9205 |
 
 
@@ -1820,6 +1951,7 @@ Q20C_25_3_2_4:MOBA20_C; (Q20B_25_3_2_4:MOBA20_B); (Q20A_16_3_6_2_4:MOBA20_A); Je
 | Category | n |
 | -------- | - |
 | 1 | 1912 |
+| Not NA | 1912 |
 | NA | 10510 |
 
 
@@ -1830,6 +1962,7 @@ Q20C_25_3_2_5:MOBA20_C; (Q20B_25_3_2_5:MOBA20_B); (Q20A_16_3_6_2_5:MOBA20_A); Ve
 | Category | n |
 | -------- | - |
 | 1 | 548 |
+| Not NA | 548 |
 | NA | 11874 |
 
 
@@ -1840,6 +1973,7 @@ Q20C_25_3_2_6:MOBA20_C; (Q20B_25_3_2_6:MOBA20_B); Ikke relevant.Hvor sterke er d
 | Category | n |
 | -------- | - |
 | 1 | 962 |
+| Not NA | 962 |
 | NA | 11460 |
 
 
@@ -1850,6 +1984,7 @@ Q20C_25_4_1:MOBA20_C; (Q20B_25_4_1:MOBA20_B); (Q20A_16_4_1:MOBA20_A); Jeg er van
 | Category | n |
 | -------- | - |
 | 1 | 2652 |
+| Not NA | 2652 |
 | NA | 9770 |
 
 
@@ -1860,6 +1995,7 @@ Q20C_25_4_2:MOBA20_C; (Q20B_25_4_2:MOBA20_B); (Q20A_16_4_2:MOBA20_A); Jeg er oft
 | Category | n |
 | -------- | - |
 | 1 | 4483 |
+| Not NA | 4483 |
 | NA | 7939 |
 
 
@@ -1870,6 +2006,7 @@ Q20C_25_4_3:MOBA20_C; (Q20B_25_4_3:MOBA20_B); (Q20A_16_4_3:MOBA20_A); Jeg er oft
 | Category | n |
 | -------- | - |
 | 1 | 559 |
+| Not NA | 559 |
 | NA | 11863 |
 
 
@@ -1880,6 +2017,7 @@ Q20C_25_4_4:MOBA20_C; (Q20B_25_4_4:MOBA20_B); (Q20A_16_4_4:MOBA20_A); Jeg er oft
 | Category | n |
 | -------- | - |
 | 1 | 244 |
+| Not NA | 244 |
 | NA | 12178 |
 
 
@@ -1890,6 +2028,7 @@ Q20C_25_4_5:MOBA20_C; (Q20B_25_4_5:MOBA20_B); (Q20A_16_4_5:MOBA20_A); Vet ikke.N
 | Category | n |
 | -------- | - |
 | 1 | 495 |
+| Not NA | 495 |
 | NA | 11927 |
 
 
@@ -1900,6 +2039,7 @@ Q20C_25_4_6:MOBA20_C; (Q20B_25_4_6:MOBA20_B); Ikke relevant.Når du ikke har me
 | Category | n |
 | -------- | - |
 | 1 | 409 |
+| Not NA | 409 |
 | NA | 12013 |
 
 
@@ -1910,6 +2050,7 @@ Q20C_25_5_1:MOBA20_C; (Q20B_25_5_1:MOBA20_B); (Q20A_16_5_1:MOBA20_A); Jeg er van
 | Category | n |
 | -------- | - |
 | 1 | 1382 |
+| Not NA | 1382 |
 | NA | 11040 |
 
 
@@ -1920,6 +2061,7 @@ Q20C_25_5_2:MOBA20_C; (Q20B_25_5_2:MOBA20_B); (Q20A_16_5_2:MOBA20_A); Jeg er oft
 | Category | n |
 | -------- | - |
 | 1 | 4700 |
+| Not NA | 4700 |
 | NA | 7722 |
 
 
@@ -1930,6 +2072,7 @@ Q20C_25_5_3:MOBA20_C; (Q20B_25_5_3:MOBA20_B); (Q20A_16_5_3:MOBA20_A); Jeg er oft
 | Category | n |
 | -------- | - |
 | 1 | 864 |
+| Not NA | 864 |
 | NA | 11558 |
 
 
@@ -1940,6 +2083,7 @@ Q20C_25_5_4:MOBA20_C; (Q20B_25_5_4:MOBA20_B); (Q20A_16_5_4:MOBA20_A); Jeg er oft
 | Category | n |
 | -------- | - |
 | 1 | 348 |
+| Not NA | 348 |
 | NA | 12074 |
 
 
@@ -1950,6 +2094,7 @@ Q20C_25_5_5:MOBA20_C; (Q20B_25_5_5:MOBA20_B); (Q20A_16_5_5:MOBA20_A); Vet ikke.N
 | Category | n |
 | -------- | - |
 | 1 | 766 |
+| Not NA | 766 |
 | NA | 11656 |
 
 
@@ -1960,6 +2105,7 @@ Q20C_25_5_6:MOBA20_C; (Q20B_25_5_6:MOBA20_B); Ikke relevant.Når du har menstrua
 | Category | n |
 | -------- | - |
 | 1 | 712 |
+| Not NA | 712 |
 | NA | 11710 |
 
 
@@ -1970,6 +2116,7 @@ Q20A_16_5_6:MOBA20_A; Ikke aktuelt.Når du har menstruasjon, føler du deg ofte 
 | Category | n |
 | -------- | - |
 | 1 | 65 |
+| Not NA | 65 |
 | NA | 12357 |
 
 
@@ -1989,6 +2136,7 @@ Q20C_26:MOBA20_C; (Q20B_26:MOBA20_B); (Q20A_16_6:MOBA20_A); ; 26. Bruker du horm
 | Ja, P-ring | 50 |
 | Annen hormonell prevensjon | 17 |
 | Ja, P-sprøyte | 38 |
+| Not NA | 8130 |
 | NA | 4292 |
 
 
@@ -2012,6 +2160,7 @@ Q20C_26_1:MOBA20_C; (Q20B_26_1:MOBA20_B); Antall år:Hvor lenge har du brukt den
 | 10 år | 8 |
 | 11 år | 1 |
 | 13 år | 1 |
+| Not NA | 4917 |
 | NA | 7505 |
 
 
@@ -2034,6 +2183,7 @@ Q20A_16_6_1:MOBA20_A; Antall år.Hvor lenge har du brukt denne prevensjonen?(Hvi
 | 11 | 1 |
 | 10 | 1 |
 | 15 | 1 |
+| Not NA | 478 |
 | NA | 11944 |
 
 
@@ -2055,6 +2205,7 @@ Q20C_26_1_1:MOBA20_C; (Q20B_26_2_1:MOBA20_B); Antall måneder:Hvor lenge har du 
 | 11 Måneder | 102 |
 | 10 Måneder | 198 |
 | 2 Måneder | 295 |
+| Not NA | 3294 |
 | NA | 9128 |
 
 
@@ -2077,6 +2228,7 @@ Q20A_16_6_1_1:MOBA20_A; Antall måneder.Hvor lenge har du brukt denne prevensjon
 | 8 | 28 |
 | 5 | 28 |
 | 11 | 8 |
+| Not NA | 443 |
 | NA | 11979 |
 
 
@@ -2103,6 +2255,7 @@ Q20C_26_2:MOBA20_C; (Q20B_26_2:MOBA20_B); Antall år:Hvor gammel var du da du be
 | 10 år | 5 |
 | 24 år | 4 |
 | Under 10 år | 1 |
+| Not NA | 4904 |
 | NA | 7518 |
 
 
@@ -2125,6 +2278,7 @@ Q20A_16_6_2:MOBA20_A; Antall år.Hvor gammel var du da du begynte på hormonell 
 | 12 | 5 |
 | Husker ikke | 3 |
 | 10 | 2 |
+| Not NA | 479 |
 | NA | 11943 |
 
 
@@ -2146,6 +2300,7 @@ Q20C_26_2_1:MOBA20_C; (Q20B_26_2_1_1:MOBA20_B); Antall måneder:Hvor gammel var 
 | 9 Måneder | 196 |
 | 5 Måneder | 267 |
 | 11 Måneder | 139 |
+| Not NA | 3958 |
 | NA | 8464 |
 
 
@@ -2168,6 +2323,7 @@ Q20A_16_6_2_1:MOBA20_A; Antall måneder.Hvor gammel var du da du begynte på hor
 | 1 | 24 |
 | 10 | 19 |
 | 11 | 12 |
+| Not NA | 420 |
 | NA | 12002 |
 
 
@@ -2194,6 +2350,7 @@ Q20C_26_3:MOBA20_C; (Q20B_26_3:MOBA20_B); Antall år: Hvor lenge har du til samm
 | 15  år | 1 |
 | 13 år | 2 |
 | 14 år | 2 |
+| Not NA | 4730 |
 | NA | 7692 |
 
 
@@ -2217,6 +2374,7 @@ Q20A_16_6_3:MOBA20_A; Antall år.Hvor lenge har du til sammen brukt en eller ann
 | Husker ikke | 5 |
 | 10 | 6 |
 | 11 | 1 |
+| Not NA | 461 |
 | NA | 11961 |
 
 
@@ -2238,6 +2396,7 @@ Q20C_26_3_1:MOBA20_C; (Q20B_26_3_1_1:MOBA20_B); Antall måneder: Hvor lenge har 
 | 4 Måneder | 263 |
 | 10 Måneder | 153 |
 | 9 Måneder | 139 |
+| Not NA | 3476 |
 | NA | 8946 |
 
 
@@ -2260,6 +2419,7 @@ Q20A_16_6_3_1:MOBA20_A; Antall måneder.Hvor lenge har du til sammen brukt en el
 | 10 | 15 |
 | 5 | 28 |
 | 11 | 8 |
+| Not NA | 397 |
 | NA | 12025 |
 
 
@@ -2270,6 +2430,7 @@ Q20C_26_4_1:MOBA20_C; (Q20B_26_4_1:MOBA20_B); For å ikke bli gravid.Hvorfor bru
 | Category | n |
 | -------- | - |
 | 1 | 4021 |
+| Not NA | 4021 |
 | NA | 8401 |
 
 
@@ -2280,6 +2441,7 @@ Q20C_26_4_3:MOBA20_C; (Q20B_26_4_3:MOBA20_B); For å kontrollere når og hvor of
 | Category | n |
 | -------- | - |
 | 1 | 1612 |
+| Not NA | 1612 |
 | NA | 10810 |
 
 
@@ -2290,6 +2452,7 @@ Q20C_26_4_4:MOBA20_C; (Q20B_26_4_4:MOBA20_B); For å ha mer regelmessige menstru
 | Category | n |
 | -------- | - |
 | 1 | 646 |
+| Not NA | 646 |
 | NA | 11776 |
 
 
@@ -2300,6 +2463,7 @@ Q20C_26_4_5:MOBA20_C; (Q20B_26_4_5:MOBA20_B); For å redusere menstruasjonsblød
 | Category | n |
 | -------- | - |
 | 1 | 2026 |
+| Not NA | 2026 |
 | NA | 10396 |
 
 
@@ -2310,6 +2474,7 @@ Q20C_26_4_6:MOBA20_C; (Q20B_26_4_6:MOBA20_B); For å redusere menstruasjonssmert
 | Category | n |
 | -------- | - |
 | 1 | 2209 |
+| Not NA | 2209 |
 | NA | 10213 |
 
 
@@ -2320,6 +2485,7 @@ Q20C_26_4_7:MOBA20_C; (Q20B_26_4_7:MOBA20_B); For å få mindre akne/kviser.Hvor
 | Category | n |
 | -------- | - |
 | 1 | 479 |
+| Not NA | 479 |
 | NA | 11943 |
 
 
@@ -2330,6 +2496,7 @@ Q20C_26_4_8:MOBA20_C; (Q20B_26_4_8:MOBA20_B); Som behandling mot sykdom (f.eks. 
 | Category | n |
 | -------- | - |
 | 1 | 246 |
+| Not NA | 246 |
 | NA | 12176 |
 
 
@@ -2340,6 +2507,7 @@ Q20C_26_4_9:MOBA20_C; (Q20B_26_4_9:MOBA20_B); Annen grunn.Hvorfor bruker du horm
 | Category | n |
 | -------- | - |
 | 1 | 149 |
+| Not NA | 149 |
 | NA | 12273 |
 
 
@@ -2350,6 +2518,7 @@ Q20A_16_6_4_1:MOBA20_A; For å ikke bli gravid.Hvorfor bruker du prevensjon?(Hvi
 | Category | n |
 | -------- | - |
 | 1 | 426 |
+| Not NA | 426 |
 | NA | 11996 |
 
 
@@ -2360,6 +2529,7 @@ Q20A_16_6_4_2:MOBA20_A; For å unngå kjønnssykdommer.Hvorfor bruker du prevens
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 12404 |
 
 
@@ -2370,6 +2540,7 @@ Q20A_16_6_4_3:MOBA20_A; For å kontrollere når og hvor ofte jeg har menstruasjo
 | Category | n |
 | -------- | - |
 | 1 | 169 |
+| Not NA | 169 |
 | NA | 12253 |
 
 
@@ -2380,6 +2551,7 @@ Q20A_16_6_4_4:MOBA20_A; For å ha mer regelmessige menstruasjonsblødninger.Hvor
 | Category | n |
 | -------- | - |
 | 1 | 78 |
+| Not NA | 78 |
 | NA | 12344 |
 
 
@@ -2390,6 +2562,7 @@ Q20A_16_6_4_5:MOBA20_A; For å redusere menstruasjonsblødning.Hvorfor bruker du
 | Category | n |
 | -------- | - |
 | 1 | 190 |
+| Not NA | 190 |
 | NA | 12232 |
 
 
@@ -2400,6 +2573,7 @@ Q20A_16_6_4_6:MOBA20_A; For å redusere menstruasjonssmerter.Hvorfor bruker du p
 | Category | n |
 | -------- | - |
 | 1 | 210 |
+| Not NA | 210 |
 | NA | 12212 |
 
 
@@ -2410,6 +2584,7 @@ Q20A_16_6_4_7:MOBA20_A; For å få mindre akne/kviser.Hvorfor bruker du prevensj
 | Category | n |
 | -------- | - |
 | 1 | 52 |
+| Not NA | 52 |
 | NA | 12370 |
 
 
@@ -2420,6 +2595,7 @@ Q20A_16_6_4_8:MOBA20_A; Som behandling mot sykdom (f.eks. endometriose, adenomyo
 | Category | n |
 | -------- | - |
 | 1 | 25 |
+| Not NA | 25 |
 | NA | 12397 |
 
 
@@ -2430,6 +2606,7 @@ Q20A_16_6_4_9:MOBA20_A; Annen grunn.Hvorfor bruker du prevensjon?(Hvis ja, bruke
 | Category | n |
 | -------- | - |
 | 1 | 12 |
+| Not NA | 12 |
 | NA | 12410 |
 
 
@@ -2445,6 +2622,7 @@ Q20C_26_5:MOBA20_C; (Q20B_26_5:MOBA20_B); Var din menstruasjonssyklus regelmessi
 | Nei, uregelmessig. Sykluslengden varierte ofte med mer enn 7 dager | 1009 |
 | Ja, jeg kunne forutsi neste menstruasjon innenfor 6-7 dager | 407 |
 | Jeg hadde ikke menstruasjonsblødninger | 52 |
+| Not NA | 4912 |
 | NA | 7510 |
 
 
@@ -2460,6 +2638,7 @@ Q20A_16_6_5:MOBA20_A; Var din menstruasjonssyklus regelmessig før du begynte p�
 | Nei, uregelmessige med opptil 7 dager eller mer forskjell i sykluslengde | 28 |
 | Nei, veldig uregelmessige og jeg kunne ikke forutsi neste menstruasjon | 54 |
 | Husker ikke | 71 |
+| Not NA | 477 |
 | NA | 11945 |
 
 
@@ -2476,6 +2655,7 @@ Q20C_26_5_1:MOBA20_C; (Q20B_26_5_1:MOBA20_B); Før du begynte på hormonell prev
 | Mindre enn 24 dager | 317 |
 | Mer enn 35 dager | 149 |
 | 32-35 dager | 185 |
+| Not NA | 4842 |
 | NA | 7580 |
 
 
@@ -2492,6 +2672,7 @@ Q20A_16_6_5_1:MOBA20_A; Før du begynte på hormonell prevensjon, hvor mange dag
 | For uregelmessig til å svare på | 42 |
 | Mer enn 35 dager | 12 |
 | 32-35 dager | 16 |
+| Not NA | 471 |
 | NA | 11951 |
 
 
@@ -2506,6 +2687,7 @@ Q20C_26_5_2:MOBA20_C; (Q20B_26_5_2:MOBA20_B); Før du begynte med hormonell prev
 | Varierte så mye at det er vanskelig å si | 255 |
 | Vet ikke / husker ikke | 206 |
 | Mindre enn 3 dager | 80 |
+| Not NA | 4850 |
 | NA | 7572 |
 
 
@@ -2520,6 +2702,7 @@ Q20A_16_6_5_2:MOBA20_A; Før du begynte med hormonell prevensjon, hvor mange dag
 | Vet ikke | 17 |
 | Varierte så mye at det er vanskelig å si | 25 |
 | 1-2 dager | 1 |
+| Not NA | 472 |
 | NA | 11950 |
 
 
@@ -2530,6 +2713,7 @@ Q20C_26_5_3_1:MOBA20_C; (Q20B_26_5_3_1:MOBA20_B); (Q20A_16_6_5_3_1:MOBA20_A); De
 | Category | n |
 | -------- | - |
 | 1 | 123 |
+| Not NA | 123 |
 | NA | 12299 |
 
 
@@ -2540,6 +2724,7 @@ Q20C_26_5_3_2:MOBA20_C; (Q20B_26_5_3_2:MOBA20_B); (Q20A_16_6_5_3_2:MOBA20_A); By
 | Category | n |
 | -------- | - |
 | 1 | 2932 |
+| Not NA | 2932 |
 | NA | 9490 |
 
 
@@ -2550,6 +2735,7 @@ Q20C_26_5_3_3:MOBA20_C; (Q20B_26_5_3_3:MOBA20_B); (Q20A_16_6_5_3_3:MOBA20_A); By
 | Category | n |
 | -------- | - |
 | 1 | 1410 |
+| Not NA | 1410 |
 | NA | 11012 |
 
 
@@ -2560,6 +2746,7 @@ Q20C_26_5_3_4:MOBA20_C; (Q20B_26_5_3_4:MOBA20_B); (Q20A_16_6_5_3_4:MOBA20_A); Tr
 | Category | n |
 | -------- | - |
 | 1 | 352 |
+| Not NA | 352 |
 | NA | 12070 |
 
 
@@ -2570,6 +2757,7 @@ Q20C_26_5_3_5:MOBA20_C; (Q20B_26_5_3_5:MOBA20_B); (Q20A_16_6_5_3_5:MOBA20_A); By
 | Category | n |
 | -------- | - |
 | 1 | 635 |
+| Not NA | 635 |
 | NA | 11787 |
 
 
@@ -2580,6 +2768,7 @@ Q20C_26_5_3_6:MOBA20_C; (Q20B_26_5_3_6:MOBA20_B); (Q20A_16_6_5_3_6:MOBA20_A); De
 | Category | n |
 | -------- | - |
 | 1 | 1227 |
+| Not NA | 1227 |
 | NA | 11195 |
 
 
@@ -2590,6 +2779,7 @@ Q20C_26_5_3_7:MOBA20_C; (Q20B_26_5_3_7:MOBA20_B); (Q20A_16_6_5_3_7:MOBA20_A); Bl
 | Category | n |
 | -------- | - |
 | 1 | 1268 |
+| Not NA | 1268 |
 | NA | 11154 |
 
 
@@ -2600,6 +2790,7 @@ Q20C_26_5_3_8:MOBA20_C; (Q20B_26_5_3_8:MOBA20_B); (Q20A_16_6_5_3_8:MOBA20_A); Br
 | Category | n |
 | -------- | - |
 | 1 | 947 |
+| Not NA | 947 |
 | NA | 11475 |
 
 
@@ -2610,6 +2801,7 @@ Q20C_26_5_3_9:MOBA20_C; (Q20B_26_5_3_9:MOBA20_B); (Q20A_16_6_5_3_9:MOBA20_A); St
 | Category | n |
 | -------- | - |
 | 1 | 574 |
+| Not NA | 574 |
 | NA | 11848 |
 
 
@@ -2620,6 +2812,7 @@ Q20C_26_5_3_10:MOBA20_C; (Q20B_26_5_3_10:MOBA20_B); (Q20A_16_6_5_3_10:MOBA20_A);
 | Category | n |
 | -------- | - |
 | 1 | 869 |
+| Not NA | 869 |
 | NA | 11553 |
 
 
@@ -2630,6 +2823,7 @@ Q20C_26_5_3_11:MOBA20_C; (Q20B_26_5_3_11:MOBA20_B); (Q20A_16_6_5_3_11:MOBA20_A);
 | Category | n |
 | -------- | - |
 | 1 | 170 |
+| Not NA | 170 |
 | NA | 12252 |
 
 
@@ -2640,6 +2834,7 @@ Q20C_26_5_3_12:MOBA20_C; (Q20B_26_5_3_12:MOBA20_B); (Q20A_16_6_5_3_12:MOBA20_A);
 | Category | n |
 | -------- | - |
 | 1 | 358 |
+| Not NA | 358 |
 | NA | 12064 |
 
 
@@ -2653,6 +2848,7 @@ Q20C_26_5_4:MOBA20_C; (Q20B_26_5_4:MOBA20_B); (Q20A_16_6_5_4:MOBA20_A); Før du 
 | Ja, av og til | 873 |
 | Usikker | 767 |
 | Ja, vanligvis | 160 |
+| Not NA | 5319 |
 | NA | 7103 |
 
 
@@ -2663,6 +2859,7 @@ Q20C_26_6_1:MOBA20_C; (Q20B_26_6_1:MOBA20_B); (Q20A_16_6_6_1:MOBA20_A); Jeg hadd
 | Category | n |
 | -------- | - |
 | 1 | 663 |
+| Not NA | 663 |
 | NA | 11759 |
 
 
@@ -2673,6 +2870,7 @@ Q20C_26_6_2:MOBA20_C; (Q20B_26_6_2:MOBA20_B); (Q20A_16_6_6_2:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 3974 |
+| Not NA | 3974 |
 | NA | 8448 |
 
 
@@ -2683,6 +2881,7 @@ Q20C_26_6_3:MOBA20_C; (Q20B_26_6_3:MOBA20_B); (Q20A_16_6_6_3:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 1088 |
+| Not NA | 1088 |
 | NA | 11334 |
 
 
@@ -2693,6 +2892,7 @@ Q20C_26_6_4:MOBA20_C; (Q20B_26_6_4:MOBA20_B); (Q20A_16_6_6_4:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 2558 |
+| Not NA | 2558 |
 | NA | 9864 |
 
 
@@ -2703,6 +2903,7 @@ Q20C_26_6_5:MOBA20_C; (Q20B_26_6_5:MOBA20_B); (Q20A_16_6_6_5:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 556 |
+| Not NA | 556 |
 | NA | 11866 |
 
 
@@ -2713,6 +2914,7 @@ Q20C_26_6_6:MOBA20_C; (Q20B_26_6_6:MOBA20_B); (Q20A_16_6_6_6:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 673 |
+| Not NA | 673 |
 | NA | 11749 |
 
 
@@ -2723,6 +2925,7 @@ Q20C_26_6_7:MOBA20_C; (Q20B_26_6_7:MOBA20_B); (Q20A_16_6_6_7:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 156 |
+| Not NA | 156 |
 | NA | 12266 |
 
 
@@ -2733,6 +2936,7 @@ Q20C_26_6_8:MOBA20_C; (Q20B_26_6_8:MOBA20_B); (Q20A_16_6_6_8:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 472 |
+| Not NA | 472 |
 | NA | 11950 |
 
 
@@ -2743,6 +2947,7 @@ Q20C_26_6_9:MOBA20_C; (Q20B_26_6_9:MOBA20_B); (Q20A_16_6_6_9:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 117 |
+| Not NA | 117 |
 | NA | 12305 |
 
 
@@ -2753,6 +2958,7 @@ Q20C_26_6_10:MOBA20_C; (Q20B_26_6_10:MOBA20_B); (Q20A_16_6_6_10:MOBA20_A); Smert
 | Category | n |
 | -------- | - |
 | 1 | 922 |
+| Not NA | 922 |
 | NA | 11500 |
 
 
@@ -2763,6 +2969,7 @@ Q20C_26_6_11:MOBA20_C; (Q20B_26_6_11:MOBA20_B); (Q20A_16_6_6_11:MOBA20_A); Smert
 | Category | n |
 | -------- | - |
 | 1 | 191 |
+| Not NA | 191 |
 | NA | 12231 |
 
 
@@ -2773,6 +2980,7 @@ Q20C_26_6_12:MOBA20_C; (Q20B_26_6_12:MOBA20_B); (Q20A_16_6_6_12:MOBA20_A); Andre
 | Category | n |
 | -------- | - |
 | 1 | 318 |
+| Not NA | 318 |
 | NA | 12104 |
 
 
@@ -2783,6 +2991,7 @@ Q20C_26_6_13:MOBA20_C; (Q20B_26_6_13:MOBA20_B); (Q20A_16_6_6_13:MOBA20_A); Konst
 | Category | n |
 | -------- | - |
 | 1 | 86 |
+| Not NA | 86 |
 | NA | 12336 |
 
 
@@ -2793,6 +3002,7 @@ Q20C_26_6_14:MOBA20_C; (Q20B_26_6_14:MOBA20_B); (Q20A_16_6_6_14:MOBA20_A); Konst
 | Category | n |
 | -------- | - |
 | 1 | 261 |
+| Not NA | 261 |
 | NA | 12161 |
 
 
@@ -2803,6 +3013,7 @@ Q20C_26_6_15:MOBA20_C; (Q20B_26_6_15:MOBA20_B); (Q20A_16_6_6_15:MOBA20_A); Huske
 | Category | n |
 | -------- | - |
 | 1 | 378 |
+| Not NA | 378 |
 | NA | 12044 |
 
 
@@ -2817,6 +3028,7 @@ Q20C_26_6_1_1:MOBA20_C; (Q20B_26_6_1_1:MOBA20_B); (Q20A_16_6_6_1_1:MOBA20_A); F�
 | Ja, mer enn 2 dager i hver menstruasjon | 1430 |
 | Ja, men ikke i hver menstruasjon | 1152 |
 | HUSKER IKKE | 247 |
+| Not NA | 4739 |
 | NA | 7683 |
 
 
@@ -2827,6 +3039,7 @@ Q20C_26_6_2_1:MOBA20_C; (Q20B_26_6_2_1:MOBA20_B); (Q20A_16_6_6_2_1:MOBA20_A); Je
 | Category | n |
 | -------- | - |
 | 1 | 1046 |
+| Not NA | 1046 |
 | NA | 11376 |
 
 
@@ -2837,6 +3050,7 @@ Q20C_26_6_2_2:MOBA20_C; (Q20B_26_6_2_2:MOBA20_B); (Q20A_16_6_6_2_2:MOBA20_A); Je
 | Category | n |
 | -------- | - |
 | 1 | 1664 |
+| Not NA | 1664 |
 | NA | 10758 |
 
 
@@ -2847,6 +3061,7 @@ Q20C_26_6_2_3:MOBA20_C; (Q20B_26_6_2_3:MOBA20_B); (Q20A_16_6_6_2_3:MOBA20_A); Je
 | Category | n |
 | -------- | - |
 | 1 | 2696 |
+| Not NA | 2696 |
 | NA | 9726 |
 
 
@@ -2857,6 +3072,7 @@ Q20C_26_6_2_4:MOBA20_C; (Q20B_26_6_2_4:MOBA20_B); (Q20A_16_6_6_2_4:MOBA20_A); Ve
 | Category | n |
 | -------- | - |
 | 1 | 127 |
+| Not NA | 127 |
 | NA | 12295 |
 
 
@@ -2867,6 +3083,7 @@ Q20C_26_6_2_5:MOBA20_C; (Q20B_26_6_2_5:MOBA20_B); (Q20A_16_6_6_2_5:MOBA20_A); Hu
 | Category | n |
 | -------- | - |
 | 1 | 312 |
+| Not NA | 312 |
 | NA | 12110 |
 
 
@@ -2881,6 +3098,7 @@ Q20C_27:MOBA20_C; (Q20B_27:MOBA20_B); (Q20A_16_7:MOBA20_A); ; 27. Pleier du å h
 | Nei | 3352 |
 | Har ikke hatt samleie | 1481 |
 | Ja, ofte | 478 |
+| Not NA | 8100 |
 | NA | 4322 |
 
 
@@ -2891,6 +3109,7 @@ Q20C_27_1_1:MOBA20_C; (Q20B_27_1_1:MOBA20_B); (Q20A_16_7_1_1:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 1617 |
+| Not NA | 1617 |
 | NA | 10805 |
 
 
@@ -2901,6 +3120,7 @@ Q20C_27_1_2:MOBA20_C; (Q20B_27_1_2:MOBA20_B); (Q20A_16_7_1_2:MOBA20_A); Støtsme
 | Category | n |
 | -------- | - |
 | 1 | 1449 |
+| Not NA | 1449 |
 | NA | 10973 |
 
 
@@ -2911,6 +3131,7 @@ Q20C_27_1_3:MOBA20_C; (Q20B_27_1_3:MOBA20_B); (Q20A_16_7_1_3:MOBA20_A); Smerter 
 | Category | n |
 | -------- | - |
 | 1 | 1244 |
+| Not NA | 1244 |
 | NA | 11178 |
 
 
@@ -2921,6 +3142,7 @@ Q20C_27_1_4:MOBA20_C; (Q20B_27_1_4:MOBA20_B); (Q20A_16_7_1_4:MOBA20_A); Indre sm
 | Category | n |
 | -------- | - |
 | 1 | 710 |
+| Not NA | 710 |
 | NA | 11712 |
 
 
@@ -2931,6 +3153,7 @@ Q20C_28_1:MOBA20_C; (Q20B_28_1:MOBA20_B); (Q20A_16_8_1:MOBA20_A); Nei.; 28. Har 
 | Category | n |
 | -------- | - |
 | 1 | 7442 |
+| Not NA | 7442 |
 | NA | 4980 |
 
 
@@ -2941,6 +3164,7 @@ Q20C_28_2:MOBA20_C; (Q20B_28_2:MOBA20_B); (Q20A_16_8_2:MOBA20_A); Nei, men legen
 | Category | n |
 | -------- | - |
 | 1 | 240 |
+| Not NA | 240 |
 | NA | 12182 |
 
 
@@ -2951,6 +3175,7 @@ Q20C_28_3:MOBA20_C; (Q20B_28_3:MOBA20_B); (Q20A_16_8_3:MOBA20_A); Nei, men jeg m
 | Category | n |
 | -------- | - |
 | 1 | 521 |
+| Not NA | 521 |
 | NA | 11901 |
 
 
@@ -2961,6 +3186,7 @@ Q20C_28_4:MOBA20_C; (Q20B_28_4:MOBA20_B); (Q20A_16_8_4:MOBA20_A); Ja.; 28. Har d
 | Category | n |
 | -------- | - |
 | 1 | 107 |
+| Not NA | 107 |
 | NA | 12315 |
 
 
@@ -2971,6 +3197,7 @@ Q20C_28_5:MOBA20_C; (Q20B_28_5:MOBA20_B); (Q20A_16_8_5:MOBA20_A); Vet ikke.; 28.
 | Category | n |
 | -------- | - |
 | 1 | 34 |
+| Not NA | 34 |
 | NA | 12388 |
 
 
@@ -2981,6 +3208,7 @@ Q20C_28_1_1_1:MOBA20_C; (Q20B_28_1_1:MOBA20_B); (Q20A_16_8_1_1:MOBA20_A); Ved la
 | Category | n |
 | -------- | - |
 | 1 | 53 |
+| Not NA | 53 |
 | NA | 12369 |
 
 
@@ -2991,6 +3219,7 @@ Q20C_28_1_1_2:MOBA20_C; (Q20B_28_1_2:MOBA20_B); (Q20A_16_8_1_2:MOBA20_A); Ultral
 | Category | n |
 | -------- | - |
 | 1 | 54 |
+| Not NA | 54 |
 | NA | 12368 |
 
 
@@ -3001,6 +3230,7 @@ Q20C_28_1_1_3:MOBA20_C; (Q20B_28_1_3:MOBA20_B); (Q20A_16_8_1_3:MOBA20_A); MR und
 | Category | n |
 | -------- | - |
 | 1 | 8 |
+| Not NA | 8 |
 | NA | 12414 |
 
 
@@ -3011,6 +3241,7 @@ Q20C_28_1_1_4:MOBA20_C; (Q20B_28_1_4:MOBA20_B); (Q20A_16_8_1_4:MOBA20_A); Ved an
 | Category | n |
 | -------- | - |
 | 1 | 2 |
+| Not NA | 2 |
 | NA | 12420 |
 
 
@@ -3021,6 +3252,7 @@ Q20C_28_1_1_5:MOBA20_C; (Q20B_28_1_5:MOBA20_B); (Q20A_16_8_1_5:MOBA20_A); Annet.
 | Category | n |
 | -------- | - |
 | 1 | 5 |
+| Not NA | 5 |
 | NA | 12417 |
 
 
@@ -3031,6 +3263,7 @@ Q20C_29_1:MOBA20_C; (Q20B_29_1:MOBA20_B); (Q20A_16_9_1:MOBA20_A); Nei.; 29. Har 
 | Category | n |
 | -------- | - |
 | 1 | 8006 |
+| Not NA | 8006 |
 | NA | 4416 |
 
 
@@ -3041,6 +3274,7 @@ Q20C_29_2:MOBA20_C; (Q20B_29_2:MOBA20_B); (Q20A_16_9_2:MOBA20_A); Nei, men legen
 | Category | n |
 | -------- | - |
 | 1 | 40 |
+| Not NA | 40 |
 | NA | 12382 |
 
 
@@ -3051,6 +3285,7 @@ Q20C_29_3:MOBA20_C; (Q20B_29_3:MOBA20_B); (Q20A_16_9_3:MOBA20_A); Nei, men jeg m
 | Category | n |
 | -------- | - |
 | 1 | 58 |
+| Not NA | 58 |
 | NA | 12364 |
 
 
@@ -3061,6 +3296,7 @@ Q20C_29_4:MOBA20_C; (Q20B_29_4:MOBA20_B); (Q20A_16_9_4:MOBA20_A); Ja.; 29. Har d
 | Category | n |
 | -------- | - |
 | 1 | 19 |
+| Not NA | 19 |
 | NA | 12403 |
 
 
@@ -3071,6 +3307,7 @@ Q20C_29_5:MOBA20_C; (Q20B_29_5:MOBA20_B); (Q20A_16_9_5:MOBA20_A); Vet ikke.; 29.
 | Category | n |
 | -------- | - |
 | 1 | 54 |
+| Not NA | 54 |
 | NA | 12368 |
 
 
@@ -3081,6 +3318,7 @@ Q20C_29_1_1_2:MOBA20_C; (Q20B_29_1_2:MOBA20_B); (Q20A_16_9_1_2:MOBA20_A); Ultral
 | Category | n |
 | -------- | - |
 | 1 | 18 |
+| Not NA | 18 |
 | NA | 12404 |
 
 
@@ -3091,6 +3329,7 @@ Q20C_29_1_1_3:MOBA20_C; (Q20B_29_1_3:MOBA20_B); (Q20A_16_9_1_3:MOBA20_A); MR und
 | Category | n |
 | -------- | - |
 | 1 | 3 |
+| Not NA | 3 |
 | NA | 12419 |
 
 
@@ -3101,6 +3340,7 @@ Q20C_29_1_1_4:MOBA20_C; (Q20B_29_1_4:MOBA20_B); (Q20A_16_9_1_4:MOBA20_A); Ved an
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 12421 |
 
 
@@ -3111,6 +3351,7 @@ Q20C_29_1_1_5:MOBA20_C; (Q20B_29_1_5:MOBA20_B); (Q20A_16_9_1_5:MOBA20_A); Annet.
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 12421 |
 
 
@@ -3121,6 +3362,7 @@ Q20A_16_9_1_1:MOBA20_A; Ved laparoskopisk kirurgi / kikkhullskirurgi.Hvordan har
 | Category | n |
 | -------- | - |
 | 1 | 1 |
+| Not NA | 1 |
 | NA | 12421 |
 
 
@@ -3131,6 +3373,7 @@ Q20C_30_1:MOBA20_C; (Q20B_30_1:MOBA20_B); (Q20A_16_10_1:MOBA20_A); Nei.; 30. Har
 | Category | n |
 | -------- | - |
 | 1 | 7746 |
+| Not NA | 7746 |
 | NA | 4676 |
 
 
@@ -3141,6 +3384,7 @@ Q20C_30_2:MOBA20_C; (Q20B_30_2:MOBA20_B); (Q20A_16_10_2:MOBA20_A); Nei, men lege
 | Category | n |
 | -------- | - |
 | 1 | 90 |
+| Not NA | 90 |
 | NA | 12332 |
 
 
@@ -3151,6 +3395,7 @@ Q20C_30_3:MOBA20_C; (Q20B_30_3:MOBA20_B); (Q20A_16_10_3:MOBA20_A); Nei, men jeg 
 | Category | n |
 | -------- | - |
 | 1 | 221 |
+| Not NA | 221 |
 | NA | 12201 |
 
 
@@ -3161,6 +3406,7 @@ Q20C_30_4:MOBA20_C; (Q20B_30_4:MOBA20_B); (Q20A_16_10_4:MOBA20_A); Ja.; 30. Har 
 | Category | n |
 | -------- | - |
 | 1 | 110 |
+| Not NA | 110 |
 | NA | 12312 |
 
 
@@ -3171,6 +3417,7 @@ Q20C_30_5:MOBA20_C; (Q20B_30_5:MOBA20_B); (Q20A_16_10_5:MOBA20_A); Vet ikke.; 30
 | Category | n |
 | -------- | - |
 | 1 | 38 |
+| Not NA | 38 |
 | NA | 12384 |
 
 
@@ -3191,6 +3438,7 @@ Q20C_31:MOBA20_C; (Q20B_31:MOBA20_B); ; 31. Nedenfor er det en skala fra 0 til 1
 | 1 | 37 |
 | 2 | 105 |
 | 0 | 14 |
+| Not NA | 11425 |
 | NA | 997 |
 
 
@@ -3204,6 +3452,7 @@ Q20B_32:MOBA20_B; ; 32. Er du gravid nå?
 | Ja | 43 |
 | Usikker | 54 |
 | Ønsker ikke å svare | 3 |
+| Not NA | 5444 |
 | NA | 6978 |
 
 
@@ -3217,6 +3466,7 @@ Q20B_32_1:MOBA20_B; Planlegger du å gjennomføre graviditeten?(Hvis ja eller us
 | Usikker | 11 |
 | Nei | 29 |
 | Ønsker ikke å svare | 1 |
+| Not NA | 97 |
 | NA | 12325 |
 
 
@@ -3233,6 +3483,7 @@ AGE_YRS_HF; MOBA20_B BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0.
 | 23 | 844 |
 | 19 | 1398 |
 | 25 | 1 |
+| Not NA | 12422 |
 | NA | 0 |
 
 
