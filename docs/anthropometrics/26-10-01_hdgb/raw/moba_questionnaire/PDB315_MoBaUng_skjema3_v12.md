@@ -1,0 +1,604 @@
+# PDB315_MoBaUng_skjema3_v12.sav
+- [BARN_NR](PDB315_MoBaUng_skjema3_v12.md#BARN_NR)
+- [VERSJON_MOBAUNG_3_TBL1](PDB315_MoBaUng_skjema3_v12.md#VERSJON_MOBAUNG_3_TBL1)
+- [YC24](PDB315_MoBaUng_skjema3_v12.md#YC24): C__7_9:MOBAUNG_3C; (C__7_9:MOBAUNG_3B); (C__7_9:MOBAUNG_3A); Hører godt etter når læreren snakker og gir beskjeder. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+- [YC25](PDB315_MoBaUng_skjema3_v12.md#YC25): C__710:MOBAUNG_3C; (C__710:MOBAUNG_3B); (C__710:MOBAUNG_3A); Følger lærerens beskjed. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+- [YC26](PDB315_MoBaUng_skjema3_v12.md#YC26): C__711:MOBAUNG_3C; (C__711:MOBAUNG_3B); (C__711:MOBAUNG_3A); Viser god arbeidsinnsats. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+- [YC27](PDB315_MoBaUng_skjema3_v12.md#YC27): C__712:MOBAUNG_3C; (C__712:MOBAUNG_3B); (C__712:MOBAUNG_3A); Sitter ved plassen din og jobber når det er forventet. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+- [YC28](PDB315_MoBaUng_skjema3_v12.md#YC28): C__713:MOBAUNG_3C; (C__713:MOBAUNG_3B); (C__713:MOBAUNG_3A); Ber om hjelp på en hensiktsmessig måte (f.eks. rekker opp hånden). Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+- [YC29](PDB315_MoBaUng_skjema3_v12.md#YC29): C__714:MOBAUNG_3C; (C__714:MOBAUNG_3B); (C__714:MOBAUNG_3A); Oppfører deg som forventet i klasse- og undervisningsrommet. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+- [YC30](PDB315_MoBaUng_skjema3_v12.md#YC30): C__715:MOBAUNG_3C; (C__715:MOBAUNG_3B); (C__715:MOBAUNG_3A); Følger regler selv om jevnaldrende oppmuntrer til å bryte dem. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+- [YC31](PDB315_MoBaUng_skjema3_v12.md#YC31): C__716_1:MOBAUNG_3C; (C__716_1:MOBAUNG_3B); (C__716_1:MOBAUNG_3A); Norsk. Hvilke karakterer fikk du ved forrige halvårsvurdering (terminkarakter) i disse fagene (Hvis ja); 7. GÅR DU PÅ SKOLE?
+- [YC32](PDB315_MoBaUng_skjema3_v12.md#YC32): C__716_2:MOBAUNG_3C; (C__716_2:MOBAUNG_3B); (C__716_2:MOBAUNG_3A); Matte. Hvilke karakterer fikk du ved forrige halvårsvurdering (terminkarakter) i disse fagene (Hvis ja); 7. GÅR DU PÅ SKOLE?
+- [YC33](PDB315_MoBaUng_skjema3_v12.md#YC33): C__716_3:MOBAUNG_3C; (C__716_3:MOBAUNG_3B); (C__716_3:MOBAUNG_3A); Engelsk. Hvilke karakterer fikk du ved forrige halvårsvurdering (terminkarakter) i disse fagene (Hvis ja); 7. GÅR DU PÅ SKOLE?
+- [YC69](PDB315_MoBaUng_skjema3_v12.md#YC69): C_16_1:MOBAUNG_3C; (C_16_1:MOBAUNG_3B); (C_16_1:MOBAUNG_3A); ; 16. HVOR OFTE DRIVER DU MOSJON? (TA ET GJENNOMSNITT.)
+- [YC70](PDB315_MoBaUng_skjema3_v12.md#YC70): C_16_2:MOBAUNG_3C; (C_16_2:MOBAUNG_3B); (C_16_2:MOBAUNG_3A); HVOR HARDT MOSJONERER DU? (TA ET GJENNOMSNITT.) (Hvis ja, driver mosjon); 16. HVOR OFTE DRIVER DU MOSJON? (TA ET GJENNOMSNITT.)
+- [YC71](PDB315_MoBaUng_skjema3_v12.md#YC71): C_16_3:MOBAUNG_3C; (C_16_3:MOBAUNG_3B); (C_16_3:MOBAUNG_3A); HVOR LENGE HOLDER DU PÅ HVER GANG? (TA ET GJENNOMSNITT.) (Hvis ja, driver mosjon); 16. HVOR OFTE DRIVER DU MOSJON? (TA ET GJENNOMSNITT.)
+- [YC72](PDB315_MoBaUng_skjema3_v12.md#YC72): C_16_4:MOBAUNG_3C; (C_16_4:MOBAUNG_3B); (C_16_4:MOBAUNG_3A); ANSER DU DEG SELV SOM EN TOPPIDRETTSUTØVER? (Hvis ja, driver mosjon); 16. HVOR OFTE DRIVER DU MOSJON? (TA ET GJENNOMSNITT.)
+- [YC73](PDB315_MoBaUng_skjema3_v12.md#YC73): C_17_1:MOBAUNG_3C; (C_17_1:MOBAUNG_3B); (C_17_1:MOBAUNG_3A); ; 17. DRIVER DU MED ORGANISERT TRENING (TRENING GJENNOM IDRETTSLAG ELLER FORENING)?
+- [YC74](PDB315_MoBaUng_skjema3_v12.md#YC74): C_17_2:MOBAUNG_3C; (C_17_2:MOBAUNG_3B); (C_17_2:MOBAUNG_3A); HVOR GAMMEL VAR DU DA DU SLUTTET MED ORGANISERT IDRETT? (Hvis "Nei, men gjorde det tidligere); 17. DRIVER DU MED ORGANISERT TRENING (TRENING GJENNOM IDRETTSLAG ELLER FORENING)?
+- [YC75](PDB315_MoBaUng_skjema3_v12.md#YC75): C_18:MOBAUNG_3C; (C_18:MOBAUNG_3B); (C_18:MOBAUNG_3A); ; 18. HVOR MANGE TIMER I UKA DELTAR DU AKTIVT I KROPPSØVINGSTIMENE PÅ SKOLEN?
+- [YC76](PDB315_MoBaUng_skjema3_v12.md#YC76): C_19_1:MOBAUNG_3C; ; 19. SYKLER ELLER GÅR DU TIL SKOLEN OG/ELLER FRITIDSAKTIVITETER?
+- [YC77](PDB315_MoBaUng_skjema3_v12.md#YC77): C_19_2:MOBAUNG_3C; HVOR MANGE TIMER I UKEN HAR DU SYKLET ELLER GÅTT TIL SKOLEN OG/ELLER FRITIDSAKTIVITETER? (Hvis ja); 19. SYKLER ELLER GÅR DU TIL SKOLEN OG/ELLER FRITIDSAKTIVITETER?
+- [YC78](PDB315_MoBaUng_skjema3_v12.md#YC78): C_20_1:MOBAUNG_3C; (C_19_1:MOBAUNG_3B); (C_19_1:MOBAUNG_3A); Ved PC, TV, nettbrett, lesing, bil/buss/tog-kjøring o.l.; 20. OMTRENT HVOR MANGE TIMER SITTER DU I RO PÅ EN VANLIG HVERDAG (REGN MED BÅDE SKOLE OG FRITID)?
+- [YC79](PDB315_MoBaUng_skjema3_v12.md#YC79): C_20_2:MOBAUNG_3C; (C_19_2:MOBAUNG_3B); (C_19_2:MOBAUNG_3A); Ved PC, TV, nettbrett, lesing, bil/buss/tog-kjøring o.l.; 20. OMTRENT HVOR MANGE TIMER SITTER DU I RO PÅ EN FRIDAG?
+- [YC80](PDB315_MoBaUng_skjema3_v12.md#YC80): C_21:MOBAUNG_3C; (C_20:MOBAUNG_3B); (C_20:MOBAUNG_3A); ER SAMMEN MED VENNER; 21. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+- [YC81](PDB315_MoBaUng_skjema3_v12.md#YC81): C_22:MOBAUNG_3C; (C_21:MOBAUNG_3B); (C_21:MOBAUNG_3A); TRENER (F.EKS. FOTBALL, HÅNDBALL, SKI, LØPING, DANS, TURN); 22. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+- [YC82](PDB315_MoBaUng_skjema3_v12.md#YC82): C_23:MOBAUNG_3C; (C_22:MOBAUNG_3B); (C_22:MOBAUNG_3A); ANDRE ORGANISERTE AKTIVITETER (F.EKS. TEATER, MUSIKK, POLITIKK, FRIVILLIG ARBEID); 23. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+- [YC83](PDB315_MoBaUng_skjema3_v12.md#YC83): C_24:MOBAUNG_3C; (C_23:MOBAUNG_3B); (C_23:MOBAUNG_3A); ER HJEMME HELE ETTERMIDDAGEN OG KVELDEN; 24. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+- [YC84](PDB315_MoBaUng_skjema3_v12.md#YC84): C_25:MOBAUNG_3C; (C_24:MOBAUNG_3B); (C_24:MOBAUNG_3A); LESER BOK ELLER HØRER PÅ LYDBOK; 25. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+- [YC85](PDB315_MoBaUng_skjema3_v12.md#YC85): C_26:MOBAUNG_3C; (C_25:MOBAUNG_3B); (C_25:MOBAUNG_3A); JOBBER; 26. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+- [YC86](PDB315_MoBaUng_skjema3_v12.md#YC86): C_27:MOBAUNG_3C; (C_26:MOBAUNG_3B); (C_26:MOBAUNG_3A); SER PÅ FILM/SERIER/TV; 27. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+- [YC87](PDB315_MoBaUng_skjema3_v12.md#YC87): C_28:MOBAUNG_3C; (C_27:MOBAUNG_3B); (C_27:MOBAUNG_3A); GJØR LEKSER; 28. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+- [YC88](PDB315_MoBaUng_skjema3_v12.md#YC88): C_29:MOBAUNG_3C; (C_28:MOBAUNG_3B); (C_28:MOBAUNG_3A); SPILLER SPILL (PÅ PC, TV, NETTBRETT, MOBIL ETC.); 29. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+- [YC89](PDB315_MoBaUng_skjema3_v12.md#YC89): C_30:MOBAUNG_3C; (C_29:MOBAUNG_3B); (C_29:MOBAUNG_3A); SITTER/LIGGER MED PC, MOBIL, ELLER NETTBRETT (UANSETT AKTIVITET); 30. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+- [YC90](PDB315_MoBaUng_skjema3_v12.md#YC90): C_31:MOBAUNG_3C; (C_30:MOBAUNG_3B); (C_30:MOBAUNG_3A); KOMMUNISERER MED VENNER VED HJELP AV SOSIALE MEDIER; 31. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+- [YC91](PDB315_MoBaUng_skjema3_v12.md#YC91): C_32:MOBAUNG_3C; (C_31:MOBAUNG_3B); (C_31:MOBAUNG_3A); ER UTENDØRS (UANSETT AKTIVITET); 32. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+- [AGE_YRS_YC1](PDB315_MoBaUng_skjema3_v12.md#AGE_YRS_YC1): AGE_YRS_YC1; MOBAUNG_3C; (MOBAUNG_3B); (MOBAUNG_3A); BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0. 
+
+
+### BARN_NR
+
+
+| Category | n |
+| -------- | - |
+| 1 | 11933 |
+| 2 | 200 |
+| 3 | 1 |
+| Not NA | 12134 |
+| NA | 0 |
+
+
+### VERSJON_MOBAUNG_3_TBL1
+
+
+| Category | n |
+| -------- | - |
+| MOBAUNG_3C | 8337 |
+| MOBAUNG_3A | 1457 |
+| MOBAUNG_3B | 2340 |
+| Not NA | 12134 |
+| NA | 0 |
+
+
+### YC24
+C__7_9:MOBAUNG_3C; (C__7_9:MOBAUNG_3B); (C__7_9:MOBAUNG_3A); Hører godt etter når læreren snakker og gir beskjeder. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+
+
+| Category | n |
+| -------- | - |
+| NESTEN ALLTID | 9734 |
+| NOEN GANGER | 2072 |
+| SJELDEN/ALDRI | 142 |
+| Not NA | 11948 |
+| NA | 186 |
+
+
+### YC25
+C__710:MOBAUNG_3C; (C__710:MOBAUNG_3B); (C__710:MOBAUNG_3A); Følger lærerens beskjed. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+
+
+| Category | n |
+| -------- | - |
+| NESTEN ALLTID | 10555 |
+| NOEN GANGER | 1330 |
+| SJELDEN/ALDRI | 59 |
+| Not NA | 11944 |
+| NA | 190 |
+
+
+### YC26
+C__711:MOBAUNG_3C; (C__711:MOBAUNG_3B); (C__711:MOBAUNG_3A); Viser god arbeidsinnsats. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+
+
+| Category | n |
+| -------- | - |
+| NOEN GANGER | 2885 |
+| NESTEN ALLTID | 8864 |
+| SJELDEN/ALDRI | 196 |
+| Not NA | 11945 |
+| NA | 189 |
+
+
+### YC27
+C__712:MOBAUNG_3C; (C__712:MOBAUNG_3B); (C__712:MOBAUNG_3A); Sitter ved plassen din og jobber når det er forventet. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+
+
+| Category | n |
+| -------- | - |
+| NESTEN ALLTID | 10047 |
+| SJELDEN/ALDRI | 102 |
+| NOEN GANGER | 1798 |
+| Not NA | 11947 |
+| NA | 187 |
+
+
+### YC28
+C__713:MOBAUNG_3C; (C__713:MOBAUNG_3B); (C__713:MOBAUNG_3A); Ber om hjelp på en hensiktsmessig måte (f.eks. rekker opp hånden). Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+
+
+| Category | n |
+| -------- | - |
+| NESTEN ALLTID | 7981 |
+| SJELDEN/ALDRI | 826 |
+| NOEN GANGER | 3134 |
+| Not NA | 11941 |
+| NA | 193 |
+
+
+### YC29
+C__714:MOBAUNG_3C; (C__714:MOBAUNG_3B); (C__714:MOBAUNG_3A); Oppfører deg som forventet i klasse- og undervisningsrommet. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+
+
+| Category | n |
+| -------- | - |
+| NESTEN ALLTID | 10873 |
+| NOEN GANGER | 1007 |
+| SJELDEN/ALDRI | 56 |
+| Not NA | 11936 |
+| NA | 198 |
+
+
+### YC30
+C__715:MOBAUNG_3C; (C__715:MOBAUNG_3B); (C__715:MOBAUNG_3A); Følger regler selv om jevnaldrende oppmuntrer til å bryte dem. Hvordan er du vanligvis på skolen? (Hvis ja); 7. GÅR DU PÅ SKOLE?
+
+
+| Category | n |
+| -------- | - |
+| NESTEN ALLTID | 8987 |
+| NOEN GANGER | 2751 |
+| SJELDEN/ALDRI | 175 |
+| Not NA | 11913 |
+| NA | 221 |
+
+
+### YC31
+C__716_1:MOBAUNG_3C; (C__716_1:MOBAUNG_3B); (C__716_1:MOBAUNG_3A); Norsk. Hvilke karakterer fikk du ved forrige halvårsvurdering (terminkarakter) i disse fagene (Hvis ja); 7. GÅR DU PÅ SKOLE?
+
+
+| Category | n |
+| -------- | - |
+| 6 | 1709 |
+| 5 | 4821 |
+| 4 | 3564 |
+| 3 | 1037 |
+| FIKK IKKE KARAKTER | 568 |
+| 2 | 141 |
+| 1 | 12 |
+| Not NA | 11852 |
+| NA | 282 |
+
+
+### YC32
+C__716_2:MOBAUNG_3C; (C__716_2:MOBAUNG_3B); (C__716_2:MOBAUNG_3A); Matte. Hvilke karakterer fikk du ved forrige halvårsvurdering (terminkarakter) i disse fagene (Hvis ja); 7. GÅR DU PÅ SKOLE?
+
+
+| Category | n |
+| -------- | - |
+| 6 | 2088 |
+| 5 | 3915 |
+| 3 | 1851 |
+| 4 | 3056 |
+| 2 | 684 |
+| FIKK IKKE KARAKTER | 230 |
+| 1 | 69 |
+| Not NA | 11893 |
+| NA | 241 |
+
+
+### YC33
+C__716_3:MOBAUNG_3C; (C__716_3:MOBAUNG_3B); (C__716_3:MOBAUNG_3A); Engelsk. Hvilke karakterer fikk du ved forrige halvårsvurdering (terminkarakter) i disse fagene (Hvis ja); 7. GÅR DU PÅ SKOLE?
+
+
+| Category | n |
+| -------- | - |
+| 6 | 2191 |
+| 4 | 3424 |
+| 5 | 4974 |
+| 3 | 916 |
+| 2 | 145 |
+| FIKK IKKE KARAKTER | 213 |
+| 1 | 22 |
+| Not NA | 11885 |
+| NA | 249 |
+
+
+### YC69
+C_16_1:MOBAUNG_3C; (C_16_1:MOBAUNG_3B); (C_16_1:MOBAUNG_3A); ; 16. HVOR OFTE DRIVER DU MOSJON? (TA ET GJENNOMSNITT.)
+
+
+| Category | n |
+| -------- | - |
+| SJELDNERE ENN EN GANG I UKEN | 826 |
+| 4-6 GANGER PER UKE | 3837 |
+| ALDRI | 390 |
+| HVER DAG | 1847 |
+| EN GANG I UKEN | 1392 |
+| 2-3 GANGER I UKEN | 3788 |
+| Not NA | 12080 |
+| NA | 54 |
+
+
+### YC70
+C_16_2:MOBAUNG_3C; (C_16_2:MOBAUNG_3B); (C_16_2:MOBAUNG_3A); HVOR HARDT MOSJONERER DU? (TA ET GJENNOMSNITT.) (Hvis ja, driver mosjon); 16. HVOR OFTE DRIVER DU MOSJON? (TA ET GJENNOMSNITT.)
+
+
+| Category | n |
+| -------- | - |
+| TAR DET ROLIG UTEN Å BLI ANDPUSTEN ELLER SVETT | 2276 |
+| TAR MEG NESTEN HELT UT | 1429 |
+| TAR DET SÅ HARDT AT JEG BLIR ANDPUSTEN OG SVETT | 7926 |
+| Not NA | 11631 |
+| NA | 503 |
+
+
+### YC71
+C_16_3:MOBAUNG_3C; (C_16_3:MOBAUNG_3B); (C_16_3:MOBAUNG_3A); HVOR LENGE HOLDER DU PÅ HVER GANG? (TA ET GJENNOMSNITT.) (Hvis ja, driver mosjon); 16. HVOR OFTE DRIVER DU MOSJON? (TA ET GJENNOMSNITT.)
+
+
+| Category | n |
+| -------- | - |
+| MINDRE ENN 15 MINUTTER | 353 |
+| MER ENN 1 TIME | 5980 |
+| 30 MINUTTER - 1 TIME | 3918 |
+| 15-29 MINUTTER | 1373 |
+| Not NA | 11624 |
+| NA | 510 |
+
+
+### YC72
+C_16_4:MOBAUNG_3C; (C_16_4:MOBAUNG_3B); (C_16_4:MOBAUNG_3A); ANSER DU DEG SELV SOM EN TOPPIDRETTSUTØVER? (Hvis ja, driver mosjon); 16. HVOR OFTE DRIVER DU MOSJON? (TA ET GJENNOMSNITT.)
+
+
+| Category | n |
+| -------- | - |
+| NEI | 9995 |
+| JA | 1665 |
+| Not NA | 11660 |
+| NA | 474 |
+
+
+### YC73
+C_17_1:MOBAUNG_3C; (C_17_1:MOBAUNG_3B); (C_17_1:MOBAUNG_3A); ; 17. DRIVER DU MED ORGANISERT TRENING (TRENING GJENNOM IDRETTSLAG ELLER FORENING)?
+
+
+| Category | n |
+| -------- | - |
+| NEI | 1450 |
+| JA | 5487 |
+| NEI, MEN GJORDE DET TIDLIGERE | 5148 |
+| Not NA | 12085 |
+| NA | 49 |
+
+
+### YC74
+C_17_2:MOBAUNG_3C; (C_17_2:MOBAUNG_3B); (C_17_2:MOBAUNG_3A); HVOR GAMMEL VAR DU DA DU SLUTTET MED ORGANISERT IDRETT? (Hvis "Nei, men gjorde det tidligere); 17. DRIVER DU MED ORGANISERT TRENING (TRENING GJENNOM IDRETTSLAG ELLER FORENING)?
+
+
+| Category | n |
+| -------- | - |
+| 12 ÅR | 511 |
+| 13 ÅR | 823 |
+| 10 ÅR | 157 |
+| 15 ÅR | 1518 |
+| 16 ÅR | 591 |
+| 14 ÅR | 1123 |
+| 11 ÅR | 220 |
+| 8 ÅR | 60 |
+| 7 ÅR | 23 |
+| 9 ÅR | 62 |
+| 6 ÅR | 12 |
+| UNDER 6 ÅR | 7 |
+| 17 ÅR | 14 |
+| Not NA | 5121 |
+| NA | 7013 |
+
+
+### YC75
+C_18:MOBAUNG_3C; (C_18:MOBAUNG_3B); (C_18:MOBAUNG_3A); ; 18. HVOR MANGE TIMER I UKA DELTAR DU AKTIVT I KROPPSØVINGSTIMENE PÅ SKOLEN?
+
+
+| Category | n |
+| -------- | - |
+| INGEN | 464 |
+| 1 TIME | 1498 |
+| 2 TIMER | 6722 |
+| 5 TIMER ELLER FLERE | 1264 |
+| 4 TIMER | 727 |
+| 3 TIMER | 961 |
+| Not NA | 11636 |
+| NA | 498 |
+
+
+### YC76
+C_19_1:MOBAUNG_3C; ; 19. SYKLER ELLER GÅR DU TIL SKOLEN OG/ELLER FRITIDSAKTIVITETER?
+
+
+| Category | n |
+| -------- | - |
+| NEI | 3964 |
+| JA | 4308 |
+| Not NA | 8272 |
+| NA | 3862 |
+
+
+### YC77
+C_19_2:MOBAUNG_3C; HVOR MANGE TIMER I UKEN HAR DU SYKLET ELLER GÅTT TIL SKOLEN OG/ELLER FRITIDSAKTIVITETER? (Hvis ja); 19. SYKLER ELLER GÅR DU TIL SKOLEN OG/ELLER FRITIDSAKTIVITETER?
+
+
+| Category | n |
+| -------- | - |
+| UNDER 1 TIME | 1024 |
+| 5 TIMER ELLER MER | 526 |
+| 3-4 TIMER | 935 |
+| 1-2 TIMER | 1763 |
+| Not NA | 4248 |
+| NA | 7886 |
+
+
+### YC78
+C_20_1:MOBAUNG_3C; (C_19_1:MOBAUNG_3B); (C_19_1:MOBAUNG_3A); Ved PC, TV, nettbrett, lesing, bil/buss/tog-kjøring o.l.; 20. OMTRENT HVOR MANGE TIMER SITTER DU I RO PÅ EN VANLIG HVERDAG (REGN MED BÅDE SKOLE OG FRITID)?
+
+
+| Key | Value |
+| --- | ----- |
+| 1 TIME | 61 |
+| 2 TIMER | 172 |
+| 3 TIMER | 408 |
+| 4 TIMER | 741 |
+| 5 TIMER | 1026 |
+| 6 TIMER | 1157 |
+| 7 TIMER | 1306 |
+| 8 TIMER | 1807 |
+| 9 TIMER | 1330 |
+| 10 TIMER | 1633 |
+| 11 TIMER | 485 |
+| 12 TIMER | 672 |
+| 13 TIMER | 268 |
+| 14 TIMER | 236 |
+| 15 TIMER | 158 |
+| 16 TIMER | 94 |
+| 17 TIMER | 52 |
+| 18 TIMER | 67 |
+| 19 TIMER | 35 |
+| 20 TIMER | 73 |
+| 21 TIMER | 25 |
+| 22 TIMER | 31 |
+| 23 TIMER | 14 |
+| 24 TIMER | 21 |
+| NA's | 262 |
+| Not NA | 11872 |
+
+
+### YC79
+C_20_2:MOBAUNG_3C; (C_19_2:MOBAUNG_3B); (C_19_2:MOBAUNG_3A); Ved PC, TV, nettbrett, lesing, bil/buss/tog-kjøring o.l.; 20. OMTRENT HVOR MANGE TIMER SITTER DU I RO PÅ EN FRIDAG?
+
+
+| Key | Value |
+| --- | ----- |
+| 1 TIME | 64 |
+| 2 TIMER | 161 |
+| 3 TIMER | 544 |
+| 4 TIMER | 1025 |
+| 5 TIMER | 1346 |
+| 6 TIMER | 1325 |
+| 7 TIMER | 1066 |
+| 8 TIMER | 1177 |
+| 9 TIMER | 772 |
+| 10 TIMER | 1396 |
+| 11 TIMER | 432 |
+| 12 TIMER | 746 |
+| 13 TIMER | 305 |
+| 14 TIMER | 328 |
+| 15 TIMER | 304 |
+| 16 TIMER | 196 |
+| 17 TIMER | 85 |
+| 18 TIMER | 100 |
+| 19 TIMER | 56 |
+| 20 TIMER | 150 |
+| 21 TIMER | 29 |
+| 22 TIMER | 71 |
+| 23 TIMER | 31 |
+| 24 TIMER | 93 |
+| NA's | 332 |
+| Not NA | 11802 |
+
+
+### YC80
+C_21:MOBAUNG_3C; (C_20:MOBAUNG_3B); (C_20:MOBAUNG_3A); ER SAMMEN MED VENNER; 21. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+
+
+| Category | n |
+| -------- | - |
+| 2-3 DAGER | 4396 |
+| 4-5 DAGER | 2094 |
+| ALDRI/SJELDEN | 1888 |
+| 6-7 DAGER | 1098 |
+| 1 DAG | 2594 |
+| Not NA | 12070 |
+| NA | 64 |
+
+
+### YC81
+C_22:MOBAUNG_3C; (C_21:MOBAUNG_3B); (C_21:MOBAUNG_3A); TRENER (F.EKS. FOTBALL, HÅNDBALL, SKI, LØPING, DANS, TURN); 22. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+
+
+| Category | n |
+| -------- | - |
+| ALDRI/SJELDEN | 3302 |
+| 1 DAG | 1329 |
+| 4-5 DAGER | 2269 |
+| 6-7 DAGER | 1554 |
+| 2-3 DAGER | 3598 |
+| Not NA | 12052 |
+| NA | 82 |
+
+
+### YC82
+C_23:MOBAUNG_3C; (C_22:MOBAUNG_3B); (C_22:MOBAUNG_3A); ANDRE ORGANISERTE AKTIVITETER (F.EKS. TEATER, MUSIKK, POLITIKK, FRIVILLIG ARBEID); 23. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+
+
+| Category | n |
+| -------- | - |
+| ALDRI/SJELDEN | 8642 |
+| 1 DAG | 1758 |
+| 2-3 DAGER | 1252 |
+| 4-5 DAGER | 233 |
+| 6-7 DAGER | 150 |
+| Not NA | 12035 |
+| NA | 99 |
+
+
+### YC83
+C_24:MOBAUNG_3C; (C_23:MOBAUNG_3B); (C_23:MOBAUNG_3A); ER HJEMME HELE ETTERMIDDAGEN OG KVELDEN; 24. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+
+
+| Category | n |
+| -------- | - |
+| 4-5 DAGER | 3196 |
+| 2-3 DAGER | 3933 |
+| ALDRI/SJELDEN | 1227 |
+| 1 DAG | 1596 |
+| 6-7 DAGER | 2108 |
+| Not NA | 12060 |
+| NA | 74 |
+
+
+### YC84
+C_25:MOBAUNG_3C; (C_24:MOBAUNG_3B); (C_24:MOBAUNG_3A); LESER BOK ELLER HØRER PÅ LYDBOK; 25. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+
+
+| Category | n |
+| -------- | - |
+| 1 DAG | 1737 |
+| 2-3 DAGER | 1458 |
+| 6-7 DAGER | 717 |
+| ALDRI/SJELDEN | 7413 |
+| 4-5 DAGER | 740 |
+| Not NA | 12065 |
+| NA | 69 |
+
+
+### YC85
+C_26:MOBAUNG_3C; (C_25:MOBAUNG_3B); (C_25:MOBAUNG_3A); JOBBER; 26. UTENOM SKOLETID: I LØPET AV EN UKE, HVOR MANGE DAGER GJØR DU VANLIGVIS FØLGENDE?
+
+
+| Category | n |
+| -------- | - |
+| 4-5 DAGER | 365 |
+| 2-3 DAGER | 1917 |
+| ALDRI/SJELDEN | 7459 |
+| 1 DAG | 2185 |
+| 6-7 DAGER | 124 |
+| Not NA | 12050 |
+| NA | 84 |
+
+
+### YC86
+C_27:MOBAUNG_3C; (C_26:MOBAUNG_3B); (C_26:MOBAUNG_3A); SER PÅ FILM/SERIER/TV; 27. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+
+
+| Category | n |
+| -------- | - |
+| 1-2 TIMER | 4928 |
+| UNDER 1 TIME | 2000 |
+| 3-4 TIMER | 3304 |
+| 7 TIMER ELLER MER | 376 |
+| 5-6 TIMER | 779 |
+| ALDRI/SJELDEN | 663 |
+| Not NA | 12050 |
+| NA | 84 |
+
+
+### YC87
+C_28:MOBAUNG_3C; (C_27:MOBAUNG_3B); (C_27:MOBAUNG_3A); GJØR LEKSER; 28. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+
+
+| Category | n |
+| -------- | - |
+| 1-2 TIMER | 4212 |
+| UNDER 1 TIME | 4362 |
+| 3-4 TIMER | 1267 |
+| ALDRI/SJELDEN | 1883 |
+| 5-6 TIMER | 219 |
+| 7 TIMER ELLER MER | 99 |
+| Not NA | 12042 |
+| NA | 92 |
+
+
+### YC88
+C_29:MOBAUNG_3C; (C_28:MOBAUNG_3B); (C_28:MOBAUNG_3A); SPILLER SPILL (PÅ PC, TV, NETTBRETT, MOBIL ETC.); 29. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+
+
+| Category | n |
+| -------- | - |
+| 1-2 TIMER | 2731 |
+| UNDER 1 TIME | 2949 |
+| ALDRI/SJELDEN | 3110 |
+| 3-4 TIMER | 1952 |
+| 7 TIMER ELLER MER | 556 |
+| 5-6 TIMER | 762 |
+| Not NA | 12060 |
+| NA | 74 |
+
+
+### YC89
+C_30:MOBAUNG_3C; (C_29:MOBAUNG_3B); (C_29:MOBAUNG_3A); SITTER/LIGGER MED PC, MOBIL, ELLER NETTBRETT (UANSETT AKTIVITET); 30. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+
+
+| Category | n |
+| -------- | - |
+| 1-2 TIMER | 2810 |
+| 3-4 TIMER | 4616 |
+| 5-6 TIMER | 2496 |
+| 7 TIMER ELLER MER | 1411 |
+| UNDER 1 TIME | 549 |
+| ALDRI/SJELDEN | 131 |
+| Not NA | 12013 |
+| NA | 121 |
+
+
+### YC90
+C_31:MOBAUNG_3C; (C_30:MOBAUNG_3B); (C_30:MOBAUNG_3A); KOMMUNISERER MED VENNER VED HJELP AV SOSIALE MEDIER; 31. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+
+
+| Category | n |
+| -------- | - |
+| UNDER 1 TIME | 2177 |
+| 1-2 TIMER | 3936 |
+| 3-4 TIMER | 3401 |
+| 5-6 TIMER | 1313 |
+| 7 TIMER ELLER MER | 875 |
+| ALDRI/SJELDEN | 350 |
+| Not NA | 12052 |
+| NA | 82 |
+
+
+### YC91
+C_32:MOBAUNG_3C; (C_31:MOBAUNG_3B); (C_31:MOBAUNG_3A); ER UTENDØRS (UANSETT AKTIVITET); 32. UTENOM SKOLETID: HVOR LANG TID BRUKER DU VANLIGVIS I LØPET AV EN UKEDAG (HVERDAG) PÅ FØLGENDE AKTIVITETER?
+
+
+| Category | n |
+| -------- | - |
+| ALDRI/SJELDEN | 579 |
+| 1-2 TIMER | 5128 |
+| 3-4 TIMER | 2368 |
+| UNDER 1 TIME | 3031 |
+| 5-6 TIMER | 616 |
+| 7 TIMER ELLER MER | 299 |
+| Not NA | 12021 |
+| NA | 113 |
+
+
+### AGE_YRS_YC1
+AGE_YRS_YC1; MOBAUNG_3C; (MOBAUNG_3B); (MOBAUNG_3A); BARNETS ALDER I ÅR VED UTFYLLING AV SKJEMA PÅ NETT; 0. 
+
+
+| Category | n |
+| -------- | - |
+| 16 | 11665 |
+| 17 | 469 |
+| Not NA | 12134 |
+| NA | 0 |
+
+
