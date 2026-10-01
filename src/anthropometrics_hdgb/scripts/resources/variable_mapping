@@ -1733,7 +1733,7 @@ WF_Klinikkskjema_v12	VERSJON_WFKLINIKK_TBL1	qWfKlinikk_version	admin
 Ultralyd	VERSJON_ULSKJEMA_TBL1	ultrasound_form_version	admin
 Ultralyd	P_PILLEBRUK_6MND	birth_control_previous_6m	ultrasound
 Ultralyd	ROKER	smoker	ultrasound
-Ultralyd	ROKER_ANT	cugarettes_per_day	ultrasound
+Ultralyd	ROKER_ANT	cigarettes_per_day	ultrasound
 Ultralyd	VARIGHET_UKER	duration_weeks	ultrasound
 Ultralyd	VARIGHET_DAGER	duration_days	ultrasound
 Ultralyd	US_DUE_DATE_AGE	child_age_at_ultrasound_appointment	ultrasound
